@@ -1,0 +1,51 @@
+{
+  "name": "scottwillsey3.0",
+  "version": "0.0.1",
+  "description": "Astro 3 version of ScottWillsey.com",
+  "scripts": {
+    "dev": "export NODE_ENV=development && astro dev",
+    "dev:h": "export NODE_ENV=development && astro dev --host",
+    "start": "npm run dev",
+    "start:h": "npm run dev:h",
+    "build": "export NODE_ENV=production && astro build",
+    "build:p": "npm run build && npm run preview",
+    "build:ph": "npm run build && npm run preview:h",
+    "preview": "astro preview",
+    "preview:h": "astro preview --host"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottaw66/scottwillsey3.0.git"
+  },
+  "keywords": [
+    "astro",
+    "blog",
+    "site",
+    "scottwillsey"
+  ],
+  "author": "Scott Willsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottaw66/scottwillsey3.0/issues"
+  },
+  "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
+  "dependencies": {
+    "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^3.0.0",
+    "@fontsource/ibm-plex-sans": "^5.0.11",
+    "astro": "^3.0.8",
+    "astro-expressive-code": "^0.22.2",
+    "astro-icon": "^0.8.1",
+    "date-fns": "^2.30.0",
+    "date-fns-tz": "^2.0.0",
+    "normalize.css": "^8.0.1",
+    "sanitize-html": "^2.11.0"
+  },
+  "devDependencies": {
+    "astro-eslint-parser": "^0.15.0",
+    "eslint": "^8.48.0",
+    "eslint-plugin-astro": "^0.29.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-astro": "^0.12.0"
+  }
+}
