@@ -1,0 +1,62 @@
+---
+import { Icon } from "astro-icon";
+import { Image } from "astro:assets";
+import av from "../assets/images/saw111.jpg";
+---
+
+<div class="header">
+  <div class="title">
+    <div><a href="/">sc</a></div>
+    <div class="title-image">
+      <a href="/">
+        <Image src={av} width={120} format={"webp"} alt="Scott avatar" />
+      </a>
+    </div>
+    <div><a href="/">ttWillsey</a></div>
+  </div>
+  <div id="menu-link-div" class="menu-link">
+    <a href="#main-nav"><Icon id="menu-icon" name="fluent:list-28-filled" /></a>
+  </div>
+</div>
+
+<style>
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: 2rem auto 2.5rem;
+    color: var(--brand);
+  }
+
+  .header div.title {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: fit-content(33%) fit-content(33%) fit-content(33%);
+    font-family: CaptainEdward-Bold;
+    font-size: clamp(2rem, 4.5vw + 1rem, 7rem);
+    padding: 0;
+    margin: 0 auto 0.5rem;
+    width: fit-content;
+  }
+
+  .header div.title-image {
+    padding-top: 0.35rem;
+  }
+
+  .header div.title-image img {
+    border-radius: 50%;
+    border: 2px solid var(--brand);
+    width: clamp(1.4rem, 3.25vw + 1rem, 5.5rem);
+    height: clamp(1.4rem, 3.25vw + 1rem, 5.5rem);
+  }
+
+  .header div.title a {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .menu-link [astro-icon] {
+    width: clamp(1rem, 2vw + 1rem, 2.5rem);
+  }
+</style>

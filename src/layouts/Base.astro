@@ -3,6 +3,7 @@ import { Icon } from "astro-icon";
 import { ViewTransitions } from 'astro:transitions';
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import site from "../data/site.json"
 import "../styles/sw3.css";
 
 export interface Props {
@@ -72,13 +73,13 @@ const { title, description } = Astro.props;
                 <div class="menu-text">SERIES</div>
               </div>
             </a>
-            <a href={config.social.threads}>
+            <a href={site.social.threads}>
               <div class="menu-item">
                 <div class="menu-icon"><Icon name="noto:sewing-needle" /></div>
                 <div class="menu-text">THREADS</div>
               </div>
             </a>
-            <a href={config.social.mastodon}>
+            <a href={site.social.mastodon}>
               <div class="menu-item">
                 <div class="menu-icon">
                   <Icon name="simple-icons:mastodon" />
@@ -86,7 +87,7 @@ const { title, description } = Astro.props;
                 <div class="menu-text">MASTO</div>
               </div>
             </a>
-            <a href={config.social.github}>
+            <a href={site.social.github}>
               <div class="menu-item">
                 <div class="menu-icon"><Icon name="simple-icons:github" /></div>
                 <div class="menu-text">GITHUB</div>

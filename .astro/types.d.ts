@@ -168,16 +168,58 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		
-	};
-
-	type DataEntryMap = {
 		"posts": {
+"astro-expressive-code.md": {
+	id: "astro-expressive-code.md";
+  slug: "astro-expressive-code";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"astro-markdown-image-story.md": {
+	id: "astro-markdown-image-story.md";
+  slug: "astro-markdown-image-story";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"hypercritical-theme.md": {
+	id: "hypercritical-theme.md";
+  slug: "hypercritical-theme";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"podcasting-setup-hardware.md": {
+	id: "podcasting-setup-hardware.md";
+  slug: "podcasting-setup-hardware";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"raycast.md": {
+	id: "raycast.md";
+  slug: "raycast";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"raycasting.md": {
+	id: "raycasting.md";
+  slug: "raycasting";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 };
 
 	};
 
+	type DataEntryMap = {
+		
+	};
+
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	type ContentConfig = never;
+	type ContentConfig = typeof import("../src/content/config.mjs");
 }
