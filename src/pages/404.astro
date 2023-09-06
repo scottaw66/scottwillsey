@@ -1,0 +1,70 @@
+---
+import config from "config";
+import { Icon } from "astro-icon";
+import { Image } from "@astrojs/image/components";
+import Base from "../layouts/Base.astro";
+import Search from "../components/Search.astro";
+import TagCloud from "../components/TagCloud.astro";
+
+import cat from "../images/cat.svg";
+
+let title = "404 - " + config.get("title");
+let description = "Not all who seek find";
+---
+
+<Base title={title} description={description}>
+  <div class="fourohfour">
+    <h1 class="fourohfour">I CAN HAZ 404?!?</h1>
+    <Image src={cat} alt="404" width="400" height="400" />
+  </div>
+  <Search />
+  <article data-pagefind-ignore>
+    <div class="tagcloud">
+      <span><Icon name="uiw:tags" />Some Tags</span>
+      <TagCloud showCount="true" displayNumber="11" />
+    </div>
+  </article>
+</Base>
+<style>
+  div.fourohfour {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: fit-content;
+    margin: 0 auto;
+  }
+  div.fourohfour img {
+    margin-right: 3rem;
+  }
+  div.search {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+  }
+  @media only screen and (max-width: 699px) {
+    img {
+      width: 280px;
+      margin: 0;
+      padding: 0;
+    }
+    div.caption {
+      padding: 1rem;
+    }
+  }
+  @media only screen and (max-width: 370px) {
+    img {
+      width: 200px;
+      margin: 0;
+      padding: 0;
+    }
+    div.caption {
+      padding: 0.5rem 0 1rem;
+    }
+  }
+  [astro-icon="uiw:tags"] {
+    width: 3em;
+    margin-right: 0.5em;
+  }
+</style>

@@ -1,0 +1,20 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+import Post from "../components/Post.astro";
+import { titleCase } from "../components/utilities/StringFormat";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+---
+
+<Base title={titleCase(post.data.title)} description={post.data.description}>
+  <Post post={post} />
+</Base>

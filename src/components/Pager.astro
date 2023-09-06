@@ -1,0 +1,80 @@
+---
+const { page } = Astro.props;
+const firstOffset = page.currentPage > 1 ? page.currentPage - 1 : 0;
+const lastOffset =
+  page.currentPage < page.lastPage ? page.lastPage - page.currentPage : 0;
+---
+
+<nav id="pager">
+  {
+    firstOffset > 1 ? (
+      <div>
+        <a href="/1">&lt;&lt;</a>
+      </div>
+    ) : null
+  }
+  {
+    page.url.prev ? (
+      <>
+        <div>
+          <a href={page.url.prev}>&lt;</a>
+        </div>
+        <div>
+          <a href={page.url.prev}>{page.currentPage - 1}</a>
+        </div>
+      </>
+    ) : null
+  }
+  <div class="current">{page.currentPage}</div>
+  {
+    page.url.next ? (
+      <>
+        <div>
+          <a href={page.url.next}>{page.currentPage + 1}</a>
+        </div>
+        <div>
+          <a href={page.url.next}>&gt;</a>
+        </div>
+      </>
+    ) : null
+  }
+  {
+    lastOffset > 1 ? (
+      <div>
+        <a href={`/${page.lastPage}`}>&gt;&gt;</a>
+      </div>
+    ) : null
+  }
+</nav>
+<style>
+  nav#pager {
+    display: grid;
+    grid-auto-flow: column;
+    margin: 0 auto;
+    width: fit-content;
+    align-items: center;
+    justify-items: center;
+    gap: 0.5rem;
+  }
+  nav#pager div {
+    border: 1px solid var(--brand);
+    border-radius: 20%;
+    padding: 0.25rem 0.75rem;
+  }
+  nav#pager div:hover {
+    background-color: var(--accent6);
+    border-color: var(--brand);
+    font-weight: 700;
+  }
+  nav#pager div:hover a {
+    color: var(--text3);
+  }
+  nav#pager div a {
+    text-decoration: none;
+  }
+  nav#pager div.current {
+    border: none;
+    background-color: var(--surface1);
+    font-weight: inherit;
+  }
+</style>

@@ -1,0 +1,118 @@
+---
+import { Icon } from "astro-icon";
+import { Image } from "astro:assets";
+import Base from "../layouts/Base.astro";
+import site from "../data/site.json"
+
+import av from "../assets/images/ScottLatest.jpg";
+
+let title = "About Me - " + site.title;
+let description = "About Scott Willsey";
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>About Me</h1>
+
+    <Image
+      class="about-av"
+      src={av}
+      width={600}
+      format={"webp"}
+      alt="Scott Willsey"
+      quality={85}
+    />
+
+    <p>Hello, friend.</p>
+
+    <p>
+      I spent my formative years living in <a
+        href="https://www.kagoshima-yokanavi.jp/en"
+        >Kagoshima City
+      </a>, Japan, a rare gaijin at that time and place. <a
+        href="https://en.wikipedia.org/wiki/Sakurajima"
+        >Sakurajima
+      </a> dumped ash on us regularly, proving that its reputation as one of the
+      world’s most active volcanoes is no lie, and earthquakes and typhoons were
+      part of the package.
+    </p>
+
+    <p>
+      For me, there was no better place to spend my youth. I learned another
+      language, and more importantly, another way of thinking.
+    </p>
+
+    <p>
+      My interest in computing technology was born in Japan as well. My brother
+      scrounged parts off an IBM employee he was friends with and built homebrew
+      systems that he programmed in binary and hex. We played with Japanese
+      computers and the <a href="http://oldcomputers.net/appleii.html"
+        >Apple II
+      </a>. I learned to type thanks to game code listings in magazines like <a
+        href="http://www.softalkapple.com/"
+        >Softalk
+      </a>.
+    </p>
+
+    <p>
+      My first personally owned computer was the original
+      <a href="https://www.apple-history.com/128k">128k Macintosh</a> which my
+      dad bought for me. Today I’m still a Mac user, but I also spent a lot of
+      years on PCs and I still use them at work.
+    </p>
+
+    <p>
+      This site is for me to talk about automation and geekiness for both Mac
+      and iOS platforms – Shortcuts, apps, secret terminal incantations, and
+      more.
+    </p>
+
+    <p>
+      I've done a few podcasts over the years, none of which were wildly
+      successful, but I keep doing them anyway. Currently I host <a
+        href="https://friendswithbrews.com">Friends with Brews podcast</a
+      > with my amazing friend <a href="https://infosec.exchange/@nikolaidis"
+        >Peter Nikolaidis</a
+      >, and <a href="https://isthistheshow.cyou">Is This the Show?</a> with <a
+        href="https://mastodon.art/@cwdaly">Clay Daly</a
+      > and <a href="https://engineered.space/users/chidgey">John Chidgey</a>.
+    </p>
+
+    <p>
+      My happiness in life is due to my wife and daughter. They are amazing. And
+      also due to my cat, who is a feisty little fighter.
+    </p>
+
+    <p>
+      You can contact me on <a
+        rel="me"
+        href="https://www.threads.net/@scott.willsey"
+        ><Icon name="noto:sewing-needle" /> Threads</a
+      >
+       or <a rel="me" href="https://appdot.net/@scottaw"
+        ><Icon name="simple-icons:mastodon" /> Mastodon</a
+      >.
+    </p>
+  </article>
+</Base>
+<style>
+  img.about-av {
+    border-radius: 50%;
+    border: 3px solid var(--accent1);
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+  }
+  p:first-of-type {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  p:last-of-type {
+    font-style: italic;
+  }
+  [astro-icon] {
+    width: 1.5rem;
+    margin-bottom: -0.25rem;
+  }
+</style>

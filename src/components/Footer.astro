@@ -1,0 +1,46 @@
+---
+import { year } from "../components/utilities/DateFormat.js";
+import site from "../data/site.json";
+---
+
+<div class="footer">
+  <div class="astrobuild">
+    <a href="https://astro.build"
+      ><img
+        src="https://astro.badg.es/v1/built-with-astro.svg"
+        alt="Built with Astro"
+        width="150"
+        height="27.5"
+      />
+    </a>
+  </div>
+  <div class="footer-copyright">
+    &copy; {year}&nbsp;{site.name}
+  </div>
+</div>
+
+<style>
+  .footer {
+    max-width: 90ch;
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5em;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .footer-copyright {
+    color: var(--accent3);
+    font-size: 0.6rem;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+  }
+
+  div.astrobuild {
+    padding: 0;
+  }
+</style>
