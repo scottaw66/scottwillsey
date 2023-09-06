@@ -32,7 +32,6 @@
   "dependencies": {
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.0",
-    "@fontsource/ibm-plex-sans": "^5.0.11",
     "astro": "^3.0.8",
     "astro-expressive-code": "^0.22.2",
     "astro-icon": "^0.8.1",
