@@ -1,0 +1,23 @@
+{
+  "subject": "acct:scottaw@appdot.net",
+  "aliases": [
+    "https://appdot.net/@scottaw",
+    "https://appdot.net/users/scottaw"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://appdot.net/@scottaw"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://appdot.net/users/scottaw"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://appdot.net/authorize_interaction?uri={uri}"
+    }
+  ]
+}
