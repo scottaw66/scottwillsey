@@ -1,0 +1,80 @@
+---
+import { getCollection } from "astro:content";
+import { Icon } from "astro-icon";
+import { slugify } from "./utilities/StringFormat.js";
+
+const allPosts = await getCollection("posts");
+const allTags = allPosts.map((tag) => tag.data.keywords).flat();
+
+const processedTags = allTags.reduce((acc, tag) => {
+  const value = acc[tag] || 0;
+
+  const pTags = {
+    ...acc,
+    [tag]: value + 1,
+  };
+
+  const sortedTags = Object.fromEntries(
+    Object.entries(pTags).sort((a, b) => b[1] - a[1]),
+  );
+
+  return sortedTags;
+}, {});
+
+const { showCount, displayNumber } = Astro.props;
+---
+
+<span class="categories">
+  {
+    Object.entries(processedTags)
+      .map(([key, val]) => (
+        <a class="badge" href={`/tags/${slugify(key)}/`}>
+          {key} {showCount && `(${val})`}
+        </a>
+      ))
+      .slice(0, displayNumber)
+  }
+  {
+    displayNumber < 999 ? (
+      <a href="/tags/">
+        All Tags ... <Icon name="ph:arrow-circle-right-bold" />
+      </a>
+    ) : null
+  }
+</span>
+<style>
+  span.categories {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  span.categories a {
+    background-color: var(--surface-menu);
+    color: var(--color-gray-800);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid var(--brand);
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  span.categories a:hover {
+    background-color: var(--brand);
+    color: #fff;
+  }
+  [astro-icon] {
+    width: 1.5rem;
+    margin-bottom: -0.3rem;
+  }
+
+  @media screen and (max-width: 500px) {
+    span.categories a {
+      font-size: 0.75rem;
+    }
+    [astro-icon] {
+      width: 1rem;
+      margin-bottom: -0.2rem;
+    }
+  }
+</style>

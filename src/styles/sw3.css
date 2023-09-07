@@ -412,7 +412,7 @@ article img {
   margin: 2rem auto;
   max-width: 820px;
   height: auto;
-  border: 2px solid var(--accent1);
+  border: 1px solid var(--accent1);
   border-radius: 0.3rem;
   content-visibility: auto;
 }

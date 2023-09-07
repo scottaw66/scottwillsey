@@ -1,0 +1,105 @@
+---
+import { Icon } from "astro-icon";
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import { postdate } from "../../components/utilities/DateFormat.js";
+import { titleCase } from "../../components/utilities/StringFormat.js";
+
+export async function getStaticPaths({}) {
+  const allPosts = await getCollection("posts");
+  const sortedPosts = allPosts.sort(
+    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
+  );
+  const allTags = new Set();
+  sortedPosts.map((post) => {
+    post.data.keywords && post.data.keywords.map((tag) => allTags.add(tag));
+  });
+
+  return Array.from(allTags).map((tag) => {
+    const filteredPosts = sortedPosts.filter((post) =>
+      post.data.keywords.includes(tag),
+    );
+    return {
+      params: { tag },
+      props: {
+        posts: filteredPosts,
+      },
+    };
+  });
+}
+
+const { posts } = Astro.props;
+const { tag } = Astro.params;
+
+let title = tag;
+let description = "Posts with tag " + tag + ".";
+---
+
+<Base title={title} description={description}>
+  <article data-pagefind-ignore>
+    <h1>
+      <Icon name="uiw:tag" />
+      <a href={`/tags/${tag}`}>{title}</a>
+    </h1>
+    <section aria-label="Blog post list">
+      {
+        posts.map((post) => (
+          <header>
+            <h4>
+              <a href={`/${post.slug}`}>
+                {titleCase(post.data.title)}
+              </a>
+            </h4>
+            <div class="cal">
+              <Icon pack="bi" name="calendar2-week-fill" />
+              <time datetime={post.data.date}>
+                <a href={`/${post.slug}`}>
+                  {postdate(post.data.date)}
+                </a>
+              </time>
+            </div>
+            <div class="description">{post.data.description}</div>
+          </header>
+        ))
+      }
+      <p class="posts-link">
+        <a href="/tags"><Icon name="mdi:tag-plus" /> Browse all tags</a>
+      </p>
+    </section>
+  </article>
+</Base>
+
+<style>
+  header {
+    background-color: var(--surface-menu);
+    border-radius: 0.5rem;
+    padding: 0.5rem 2rem;
+    margin: 1rem 0;
+  }
+  h4 {
+    margin: 0.3em 0;
+  }
+  div.cal,
+  div.cal a {
+    font-weight: bold;
+    font-size: 0.75em;
+    color: var(--accent1);
+  }
+  div.description {
+    font-size: 0.75em;
+    margin: 0.3em 0;
+  }
+  p.posts-link {
+    margin: 1.5em;
+  }
+  [astro-icon="uiw:tag"] {
+    width: 1em;
+    margin: 0 0.5em -0.25em 0;
+  }
+  [astro-icon="bi:calendar2-week-fill"] {
+    width: 0.75em;
+  }
+  [astro-icon="mdi:tag-plus"] {
+    width: 0.75em;
+  }
+</style>

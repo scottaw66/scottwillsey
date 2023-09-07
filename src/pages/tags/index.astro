@@ -1,0 +1,30 @@
+---
+import { Icon } from "astro-icon";
+import Base from "../../layouts/Base.astro";
+import TagCloud from "../../components/TagCloud.astro";
+import site from "../../data/site.json"
+
+let title = "Tags - " + site.title
+let description = "Tags used in posts on " + site.title + ".";
+---
+
+<Base title={title} description={description}>
+  <article data-pagefind-ignore>
+    <span id="tag-cloud">
+      <h1><Icon name="uiw:tags" /><a href="/tags">Tags</a></h1>
+      <div class="cloud">
+        <TagCloud showCount="true" displayNumber="999" />
+      </div>
+    </span>
+  </article>
+</Base>
+
+<style>
+  div.cloud {
+    margin: 3em 1em;
+  }
+  [astro-icon="uiw:tags"] {
+    width: 1.5em;
+    margin: 0 0.3em -0.5em 0;
+  }
+</style>

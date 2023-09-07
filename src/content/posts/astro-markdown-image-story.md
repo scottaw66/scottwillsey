@@ -37,7 +37,7 @@ import somethingSomething from "/images/posts/somethingsomething.png";
 I don't want to remember that. I never want to think about that at all. I want to put an image link in using standard markdown and have Astro do all that for me.
 
 ```markdown
-![This is a lot of work just to drop an image in a blog post](/images/posts/somethingsomething.png)
+[![This is a lot of work just to drop an image in a blog post](../../assets/images/posts/somethingsomething.png)](/images/posts/somethingsomething.png)
 ```
 
 I have two pieces of good news for you if you're in the same boat as me:

@@ -11,7 +11,7 @@ slug: "podcasting-setup-hardware"
 
 My friend Donnie Adams asked me on Mastodon if I've ever written anything about my podcasting setup and recording and editing workflow. The answer is... I don't think so. Even if I did, whatever I wrote is out of date and not online anymore anyway. So in 2023, here's my basic podcasting setup hardware.
 
-![My computer desk with MacBook Pro, Studio Monitor, and accessories](/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)
+[![My computer desk with MacBook Pro, Studio Monitor, and accessories](../../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)](/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)
 
 ## Mic
 
@@ -19,7 +19,7 @@ Mics are very subjective, and a mic that works well for one voice might not work
 
 My mic is the [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A). I like the fact that it has the benefits of a condenser mic while also having good drop-off so that it doesn't pick up every spec of dust hitting something somewhere in outer space.[^1]
 
-![My Shure Beta 87A](/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg)
+[![My Shure Beta 87A](../../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg)](/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg)
 
 Personally I don't recommend USB mics and I don't recommend most of the mics marketed towards podcasters. Don't get a Yeti. Don't get a Snowball. Don't get a Rode Podcaster or Procaster.[^2]
 
@@ -41,13 +41,13 @@ With a capacitive touch-to-mute function, plenty of gain, software settings incl
 
 If you do in-person recording with a co-host, you may need an interface with multiple mic inputs. If not, the Elgato Wave XLR is perfect for podcasting.
 
-![My Elgato Wave XLR audio interface](/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg)
+[![My Elgato Wave XLR audio interface](../../assets/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg)](/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg)
 
 ## Computer
 
 My computer is a 14" 2021 MacBook Pro M1 Pro with 16 GB of RAM, a 1TB SSD, 10 core CPU, and 16 core GPU. Those memory, SSD, and CPU/GPU specs are the absolute minimum I would ever go with, but for the money this is by far the most amazing computer I've ever owned. It eats giant number-crunching chores for breakfast and never gets hot. The only time I can warm it up even remotely is when generating transcripts of podcast episodes with [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper).
 
-![My 14" 2021 MacBook Pro M1 Pro](/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png)
+[![My 14" 2021 MacBook Pro M1 Pro](../../assets/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png)](/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png)
 
 When I have 5 or 6 tracks of audio in Logic Pro, all split up with silences stripped, it can get really slow to respond to selections and movements, especially for longer episodes. I attribute this to the 16GB of RAM. Previously I had 32GB in my iMac, but that was because I could add and remove RAM with ease. That's obviously not the case with the MacBook Pro, so go for as much as you can afford.
 
@@ -65,7 +65,7 @@ Look, I don't know why PCs continue to have such horrendous monitors (especially
 
 I love my clacky keyboard. It's a [Keychron K2 wireless](https://www.amazon.com/gp/product/B07YB32H52/) (but I run it wired) with an [Artifact Bloom Series Ocean Wave Keycap Set](https://drop.com/buy/artifact-bloom-series-keycap-set-ocean-wave) from Drop.com. I have some other custom keycaps but I love the blue of these, especially with the keyboard set to a light blue backlight.
 
-![My Keychron K2 with Ocean Wave keycap set](/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg)
+[![My Keychron K2 with Ocean Wave keycap set](../../assets/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg)](/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg)
 
 ## Mouse and Trackpad
 

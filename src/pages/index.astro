@@ -4,7 +4,6 @@ import { Icon } from "astro-icon";
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
-import path from "path";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { titleCase } from "../components/utilities/StringFormat.js";
 import site from "../data/site.json";
@@ -62,28 +61,14 @@ let description = site.description;
           indexPosts.map((post) => (
             <header>
               <h2>
-                <a
-                  href={
-                    new URL(
-                      path.join(site.posts.path, post.slug),
-                      site.url,
-                    )
-                  }
-                >
+                <a href={`/${post.slug}`}>
                   {titleCase(post.data.title)}
                 </a>
               </h2>
               <div class="time">
                 <Icon pack="bi" name="calendar2-week-fill" />
                 <time datetime={post.data.date}>
-                  <a
-                    href={
-                      new URL(
-                        path.join(site.posts.path, post.slug),
-                        site.url,
-                      )
-                    }
-                  >
+                  <a href={`/${post.slug}`}>
                     {postdate(post.data.date)}
                   </a>
                 </time>

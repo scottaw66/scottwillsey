@@ -20,7 +20,7 @@ const { title, description } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
-    <ViewTransitions />
+    <!-- <ViewTransitions /> -->
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
@@ -126,81 +126,88 @@ const { title, description } = Astro.props;
               </button>
             </div>
             <script is:inline>
-              const themeToggle = document.getElementById("theme-toggle");
-              let currentTheme = localStorage.getItem("theme");
-              switch (currentTheme) {
-                case "light":
-                  enableLightTheme();
-                  break;
-                case "hypercritical":
-                  enableHypercriticalTheme();
-                  break;
-                case "dark":
-                  enableDarkTheme();
-                  break;
-                default:
-                  enableDarkTheme();
-                  break;
-              }
+              const setTheme = () => {
+                const themeToggle = document.getElementById("theme-toggle");
 
-              themeToggle.addEventListener("click", () => {
-                if (document.documentElement.hasAttribute("data-theme")) {
-                  currentTheme =
-                    document.documentElement.getAttribute("data-theme");
+                let currentTheme = localStorage.getItem("theme");
+                switch (currentTheme) {
+                  case "light":
+                    enableLightTheme();
+                    break;
+                  case "hypercritical":
+                    enableHypercriticalTheme();
+                    break;
+                  case "dark":
+                    enableDarkTheme();
+                    break;
+                  default:
+                    enableDarkTheme();
+                    break;
                 }
-                toggleTheme(currentTheme);
-              });
 
-              function enableDarkTheme() {
-                document.documentElement.setAttribute("data-theme", "dark");
-                localStorage.setItem("theme", "dark");
-                document.getElementById("sun-icon").style.display = "none";
-                document.getElementById("moon-icon").style.display = "inline";
-                document.getElementById("hypercritical-icon").style.display =
-                  "none";
-              }
-
-              function enableLightTheme() {
-                document.documentElement.setAttribute("data-theme", "light");
-                localStorage.setItem("theme", "light");
-                document.getElementById("moon-icon").style.display = "none";
-                document.getElementById("sun-icon").style.display = "inline";
-                document.getElementById("hypercritical-icon").style.display =
-                  "none";
-              }
-
-              function enableHypercriticalTheme() {
-                document.documentElement.setAttribute(
-                  "data-theme",
-                  "hypercritical",
-                );
-                localStorage.setItem("theme", "hypercritical");
-                document.getElementById("moon-icon").style.display = "none";
-                document.getElementById("sun-icon").style.display = "none";
-                document.getElementById("hypercritical-icon").style.display =
-                  "inline";
-              }
-
-              function toggleTheme(currentTheme) {
-                if (currentTheme) {
-                  switch (currentTheme) {
-                    case "light":
-                      enableDarkTheme();
-                      break;
-                    case "hypercritical":
-                      enableLightTheme();
-                      break;
-                    case "dark":
-                      enableHypercriticalTheme();
-                      break;
-                    default:
-                      enableDarkTheme();
-                      break;
+                themeToggle.addEventListener("click", () => {
+                  if (document.documentElement.hasAttribute("data-theme")) {
+                    currentTheme =
+                      document.documentElement.getAttribute("data-theme");
                   }
-                } else {
-                  enableDarkTheme();
+                  toggleTheme(currentTheme);
+                });
+
+                function enableDarkTheme() {
+                  document.documentElement.setAttribute("data-theme", "dark");
+                  localStorage.setItem("theme", "dark");
+                  document.getElementById("sun-icon").style.display = "none";
+                  document.getElementById("moon-icon").style.display = "inline";
+                  document.getElementById("hypercritical-icon").style.display =
+                    "none";
+                }
+
+                function enableLightTheme() {
+                  document.documentElement.setAttribute("data-theme", "light");
+                  localStorage.setItem("theme", "light");
+                  document.getElementById("moon-icon").style.display = "none";
+                  document.getElementById("sun-icon").style.display = "inline";
+                  document.getElementById("hypercritical-icon").style.display =
+                    "none";
+                }
+
+                function enableHypercriticalTheme() {
+                  document.documentElement.setAttribute(
+                    "data-theme",
+                    "hypercritical",
+                  );
+                  localStorage.setItem("theme", "hypercritical");
+                  document.getElementById("moon-icon").style.display = "none";
+                  document.getElementById("sun-icon").style.display = "none";
+                  document.getElementById("hypercritical-icon").style.display =
+                    "inline";
+                }
+
+                function toggleTheme(currentTheme) {
+                  if (currentTheme) {
+                    switch (currentTheme) {
+                      case "light":
+                        enableDarkTheme();
+                        break;
+                      case "hypercritical":
+                        enableLightTheme();
+                        break;
+                      case "dark":
+                        enableHypercriticalTheme();
+                        break;
+                      default:
+                        enableDarkTheme();
+                        break;
+                    }
+                  } else {
+                    enableDarkTheme();
+                  }
                 }
               }
+
+              setTheme();
+              
+              document.addEventListener('astro:after-swap', setTheme);
             </script>
           </div>
         </nav>

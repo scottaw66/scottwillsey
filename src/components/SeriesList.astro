@@ -1,0 +1,58 @@
+---
+import { Icon } from "astro-icon";
+import { postdate } from "./utilities/DateFormat.js";
+import { slugify } from "./utilities/StringFormat.js";
+import { titleCase } from "./utilities/StringFormat.js";
+
+const { series, posts } = Astro.props;
+const filteredPosts = posts.filter((post) => post.data.series !== undefined && (slugify(post.data.series) === slugify(series)));
+---
+<section aria-label="Series list">
+  <h2><a href={`/series/${slugify(series)}/`}>{series}</a></h2>
+        <header>
+          {filteredPosts.sort((a, b) => a.data.date - b.data.date)
+            .map((post) => (
+              <h4>
+                <a href={`/${post.slug}`}>
+                  {titleCase(post.data.title)}
+                </a>
+              </h4>
+              <div class="cal">
+              <Icon pack="bi" name="calendar2-week-fill" />
+              <time datetime={post.data.date}>
+                <a href={`/${post.slug}`}>
+                  {postdate(post.data.date)}
+                </a>
+              </time>
+            </div>
+            <div class="description">{post.data.description}</div>
+            ))}
+        </header>
+</section>
+<style>
+  header {
+    background-color: var(--surface-menu);
+    border-radius: 0.5rem;
+    padding: 0.5rem 2rem;
+    margin: 1rem 0;
+  }
+  h4 {
+    margin: 0.3em 0;
+  }
+  div.cal,
+  div.cal a {
+    font-weight: bold;
+    font-size: 0.75em;
+    color: var(--accent1);
+  }
+  div.description {
+    font-size: 0.75em;
+    margin: 0.3em 0 2em;
+  }
+  div.description:last-child {
+    margin-bottom: 0.5em;
+  }
+  [astro-icon="bi:calendar2-week-fill"] {
+    width: 0.75em;
+  }
+</style>

@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content";
+import { Icon } from "astro-icon";
+import Base from "../../layouts/Base.astro";
+import SeriesList from "../../components/SeriesList.astro";
+import site from "../../data/site.json"
+
+const allPosts = await getCollection("posts");
+const allSeries = allPosts
+  .map((post) => post.data.series)
+  .filter((series) => series !== undefined)
+  .filter((series, index, self) => self.indexOf(series) === index)
+  .sort();
+
+let title = "Series - " + site.title;
+let description = "Series of related posts on " + site.title + ".";
+---
+
+<Base title={title} description={description}>
+  <article data-pagefind-ignore>
+    <span id="series-list">
+      <h1><Icon name="mdi:plus-box-multiple" /><a href="/series">Series</a></h1>
+      <div class="series">
+        {
+          allSeries.map((series) => (
+            <SeriesList series={series} posts={allPosts} />
+          ))
+        }
+      </div>
+    </span>
+  </article>
+</Base>
+
+<style>
+  div.series {
+    margin: 3em 1em;
+  }
+  span#series-list [astro-icon="mdi:plus-box-multiple"] {
+    width: 1.5em;
+    margin: 0 0.3em -0.5em 0;
+  }
+</style>
