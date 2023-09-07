@@ -35,6 +35,7 @@
     "astro": "^3.0.10",
     "astro-expressive-code": "^0.22.2",
     "astro-icon": "^0.8.1",
+    "astro-pagefind": "^1.2.3",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
     "normalize.css": "^8.0.1",

@@ -1,0 +1,20 @@
+---
+import Search from "astro-pagefind/components/Search";
+---
+
+<div class="search-component">
+  <Search id="search" className="pagefind-ui" />
+</div>
+
+<style>
+  div.search-component {
+    max-width: 70ch;
+    margin: 0 auto;
+  }
+  @media screen and (max-width: 780px) {
+    div.search-component {
+      max-width: 90vw;
+      margin: 0 auto;
+    }
+  }
+</style>
