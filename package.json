@@ -38,6 +38,7 @@
     "astro-pagefind": "^1.2.3",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
+    "markdown-it": "^13.0.1",
     "normalize.css": "^8.0.1",
     "sanitize-html": "^2.11.0"
   },

@@ -36,11 +36,11 @@ export function titleCase(str) {
 
 export function globalImageUrls(baseUrl, str) {
   let regex =
-    /<img src="\/images\/([^"]+)\/([^"]+\.(?:jpg|jpeg|gif|png))"(?: alt="([^"]*)")?\s?\/?>/g;
+    /src="\/_astro\/([^"]+\.(?:jpg|jpeg|gif|png|webp|avif))"/g;
   // replace all image urls with the correct path
   return str
-    .replaceAll(regex, '<img src="' + baseUrl + '/images/$1/$2" alt="$3" />')
-    .replaceAll("//images", "/images");
+    .replaceAll(regex, 'src="' + baseUrl + '/_astro/$1"')
+    .replaceAll("//_astro", "/_astro");
 }
 
 export function slugify(str) {
