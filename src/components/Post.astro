@@ -32,7 +32,7 @@ const { Content } = await post.render();
     }
   </header>
   {
-    post.data.series ? (<h3>Part of the <i><a href={`/series/${slugify(post.data.series)}/`}>{post.data.series}</a> series</i></h3>) : null
+    post.data.series ? (<h3>Part of the <i><a href={`/series/${slugify(post.data.series)}/`}>{post.data.series}</a></i> series</h3>) : null
   }
   <Content />
 </article>
