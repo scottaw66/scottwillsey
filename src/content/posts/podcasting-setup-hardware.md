@@ -7,8 +7,6 @@ series: "My Podcasting Workflows"
 slug: "podcasting-setup-hardware"
 ---
 
-### Part of the _[My Podcasting Workflows](/series/my-podcasting-workflows/)_ series
-
 My friend Donnie Adams asked me on Mastodon if I've ever written anything about my podcasting setup and recording and editing workflow. The answer is... I don't think so. Even if I did, whatever I wrote is out of date and not online anymore anyway. So in 2023, here's my basic podcasting setup hardware.
 
 [![My computer desk with MacBook Pro, Studio Monitor, and accessories](../../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)](/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)

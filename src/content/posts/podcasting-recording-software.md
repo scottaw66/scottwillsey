@@ -7,8 +7,6 @@ series: "My Podcasting Workflows"
 slug: "podcasting-recording-software"
 ---
 
-### Part of the _[My Podcasting Workflows](/series/my-podcasting-workflows/)_ series
-
 I've talked about the [hardware I use for podcasting](https://scottwillsey.com/podcasting-setup-hardware/), but what about the other tools of the trade? Obviously the first step to creating a podcast is to record one, and in my case, that's all about software.
 
 ## The Company You Keep

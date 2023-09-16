@@ -9,8 +9,6 @@ series: "Raycast"
 slug: "raycast-clipboard-history"
 ---
 
-### Part of the _[Raycast](/series/raycast/)_ series
-
 One of Raycast's [core features](https://manual.raycast.com/core) is Clipboard History. Clipboard History is exactly what it sounds like – a basic clipboard manager that lets you access your clipboard history.
 
 Clipboard History has several settings. As always, to get to Raycast settings, launch Raycast with your keyboard shortcut (⌥+Space in my case), then hit ⌘+, (the standard macOS application preferences keyboard shortcut) to open Raycast Settings.

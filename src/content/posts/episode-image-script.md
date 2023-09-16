@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "episode-image-script"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 As [I mentioned in my last post](/more-astro-image-markdown/), I want to use standard markdown (text only, no ability to use components) for [Friends with Brews](https://friendswithbrews.com) episodes so that I can use [Astro's ability to render full post body content](https://docs.astro.build/en/guides/rss/#including-full-post-content) of each episode in the RSS feed. This way the RSS feed shows each episode's show notes instead of just a summary.
 
 Step 1 of the Great Show Note Images odyssey is generating optimized versions of any images to be included in episode show notes. Figuring out which images those are is easy – I have a directory named src/images/episodes, and I'll just dump my images in there.

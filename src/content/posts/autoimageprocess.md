@@ -17,8 +17,6 @@ series: "Automation"
 slug: "autoimageprocess"
 ---
 
-### Part of the _[Automation](/series/automation/)_ series
-
 Every episode of [Friends with Brews](https://friendswithbrews.com), I need to generate images for the drinks to include in the podcast chapter artwork and (more importantly) to feature on the website. What I create is a square image in PNG format (for reasons I won't get into here, but more on the image format later) that has a naming scheme that reflects the manufacturer, the drink name, and a UUID to make sure I never accidentally have file naming collisions (although that should never happen anyway in this use case). I used to do this manually, but no longer.
 
 At some recent point in my life, I purchased a copy of [Flying Meat](https://flyingmeat.com/)'s [Retrobatch](https://flyingmeat.com/retrobatch/). I don't remember why, other than I was manually tweaking images for Friends with Brews already, and I am a very happy customer of Flying Meat's other product, [Acorn](https://flyingmeat.com/acorn/). Acorn is the image editor that I was using to get beverage images ready for the site – it's simple but powerful, and it's human-friendly, as their tagline "the image editor for humans" attests. Anyway, Retrobatch is all about batch image processing, and I'm pretty sure my thought process was along the lines of getting out of the manual image tweaking business for Friends with Brews.

@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "image-rabbit-hole-2"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 [In installment 1 of this responsive image topic](https://scottwillsey.com/image-rabbit-hole-1/), I talked about how the modern approach to giving site visitors the best combination of image file size and image quality comes down to generating a bunch of versions of the image and letting the browser choose. Further, the browser chooses by being given a choice of sources and/or srcset elements using the HTML [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) or [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img). So the two step process for making image optimization possible for site visitors is: 1) Make a bunch of image files for each image you will display, 2) Create the HTML that allows the browser to know about and choose from the available options.
 
 This sounds like a lot of work to do whenever you want to drop an image in a blog post. Who wants to do all this every time? The correct answer is no one. Anyone who does this manually for every image they want to inflict on their visitors doesn't understand that the computer is there to work for them instead of the other way around. Fortunately, all modern web frameworks understand this and have solutions in place to tackle image optimization.

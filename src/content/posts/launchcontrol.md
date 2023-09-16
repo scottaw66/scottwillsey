@@ -7,8 +7,6 @@ series: "Automation"
 slug: "launchcontrol"
 ---
 
-### Part of the _[Automation](/series/automation/)_ series
-
 I inadvertently lied to you. [I bragged about using a bash script to get my current external IP address](https://scottwillsey.com/one-more-thing/) and putting it in my menu bar with One Thing, and about scheduling that to happen on a predetermined frequency by creating a LaunchDaemon plist and registering it with launchctl. But there's just one problem.
 
 It didn't actually _work_.

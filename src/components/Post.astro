@@ -3,6 +3,7 @@ import type { CollectionEntry } from "astro:content";
 import { Icon } from "astro-icon";
 import { Image } from "astro:assets";
 import { postdate } from "../components/utilities/DateFormat.js";
+import { slugify } from "./utilities/StringFormat.js";
 import PostTitle from "./PostTitle.astro";
 
 interface Props {
@@ -30,6 +31,9 @@ const { Content } = await post.render();
       post.data.cover ? ( <Image src={post.data.cover} alt={post.data.coverAlt} width={950} /> ) : null
     }
   </header>
+  {
+    post.data.series ? (<h3>Part of the <i><a href={`/series/${slugify(post.data.series)}/`}>{post.data.series}</a> series</i></h3>) : null
+  }
   <Content />
 </article>
 <style>

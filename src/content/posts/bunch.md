@@ -7,8 +7,6 @@ series: "Automation"
 slug: "bunch"
 ---
 
-### Part of the _[Automation](/series/automation/)_ series
-
 I've written a bunch of words on this site about programming stuff in [Astro](https://astro.build), but there are bunches of other things that can be scripted too. Literal Bunches in fact – enter [Bunch](https://bunchapp.co), a Mac automation app for launching apps and running commands with just a click. It's written by [Brett Terpstra](https://brettterpstra.com), which is a name any Mac automation geek will know.
 
 Bunch works as a menubar app that lists your [Bunches](https://bunchapp.co/docs/bunch-files/). Click on a Bunch in the list, and it executes whatever is inside that Bunch, be it names of apps to launch or to close, or commands that can include system tasks, AppleScripts, Automator workflows, or even Bash scripts.

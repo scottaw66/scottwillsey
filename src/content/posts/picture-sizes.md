@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "picture-sizes"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 A couple days ago, I posted some [responsive image and Astro Image science experiments](https://scottwillsey.com/image-rabbit-hole-3). If you read that post, you'll notice that my examples all assume I want to display my image at 200px wide. The reason is I was performing the experiments on a very specific layout that I use to show what beer we enjoyed on a given episode of [Friends with Beer](https://friendswithbeer.com).[^1]
 
 But the sizes attribute of the HTML picture element is a lot more versatile than that. You can get very granular in how you control your image display sizes. I'll show how to do it using the [Astro Image component](https://www.npmjs.com/package/@astrojs/image), specifically its Picture component.

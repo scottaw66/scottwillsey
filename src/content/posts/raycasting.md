@@ -9,8 +9,6 @@ series: "Raycast"
 slug: "raycasting"
 ---
 
-### Part of the _[Raycast](/series/raycast/)_ series
-
 If you've listened to recent [Friends with Brews](https://friendswithbrews.com) episodes, you probably know that I've gotten into [Raycast](https://www.raycast.com) in a big way. Raycast falls in the category of "App Launcher", but I really dislike that title as it sells short what most of the good app launcher category apps do. For me, Raycast is a system utility that verges into automation territory.
 
 [![Raycast window](../../assets/images/posts/RaycastWindow-645D7069-71EA-40AA-ADF0-B16214B87BCE.jpeg)](/images/posts/RaycastWindow-645D7069-71EA-40AA-ADF0-B16214B87BCE.jpeg)

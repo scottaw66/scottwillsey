@@ -7,8 +7,6 @@ series: "Automation"
 slug: "one-more-thing"
 ---
 
-### Part of the _[Automation](/series/automation/)_ series
-
 Just about one year ago, Joe Rosensteel wrote on [SixColors](https://sixcolors.com) about [putting local weather data in his menu bar](https://sixcolors.com/member/2022/08/putting-my-microclimate-in-my-menu-bar/). Aside from the entire system that gets the weather and gets it to his computer, the way he displays it in the menu bar is with a little utility app called [One Thing](https://sindresorhus.com/one-thing). I thought it was a cool app, and I downloaded it, but never really made use of it. Until today.
 
 Today I was digging through web server logs to solve a non-pressing but quite interesting problem, and I realized I was tired of using What's My IP type web services to see who I am so I would know which log entries on my server are me. I put the IP in [Tot](https://tot.rocks) so I could easily refer to it, and then I thought, "that's great, but what about when it eventually changes?" Even though it almost never happens, it does happen very occasionally. Also, when I'm working with my terminal app in fullscreen mode, I don't want to have to dig around for a note.

@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "astro-remark-eleventy-image"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 So there I was, playing with [eleventy-img](https://www.11ty.dev/docs/plugins/image/) to find a way to [generate responsive images for image links in markdown files](https://scottwillsey.com/episode-image-script/), when [Christian Ohanaja](https://cjohanaja.com) did the work for me and created the [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) plugin.
 
 I'm glad he did too, because looking at the remark part of the code, I feel confusion more than anything. I guess I have another rabbit hole to pop down to learn about THAT.

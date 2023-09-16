@@ -10,8 +10,6 @@ series: "Raycast"
 slug: "raycast"
 ---
 
-### Part of the _[Raycast](/series/raycast/)_ series
-
 I'm linking to a year-old article on The Verge because I just started using Raycast today. Prior to this, I was using Alfred. I was leery of Raycast because of the subscription model for pro features as well as concern over privacy issues, but it incorporates so much of what I was using other menubar apps for in addition to Alfred that it won me over in less than an hour of testing.
 
 > Typing Window into Raycast gives you a whole host of commands that let you manage the shape and size of the app you’re currently using. You can maximize it, set it to cover the left half of the screen, make it smaller, and more. There’s also a built-in notes app for jotting down quick thoughts into a floating window. There’s even a command built into Raycast that makes a shower of confetti appear on your screen.

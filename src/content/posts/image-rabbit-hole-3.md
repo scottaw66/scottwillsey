@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "image-rabbit-hole-3"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 It's been a few days since I've written anything, and I'm going to make my tardiness up to you with some detailed science experiments. You can find [part 1](https://scottwillsey.com/image-rabbit-hole-1/) and [part 2](https://scottwillsey.com/image-rabbit-hole-2/) of this series [here](https://scottwillsey.com/image-rabbit-hole-1/) and [here](https://scottwillsey.com/image-rabbit-hole-2/).
 
 This article will be helpful for understanding responsive images in general, but also the [@astrojs/image](https://www.npmjs.com/package/@astrojs/image) [Astro](https://astro.build) component for generating responsive images in particular.[^1] I'm not the fastest learner and it generally requires me to poke around at things awhile before I understand how they work, so browser developer tools are a must in my process.

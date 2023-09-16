@@ -7,8 +7,6 @@ series: "Automation"
 slug: "amphbunch"
 ---
 
-### Part of the _[Automation](/series/automation/)_ series
-
 [Last month I wrote](https://scottwillsey.com/bunch/) about [Bunch](https://bunchapp.co), a wonderful utility for scripting work sessions, complete with sets of apps and the ability to customize various Mac settings. Last night as I was creating transcripts for [Friends with Brews,](https://friendswithbrews.com), I realized that part of my transcription workflow could be handy for podcasting as well – namely, starting an [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) session.
 
 Sounds a little extreme, you might be thinking, but it's actually less controversial than that. [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) is a Mac utility that can keep your Mac from sleeping for a predetermined period of time, with granularity. Want to let the monitor sleep, but nothing else? Can do. Want to set a trigger so that whenever a specific app is running, Amphetamine is active? Can do!

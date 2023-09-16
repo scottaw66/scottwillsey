@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "astro-markdown-image-story"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 Until now, Astro hasn't had a built-in way to dump image links in straight Markdown content files and have Astro generate optimized images and responsive HTML for them. This caused me a problem, which I partially solved by using [MDX](https://mdxjs.com) instead of Markdown for blog posts, and importing and calling [Astro Image](https://www.npmjs.com/package/@astrojs/image) inside the MDX post files. This SOUNDS great, because this is the whole purpose of MDX, [in MDX's own words](https://mdxjs.com):
 
 > MDX allows you to use JSX in your markdown content. You can import components, such as interactive charts or alerts, and embed them within your content. This makes writing long-form content with components a blast. 🚀

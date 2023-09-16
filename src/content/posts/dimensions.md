@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "dimensions"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 I've written so much about images and image optimization and yet the reality is I still have no clue exactly how it works.
 
 serCase in point: I installed [Christian Ohanaja](https://cjohanaja.com)'s [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) plugin to parse my [Friends with Brews](https://friendswithbrews.com) show notes markdown files and replace any markdown images with responsive images (it both generates the image sources and creates the responsive HTML, as with any real image optimizer).

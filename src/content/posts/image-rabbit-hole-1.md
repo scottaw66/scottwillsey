@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "image-rabbit-hole-1"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 I fell down a deep rabbit hole yesterday thanks to the fact that I'm converting the [Friends with Beer podcast website](https://friendswithbeer.com) from [Eleventy](https://friendswithbeer.com) to [Astro](https://astro.build). The rabbit hole was specifically image optimization, the effort to build responsive and hopefully smaller file size images.
 
 ## Why image optimization?

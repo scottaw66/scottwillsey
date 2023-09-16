@@ -7,8 +7,6 @@ series: "Responsive Images"
 slug: "more-astro-image-markdown"
 ---
 
-### Part of the _[Responsive Images](/series/responsive-images/)_ series
-
 I've talked a lot about image optimization and RSS feed handling with [Astro](https://astro.build/). I'm about to talk about it some more. I presume you're like me and obsess endlessly about these topics, so you should enjoy this.[^1] In my case, I don't know how much of it is enjoyment and how much of it is a compulsive search for a better way.
 
 Now that Astro has support for full post content RSS feeds with the [compiledContent property for markdown content](https://docs.astro.build/en/guides/rss/#including-full-post-content), I modified [Friends with Brews](https://friendswithbrews.com) to use standard markdown files (.md) instead of [MDX](https://mdxjs.com) (.mdx). My reasoning was that, since I almost never include images in the show notes for Friends with Brews and since using standard markdown would let me use compiledContent to put full episode show notes in the podcast RSS feed, it was an automatic must-do.
