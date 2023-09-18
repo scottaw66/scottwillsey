@@ -9,7 +9,7 @@ slug: "dimensions"
 
 I've written so much about images and image optimization and yet the reality is I still have no clue exactly how it works.
 
-serCase in point: I installed [Christian Ohanaja](https://cjohanaja.com)'s [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) plugin to parse my [Friends with Brews](https://friendswithbrews.com) show notes markdown files and replace any markdown images with responsive images (it both generates the image sources and creates the responsive HTML, as with any real image optimizer).
+Case in point: I installed [Christian Ohanaja](https://cjohanaja.com)'s [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) plugin to parse my [Friends with Brews](https://friendswithbrews.com) show notes markdown files and replace any markdown images with responsive images (it both generates the image sources and creates the responsive HTML, as with any real image optimizer).
 
 In the version I installed at the time, I immediately found that because the large source image's width and height were included in the img element's width and height properties, the browser ignored the size directives in the sources, and displayed the image at the x and y dimensions specified in the img tag.
 

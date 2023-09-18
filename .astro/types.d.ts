@@ -202,6 +202,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"astro-3-responsive-images.md": {
+	id: "astro-3-responsive-images.md";
+  slug: "astro-3-responsive-images";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "astro-expressive-code.md": {
 	id: "astro-expressive-code.md";
   slug: "astro-expressive-code";
