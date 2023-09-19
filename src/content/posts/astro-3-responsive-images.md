@@ -7,7 +7,7 @@ series: "Responsive Images"
 slug: "astro-3-responsive-images"
 ---
 
-[Astro 3 is here](https://astro.build/blog/astro-3/) and you're looking at a site published with it. I spent a few days last week and this converting this site and [Friends with Brews](https://friendswithbrews.com) from Astro 2.x to Astro 3, and there are some things I had to learn and decide to make it happen, and most of it has to do with responsive images.
+[Astro 3 is here](https://astro.build/blog/astro-3/) and you're looking at a site published with it. I spent a few days last week converting this site and [Friends with Brews](https://friendswithbrews.com) from Astro 2.x to Astro 3, and there are some things I had to learn and decide to make it happen, and most of it has to do with responsive images.
 
 You may recall my long saga of [responsive image generation](/series/responsive-images/) methods for this site and for [Friends with Brews](https://friendswithbrews.com). Most of this journey has revolved around the fact that there are two kinds of optimized images on my sites: 
 
