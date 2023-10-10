@@ -420,6 +420,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"podcasting-recording-practices.md": {
+	id: "podcasting-recording-practices.md";
+  slug: "podcasting-recording-practices";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "podcasting-recording-software.md": {
 	id: "podcasting-recording-software.md";
   slug: "podcasting-recording-software";
