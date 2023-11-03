@@ -259,6 +259,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"audio-hijack-transcribe.md": {
+	id: "audio-hijack-transcribe.md";
+  slug: "audio-hijack-transcribe";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "autoimageprocess.md": {
 	id: "autoimageprocess.md";
   slug: "autoimageprocess";
