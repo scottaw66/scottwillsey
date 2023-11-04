@@ -15,4 +15,4 @@ Anyway, who cares – obviously I'm going to try this out for the next recording
 
 [![Audio Hijack Transcript Block](../../assets/images/posts/Transcript-block-2E72E021-C8FC-4E13-881D-D0B7CAF2E534.png)](/images/posts/Transcript-block-2E72E021-C8FC-4E13-881D-D0B7CAF2E534.png)
 
-I've used MacWhisper's Transcript Podcast feature on the last two episodes of Friends with Brews I've transcribed to get speaker attribution. You can see it in action on the [transcription for Episode 52 – If I Were a Beer](https://friendswithbrews.com/transcripts/52/). If I can replicate that while recording the podcast instead of as a separate task later, you can bet that Audio Hijack Transcribe block will be value added.
+I've used MacWhisper's Transcribe Podcast feature on the last two episodes of Friends with Brews I've transcribed to get speaker attribution. You can see it in action on the [transcription for Episode 52 – If I Were a Beer](https://friendswithbrews.com/transcripts/52/). If I can replicate that while recording the podcast instead of as a separate task later, you can bet that Audio Hijack Transcribe block will be value added.
