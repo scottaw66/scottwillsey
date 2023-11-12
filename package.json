@@ -45,7 +45,6 @@
   "devDependencies": {
     "astro-eslint-parser": "^0.16.0",
     "eslint": "^8.53.0",
-    "eslint-plugin-astro": "^0.29.1",
-    "prettier": "^3.0.3"
+    "eslint-plugin-astro": "^0.29.1"
   }
 }
