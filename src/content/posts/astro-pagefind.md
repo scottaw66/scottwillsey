@@ -2,8 +2,7 @@
 title: "Astro-Pagefind"
 description: "Pagefind is a great find for static site search (thanks to Bryce Wray for that line) and Astro-Pagefind integrates it beautifully into Astro."
 date: "2023-06-12T09:00:00-07:00"
-keywords:
-  ["search", "pagefind", "astro", "hugo", "eleventy"]
+keywords: ["search", "pagefind", "astro", "hugo", "eleventy"]
 slug: "astro-pagefind"
 ---
 I thought I'd talked about [Pagefind](https://pagefind.app) and [Astro-Pagefind](https://github.com/shishkin/astro-pagefind) here before, but [my very own site search](https://scottwillsey.com/search/) which itself is built using Astro-Pagefind says otherwise.
@@ -21,11 +20,12 @@ Initially when I started using Pagefind on my websites, I used it as per the Pag
 <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
 <div id="search"></div> 
 <script> 
-	window.addEventListener('DOMContentLoaded', (event) => { 
-		new PagefindUI({ element: "#search" }); 
-	}); 
+ window.addEventListener('DOMContentLoaded', (event) => { 
+  new PagefindUI({ element: "#search" }); 
+ }); 
 </script>
 ```
+
 That actually works quite well as is, but there's even better news for you if you use [Astro](https://astro.build) to build your static sites: [Sergey Shishkin's Astro-Pagefind](https://github.com/shishkin/astro-pagefind) Astro integration.
 
 Astro-Pagefind lets you make life easy for yourself when adding Pagefind to your astro site by integrating it so that you can drop it into your Astro templates as a component.
@@ -56,73 +56,73 @@ const title = "Search " + config.get("title");
 
 <style is:global>
 :root {
-	--pagefind-ui-scale: 0.8;
-	--pagefind-ui-primary: var(--menu-surface);
-	--pagefind-ui-text: #fff;
-	--pagefind-ui-message-text: #000;
-	--pagefind-ui-result-title-text: var(--brand);
-	--pagefind-ui-result-text: #000;
-	--pagefind-ui-background: var(--surface1)
-	--pagefind-input-background: var(--brand);
-	--pagefind-ui-border: var(--accent1);
-	--pagefind-ui-tag: #0d0a01;
-	--pagefind-ui-border-width: 2px;
-	--pagefind-ui-border-radius: 8px;
-	--pagefind-ui-image-border-radius: 8px;
-	--pagefind-ui-image-box-ratio: 3 / 2;
-	--pagefind-ui-font: sans-serif;
-	--pagefind-button-background: var(--pagefind-input-background);
-	--pagefind-button-color: var(--pagefind-ui-message-text);
+ --pagefind-ui-scale: 0.8;
+ --pagefind-ui-primary: var(--menu-surface);
+ --pagefind-ui-text: #fff;
+ --pagefind-ui-message-text: #000;
+ --pagefind-ui-result-title-text: var(--brand);
+ --pagefind-ui-result-text: #000;
+ --pagefind-ui-background: var(--surface1)
+ --pagefind-input-background: var(--brand);
+ --pagefind-ui-border: var(--accent1);
+ --pagefind-ui-tag: #0d0a01;
+ --pagefind-ui-border-width: 2px;
+ --pagefind-ui-border-radius: 8px;
+ --pagefind-ui-image-border-radius: 8px;
+ --pagefind-ui-image-box-ratio: 3 / 2;
+ --pagefind-ui-font: sans-serif;
+ --pagefind-button-background: var(--pagefind-input-background);
+ --pagefind-button-color: var(--pagefind-ui-message-text);
 }
 [data-theme="light"] {
-	--pagefind-ui-primary: var(--menu-surface);
-	--pagefind-ui-text: #fff;
-	--pagefind-ui-message-text: #000;
-	--pagefind-ui-result-title-text: var(--brand);
-	--pagefind-ui-result-text: #000;
-	--pagefind-ui-background: var(--surface1);
-	--pagefind-input-background: var(--brand);
-	--pagefind-ui-border: var(--accent1);
-	--pagefind-ui-tag: #0d0a01;
-	--pagefind-button-color: var(--pagefind-ui-text);
-	}
+ --pagefind-ui-primary: var(--menu-surface);
+ --pagefind-ui-text: #fff;
+ --pagefind-ui-message-text: #000;
+ --pagefind-ui-result-title-text: var(--brand);
+ --pagefind-ui-result-text: #000;
+ --pagefind-ui-background: var(--surface1);
+ --pagefind-input-background: var(--brand);
+ --pagefind-ui-border: var(--accent1);
+ --pagefind-ui-tag: #0d0a01;
+ --pagefind-button-color: var(--pagefind-ui-text);
+ }
 [data-theme="dark"] {
-	--pagefind-ui-primary: var(--menu-surface);
-	--pagefind-ui-text: #fff;
-	--pagefind-ui-message-text: var(--pagefind-ui-text);
-	--pagefind-ui-result-title-text: var(--accent1);
-	--pagefind-ui-result-text: #fff;
-	--pagefind-ui-background: #83645a;
-	--pagefind-input-background: var(--brand);
-	--pagefind-ui-border: var(--brand);
-	--pagefind-ui-tag: #b59c94;
-	}
+ --pagefind-ui-primary: var(--menu-surface);
+ --pagefind-ui-text: #fff;
+ --pagefind-ui-message-text: var(--pagefind-ui-text);
+ --pagefind-ui-result-title-text: var(--accent1);
+ --pagefind-ui-result-text: #fff;
+ --pagefind-ui-background: #83645a;
+ --pagefind-input-background: var(--brand);
+ --pagefind-ui-border: var(--brand);
+ --pagefind-ui-tag: #b59c94;
+ }
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear {
-	background-color: var(--pagefind-input-background);
-	color: var(--pagefind-ui-text);
-	}
+ background-color: var(--pagefind-input-background);
+ color: var(--pagefind-ui-text);
+ }
 #search .pagefind-ui__result-title, #search .pagefind-ui__result-link {
-	display: inline-block;
-	font-weight: 700;
-	font-size: calc(40px * var(--pagefind-ui-scale));
-	color: var(--pagefind-ui-result-title-text);
-	}
+ display: inline-block;
+ font-weight: 700;
+ font-size: calc(40px * var(--pagefind-ui-scale));
+ color: var(--pagefind-ui-result-title-text);
+ }
 #search .pagefind-ui__result-excerpt {
-	color: var(--pagefind-ui-result-text);
-	font-weight: 400;
-	font-size: calc(1.5rem * var(--pagefind-ui-scale));
-	}
+ color: var(--pagefind-ui-result-text);
+ font-weight: 400;
+ font-size: calc(1.5rem * var(--pagefind-ui-scale));
+ }
 #search .pagefind-ui__message {
-	color: var(--pagefind-ui-message-text);
-	margin: calc(0.5rem * var(--pagefind-ui-scale)) 0 calc(1.5rem * var(--pagefind-ui-scale)) calc(0.5rem * var(--pagefind-ui-scale));
-	}
+ color: var(--pagefind-ui-message-text);
+ margin: calc(0.5rem * var(--pagefind-ui-scale)) 0 calc(1.5rem * var(--pagefind-ui-scale)) calc(0.5rem * var(--pagefind-ui-scale));
+ }
 #search .pagefind-ui__button {
-	color: var(--pagefind-button-color);
-	background: var(--pagefind-button-background);
-	}
+ color: var(--pagefind-button-color);
+ background: var(--pagefind-button-background);
+ }
 #search .pagefind-ui__result-thumb {
-	display: none;
-	}
+ display: none;
+ }
 </style>
 ```
 

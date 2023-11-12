@@ -2,17 +2,7 @@
 title: Automatic Image Processing with AppleScript and Retrobatch
 description: I now have automatic image processing for my Friends with Brews images that happens automatically when I drop images in a folder, and I love it.
 date: "2023-06-26T09:00:00-07:00"
-keywords:
-  [
-    "mac",
-    "automation",
-    "applescript",
-    "images",
-    "programming",
-	"apps",
-	"friendswithbrews",
-	"fwb"
-  ]
+keywords: ["mac","automation","applescript","images","programming","apps","friendswithbrews","fwb"]
 series: "Automation"
 slug: "autoimageprocess"
 ---
@@ -29,34 +19,34 @@ AppleScript, however, can talk to both the shell and Retrobatch, so I can use it
 
 -- Use Retrobatch to square images and save them as PNG
 tell application "Retrobatch"
-	set d to open ((POSIX file "/Users/scott/Documents/Podcasts/FwB/BrewsImages/FwB Images.retrobatch") as alias)
-	tell d
-		execute input items "/Users/scott/Documents/Podcasts/FwB/BrewsImages/IN" output folder "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
-	end tell
+ set d to open ((POSIX file "/Users/scott/Documents/Podcasts/FwB/BrewsImages/FwB Images.retrobatch") as alias)
+ tell d
+  execute input items "/Users/scott/Documents/Podcasts/FwB/BrewsImages/IN" output folder "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
+ end tell
 end tell
 
 -- Generate a UUID
 set uuid to (do shell script "uuidgen")
 
 tell application "Finder"
-	-- Get a list of all files in the input directory
-	-- Create POSIX path string
-	set PosixPath to "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
+ -- Get a list of all files in the input directory
+ -- Create POSIX path string
+ set PosixPath to "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
 
-	-- Convert POSIX path into colon path
-	set imagePath to (POSIX file PosixPath) as string
+ -- Convert POSIX path into colon path
+ set imagePath to (POSIX file PosixPath) as string
 
-	set fileList to every file of folder imagePath
+ set fileList to every file of folder imagePath
 
-	-- Loop through each file and copy it to the output directory with a new name
-	repeat with aFile in fileList
-		set fileName to name of aFile
+ -- Loop through each file and copy it to the output directory with a new name
+ repeat with aFile in fileList
+  set fileName to name of aFile
 
-		set fileExtension to name extension of aFile
-		set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
-		set newName to baseName & "-" & uuid & "." & fileExtension
-		set aFile's name to newName
-	end repeat
+  set fileExtension to name extension of aFile
+  set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
+  set newName to baseName & "-" & uuid & "." & fileExtension
+  set aFile's name to newName
+ end repeat
 end tell
 
 ```
@@ -84,42 +74,42 @@ The full script now looks like this:
 
 on adding folder items to theAttachedFolder after receiving theNewItems
 
-	-- Use Retrobatch to square images and save them as PNG
-	tell application "Retrobatch"
-		set d to open "/Users/scott/Documents/Podcasts/FwB/BrewsImages/FwB Images.retrobatch"
+ -- Use Retrobatch to square images and save them as PNG
+ tell application "Retrobatch"
+  set d to open "/Users/scott/Documents/Podcasts/FwB/BrewsImages/FwB Images.retrobatch"
 
-		delay 5
+  delay 5
 
-		tell d
-			execute input items "/Users/scott/Documents/Podcasts/FwB/BrewsImages/IN" output folder "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
-		end tell
-	end tell
+  tell d
+   execute input items "/Users/scott/Documents/Podcasts/FwB/BrewsImages/IN" output folder "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
+  end tell
+ end tell
 
-	-- Generate a UUID
-	set uuid to (do shell script "uuidgen")
+ -- Generate a UUID
+ set uuid to (do shell script "uuidgen")
 
-	tell application "Finder"
-		-- Get a list of all files in the input directory
-		-- Create POSIX path string
-		set PosixPath to "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
+ tell application "Finder"
+  -- Get a list of all files in the input directory
+  -- Create POSIX path string
+  set PosixPath to "/Users/scott/Documents/Podcasts/FwB/BrewsImages/OUT"
 
-		-- Convert POSIX path into colon path
-		set imagePath to (POSIX file PosixPath) as string
+  -- Convert POSIX path into colon path
+  set imagePath to (POSIX file PosixPath) as string
 
-		set fileList to every file of folder imagePath
+  set fileList to every file of folder imagePath
 
-		-- Loop through each file and copy it to the output directory with a new name
-		repeat with aFile in fileList
-			set fileName to name of aFile
+  -- Loop through each file and copy it to the output directory with a new name
+  repeat with aFile in fileList
+   set fileName to name of aFile
 
-			set fileExtension to name extension of aFile
-			set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
-			set newName to baseName & "-" & uuid & "." & fileExtension
-			set aFile's name to newName
-		end repeat
+   set fileExtension to name extension of aFile
+   set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
+   set newName to baseName & "-" & uuid & "." & fileExtension
+   set aFile's name to newName
+  end repeat
 
-		move theNewItems to the trash
-	end tell
+  move theNewItems to the trash
+ end tell
 
 end adding folder items to
 
