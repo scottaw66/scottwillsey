@@ -145,7 +145,7 @@ import { capitalize, brewIcon } from "./utilities/stringformatter.mjs";
 const { brew, episode } = Astro.props;
 
 ---
-<!-- need 400x400, 1000x1000 -->
+
 <div class="brew">
   <div class="brew-image">
     <a href={`/bottle/${brew.id}/`}>
