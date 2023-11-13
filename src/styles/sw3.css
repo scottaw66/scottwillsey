@@ -85,7 +85,7 @@ html {
   --pagefind-button-color: var(--pagefind-ui-message-text);
 }
 
-[data-theme="light"] {
+[site-theme="light"] {
   --brand: var(--brand-light);
 
   --text1: var(--text1-light);
@@ -121,7 +121,7 @@ html {
   --pagefind-button-color: var(--pagefind-ui-text);
 }
 
-[data-theme="dark"] {
+[site-theme="dark"] {
   --brand: var(--brand-dark);
 
   --text1: var(--text1-dark);
@@ -155,7 +155,7 @@ html {
   --pagefind-ui-tag: #b59c94;
 }
 
-[data-theme="hypercritical"] {
+[site-theme="hypercritical"] {
   --brand: var(--brand-hypercritical);
 
   --text1: var(--text1-hypercritical);

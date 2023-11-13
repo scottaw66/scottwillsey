@@ -15,7 +15,7 @@ export interface Props {
 const { title, description } = Astro.props;
 ---
 
-<html lang="en" data-theme="dark">
+<html lang="en" site-theme="dark" data-theme="light-plus">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -146,15 +146,16 @@ const { title, description } = Astro.props;
                 }
 
                 themeToggle.addEventListener("click", () => {
-                  if (document.documentElement.hasAttribute("data-theme")) {
+                  if (document.documentElement.hasAttribute("site-theme")) {
                     currentTheme =
-                      document.documentElement.getAttribute("data-theme");
+                      document.documentElement.getAttribute("site-theme");
                   }
                   toggleTheme(currentTheme);
                 });
 
                 function enableDarkTheme() {
-                  document.documentElement.setAttribute("data-theme", "dark");
+                  document.documentElement.setAttribute("site-theme", "dark");
+                  document.documentElement.setAttribute("data-theme", "material-theme-ocean");
                   localStorage.setItem("theme", "dark");
                   document.getElementById("sun-icon").style.display = "none";
                   document.getElementById("moon-icon").style.display = "inline";
@@ -163,7 +164,8 @@ const { title, description } = Astro.props;
                 }
 
                 function enableLightTheme() {
-                  document.documentElement.setAttribute("data-theme", "light");
+                  document.documentElement.setAttribute("site-theme", "light");
+                  document.documentElement.setAttribute("data-theme","light-plus");
                   localStorage.setItem("theme", "light");
                   document.getElementById("moon-icon").style.display = "none";
                   document.getElementById("sun-icon").style.display = "inline";
@@ -173,9 +175,10 @@ const { title, description } = Astro.props;
 
                 function enableHypercriticalTheme() {
                   document.documentElement.setAttribute(
-                    "data-theme",
+                    "site-theme",
                     "hypercritical",
                   );
+                  document.documentElement.setAttribute("data-theme", "github-dark-dimmed");
                   localStorage.setItem("theme", "hypercritical");
                   document.getElementById("moon-icon").style.display = "none";
                   document.getElementById("sun-icon").style.display = "none";
