@@ -1,9 +1,9 @@
 ---
 import { Icon } from "astro-icon";
-import { ViewTransitions } from 'astro:transitions';
+import { ViewTransitions } from "astro:transitions";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import site from "../data/site.json"
+import site from "../data/site.json";
 import "../styles/sw3.css";
 
 export interface Props {
@@ -87,6 +87,12 @@ const { title, description } = Astro.props;
                 <div class="menu-text">MASTO</div>
               </div>
             </a>
+            <a href={site.social.bluesky}>
+              <div class="menu-item">
+                <div class="menu-icon"><Icon name="uil:wind-sun" /></div>
+                <div class="menu-text">BLUESKY</div>
+              </div>
+            </a>
             <a href={site.social.github}>
               <div class="menu-item">
                 <div class="menu-icon"><Icon name="simple-icons:github" /></div>
@@ -155,7 +161,10 @@ const { title, description } = Astro.props;
 
                 function enableDarkTheme() {
                   document.documentElement.setAttribute("site-theme", "dark");
-                  document.documentElement.setAttribute("data-theme", "material-theme-ocean");
+                  document.documentElement.setAttribute(
+                    "data-theme",
+                    "material-theme-ocean",
+                  );
                   localStorage.setItem("theme", "dark");
                   document.getElementById("sun-icon").style.display = "none";
                   document.getElementById("moon-icon").style.display = "inline";
@@ -165,7 +174,10 @@ const { title, description } = Astro.props;
 
                 function enableLightTheme() {
                   document.documentElement.setAttribute("site-theme", "light");
-                  document.documentElement.setAttribute("data-theme","light-plus");
+                  document.documentElement.setAttribute(
+                    "data-theme",
+                    "light-plus",
+                  );
                   localStorage.setItem("theme", "light");
                   document.getElementById("moon-icon").style.display = "none";
                   document.getElementById("sun-icon").style.display = "inline";
@@ -178,7 +190,10 @@ const { title, description } = Astro.props;
                     "site-theme",
                     "hypercritical",
                   );
-                  document.documentElement.setAttribute("data-theme", "github-dark-dimmed");
+                  document.documentElement.setAttribute(
+                    "data-theme",
+                    "github-dark-dimmed",
+                  );
                   localStorage.setItem("theme", "hypercritical");
                   document.getElementById("moon-icon").style.display = "none";
                   document.getElementById("sun-icon").style.display = "none";
@@ -206,11 +221,11 @@ const { title, description } = Astro.props;
                     enableDarkTheme();
                   }
                 }
-              }
+              };
 
               setTheme();
-              
-              document.addEventListener('astro:after-swap', setTheme);
+
+              document.addEventListener("astro:after-swap", setTheme);
             </script>
           </div>
         </nav>
