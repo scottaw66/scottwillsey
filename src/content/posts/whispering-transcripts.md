@@ -32,8 +32,6 @@ I couldn't tell a huge difference between the medium and large models with the t
 
 Even with the large model, transcribing a podcast at 2x speed is pretty good.
 
-So that's how long it takes, but what about the results? [Compare for yourselves](/whisper-compare/). The headers for each file are links so you can download the markdown files to compare locally if you like.
-
 The end result is that I think it's worth going with the medium or large models. It'll cost you disk space – the base english model is 142MB, the medium english model is 1.5GB, and the large model is 2.9GB. But I think it's worth it in terms of results.
 
 You may have to do some testing to decide between the medium and large though, even if you're convinced that the base model isn't the way to go. Generally I think I like the large model results better, but there are some instances where the medium transcribed something more accurately.
