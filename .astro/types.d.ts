@@ -539,6 +539,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"warp-blocks.md": {
+	id: "warp-blocks.md";
+  slug: "warp-blocks";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "whispering-transcripts.md": {
 	id: "whispering-transcripts.md";
   slug: "whispering-transcripts";
