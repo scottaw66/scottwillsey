@@ -1,6 +1,6 @@
 ---
 title: "title case"
-description: A good system should never make you remember its implementation details in order to use.
+description: "A good system should never make you remember its implementation details in order to use."
 date: "2022-11-10T05:00:00-07:00"
 keywords: ["blog", "writing", "regex", "javascript"]
 slug: "title-case"
