@@ -25,6 +25,7 @@ html {
   --text2-dark: #009dff;
   --text3-dark: white;
   --quote-dark: var(--text1-dark);
+  --update-dark: #312f2f;
   --surface1-dark: rgb(0, 0, 16);
   --surface-menu-dark: rgba(254, 234, 175, 0.1);
   --post-bg-dark: var(--surface-menu-dark);
@@ -368,6 +369,13 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
+}
+
+.update {
+  color: var(--quote);
+  background-color: var(--update-dark);
+  padding: 0.25rem 1rem;
+  border-radius: 0.5rem;
 }
 
 a.readit {

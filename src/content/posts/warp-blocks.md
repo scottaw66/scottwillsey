@@ -6,6 +6,8 @@ keywords: ["mac", "apps", "terminal", "warp"]
 series: "Warp"
 slug: "warp-blocks"
 ---
+
+
 I like [Warp](https://www.warp.dev). I did not intend to like Warp. I didn't even **want** to like Warp. But after giving it a fair shot for a few days, I couldn't help but liking it and sticking with it. It just feels to me like everything a next generation terminal should be.
 
 According to its developers,
@@ -29,6 +31,13 @@ Filtering can accept regular expressions or case-sensitive text simply by choosi
 You may be thinking, hang on... I can just pipe the command to grep like this: `ps -aux | grep 'python'`,  and you're right. You can. But filtering is fast and you can further act on it by saving the filtered output or the filtered output and the command, and more.
 
 [![Saving the filtered output of a Block](../../assets/images/posts/WarpBlockCopyFilteredOutput-2FA2853E-F9CD-4EB8-AED1-DE4CF08F2E46.jpeg)](/images/posts/WarpBlockCopyFilteredOutput-2FA2853E-F9CD-4EB8-AED1-DE4CF08F2E46.jpeg)
+
+<div class="update">
+
+**Update** *2023-12-17*
+
+*Warp has a great blog post about Block filtering vs. grep that help answer the obvious question of why use block filtering instead of just using grep: [New utilities for your terminal, inspired by text editors | Warp](https://www.warp.dev/blog/new-utilities-for-your-terminal-inspired-by-text-editors)*
+</div>
 
 Bookmarking blocks is nice too. For example, here I left the previous `ps -aux` block filtered for "python" and bookmarked it. I then executed a bunch of other commands which all created their own blocks and the bookmarked `ps -aux` block scrolled off the screen. But by hitting Option-up (⌥-↑), I immediately jumped back up to the bookmarked (and still filtered) block.
 
