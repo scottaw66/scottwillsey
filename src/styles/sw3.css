@@ -350,11 +350,11 @@ blockquote {
   font-style: italic;
   font-size: 0.95em;
   opacity: 0.9;
-  padding: 1em 1.5em;
-  margin: 0 0.5em;
+  padding: 1em 1em;
+  margin: 0 0.2em;
   quotes: "\201C" "\201D";
   background-color: var(--surface-menu);
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 }
 
 blockquote:before {
