@@ -3,7 +3,6 @@ title: "Default Apps December 2023"
 description: My 2023 entrant in Robb Knight's App Defaults, inspired by Hemispheric Views 097 Duel of the Defaults.
 date: "2023-12-24T05:00:00-07:00"
 keywords: ["mac", "apps", "default"]
-series: "Default Apps"
 slug: "default-apps-2023"
 ---
 
