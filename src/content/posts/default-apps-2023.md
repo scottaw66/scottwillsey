@@ -10,6 +10,8 @@ Once upon a time,[^1] the [Hemispheric Views podcast](https://hemisphericviews.c
 
 In the spirit of this new fashion of blogging about one's default apps, here are mine as of December, 2023.
 
+**NOTE:** _These are my personal use apps. They have nothing to do with my job at Monolith 3000, which is an all-Microsoft shop._
+
 ## Official Categories
 
 - 📮 Mail Server
