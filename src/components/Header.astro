@@ -6,13 +6,13 @@ import av from "../assets/images/saw111.jpg";
 
 <div class="header">
   <div class="title">
-    <div><a href="/">sc</a></div>
+    <div><a href="/">SC</a></div>
     <div class="title-image">
       <a href="/">
-        <Image src={av} width={120} format={"webp"} alt="Scott avatar" />
+        <Image src={av} width={100} format={"webp"} alt="Scott avatar" />
       </a>
     </div>
-    <div><a href="/">ttWillsey</a></div>
+    <div><a href="/">TT•WILLSEY</a></div>
   </div>
   <div id="menu-link-div" class="menu-link">
     <a href="#main-nav"><Icon id="menu-icon" name="fluent:list-28-filled" /></a>
@@ -32,8 +32,8 @@ import av from "../assets/images/saw111.jpg";
     display: grid;
     justify-items: center;
     grid-template-columns: fit-content(33%) fit-content(33%) fit-content(33%);
-    font-family: CaptainEdward-Bold;
-    font-size: clamp(2rem, 4.5vw + 1rem, 7rem);
+    font-family: var(--font-title);
+    font-size: clamp(1.8rem, 5.5vw + 1rem, 8rem);
     padding: 0;
     margin: 0 auto 0.5rem;
     width: fit-content;
@@ -46,8 +46,8 @@ import av from "../assets/images/saw111.jpg";
   .header div.title-image img {
     border-radius: 50%;
     border: 2px solid var(--brand);
-    width: clamp(1.4rem, 3.25vw + 1rem, 5.5rem);
-    height: clamp(1.4rem, 3.25vw + 1rem, 5.5rem);
+    width: clamp(1.8rem, 4vw + 1rem, 6rem);
+    height: clamp(1.8rem, 4vw + 1rem, 6rem);
   }
 
   .header div.title a {

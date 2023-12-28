@@ -66,6 +66,11 @@ html {
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
     "Courier New", Courier, monospace;
 
+  /* --font-title: "CaptainEdward-Bold"; */
+  /* --font-title: "Cartridge-BoldRough"; */
+  --font-title: "Cartridge-Bold";
+  --font-blockquote-before: "Cartridge-BoldRough";
+
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
   --pagefind-ui-text: #fff;
@@ -199,6 +204,26 @@ html {
 }
 
 @font-face {
+  font-family: Cartridge-Regular;
+  src: url("/fonts/Cartridge/Cartridge-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Cartridge-Rough;
+  src: url("/fonts/Cartridge/Cartridge-Rough.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Cartridge-Bold;
+  src: url("/fonts/Cartridge/Cartridge-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Cartridge-BoldRough;
+  src: url("/fonts/Cartridge/Cartridge-BoldRough.woff2") format("woff2");
+}
+
+@font-face {
   font-family: CaptainEdward-Regular;
   src: url("/fonts/CaptainEdward/CaptainEdward-Regular.woff2") format("woff2");
 }
@@ -247,6 +272,8 @@ body {
   line-height: 1.5;
   background-color: var(--surface1);
   color: var(--text1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Default for wide screens is menu on the left next to the main content (and menu is sticky) */
@@ -360,11 +387,11 @@ blockquote:before {
   color: var(--quote);
   opacity: 1;
   content: open-quote;
-  font-family: "CaptainEdward-BoldRough";
-  font-size: 4em;
+  font-family: --var(font-blockquote-before);
+  font-size: 5em;
   line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
+  margin-right: 0.1em;
+  vertical-align: -0.45em;
 }
 blockquote p {
   display: inline;
