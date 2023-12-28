@@ -1,0 +1,24 @@
+---
+import { Icon } from "astro-icon";
+import { Image } from "astro:assets";
+import Base from "../layouts/Base.astro";
+import site from "../data/site.json";
+
+import av from "../assets/images/ScottLatest.jpg";
+
+let title = "Now - " + site.title;
+let description = "What Scott Willsey is doing now";
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>Now</h1>
+    <h4>{description}</h4>
+  </article>
+</Base>
+
+<style>
+  h4 {
+    font-style: italic;
+  }
+</style>

@@ -69,50 +69,18 @@ const { title, description } = Astro.props;
                 <div class="menu-text">ABOUT</div>
               </div>
             </a>
+            <!-- <a href="/now">
+              <div class="menu-item">
+                <div class="menu-icon">
+                  <Icon name="mdi:head-snowflake-outline" />
+                </div>
+                <div class="menu-text">NOW</div>
+              </div>
+            </a> -->
             <a href="/search">
               <div class="menu-item">
                 <div class="menu-icon"><Icon name="bi:search" /></div>
                 <div class="menu-text">SEARCH</div>
-              </div>
-            </a>
-            <a href="/series">
-              <div class="menu-item">
-                <div class="menu-icon">
-                  <Icon name="mdi:plus-box-multiple" />
-                </div>
-                <div class="menu-text">SERIES</div>
-              </div>
-            </a>
-            <a href={site.social.threads}>
-              <div class="menu-item">
-                <div class="menu-icon"><Icon name="noto:sewing-needle" /></div>
-                <div class="menu-text">THREADS</div>
-              </div>
-            </a>
-            <a rel="me" href={site.social.mastodon}>
-              <div class="menu-item">
-                <div class="menu-icon">
-                  <Icon name="simple-icons:mastodon" />
-                </div>
-                <div class="menu-text">MASTO</div>
-              </div>
-            </a>
-            <a href={site.social.bluesky}>
-              <div class="menu-item">
-                <div class="menu-icon"><Icon name="ph:butterfly" /></div>
-                <div class="menu-text">BLUESKY</div>
-              </div>
-            </a>
-            <a href={site.social.github}>
-              <div class="menu-item">
-                <div class="menu-icon"><Icon name="simple-icons:github" /></div>
-                <div class="menu-text">GITHUB</div>
-              </div>
-            </a>
-            <a href="/tags">
-              <div class="menu-item">
-                <div class="menu-icon"><Icon name="uiw:tags" /></div>
-                <div class="menu-text">TAGS</div>
               </div>
             </a>
             <a href="/rss.xml">
@@ -265,7 +233,8 @@ const { title, description } = Astro.props;
   nav div.menu {
     justify-self: center;
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     row-gap: 1rem;
     justify-items: start;
     width: fit-content;

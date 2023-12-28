@@ -1,11 +1,20 @@
 ---
+import { getCollection } from "astro:content";
 import { Icon } from "astro-icon";
+import { slugify } from "../components/utilities/StringFormat.js";
 import Search from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
 
-const title = "Search " + site.title
+const allPosts = await getCollection("posts");
+const allSeries = allPosts
+  .map((post) => post.data.series)
+  .filter((series) => series !== undefined)
+  .filter((series, index, self) => self.indexOf(series) === index)
+  .sort();
+
+const title = "Search " + site.title;
 ---
 
 <Base title={title} description={title}>
@@ -14,14 +23,52 @@ const title = "Search " + site.title
   <Search />
 
   <article data-pagefind-ignore>
+    <div class="seriescloud">
+      <span><Icon name="mdi:plus-box-multiple" />Series</span>
+      <div>
+        {
+          allSeries.map((series) => (
+            <span>
+              <a href={`/series/${slugify(series)}/`}>{series}</a>
+            </span>
+          ))
+        }
+        <span class="all-series">
+          <a href="/series"
+            ><Icon name="mdi:plus-circle-multiple" /> Browse all series</a
+          >
+        </span>
+      </div>
+    </div>
     <div class="tagcloud">
       <span><Icon name="mdi:tag-multiple" />Some Tags</span>
       <TagCloud showCount="true" displayNumber="11" />
     </div>
   </article>
+  <style>
+    article {
+      margin: 3em 0;
+    }
+  </style>
 </Base>
 <style>
-  article {
-    margin: 3em 0;
+  div.seriescloud div {
+    display: flex;
+    flex-direction: column;
+    flex-gap: 0.5em;
+    margin: 0 2em;
+    padding: 0;
+  }
+  div.seriescloud div span {
+    font-weight: 300;
+    font-size: 1.1rem;
+  }
+  span.all-series a {
+    margin-top: 1em;
+    font-weight: bold;
+  }
+  [astro-icon="mdi:plus-circle-multiple"] {
+    width: 1em;
+    margin-bottom: -0.15em;
   }
 </style>

@@ -517,7 +517,7 @@ div.hero img {
   }
 }
 
-div.tagcloud {
+div.tagcloud, div.seriescloud {
   display: flex;
   align-items: flex-start;
   margin-top: 2rem;
@@ -525,11 +525,15 @@ div.tagcloud {
   background-color: var(--surface-menu);
   border-radius: 0.5rem;
 }
-div.tagcloud span {
+div.tagcloud span, div.seriescloud span {
   display: flex;
   align-items: center;
   font-size: 1.25em;
   font-weight: bold;
+}
+[astro-icon="mdi:plus-box-multiple"] {
+  width: 2.5em;
+  margin: 0 0.5em -0.175em 0;
 }
 [astro-icon="mdi:tag-multiple"] {
   width: 3.5em;
