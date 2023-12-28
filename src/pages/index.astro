@@ -3,7 +3,6 @@ import { getCollection } from "astro:content";
 import { Icon } from "astro-icon";
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.astro";
-import TagCloud from "../components/TagCloud.astro";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { titleCase } from "../components/utilities/StringFormat.js";
 import site from "../data/site.json";
@@ -33,9 +32,9 @@ let description = site.description;
         > on this site. You can use the <a href="/search">site search</a> to
         find things I've written about, or click the <a href="/1">posts link</a>
          to browse. <i
-          >There are also <a href="/tags">tags</a> 
-        <Icon name="uiw:tags" /> and <a href="/series">series!</a> 
-        <Icon name="mdi:plus-box-multiple" /></i
+          >There are also <a href="/tags">tags</a>
+          <Icon name="uiw:tags" /> and <a href="/series">series!</a>
+          <Icon name="mdi:plus-box-multiple" /></i
         >
       </p>
       <p>
@@ -51,6 +50,10 @@ let description = site.description;
     </div>
   </article>
 
+  <div class="search">
+    <Search />
+  </div>
+
   <article>
     <span data-pagefind-ignore>
       <h1>
@@ -61,16 +64,12 @@ let description = site.description;
           indexPosts.map((post) => (
             <header>
               <h2>
-                <a href={`/${post.slug}`}>
-                  {titleCase(post.data.title)}
-                </a>
+                <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
               </h2>
               <div class="time">
                 <Icon pack="bi" name="calendar2-week-fill" />
                 <time datetime={post.data.date}>
-                  <a href={`/${post.slug}`}>
-                    {postdate(post.data.date)}
-                  </a>
+                  <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
                 </time>
               </div>
               <div class="description">
@@ -84,17 +83,6 @@ let description = site.description;
         </p>
       </section>
     </span>
-  </article>
-
-  <div class="search">
-    <Search />
-  </div>
-
-  <article data-pagefind-ignore>
-    <div class="tagcloud">
-      <span><Icon name="uiw:tags" />Some Tags</span>
-      <TagCloud showCount="true" displayNumber="11" />
-    </div>
   </article>
 </Base>
 <style>
@@ -145,10 +133,6 @@ let description = site.description;
   }
   [astro-icon="bi:calendar2-week-fill"] {
     width: 0.75em;
-  }
-  div.tagcloud [astro-icon="uiw:tags"] {
-    width: 3em;
-    margin-right: 0.5em;
   }
   header {
     margin-bottom: 3rem;
