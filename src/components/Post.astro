@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { slugify } from "./utilities/StringFormat.js";
@@ -20,7 +20,7 @@ const { Content } = await post.render();
       <PostTitle post={post} />
     </h1>
     <div class="time">
-      <Icon pack="bi" name="calendar2-week-fill" />
+      <Icon name="bi:calendar2-week-fill" />
       <time datetime={post.data.date}>
         <a href={`/${post.slug}`}>
           {postdate(post.data.date)}
@@ -28,11 +28,23 @@ const { Content } = await post.render();
       </time>
     </div>
     {
-      post.data.cover ? ( <Image src={post.data.cover} alt={post.data.coverAlt} width={950} /> ) : null
+      post.data.cover ? (
+        <Image src={post.data.cover} alt={post.data.coverAlt} width={950} />
+      ) : null
     }
   </header>
   {
-    post.data.series ? (<h3>Part of the <i><a href={`/series/${slugify(post.data.series)}/`}>{post.data.series}</a></i> series</h3>) : null
+    post.data.series ? (
+      <h3>
+        Part of the{" "}
+        <i>
+          <a href={`/series/${slugify(post.data.series)}/`}>
+            {post.data.series}
+          </a>
+        </i>{" "}
+        series
+      </h3>
+    ) : null
   }
   <Content />
 </article>

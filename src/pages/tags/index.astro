@@ -1,10 +1,10 @@
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import Base from "../../layouts/Base.astro";
 import TagCloud from "../../components/TagCloud.astro";
-import site from "../../data/site.json"
+import site from "../../data/site.json";
 
-let title = "Tags - " + site.title
+let title = "Tags - " + site.title;
 let description = "Tags used in posts on " + site.title + ".";
 ---
 
@@ -23,7 +23,7 @@ let description = "Tags used in posts on " + site.title + ".";
   div.cloud {
     margin: 3em 1em;
   }
-  [astro-icon="uiw:tags"] {
+  [data-icon="uiw:tags"] {
     width: 1.5em;
     margin: 0 0.3em -0.5em 0;
   }

@@ -55,7 +55,7 @@ To recap, I no longer have a `Menu.astro` component. My menu is now in my `Base.
 
 ```astro title="src/layouts/Base.astro" {113-189}
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import config from "config";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -299,7 +299,7 @@ const { title, description } = Astro.props;
     padding: 0;
   }
 
-  .menu-item [astro-icon] {
+  .menu-item [data-icon] {
     width: 1.5rem;
   }
 
@@ -314,13 +314,13 @@ const { title, description } = Astro.props;
     border-radius: 50%;
   }
 
-  .theme [astro-icon] {
+  .theme [data-icon] {
     width: 1.25rem;
     color: var(--accent1);
   }
 
-  .theme [astro-icon]:hover,
-  .theme [astro-icon]:focus {
+  .theme [data-icon]:hover,
+  .theme [data-icon]:focus {
     color: var(--brand);
   }
 
@@ -335,7 +335,7 @@ const { title, description } = Astro.props;
     fill: var(--brand);
   }
 
-  .theme [astro-icon="octicon:sun-24"],
+  .theme [data-icon="octicon:sun-24"],
   .theme svg {
     display: none;
   }
@@ -348,10 +348,10 @@ const { title, description } = Astro.props;
       column-gap: 1rem;
       font-size: 1.25rem;
     }
-    .menu-item [astro-icon] {
+    .menu-item [data-icon] {
       width: 1.5rem;
     }
-    .theme [astro-icon] {
+    .theme [data-icon] {
       width: 1rem;
     }
   }

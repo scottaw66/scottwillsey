@@ -1,5 +1,5 @@
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { titleCase } from "./utilities/StringFormat.js";
 
 const { post } = Astro.props;
@@ -11,7 +11,7 @@ const { post } = Astro.props;
 </a>
 
 <style>
-  [astro-icon] {
+  [data-icon] {
     width: 1em;
     margin-bottom: -0.5rem;
     background-color: var(--surface-menu);

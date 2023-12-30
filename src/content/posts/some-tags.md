@@ -38,7 +38,7 @@ In any event, I wound up with this for a tags index page:
 
 ```astro title="src/pages/tags/index.astro"
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import config from "config";
 import Base from "../../layouts/Base.astro";
 import TagCloud from "../../components/TagCloud.astro";
@@ -62,7 +62,7 @@ let description = "Tags used in posts on " + config.get("title") + ".";
   div.cloud {
     margin: 3em 1em;
   }
-  span#tag-cloud [astro-icon="mdi:tag-multiple"] {
+  span#tag-cloud [data-icon="mdi:tag-multiple"] {
     width: 1.5em;
     margin: 0 0.3em -0.5em 0;
   }
@@ -78,7 +78,7 @@ HERE is where the magic happens, in `TagCloud.astro` itself:
 ```astro title="src/components/TagCloud.astro"
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { slugify } from "./utilities/StringFormat.js";
 
 const allPosts = await getCollection("posts");
@@ -139,7 +139,7 @@ const { showCount, displayNumber } = Astro.props;
     background-color: var(--brand);
     color: #fff;
   }
-  [astro-icon] {
+  [data-icon] {
     width: 1.5rem;
     margin-bottom: -0.3rem;
   }
@@ -148,7 +148,7 @@ const { showCount, displayNumber } = Astro.props;
     span.categories a {
       font-size: 0.75rem;
     }
-    [astro-icon] {
+    [data-icon] {
       width: 1rem;
       margin-bottom: -0.2rem;
     }
@@ -231,7 +231,7 @@ Here's `[tag].astro`. It's another long code block but here's the full code dump
 
 ```astro title="src/pages/tags/[tag].astro"
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
 import config from "config";
 import Base from "../../layouts/Base.astro";
@@ -294,7 +294,7 @@ let description = "Posts with tag " + tag + ".";
               </a>
             </h4>
             <div class="cal">
-              <Icon pack="bi" name="calendar2-week-fill" />
+              <Icon name="bi:calendar2-week-fill" />
               <time datetime={post.data.date}>
                 <a
                   href={
@@ -341,14 +341,14 @@ let description = "Posts with tag " + tag + ".";
   p.posts-link {
     margin: 1.5em;
   }
-  [astro-icon="mdi:tag"] {
+  [data-icon="mdi:tag"] {
     width: 1em;
     margin: 0 0.5em -0.25em 0;
   }
-  [astro-icon="bi:calendar2-week-fill"] {
+  [data-icon="bi:calendar2-week-fill"] {
     width: 0.75em;
   }
-  [astro-icon="mdi:tag-plus"] {
+  [data-icon="mdi:tag-plus"] {
     width: 0.75em;
   }
 </style>

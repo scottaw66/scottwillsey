@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { slugify } from "./utilities/StringFormat.js";
 
 const allPosts = await getCollection("posts");
@@ -63,7 +63,7 @@ const { showCount, displayNumber } = Astro.props;
     background-color: var(--brand);
     color: #fff;
   }
-  [astro-icon] {
+  [data-icon] {
     width: 1.5rem;
     margin-bottom: -0.3rem;
   }
@@ -72,7 +72,7 @@ const { showCount, displayNumber } = Astro.props;
     span.categories a {
       font-size: 0.75rem;
     }
-    [astro-icon] {
+    [data-icon] {
       width: 1rem;
       margin-bottom: -0.2rem;
     }

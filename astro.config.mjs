@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import expressiveCode from "astro-expressive-code";
 import pagefind from "astro-pagefind";
+import icon from "astro-icon";
 
 /** @type {import('astro-expressive-code').AstroExpressiveCodeOptions} */
 const astroExpressiveCodeOptions = {
@@ -12,5 +13,5 @@ const astroExpressiveCodeOptions = {
 // https://astro.build/config
 export default defineConfig({
     site: "https://scottwillsey.com/",
-    integrations: [expressiveCode(astroExpressiveCodeOptions), pagefind()],
+    integrations: [expressiveCode(astroExpressiveCodeOptions), icon(), pagefind()],
 });

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.astro";
 import { postdate } from "../components/utilities/DateFormat.js";
@@ -29,9 +29,9 @@ let description = site.description;
       <p>
         <b>Hi!</b> I'm <b><a href="/about">Scott Willsey</a></b>. I <a href="/1"
           >write about computing related topics</a
-        > on this site. You can use the <a href="/search">site search</a> to
-        find things I've written about, or click the <a href="/1">posts link</a>
-         to browse. <i
+        > on this site. You can use the <a href="/search">site search</a> to find
+        things I've written about, or click the <a href="/1">posts link</a>
+        to browse. <i
           >There are also <a href="/tags">tags</a>
           <Icon name="uiw:tags" /> and <a href="/series">series!</a>
           <Icon name="mdi:plus-box-multiple" /></i
@@ -41,8 +41,8 @@ let description = site.description;
         Most of what I write about here is <Icon name="openmoji:apple" /><a
           href="/tags/mac/"
           ">Mac</a
-        > or web related. I like to talk about automation, software tools, and
-        web platforms like <Icon name="openmoji:rocket" /><a
+        > or web related. I like to talk about automation, software tools, and web
+        platforms like <Icon name="openmoji:rocket" /><a
           href="https://astro.build"
           target="_blank">Astro</a
         >.
@@ -67,7 +67,7 @@ let description = site.description;
                 <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
               </h2>
               <div class="time">
-                <Icon pack="bi" name="calendar2-week-fill" />
+                <Icon name="bi:calendar2-week-fill" />
                 <time datetime={post.data.date}>
                   <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
                 </time>
@@ -107,31 +107,31 @@ let description = site.description;
     margin: 1rem auto -1rem;
     width: fit-content;
   }
-  .divider [astro-icon] {
+  .divider [data-icon] {
     width: 1.5rem;
     margin: 0.25rem;
     color: var(--brand);
   }
-  div.blurb p:nth-child(3) [astro-icon] {
+  div.blurb p:nth-child(3) [data-icon] {
     width: 1.5em;
     margin-bottom: -0.333rem;
   }
   div.search {
     margin: 3rem auto;
   }
-  [astro-icon="openmoji:label"] {
+  [data-icon="openmoji:label"] {
     width: 1.25em;
     margin-bottom: -0.3em;
   }
-  [astro-icon="uiw:tags"] {
+  [data-icon="uiw:tags"] {
     width: 1em;
     margin: 0 0.2em -0.15em;
   }
-  [astro-icon="mdi:plus-box-multiple"] {
+  [data-icon="mdi:plus-box-multiple"] {
     width: 1em;
     margin: 0 0.2em -0.15em;
   }
-  [astro-icon="bi:calendar2-week-fill"] {
+  [data-icon="bi:calendar2-week-fill"] {
     width: 0.75em;
   }
   header {
@@ -154,11 +154,11 @@ let description = site.description;
     color: var(--accent1);
     font-size: 2rem;
   }
-  [astro-icon="mdi:book-edit-outline"] {
+  [data-icon="mdi:book-edit-outline"] {
     width: 1em;
     margin: 0 0.5em -0.175em 0;
   }
-  [astro-icon="ep:copy-document"] {
+  [data-icon="ep:copy-document"] {
     width: 2rem;
     margin-bottom: -0.25rem;
     color: var(--accent1);

@@ -9,7 +9,7 @@ slug: "astro-3-responsive-images"
 
 [Astro 3 is here](https://astro.build/blog/astro-3/) and you're looking at a site published with it. I spent a few days last week converting this site and [Friends with Brews](https://friendswithbrews.com) from Astro 2.x to Astro 3, and there are some things I had to learn and decide to make it happen, and most of it has to do with responsive images.
 
-You may recall my long saga of [responsive image generation](/series/responsive-images/) methods for this site and for [Friends with Brews](https://friendswithbrews.com). Most of this journey has revolved around the fact that there are two kinds of optimized images on my sites: 
+You may recall my long saga of [responsive image generation](/series/responsive-images/) methods for this site and for [Friends with Brews](https://friendswithbrews.com). Most of this journey has revolved around the fact that there are two kinds of optimized images on my sites:
 
 - Site related (logos, images for permanent site pages, etc),
 - Content related (images in blog posts or podcast episode show notes).
@@ -18,7 +18,7 @@ You may recall my long saga of [responsive image generation](/series/responsive-
 
 Site related images are easy. I can use whatever the image optimization scheme de jour that Astro uses because these are known, unchanging files and because I refer to them inside Astro components.
 
-In the case of Astro 3, the [astro:assets Image component](https://docs.astro.build/en/guides/images/#image--astroassets) is the official way to create optimized images inside Astro components. 
+In the case of Astro 3, the [astro:assets Image component](https://docs.astro.build/en/guides/images/#image--astroassets) is the official way to create optimized images inside Astro components.
 
 This component is a lot less flexible and capable than the previous [@astrojs/image component](https://docs.astro.build/en/guides/images/#remove-astrojsimage). There's no Picture component, it doesn't resize images from the original size, and as a result it's easy to wind up with larger image sizes than you need and not have smaller physical sizes for responsive views like phone browsers. But it handles Astro SSR mode and prevents CLS (cumulative layout shift), which is really annoying to see.
 
@@ -28,7 +28,7 @@ Using Image in an Astro component involves importing the images to be used and s
 
 ```astro
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json"
@@ -40,16 +40,16 @@ let description = "About Scott Willsey";
 ---
 
 <Base title={title} description={description}>
-	<article>
-	<h1>About Me</h1>
-	<Image
-		class="about-av"
-		src={av}
-		width={600}
-		format={"webp"}
-		alt="Scott Willsey"
-		quality={85}
-	/>
+ <article>
+ <h1>About Me</h1>
+ <Image
+  class="about-av"
+  src={av}
+  width={600}
+  format={"webp"}
+  alt="Scott Willsey"
+  quality={85}
+ />
 
   (etc, etc, etc)
 
@@ -60,12 +60,12 @@ It's important to note again that width={600} doesn't result in Image creating a
 
 ```html
 <article data-astro-cid-kh7btl4r>
-	<h1 data-astro-cid-kh7btl4r>About Me</h1>
-	<img src="/_astro/ScottLatest.69c944ff_Ctgce.webp" class="about-av" alt="Scott Willsey" data-astro-cid-kh7btl4r width="600" height="600" loading="lazy" decoding="async">
+ <h1 data-astro-cid-kh7btl4r>About Me</h1>
+ <img src="/_astro/ScottLatest.69c944ff_Ctgce.webp" class="about-av" alt="Scott Willsey" data-astro-cid-kh7btl4r width="600" height="600" loading="lazy" decoding="async">
   <p data-astro-cid-kh7btl4r>Hello, friend.</p>
 
-		
-		(etc, etc)				
+  
+  (etc, etc)    
 
 </article>
 ```
@@ -111,7 +111,7 @@ One thing that isn't different is the image dimensions:
 
 This means I have to pay more attention to original image sizes that I'd prefer to. I'm hoping in the future this new Images component will gain some of the functionality back that it had before, but my guess is the real monkey in the wrench in doing some of those things is the SSR support.
 
-Right now I have a Folder Action that resizes my images to a maximum width of 1770 pixels. I can use those for the blog post inline images and link to the original sized ones. That gives me a compromise between image size and responsiveness, taking into account the high-resolution nature of most modern screens. Images need to be 2x and in many cases 3x the size they'll be shown at in order to look sharp. 
+Right now I have a Folder Action that resizes my images to a maximum width of 1770 pixels. I can use those for the blog post inline images and link to the original sized ones. That gives me a compromise between image size and responsiveness, taking into account the high-resolution nature of most modern screens. Images need to be 2x and in many cases 3x the size they'll be shown at in order to look sharp.
 
 At some point I'll probably revisit this but no matter what I do, astro:assets Image currently will not generate [image srcset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#srcset) HTML for me, so even if I generate multiple sizes for the same file format, only one of them is ever going to get used.
 
@@ -125,7 +125,7 @@ I decided a long time ago that I don't want to go down that path any longer beca
 
 ### Image Component vs Astro Remark Eleventy Image
 
-The last Astro 2.x version of this site used [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) to generate responsive images for images inside markdown content. It worked well, it's very flexible, and it had several upsides. The downsides are no support for SSR, if you need that, and it results in a slower build process because it doesn't cache previously rendered images. Because of this latter fact, I decided to move entirely to the astro:assets Image component. 
+The last Astro 2.x version of this site used [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) to generate responsive images for images inside markdown content. It worked well, it's very flexible, and it had several upsides. The downsides are no support for SSR, if you need that, and it results in a slower build process because it doesn't cache previously rendered images. Because of this latter fact, I decided to move entirely to the astro:assets Image component.
 
 I was also worried about Astro's Image component trying to process images in my Markdown files and fighting Astro Remark Eleventy Image, but I haven't tested to see if this will happen. I may make a branch and link to my public images folder for images in Markdown and see if that avoids a collision between the components. If so, I may wind up using Astro Remark Eleventy Image again to get more responsive images with better file size/quality compromises.
 

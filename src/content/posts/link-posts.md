@@ -59,7 +59,7 @@ The rest of the work is done in a new component for creating the blog post title
 ```astro title="src/components/PostTitle.astro"
 ---
 import config from "config";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import path from "path";
 import { titleCase } from "./utilities/StringFormat.js";
 
@@ -79,7 +79,7 @@ const { post } = Astro.props;
 </a>
 
 <style>
-  [astro-icon] {
+  [data-icon] {
     width: 1em;
     margin-bottom: -0.3rem;
   }
@@ -96,7 +96,7 @@ Now in my Post.astro component which creates the blog post layout, I call my Pos
 ---
 import type { CollectionEntry } from "astro:content";
 import config from "config";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import path from "path";
 import { postdate } from "../components/utilities/DateFormat.js";
 import PostTitle from "./PostTitle.astro";
@@ -115,7 +115,7 @@ const { Content } = await post.render();
       <PostTitle post={post} />
     </h1>
     <div class="time">
-      <Icon pack="bi" name="calendar2-week-fill" />
+      <Icon name="bi:calendar2-week-fill" />
       <time datetime={post.data.date}>
         <a
           href={new URL(

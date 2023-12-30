@@ -30,42 +30,42 @@ Here are what the Series `index.astro`, `[name].astro`, and `SeriesList.astro` f
 
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import config from "config";
 import Base from "../../layouts/Base.astro";
 import SeriesList from "../../components/SeriesList.astro";
 
 const allPosts = await getCollection("posts");
 const allSeries = allPosts
-	.map((post) => post.data.series)
-	.filter((series) => series !== undefined)
-	.filter((series, index, self) => self.indexOf(series) === index)
-	.sort();
+ .map((post) => post.data.series)
+ .filter((series) => series !== undefined)
+ .filter((series, index, self) => self.indexOf(series) === index)
+ .sort();
 
 let title = "Series - " + config.get("title");
 let description = "Series of related posts on " + config.get("title") + ".";
 ---
 
 <Base title={title} description={description}>
-	<article data-pagefind-ignore>
-		<span id="series-list">
-			<h1><Icon name="mdi:plus-box-multiple" /><a href="/series">Series</a></h1>
-			<div class="series">
-			{
-				allSeries.map((series) => (
-					<SeriesList series={series} posts={allPosts} />
-				))
-			}
-			</div>
-		</span>
-	</article>
+ <article data-pagefind-ignore>
+  <span id="series-list">
+   <h1><Icon name="mdi:plus-box-multiple" /><a href="/series">Series</a></h1>
+   <div class="series">
+   {
+    allSeries.map((series) => (
+     <SeriesList series={series} posts={allPosts} />
+    ))
+   }
+   </div>
+  </span>
+ </article>
 </Base>
 
 <style>
 div.series {
 margin: 3em 1em;
 }
-span#series-list [astro-icon="mdi:plus-box-multiple"] {
+span#series-list [data-icon="mdi:plus-box-multiple"] {
 width: 1.5em;
 margin: 0 0.3em -0.5em 0;
 }
@@ -76,7 +76,7 @@ margin: 0 0.3em -0.5em 0;
 
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import config from "config";
 import path from "path";
 import { slugify } from "../../components/utilities/StringFormat.js";
@@ -85,20 +85,20 @@ import Base from "../../layouts/Base.astro";
 import SeriesList from "../../components/SeriesList.astro";
 
 export async function getStaticPaths({}) {
-	const allPosts = await getCollection("posts");
-	const sortedPosts = allPosts.sort(
-		(a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),);
+ const allPosts = await getCollection("posts");
+ const sortedPosts = allPosts.sort(
+  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),);
 
-	const allNames = new Set();
-	sortedPosts.map((post) => {
-		post.data.series && allNames.add(slugify(post.data.series));
-		});
-	return Array.from(allNames).map((name) => {
-		return {
-			params: { name },
-			props: { posts: sortedPosts,},
-		};
-	});
+ const allNames = new Set();
+ sortedPosts.map((post) => {
+  post.data.series && allNames.add(slugify(post.data.series));
+  });
+ return Array.from(allNames).map((name) => {
+  return {
+   params: { name },
+   props: { posts: sortedPosts,},
+  };
+ });
 }
 
 const { posts } = Astro.props;
@@ -108,34 +108,34 @@ let title = deslugify(name);
 let description = "Posts in " + title + " series.";
 ---
 <Base title={title} description={description}>
-	<article data-pagefind-ignore>
-		<span id="series-list">
-			<h1>
-			<Icon name="mdi:plus-box-multiple" /><a href={new URL(path.join("/series", name), config.get("url"))}>{title} Series</a>
-			</h1>
-			<div class="series">
-				<SeriesList series={title} posts={posts} />
-			</div>
-			<p class="series-link">
-			<a href="/series"><Icon name="mdi:plus-circle-multiple" /> Browse all series</a>
-			</p>
-		</span>
-	</article>
+ <article data-pagefind-ignore>
+  <span id="series-list">
+   <h1>
+   <Icon name="mdi:plus-box-multiple" /><a href={new URL(path.join("/series", name), config.get("url"))}>{title} Series</a>
+   </h1>
+   <div class="series">
+    <SeriesList series={title} posts={posts} />
+   </div>
+   <p class="series-link">
+   <a href="/series"><Icon name="mdi:plus-circle-multiple" /> Browse all series</a>
+   </p>
+  </span>
+ </article>
 </Base>
 <style>
-	div.series {
-	margin: 3em 1em;
+ div.series {
+ margin: 3em 1em;
 }
-span#series-list [astro-icon="mdi:plus-box-multiple"] {
-	width: 1.5em;
-	margin: 0 0.3em -0.5em 0;
+span#series-list [data-icon="mdi:plus-box-multiple"] {
+ width: 1.5em;
+ margin: 0 0.3em -0.5em 0;
 }
 p.series-link {
-	margin: 1.5em;
+ margin: 1.5em;
 }
-[astro-icon="mdi:plus-circle-multiple"] {
-	width: 1em;
-	margin-bottom: -0.15em;
+[data-icon="mdi:plus-circle-multiple"] {
+ width: 1em;
+ margin-bottom: -0.15em;
 }
 </style>
 ```  
@@ -143,7 +143,7 @@ p.series-link {
 ```astro title="SeriesList.astro"
 
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import path from "path";
 import config from "config";
 import { postdate } from "./utilities/DateFormat.js";
@@ -154,54 +154,54 @@ const { series, posts } = Astro.props;
 const filteredPosts = posts.filter((post) => post.data.series !== undefined && (slugify(post.data.series) === slugify(series)));
 ---
 <section aria-label="Series list">
-	<h2><a href={`/series/${slugify(series)}/`}>{series}</a></h2>
-	<header>
-	{
-		filteredPosts.sort((a, b) => a.data.date - b.data.date)
-			.map((post) => (
-				<h4>
-				<a href={new URL(path.join(config.get("posts.path"), post.slug), config.get("url"),)}>
-					{titleCase(post.data.title)}
-				</a>
-				</h4>
-				<div class="cal">
-					<Icon pack="bi" name="calendar2-week-fill" />
-					<time datetime={post.data.date}>
-					<a
-					href={new URL(path.join(config.get("posts.path"), post.slug), config.get("url"),)}>
-					{postdate(post.data.date)}
-					</a>
-					</time>
-				</div>
-				<div class="description">{post.data.description}</div>
-	))}
-	</header>
+ <h2><a href={`/series/${slugify(series)}/`}>{series}</a></h2>
+ <header>
+ {
+  filteredPosts.sort((a, b) => a.data.date - b.data.date)
+   .map((post) => (
+    <h4>
+    <a href={new URL(path.join(config.get("posts.path"), post.slug), config.get("url"),)}>
+     {titleCase(post.data.title)}
+    </a>
+    </h4>
+    <div class="cal">
+     <Icon name="bi:calendar2-week-fill" />
+     <time datetime={post.data.date}>
+     <a
+     href={new URL(path.join(config.get("posts.path"), post.slug), config.get("url"),)}>
+     {postdate(post.data.date)}
+     </a>
+     </time>
+    </div>
+    <div class="description">{post.data.description}</div>
+ ))}
+ </header>
 </section>
 <style>
 header {
-	background-color: var(--surface-menu);
-	border-radius: 0.5rem;
-	padding: 0.5rem 2rem;
-	margin: 1rem 0;
+ background-color: var(--surface-menu);
+ border-radius: 0.5rem;
+ padding: 0.5rem 2rem;
+ margin: 1rem 0;
 }
 h4 {
-	margin: 0.3em 0;
+ margin: 0.3em 0;
 }
 div.cal,
 div.cal a {
-	font-weight: bold;
-	font-size: 0.75em;
-	color: var(--accent1);
+ font-weight: bold;
+ font-size: 0.75em;
+ color: var(--accent1);
 }
 div.description {
-	font-size: 0.75em;
-	margin: 0.3em 0 2em;
+ font-size: 0.75em;
+ margin: 0.3em 0 2em;
 }
 div.description:last-child {
-	margin-bottom: 0.5em;
+ margin-bottom: 0.5em;
 }
-[astro-icon="bi:calendar2-week-fill"] {
-	width: 0.75em;
+[data-icon="bi:calendar2-week-fill"] {
+ width: 0.75em;
 }
 </style>
 

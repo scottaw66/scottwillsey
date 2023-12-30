@@ -1,5 +1,5 @@
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
 import Base from "../../layouts/Base.astro";
 import { postdate } from "../../components/utilities/DateFormat.js";
@@ -46,16 +46,12 @@ let description = "Posts with tag " + tag + ".";
         posts.map((post) => (
           <header>
             <h4>
-              <a href={`/${post.slug}`}>
-                {titleCase(post.data.title)}
-              </a>
+              <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
             </h4>
             <div class="cal">
-              <Icon pack="bi" name="calendar2-week-fill" />
+              <Icon name="bi:calendar2-week-fill" />
               <time datetime={post.data.date}>
-                <a href={`/${post.slug}`}>
-                  {postdate(post.data.date)}
-                </a>
+                <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
               </time>
             </div>
             <div class="description">{post.data.description}</div>
@@ -92,14 +88,14 @@ let description = "Posts with tag " + tag + ".";
   p.posts-link {
     margin: 1.5em;
   }
-  [astro-icon="uiw:tag"] {
+  [data-icon="uiw:tag"] {
     width: 1em;
     margin: 0 0.5em -0.25em 0;
   }
-  [astro-icon="bi:calendar2-week-fill"] {
+  [data-icon="bi:calendar2-week-fill"] {
     width: 0.75em;
   }
-  [astro-icon="mdi:tag-plus"] {
+  [data-icon="mdi:tag-plus"] {
     width: 0.75em;
   }
 </style>

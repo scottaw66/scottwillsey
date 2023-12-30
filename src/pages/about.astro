@@ -1,5 +1,5 @@
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
@@ -56,9 +56,9 @@ let description = "About Scott Willsey";
 
     <p>
       My first personally owned computer was the original
-      <a href="https://www.apple-history.com/128k">128k Macintosh</a> which my
-      dad bought for me. Today I’m still a Mac user, but I also spent a lot of
-      years on PCs and I still use them at work.
+      <a href="https://www.apple-history.com/128k">128k Macintosh</a> which my dad
+      bought for me. Today I’m still a Mac user, but I also spent a lot of years
+      on PCs and I still use them at work.
     </p>
 
     <p>
@@ -88,7 +88,7 @@ let description = "About Scott Willsey";
       <a rel="me" href="https://www.threads.net/@scott.willsey"
         ><Icon name="noto:sewing-needle" /> Threads</a
       >
-       or <a rel="me" href="https://bsky.app/profile/scottwillsey.com"
+      or <a rel="me" href="https://bsky.app/profile/scottwillsey.com"
         ><Icon name="ph:butterfly" /> Bluesky</a
       >.
     </p>
@@ -110,7 +110,7 @@ let description = "About Scott Willsey";
   p:last-of-type {
     font-style: italic;
   }
-  [astro-icon] {
+  [data-icon] {
     width: 1.5rem;
     margin-bottom: -0.25rem;
   }

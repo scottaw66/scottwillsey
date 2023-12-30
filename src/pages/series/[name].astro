@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { slugify } from "../../components/utilities/StringFormat.js";
 import { deslugify } from "../../components/utilities/StringFormat.js";
 import Base from "../../layouts/Base.astro";
@@ -55,14 +55,14 @@ let description = "Posts in " + title + " series.";
   div.series {
     margin: 3em 1em;
   }
-  span#series-list [astro-icon="mdi:plus-box-multiple"] {
+  span#series-list [data-icon="mdi:plus-box-multiple"] {
     width: 1.5em;
     margin: 0 0.3em -0.5em 0;
   }
   p.series-link {
     margin: 1.5em;
   }
-  [astro-icon="mdi:plus-circle-multiple"] {
+  [data-icon="mdi:plus-circle-multiple"] {
     width: 1em;
     margin-bottom: -0.15em;
   }

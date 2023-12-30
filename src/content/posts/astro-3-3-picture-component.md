@@ -62,7 +62,7 @@ It sounds more confusing than it is. Here's my code pre-Astro 3.0, back when Ast
 ```astro
 
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Picture } from "@astrojs/image/components";
 
 const { brew, episode } = Astro.props;
@@ -98,7 +98,7 @@ Here's what my BrewsDetails.astro file looked like with this solution:
 ```astro
 
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { capitalize, brewIcon } from "./utilities/stringformatter.mjs";
 
 const { brew, episode } = Astro.props;
@@ -138,7 +138,7 @@ Here's what the Picture component looks like for these small drink images:
 ```astro
 
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Picture } from "astro:assets";
 import { capitalize, brewIcon } from "./utilities/stringformatter.mjs";
 

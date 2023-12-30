@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { slugify } from "../components/utilities/StringFormat.js";
 import Search from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
@@ -67,7 +67,7 @@ const title = "Search " + site.title;
     margin-top: 1em;
     font-weight: bold;
   }
-  [astro-icon="mdi:plus-circle-multiple"] {
+  [data-icon="mdi:plus-circle-multiple"] {
     width: 1em;
     margin-bottom: -0.15em;
   }

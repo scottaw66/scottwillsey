@@ -63,7 +63,7 @@ Now I can create that view from the image above by importing my function and usi
 
 ```astro title="BeerList.astro"
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Image } from "@astrojs/image/components";
 import { beerList } from "./utilities/beerlist.mjs";
 

@@ -1,5 +1,5 @@
 ---
-import { Icon } from "astro-icon";
+import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.astro";
@@ -63,7 +63,7 @@ let description = "Not all who seek find";
       padding: 0.5rem 0 1rem;
     }
   }
-  [astro-icon="uiw:tags"] {
+  [data-icon="uiw:tags"] {
     width: 3em;
     margin-right: 0.5em;
   }
