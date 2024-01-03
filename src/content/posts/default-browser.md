@@ -3,6 +3,8 @@ title: "Default Browser Switching"
 description: Sometimes it's nice to have apps automatically open links in a different browser, which is why the ability to quickly change default browsers is handy.
 date: "2023-12-29T05:00:00-07:00"
 keywords: ["mac", "apps", "terminal", "raycast", "programming", "applescript"]
+cover: "../../assets/images/covers/RaycastHeader.png"
+coverAlt: "Raycast"
 series: "Raycast"
 slug: "default-browser"
 ---
