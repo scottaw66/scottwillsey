@@ -406,7 +406,7 @@ a.readit {
 }
 
 [data-icon="bi:calendar2-week-fill"] {
-  width: 0.8em;
+  font-size: 0.8em;
   padding-right: 0.5rem;
   color: var(--accent1);
 }
@@ -500,7 +500,7 @@ div.hero img {
   }
 
   [data-icon="bi:calendar2-week-fill"] {
-    width: 0.6em;
+    font-size: 0.6em;
     padding-right: 0.25rem;
   }
 
@@ -532,12 +532,12 @@ div.tagcloud span, div.seriescloud span {
   font-weight: bold;
 }
 [data-icon="mdi:plus-box-multiple"] {
-  width: 2.5em;
-  margin: 0 0.5em -0.175em 0;
+  font-size: 3rem;
+  margin: 0 1.5rem -0.175rem 0;
 }
 [data-icon="mdi:tag-multiple"] {
-  width: 3.5em;
-  margin: 0 0.5em -0.175em 0;
+  font-size: 5rem;
+  margin: 0 1.5rem 0 0;
 }
 
 .footnote-container {

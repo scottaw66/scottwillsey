@@ -19,7 +19,10 @@ let description = "Series of related posts on " + site.title + ".";
 <Base title={title} description={description}>
   <article data-pagefind-ignore>
     <span id="series-list">
-      <h1><Icon name="mdi:plus-box-multiple" /><a href="/series">Series</a></h1>
+      <h1>
+        <Icon name="mdi:plus-box-multiple" />
+        <a href="/series">Series</a>
+      </h1>
       <div class="series">
         {
           allSeries.map((series) => (
@@ -36,7 +39,7 @@ let description = "Series of related posts on " + site.title + ".";
     margin: 3em 1em;
   }
   span#series-list [data-icon="mdi:plus-box-multiple"] {
-    width: 1.5em;
-    margin: 0 0.3em -0.5em 0;
+    font-size: 3.5rem;
+    margin: 0 0.5rem -0.75rem 0;
   }
 </style>
