@@ -1,6 +1,6 @@
 ---
-title: "Now"
-description: Current and Recent Things
+title: "Now (and Recently)"
+description: Things I'm doing or find interesting now or recently
 date: "2024-01-03T09:00:00-07:00"
 slug: "now"
 ---
