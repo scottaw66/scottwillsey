@@ -18,6 +18,7 @@ html {
   --accent4-light: rgb(255, 234, 175);
   --accent5-light: #de9351;
   --accent6-light: rgb(80, 39, 132);
+  --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: rgb(199, 199, 250);
 
   --brand-dark: #009dff;
@@ -36,6 +37,7 @@ html {
   --accent4-dark: rgb(193, 136, 249);
   --accent5-dark: #de9351;
   --accent6-dark: rgb(37, 99, 206);
+  --accent-shadow-dark: rgba(255, 234, 175, 0.7);
   --footnote-link-dark: blue;
 
   --brand-hypercritical: #053793;
@@ -54,6 +56,7 @@ html {
   --accent4-hypercritical: rgb(255, 234, 175);
   --accent5-hypercritical: #de9351;
   --accent6-hypercritical: rgb(80, 39, 132);
+  --accent-shadow-hypercritical: rgba(57, 3, 107, 0.7);
   --footnote-link-hypercritical: rgb(199, 199, 250);
 }
 
@@ -103,6 +106,7 @@ html {
   --accent4: var(--accent4-light);
   --accent5: var(--accent5-light);
   --accent6: var(--accent6-light);
+  --accent-shadow: var(--accent-shadow-light);
   --footnote-link: var(--footnote-link-light);
 
   --surface1: var(--surface1-light);
@@ -138,6 +142,7 @@ html {
   --accent4: var(--accent4-dark);
   --accent5: var(--accent5-dark);
   --accent6: var(--accent6-dark);
+  --accent-shadow: var(--accent-shadow-dark);
   --footnote-link: var(--footnote-link-dark);
 
   --surface1: var(--surface1-dark);
@@ -172,6 +177,7 @@ html {
   --accent4: var(--accent4-hypercritical);
   --accent5: var(--accent5-hypercritical);
   --accent6: var(--accent6-hypercritical);
+  --accent-shadow: var(--accent-shadow-hypercritical);
   --footnote-link: var(--footnote-link-hypercritical);
 
   --surface1: var(--surface1-hypercritical);
