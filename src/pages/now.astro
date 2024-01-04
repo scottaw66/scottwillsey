@@ -14,6 +14,11 @@ let description = now.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{description}</h1>
+    <p class="now">
+      The <a href="https://nownownow.com/about">"now page"</a> concept comes from
+      an idea by <a href="https://sive.rs">Derek Sivers</a> to have people communicate
+      what they're focused on <b>now</b> at this point in their lives.
+    </p>
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
       <time datetime={now.data.date}>
@@ -35,7 +40,7 @@ let description = now.data.description;
     font-size: 0.8em;
   }
   div.time {
-    margin-bottom: 3rem;
+    margin-top: 2.5rem;
   }
   [data-icon="bi:calendar2-week-fill"] {
     font-size: 0.75rem;
