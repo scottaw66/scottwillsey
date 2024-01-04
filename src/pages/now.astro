@@ -1,24 +1,44 @@
 ---
+import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
-import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
-import site from "../data/site.json";
+import { postdate } from "../components/utilities/DateFormat.js";
 
-import av from "../assets/images/ScottLatest.jpg";
+const now = await getEntry("now", "now");
+const { Content } = await now.render();
 
-let title = "Now - " + site.title;
-let description = "What Scott Willsey is doing now";
+let title = now.data.title;
+let description = now.data.description;
 ---
 
 <Base title={title} description={description}>
   <article>
-    <h1>Now</h1>
-    <h4>{description}</h4>
+    <h1>{description}</h1>
+    <div class="time">
+      <Icon name="bi:calendar2-week-fill" />
+      <time datetime={now.data.date}>
+        <a href={`/${now.slug}`}>Updated {postdate(now.data.date)}</a>
+      </time>
+    </div>
+    <div class="now">
+      <Content />
+    </div>
   </article>
 </Base>
 
 <style>
   h4 {
     font-style: italic;
+  }
+  div.time,
+  div.time a {
+    font-size: 0.8em;
+  }
+  div.time {
+    margin-bottom: 3rem;
+  }
+  [data-icon="bi:calendar2-week-fill"] {
+    font-size: 0.75rem;
+    margin-bottom: -0.05rem;
   }
 </style>
