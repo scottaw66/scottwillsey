@@ -55,7 +55,6 @@ const title = "Search " + site.title;
   div.seriescloud div {
     display: flex;
     flex-direction: column;
-    flex-gap: 0.5em;
     margin: 0 2em;
     padding: 0;
   }
@@ -70,5 +69,32 @@ const title = "Search " + site.title;
   [data-icon="mdi:plus-circle-multiple"] {
     font-size: 1.25rem;
     margin: 0 0.25rem -0.2rem 0;
+  }
+
+  @media only screen and (max-width: 460px) {
+    div.seriescloud,
+    div.tagcloud {
+      margin: 0 0.75em;
+      font-size: 0.75rem;
+    }
+    div.seriescloud div {
+      gap: 0.25rem;
+      margin: 0 1rem;
+    }
+    span.all-series a {
+      font-size: 0.75rem;
+    }
+    [data-icon="mdi:plus-box-multiple"] {
+      font-size: 1rem;
+      margin: 0 0.75rem -0.1rem 0;
+    }
+    [data-icon="mdi:plus-circle-multiple"] {
+      font-size: 0.75rem;
+      margin: 0 0.1rem -0.1rem 0;
+    }
+    [data-icon="mdi:tag-multiple"] {
+      font-size: 2rem;
+      margin: 0 0.75rem 0 0;
+    }
   }
 </style>

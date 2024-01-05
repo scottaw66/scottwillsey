@@ -40,19 +40,26 @@ import av from "../assets/images/saw111.jpg";
     width: fit-content;
   }
 
-  .header div.title-image {
-    padding-top: 0.35rem;
-    text-shadow: 2px 2px 4px var(--accent-shadow);
-  }
-
   .header div.title-image img {
     border-radius: 50%;
     border: 2px solid var(--brand);
-    width: clamp(1.25rem, 2.75vw + 1rem, 5rem);
-    height: clamp(1.25rem, 2.75vw + 1rem, 5rem);
+    width: clamp(1.25rem, 2.75vw + 1rem, 4.5rem);
+    height: clamp(1.25rem, 2.75vw + 1rem, 4.5rem);
+    margin-bottom: -0.25rem;
     box-shadow: 2px 2px 4px var(--accent-shadow);
     -webkit-box-shadow: 2px 2px 4px var(--accent-shadow);
     -moz-box-shadow: 2px 2px 4px var(--accent-shadow);
+  }
+
+  @media only screen and (max-width: 460px) {
+    .header div.title {
+      text-shadow: 1px 1px 3px var(--accent-shadow);
+    }
+    .header div.title-image img {
+      box-shadow: 1px 1px 1px var(--accent-shadow);
+      -webkit-box-shadow: 1px 1px 1px var(--accent-shadow);
+      -moz-box-shadow: 1px 1px 1px var(--accent-shadow);
+    }
   }
 
   .header div.title a {
