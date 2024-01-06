@@ -1,7 +1,8 @@
 import { defineConfig } from "astro/config";
 import expressiveCode from "astro-expressive-code";
-import pagefind from "astro-pagefind";
 import icon from "astro-icon";
+import pagefind from "astro-pagefind";
+import remarkToc from 'remark-toc';
 
 /** @type {import('astro-expressive-code').AstroExpressiveCodeOptions} */
 const astroExpressiveCodeOptions = {
@@ -14,4 +15,7 @@ const astroExpressiveCodeOptions = {
 export default defineConfig({
     site: "https://scottwillsey.com/",
     integrations: [expressiveCode(astroExpressiveCodeOptions), icon(), pagefind()],
+    markdown: {
+    remarkPlugins: [ [remarkToc, { heading: "contents" } ] ],
+  },
 });
