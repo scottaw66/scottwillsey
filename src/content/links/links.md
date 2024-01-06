@@ -19,9 +19,11 @@ slug: "links"
 ## Raycast
 
 - [AI Prompt Explorer by Raycast](https://prompts.ray.so/code)
+- [Dynamic Placeholders](https://manual.raycast.com/dynamic-placeholders)
 - [Raycast Developer API](https://developers.raycast.com/)
 - [Raycast Store: Pipe Commands](https://www.raycast.com/pomdtr/pipe-commands)
 - [Raycast Store: PromptLab](https://www.raycast.com/HelloImSteven/promptlab)
+- [Reference for supported alphabets in custom date format](https://manual.raycast.com/snippets/reference-for-supported-alphabets-in-custom-date-format)
 
 ## Reads
 
@@ -32,6 +34,7 @@ slug: "links"
 
 ## Web Development
 
+- [Installing Expressive Code | Expressive Code](https://expressive-code.com/installation/)
 - [htmx](https://htmx.org/docs/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
