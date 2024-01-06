@@ -7,6 +7,8 @@ series: "Responsive Images"
 slug: "image-rabbit-hole-1"
 ---
 
+## Contents
+
 I fell down a deep rabbit hole yesterday thanks to the fact that I'm converting the [Friends with Beer podcast website](https://friendswithbeer.com) from [Eleventy](https://friendswithbeer.com) to [Astro](https://astro.build). The rabbit hole was specifically image optimization, the effort to build responsive and hopefully smaller file size images.
 
 ## Why image optimization?
@@ -95,7 +97,7 @@ This is an admittedly extreme example of generating 10 different images (5 sizes
 
 The Sizes attribute works as it does with img, in this case specifying that up to 800px browser width, the image should be sized to take up 95% of the viewport width, and above 800px wide, only 90% of the viewport width. The context here is that my whole website content section is set to a maximum of 70ch or something like that, so even if you have your browser in fullscreen mode on a 5k iMac, the image will only be 90% of 70ch wide anyway.
 
-### The Retina wrinkle
+## The Retina wrinkle
 
 Speaking of 5k iMac displays, there's a wrinkle in this whole image optimization scheme: high-resolution displays (known as [Retina displays](https://en.wikipedia.org/wiki/Retina_display) in the Apple world). Basically for a given resolution, the screen uses double or triple the pixel density in order to display things sharp enough that the individual pixels can't been seen by the human eye. What this means in terms of images on websites is that if you want to display a nice looking 800px wide image on a Retina display, you actually need a much higher resolution version of the image.
 
