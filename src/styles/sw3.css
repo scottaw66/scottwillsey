@@ -349,7 +349,13 @@ h6 {
   text-wrap: balance;
 }
 
+h1 {
+  font-size: 3rem;
+}
 
+h2 {
+  font-size: 2rem;
+}
 
 h1.fourohfour {
   font-family: GrandSans-Regular;
