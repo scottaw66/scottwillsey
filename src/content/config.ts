@@ -23,7 +23,17 @@ const nowCollection = defineCollection({
   }),
 });
 
+const linksCollection = defineCollection({
+  type: 'content', // v2.5.0 and later
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z.string().transform((str) => new Date(str)),
+  }),
+});
+
 export const collections = {
   posts: postCollection,
+  links: linksCollection,
   now: nowCollection,
 };
