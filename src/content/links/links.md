@@ -7,11 +7,10 @@ slug: "links"
 
 ## Contents
 
-## Books
-
-## Linux
-
 ## Mac
+
+- [Infinite Mac](https://infinitemac.org/)
+- [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
 
 ## Raycast
 
