@@ -11,4 +11,10 @@ slug: "links"
 
 ## Raycast
 
+- [AI Prompt Explorer by Raycast](https://prompts.ray.so/code)
+- [Raycast Developer API](https://developers.raycast.com/)
+
 ## Web Development
+
+- [htmx](https://htmx.org/docs/)
+- [Personal — The Valley of Code](https://thevalleyofcode.com/)
