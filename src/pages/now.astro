@@ -2,10 +2,10 @@
 import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
 import Base from "../layouts/Base.astro";
-import { postdate } from "../components/utilities/DateFormat.js";
+import { modifieddate } from "../components/utilities/DateFormat.js";
 
 const now = await getEntry("now", "now");
-const { Content } = await now.render();
+const { Content, remarkPluginFrontmatter } = await now.render();
 
 let title = now.data.title;
 let description = now.data.description;
@@ -22,7 +22,9 @@ let description = now.data.description;
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
       <time datetime={now.data.date}>
-        <a href={`/${now.slug}`}>Updated {postdate(now.data.date)}</a>
+        <a href={`/${now.slug}`}
+          >Last updated {modifieddate(remarkPluginFrontmatter.lastModified)}</a
+        >
       </time>
     </div>
     <div class="now">

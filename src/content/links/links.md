@@ -7,9 +7,11 @@ slug: "links"
 
 ## Contents
 
-## Apps
+## Books
 
-## macOS
+## Linux
+
+## Mac
 
 ## Raycast
 

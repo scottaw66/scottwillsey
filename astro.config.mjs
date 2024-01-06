@@ -2,6 +2,7 @@ import { defineConfig } from "astro/config";
 import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import pagefind from "astro-pagefind";
+import { remarkModifiedTime } from './src/components/utilities/remark-modified-time.mjs';
 import remarkToc from 'remark-toc';
 
 /** @type {import('astro-expressive-code').AstroExpressiveCodeOptions} */
@@ -16,6 +17,6 @@ export default defineConfig({
     site: "https://scottwillsey.com/",
     integrations: [expressiveCode(astroExpressiveCodeOptions), icon(), pagefind()],
     markdown: {
-    remarkPlugins: [ [remarkToc, { heading: "contents" } ] ],
+    remarkPlugins: [ remarkModifiedTime, [remarkToc, { heading: "contents" } ] ],
   },
 });
