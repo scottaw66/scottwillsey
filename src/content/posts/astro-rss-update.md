@@ -3,6 +3,7 @@ title: "Astro RSS 1.2.0 Update"
 description: Astro fixed a bug with Astro RSS that broke custom content.
 date: "2022-12-13T09:00:00-07:00"
 keywords: ["blog", "rss", "astro"]
+series: "Astro"
 slug: "astro-rss-update"
 ---
 

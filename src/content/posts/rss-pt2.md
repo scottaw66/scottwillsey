@@ -3,6 +3,7 @@ title: RSS, Astro, and Me – Part 2
 description: The details of my custom RSS feed.
 date: "2022-09-12T05:00:00-07:00"
 keywords: ["blog", "javascript", "astro", "rss"]
+series: "Astro"
 slug: "rss-pt2"
 ---
 As I mentioned in [Part 1](rss-pt1) of this installment, while trying to modify my site RSS feed to contain the full body of each post in my feed items, I ran into an inconvenient truth about how [MDX](https://mdxjs.com) exposes its file content as a component and how I could not use that component outside of an [Astro](https://astro.build) component. JavaScript just doesn't know what it is. Support for the MDX Content component has to be built into whatever framework you're using.
@@ -23,7 +24,7 @@ I use two components to create my RSS file, in the manner suggested by Chris Adi
 
 ### RssXml.astro
 
-The way RssXml.astro works is dictated by the fact that in order to render, it needs to directly output some html tags outside a javascript loop. This is because Astro components write html. It's how they work. 
+The way RssXml.astro works is dictated by the fact that in order to render, it needs to directly output some html tags outside a javascript loop. This is because Astro components write html. It's how they work.
 
 The fact that Astro components write html should not be overlooked because it can also mess with the actual RSS XML generated, a truth that caused me much grief until I learned about [Fragments](https://docs.astro.build/en/core-concepts/astro-components/#fragments—multiple-elements) and [set:html](https://docs.astro.build/en/reference/directives-reference/#sethtml). Using them in the combination `<Fragment set:html="" />` outputs RSS XML that isn't messed with by Astro trying to ruin the format of XML link elements, for example.
 
@@ -76,7 +77,7 @@ Some points of note:
 
 - I create a constant for the top of the RSS file above the items which holds all the channel tags, and a constant for the end of the file after the items (which is just the closing channel and RSS tags).
 - Secondly, the items are created in a JavaScript .map function which takes the array of posts and maps each item to create HTML fragments for them. It's all very straightforward if you've looked at an RSS feed before.
-- The most interesting detail to note by far, and indeed the whole reason behind this custom RSS approach, is the `<post.Content/>` component inside the .map function. For each post being mapped, I have a `<Fragment/>` wrapping everything before the post.Content object, then I end it, reference the post.Content object, and then create another Fragment object to wrap up the item XML. 
+- The most interesting detail to note by far, and indeed the whole reason behind this custom RSS approach, is the `<post.Content/>` component inside the .map function. For each post being mapped, I have a `<Fragment/>` wrapping everything before the post.Content object, then I end it, reference the post.Content object, and then create another Fragment object to wrap up the item XML.
 
 **It's important to understand that `<post.Content/>` is being accessed directly inside the Rss.Xml Astro component, it's not inside a JavaScript string or any other wrapper.**
 

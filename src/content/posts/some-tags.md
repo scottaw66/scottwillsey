@@ -3,6 +3,7 @@ title: "Some Tags"
 description: Thanks to the brilliance of those who came before me, I now have tags on my site.
 date: "2023-08-08T00:10:00-07:00"
 keywords: ["blog", "astro", "programming", "design"]
+series: "Astro"
 slug: "some-tags"
 ---
 
