@@ -7,6 +7,10 @@ slug: "links"
 
 ## Contents
 
+## Astro
+
+- [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
+
 ## Mac
 
 - [Infinite Mac](https://infinitemac.org/)
