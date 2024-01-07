@@ -34,7 +34,11 @@ import av from "../assets/images/saw111.jpg";
     grid-template-columns: fit-content(33%) fit-content(33%) fit-content(33%);
     font-family: var(--font-title);
     font-size: clamp(1.8rem, 5.5vw + 1rem, 8rem);
-    text-shadow: 2px 2px 4px var(--hyperlink);
+    text-shadow:
+      -1px 0 var(--accent1),
+      0 1px var(--accent1),
+      1px 1px var(--accent1),
+      0 -1px var(--accent1);
     padding: 0;
     margin: 0 auto 0.5rem;
     width: fit-content;
@@ -46,23 +50,35 @@ import av from "../assets/images/saw111.jpg";
 
   .header div.title-image img {
     border-radius: 50%;
-    border: 2px solid var(--hyperlink);
+    border: 1px solid var(--hyperlink);
     width: clamp(1.25rem, 2.75vw + 1rem, 4.5rem);
     height: clamp(1.25rem, 2.75vw + 1rem, 4.5rem);
     margin-bottom: -0.25rem;
-    box-shadow: 2px 2px 4px var(--hyperlink);
-    -webkit-box-shadow: 2px 2px 4px var(--hyperlink);
-    -moz-box-shadow: 2px 2px 4px var(--hyperlink);
+    box-shadow:
+      -1px 0 var(--accent1),
+      0 1px var(--accent1),
+      1px 1px var(--accent1),
+      0 -1px var(--accent1);
+    -webkit-box-shadow:
+      -1px 0 var(--accent1),
+      0 1px var(--accent1),
+      1px 1px var(--accent1),
+      0 -1px var(--accent1);
+    -moz-box-shadow:
+      -1px 0 var(--accent1),
+      0 1px var(--accent1),
+      1px 1px var(--accent1),
+      0 -1px var(--accent1);
   }
 
   @media only screen and (max-width: 460px) {
     .header div.title {
-      text-shadow: 1px 1px 3px var(--hyperlink);
+      text-shadow: 1px 1px 1px var(--accent1);
     }
     .header div.title-image img {
-      box-shadow: 1px 1px 1px var(--hyperlink);
-      -webkit-box-shadow: 1px 1px 1px var(--hyperlink);
-      -moz-box-shadow: 1px 1px 1px var(--hyperlink);
+      box-shadow: 1px 1px 1px var(--accent1);
+      -webkit-box-shadow: 1px 1px 1px var(--accent1);
+      -moz-box-shadow: 1px 1px 1px var(--accent1);
     }
   }
 
