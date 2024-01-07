@@ -389,6 +389,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"grin-and-bear-it.md": {
+	id: "grin-and-bear-it.md";
+  slug: "grin-and-bear-it";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "hypercritical-theme.md": {
 	id: "hypercritical-theme.md";
   slug: "hypercritical-theme";
