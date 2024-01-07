@@ -163,7 +163,7 @@ html {
   --language-id: var(--language-id-dark);
 
   --pagefind-ui-primary: var(--surface-menu);
-  --pagefind-ui-text: #fff;
+  --pagefind-ui-text: var(--surface1);
   --pagefind-ui-message-text: var(--pagefind-ui-text);
   --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #fff;
