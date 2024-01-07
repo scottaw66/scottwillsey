@@ -2,7 +2,6 @@
 
 html {
   --brand-light: #144db7;
-  --hyperlink-light: #144db7;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
@@ -22,19 +21,13 @@ html {
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: rgb(199, 199, 250);
 
-  /* --brand-dark: #009dff; */
-  --brand-dark: #F8B537;
-  --hyperlink-dark: #58CCE7;
-  /* --text1-dark: #ddf4fb; */
-  --text1-dark: #F6F7ED;
-  --text2-dark: #58CCE7;
+  --brand-dark: #009dff;
+  --text1-dark: #ddf4fb;
+  --text2-dark: #009dff;
   --text3-dark: white;
   --quote-dark: var(--text1-dark);
-  /* --surface1-dark: rgb(0, 0, 16); */
-  /* --surface1-dark: rgba(16, 28, 42, 1.0); */
-  --surface1-dark: #101C2A;
-  /* --surface-menu-dark: rgba(254, 234, 175, 0.1); */
-  --surface-menu-dark: rgba(152, 190, 234, 0.1);
+  --surface1-dark: rgb(0, 0, 16);
+  --surface-menu-dark: rgba(254, 234, 175, 0.1);
   --post-bg-dark: var(--surface-menu-dark);
   --scroll-dark: #002338;
   --language-id-dark: rgb(243, 202, 88);
@@ -48,7 +41,6 @@ html {
   --footnote-link-dark: blue;
 
   --brand-hypercritical: #053793;
-  --hyperlink-hypercritical: #053793;
   --text1-hypercritical: var(--text1-light);
   --text2-hypercritical: var(--text2-light);
   --text3-hypercritical: var(--text3-light);
@@ -103,7 +95,7 @@ html {
 
 [site-theme="light"] {
   --brand: var(--brand-light);
-  --hyperlink: var(--hyperlink-light);
+
   --text1: var(--text1-light);
   --text2: var(--text2-light);
   --text3: var(--text3-light);
@@ -140,7 +132,7 @@ html {
 
 [site-theme="dark"] {
   --brand: var(--brand-dark);
-  --hyperlink: var(--hyperlink-dark);
+
   --text1: var(--text1-dark);
   --text2: var(--text2-dark);
   --text3: var(--text3-dark);
@@ -175,7 +167,7 @@ html {
 
 [site-theme="hypercritical"] {
   --brand: var(--brand-hypercritical);
-  --hyperlink: var(--hyperlink-hypercritical);
+
   --text1: var(--text1-hypercritical);
   --text2: var(--text2-hypercritical);
   --text3: var(--text3-hypercritical);
@@ -390,7 +382,7 @@ p {
 
 a {
   text-decoration: none;
-  color: var(--hyperlink);
+  color: var(--brand);
 }
 
 a:hover {

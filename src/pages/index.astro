@@ -21,19 +21,13 @@ let description = site.description;
 <Base title={title} description={description}>
   <article>
     <div class="blurb">
-      <div class="divider">
-        <Icon name="openmoji:apple" /><Icon name="ic:twotone-laptop-mac" /><Icon
-          name="openmoji:apple"
-        />
-      </div>
       <p>
-        <b>Hi!</b> I'm <b><a href="/about">Scott Willsey</a></b>. I <a href="/1"
-          >write about computing related topics</a
-        > on this site. You can use the <a href="/search">site search</a> to find
-        things I've written about, or click the <a href="/1">posts link</a>
+        I write about <a href="/1">computing related topics</a>. You can <a
+          href="/search">search</a
+        > or click the <a href="/1">posts link</a>
         to browse. <i
           >There are also <a href="/tags">tags</a>
-          <Icon name="uiw:tags" /> and <a href="/series">series!</a>
+          <Icon name="uiw:tags" /> and <a href="/series">series.</a>
           <Icon name="mdi:plus-box-multiple" /></i
         >
       </p>
@@ -41,13 +35,10 @@ let description = site.description;
         Most of what I write about here is <Icon name="openmoji:apple" /><a
           href="/tags/mac/"
           ">Mac</a
-        > or web related. I like to talk about automation, software tools, and web
-        platforms like <Icon name="openmoji:rocket" /><a
-          href="https://astro.build"
-          target="_blank">Astro</a
+        > or web related. <a href="/now">Here is</a> what I'm up to <a
+          href="/now">now</a
         >.
       </p>
-      <p><a href="/now">Here is</a> what I'm up to <a href="/now">now</a>.</p>
     </div>
   </article>
 
@@ -90,11 +81,6 @@ let description = site.description;
   article {
     margin-bottom: 0;
   }
-  div.blurb b:first-of-type {
-    font-size: 2em;
-    margin-right: 0.5rem;
-    line-height: 95%;
-  }
   h1 {
     margin-left: 2rem;
   }
@@ -113,7 +99,7 @@ let description = site.description;
     margin: 0.25rem;
     color: var(--brand);
   }
-  div.blurb p:nth-child(3) [data-icon] {
+  div.blurb p:nth-child(2) [data-icon] {
     font-size: 1.5em;
     margin-bottom: -0.333rem;
   }
@@ -153,7 +139,7 @@ let description = site.description;
     margin: 3rem 2rem 2rem;
   }
   p.posts-link a {
-    color: var(--accent1);
+    color: var(--hyperlink);
     font-size: 2rem;
   }
   [data-icon="mdi:book-edit-outline"] {
@@ -163,6 +149,6 @@ let description = site.description;
   [data-icon="ep:copy-document"] {
     font-size: 2rem;
     margin: 0 0.25rem -0.333rem 0;
-    color: var(--accent1);
+    color: var(--hyperlink);
   }
 </style>

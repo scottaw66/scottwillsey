@@ -34,31 +34,35 @@ import av from "../assets/images/saw111.jpg";
     grid-template-columns: fit-content(33%) fit-content(33%) fit-content(33%);
     font-family: var(--font-title);
     font-size: clamp(1.8rem, 5.5vw + 1rem, 8rem);
-    text-shadow: 2px 2px 4px var(--accent-shadow);
+    text-shadow: 2px 2px 4px var(--hyperlink);
     padding: 0;
     margin: 0 auto 0.5rem;
     width: fit-content;
   }
 
+  .header div.title a {
+    color: var(--hyperlink);
+  }
+
   .header div.title-image img {
     border-radius: 50%;
-    border: 2px solid var(--brand);
+    border: 2px solid var(--hyperlink);
     width: clamp(1.25rem, 2.75vw + 1rem, 4.5rem);
     height: clamp(1.25rem, 2.75vw + 1rem, 4.5rem);
     margin-bottom: -0.25rem;
-    box-shadow: 2px 2px 4px var(--accent-shadow);
-    -webkit-box-shadow: 2px 2px 4px var(--accent-shadow);
-    -moz-box-shadow: 2px 2px 4px var(--accent-shadow);
+    box-shadow: 2px 2px 4px var(--hyperlink);
+    -webkit-box-shadow: 2px 2px 4px var(--hyperlink);
+    -moz-box-shadow: 2px 2px 4px var(--hyperlink);
   }
 
   @media only screen and (max-width: 460px) {
     .header div.title {
-      text-shadow: 1px 1px 3px var(--accent-shadow);
+      text-shadow: 1px 1px 3px var(--hyperlink);
     }
     .header div.title-image img {
-      box-shadow: 1px 1px 1px var(--accent-shadow);
-      -webkit-box-shadow: 1px 1px 1px var(--accent-shadow);
-      -moz-box-shadow: 1px 1px 1px var(--accent-shadow);
+      box-shadow: 1px 1px 1px var(--hyperlink);
+      -webkit-box-shadow: 1px 1px 1px var(--hyperlink);
+      -moz-box-shadow: 1px 1px 1px var(--hyperlink);
     }
   }
 

@@ -2,6 +2,7 @@
 
 html {
   --brand-light: #144db7;
+  --hyperlink-light: #144db7;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
@@ -21,13 +22,19 @@ html {
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: rgb(199, 199, 250);
 
-  --brand-dark: #009dff;
-  --text1-dark: #ddf4fb;
-  --text2-dark: #009dff;
+  /* --brand-dark: #009dff; */
+  --brand-dark: #F8B537;
+  --hyperlink-dark: #58CCE7;
+  /* --text1-dark: #ddf4fb; */
+  --text1-dark: #F6F7ED;
+  --text2-dark: #58CCE7;
   --text3-dark: white;
   --quote-dark: var(--text1-dark);
-  --surface1-dark: rgb(0, 0, 16);
-  --surface-menu-dark: rgba(254, 234, 175, 0.1);
+  /* --surface1-dark: rgb(0, 0, 16); */
+  /* --surface1-dark: rgba(16, 28, 42, 1.0); */
+  --surface1-dark: #101C2A;
+  /* --surface-menu-dark: rgba(254, 234, 175, 0.1); */
+  --surface-menu-dark: rgba(152, 163, 234, 0.1);
   --post-bg-dark: var(--surface-menu-dark);
   --scroll-dark: #002338;
   --language-id-dark: rgb(243, 202, 88);
@@ -37,10 +44,11 @@ html {
   --accent4-dark: rgb(193, 136, 249);
   --accent5-dark: #de9351;
   --accent6-dark: rgb(37, 99, 206);
-  --accent-shadow-dark: rgba(255, 234, 175, 0.7);
+  --accent-shadow-dark: var(--hyperlink-dark);
   --footnote-link-dark: blue;
 
   --brand-hypercritical: #053793;
+  --hyperlink-hypercritical: #053793;
   --text1-hypercritical: var(--text1-light);
   --text2-hypercritical: var(--text2-light);
   --text3-hypercritical: var(--text3-light);
@@ -95,7 +103,7 @@ html {
 
 [site-theme="light"] {
   --brand: var(--brand-light);
-
+  --hyperlink: var(--hyperlink-light);
   --text1: var(--text1-light);
   --text2: var(--text2-light);
   --text3: var(--text3-light);
@@ -132,7 +140,7 @@ html {
 
 [site-theme="dark"] {
   --brand: var(--brand-dark);
-
+  --hyperlink: var(--hyperlink-dark);
   --text1: var(--text1-dark);
   --text2: var(--text2-dark);
   --text3: var(--text3-dark);
@@ -157,17 +165,17 @@ html {
   --pagefind-ui-primary: var(--surface-menu);
   --pagefind-ui-text: #fff;
   --pagefind-ui-message-text: var(--pagefind-ui-text);
-  --pagefind-ui-result-title-text: var(--accent1);
+  --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #fff;
   --pagefind-ui-background: #83645a;
-  --pagefind-input-background: var(--brand);
+  --pagefind-input-background: var(--hyperlink);
   --pagefind-ui-border: var(--brand);
   --pagefind-ui-tag: #b59c94;
 }
 
 [site-theme="hypercritical"] {
   --brand: var(--brand-hypercritical);
-
+  --hyperlink: var(--hyperlink-hypercritical);
   --text1: var(--text1-hypercritical);
   --text2: var(--text2-hypercritical);
   --text3: var(--text3-hypercritical);
@@ -382,11 +390,15 @@ p {
 
 a {
   text-decoration: none;
-  color: var(--brand);
+  color: var(--hyperlink);
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: var(--brand);
 }
 
 blockquote, .update {
