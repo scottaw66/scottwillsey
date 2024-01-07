@@ -2,7 +2,7 @@
 title: "Grin and Bear It"
 description: "Rethinking how I write blog posts on the Mac"
 date: "2024-01-07T00:13:36-08:00"
-keywords: ["blog", "astro", "programming", "javascript", "remark"]
+keywords: ["apps", "blog", "mac", "writing"]
 slug: "grin-and-bear-it"
 ---
 
