@@ -11,10 +11,18 @@ slug: "links"
 
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 
+## Coffee
+
+- [Trade Coffee](https://www.drinktrade.com/)
+
 ## Mac
 
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
+
+## Podcasts
+
+- [Moving from Castro to Overcast](https://swipetounlock.co.uk/blog/2024-01/moving-castro-overcast)
 
 ## Raycast
 
