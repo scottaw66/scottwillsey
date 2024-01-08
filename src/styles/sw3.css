@@ -1,29 +1,34 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #144db7;
-  --hyperlink-light: #144db7;
+  --brand-light: #173ba6;
+  --title-light: var(--brand-light);
+  --hyperlink-light: var(--accent1-light);
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
-  --surface1-light: #ffffff;
-  --post-bg-light: var(--surface1-light);
-  /*--surface-menu-light: rgb(249, 246, 252);*/
-  --surface-menu-light: rgb(249, 242, 255);
+  --surface-menu-light: #87dbee;
+  --post-bg-light: var(--surface-menu-light);
+  --surface1-light: rgb(255, 234, 175);
   --scroll-light: #0046c9;
   --language-id-light: rgb(88, 243, 88);
-  --accent1-light: rgb(101, 18, 179);
+  --accent1-light: rgb(80, 39, 132);
   --accent2-light: rgb(96, 243, 88);
   --accent3-light: rgb(121, 60, 182);
   --accent4-light: rgb(255, 234, 175);
   --accent5-light: #de9351;
   --accent6-light: rgb(80, 39, 132);
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
-  --footnote-link-light: rgb(199, 199, 250);
+  --footnote-link-light: var(--accent4-light);
+  --footnote-bg-light: var(--text1-light);
+  --footnote-text-light: var(--text3-light);
+  --footnote-border-light: var(--surface1-light);
+  --footnote-bubble-light: var(--accent1-light);
 
   /* --brand-dark: #009dff; */
   --brand-dark: #F8B537;
+  --title-dark: var(--hyperlink-dark);
   --hyperlink-dark: #58CCE7;
   /* --text1-dark: #ddf4fb; */
   --text1-dark: #F6F7ED;
@@ -43,11 +48,16 @@ html {
   --accent3-dark: rgb(151, 226, 255);
   --accent4-dark: rgb(193, 136, 249);
   --accent5-dark: #de9351;
-  --accent6-dark: rgb(37, 99, 206);
+  --accent6-dark: var(--accent1-dark);
   --accent-shadow-dark: var(--hyperlink-dark);
-  --footnote-link-dark: blue;
+  --footnote-link-dark: rgb(4, 4, 119);
+  --footnote-bg-dark: var(--text3-dark);
+  --footnote-text-dark: var(--surface1-dark);
+  --footnote-border-dark: var(--accent3-dark);
+  --footnote-bubble-dark: var(--text3-dark);
 
   --brand-hypercritical: #053793;
+  --title-hypercritical: var(--hyperlink-hypercritical);
   --hyperlink-hypercritical: #053793;
   --text1-hypercritical: var(--text1-light);
   --text2-hypercritical: var(--text2-light);
@@ -65,7 +75,12 @@ html {
   --accent5-hypercritical: #de9351;
   --accent6-hypercritical: rgb(80, 39, 132);
   --accent-shadow-hypercritical: rgba(57, 3, 107, 0.7);
-  --footnote-link-hypercritical: rgb(199, 199, 250);
+  --footnote-link-hypercritical: var(--accent4-hypercritical);
+  --footnote-bg-hypercritical: var(--accent1-hypercritical);
+  --footnote-text-hypercritical: var(--text3-hypercritical);
+  --footnote-border-hypercritical: var(--surface1-hypercritical);
+  --footnote-bubble-hypercritical: var(--accent1-hypercritical);
+  
 }
 
 :root {
@@ -103,6 +118,7 @@ html {
 
 [site-theme="light"] {
   --brand: var(--brand-light);
+  --title: var(--title-light);
   --hyperlink: var(--hyperlink-light);
   --text1: var(--text1-light);
   --text2: var(--text2-light);
@@ -116,6 +132,10 @@ html {
   --accent6: var(--accent6-light);
   --accent-shadow: var(--accent-shadow-light);
   --footnote-link: var(--footnote-link-light);
+  --footnote-bg: var(--footnote-bg-light);
+  --footnote-text: var(--footnote-text-light);
+  --footnote-border: var(--footnote-border-light);
+  --footnote-bubble: var(--footnote-bubble-light);
 
   --surface1: var(--surface1-light);
   --surface-menu: var(--surface-menu-light);
@@ -140,6 +160,7 @@ html {
 
 [site-theme="dark"] {
   --brand: var(--brand-dark);
+  --title: var(--title-dark);
   --hyperlink: var(--hyperlink-dark);
   --text1: var(--text1-dark);
   --text2: var(--text2-dark);
@@ -152,6 +173,10 @@ html {
   --accent6: var(--accent6-dark);
   --accent-shadow: var(--accent-shadow-dark);
   --footnote-link: var(--footnote-link-dark);
+  --footnote-bg: var(--footnote-bg-dark);
+  --footnote-text: var(--footnote-text-dark);
+  --footnote-border: var(--footnote-border-dark);
+  --footnote-bubble: var(--footnote-bubble-dark);
 
   --surface1: var(--surface1-dark);
   --surface-menu: var(--surface-menu-dark);
@@ -175,6 +200,7 @@ html {
 
 [site-theme="hypercritical"] {
   --brand: var(--brand-hypercritical);
+  --title: var(--title-hypercritical);
   --hyperlink: var(--hyperlink-hypercritical);
   --text1: var(--text1-hypercritical);
   --text2: var(--text2-hypercritical);
@@ -187,6 +213,10 @@ html {
   --accent6: var(--accent6-hypercritical);
   --accent-shadow: var(--accent-shadow-hypercritical);
   --footnote-link: var(--footnote-link-hypercritical);
+  --footnote-bg: var(--footnote-bg-hypercritical);
+  --footnote-text: var(--footnote-text-hypercritical);
+  --footnote-border: var(--footnote-border-hypercritical);
+  --footnote-bubble: var(--footnote-bubble-hypercritical);
 
   --surface1: var(--surface1-hypercritical);
   --surface-menu: var(--surface-menu-hypercritical);
@@ -586,7 +616,7 @@ div.now ul li {
   cursor: pointer;
 }
 .footnote-button {
-  background: var(--text1);
+  background: var(--footnote-bubble);
   border: 0;
   border-radius: 0.475em;
   cursor: pointer;
@@ -636,9 +666,9 @@ div.now ul li {
   color: var(--surface1);
 }
 .bf-footnote {
-  background: var(--text1);
-  color: var(--surface1);
-  border: 1px solid var(--accent1);
+  background: var(--footnote-bg);
+  color: var(--footnote-text);
+  border: 1px solid var(--footnote-border);
   border-radius: 0.25em;
   left: 0;
   margin: 1.618em 0;
@@ -678,7 +708,7 @@ div.now ul li {
 }
 .footnote-tooltip {
   background: inherit;
-  border: 1px solid #d8d8d8;
+  border: 1px solid var(--footnote-border);
   height: 1.3em;
   position: absolute;
   top: -0.49em;
