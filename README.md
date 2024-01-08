@@ -16,7 +16,9 @@ Astro is the fastest web development framework I've ever used, primarily because
 ## Other features
 
 🔖 [Astro-Expressive-Code](https://github.com/expressive-code/expressive-code/tree/main/packages/astro-expressive-code) for code syntax highlighting.
+
 🔎 [Astro-Pagefind](https://github.com/shishkin/astro-pagefind) for site search functionality.
+
 ✏️ Remark for Markdown processing (adding table of contents and auto-updated last modified dates).
 
 _All content &copy; 2024 by Scott Willsey_
