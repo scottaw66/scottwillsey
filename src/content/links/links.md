@@ -42,7 +42,9 @@ slug: "links"
 
 ## Web Development
 
-- [Installing Expressive Code | Expressive Code](https://expressive-code.com/installation/)
+- [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
 - [htmx](https://htmx.org/docs/)
+- [hugo-modules/responsive-images at main · UtkarshVerma/hugo-modules](https://github.com/UtkarshVerma/hugo-modules/tree/main/responsive-images)
+- [Installing Expressive Code | Expressive Code](https://expressive-code.com/installation/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
