@@ -1,24 +1,24 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #173ba6;
+  --brand-light: #E85A4F;
   --title-light: var(--brand-light);
-  --hyperlink-light: var(--accent1-light);
+  --hyperlink-light: #9f3f38;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
-  --surface-menu-light: #87dbee;
+  --surface-menu-light: rgba(215, 195, 163, 0.5);
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: rgb(255, 234, 175);
+  --surface1-light: #EAE8DC;
   --scroll-light: #0046c9;
   --language-id-light: rgb(88, 243, 88);
-  --accent1-light: rgb(80, 39, 132);
+  --accent1-light: #9f3f38;
   --accent2-light: rgb(96, 243, 88);
   --accent3-light: rgb(121, 60, 182);
   --accent4-light: rgb(255, 234, 175);
   --accent5-light: #de9351;
-  --accent6-light: rgb(80, 39, 132);
+  --accent6-light: #E98074;
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: var(--accent4-light);
   --footnote-bg-light: var(--text1-light);
