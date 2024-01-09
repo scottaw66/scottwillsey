@@ -8,9 +8,9 @@ html {
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
-  --surface-menu-light: rgba(215, 195, 163, 0.5);
+  --surface-menu-light: rgba(215, 195, 163, 0.3);
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: #EAE8DC;
+  --surface1-light: #ebeae4;
   --scroll-light: #0046c9;
   --language-id-light: rgb(88, 243, 88);
   --accent1-light: #9f3f38;
