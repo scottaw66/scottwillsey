@@ -31,6 +31,7 @@ slug: "links"
 - [Raycast Developer API](https://developers.raycast.com/)
 - [Raycast Store: Pipe Commands](https://www.raycast.com/pomdtr/pipe-commands)
 - [Raycast Store: PromptLab](https://www.raycast.com/HelloImSteven/promptlab)
+- [Raycast Store: Script Commands Store – Find and manage your Raycast Script Commands](https://www.raycast.com/tholanda/script-commands)
 - [Reference for supported alphabets in custom date format](https://manual.raycast.com/snippets/reference-for-supported-alphabets-in-custom-date-format)
 
 ## Reads
