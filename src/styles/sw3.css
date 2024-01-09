@@ -21,9 +21,9 @@ html {
   --accent6-light: #E98074;
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: var(--accent4-light);
-  --footnote-bg-light: var(--text1-light);
+  --footnote-bg-light: var(--hyperlink-light);
   --footnote-text-light: var(--text3-light);
-  --footnote-border-light: var(--surface1-light);
+  --footnote-border-light: var(--brand-light);
   --footnote-bubble-light: var(--accent1-light);
 
   /* --brand-dark: #009dff; */
