@@ -2,6 +2,7 @@ import { defineConfig } from "astro/config";
 import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import pagefind from "astro-pagefind";
+import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import { remarkModifiedTime } from './src/components/utilities/remark-modified-time.mjs';
 import remarkToc from 'remark-toc';
 
@@ -18,5 +19,6 @@ export default defineConfig({
     integrations: [expressiveCode(astroExpressiveCodeOptions), icon(), pagefind()],
     markdown: {
     remarkPlugins: [ remarkModifiedTime, [remarkToc, { heading: "contents" } ] ],
+    rehypePlugins: [ rehypeAccessibleEmojis ],
   },
 });
