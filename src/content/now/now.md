@@ -21,6 +21,7 @@ slug: "now"
 
 - [Godzilla Minus One](https://en.wikipedia.org/wiki/Godzilla_Minus_One)
 - [Monarch: Legacy of Monsters](https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew)
+- [Slow Horses](https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o)
 - [The Last of Us](https://www.hbo.com/the-last-of-us)
 - [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises)
 
