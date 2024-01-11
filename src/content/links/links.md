@@ -11,6 +11,10 @@ slug: "links"
 
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 
+## Books
+
+- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
+
 ## Coffee
 
 - [Trade Coffee](https://www.drinktrade.com/)

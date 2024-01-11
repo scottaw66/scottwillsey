@@ -11,6 +11,7 @@ slug: "now"
 
 ### Books
 
+- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
 - [The Shockwave Rider](https://books.apple.com/us/book/the-shockwave-rider/id845634177)
 - [Into Thin Air](https://books.apple.com/us/book/into-thin-air/id419951578)
 - [Endless Loop: The History of the BASIC Programming Language (Beginner's All-purpose Symbolic Instruction Code)](https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070)
