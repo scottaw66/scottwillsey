@@ -37,7 +37,9 @@ slug: "links"
 - [Marco.org](https://marco.org/)
 - [Rebecca Owen](https://beccais.online/)
 - [Robb Knight](https://rknight.me/)
+- [Sarah Rainsberger | 🐦 Sarah Rainsberger](https://www.rainsberger.ca/)
 - [Silvia Maggi - Designer](https://silviamaggidesign.com/)
+- [Stephanie Eckles | Front-End SWE, Author, Speaker](https://thinkdobecreate.com/)
 
 ## Books
 
@@ -63,3 +65,14 @@ slug: "links"
 - [Friends with Brews](https://friendswithbrews.com)
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
+
+## Web Dev
+
+- [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
+- [CSS { In Real Life }](https://css-irl.info/)
+- [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
+- [Frontend Horse | Creative Web Development](https://frontend.horse/)
+- [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
+- [Modern CSS Solutions](https://moderncss.dev/)
+- [Polypane, The browser for ambitious web developers](https://polypane.app/?ref=kevin)
+- [SmolCSS](https://smolcss.dev/)
