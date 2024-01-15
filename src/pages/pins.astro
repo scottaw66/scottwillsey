@@ -1,0 +1,47 @@
+---
+import { getEntry } from "astro:content";
+import { Icon } from "astro-icon/components";
+import Base from "../layouts/Base.astro.jsx";
+import { modifieddate } from "../components/utilities/DateFormat.js";
+
+const now = await getEntry("links", "links");
+const { Content, remarkPluginFrontmatter } = await now.render();
+
+let title = now.data.title;
+let description = now.data.description;
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>{title}</h1>
+    <p class="now">{description}</p>
+    <div class="time">
+      <Icon name="bi:calendar2-week-fill" />
+      <time datetime={now.data.date}>
+        <a href={`/${now.slug}`}
+          >Last updated {modifieddate(remarkPluginFrontmatter.lastModified)}</a
+        >
+      </time>
+    </div>
+    <div class="now">
+      <Content />
+    </div>
+  </article>
+</Base>
+
+<style>
+  h4 {
+    font-style: italic;
+  }
+  div.time,
+  div.time a {
+    font-size: 0.8em;
+  }
+  div.time {
+    margin-top: 2.5rem;
+  }
+  [data-icon="bi:calendar2-week-fill"] {
+    font-size: 0.75rem;
+    margin-bottom: -0.05rem;
+  }
+</style>

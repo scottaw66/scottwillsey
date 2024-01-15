@@ -192,6 +192,15 @@ declare module 'astro:content' {
   data: InferEntrySchema<"now">
 } & { render(): Render[".md"] };
 };
+"pins": {
+"pins.md": {
+	id: "pins.md";
+  slug: "pins";
+  body: string;
+  collection: "pins";
+  data: InferEntrySchema<"pins">
+} & { render(): Render[".md"] };
+};
 "posts": {
 "allgpts.md": {
 	id: "allgpts.md";
