@@ -12,13 +12,9 @@ slug: "pins"
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
 
-## Books
+## Linux
 
-- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
-
-## Coffee
-
-- [Trade Coffee](https://www.drinktrade.com/)
+- [Minimal Debian Install on a Headless pi | Notes and Ramblings](https://notes.1705.net/posts/debian-on-a-pi/)
 
 ## Mac
 

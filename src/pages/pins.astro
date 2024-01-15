@@ -1,10 +1,10 @@
 ---
 import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
-import Base from "../layouts/Base.astro.jsx";
+import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
-const now = await getEntry("links", "links");
+const now = await getEntry("pins", "pins");
 const { Content, remarkPluginFrontmatter } = await now.render();
 
 let title = now.data.title;
