@@ -47,7 +47,14 @@ slug: "links"
 
 ## Coffee
 
+- [Backporch Coffee Roasters](https://www.backporchcoffeeroasters.com/)
+- [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
+- [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
+- [Middle Fork Roasters](https://middleforkroasters.com/)
+- [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
 - [Trade Coffee](https://www.drinktrade.com/)
+- [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
+- [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
 ## Japan and Japanese Language
 
