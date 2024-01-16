@@ -2,6 +2,8 @@
 
 This is version 4.0.0 of my website, [scottwillsey.com](https://scottwillsey.com). This version is to bring compatibility with [Astro](https://astro.build) 4.x., as well as add some other quality of life and visual improvements.
 
+Recently I've added some pages inspired by fun trends on the web: a now page, a links page, a uses page.
+
 Astro is the fastest web development framework I've ever used, primarily because it's so well thought out and so easy to understand and write for.
 
 🚀[Astro](https://astro.build/) - Build the web you want
