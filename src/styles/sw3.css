@@ -579,6 +579,17 @@ div.hero img {
   }
 }
 
+table,
+th,
+td {
+  padding: 0.75rem;
+  margin: 2.5rem 0;
+  border: 1px solid var(--accent1);
+  border-collapse: collapse;
+  vertical-align: top;
+  text-align: left;
+}
+
 div.tagcloud, div.seriescloud {
   display: flex;
   align-items: flex-start;
