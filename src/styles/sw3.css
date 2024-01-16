@@ -300,6 +300,11 @@ html {
   }
 }
 
+html {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
 body::-webkit-scrollbar {
   width: 0.2em;
 }
@@ -343,7 +348,7 @@ div#wrapper-grid {
 
 @media only screen and (max-width: 1300px) {
   div#wrapper-grid {
-    grid-template-columns: min-content 50ch;
+    grid-template-columns: min-content 60ch;
     column-gap: 2rem;
   }
 }
