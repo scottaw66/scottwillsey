@@ -630,6 +630,15 @@ declare module 'astro:content' {
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 };
+"uses": {
+"uses.md": {
+	id: "uses.md";
+  slug: "uses";
+  body: string;
+  collection: "uses";
+  data: InferEntrySchema<"uses">
+} & { render(): Render[".md"] };
+};
 
 	};
 
