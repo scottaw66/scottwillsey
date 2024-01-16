@@ -29,7 +29,7 @@ slug: "links"
 | [Chamline](https://www.chamline.net/) | Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him. |
 | [CodeMacLife](https://codemaclife.com/) | I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere. |
 | [Craig Mod — Writer + Photographer](https://craigmod.com/) | Craig Mod is a writer and photographer and *really* thoughtful guy. The fact that he lives in and walks all over Japan, where I lived as a boy, makes him even more interesting to me. |
-| [davidnelson.net](https://davidnelson.net/) | David Nelson. What a kind man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed, mature adult. 😄 |
+| [davidnelson.net](https://davidnelson.net/) | David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed adult who I greatly enjoy talking with. |
 | [The Dent ·](https://acn.lol/) | Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech! |
 | [EuroVan Camper Stuff](https://1705.net/) | I don't think I know David H's last name, but he's the same guy from Notes and Ramblings below. He's also a Hemispheric Views adjacent person, and I like him. |
 | [Gordon's Tech](https://tech.kateva.org/) | Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, did ya?! |
