@@ -26,6 +26,9 @@ let description = links.data.description;
     <div class="now">
       <Content />
     </div>
+    <div class="pins">
+      <a href="/pins/"><Icon name="ic:baseline-add-location" /></a>
+    </div>
   </article>
 </Base>
 
@@ -43,5 +46,15 @@ let description = links.data.description;
   [data-icon="bi:calendar2-week-fill"] {
     font-size: 0.75rem;
     margin-bottom: -0.05rem;
+  }
+  div.pins {
+    margin: 8rem auto 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  [data-icon="ic:baseline-add-location"] {
+    color: var(--accent1);
+    font-size: 2.5rem;
   }
 </style>

@@ -1,8 +1,13 @@
 ---
 import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
+
+import mac from "../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
+import mbp from "../assets/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png";
+import mic from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 
 const uses = await getEntry("uses", "uses");
 const { Content, remarkPluginFrontmatter } = await uses.render();
@@ -14,7 +19,10 @@ let description = uses.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{title}</h1>
-    <p class="now">{description}</p>
+    <div class="use-header">
+      <Image src={mac} width="300" densities={[2, 3]} alt="My Computer" />
+      <p class="uses">{description}</p>
+    </div>
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
       <time datetime={uses.data.date}>
@@ -23,8 +31,38 @@ let description = uses.data.description;
         >
       </time>
     </div>
-    <div class="now">
+    <div class="uses">
       <Content />
+      <h2>Computer</h2>
+      <h3>2021 14" MacBook Pro M1 Pro</h3>
+      <ul>
+        <li>M1 Pro 10-core CPU, 16-core GPU</li>
+        <li>16GB RAM</li>
+        <li>1TB SSD</li>
+      </ul>
+      <div class="the-thing">
+        <Image src={mbp} width="300" densities={[2, 3]} alt="My Computer" />
+        <p class="uses">
+          It might not be THE most amazing computer, spec-wise, but Apple
+          Silicon Macs are game changers. It's quiet, it's cool, it's fast, and
+          it's instant-on. I've traditionally hated laptops because of their
+          massive compromises, and this removes them all.
+        </p>
+      </div>
+
+      <h2>Mic</h2>
+      <h3>Shure Beta 87A</h3>
+      <div class="the-thing">
+        <Image src={mic} width="300" densities={[2, 3]} alt="My Computer" />
+        <p class="uses">
+          My voice is bad, and most mics make it worse, but the <a
+            href="https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A"
+            >Shure Beta 87A</a
+          >
+          is easy to get a relatively neutral sound out of. If you don't like my
+          voice, you're not alone, but it isn't the fault of the mic.
+        </p>
+      </div>
     </div>
   </article>
 </Base>
@@ -32,6 +70,32 @@ let description = uses.data.description;
 <style>
   h4 {
     font-style: italic;
+  }
+  div.use-header,
+  div.the-thing {
+    display: flex;
+    flex-direction: row;
+    column-gap: 3rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 1rem 4rem;
+    background-color: var(--surface-menu);
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 1.2em;
+    font-style: italic;
+  }
+  div.the-thing {
+    font-size: 1em;
+    font-style: normal;
+    column-gap: 1rem;
+  }
+
+  @media only screen and (max-width: 699px) {
+    div.use-header {
+      flex-direction: column;
+    }
   }
   div.time,
   div.time a {

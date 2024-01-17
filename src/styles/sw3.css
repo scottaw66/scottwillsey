@@ -515,6 +515,32 @@ article img {
   content-visibility: auto;
 }
 
+div.uses h2 {
+  margin-top: 3rem;
+}
+div.uses h3 {
+  color: var(--accent1);
+  margin-left: 0.25rem;
+}
+div.uses img {
+  max-width: 350px;
+}
+div.uses ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em;
+}
+div.uses ul > li:first-child {
+  margin: 0;
+}
+div.uses ul strong {
+  font-size: 1.3em;
+}
+div.uses p {
+  margin: 1.2em;
+  font-style: italic;
+}
+
 @media only screen and (max-width: 1200px) {
   article img {
     display: flex;
