@@ -50,5 +50,6 @@ slug: "pins"
 - [Hypermedia Systems](https://hypermedia.systems/)
 - [hugo-modules/responsive-images at main · UtkarshVerma/hugo-modules](https://github.com/UtkarshVerma/hugo-modules/tree/main/responsive-images)
 - [Installing Expressive Code | Expressive Code](https://expressive-code.com/installation/)
+- [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
