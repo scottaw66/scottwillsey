@@ -523,7 +523,7 @@ div.uses h3 {
   margin-left: 0.25rem;
 }
 div.uses img {
-  max-width: 350px;
+  max-width: 225px;
 }
 @media only screen and (max-width: 399px) {
   div.uses img {
@@ -542,7 +542,6 @@ div.uses ul strong {
   font-size: 1.3em;
 }
 div.uses p {
-  margin: 1.2em;
   font-style: italic;
 }
 

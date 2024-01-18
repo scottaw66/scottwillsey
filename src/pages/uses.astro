@@ -5,9 +5,17 @@ import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
+import keychron from "../assets/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
 import mac from "../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
 import mbp from "../assets/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png";
 import mic from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+const bigkeychron =
+  "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
+const bigmac =
+  "/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
+const bigmbp = "/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png";
+const bigmic =
+  "/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 
 const uses = await getEntry("uses", "uses");
 const { Content, remarkPluginFrontmatter } = await uses.render();
@@ -20,7 +28,9 @@ let description = uses.data.description;
   <article>
     <h1>{title}</h1>
     <div class="use-header">
-      <Image src={mac} width="300" densities={[2, 3]} alt="My Computer" />
+      <a href={bigmac}
+        ><Image src={mac} width="300" densities={[2, 3]} alt="My Computer" /></a
+      >
       <p class="uses">{description}</p>
     </div>
     <div class="time">
@@ -31,8 +41,8 @@ let description = uses.data.description;
         >
       </time>
     </div>
+    <Content />
     <div class="uses">
-      <Content />
       <h2>Computer</h2>
       <h3>2021 14" MacBook Pro M1 Pro</h3>
       <ul>
@@ -41,7 +51,14 @@ let description = uses.data.description;
         <li>1TB SSD</li>
       </ul>
       <div class="the-thing">
-        <Image src={mbp} width="300" densities={[2, 3]} alt="My Computer" />
+        <a href={bigmbp}
+          ><Image
+            src={mbp}
+            width="300"
+            densities={[2, 3]}
+            alt="My Computer"
+          /></a
+        >
         <p class="uses">
           It might not be THE most amazing computer, spec-wise, but Apple
           Silicon Macs are game changers. It's quiet, it's cool, it's fast, and
@@ -50,10 +67,49 @@ let description = uses.data.description;
         </p>
       </div>
 
-      <h2>Mic</h2>
-      <h3>Shure Beta 87A</h3>
+      <h3>Keychron K2 Keyboard</h3>
+      <ul>
+        <li>84 key (75%)</li>
+        <li>BT and wired</li>
+        <li>Gateron Pro Brown switches</li>
+      </ul>
       <div class="the-thing">
-        <Image src={mic} width="300" densities={[2, 3]} alt="My Computer" />
+        <a href={bigkeychron}
+          ><Image
+            src={keychron}
+            width="300"
+            densities={[2, 3]}
+            alt="My Computer"
+          /></a
+        >
+        <p class="uses">
+          I love my clacky <a
+            href="https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
+            >Keychron K2</a
+          >, especially with my <a
+            href="https://drop.com/buy/artifact-bloom-series-keycap-set-ocean-wave"
+            >Artifact Bloom Ocean Wave keycaps</a
+          >. Don't tell anyone though, but I have another keyboard on the way...
+        </p>
+      </div>
+    </div>
+
+    <div class="uses">
+      <h2>Podcast Recording</h2>
+      <h3>Shure Beta 87A</h3>
+      <ul>
+        <li>Supercardiod condenser</li>
+        <li>XLR</li>
+      </ul>
+      <div class="the-thing">
+        <a href={bigmic}
+          ><Image
+            src={mic}
+            width="300"
+            densities={[2, 3]}
+            alt="My Computer"
+          /></a
+        >
         <p class="uses">
           My voice is bad, and most mics make it worse, but the <a
             href="https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A"
@@ -80,23 +136,37 @@ let description = uses.data.description;
     align-items: center;
     margin: 0 auto;
     padding: 0.5rem 2rem;
-    background-color: var(--surface-menu);
     border-radius: 10px;
     font-weight: 400;
     font-size: 1.2em;
     font-style: italic;
   }
+  div.use-header {
+    background-color: var(--surface-menu);
+  }
   div.the-thing {
     font-size: 1em;
     font-style: normal;
-    column-gap: 1rem;
+    column-gap: 3rem;
+    padding: 0 1rem;
+  }
+  div.uses {
+    background-color: var(--surface-menu);
+    padding: 0.1em 2rem;
+    margin: 2.25em 0;
+    border-radius: 10px;
   }
 
   @media only screen and (max-width: 699px) {
     div.use-header,
     div.the-thing {
       flex-direction: column;
-      padding: 1rem;
+    }
+    div.the-thing {
+      padding: 0 0.5rem;
+    }
+    div.uses {
+      padding: 0.1em 0.5rem;
     }
   }
   div.time,
