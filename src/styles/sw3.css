@@ -525,6 +525,11 @@ div.uses h3 {
 div.uses img {
   max-width: 350px;
 }
+@media only screen and (max-width: 399px) {
+  div.uses img {
+    max-width: 99%;
+  }
+}
 div.uses ul {
   list-style: none;
   padding: 0;

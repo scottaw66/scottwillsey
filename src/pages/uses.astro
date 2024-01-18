@@ -79,7 +79,7 @@ let description = uses.data.description;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    padding: 1rem 4rem;
+    padding: 0.5rem 2rem;
     background-color: var(--surface-menu);
     border-radius: 10px;
     font-weight: 400;
@@ -93,8 +93,10 @@ let description = uses.data.description;
   }
 
   @media only screen and (max-width: 699px) {
-    div.use-header {
+    div.use-header,
+    div.the-thing {
       flex-direction: column;
+      padding: 1rem;
     }
   }
   div.time,
