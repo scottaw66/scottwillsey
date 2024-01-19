@@ -44,12 +44,6 @@ let description = uses.data.description;
     <Content />
     <div class="uses">
       <h2>Computer</h2>
-      <h3>2021 14" MacBook Pro M1 Pro</h3>
-      <ul>
-        <li>M1 Pro 10-core CPU, 16-core GPU</li>
-        <li>16GB RAM</li>
-        <li>1TB SSD</li>
-      </ul>
       <div class="the-thing">
         <a href={bigmbp}
           ><Image
@@ -59,20 +53,22 @@ let description = uses.data.description;
             alt="My Computer"
           /></a
         >
-        <p class="uses">
-          It might not be THE most amazing computer, spec-wise, but Apple
-          Silicon Macs are game changers. It's quiet, it's cool, it's fast, and
-          it's instant-on. I've traditionally hated laptops because of their
-          massive compromises, and this removes them all.
-        </p>
+        <div>
+          <h3>2021 14" MacBook Pro M1 Pro</h3>
+          <ul>
+            <li>M1 Pro 10-core CPU, 16-core GPU</li>
+            <li>16GB RAM</li>
+            <li>1TB SSD</li>
+          </ul>
+        </div>
       </div>
+      <p class="uses">
+        It might not be THE most amazing computer, spec-wise, but Apple Silicon
+        Macs are game changers. It's quiet, it's cool, it's fast, and it's
+        instant-on. I've traditionally hated laptops because of their massive
+        compromises, and this removes them all.
+      </p>
 
-      <h3>Keychron K2 Keyboard</h3>
-      <ul>
-        <li>84 key (75%)</li>
-        <li>BT and wired</li>
-        <li>Gateron Pro Brown switches</li>
-      </ul>
       <div class="the-thing">
         <a href={bigkeychron}
           ><Image
@@ -82,25 +78,28 @@ let description = uses.data.description;
             alt="My Computer"
           /></a
         >
-        <p class="uses">
-          I love my clacky <a
-            href="https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
-            >Keychron K2</a
-          >, especially with my <a
-            href="https://drop.com/buy/artifact-bloom-series-keycap-set-ocean-wave"
-            >Artifact Bloom Ocean Wave keycaps</a
-          >. Don't tell anyone though, but I have another keyboard on the way...
-        </p>
+        <div>
+          <h3>Keychron K2 Keyboard</h3>
+          <ul>
+            <li>84 key (75%)</li>
+            <li>BT and wired</li>
+            <li>Gateron Pro Brown switches</li>
+          </ul>
+        </div>
       </div>
+      <p class="uses">
+        I love my clacky <a
+          href="https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
+          >Keychron K2</a
+        >, especially with my <a
+          href="https://drop.com/buy/artifact-bloom-series-keycap-set-ocean-wave"
+          >Artifact Bloom Ocean Wave keycaps</a
+        >. Don't tell anyone though, but I have another keyboard on the way...
+      </p>
     </div>
 
     <div class="uses">
       <h2>Podcast Recording</h2>
-      <h3>Shure Beta 87A</h3>
-      <ul>
-        <li>Supercardiod condenser</li>
-        <li>XLR</li>
-      </ul>
       <div class="the-thing">
         <a href={bigmic}
           ><Image
@@ -110,15 +109,22 @@ let description = uses.data.description;
             alt="My Computer"
           /></a
         >
-        <p class="uses">
-          My voice is bad, and most mics make it worse, but the <a
-            href="https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A"
-            >Shure Beta 87A</a
-          >
-          is easy to get a relatively neutral sound out of. If you don't like my
-          voice, you're not alone, but it isn't the fault of the mic.
-        </p>
+        <div>
+          <h3>Shure Beta 87A</h3>
+          <ul>
+            <li>Supercardiod condenser</li>
+            <li>XLR</li>
+          </ul>
+        </div>
       </div>
+      <p class="uses">
+        My voice is bad, and most mics make it worse, but the <a
+          href="https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A"
+          >Shure Beta 87A</a
+        >
+        is easy to get a relatively neutral sound out of. If you don't like my voice,
+        you're not alone, but it isn't the fault of the mic.
+      </p>
     </div>
   </article>
 </Base>
@@ -145,16 +151,22 @@ let description = uses.data.description;
     background-color: var(--surface-menu);
   }
   div.the-thing {
+    justify-content: flex-start;
+    align-items: flex-start;
     font-size: 1em;
     font-style: normal;
-    column-gap: 3rem;
-    padding: 0 1rem;
+    column-gap: 2rem;
+    padding: 0;
   }
   div.uses {
     background-color: var(--surface-menu);
     padding: 0.1em 2rem;
     margin: 2.25em 0;
     border-radius: 10px;
+  }
+  p.uses {
+    font-style: italic;
+    margin-bottom: 5rem;
   }
 
   @media only screen and (max-width: 699px) {
