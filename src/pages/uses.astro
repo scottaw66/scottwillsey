@@ -9,6 +9,7 @@ import keychron from "../assets/images/posts/KeychronK2-21CDCD23-642A-4062-A506-
 import mac from "../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
 import mbp from "../assets/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png";
 import mic from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+import wave from "../assets/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 const bigkeychron =
   "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
 const bigmac =
@@ -16,6 +17,8 @@ const bigmac =
 const bigmbp = "/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png";
 const bigmic =
   "/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+const bigwave =
+  "/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 
 const uses = await getEntry("uses", "uses");
 const { Content, remarkPluginFrontmatter } = await uses.render();
@@ -41,7 +44,7 @@ let description = uses.data.description;
         >
       </time>
     </div>
-    <Content />
+
     <div class="uses">
       <h2>Computer</h2>
       <div class="the-thing">
@@ -124,6 +127,31 @@ let description = uses.data.description;
         >
         is easy to get a relatively neutral sound out of. If you don't like my voice,
         you're not alone, but it isn't the fault of the mic.
+      </p>
+
+      <div class="the-thing">
+        <a href={bigwave}
+          ><Image
+            src={wave}
+            width="300"
+            densities={[2, 3]}
+            alt="My Computer"
+          /></a
+        >
+        <div>
+          <h3>Elgato Wave XLR</h3>
+          <ul>
+            <li>Single XLR input</li>
+            <li>Capacitive mute sensor</li>
+            <li>Clipguard software feature</li>
+          </ul>
+        </div>
+      </div>
+      <p class="uses">
+        I've used a few mic interfaces over the years, and my favorite by far is
+        the <a href="https://www.elgato.com/us/en/p/wave-xlr">Elgato Wave XLR</a
+        >. Unless you need multiple mics in one interface, you won't find a
+        nicer one for podcasting.
       </p>
     </div>
   </article>
