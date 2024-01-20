@@ -7,7 +7,7 @@ slug: "now"
 
 ### Podcasts
 
-- [Merchant Ivory Godzilla - The Incomparable Mothership #699 - The Incomparable](https://www.theincomparable.com/theincomparable/699/) *A really good synopsis and review of Godzilla Minus Zero.*
+- [Merchant Ivory Godzilla - The Incomparable Mothership #699 - The Incomparable](https://www.theincomparable.com/theincomparable/699/) *A really good synopsis and review of Godzilla Minus One.*
 - [Best of The Weekly Planet 2023 - The Weekly Planet | Acast](https://shows.acast.com/theweeklyplanet/episodes/best-of-the-weekly-planet-2023) *These guys are just hilarious.*
 
 ### Books
