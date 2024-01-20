@@ -7,18 +7,19 @@ slug: "now"
 
 ### Podcasts
 
+- [Merchant Ivory Godzilla - The Incomparable Mothership #699 - The Incomparable](https://www.theincomparable.com/theincomparable/699/) *A really good synopsis and review of Godzilla Minus Zero.*
 - [Best of The Weekly Planet 2023 - The Weekly Planet | Acast](https://shows.acast.com/theweeklyplanet/episodes/best-of-the-weekly-planet-2023) *These guys are just hilarious.*
 
 ### Books
 
 - [My Murder](https://books.apple.com/us/book/my-murder/id6443695501) *This is an unexpectedly hard to put down book. It's pretty compelling.*
-- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is a technical manual, not a history or novel, but it is **fascinating**.*
+- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is more technical manual than history or novel, but it is **fascinating**. It's really a how-to of sensitive data analysis.*
 - [Endless Loop: The History of the BASIC Programming Language (Beginner's All-purpose Symbolic Instruction Code)](https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070) *It's just fun.*
 - [The Confusion](https://books.apple.com/us/book/the-confusion/id360608725) *This one might take the rest of my life to get through. It's very enjoyable, but Neal Stephenson never met a detail he didn't love to throw in as a 15 page aside.*
 
 ### Movies and TV
 
-- [Godzilla Minus One](https://en.wikipedia.org/wiki/Godzilla_Minus_One) *This is better than anything the Monsterverse has given us. You will feel the feels.*
+- [Godzilla Minus One](https://en.wikipedia.org/wiki/Godzilla_Minus_One) *This is better than anything the Monsterverse has given us. You will feel the feels. So many layers, and I'm not talking about scales on a giant lizard.*
 - [Monarch: Legacy of Monsters](https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew) *I'm sticking with it, even though the quality is a little up and down.*
 - [Slow Horses](https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o) *Top.Notch.TV.*
 - [The Last of Us](https://www.hbo.com/the-last-of-us) *Human fungal infections are on the rise, so this hits a little too close to home, maybe, but I'm kind of enjoying it.*
