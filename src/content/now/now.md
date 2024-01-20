@@ -7,22 +7,23 @@ slug: "now"
 
 ### Podcasts
 
-- [Best of The Weekly Planet 2023 - The Weekly Planet | Acast](https://shows.acast.com/theweeklyplanet/episodes/best-of-the-weekly-planet-2023)
+- [Best of The Weekly Planet 2023 - The Weekly Planet | Acast](https://shows.acast.com/theweeklyplanet/episodes/best-of-the-weekly-planet-2023) *These guys are just hilarious.*
 
 ### Books
 
-- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
-- [Endless Loop: The History of the BASIC Programming Language (Beginner's All-purpose Symbolic Instruction Code)](https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070)
-- [The Confusion](https://books.apple.com/us/book/the-confusion/id360608725)
+- [My Murder](https://books.apple.com/us/book/my-murder/id6443695501) *This is an unexpectedly hard to put down book. It's pretty compelling.*
+- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is a technical manual, not a history or novel, but it is **fascinating**.*
+- [Endless Loop: The History of the BASIC Programming Language (Beginner's All-purpose Symbolic Instruction Code)](https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070) *It's just fun.*
+- [The Confusion](https://books.apple.com/us/book/the-confusion/id360608725) *This one might take the rest of my life to get through. It's very enjoyable, but Neal Stephenson never met a detail he didn't love to throw in as a 15 page aside.*
 
 ### Movies and TV
 
-- [Godzilla Minus One](https://en.wikipedia.org/wiki/Godzilla_Minus_One)
-- [Monarch: Legacy of Monsters](https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew)
-- [Slow Horses](https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o)
-- [The Last of Us](https://www.hbo.com/the-last-of-us)
-- [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises)
-- [For All Mankind](https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7)
+- [Godzilla Minus One](https://en.wikipedia.org/wiki/Godzilla_Minus_One) *This is better than anything the Monsterverse has given us. You will feel the feels.*
+- [Monarch: Legacy of Monsters](https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew) *I'm sticking with it, even though the quality is a little up and down.*
+- [Slow Horses](https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o) *Top.Notch.TV.*
+- [The Last of Us](https://www.hbo.com/the-last-of-us) *Human fungal infections are on the rise, so this hits a little too close to home, maybe, but I'm kind of enjoying it.*
+- [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises) *Legend*
+- [For All Mankind](https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7) *Another great one from Apple TV+*
 
 ### Food and Drink
 
@@ -31,7 +32,7 @@ slug: "now"
 
 ### Projects
 
-- Helping Ronnie and Vic on [The Liner Project](https://thelinerproject.com) website
+- Helping Ronnie and Vic on [The Liner Project](https://thelinerproject.com) website *Next up is optimized images so Ronnie can throw pictures in blog posts.*
 
 ### Learning
 
@@ -49,4 +50,4 @@ slug: "now"
 
 ### Family
 
-- Trying to get two cats to tolerate each other
+- Trying to get two cats to tolerate each other. It's taking forever.
