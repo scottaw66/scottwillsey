@@ -28,6 +28,8 @@ slug: "links"
 | [BryceWray.com](https://www.brycewray.com/) | Bryce Wray writes articles that help me figure out solutions to web development related problems I have, and for that reason alone, I love and recommend him. |
 | [Chamline](https://www.chamline.net/) | Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him. |
 | [CodeMacLife](https://codemaclife.com/) | I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere. |
+| [Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/) | Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be. |
+| [Cory Dransfeldt](https://coryd.dev/) | Software developer and personal blogger. |
 | [Craig Mod — Writer + Photographer](https://craigmod.com/) | Craig Mod is a writer and photographer and *really* thoughtful guy. The fact that he lives in and walks all over Japan, where I lived as a boy, makes him even more interesting to me. |
 | [davidnelson.net](https://davidnelson.net/) | David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed adult who I greatly enjoy talking with. |
 | [The Dent ·](https://acn.lol/) | Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech! |
