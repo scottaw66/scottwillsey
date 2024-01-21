@@ -53,3 +53,4 @@ slug: "pins"
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [rishi-raj-jain/astro-font: `astro-font` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.](https://github.com/rishi-raj-jain/astro-font)

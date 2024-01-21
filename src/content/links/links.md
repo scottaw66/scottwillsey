@@ -123,5 +123,6 @@ slug: "links"
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Modern CSS Solutions](https://moderncss.dev/)
+- [Modern Font Stacks](https://modernfontstacks.com/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [SmolCSS](https://smolcss.dev/)
