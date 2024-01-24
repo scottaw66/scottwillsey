@@ -11,6 +11,11 @@ slug: "pins"
 
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
+- [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
+
+## Keyboards
+
+- [Customizing the Keychron Q1 with QMK Configurator and Toolbox - YouTube](https://www.youtube.com/watch?v=hHPcejmgty0)
 
 ## Linux
 

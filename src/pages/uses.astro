@@ -6,6 +6,7 @@ import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
 import keychron from "../assets/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
+import keychronq1 from "../assets/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.jpeg";
 import mac from "../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
 import mbp from "../assets/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
 import mic from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
@@ -13,6 +14,8 @@ import owc from "../assets/images/posts/OWC11-Port-Thunderbolt-Dock-E7138300-1F0
 import wave from "../assets/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 const bigkeychron =
   "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
+const bigkeychronq1 =
+  "/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.jpeg";
 const bigmac =
   "/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
 const bigmbp = "/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
@@ -56,7 +59,7 @@ let description = uses.data.description;
             src={mbp}
             width="300"
             densities={[2, 3]}
-            alt="My Computer"
+            alt="2021 M1 Pro Macbook Pro"
           /></a
         >
         <div>
@@ -76,12 +79,43 @@ let description = uses.data.description;
       </p>
 
       <div class="the-thing">
+        <a href={bigkeychronq1}
+          ><Image
+            src={keychronq1}
+            width="300"
+            densities={[2, 3]}
+            alt="Keychron Q1 Keyboard"
+          /></a
+        >
+        <div>
+          <h3>Keychron Q1 Keyboard</h3>
+          <ul>
+            <li>84 key (75%)</li>
+            <li>BT and wired</li>
+            <li>QMK for greater customization</li>
+            <li>Gateron Pro Brown switches</li>
+            <li>6063 aluminum CNC machined body</li>
+          </ul>
+        </div>
+      </div>
+      <p class="uses">
+        Shhh... no one tell my K2 (see below), but the <a
+          href="https://www.keychron.com/products/keychron-q1">Keychron Q1</a
+        > is in a whole other leaque. Wow, built like a TANK, as <a
+          href="https://grepjason.sh">Jason</a
+        > says. I love the feel of the switches, the sound, the weight, the look,
+        the feel, the everything. I'm not sure I'll ever use another keyboard again.
+        Also... come on. Look at those shades of blue. It *is* available in other
+        colors, but why??
+      </p>
+
+      <div class="the-thing">
         <a href={bigkeychron}
           ><Image
             src={keychron}
             width="300"
             densities={[2, 3]}
-            alt="My Computer"
+            alt="Keychron K2 Keyboard"
           /></a
         >
         <div>
@@ -109,7 +143,7 @@ let description = uses.data.description;
             src={owc}
             width="300"
             densities={[2, 3]}
-            alt="My Computer"
+            alt="OWC 11-Port Thunderbolt Dock"
           /></a
         >
         <div>
@@ -138,7 +172,7 @@ let description = uses.data.description;
             src={mic}
             width="300"
             densities={[2, 3]}
-            alt="My Computer"
+            alt="Shure Beta 87A"
           /></a
         >
         <div>
@@ -164,7 +198,7 @@ let description = uses.data.description;
             src={wave}
             width="300"
             densities={[2, 3]}
-            alt="My Computer"
+            alt="Elgate Wave XLR"
           /></a
         >
         <div>
