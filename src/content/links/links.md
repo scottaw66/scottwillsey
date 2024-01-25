@@ -41,6 +41,7 @@ slug: "links"
 | [The Liner Project](https://thelinerproject.com/) | Ronnie Lutes – friend, blogger, former podcaster... what isn't he? He's no jerk, that's for sure! One day I'm moving to Vegas, Ronnie, and I'm moving into your house! |
 | [Marco.org](https://marco.org/) | You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️ |
 | [Notes and Ramblings](https://notes.1705.net/) | See the notes for EuroVan Camper Stuff above - it's David H! |
+| [Pixel Envy](https://pxlnv.com/) | Nick Heer's blog. I just stumbled across this tonight myself. Very much tech related, like most of the blogs I list here. |
 | [Rebecca Owen](https://beccais.online/) | I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄 |
 | [Robb Knight](https://rknight.me/) | Robb Knight does beautiful web work. AND he's a nice human being! But what really makes him stand out is his amazing [App Defaults](https://defaults.rknight.me/) page. |
 | [Sarah Rainsberger 🐦](<https://www.rainsberger.ca/>) | Sarah Rainsberger is lead for the [Astro docs project](https://docs.astro.build/), and she's also a super nice, super helpful, and super capable and organized human being. I sure hope the Astro people know how valuable she is to their mission. |
