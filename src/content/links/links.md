@@ -73,11 +73,20 @@ slug: "links"
 - [Tokyo Cheapo | The Ultimate Guide To Tokyo](https://tokyocheapo.com/)
 - [WaniKani / Dashboard](https://www.wanikani.com/)
 
+## Keyboards
+
+- [Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/)
+- [Keychron Q1 User Manual – Keychron | Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/pages/keychron-q1-user-manual)
+- [QMK Configurator](https://config.qmk.fm/#/matthewdias/minim/LAYOUT)
+- [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
+- [qmk/qmk_toolbox: A Toolbox companion for QMK Firmware](https://github.com/qmk/qmk_toolbox)
+
 ## Mac
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
 - [Adrian Nier - Color Doggy – Your loyal color helper](https://www.adriannier.de/colordoggy/)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
+- [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bear](https://bear.app/)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
