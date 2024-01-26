@@ -2,6 +2,7 @@
 .vscode/
 .eslint*
 .prettier*
+.nova/
 
 # build output
 dist

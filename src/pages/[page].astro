@@ -3,13 +3,13 @@ import Base from "../layouts/Base.astro";
 import Post from "../components/Post.astro";
 import Pager from "../components/Pager.astro";
 import { getCollection } from "astro:content";
-import site from "../data/site.json"
+import site from "../data/site.json";
 
 export async function getStaticPaths({ paginate }) {
   let posts = await getCollection("posts");
 
   posts = posts.sort(
-    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
+    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
   );
 
   return paginate(posts, {
