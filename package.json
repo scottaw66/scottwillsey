@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
   "dependencies": {
-    "@astrojs/rss": "^4.0.3",
+    "@astrojs/rss": "^4.0.4",
     "@astrojs/sitemap": "^3.0.5",
     "@iconify-json/bi": "^1.1.23",
     "@iconify-json/ep": "^1.1.14",
@@ -45,7 +45,7 @@
     "@iconify-json/ri": "^1.1.19",
     "@iconify-json/simple-icons": "^1.1.89",
     "@iconify-json/uiw": "^1.1.11",
-    "astro": "^4.2.4",
+    "astro": "^4.2.6",
     "astro-expressive-code": "^0.32.2",
     "astro-font": "^0.0.77",
     "astro-icon": "^1.0.2",
@@ -54,15 +54,15 @@
     "date-fns-tz": "^2.0.0",
     "markdown-it": "^14.0.0",
     "normalize.css": "^8.0.1",
-    "prettier": "^3.2.4",
-    "prettier-plugin-astro": "^0.13.0",
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
     "sanitize-html": "^2.11.0"
   },
   "devDependencies": {
-    "astro-eslint-parser": "^0.16.2",
+    "@typescript-eslint/parser": "^6.19.1",
     "eslint": "^8.56.0",
-    "eslint-plugin-astro": "^0.31.3"
+    "eslint-plugin-astro": "^0.31.3",
+    "prettier": "^3.2.4",
+    "prettier-plugin-astro": "^0.13.0"
   }
 }
