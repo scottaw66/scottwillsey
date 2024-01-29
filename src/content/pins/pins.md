@@ -50,6 +50,7 @@ slug: "pins"
 ## Web Development
 
 - [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
+- [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 - [htmx](https://htmx.org/docs/)
 - [</> htmx ~ Hypermedia-Driven Applications](https://htmx.org/essays/hypermedia-driven-applications/)
 - [Hypermedia Systems](https://hypermedia.systems/)

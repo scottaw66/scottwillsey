@@ -7,22 +7,17 @@ slug: "now"
 
 ### Podcasts
 
-- [Upgrade #496: 40th Anniversary of the Mac Draft - Relay FM](https://www.relay.fm/upgrade/496) *If you love the Mac like I do and you've used it for as long as I have, this may be one of the best episodes of any podcast you've ever listned to.*
+- [The Incomparable 700: A Dark Totoro](https://www.theincomparable.com/theincomparable/700/) *I always enjoy a good Miyazaki film discussion.*
 
 ***Recently Finished***
 
-- [Merchant Ivory Godzilla - The Incomparable Mothership #699 - The Incomparable](https://www.theincomparable.com/theincomparable/699/) *A really good synopsis and review of Godzilla Minus One.*
-- [Best of The Weekly Planet 2023 - The Weekly Planet | Acast](https://shows.acast.com/theweeklyplanet/episodes/best-of-the-weekly-planet-2023) *These guys are just hilarious.*
+- [Upgrade #496: 40th Anniversary of the Mac Draft - Relay FM](https://www.relay.fm/upgrade/496) *If you love the Mac like I do and you've used it for as long as I have, this may be one of the best episodes of any podcast you've ever listned to.*
 
 ### Books
 
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is more technical manual than history or novel, but it is **fascinating**. It's really a how-to of sensitive data analysis.*
 - [Endless Loop: The History of the BASIC Programming Language (Beginner's All-purpose Symbolic Instruction Code)](https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070) *It's just fun.*
 - [The Confusion](https://books.apple.com/us/book/the-confusion/id360608725) *This one might take the rest of my life to get through. It's very enjoyable, but Neal Stephenson never met a detail he didn't love to throw in as a 15 page aside.*
-
-***Recently Finished***
-
-- [My Murder](https://books.apple.com/us/book/my-murder/id6443695501) *This is an unexpectedly hard to put down book. It's pretty compelling.*
 
 ### Movies and TV
 
