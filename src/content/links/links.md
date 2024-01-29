@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-01-24T21:13:46-08:00"
+date: "2024-01-28T17:44:51-08:00"
 slug: "links"
 ---
 
@@ -121,6 +121,7 @@ slug: "links"
 
 ## Podcasts
 
+- [Accidental Tech Podcast](https://atp.fm/)
 - [Friends with Brews](https://friendswithbrews.com)
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
 - [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
