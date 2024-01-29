@@ -6,7 +6,7 @@ const postCollection = defineCollection({
       title: z.string(),
       description: z.string(),
       link: z.string().optional(),
-      date: z.string().transform((str) => new Date(str)),
+      date: z.string().transform((str) => new Date(str)).optional().nullable(),
       keywords: z.string().array(),
       cover: image().optional(),
       coverAlt: z.string().optional(),
@@ -19,7 +19,7 @@ const nowCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)),
+    date: z.string().transform((str) => new Date(str)).optional().nullable(),
   }),
 });
 
@@ -28,7 +28,7 @@ const linksCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)),
+    date: z.string().transform((str) => new Date(str)).optional().nullable(),
   }),
 });
 
@@ -37,7 +37,7 @@ const pinsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)),
+    date: z.string().transform((str) => new Date(str)).optional().nullable(),
   }),
 });
 
@@ -46,7 +46,7 @@ const usesCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)),
+    date: z.string().transform((str) => new Date(str)).optional().nullable(),
   }),
 });
 
