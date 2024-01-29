@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-01-23T21:44:44-08:00"
+date: "2024-01-28T17:37:16-08:00"
 slug: "now"
 ---
 
@@ -17,6 +17,9 @@ slug: "now"
 
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is more technical manual than history or novel, but it is **fascinating**. It's really a how-to of sensitive data analysis.*
 - [Endless Loop: The History of the BASIC Programming Language (Beginner's All-purpose Symbolic Instruction Code)](https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070) *It's just fun.*
+
+***Stuck in Progress***
+
 - [The Confusion](https://books.apple.com/us/book/the-confusion/id360608725) *This one might take the rest of my life to get through. It's very enjoyable, but Neal Stephenson never met a detail he didn't love to throw in as a 15 page aside.*
 
 ### Movies and TV
