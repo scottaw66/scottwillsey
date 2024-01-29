@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-01-28T17:44:51-08:00"
+date: "2024-01-29T08:22:19-08:00"
 slug: "links"
 ---
 
@@ -55,6 +55,8 @@ slug: "links"
 ## Coffee
 
 - [Backporch Coffee Roasters](https://www.backporchcoffeeroasters.com/)
+- [Caffe Vita Roasting Co. – Caffe Vita Coffee Roasting Co.](https://www.caffevita.com/)
+- [Café Mam – Organic Fair Trade Shade-Grown Coffee](https://cafemam.com/)
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
@@ -113,6 +115,7 @@ slug: "links"
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 - [Rogue Amoeba | SoundSource: A Superior Sound Control](https://rogueamoeba.com/soundsource/)
 - [Secure ShellFish – SSH Client for iOS and Mac](https://shellfishapp.com/)
+- [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
@@ -125,6 +128,7 @@ slug: "links"
 - [Friends with Brews](https://friendswithbrews.com)
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
 - [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
+- [Upgrade - Relay FM](https://www.relay.fm/upgrade)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 
 ## Web Dev
