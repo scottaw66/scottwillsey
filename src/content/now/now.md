@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-01-28T17:37:16-08:00"
+date: "2024-01-28T17:38:50-08:00"
 slug: "now"
 ---
 
@@ -27,10 +27,10 @@ slug: "now"
 - [My Neighbor Totoro](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) *Rewatched this again for my daughter's birthday. So good. We watched it in Japanese, of course, because, hey, I speak it, and she's in her second quarter of Japanese class. It's a lot of fun talking about the use of language and the subtitles vs. the original script.*
 - [Godzilla Minus One](https://en.wikipedia.org/wiki/Godzilla_Minus_One) *This is better than anything the Monsterverse has given us. You will feel the feels. So many layers, and I'm not talking about scales on a giant lizard.*
 - [The Last of Us](https://www.hbo.com/the-last-of-us) *Human fungal infections are on the rise, so this hits a little too close to home, maybe, but I'm kind of enjoying it. I'm watching this **super** slowly.*
-- [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises) *Legend*
 
 ***Recently Finished***
 
+- [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises) *Legend*
 - [For All Mankind](https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7) *Another great one from Apple TV+*
 - [Monarch: Legacy of Monsters](https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew) *I'm sticking with it, even though the quality is a little up and down.*
 - [Slow Horses](https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o) *Top.Notch.TV.*
