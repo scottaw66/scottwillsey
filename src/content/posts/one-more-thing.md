@@ -1,7 +1,7 @@
 ---
 title: One (More?) Thing
 description: Automating displaying my IP address in my menu bar.
-date: "2023-04-09T09:00:00-07:00"
+date: "2023-04-09T09:00:00-08:00"
 keywords: ["mac", "automation", "programming", "chatgpt"]
 series: "Automation"
 slug: "one-more-thing"

@@ -1,7 +1,7 @@
 ---
 title: "How to use Raycast and how it compares to Spotlight and Alfred"
 description: Raycast compared to Spotlight and Alfred.
-date: "2023-07-28T09:00:00-07:00"
+date: "2023-07-28T09:00:00-08:00"
 link: "https://www.theverge.com/23170431/raycast-how-to-macos-search-extensions-alfred-spotlight"
 keywords: ["mac", "raycast", "apps"]
 cover: "../../assets/images/covers/RaycastHeader.png"

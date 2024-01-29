@@ -1,7 +1,7 @@
 ---
 title: "The Mastodon Webfinger Domain Search Super Trick"
 description: You can help people find you on Mastodon by letting them search for your own domain name, regardless of what Mastodon instance you're on.
-date: "2022-11-23T05:00:00-07:00"
+date: "2022-11-23T05:00:00-08:00"
 keywords: ["mastodon", "search"]
 slug: "mastodon-webfinger"
 ---

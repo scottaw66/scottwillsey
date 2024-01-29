@@ -1,7 +1,7 @@
 ---
 title: "Reponsive Image Rabbit Hole – Part 2"
 description: Using automation, specifically Astro Image, to give the browser image options.
-date: "2022-09-30T05:00:00-07:00"
+date: "2022-09-30T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
 series: "Responsive Images"
 slug: "image-rabbit-hole-2"

@@ -1,7 +1,7 @@
 ---
 title: "Astro 3 and Responsive Images"
 description: "Astro 3 required me to rethink my site image optimization strategy yet again. Am I finally done? Probably not."
-date: "2023-09-18T05:00:00-07:00"
+date: "2023-09-18T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
 series: "Responsive Images"
 slug: "astro-3-responsive-images"

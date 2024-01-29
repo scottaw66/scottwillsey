@@ -1,7 +1,7 @@
 ---
 title: "Friends with Brews"
 description: Friends with Brews? Yes, it's the more inclusive incarnation of the Friends with Beer podcast.
-date: "2022-10-31T05:00:00-07:00"
+date: "2022-10-31T05:00:00-08:00"
 keywords: ["podcast", "friendswithbrews", "fwb"]
 slug: "fwbrews"
 ---

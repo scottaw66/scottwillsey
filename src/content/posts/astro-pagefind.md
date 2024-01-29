@@ -1,7 +1,7 @@
 ---
 title: "Astro-Pagefind"
 description: "Pagefind is a great find for static site search (thanks to Bryce Wray for that line) and Astro-Pagefind integrates it beautifully into Astro."
-date: "2023-06-12T09:00:00-07:00"
+date: "2023-06-12T09:00:00-08:00"
 keywords: ["search", "pagefind", "astro", "hugo", "eleventy"]
 series: "Astro"
 slug: "astro-pagefind"

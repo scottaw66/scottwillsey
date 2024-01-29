@@ -22,9 +22,7 @@ let description = now.data.description;
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
       <time datetime={now.data.date}>
-        <a href={`/${now.slug}`}
-          >Last updated {modifieddate(remarkPluginFrontmatter.lastModified)}</a
-        >
+        <a href={`/${now.slug}`}>Last updated {modifieddate(now.data.date)}</a>
       </time>
     </div>
     <div class="now">

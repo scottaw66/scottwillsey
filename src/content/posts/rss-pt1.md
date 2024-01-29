@@ -1,7 +1,7 @@
 ---
 title: RSS, Astro, and Me – Part 1
 description: Astro makes some things incredibly simple, and other things not nearly so.
-date: "2022-09-06T14:00:00-07:00"
+date: "2022-09-06T14:00:00-08:00"
 keywords: ["blog", "javascript", "astro", "rss"]
 series: "Astro"
 slug: "rss-pt1"

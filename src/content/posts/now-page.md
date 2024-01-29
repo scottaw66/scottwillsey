@@ -1,7 +1,7 @@
 ---
 title: Now Page
 description: It's a now page - it's what I'm doing now.
-date: "2024-01-04T09:00:00-07:00"
+date: "2024-01-04T09:00:00-08:00"
 keywords: ["blog","writing"]
 slug: "now-page"
 ---

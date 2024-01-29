@@ -1,7 +1,7 @@
 ---
 title: RSS, Astro, and Me – Part 2
 description: The details of my custom RSS feed.
-date: "2022-09-12T05:00:00-07:00"
+date: "2022-09-12T05:00:00-08:00"
 keywords: ["blog", "javascript", "astro", "rss"]
 series: "Astro"
 slug: "rss-pt2"

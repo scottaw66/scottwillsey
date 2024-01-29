@@ -1,7 +1,7 @@
 ---
 title: "Git Diff with Previous Commit Versions"
 description: "Comparing versions of the same file from two different commits using git."
-date: "2023-06-13T09:00:00-07:00"
+date: "2023-06-13T09:00:00-08:00"
 keywords: ["git", "programming"]
 slug: "gitcommitdiffs"
 ---

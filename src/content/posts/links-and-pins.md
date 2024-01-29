@@ -1,7 +1,7 @@
 ---
 title: "Links and Pins"
 description: I changed Links to be what it always should have been, and added Pins to be what Links was.
-date: "2024-01-15T09:00:00-07:00"
+date: "2024-01-15T09:00:00-08:00"
 keywords: ["blog"]
 slug: "links-and-pins"
 ---

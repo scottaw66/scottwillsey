@@ -1,7 +1,7 @@
 ---
 title: "A Series of Series"
 description: I write a lot of posts that are topically related, so now I can lump posts together in a series.
-date: "2023-08-28T09:00:00-07:00"
+date: "2023-08-28T09:00:00-08:00"
 keywords: ["blog", "astro"]
 series: "Astro"
 slug: "series-of-series"

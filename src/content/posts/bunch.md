@@ -1,7 +1,7 @@
 ---
 title: "Bunch"
 description: Bunch is an amazing little automation tool for controlling work environments on your Mac.
-date: "2023-02-14T05:00:00-07:00"
+date: "2023-02-14T05:00:00-08:00"
 keywords: ["mac", "automation", "applescript", "programming"]
 series: "Automation"
 slug: "bunch"

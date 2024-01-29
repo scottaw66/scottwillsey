@@ -1,7 +1,7 @@
 ---
 title: "Some Tags"
 description: Thanks to the brilliance of those who came before me, I now have tags on my site.
-date: "2023-08-08T00:10:00-07:00"
+date: "2023-08-08T00:10:00-08:00"
 keywords: ["blog", "astro", "programming", "design"]
 series: "Astro"
 slug: "some-tags"
@@ -15,7 +15,7 @@ Here's the YAML front matter for my last post, which was about [podcasting softw
 ---
 title: "My Podcasting Setup - Recording Software"
 description: Part 2 of a series on podcasting setups and workflows. This is the software I use for recording podcasts.
-date: "2023-08-04T09:00:00-07:00"
+date: "2023-08-04T09:00:00-08:00"
 keywords: ["mac", "apps", "podcast"]
 slug: "podcasting-recording-software"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Giving in to Astro Pagination"
 description: "Blog post pagination: I fought the Astro law and the Astro law won."
-date: "2023-05-01T09:00:00-07:00"
+date: "2023-05-01T09:00:00-08:00"
 keywords: ["astro", "blog", "design", "pagination", "programming"]
 series: "Astro"
 slug: "astro-pagination"

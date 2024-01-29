@@ -1,7 +1,7 @@
 ---
 title: Map Your Stuff
 description: JavaScript array maps are a common pattern in Astro, and very useful ones at that.
-date: "2022-09-26T05:00:00-07:00"
+date: "2022-09-26T05:00:00-08:00"
 keywords: ["astro", "javascript", "programming"]
 series: "Astro"
 slug: "map-stuff"

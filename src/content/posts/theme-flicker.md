@@ -1,7 +1,7 @@
 ---
 title: "Get Rid of Theme Flicker"
 description: Avoiding theme flicker on Astro sites with multiple themes.
-date: "2023-08-11T09:00:00-07:00"
+date: "2023-08-11T09:00:00-08:00"
 keywords: ["blog", "astro", "design", "programming", "css"]
 series: "Astro"
 slug: "theme-flicker"

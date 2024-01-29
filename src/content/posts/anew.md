@@ -1,7 +1,7 @@
 ---
 title: Anew
 description: My website has begun anew, and here's why.
-date: "2022-08-21T09:00:00-07:00"
+date: "2022-08-21T09:00:00-08:00"
 keywords: ["blog", "hugo", "eleventy", "javascript", "astro"]
 slug: "anew"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Astro Remark Eleventy Image"
 description: "Christian Ohanaja's Astro Remark Eleventy Image plugin."
-date: "2023-02-07T05:00:00-07:00"
+date: "2023-02-07T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
 series: "Responsive Images"
 slug: "astro-remark-eleventy-image"

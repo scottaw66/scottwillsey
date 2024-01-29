@@ -1,7 +1,7 @@
 ---
 title: "My Podcasting Setup – the Hardware"
 description: Part 1 of a series on podcasting setups and workflows. This is the hardware I use for podcasting.
-date: "2023-07-25T09:00:00-07:00"
+date: "2023-07-25T09:00:00-08:00"
 keywords: ["mac", "podcast", "hardware"]
 series: "My Podcasting Workflows"
 slug: "podcasting-setup-hardware"

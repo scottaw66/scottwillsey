@@ -1,7 +1,7 @@
 ---
 title: Friends with Transcripts
 description: Friends with Brews podcast now has episode transcripts!
-date: "2023-03-06T09:00:00-07:00"
+date: "2023-03-06T09:00:00-08:00"
 keywords: ["fwb", "podcast", "friendswithbrews"]
 slug: "friends-with-transcripts"
 ---

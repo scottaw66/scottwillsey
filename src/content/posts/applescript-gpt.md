@@ -1,7 +1,7 @@
 ---
 title: AppleScript GPT
 description: ChatGPT doesn't always get programming right.
-date: "2023-04-06T09:00:00-07:00"
+date: "2023-04-06T09:00:00-08:00"
 keywords:
   ["mac", "automation", "applescript", "images", "programming", "chatgpt"]
 slug: "applescript-gpt"
@@ -22,20 +22,20 @@ set outputFolder to (outputFolderAlias as string)
 set uuid to (do shell script "uuidgen")
 
 tell application "Finder"
-	-- Get a list of all files in the input directory
-	set fileList to every file of folder inputFolder
+ -- Get a list of all files in the input directory
+ set fileList to every file of folder inputFolder
 
-	-- Loop through each file and copy it to the output directory with a new name
-	repeat with aFile in fileList
-		set fileName to name of aFile
-		set fileExtension to name extension of aFile
-		set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
-		set newName to baseName & "-" & uuid & "." & fileExtension
-		set newFile to outputFolder & newName
-		duplicate aFile to folder outputFolder with replacing
-		delay 3
-		set name of (file newFile) to newName
-	end repeat
+ -- Loop through each file and copy it to the output directory with a new name
+ repeat with aFile in fileList
+  set fileName to name of aFile
+  set fileExtension to name extension of aFile
+  set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
+  set newName to baseName & "-" & uuid & "." & fileExtension
+  set newFile to outputFolder & newName
+  duplicate aFile to folder outputFolder with replacing
+  delay 3
+  set name of (file newFile) to newName
+ end repeat
 end tell
 
 
@@ -55,14 +55,14 @@ The correct code for the repeat loop section is:
 
 ```applescript
 repeat with aFile in fileList
-	set fileName to name of aFile
-	set fileExtension to name extension of aFile
-	set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
-	set newName to baseName & "-" & uuid & "." & fileExtension
-	set newFile to outputFolder & fileName
-	duplicate aFile to folder outputFolder with replacing
-	delay 3
-	set name of (file newFile) to newName
+ set fileName to name of aFile
+ set fileExtension to name extension of aFile
+ set baseName to text 1 thru ((length of fileName) - (length of fileExtension) - 1) of fileName
+ set newName to baseName & "-" & uuid & "." & fileExtension
+ set newFile to outputFolder & fileName
+ duplicate aFile to folder outputFolder with replacing
+ delay 3
+ set name of (file newFile) to newName
 end repeat
 ```
 

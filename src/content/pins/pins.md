@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-01-15T09:00:00-07:00"
+date: "2024-01-23T21:24:34-08:00"
 slug: "pins"
 ---
 

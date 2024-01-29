@@ -1,7 +1,7 @@
 ---
 title: "Raycasting"
 description: Some very basics of Raycast in the first in a series of articles on Raycast.
-date: "2023-08-25T09:00:00-07:00"
+date: "2023-08-25T09:00:00-08:00"
 keywords: ["mac", "raycast", "apps"]
 cover: "../../assets/images/covers/RaycastHeader.png"
 coverAlt: "Raycast"

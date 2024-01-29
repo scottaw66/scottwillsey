@@ -1,7 +1,7 @@
 ---
 title: "Named CSS Grid Template Areas"
 description: CSS Grid template areas allow for quick grid layout and layout changes.
-date: "2023-05-26T09:00:00-07:00"
+date: "2023-05-26T09:00:00-08:00"
 keywords: ["css", "responsive", "design"]
 slug: "gridtemplateareas"
 ---

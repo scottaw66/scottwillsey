@@ -1,7 +1,7 @@
 ---
 title: Adding to Allowed Tags in sanitize-html
 description: sanitize-html is a great utility for cleaning up HTML to include in RSS, among other things, but it has a limited set of allowed tags. Here's how to add to that list.
-date: "2023-06-27T05:00:00-07:00"
+date: "2023-06-27T05:00:00-08:00"
 keywords: ["javascript", "rss", "astro"]
 series: "Astro"
 slug: "sanitize-html"

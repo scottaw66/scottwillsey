@@ -1,7 +1,7 @@
 ---
 title: "Is This the Show?"
 description: A new podcast with a trio of hosts who've never been seen in the same room together before.
-date: "2023-06-21T09:00:00-07:00"
+date: "2023-06-21T09:00:00-08:00"
 keywords: ["podcast"]
 slug: "is-this-the-show"
 ---

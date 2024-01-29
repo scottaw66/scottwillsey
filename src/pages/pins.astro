@@ -4,11 +4,11 @@ import { Icon } from "astro-icon/components";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
-const now = await getEntry("pins", "pins");
-const { Content, remarkPluginFrontmatter } = await now.render();
+const pins = await getEntry("pins", "pins");
+const { Content, remarkPluginFrontmatter } = await pins.render();
 
-let title = now.data.title;
-let description = now.data.description;
+let title = pins.data.title;
+let description = pins.data.description;
 ---
 
 <Base title={title} description={description}>
@@ -17,9 +17,8 @@ let description = now.data.description;
     <p class="now">{description}</p>
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
-      <time datetime={now.data.date}>
-        <a href={`/${now.slug}`}
-          >Last updated {modifieddate(remarkPluginFrontmatter.lastModified)}</a
+      <time datetime={pins.data.date}>
+        <a href={`/${pins.slug}`}>Last updated {modifieddate(pins.data.date)}</a
         >
       </time>
     </div>

@@ -1,7 +1,7 @@
 ---
 title: "Hypercritical GOLD Theme"
 description: "In honor of John Siracusa's soon-ending every-five-year run of Hypercritical t-shirts, I've added a third theme to my site besides the usual light and dark themes: Hypercritical Gold."
-date: "2023-08-10T09:00:00-07:00"
+date: "2023-08-10T09:00:00-08:00"
 keywords: ["blog", "design"]
 slug: "hypercritical-theme"
 ---

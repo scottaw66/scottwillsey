@@ -1,7 +1,7 @@
 ---
 title: This Is a Blog
 description: This is a blog, and there are some other things I want from my website.
-date: "2022-09-19T05:00:00-07:00"
+date: "2022-09-19T05:00:00-08:00"
 keywords: ["blog"]
 slug: "this-blog"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Astro Markdown Image Story"
 description: "Astro's in a good place - native markdown image optimization is coming, and there is already an excellent third-party option for those who need it now."
-date: "2023-03-13T05:00:00-07:00"
+date: "2023-03-13T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
 series: "Responsive Images"
 slug: "astro-markdown-image-story"

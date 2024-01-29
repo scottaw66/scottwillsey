@@ -19,7 +19,7 @@ let description = links.data.description;
       <Icon name="bi:calendar2-week-fill" />
       <time datetime={links.data.date}>
         <a href={`/${links.slug}`}
-          >Last updated {modifieddate(remarkPluginFrontmatter.lastModified)}</a
+          >Last updated {modifieddate(links.data.date)}</a
         >
       </time>
     </div>

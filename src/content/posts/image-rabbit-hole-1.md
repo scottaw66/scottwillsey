@@ -1,7 +1,7 @@
 ---
 title: "Reponsive Image Rabbit Hole – Part 1"
 description: I learned about responsive images the hard way, by misunderstanding how they worked.
-date: "2022-09-28T05:00:00-07:00"
+date: "2022-09-28T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
 series: "Responsive Images"
 slug: "image-rabbit-hole-1"

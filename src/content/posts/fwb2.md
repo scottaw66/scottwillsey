@@ -1,7 +1,7 @@
 ---
 title: "Friends with Beer 2.0"
 description: Friends with Beer podcast has a new site, and it shouldn't surprise you that it's written with Astro.
-date: "2022-10-28T05:00:00-07:00"
+date: "2022-10-28T05:00:00-08:00"
 keywords: ["podcast", "friendswithbeer", "fwb", "astro"]
 slug: "fwb2"
 ---

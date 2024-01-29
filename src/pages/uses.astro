@@ -45,8 +45,7 @@ let description = uses.data.description;
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
       <time datetime={uses.data.date}>
-        <a href={`/${uses.slug}`}
-          >Last updated {modifieddate(remarkPluginFrontmatter.lastModified)}</a
+        <a href={`/${uses.slug}`}>Last updated {modifieddate(uses.data.date)}</a
         >test
       </time>
     </div>

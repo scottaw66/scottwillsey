@@ -1,7 +1,7 @@
 ---
 title: "More on Astro, Image Optimization, and Markdown"
 description: A continuing journey to get image optimization for markdown files with Astro.
-date: "2023-01-07T05:00:00-07:00"
+date: "2023-01-07T05:00:00-08:00"
 keywords: ["blog", "rss", "astro", "podcast", "images"]
 series: "Responsive Images"
 slug: "more-astro-image-markdown"
