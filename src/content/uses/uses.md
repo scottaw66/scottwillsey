@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: 2024-01-29T09:22:48Z
+date: "2024-01-28T17:25:58Z"
 slug: "uses"
 ---
 test
