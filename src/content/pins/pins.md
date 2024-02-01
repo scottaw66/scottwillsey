@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-01-28T17:41:00-08:00"
+date: "2024-02-01T15:07:50-08:00"
 slug: "pins"
 ---
 
@@ -9,6 +9,7 @@ slug: "pins"
 
 ## Astro
 
+- [Astro 4.3 | Astro](https://astro.build/blog/astro-430/)
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
 - [How to use Git Hooks to set Created and Modified Dates | AstroPaper](https://astro-paper.pages.dev/posts/setting-dates-via-git-hooks/)

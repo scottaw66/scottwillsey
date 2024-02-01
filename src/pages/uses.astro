@@ -50,6 +50,13 @@ let description = uses.data.description;
         >
       </time>
     </div>
+    <ul>
+      {
+        usesdata.map((use) => {
+          return <li>{use.Category}</li>;
+        })
+      }
+    </ul>
 
     <div class="uses">
       <h2>Computer</h2>
