@@ -34,7 +34,7 @@
     "@astrojs/sitemap": "^3.0.5",
     "@iconify-json/bi": "^1.1.23",
     "@iconify-json/ep": "^1.1.14",
-    "@iconify-json/fluent": "^1.1.46",
+    "@iconify-json/fluent": "^1.1.47",
     "@iconify-json/ic": "^1.1.17",
     "@iconify-json/ion": "^1.1.15",
     "@iconify-json/mdi": "^1.1.64",
@@ -43,12 +43,12 @@
     "@iconify-json/openmoji": "^1.1.46",
     "@iconify-json/ph": "^1.1.10",
     "@iconify-json/ri": "^1.1.19",
-    "@iconify-json/simple-icons": "^1.1.89",
+    "@iconify-json/simple-icons": "^1.1.90",
     "@iconify-json/uiw": "^1.1.11",
-    "astro": "^4.2.6",
-    "astro-expressive-code": "^0.32.2",
+    "astro": "^4.2.8",
+    "astro-expressive-code": "^0.32.3",
     "astro-font": "^0.0.77",
-    "astro-icon": "^1.0.2",
+    "astro-icon": "^1.0.4",
     "astro-pagefind": "https://gitpkg.now.sh/shishkin/astro-pagefind/packages/astro-pagefind?main",
     "date-fns": "^3.3.1",
     "date-fns-tz": "^2.0.0",
@@ -59,9 +59,9 @@
     "sanitize-html": "^2.11.0"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^6.19.1",
+    "@typescript-eslint/parser": "^6.20.0",
     "eslint": "^8.56.0",
-    "eslint-plugin-astro": "^0.31.3",
+    "eslint-plugin-astro": "^0.31.4",
     "prettier": "^3.2.4",
     "prettier-plugin-astro": "^0.13.0"
   }
