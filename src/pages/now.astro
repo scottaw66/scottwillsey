@@ -5,6 +5,7 @@ import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
 const now = await getEntry("now", "now");
+const { Content } = await now.render();
 
 let title = now.data.title;
 let description = now.data.description;

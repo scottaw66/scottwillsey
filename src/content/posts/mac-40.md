@@ -2,7 +2,7 @@
 title: "Mac 40"
 description: I don’t know if you’ve heard, but the Mac turned 40. And what a glorious 40 it is.
 date: "2024-01-25T09:00:00-08:00"
-keywords: ["mac", "40", "anniversary"]
+keywords: ["mac", "anniversary"]
 slug: "mac-40"
 ---
 
