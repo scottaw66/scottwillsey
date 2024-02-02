@@ -5,7 +5,6 @@ import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
 const pins = await getEntry("pins", "pins");
-const { Content, remarkPluginFrontmatter } = await pins.render();
 
 let title = pins.data.title;
 let description = pins.data.description;

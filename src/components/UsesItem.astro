@@ -1,0 +1,55 @@
+---
+import { Image } from "astro:assets";
+
+const { item } = Astro.props;
+---
+
+<div class="item">
+  <div class="the-thing">
+    <a href={`/images/posts/${item.Image}`}>
+      <Image
+        src={import(`../assets/images/posts/${item.Image}`)}
+        width="300"
+        densities={[2, 3]}
+        alt={item.Name}
+      />
+    </a>
+    <div>
+      <h3>{item.Name}</h3>
+      <ul>
+        {item.Specs.map((spec, index) => <li key={index}>{spec}</li>)}
+      </ul>
+    </div>
+  </div>
+  <p class="uses">
+    {item.Description}
+  </p>
+</div>
+<style>
+  div.the-thing {
+    display: flex;
+    flex-direction: row;
+    column-gap: 3rem;
+    border-radius: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 400;
+    column-gap: 2rem;
+    margin: 0 auto;
+    padding: 0;
+  }
+  p.uses {
+    font-style: italic;
+  }
+  div.item {
+    margin-bottom: 5rem;
+  }
+  @media only screen and (max-width: 699px) {
+    div.the-thing {
+      flex-direction: column;
+      padding: 0 0.5rem;
+    }
+  }
+</style>

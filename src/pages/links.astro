@@ -5,7 +5,6 @@ import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
 const links = await getEntry("links", "links");
-const { Content, remarkPluginFrontmatter } = await links.render();
 
 let title = links.data.title;
 let description = links.data.description;

@@ -21,7 +21,8 @@
                     "Gateron Pro Brown switches",
                     "6063 aluminum CNC machined body"
                 ],
-                "Description": "Shhh... no one tell my K2 (see below), but the [Keychron Q1](https://www.keychron.com/products/keychron-q1) is in a whole other leaque. Wow, built like a TANK, as [Jason](https://grepjason.sh) says. I love the feel of the switches, the sound, the weight, the look, the feel, the everything. I'm not sure I'll ever use another keyboard again. Also... come on. Look at those shades of blue. It *is* available in other colors, but why??",
+                "Link": "https://www.keychron.com/products/keychron-q1",
+                "Description": "Shhh... no one tell my K2 (see below), but the Keychron Q1 is in a whole other leaque. Wow, built like a TANK, as Jason from Hemispheric Views says. I love the feel of the switches, the sound, the weight, the look, the feel, the everything. I'm not sure I'll ever use another keyboard again. Also... come on. Look at those shades of blue. It *is* available in other colors, but why??",
                 "Image": "Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.jpeg"
             },
             {
@@ -31,7 +32,8 @@
                     "BT and wired",
                     "Gateron Pro Brown switches"
                 ],
-                "Description": "I love my clacky [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard), especially with my [Artifact Bloom Ocean Wave](https://drop.com/buy/artifact-bloom-series-keycap-set-ocean-wave) keycaps. Don't tell it though, but I have another favorite keyboard now...",
+                "Link": "https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard",
+                "Description": "I love my clacky Keychron K2, especially with my Artifact Bloom Ocean Wave keycaps. Don't tell it though, but I have another favorite keyboard now...",
                 "Image": "KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg"
             },
             {
@@ -39,7 +41,8 @@
                 "Specs": [
                     "Thunderbolt 4"
                 ],
-                "Description": "I prefer the [OWC 11-Port Thunderbolt Dock](https://eshop.macsales.com/shop/owc-thunderbolt-dock) to the eternally popular CalDigits. The external SSD always wakes and connects (not always true with my previous CalDigit), and it's rock solid. I mounted it under my desk, which has pluses and minuses, but overall I prefer it to having it on top of the desk.",
+                "Link": "https://eshop.macsales.com/shop/owc-thunderbolt-dock",
+                "Description": "I prefer the OWC 11-Port Thunderbolt Dock to the eternally popular CalDigits. The external SSD always wakes and connects (not always true with my previous CalDigit), and it's rock solid. I mounted it under my desk, which has pluses and minuses, but overall I prefer it to having it on top of the desk.",
                 "Image": "OWC11-Port-Thunderbolt-Dock-E7138300-1F0E-478A-91BD-9EA44701C393.jpeg"
             }
         ]
@@ -53,7 +56,8 @@
                     "Supercardiod condenser",
                     "XLR"
                 ],
-                "Description": "My voice is bad, and most mics make it worse, but the [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A) is easy to get a relatively neutral sound out of. If you don't like my voice, you're not alone, but it isn't the fault of the mic.",
+                "Link": "https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A",
+                "Description": "My voice is bad, and most mics make it worse, but the Shure Beta 87A is easy to get a relatively neutral sound out of. If you don't like my voice, you're not alone, but it isn't the fault of the mic.",
                 "Image": "ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg"
             },
             {
@@ -63,7 +67,8 @@
                     "Capacitive mute sensor",
                     "Clipguard software feature"
                 ],
-                "Description": "I've used a few mic interfaces over the years, and my favorite by far is the [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr). Unless you need multiple mics in one interface, you won't find a nicer one for podcasting.",
+                "Link": "https://www.elgato.com/us/en/p/wave-xlr",
+                "Description": "I've used a few mic interfaces over the years, and my favorite by far is the Elgato Wave XLR. Unless you need multiple mics in one interface, you won't find a nicer one for podcasting.",
                 "Image": "ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg"
             }
         ]
