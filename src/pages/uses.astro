@@ -2,33 +2,16 @@
 import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
+import UsesItem from "../components/UsesItem.astro";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 import usesdata from "../data/uses.json";
 
-import keychron from "../assets/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
-import keychronq1 from "../assets/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.jpeg";
 import mac from "../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
-import mbp from "../assets/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
-import mic from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
-import owc from "../assets/images/posts/OWC11-Port-Thunderbolt-Dock-E7138300-1F0E-478A-91BD-9EA44701C393.jpeg";
-import wave from "../assets/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
-const bigkeychron =
-  "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
-const bigkeychronq1 =
-  "/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.jpeg";
 const bigmac =
   "/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
-const bigmbp = "/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
-const bigmic =
-  "/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
-const bigowc =
-  "/images/posts/OWC11-Port-Thunderbolt-Dock-E7138300-1F0E-478A-91BD-9EA44701C393.jpeg";
-const bigwave =
-  "/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 
 const uses = await getEntry("uses", "uses");
-const { Content, remarkPluginFrontmatter } = await uses.render();
 
 let title = uses.data.title;
 let description = uses.data.description;
@@ -50,197 +33,23 @@ let description = uses.data.description;
         >
       </time>
     </div>
-    <ul>
-      {
-        usesdata.map((use) => {
-          return <li>{use.Category}</li>;
-        })
-      }
-    </ul>
-
-    <div class="uses">
-      <h2>Computer</h2>
-      <div class="item">
-        <div class="the-thing">
-          <a href={bigmbp}
-            ><Image
-              src={mbp}
-              width="300"
-              densities={[2, 3]}
-              alt="2021 M1 Pro Macbook Pro"
-            /></a
-          >
-          <div>
-            <h3>2021 14" MacBook Pro M1 Pro</h3>
-            <ul>
-              <li>M1 Pro 10-core CPU, 16-core GPU</li>
-              <li>16GB RAM</li>
-              <li>1TB SSD</li>
-            </ul>
+    {
+      usesdata.map((use) => {
+        return (
+          <div class="uses">
+            <h2>{use.Category}</h2>
+            {use.Items.map((item) => (
+              <UsesItem item={item} />
+            ))}
           </div>
-        </div>
-        <p class="uses">
-          It might not be THE most amazing computer, spec-wise, but Apple
-          Silicon Macs are game changers. It's quiet, it's cool, it's fast, and
-          it's instant-on. I've traditionally hated laptops because of their
-          massive compromises, and this removes them all.
-        </p>
-      </div>
-      <div class="item">
-        <div class="the-thing">
-          <a href={bigkeychronq1}
-            ><Image
-              src={keychronq1}
-              width="300"
-              densities={[2, 3]}
-              alt="Keychron Q1 Keyboard"
-            /></a
-          >
-          <div>
-            <h3>Keychron Q1 Keyboard</h3>
-            <ul>
-              <li>84 key (75%)</li>
-              <li>BT and wired</li>
-              <li>QMK for greater customization</li>
-              <li>Gateron Pro Brown switches</li>
-              <li>6063 aluminum CNC machined body</li>
-            </ul>
-          </div>
-        </div>
-        <p class="uses">
-          Shhh... no one tell my K2 (see below), but the <a
-            href="https://www.keychron.com/products/keychron-q1">Keychron Q1</a
-          > is in a whole other leaque. Wow, built like a TANK, as <a
-            href="https://grepjason.sh">Jason</a
-          > says. I love the feel of the switches, the sound, the weight, the look,
-          the feel, the everything. I'm not sure I'll ever use another keyboard again.
-          Also... come on. Look at those shades of blue. It *is* available in other
-          colors, but why??
-        </p>
-      </div>
-      <div class="item">
-        <div class="the-thing">
-          <a href={bigkeychron}
-            ><Image
-              src={keychron}
-              width="300"
-              densities={[2, 3]}
-              alt="Keychron K2 Keyboard"
-            /></a
-          >
-          <div>
-            <h3>Keychron K2 Keyboard</h3>
-            <ul>
-              <li>84 key (75%)</li>
-              <li>BT and wired</li>
-              <li>Gateron Pro Brown switches</li>
-            </ul>
-          </div>
-        </div>
-        <p class="uses">
-          I love my clacky <a
-            href="https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
-            >Keychron K2</a
-          >, especially with my <a
-            href="https://drop.com/buy/artifact-bloom-series-keycap-set-ocean-wave"
-            >Artifact Bloom Ocean Wave keycaps</a
-          >. Don't tell anyone though, but I have another keyboard on the way...
-        </p>
-      </div>
-      <div class="item">
-        <div class="the-thing">
-          <a href={bigowc}
-            ><Image
-              src={owc}
-              width="300"
-              densities={[2, 3]}
-              alt="OWC 11-Port Thunderbolt Dock"
-            /></a
-          >
-          <div>
-            <h3>OWC 11-Port Thunderbolt Dock</h3>
-            <ul>
-              <li>Thunderbolt 4</li>
-            </ul>
-          </div>
-        </div>
-        <p class="uses">
-          I prefer the <a
-            href="https://eshop.macsales.com/shop/owc-thunderbolt-dock"
-            >OWC 11-Port Thunderbolt Dock</a
-          > to the eternally popular CalDigits. The external SSD always wakes and
-          connects (not always true with my previous CalDigit), and it's rock solid.
-          I mounted it under my desk, which has pluses and minuses, but overall I
-          prefer it to having it on top of the desk.
-        </p>
-      </div>
-    </div>
-    <div class="uses">
-      <h2>Podcast Recording</h2>
-      <div class="item">
-        <div class="the-thing">
-          <a href={bigmic}
-            ><Image
-              src={mic}
-              width="300"
-              densities={[2, 3]}
-              alt="Shure Beta 87A"
-            /></a
-          >
-          <div>
-            <h3>Shure Beta 87A</h3>
-            <ul>
-              <li>Supercardiod condenser</li>
-              <li>XLR</li>
-            </ul>
-          </div>
-        </div>
-        <p class="uses">
-          My voice is bad, and most mics make it worse, but the <a
-            href="https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A"
-            >Shure Beta 87A</a
-          >
-          is easy to get a relatively neutral sound out of. If you don't like my
-          voice, you're not alone, but it isn't the fault of the mic.
-        </p>
-      </div>
-      <div class="item">
-        <div class="the-thing">
-          <a href={bigwave}
-            ><Image
-              src={wave}
-              width="300"
-              densities={[2, 3]}
-              alt="Elgate Wave XLR"
-            /></a
-          >
-          <div>
-            <h3>Elgato Wave XLR</h3>
-            <ul>
-              <li>Single XLR input</li>
-              <li>Capacitive mute sensor</li>
-              <li>Clipguard software feature</li>
-            </ul>
-          </div>
-        </div>
-        <p class="uses">
-          I've used a few mic interfaces over the years, and my favorite by far
-          is the <a href="https://www.elgato.com/us/en/p/wave-xlr"
-            >Elgato Wave XLR</a
-          >. Unless you need multiple mics in one interface, you won't find a
-          nicer one for podcasting.
-        </p>
-      </div>
-    </div>
+        );
+      })
+    }
   </article>
 </Base>
 
 <style>
-  h4 {
-    font-style: italic;
-  }
-  div.use-header,
-  div.the-thing {
+  div.use-header {
     display: flex;
     flex-direction: row;
     column-gap: 3rem;
@@ -259,34 +68,19 @@ let description = uses.data.description;
   div.use-header img {
     min-width: 225px;
   }
-  div.the-thing {
-    justify-content: flex-start;
-    align-items: flex-start;
-    font-size: 1em;
-    font-style: normal;
-    column-gap: 2rem;
-    padding: 0;
-  }
   div.uses {
     background-color: var(--surface-menu);
     padding: 0.1em 2rem;
     margin: 2.25em 0;
     border-radius: 10px;
   }
-  p.uses {
-    font-style: italic;
-  }
   div.item {
     margin-bottom: 5rem;
   }
 
   @media only screen and (max-width: 699px) {
-    div.use-header,
-    div.the-thing {
+    div.use-header {
       flex-direction: column;
-    }
-    div.the-thing {
-      padding: 0 0.5rem;
     }
     div.uses {
       padding: 0.1em 0.5rem;
