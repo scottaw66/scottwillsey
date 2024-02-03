@@ -7,9 +7,9 @@ const { item } = Astro.props;
 
 <div class="item">
   <div class="the-thing">
-    <a href={`/images/posts/${item.Image}`}>
+    <a href={`/images/posts/${item.Image}.jpeg`}>
       <Image
-        src={import(`../assets/images/posts/${item.Image}`)}
+        src={import(`../assets/images/posts/${item.Image}.jpeg`)}
         width="300"
         densities={[2, 3]}
         alt={item.Name}
