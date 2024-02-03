@@ -14,19 +14,19 @@ Sometimes, though, what you want to put on the page is more complicated than you
 
 ## Background
 
-When I first created my [/uses](/uses) page, I thought I was going to do the same thing I do for my [/links](/links)  and [/now](/now) pages… namely, use Markdown for the “data” (please don’t make me say content) which would go into the Astro `<Content />` component to render the Markdown into HTML.
+When I first created my [/uses](/uses) page, I thought I was going to do the same thing I do for my [/links](/links)  and [/now](/now) pages… namely, use Markdown for the “data” (please don’t make me say content again) which would go into the Astro `<Content />` component to render the Markdown into HTML.
 
 But…
 
 As [Jason](https://grepjason.sh/) from [Hemispheric Views](https://hemisphericviews.com/) stated rather enthusiastically during a recent episode, Markdown isn’t always the right tool for the job. And it’s NOT the right tool for the /uses job, because I want a format and flexibility for this page that Markdown makes difficult, if not impossible.
 
-As a result, when I realized this fact as I was throwing together my initial /now page, I just write it up as a Astro page template with all the “data” (no, I will NOT) thrown in amongst the html tags, just like 1990 calling for its beautiful, manually handwritten pages back. But that’s gross. It’s gross because it’s harder to work with from an adding and editing perspective, and it just seems dumb.
+The result is that I created the /now page as an Astro page template with all the “data” (no, I will NOT) thrown in amongst the html tags, just like 1990 calling for its beautiful, manually handwritten pages back. But that’s gross. It’s gross because it’s harder to work with from an adding and editing perspective, and it just seems dumb.
 
-The answer is very simple, and it’s what I do on Friends with Beer for the drinks. I use a JSON data file and render it in different Astro page templates.
+The solution is very simple, and it’s what I do on Friends with Beer for the drinks. I use a JSON data file and render it in different Astro page templates.
 
 ## The Starting Point
 
-As I write this word, and THIS word, and even this one, my `uses.astro` file looks like this:
+My original `uses.astro` file looks like this:
 
 ```astro title="uses.astro"
 
@@ -84,7 +84,11 @@ As I write this word, and THIS word, and even this one, my `uses.astro` file loo
 </Base>
 ```
 
-You can see for yourself how un-fun that is to add new items to or edit existing ones. I have to carefully trawl through everything and make sure I’m not messing up nested divs and all kinds of junk. Even with VSCode’s code folding and syntax highlighting, it’s still ugly and nightmarish.
+The text that is the whole point of the page, namely the items that I use that I wish to present, are just more stuff in a sea of rendering implementation.
+
+You can see for yourself how un-fun it would be to add new items to or edit existing ones. It requires carefully trawling through everything and make sure I’m not messing up nested divs and all kinds of junk. Even with VSCode’s code folding and syntax highlighting, it’s still ugly and nightmarish.
+
+Let's fix this mess by breaking out the data from the drawing, so to speak.
 
 ## The Modifications
 
@@ -96,11 +100,11 @@ Step 2 is figuring out the data structure. I break my stuff up into categories o
 
 You can see that in each category, there are multiple items. Each item consists of:
 
-- A photo,
-- A title, or name,
+- The name of the item,
 - Some specs,
-- My thoughts about it,
-- An optional link to a website for the item.
+- An optional link to a website for the item,
+- My thoughts about it, aka a description,
+- An image of the item.
 
 Based on that, here’s how I’ll structure my JSON data file.
 
@@ -134,11 +138,11 @@ Then I just have to modify my `uses.astro` page template to read it in and map i
 
 ### An Astro Page Template Gets Smarter
 
-I lied just a little bit. I *am* going to modify `uses.astro` to parse the JSON data from `uses.json`, but I’m also going to create an Astro component called `UsesItem.astro` that will be used to render the items, and possibly one to render the categories (which would in turn call the one that renders the items).
+I lied just a little bit. I *am* going to modify `uses.astro` to parse the JSON data from `uses.json`, but I’m also going to create an Astro component called `UsesItem.astro` that will be used to render the individual items. So `uses.astro` is going to load the JSON file, map through the categories, and every time it hits a list of items, it’s going to hand the rendering for them over to the `UsesItem.astro` component.
 
 This will break it things up, make re-use easier if I ever want to render any of these items elsewhere, and generally make me happier. And I like being happier.
 
-Here’s what the /uses page template, `uses.astro`, looks like now:
+Here’s what the /uses page template, `uses.astro`, looks like now with this approach:
 
 ```astro title="uses.astro"
 ---
@@ -244,11 +248,13 @@ let description = uses.data.description;
 
 ```
 
-Now the only part that’s hard-coded into the page template is the area indicated by the rectangle marker below, which is right at the beginning of the `<article>` section.
+All the information, or data, or content, about the items is GONE from the html template. It’s all in the JSON file, and `uses.astro` is just a set of display instructions.
+
+Now the only part that’s hard-coded into the page template is the page introduction area indicated by the rectangle marker below, which is right at the beginning of the `<article>` section.
 
 [![Uses page header section](../../assets/images/posts/UsesTemplate1-E07B61D0-26E3-46ED-9ADB-64F2740B5DA1.png)](/images/posts/UsesTemplate1-E07B61D0-26E3-46ED-9ADB-64F2740B5DA1.png)
 
-Everything following it (i.e., the items themselves) comes from the JSON file in this section:
+Everything following it comes from the JSON file and is mapped out in this section:
 
 ```js
 {
@@ -265,7 +271,7 @@ Everything following it (i.e., the items themselves) comes from the JSON file in
 }
 ```
 
-You can see very little work of rendering the items is done in `uses.astro`. Instead, it relies on a `UsesItem` component which is imported from `UsesItem.astro`. The current item is passed as a prop to the component, which then renders the item detail view. Here’s `UsesItem.astro` in its entirety:
+Very little of the work of rendering the items is done in `uses.astro`. Instead, it relies on the `UsesItem` component which it imports from `UsesItem.astro`. The current item in the map loop is passed as a prop to the component, which then renders the item detail view. Here’s my `UsesItem.astro` component in its entirety, and half of it is CSS:
 
 ```astro title="UsesItem.astro"
 ---
@@ -354,9 +360,7 @@ The end result that is rendered is something like the following:
 
 ## Summarium
 
-The difference between a “page” and a “post” can be hard to define, but typically a “page” is something you’ll custom craft to look a certain way given its purpose. Posts, on the other hand, might all be rendered from Markdown files and will generally all have the same type of appearance.
-
-You can definitely use Markdown for your site content when appropriate, such as for a standard blog post. For anything more complicated, though, you’ll want to use a data source, like a json file, and a page template to parse it and map it. This way your data, or “content”, is separate from the rendering mechanics, but can be laid out on the page more intricately than is possible with a straight Markdown to HTML rendering.
+You can definitely use Markdown for site content when appropriate, such as for a standard blog post. For anything more complicated, though, you’ll want to use a data source, like a JSON file, and a page template to parse it and map it. This way your data, or “content”, is separate from the rendering mechanics, but can be laid out on the page more intricately than is possible with a straight Markdown to HTML rendering.
 
 The good news is that Astro page templates and components are super flexible in terms of easily mixing HTML, CSS, and JavaScript, and they’re the right tool to use for a one-off page with a custom layout.
 
