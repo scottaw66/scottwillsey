@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-02-03T19:26:31-08:00"
+date: "2024-02-03T19:46:31-08:00"
 slug: "pins"
 ---
 
@@ -54,6 +54,7 @@ slug: "pins"
 ## Web Development
 
 - [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
+- [Flexoki — Steph Ango](https://stephango.com/flexoki)
 - [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 - [htmx](https://htmx.org/docs/)
 - [</> htmx ~ Hypermedia-Driven Applications](https://htmx.org/essays/hypermedia-driven-applications/)
