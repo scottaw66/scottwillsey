@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-02-01T15:07:50-08:00"
+date: "2024-02-03T19:26:31-08:00"
 slug: "pins"
 ---
 
@@ -25,6 +25,8 @@ slug: "pins"
 
 ## Mac
 
+- [Getting Started – Anybox](https://anybox.app/getting-started)
+- [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
 
