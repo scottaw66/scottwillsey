@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-04T22:32:46-08:00"
+date: "2024-02-05T12:50:28-08:00"
 slug: "links"
 ---
 
@@ -45,6 +45,7 @@ slug: "links"
 | [Rebecca Owen](https://beccais.online/) | I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄 |
 | [Robb Knight](https://rknight.me/) | Robb Knight does beautiful web work. AND he's a nice human being! But what really makes him stand out is his amazing [App Defaults](https://defaults.rknight.me/) page. |
 | [Sarah Rainsberger 🐦](<https://www.rainsberger.ca/>) | Sarah Rainsberger is lead for the [Astro docs project](https://docs.astro.build/), and she's also a super nice, super helpful, and super capable and organized human being. I sure hope the Astro people know how valuable she is to their mission. |
+| [SIRACUSA SAYS](https://siracusasays.com/) | A fun collection of things John Siracusa has said on podcasts. |
 | [Silvia Maggi - Designer](https://silviamaggidesign.com/) | I only just found Silvia Maggi's site, but as anyone can see by my site, I need all the help I can get with accessibility and usability, so her site looks like a great resource. |
 | [Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>) | Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world. |
 | [...tiff is typing](https://www.tiffwhite.me/) | Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from. |
