@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-01-31T16:19:54-08:00"
+date: "2024-02-04T22:32:46-08:00"
 slug: "links"
 ---
 
@@ -38,7 +38,7 @@ slug: "links"
 | [Harshil Shah](https://harshil.net/) | I like Harshil Shah. I think everyone likes Harshil Shah. He created the excellent [Peak](https://sneakpeak.app) and [Pause](https://harshil.net/pause) apps, and more importantly, he brings light to the world. |
 | [Hey, it's Jason! // Welcome!](https://grepjason.sh/) | Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website. |
 | [kottke.org - home of fine hypertext products](https://kottke.org/) | I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!! |
-| [The Liner Project](https://thelinerproject.com/) | Ronnie Lutes – friend, blogger, former podcaster... what isn't he? He's no jerk, that's for sure! One day I'm moving to Vegas, Ronnie, and I'm moving into your house! |
+| [The Liner Project](https://thelinerproject.com/) | Ronnie Lutes – blogger, former podcaster, and fan of history. |
 | [Marco.org](https://marco.org/) | You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️ |
 | [Notes and Ramblings](https://notes.1705.net/) | See the notes for EuroVan Camper Stuff above - it's David H! |
 | [Pixel Envy](https://pxlnv.com/) | Nick Heer's blog. I just stumbled across this tonight myself. Very much tech related, like most of the blogs I list here. |
