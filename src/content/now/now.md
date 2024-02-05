@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-02-04T15:03:35-08:00"
+date: "2024-02-05T13:00:44-08:00"
 slug: "now"
 ---
 
@@ -40,7 +40,9 @@ slug: "now"
 
 ### Food and Drink
 
-- Cutting back on beer AND coffee!! The coffee part is surprising, but I drink way too much of it.
+- [MENU | Mochinut](https://www.mochinut.com/donut-menu) Mochinut Matcha donuts!!
+- [Caffe Del Sol | Espresso Blend | Caffe Vita Coffee Roasting Co.](https://www.caffevita.com/products/caffe-del-sol)
+- [Mochó Blend – Café Mam](https://cafemam.com/collections/mocho-blend)
 
 ### Projects
 
