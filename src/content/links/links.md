@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-05T12:50:28-08:00"
+date: "2024-02-06T02:01:40-08:00"
 slug: "links"
 ---
 
@@ -26,6 +26,7 @@ slug: "links"
 | [Rosemary Orchard](<https://rosemaryorchard.com/>) | If you're into Apple platforms and automation, you've definitely heard of Rosemary Orchard. A tech wizard and creator of good ideas. |
 | [The Bored Horse](https://bored.horse/) | The Bored Horse is by Thord D. Hedengren, writer, publisher, and web developer, and is a very cool site indeed. |
 | [BryceWray.com](https://www.brycewray.com/) | Bryce Wray writes articles that help me figure out solutions to web development related problems I have, and for that reason alone, I love and recommend him. |
+| [Cassie Evans's Blog](https://www.cassie.codes/) | Cassie Evans has some amazing design sensibility, and she's one of the people putting the fun back into the web in a delightful way. |
 | [Chamline](https://www.chamline.net/) | Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him. |
 | [CodeMacLife](https://codemaclife.com/) | I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere. |
 | [Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/) | Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be. |
@@ -40,6 +41,7 @@ slug: "links"
 | [kottke.org - home of fine hypertext products](https://kottke.org/) | I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!! |
 | [The Liner Project](https://thelinerproject.com/) | Ronnie Lutes – blogger, former podcaster, and fan of history. |
 | [Marco.org](https://marco.org/) | You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️ |
+| [Miriam Eric Suzanne](https://www.miriamsuzanne.com/) | Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS. |
 | [Notes and Ramblings](https://notes.1705.net/) | See the notes for EuroVan Camper Stuff above - it's David H! |
 | [Pixel Envy](https://pxlnv.com/) | Nick Heer's blog. I just stumbled across this tonight myself. Very much tech related, like most of the blogs I list here. |
 | [Rebecca Owen](https://beccais.online/) | I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄 |
@@ -67,6 +69,11 @@ slug: "links"
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
+## Cool Sites
+
+- [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
+- [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
+
 ## Japan and Japanese Language
 
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
@@ -83,6 +90,7 @@ slug: "links"
 - [Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/)
 - [Keychron Q1 User Manual – Keychron | Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/pages/keychron-q1-user-manual)
 - [QMK Configurator](https://config.qmk.fm/#/matthewdias/minim/LAYOUT)
+- [So you've decided to get into mechanical keyboards - localghost](https://localghost.dev/blog/so-you-ve-decided-to-get-into-mechanical-keyboards/)
 - [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
 - [qmk/qmk_toolbox: A Toolbox companion for QMK Firmware](https://github.com/qmk/qmk_toolbox)
 
@@ -138,9 +146,12 @@ slug: "links"
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
+- [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
+- [Home | hidde.blog](https://hidde.blog/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [SmolCSS](https://smolcss.dev/)
+- [tiny-helpers.dev](https://tiny-helpers.dev/)
