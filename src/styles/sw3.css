@@ -1,19 +1,19 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #E85A4F;
+  --brand-light: #1F5EA6;
   --title-light: var(--brand-light);
-  --hyperlink-light: #9f3f38;
+  --hyperlink-light: #1F5EA6;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
   --surface-menu-light: rgba(215, 195, 163, 0.3);
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: #ebeae4;
+  --surface1-light: #FEFCF0;
   --scroll-light: #0046c9;
   --language-id-light: rgb(88, 243, 88);
-  --accent1-light: #9f3f38;
+  --accent1-light: #A02F6F;
   --accent2-light: rgb(96, 243, 88);
   --accent3-light: rgb(121, 60, 182);
   --accent4-light: rgb(255, 234, 175);
