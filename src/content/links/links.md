@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-06T02:01:40-08:00"
+date: "2024-02-06T12:01:07-08:00"
 slug: "links"
 ---
 
@@ -143,6 +143,7 @@ slug: "links"
 
 ## Web Dev
 
+- [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
