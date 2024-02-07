@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-06T17:59:58-08:00"
+date: "2024-02-07T09:37:42-08:00"
 slug: "links"
 ---
 
@@ -208,6 +208,7 @@ I'm really just putting this here to put pressure on Vic to modernize his site a
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [CSS { In Real Life }](https://css-irl.info/)
+- [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
