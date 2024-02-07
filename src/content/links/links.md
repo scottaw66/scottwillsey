@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-06T17:28:51-08:00"
+date: "2024-02-06T17:31:27-08:00"
 slug: "links"
 ---
 
@@ -110,6 +110,9 @@ Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development
 
 [...tiff is typing](https://www.tiffwhite.me/)  
 Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
+
+[Vic Hudson](https://vichudson1.com/)  
+I'm really just putting this here to put pressure on Vic to modernize his site and start blogging about his gourmet adventures.  
 
 ## Books
 
