@@ -1,6 +1,7 @@
 ---
 import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
+import Spotlight from "../components/Spotlight.astro";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 
@@ -24,6 +25,7 @@ let description = links.data.description;
       </time>
     </div>
     <div class="now">
+      <Spotlight />
       <Content />
     </div>
     <div class="pins">

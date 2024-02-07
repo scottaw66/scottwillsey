@@ -1,8 +1,8 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #1F5EA6;
-  --title-light: var(--brand-light);
+  --brand-light: #66800C;
+  --title-light: var(--hyperlink-light);
   --hyperlink-light: #1F5EA6;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
@@ -14,10 +14,10 @@ html {
   --scroll-light: #0046c9;
   --language-id-light: rgb(88, 243, 88);
   --accent1-light: #A02F6F;
-  --accent2-light: rgb(96, 243, 88);
-  --accent3-light: rgb(121, 60, 182);
+  --accent2-light: #66800C;
+  --accent3-light: #A02F6F;
   --accent4-light: rgb(255, 234, 175);
-  --accent5-light: #de9351;
+  --accent5-light: #BC5214;
   --accent6-light: #E98074;
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: var(--accent4-light);
@@ -152,7 +152,7 @@ html {
   --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #000;
   --pagefind-ui-background: var(--surface1);
-  --pagefind-input-background: var(--brand);
+  --pagefind-input-background: var(--hyperlink);
   --pagefind-ui-border: var(--accent1);
   --pagefind-ui-tag: #0d0a01;
   --pagefind-button-color: var(--pagefind-ui-text);
@@ -616,7 +616,6 @@ th,
 td {
   padding: 0.75rem;
   margin: 2.5rem 0;
-  border: 1px solid var(--accent1);
   border-collapse: collapse;
   vertical-align: top;
   text-align: left;

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-06T12:01:07-08:00"
+date: "2024-02-06T16:55:31-08:00"
 slug: "links"
 ---
 
@@ -18,39 +18,98 @@ slug: "links"
 
 ## Blogroll
 
-| Site | About |
-| --- | --- |
-| [Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/) | Aleksandr Hovhannisyan makes performant web software. |
-| [Bart Busschots](https://www.bartbusschots.ie/s/) | Bart Busschots is a programmer, podcaster, and one of the kindest and coolest people I've had the pleasure of meeting virtually. |
-| [Birchtree](https://birchtree.me/) | Matt Birchler is a UI and UX designer and YouTuber, but he's also a man of interesting thoughts on tech topics. |
-| [Rosemary Orchard](<https://rosemaryorchard.com/>) | If you're into Apple platforms and automation, you've definitely heard of Rosemary Orchard. A tech wizard and creator of good ideas. |
-| [The Bored Horse](https://bored.horse/) | The Bored Horse is by Thord D. Hedengren, writer, publisher, and web developer, and is a very cool site indeed. |
-| [BryceWray.com](https://www.brycewray.com/) | Bryce Wray writes articles that help me figure out solutions to web development related problems I have, and for that reason alone, I love and recommend him. |
-| [Cassie Evans's Blog](https://www.cassie.codes/) | Cassie Evans has some amazing design sensibility, and she's one of the people putting the fun back into the web in a delightful way. |
-| [Chamline](https://www.chamline.net/) | Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him. |
-| [CodeMacLife](https://codemaclife.com/) | I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere. |
-| [Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/) | Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be. |
-| [Cory Dransfeldt](https://coryd.dev/) | Software developer and personal blogger. |
-| [Craig Mod — Writer + Photographer](https://craigmod.com/) | Craig Mod is a writer and photographer and *really* thoughtful guy. The fact that he lives in and walks all over Japan, where I lived as a boy, makes him even more interesting to me. |
-| [davidnelson.net](https://davidnelson.net/) | David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed adult who I greatly enjoy talking with. |
-| [The Dent ·](https://acn.lol/) | Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech! |
-| [EuroVan Camper Stuff](https://1705.net/) | I don't think I know David H's last name, but he's the same guy from Notes and Ramblings below. He's also a Hemispheric Views adjacent person, and I like him. |
-| [Gordon's Tech](https://tech.kateva.org/) | Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, did ya?! |
-| [Harshil Shah](https://harshil.net/) | I like Harshil Shah. I think everyone likes Harshil Shah. He created the excellent [Peak](https://sneakpeak.app) and [Pause](https://harshil.net/pause) apps, and more importantly, he brings light to the world. |
-| [Hey, it's Jason! // Welcome!](https://grepjason.sh/) | Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website. |
-| [kottke.org - home of fine hypertext products](https://kottke.org/) | I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!! |
-| [The Liner Project](https://thelinerproject.com/) | Ronnie Lutes – blogger, former podcaster, and fan of history. |
-| [Marco.org](https://marco.org/) | You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️ |
-| [Miriam Eric Suzanne](https://www.miriamsuzanne.com/) | Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS. |
-| [Notes and Ramblings](https://notes.1705.net/) | See the notes for EuroVan Camper Stuff above - it's David H! |
-| [Pixel Envy](https://pxlnv.com/) | Nick Heer's blog. I just stumbled across this tonight myself. Very much tech related, like most of the blogs I list here. |
-| [Rebecca Owen](https://beccais.online/) | I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄 |
-| [Robb Knight](https://rknight.me/) | Robb Knight does beautiful web work. AND he's a nice human being! But what really makes him stand out is his amazing [App Defaults](https://defaults.rknight.me/) page. |
-| [Sarah Rainsberger 🐦](<https://www.rainsberger.ca/>) | Sarah Rainsberger is lead for the [Astro docs project](https://docs.astro.build/), and she's also a super nice, super helpful, and super capable and organized human being. I sure hope the Astro people know how valuable she is to their mission. |
-| [SIRACUSA SAYS](https://siracusasays.com/) | A fun collection of things John Siracusa has said on podcasts. |
-| [Silvia Maggi - Designer](https://silviamaggidesign.com/) | I only just found Silvia Maggi's site, but as anyone can see by my site, I need all the help I can get with accessibility and usability, so her site looks like a great resource. |
-| [Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>) | Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world. |
-| [...tiff is typing](https://www.tiffwhite.me/) | Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from. |
+[Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/)  
+Aleksandr Hovhannisyan makes performant web software.  
+
+[Bart Busschots](https://www.bartbusschots.ie/s/)  
+Bart Busschots is a programmer, podcaster, and one of the kindest and coolest people I've had the pleasure of meeting virtually.  
+
+[Birchtree](https://birchtree.me/)  
+Matt Birchler is a UI and UX designer and YouTuber, but he's also a man of interesting thoughts on tech topics.  
+
+[Rosemary Orchard](https://rosemaryorchard.com/)  
+If you're into Apple platforms and automation, you've definitely heard of Rosemary Orchard. A tech wizard and creator of good ideas.  
+
+[The Bored Horse](https://bored.horse/)  
+The Bored Horse is by Thord D. Hedengren, writer, publisher, and web developer, and is a very cool site indeed.  
+
+[BryceWray.com](https://www.brycewray.com/)  
+Bryce Wray writes articles that help me figure out solutions to web development related problems I have, and for that reason alone, I love and recommend him.  
+
+[Cassie Evans's Blog](https://www.cassie.codes/)  
+Cassie Evans has some amazing design sensibility, and she's one of the people putting the fun back into the web in a delightful way.  
+
+[Chamline](https://www.chamline.net/)  
+Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him.  
+
+[CodeMacLife](https://codemaclife.com/)  
+I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere.  
+
+[Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/)  
+Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be.  
+
+[Cory Dransfeldt](https://coryd.dev/)  
+Software developer and personal blogger.  
+
+[Craig Mod — Writer + Photographer](https://craigmod.com/)  
+Craig Mod is a writer and photographer and *really* thoughtful guy. The fact that he lives in and walks all over Japan, where I lived as a boy, makes him even more interesting to me.  
+
+[davidnelson.net](https://davidnelson.net/)  
+David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed adult who I greatly enjoy talking with.  
+
+[The Dent ·](https://acn.lol/)  
+Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech!  
+
+[EuroVan Camper Stuff](https://1705.net/)  
+I don't think I know David H's last name, but he's the same guy from Notes and Ramblings below. He's also a Hemispheric Views adjacent person, and I like him.  
+
+[Gordon's Tech](https://tech.kateva.org/)  
+Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, did ya?!  
+
+[Harshil Shah](https://harshil.net/)  
+I like Harshil Shah. I think everyone likes Harshil Shah. He created the excellent [Peak](https://sneakpeak.app) and [Pause](https://harshil.net/pause) apps, and more importantly, he brings light to the world.  
+
+[Hey, it's Jason! // Welcome!](https://grepjason.sh/)  
+Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
+
+[kottke.org - home of fine hypertext products](https://kottke.org/)  
+I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!!  
+
+[The Liner Project](https://thelinerproject.com/)  
+Ronnie Lutes – blogger, former podcaster, and fan of history.  
+
+[Marco.org](https://marco.org/)  
+You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️  
+
+[Miriam Eric Suzanne](https://www.miriamsuzanne.com/)  
+Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS.  
+
+[Notes and Ramblings](https://notes.1705.net/)  
+See the notes for EuroVan Camper Stuff above - it's David H!  
+
+[Pixel Envy](https://pxlnv.com/)  
+Nick Heer's blog. I just stumbled across this tonight myself. Very much tech related, like most of the blogs I list here.  
+
+[Rebecca Owen](https://beccais.online/)  
+I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄  
+
+[Robb Knight](https://rknight.me/)  
+Robb Knight does beautiful web work. AND he's a nice human being! But what really makes him stand out is his amazing [App Defaults](https://defaults.rknight.me/) page.  
+
+[Sarah Rainsberger 🐦](<https://www.rainsberger.ca/>)  
+Sarah Rainsberger is lead for the [Astro docs project](https://docs.astro.build/), and she's also a super nice, super helpful, and super capable and organized human being. I sure hope the Astro people know how valuable she is to their mission.  
+
+[SIRACUSA SAYS](https://siracusasays.com/)  
+A fun collection of things John Siracusa has said on podcasts.  
+
+[Silvia Maggi - Designer](https://silviamaggidesign.com/)  
+I only just found Silvia Maggi's site, but as anyone can see by my site, I need all the help I can get with accessibility and usability, so her site looks like a great resource.  
+
+[Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>)  
+Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world.  
+
+[...tiff is typing](https://www.tiffwhite.me/)  
+Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
 
 ## Books
 

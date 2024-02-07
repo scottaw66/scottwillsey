@@ -1,0 +1,60 @@
+---
+import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+import spotlight from "../data/spotlight.json";
+---
+
+<div class="spotlight">
+  <h1>Cool Site Spotlight</h1>
+  <div class="spotlight-details">
+    <div>
+      <a href={spotlight.Site}>
+        <Image
+          src={import(`../assets/images/posts/${spotlight.Image}.jpeg`)}
+          width="300"
+          densities={[2, 3]}
+          alt={spotlight.Title}
+        />
+      </a>
+    </div>
+    <div>
+      <h4><a href={spotlight.Site}>{spotlight.Title}</a></h4>
+      <p>{spotlight.Description}</p>
+      <p>
+        <a href={spotlight.Site}><Icon name="fluent:globe-star-20-regular" /></a
+        >
+        <a href={spotlight.Site}>{spotlight.Site}</a>
+      </p>
+    </div>
+  </div>
+</div>
+<div></div>
+
+<style>
+  .spotlight {
+    background-color: var(--surface-menu);
+    margin: 3em 0;
+    padding: 0.5em 2em;
+    box-shadow: 0 0 10px var(--accent1);
+    border-radius: 0.5rem;
+  }
+  .spotlight a {
+    color: var(--hyperlink);
+  }
+  [data-icon] {
+    margin-bottom: -0.15em;
+  }
+  div.spotlight-details {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2em;
+  }
+  @media only screen and (max-width: 699px) {
+    div.spotlight-details {
+      flex-direction: column;
+      padding: 0 0.5rem;
+      gap: 0;
+    }
+  }
+</style>
