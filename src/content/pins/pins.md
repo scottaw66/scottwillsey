@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-02-07T09:37:42-08:00"
+date: "2024-02-09T08:47:34-08:00"
 slug: "pins"
 ---
 
@@ -14,6 +14,12 @@ slug: "pins"
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
 - [How to use Git Hooks to set Created and Modified Dates | AstroPaper](https://astro-paper.pages.dev/posts/setting-dates-via-git-hooks/)
 - [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
+
+## Hugo
+
+- [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
+- [future-wd/hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images)
+- [Use Hugo Modules | Hugo](https://gohugo.io/hugo-modules/use-modules/)
 
 ## Keyboards
 
@@ -54,6 +60,7 @@ slug: "pins"
 ## Web Development
 
 - [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
+- [Create a SoundCloud audio player with Wavesurfer.js - Hassan Corrigan](https://hassancorrigan.com/blog/create-a-soundcloud-audio-player-with-wavesurfer-js/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [Flexoki — Steph Ango](https://stephango.com/flexoki)
 - [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
