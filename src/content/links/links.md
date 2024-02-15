@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-14T15:13:37-08:00"
+date: "2024-02-14T19:40:29-08:00"
 slug: "links"
 ---
 
@@ -12,6 +12,7 @@ slug: "links"
 - [512 Pixels](https://512pixels.net/)
 - [Daring Fireball](https://daringfireball.net/)
 - [Hypercritical](https://hypercritical.co/)
+- [MacRumors: Apple News and Rumors](https://www.macrumors.com/)
 - [MacStories](https://www.macstories.net/)
 - [Matthew Cassinelli](https://matthewcassinelli.com/)
 - [Six Colors](https://sixcolors.com/)
@@ -253,9 +254,16 @@ This is another one where the design immediately hooked me. Sara's site has it i
 ## Podcasts
 
 - [Accidental Tech Podcast](https://atp.fm/)
+- [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
 - [Friends with Brews](https://friendswithbrews.com)
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
+- [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
 - [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
+- [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
+- [Longform Podcast](https://longform.org/podcast)
+- [Really Specific Stories](https://www.rsspod.net/)
+- [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
+- [Tofugu Podcast](https://www.tofugu.com/podcast/)
 - [Upgrade - Relay FM](https://www.relay.fm/upgrade)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 
