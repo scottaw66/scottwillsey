@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-02-14T19:40:29-08:00"
+date: "2024-02-14T19:51:30-08:00"
 slug: "now"
 ---
 
@@ -21,6 +21,7 @@ slug: "now"
 
 ### Movies and TV
 
+- [Radioactive Forest: 10 Years After (2022) — The Movie Database (TMDB)](https://www.themoviedb.org/movie/984118-radioactive-forest-10-years-after) *We watched this on [Curiosity Stream](https://curiositystream.com/) and enjoyed it. It's slightly dissatisfying in terms of conclusions – there aren't any strong ones – but that's life, because there's a lot we still don't understand about what long term effects there will be in this area due to radioactive contamination.*
 - [Silent Night | Official Movie Site | Where to Watch](https://www.lionsgate.com/movies/silent-night) *I'm not gonna lie, this is a dumb movie. There are a few satisfying scenes of people getting what they deserve in well-coreographed ways, but I can't say you should spend money to watch it.*
 
 ***Recently Finished***
