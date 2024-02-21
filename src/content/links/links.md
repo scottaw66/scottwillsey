@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-14T19:40:29-08:00"
+date: "2024-02-20T23:53:12-08:00"
 slug: "links"
 ---
 
@@ -191,6 +191,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [samwho](https://samwho.dev/)
+- [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 
 ## Japan and Japanese Language
