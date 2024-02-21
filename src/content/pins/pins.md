@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-02-09T08:49:56-08:00"
+date: "2024-02-21T00:07:58-08:00"
 slug: "pins"
 ---
 
@@ -65,6 +65,7 @@ slug: "pins"
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [Flexoki — Steph Ango](https://stephango.com/flexoki)
 - [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+- [How to Favicon in 2024: Six files that fit most needs—Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - [htmx](https://htmx.org/docs/)
 - [</> htmx ~ Hypermedia-Driven Applications](https://htmx.org/essays/hypermedia-driven-applications/)
 - [Hypermedia Systems](https://hypermedia.systems/)
@@ -73,3 +74,4 @@ slug: "pins"
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [Using Eleventy to Gobble Up Everything I Do Online - YouTube](https://www.youtube.com/watch?v=e_87IF7KGgo)
