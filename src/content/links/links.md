@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-20T23:59:49-08:00"
+date: "2024-02-21T20:53:06-08:00"
 slug: "links"
 ---
 
@@ -66,6 +66,9 @@ David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in 
 
 **[The Dent ·](https://acn.lol/)**  
 Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech!  
+
+**[ericportis.com](https://ericportis.com/)**  
+I came for the colorspace article, I stayed for the photography. Wow!  
 
 **[EuroVan Camper Stuff](https://1705.net/)**  
 I don't think I know David H's last name, but he's the same guy from Notes and Ramblings below. He's also a Hemispheric Views adjacent person, and I like him.  
