@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-02-14T19:51:30-08:00"
+date: "2024-02-25T21:52:42-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Tofugu Podcast: けど: Why Are Japanese Speakers Always Ending Their Sentences with “But”?](https://podcasts.apple.com/us/podcast/%E3%81%91%E3%81%A9-why-are-japanese-speakers-always-ending-their-sentences/id1188142876?i=1000610674324)
+- [Kramer Before Kramer - The Incomparable Mothership #704 - The Incomparable](https://www.theincomparable.com/theincomparable/704/)
 
 ### Books
 
@@ -21,28 +21,23 @@ slug: "now"
 
 ### Movies and TV
 
+- [Drive to Survive Season 6](https://www.netflix.com/title/80204890) *Let's just be honest here. Drive to Surive is surface deep and makes up a lot of drama. This season, they just failed completely at the best parts of certain stories. Carlos Sainz literally manufactured his own victory in Singapore through clever intentional creation of a DRS train, and they didn't mention once or even show a single clip that indicated he was creating his own winning strategy. This is just one example of their vapidity, there are many like it. I've been watching F1 since 1974 when I discovered a big F1 photo book in a little bookstore in Karuizawa, Japan, and I think I'm generally not the audience for this show.*
 - [Radioactive Forest: 10 Years After (2022) — The Movie Database (TMDB)](https://www.themoviedb.org/movie/984118-radioactive-forest-10-years-after) *We watched this on [Curiosity Stream](https://curiositystream.com/) and enjoyed it. It's slightly dissatisfying in terms of conclusions – there aren't any strong ones – but that's life, because there's a lot we still don't understand about what long term effects there will be in this area due to radioactive contamination.*
-- [Silent Night | Official Movie Site | Where to Watch](https://www.lionsgate.com/movies/silent-night) *I'm not gonna lie, this is a dumb movie. There are a few satisfying scenes of people getting what they deserve in well-coreographed ways, but I can't say you should spend money to watch it.*
 
 ***Recently Finished***
 
-- [Cold Pursuit](https://www.netflix.com/title/81079733) *This is a stupid movie and you shouldn't watch it. Still, it was not bad for a late night, half-asleep viewing, watching bad people get killed. More bad people should probably get killed.*
 - [The Last of Us](https://www.hbo.com/the-last-of-us) *Human fungal infections are on the rise, so this hits a little too close to home, maybe, but I'm kind of enjoying it. I'm watching this **super** slowly.*
 
 ### Food and Drink
 
-- [MENU | Mochinut](https://www.mochinut.com/donut-menu) Mochinut Matcha donuts!!
-- [Caffe Del Sol | Espresso Blend | Caffe Vita Coffee Roasting Co.](https://www.caffevita.com/products/caffe-del-sol)
-- [Mochó Blend – Café Mam](https://cafemam.com/collections/mocho-blend)
+- [Black Light Ale : Anderson Valley Brewing Company](https://avbc.com/beer/black-light-beer/)
+- [Matcha White Chocolate LINDOR Truffles 800-pc Case (353 oz)](https://www.lindtusa.com/matcha-white-chocolate-lindor-truffles-800-pc-case-859635)
 
 ### Projects
 
 - Creating a wiki site for myself for links and topic notes. I also would like to create a private home wiki for my family, inspired by [Jason](https://grepjason.sh) of [Hemispheric Views Podcast](https://hemisphericviews.com/).
 - Trying to come up with a light theme that I actually like for my own site. Blue. There has to be blue.
-
-***Recently Finished***
-
-- Learning all about customizing QMK keyboards with [QMK Configurator](https://config.qmk.fm/)
+- Working on [The Liner Project](https://thelinerproject.com/) for Ronnie Lutes.
 
 ### Fitness
 
