@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-02-21T00:07:58-08:00"
+date: "2024-03-02T20:00:41-08:00"
 slug: "pins"
 ---
 
@@ -15,6 +15,10 @@ slug: "pins"
 - [How to use Git Hooks to set Created and Modified Dates | AstroPaper](https://astro-paper.pages.dev/posts/setting-dates-via-git-hooks/)
 - [rishi-raj-jain/astro-font: `astro-font` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.](https://github.com/rishi-raj-jain/astro-font)
 - [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
+
+## BBEdit
+
+- [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 
 ## Hugo
 
@@ -45,6 +49,7 @@ slug: "pins"
 
 - [AI Prompt Explorer by Raycast](https://prompts.ray.so/code)
 - [Dynamic Placeholders](https://manual.raycast.com/dynamic-placeholders)
+- [Getting started with script commands - Raycast Blog](https://www.raycast.com/blog/getting-started-with-script-commands)
 - [Raycast Developer API](https://developers.raycast.com/)
 - [Raycast Store: Pipe Commands](https://www.raycast.com/pomdtr/pipe-commands)
 - [Raycast Store: PromptLab](https://www.raycast.com/HelloImSteven/promptlab)
@@ -74,4 +79,5 @@ slug: "pins"
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [Using Eleventy to Gobble Up Everything I Do Online - YouTube](https://www.youtube.com/watch?v=e_87IF7KGgo)

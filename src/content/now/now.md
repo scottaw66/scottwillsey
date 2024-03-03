@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-02-25T21:52:42-08:00"
+date: "2024-03-02T20:00:41-08:00"
 slug: "now"
 ---
 
@@ -30,14 +30,13 @@ slug: "now"
 
 ### Food and Drink
 
-- [Black Light Ale : Anderson Valley Brewing Company](https://avbc.com/beer/black-light-beer/)
-- [Matcha White Chocolate LINDOR Truffles 800-pc Case (353 oz)](https://www.lindtusa.com/matcha-white-chocolate-lindor-truffles-800-pc-case-859635)
+- [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
+- [Colombia Del Campo | Broadcast | Trade Coffee](https://www.drinktrade.com/products/colombia-del-campo)
 
 ### Projects
 
 - Creating a wiki site for myself for links and topic notes. I also would like to create a private home wiki for my family, inspired by [Jason](https://grepjason.sh) of [Hemispheric Views Podcast](https://hemisphericviews.com/).
 - Trying to come up with a light theme that I actually like for my own site. Blue. There has to be blue.
-- Working on [The Liner Project](https://thelinerproject.com/) for Ronnie Lutes.
 
 ### Fitness
 

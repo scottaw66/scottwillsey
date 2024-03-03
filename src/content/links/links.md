@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites I like and you should too.
-date: "2024-02-21T20:57:04-08:00"
+date: "2024-03-02T20:00:41-08:00"
 slug: "links"
 ---
 
@@ -193,6 +193,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
+- [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [samwho](https://samwho.dev/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
@@ -225,6 +226,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bear](https://bear.app/)
+- [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
 - [Fastmarks for macOS – retina studio](https://retina.studio/fastmarks/)
@@ -287,4 +289,5 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [SmolCSS](https://smolcss.dev/)
+- [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
