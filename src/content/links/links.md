@@ -1,13 +1,13 @@
 ---
 title: "Links"
-description: Sites I like and you should too.
-date: "2024-03-02T20:00:41-08:00"
+description: Sites and other stuff I like and that you should too.
+date: "2024-03-04T10:37:09-08:00"
 slug: "links"
 ---
 
 ## Contents
 
-## Apple Sites
+## Apple
 
 - [512 Pixels](https://512pixels.net/)
 - [Daring Fireball](https://daringfireball.net/)
@@ -16,6 +16,14 @@ slug: "links"
 - [MacStories](https://www.macstories.net/)
 - [Matthew Cassinelli](https://matthewcassinelli.com/)
 - [Six Colors](https://sixcolors.com/)
+
+## Articles Worth Reading
+
+*These will constantly change and won't get archived anywhere else most likely.*
+
+- [Behind F1's Velvet Curtain](https://www.msn.com/en-us/autos/news/behind-f1-s-velvet-curtain/ar-BB1jaZRu)
+- [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won't Make - MacStories](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
+- [More Things You Can Do on Your Website • Robb Knight](https://rknight.me/blog/more-things-you-can-do-on-your-website/)
 
 ## Blogroll
 
@@ -36,6 +44,9 @@ The Bored Horse is by Thord D. Hedengren, writer, publisher, and web developer, 
 
 **[BryceWray.com](https://www.brycewray.com/)**  
 Bryce Wray writes articles that help me figure out solutions to web development related problems I have, and for that reason alone, I love and recommend him.  
+
+**[Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)**
+The most interesting man in the world isn't that old guy with the beard and the gravelly voice in the beer commercials. It's Blake Patterson. The Byte Cellar is an internet-ional treasure of nostalgia and experimentation.
 
 **[Cassidy's blog](https://blog.cassidoo.co/)**  
 Cassidy Williams does great work in the web world. She's a great web advocate.  
@@ -189,9 +200,10 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
-## Cool Sites
+## Cool Sites Archive
 
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
+- [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [samwho](https://samwho.dev/)
@@ -256,6 +268,19 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
+
+## Newsletters
+
+- [Ad Astra – Swapna Krishna](https://www.adastraspace.com/)
+- [AI Snake Oil](https://www.aisnakeoil.com/subscribe)
+- [Brilliantcrank](https://www.brilliantcrank.com/)
+- [Once Upon A Time — Stories — Matt Gemmell](https://mattgemmell.scot/books/once-upon-a-time/stories/)
+- [Plura-list by Cory Doctorow – Info Page](https://mail.flarn.com/mailman/listinfo/plura-list/)
+- [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
+- [SwiftLee Weekly (read by 17k+ Swift & SwiftUI Developers)](https://www.avanderlee.com/swiftlee-weekly-subscribe/)
+- [SwiftUI Weekly](https://weekly.swiftwithmajid.com/subscribe)
+- [this week in security](https://this.weekinsecurity.com/)
+- [Today in Librarian Tabs by Jessamyn West](https://tinyletter.com/jessamyn)
 
 ## Podcasts
 
