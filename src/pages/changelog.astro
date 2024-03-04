@@ -1,0 +1,19 @@
+---
+import { getEntry } from "astro:content";
+import Base from "../layouts/Base.astro";
+
+const change = await getEntry("changelog", "changelog");
+const { Content } = await change.render();
+
+let title = change.data.title;
+let description = change.data.description;
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>{title}</h1>
+    <div class="change">
+      <Content />
+    </div>
+  </article>
+</Base>
