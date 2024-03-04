@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-02T20:00:41-08:00"
+date: "2024-03-04T12:28:28-08:00"
 slug: "pins"
 ---
 
@@ -19,6 +19,11 @@ slug: "pins"
 ## BBEdit
 
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
+
+## Command Line
+
+- [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
+- [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 
 ## Hugo
 

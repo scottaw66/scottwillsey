@@ -6,7 +6,7 @@ slug: "changelog"
 ---
 ### 2024-03-04
 
-Updates pre-commit hook and it looks like maybe auto-changelog is working
+Finishes adding and styling site changelog
 
 
 ### 2024-03-04
