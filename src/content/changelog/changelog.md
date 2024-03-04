@@ -3,14 +3,9 @@ title: "Changelog"
 description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
-### 2024-03-04\n\nTests log update
----
+---\n### 2024-03-04\n\nTests a change in pre-commit git hook to update site changelog
+
+
 ### 2024-03-04
 
-Tests log update
-
-### 2024-03-02
-
-why why
-doh doh doh
-you broke it
+Test
