@@ -16,3 +16,7 @@ Links Page: Adds Articles Worth Reading and Newsletters sections. Updates Cool S
 ### 2024-03-03
 
 WTF
+
+### 2024-03-02
+
+why why
