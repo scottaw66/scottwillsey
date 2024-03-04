@@ -5,7 +5,7 @@ date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ### 2024-03-04
 
-Tests updating changelog - it's SO CLOSEgit status
+Tests changelog updates, maybe successfully?
 
 ### 2024-03-03
 
