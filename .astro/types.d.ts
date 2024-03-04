@@ -510,6 +510,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"raycast-sc-text-parsing.md": {
+	id: "raycast-sc-text-parsing.md";
+  slug: "raycast-sc-text-parsing";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "raycast.md": {
 	id: "raycast.md";
   slug: "raycast";
