@@ -7,4 +7,8 @@ slug: "changelog"
 
 ### 2024-03-04
 
+Tests changelog
+
+### 2024-03-04
+
 Links Page: Adds Articles Worth Reading and Newsletters sections. Updates Cool Site Spotlight to Byte Cellar.
