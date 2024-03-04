@@ -6,6 +6,13 @@ slug: "changelog"
 ---
 ### 2024-03-04
 
+Tests updating changelog
+
+---
+### 2024-03-04
+
 Tests a change in pre-commit git hook for updating changelog.md
 
+### 2024-03-03
 
+Are you my mother?
