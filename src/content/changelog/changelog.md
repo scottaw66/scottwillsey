@@ -6,12 +6,13 @@ slug: "changelog"
 ---
 ### 2024-03-04
 
-Updates pre-commit hook in a desperate attempt to getting auto-changelog working
+Updates pre-commit hook and it looks like maybe auto-changelog is working
+
 
 ### 2024-03-04
 
-Tests changelog updates, maybe successfully or maybe not
+Adds site changelog.
 
 ### 2024-03-04
 
-We're  getting closer
+Adds Articles Worth Reading and Newsletters sections to Links page and updates Cool Site Spotlight.

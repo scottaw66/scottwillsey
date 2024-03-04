@@ -542,6 +542,10 @@ div.uses ul strong {
   font-size: 1.3em;
 }
 
+div.change p {
+  margin: 0 1em;
+}
+
 @media only screen and (max-width: 1200px) {
   article img {
     display: flex;
