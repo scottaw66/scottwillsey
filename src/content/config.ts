@@ -14,6 +14,15 @@ const postCollection = defineCollection({
     }),
 });
 
+const changeCollection = defineCollection({
+  type: 'content', // v2.5.0 and later
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z.string().transform((str) => new Date(str)).optional().nullable(),
+  }),
+});
+
 const nowCollection = defineCollection({
   type: 'content', // v2.5.0 and later
   schema: z.object({
@@ -52,6 +61,7 @@ const usesCollection = defineCollection({
 
 export const collections = {
   posts: postCollection,
+  changelog: changeCollection,
   links: linksCollection,
   now: nowCollection,
   pins: pinsCollection,

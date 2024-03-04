@@ -125,7 +125,16 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"links": {
+		"changelog": {
+"changelog.md": {
+	id: "changelog.md";
+  slug: "changelog";
+  body: string;
+  collection: "changelog";
+  data: InferEntrySchema<"changelog">
+} & { render(): Render[".md"] };
+};
+"links": {
 "links.md": {
 	id: "links.md";
   slug: "links";
