@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-04T12:28:28-08:00"
+date: "2024-03-05T09:45:51-08:00"
 slug: "links"
 ---
 
@@ -24,6 +24,10 @@ slug: "links"
 - [Behind F1's Velvet Curtain](https://www.msn.com/en-us/autos/news/behind-f1-s-velvet-curtain/ar-BB1jaZRu)
 - [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won't Make - MacStories](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 - [More Things You Can Do on Your Website • Robb Knight](https://rknight.me/blog/more-things-you-can-do-on-your-website/)
+
+## Beer
+
+- [Bochi Bochi Japanese Rice Lager - Crux Fermentation](https://www.cruxfermentation.com/beer/)
 
 ## Blogroll
 
@@ -185,7 +189,15 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 ## Books
 
+- [Coders by Clive Thompson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/539883/coders-by-clive-thompson/)
+- [Crypto: How the Code Rebels Beat the Government, Saving Privacy in the Digital Age — Steven Levy](https://www.stevenlevy.com/crypto)
+- [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
+- [Image Performance, A Book Apart](https://abookapart.com/products/image-performance)
+- [Personal Days – Ed Park](https://ed-park.com/personal-days/)
+- [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
+- [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
+- [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
 
 ## Coffee
 
@@ -195,6 +207,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
+- [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
 - [Trade Coffee](https://www.drinktrade.com/)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)

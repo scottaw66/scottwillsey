@@ -6,6 +6,10 @@ slug: "changelog"
 ---
 ### 2024-03-04
 
+Adds changelog link to menu
+
+### 2024-03-04
+
 Adds various links and pins for awk and sed related stuff
 
 ### 2024-03-04
