@@ -545,6 +545,11 @@ div.uses ul strong {
 div.change p {
   margin: 0 1em;
 }
+div.change ol li {
+  margin: 0 1em 1em;
+  font-style: italic;
+  font-size: 0.9em;
+}
 
 @media only screen and (max-width: 1200px) {
   article img {
