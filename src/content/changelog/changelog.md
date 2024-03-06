@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-03-06
+
+Removes changelog link from menu
+
 ### 2024-03-05
 
 Adds a whole bunch of links and updates the old 'Now' sitation.
