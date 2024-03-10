@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-09T18:10:23-08:00"
+date: "2024-03-10T13:32:38-08:00"
 slug: "pins"
 ---
 
@@ -24,6 +24,10 @@ slug: "pins"
 
 - [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
+
+## FOOD
+
+- [Akatsuki Sushi Bar- Asian Fusion Restaurant｜Silverton｜OR](https://www.akatsukisushibar.com/)
 
 ## Hugo
 
