@@ -1,11 +1,17 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-09T18:10:23-08:00"
+date: "2024-03-09T18:39:28-08:00"
 slug: "links"
 ---
 
 ## Contents
+
+## AI
+
+- [FridayGPT](https://www.fridaygpt.app/)
+- [Raycast AI](https://manual.raycast.com/ai)
+- [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 
 ## Apple
 
