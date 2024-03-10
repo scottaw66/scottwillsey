@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-09T18:39:28-08:00"
+date: "2024-03-09T18:56:32-08:00"
 slug: "links"
 ---
 
@@ -231,6 +231,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 ## Cool Sites Archive
 
+- [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
@@ -349,3 +350,9 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [SmolCSS](https://smolcss.dev/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
+
+## It's All About Me
+
+- [Friends with Brews](https://friendswithbrews.com/)
+- [ScottWillsey](https://scottwillsey.com/)
+- [Scott Willsey • RsS iS dEaD LOL](https://rss-is-dead.lol/user?profileUrl=https%3A%2F%2Fsocial.lol%2Fusers%2Fscottwillsey)
