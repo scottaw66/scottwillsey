@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-09T18:56:32-08:00"
+date: "2024-03-10T13:40:18-08:00"
 slug: "links"
 ---
 
@@ -9,6 +9,7 @@ slug: "links"
 
 ## AI
 
+- [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [FridayGPT](https://www.fridaygpt.app/)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
@@ -272,6 +273,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bear](https://bear.app/)
+- [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
