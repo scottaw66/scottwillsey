@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-05T09:45:51-08:00"
+date: "2024-03-09T18:10:23-08:00"
 slug: "links"
 ---
 
@@ -232,6 +232,10 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [samwho](https://samwho.dev/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
+
+## FOOD
+
+- [Toki Restaurant](https://www.tokipdx.com/)
 
 ## Japan and Japanese Language
 

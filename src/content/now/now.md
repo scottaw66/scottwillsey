@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-03-06T02:15:48-08:00"
+date: "2024-03-09T18:10:23-08:00"
 slug: "now"
 ---
 
@@ -24,15 +24,10 @@ slug: "now"
 ### Movies and TV
 
 - [Live Die Repeat: Edge of Tomorrow | WarnerBros.com](https://www.warnerbros.com/movies/edge-tomorrow) *I had seen trailers for this movie in the past and I just assumed it was a stupid "vs. Alien" movie about a guy in an exosuit. I could not have been more wrong. I did not expect to love this movie, I didn't necessarily want to love this movie, but I did in fact love this movie.*
-- [Drive to Survive Season 6](https://www.netflix.com/title/80204890) *Let's just be honest here. Drive to Surive is surface deep and makes up a lot of drama. This season, they just failed completely at the best parts of certain stories. Carlos Sainz literally manufactured his own victory in Singapore through clever intentional creation of a DRS train, and they didn't mention once or even show a single clip that indicated he was creating his own winning strategy. This is just one example of their vapidity, there are many like it. I've been watching F1 since 1974 when I discovered a big F1 photo book in a little bookstore in Karuizawa, Japan, and I think I'm generally not the audience for this show.*
-
-***Recently Finished***
-
-- [Radioactive Forest: 10 Years After (2022) — The Movie Database (TMDB)](https://www.themoviedb.org/movie/984118-radioactive-forest-10-years-after) *We watched this on [Curiosity Stream](https://curiositystream.com/) and enjoyed it. It's slightly dissatisfying in terms of conclusions – there aren't any strong ones – but that's life, because there's a lot we still don't understand about what long term effects there will be in this area due to radioactive contamination.*
-- [The Last of Us](https://www.hbo.com/the-last-of-us) *Human fungal infections are on the rise, so this hits a little too close to home, maybe, but I'm kind of enjoying it. I'm watching this **super** slowly.*
 
 ### Food and Drink
 
+- [Toki Restaurant](https://www.tokipdx.com/)
 - [Bochi Bochi Japanese Rice Lager - Crux Fermentation](https://www.cruxfermentation.com/beer/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)

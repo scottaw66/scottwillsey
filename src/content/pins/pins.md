@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-04T12:28:28-08:00"
+date: "2024-03-09T18:10:23-08:00"
 slug: "pins"
 ---
 
@@ -45,6 +45,10 @@ slug: "pins"
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
+
+## Notion
+
+- [Notion Total Column: How To Sum A Column In 5 Totally Easy Steps](https://focusedbee.com/notion-total-column-how-to-sum-a-column/)
 
 ## Podcasts
 
