@@ -1,14 +1,14 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-03-09T18:10:23-08:00"
+date: "2024-03-11T00:06:38-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Introducing the MacPad – AppStories](https://appstories.net/episodes/373)
 - [Jim Hates Scams – Darknet Diaries](https://darknetdiaries.com/episode/143/)
+- [ATP 577: Colorful Criticism — Accidental Tech Podcast](https://atp.fm/577)
 
 ### Books
 
@@ -23,14 +23,14 @@ slug: "now"
 
 ### Movies and TV
 
+- [Somebody Feed Phil – Season 7 | Netflix](https://www.netflix.com/title/80146601) *Usually when I recommend things to people, I assume they won't bother, and that's fine. But this is one that is NOT fine to skip. JUST. WATCH. IT. It'll make you happy, it'll make you hungry, but most of all it'll stir your imagination for food and travel.*
 - [Live Die Repeat: Edge of Tomorrow | WarnerBros.com](https://www.warnerbros.com/movies/edge-tomorrow) *I had seen trailers for this movie in the past and I just assumed it was a stupid "vs. Alien" movie about a guy in an exosuit. I could not have been more wrong. I did not expect to love this movie, I didn't necessarily want to love this movie, but I did in fact love this movie.*
 
 ### Food and Drink
 
+- [Silver Falls Brewery](https://www.silverfallsbrewery.com/)
 - [Toki Restaurant](https://www.tokipdx.com/)
-- [Bochi Bochi Japanese Rice Lager - Crux Fermentation](https://www.cruxfermentation.com/beer/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
-- [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Toki® Blended Japanese Whisky | The House of Suntory](https://house.suntory.com/toki-whisky)
 
 ### Projects

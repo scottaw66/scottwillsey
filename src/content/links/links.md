@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-10T13:40:18-08:00"
+date: "2024-03-11T00:06:38-08:00"
 slug: "links"
 ---
 
@@ -218,6 +218,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
 - [Trade Coffee](https://www.drinktrade.com/)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
+- [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
 ## Command Line
