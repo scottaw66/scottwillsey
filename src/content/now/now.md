@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-03-11T00:06:38-08:00"
+date: "2024-03-12T02:24:27-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Jim Hates Scams – Darknet Diaries](https://darknetdiaries.com/episode/143/)
+- ['I Squared' Governance | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2024/03/podcast-episode-i-squared-governance)
 - [ATP 577: Colorful Criticism — Accidental Tech Podcast](https://atp.fm/577)
 
 ### Books
@@ -38,12 +38,6 @@ slug: "now"
 - Creating a wiki site for myself for links and topic notes. I also would like to create a private home wiki for my family, inspired by [Jason](https://grepjason.sh) of [Hemispheric Views Podcast](https://hemisphericviews.com/).
 - Revamping this site's [Uses](https://scottwillsey.com/uses/) page.
 
-### Fitness
+### HomeKit
 
-- Yoga
-- Running
-- Cycling
-- HIIT
-- Body weight and core exercises
-
-I'm really going back to longer runs and bike rides again after a period of much needed variation and focus on HIIT and body weight exercises. Yoga is always a constant. I do some yoga almost daily.
+- Installed a [Eve Outdoor Cam](https://www.evehome.com/en-us/eve-outdoor-cam) to cover a front-of-house blind spot. This is a combination light and camera so it replaces one of the outdoor lights to the side of the garage.

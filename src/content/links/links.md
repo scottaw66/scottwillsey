@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-11T00:06:38-08:00"
+date: "2024-03-12T02:24:27-08:00"
 slug: "links"
 ---
 
@@ -23,6 +23,16 @@ slug: "links"
 - [MacStories](https://www.macstories.net/)
 - [Matthew Cassinelli](https://matthewcassinelli.com/)
 - [Six Colors](https://sixcolors.com/)
+
+## Apple Home
+
+- [Eve Outdoor Cam | evehome.com](https://www.evehome.com/en-us/eve-outdoor-cam)
+- [HomeKit Light Switch - Meross Smart Switch MSS510US](https://www.meross.com/en-gc/smart-switch/homekit-light-switch/23)
+- [Logitech Circle View Wired Video Doorbell - HomeKit Enabled](https://www.logitech.com/en-us/products/cameras/circle-view-video-doorbell.html)
+- [Meross HomeKit Smart Plug, Smart Mini Wi-Fi Plug In American Standard - MSS110US MSS110JP](https://www.meross.com/en-gc/smart-plug/homekit-smart-plug/2)
+- [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
+- [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
+- [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
 
 ## Articles Worth Reading
 
