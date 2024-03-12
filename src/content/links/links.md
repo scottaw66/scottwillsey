@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-12T02:24:27-08:00"
+date: "2024-03-12T13:47:22-08:00"
 slug: "links"
 ---
 
@@ -27,20 +27,13 @@ slug: "links"
 ## Apple Home
 
 - [Eve Outdoor Cam | evehome.com](https://www.evehome.com/en-us/eve-outdoor-cam)
+- [HomeCam for HomeKit](https://homecam.app/)
 - [HomeKit Light Switch - Meross Smart Switch MSS510US](https://www.meross.com/en-gc/smart-switch/homekit-light-switch/23)
 - [Logitech Circle View Wired Video Doorbell - HomeKit Enabled](https://www.logitech.com/en-us/products/cameras/circle-view-video-doorbell.html)
 - [Meross HomeKit Smart Plug, Smart Mini Wi-Fi Plug In American Standard - MSS110US MSS110JP](https://www.meross.com/en-gc/smart-plug/homekit-smart-plug/2)
 - [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
 - [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
 - [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
-
-## Articles Worth Reading
-
-*These will constantly change and won't get archived anywhere else most likely.*
-
-- [Behind F1's Velvet Curtain](https://www.msn.com/en-us/autos/news/behind-f1-s-velvet-curtain/ar-BB1jaZRu)
-- [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won't Make - MacStories](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
-- [More Things You Can Do on Your Website • Robb Knight](https://rknight.me/blog/more-things-you-can-do-on-your-website/)
 
 ## Beer
 
@@ -298,6 +291,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
+- [MindMac — Elegant and Fullfil ChatGPT Client for macOS](https://mindmac.app/)
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
