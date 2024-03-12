@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-03-12T02:27:12-08:00"
+date: "2024-03-12T02:29:22-08:00"
 slug: "now"
 ---
 
@@ -40,4 +40,4 @@ slug: "now"
 
 ### Apple Home
 
-- Installed a [Eve Outdoor Cam](https://www.evehome.com/en-us/eve-outdoor-cam) to cover a front-of-house blind spot. This is a combination light and camera so it replaces one of the outdoor lights to the side of the garage.
+- Installed an [Eve Outdoor Cam](https://www.evehome.com/en-us/eve-outdoor-cam) to cover a front-of-house blind spot. This is a combination light and camera so it replaces one of the outdoor lights to the side of the garage.
