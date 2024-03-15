@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-12T13:47:22-08:00"
+date: "2024-03-14T23:51:45-08:00"
 slug: "links"
 ---
 
@@ -110,6 +110,9 @@ I like Harshil Shah. I think everyone likes Harshil Shah. He created the excelle
 **[Hey, it's Jason! // Welcome!](https://grepjason.sh/)**  
 Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
 
+**[Hugo's Blog](https://hugo.blog/)**  
+Hugo is apparently a Meta Quest guy and he just wrote an encyclopedia-sized article on the Apple Vision Pro. I hope not every blog post he does is that long, but it's a fascinating read anyway.
+
 **[Hypercritical](https://hypercritical.co/)**  
 I mean, it's John Siracusa.  
 
@@ -120,13 +123,16 @@ I love the design of this site. Wow!
 I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!!  
 
 **[The Liner Project](https://thelinerproject.com/)**  
-Ronnie Lutes – blogger, former podcaster, and fan of history.  
+Ronnie Lutes – friend, blogger, former podcaster, and fan of history. Also I think he knows all the best restaurants in Vegas, so you should probably ask him questions if you're headed there.
 
 **[Marco.org](https://marco.org/)**  
 You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️  
 
 **[Blog – Mark writes](https://mdhughes.tech/blog/)**  
 Retro computing and a lot more.  
+
+**[Matt Mullenweg | Unlucky in Cards](https://ma.tt/)**  
+I guess Matt's pretty well known as the Automattic guy. I'm not super familiar with him, but it seems like people read his stuff.
 
 **[Matt Stein](https://mattstein.com/)**  
 I just found Matt's blog today when he answered Molly White's [call for blogs](https://hachyderm.io/@molly0xfff/111908294962007998). Looks interesting.  
@@ -181,6 +187,9 @@ I only just found Silvia Maggi's site, but as anyone can see by my site, I need 
 
 **[Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>)**  
 Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world.  
+
+**[TechDistortion](https://techdistortion.com/)**  
+John Chidgey is an engineer first and foremost, and a podcaster and writer additionally. That's not to downplay those works – they're excellent. It's just to emphasize how based in analysis his work is.
 
 **[...tiff is typing](https://www.tiffwhite.me/)**  
 Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
