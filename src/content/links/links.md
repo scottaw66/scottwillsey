@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-16T21:48:56-08:00"
+date: "2024-03-17T01:02:35-08:00"
 slug: "links"
 ---
 
@@ -91,6 +91,9 @@ David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in 
 
 **[The Dent ·](https://acn.lol/)**  
 Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech!  
+
+**[The Eclectic Light Company – Macs, painting, and more](https://eclecticlight.co/)**  
+I don't know about the paintings because I haven't looked that far yet, but the Mac stuff is stupendously great. Howard Oakley should be proud (but not too proud, because no one likes arrogance).
 
 **[ericportis.com](https://ericportis.com/)**  
 I came for the colorspace article, I stayed for the photography. Wow!  
