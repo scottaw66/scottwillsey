@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-22T19:00:06-08:00"
+date: "2024-03-22T19:04:37-08:00"
 slug: "pins"
 ---
 
@@ -97,5 +97,6 @@ slug: "pins"
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [Home | Tampermonkey](https://www.tampermonkey.net/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [Using Eleventy to Gobble Up Everything I Do Online - YouTube](https://www.youtube.com/watch?v=e_87IF7KGgo)
