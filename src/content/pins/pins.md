@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-10T13:32:38-08:00"
+date: "2024-03-22T19:00:06-08:00"
 slug: "pins"
 ---
 
@@ -45,6 +45,7 @@ slug: "pins"
 
 ## Mac
 
+- [Game Porting Toolkit - Gaming on M1 Apple silicon Macs and MacBooks, bugs, fixes, compatiblity and troubleshooting guides - AppleGamingWiki](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit)
 - [Getting Started – Anybox](https://anybox.app/getting-started)
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
@@ -75,6 +76,10 @@ slug: "pins"
 - [Extremely softcore: the old Twitter was an idealist’s workplace and a naive business](https://www.theverge.com/c/features/23997510/twitter-jack-dorsey-workplace-extremely-softcore)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
+
+## Swift
+
+- [Workaround: Swift scripts importing Cocoa frameworks broken on macOS 14 · Jesse Squires](https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/)
 
 ## Web Development
 

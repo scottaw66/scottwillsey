@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-17T01:02:35-08:00"
+date: "2024-03-22T19:00:06-08:00"
 slug: "links"
 ---
 
@@ -321,6 +321,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Transmit 5](https://www.panic.com/transmit/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
+- [Whisky - Run Modern Windows Games on macOS](https://getwhisky.app/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
 
 ## Newsletters
