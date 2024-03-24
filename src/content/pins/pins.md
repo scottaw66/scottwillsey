@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-04T12:28:28-08:00"
+date: "2024-03-22T19:04:37-08:00"
 slug: "pins"
 ---
 
@@ -25,6 +25,10 @@ slug: "pins"
 - [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 
+## FOOD
+
+- [Akatsuki Sushi Bar- Asian Fusion Restaurant｜Silverton｜OR](https://www.akatsukisushibar.com/)
+
 ## Hugo
 
 - [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
@@ -41,10 +45,15 @@ slug: "pins"
 
 ## Mac
 
+- [Game Porting Toolkit - Gaming on M1 Apple silicon Macs and MacBooks, bugs, fixes, compatiblity and troubleshooting guides - AppleGamingWiki](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit)
 - [Getting Started – Anybox](https://anybox.app/getting-started)
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
+
+## Notion
+
+- [Notion Total Column: How To Sum A Column In 5 Totally Easy Steps](https://focusedbee.com/notion-total-column-how-to-sum-a-column/)
 
 ## Podcasts
 
@@ -68,6 +77,10 @@ slug: "pins"
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 
+## Swift
+
+- [Workaround: Swift scripts importing Cocoa frameworks broken on macOS 14 · Jesse Squires](https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/)
+
 ## Web Development
 
 - [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
@@ -84,5 +97,6 @@ slug: "pins"
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [Home | Tampermonkey](https://www.tampermonkey.net/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [Using Eleventy to Gobble Up Everything I Do Online - YouTube](https://www.youtube.com/watch?v=e_87IF7KGgo)

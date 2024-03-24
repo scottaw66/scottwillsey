@@ -568,6 +568,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"screenfloat.md": {
+	id: "screenfloat.md";
+  slug: "screenfloat";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "series-of-series.md": {
 	id: "series-of-series.md";
   slug: "series-of-series";

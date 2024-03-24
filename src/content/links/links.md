@@ -1,11 +1,18 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-05T09:45:51-08:00"
+date: "2024-03-22T19:45:36-08:00"
 slug: "links"
 ---
 
 ## Contents
+
+## AI
+
+- [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
+- [FridayGPT](https://www.fridaygpt.app/)
+- [Raycast AI](https://manual.raycast.com/ai)
+- [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 
 ## Apple
 
@@ -17,13 +24,16 @@ slug: "links"
 - [Matthew Cassinelli](https://matthewcassinelli.com/)
 - [Six Colors](https://sixcolors.com/)
 
-## Articles Worth Reading
+## Apple Home
 
-*These will constantly change and won't get archived anywhere else most likely.*
-
-- [Behind F1's Velvet Curtain](https://www.msn.com/en-us/autos/news/behind-f1-s-velvet-curtain/ar-BB1jaZRu)
-- [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won't Make - MacStories](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
-- [More Things You Can Do on Your Website • Robb Knight](https://rknight.me/blog/more-things-you-can-do-on-your-website/)
+- [Eve Outdoor Cam | evehome.com](https://www.evehome.com/en-us/eve-outdoor-cam)
+- [HomeCam for HomeKit](https://homecam.app/)
+- [HomeKit Light Switch - Meross Smart Switch MSS510US](https://www.meross.com/en-gc/smart-switch/homekit-light-switch/23)
+- [Logitech Circle View Wired Video Doorbell - HomeKit Enabled](https://www.logitech.com/en-us/products/cameras/circle-view-video-doorbell.html)
+- [Meross HomeKit Smart Plug, Smart Mini Wi-Fi Plug In American Standard - MSS110US MSS110JP](https://www.meross.com/en-gc/smart-plug/homekit-smart-plug/2)
+- [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
+- [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
+- [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
 
 ## Beer
 
@@ -82,6 +92,9 @@ David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in 
 **[The Dent ·](https://acn.lol/)**  
 Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech!  
 
+**[The Eclectic Light Company – Macs, painting, and more](https://eclecticlight.co/)**  
+I don't know about the paintings because I haven't looked that far yet, but the Mac stuff is stupendously great. Howard Oakley should be proud (but not too proud, because no one likes arrogance).
+
 **[ericportis.com](https://ericportis.com/)**  
 I came for the colorspace article, I stayed for the photography. Wow!  
 
@@ -100,6 +113,9 @@ I like Harshil Shah. I think everyone likes Harshil Shah. He created the excelle
 **[Hey, it's Jason! // Welcome!](https://grepjason.sh/)**  
 Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
 
+**[Hugo's Blog](https://hugo.blog/)**  
+Hugo is apparently a Meta Quest guy and he just wrote an encyclopedia-sized article on the Apple Vision Pro. I hope not every blog post he does is that long, but it's a fascinating read anyway.
+
 **[Hypercritical](https://hypercritical.co/)**  
 I mean, it's John Siracusa.  
 
@@ -110,13 +126,16 @@ I love the design of this site. Wow!
 I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!!  
 
 **[The Liner Project](https://thelinerproject.com/)**  
-Ronnie Lutes – blogger, former podcaster, and fan of history.  
+Ronnie Lutes – friend, blogger, former podcaster, and fan of history. Also I think he knows all the best restaurants in Vegas, so you should probably ask him questions if you're headed there.
 
 **[Marco.org](https://marco.org/)**  
 You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️  
 
 **[Blog – Mark writes](https://mdhughes.tech/blog/)**  
 Retro computing and a lot more.  
+
+**[Matt Mullenweg | Unlucky in Cards](https://ma.tt/)**  
+I guess Matt's pretty well known as the Automattic guy. I'm not super familiar with him, but it seems like people read his stuff.
 
 **[Matt Stein](https://mattstein.com/)**  
 I just found Matt's blog today when he answered Molly White's [call for blogs](https://hachyderm.io/@molly0xfff/111908294962007998). Looks interesting.  
@@ -172,6 +191,9 @@ I only just found Silvia Maggi's site, but as anyone can see by my site, I need 
 **[Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>)**  
 Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world.  
 
+**[TechDistortion](https://techdistortion.com/)**  
+John Chidgey is an engineer first and foremost, and a podcaster and writer additionally. That's not to downplay those works – they're excellent. It's just to emphasize how based in analysis his work is.
+
 **[...tiff is typing](https://www.tiffwhite.me/)**  
 Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
 
@@ -211,6 +233,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
 - [Trade Coffee](https://www.drinktrade.com/)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
+- [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
 ## Command Line
@@ -225,13 +248,19 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 ## Cool Sites Archive
 
+- [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
+- [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
+
+## FOOD
+
+- [Toki Restaurant](https://www.tokipdx.com/)
 
 ## Japan and Japanese Language
 
@@ -261,6 +290,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bear](https://bear.app/)
+- [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
@@ -274,6 +304,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
+- [MindMac — Elegant and Fullfil ChatGPT Client for macOS](https://mindmac.app/)
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
@@ -290,6 +321,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Transmit 5](https://www.panic.com/transmit/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
+- [Whisky - Run Modern Windows Games on macOS](https://getwhisky.app/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
 
 ## Newsletters
@@ -321,6 +353,11 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Upgrade - Relay FM](https://www.relay.fm/upgrade)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 
+## Raycast
+
+- [Raycast AI](https://manual.raycast.com/ai)
+- [Raycast Browser Extension](https://www.raycast.com/browser-extension)
+
 ## Web Dev
 
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
@@ -331,6 +368,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
+- [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
@@ -339,3 +377,9 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [SmolCSS](https://smolcss.dev/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
+
+## It's All About Me
+
+- [Friends with Brews](https://friendswithbrews.com/)
+- [ScottWillsey](https://scottwillsey.com/)
+- [Scott Willsey • RsS iS dEaD LOL](https://rss-is-dead.lol/user?profileUrl=https%3A%2F%2Fsocial.lol%2Fusers%2Fscottwillsey)

@@ -1,14 +1,14 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-03-06T02:15:48-08:00"
+date: "2024-03-12T02:29:22-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Introducing the MacPad – AppStories](https://appstories.net/episodes/373)
-- [Jim Hates Scams – Darknet Diaries](https://darknetdiaries.com/episode/143/)
+- ['I Squared' Governance | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2024/03/podcast-episode-i-squared-governance)
+- [ATP 577: Colorful Criticism — Accidental Tech Podcast](https://atp.fm/577)
 
 ### Books
 
@@ -23,19 +23,14 @@ slug: "now"
 
 ### Movies and TV
 
+- [Somebody Feed Phil – Season 7 | Netflix](https://www.netflix.com/title/80146601) *Usually when I recommend things to people, I assume they won't bother, and that's fine. But this is one that is NOT fine to skip. JUST. WATCH. IT. It'll make you happy, it'll make you hungry, but most of all it'll stir your imagination for food and travel.*
 - [Live Die Repeat: Edge of Tomorrow | WarnerBros.com](https://www.warnerbros.com/movies/edge-tomorrow) *I had seen trailers for this movie in the past and I just assumed it was a stupid "vs. Alien" movie about a guy in an exosuit. I could not have been more wrong. I did not expect to love this movie, I didn't necessarily want to love this movie, but I did in fact love this movie.*
-- [Drive to Survive Season 6](https://www.netflix.com/title/80204890) *Let's just be honest here. Drive to Surive is surface deep and makes up a lot of drama. This season, they just failed completely at the best parts of certain stories. Carlos Sainz literally manufactured his own victory in Singapore through clever intentional creation of a DRS train, and they didn't mention once or even show a single clip that indicated he was creating his own winning strategy. This is just one example of their vapidity, there are many like it. I've been watching F1 since 1974 when I discovered a big F1 photo book in a little bookstore in Karuizawa, Japan, and I think I'm generally not the audience for this show.*
-
-***Recently Finished***
-
-- [Radioactive Forest: 10 Years After (2022) — The Movie Database (TMDB)](https://www.themoviedb.org/movie/984118-radioactive-forest-10-years-after) *We watched this on [Curiosity Stream](https://curiositystream.com/) and enjoyed it. It's slightly dissatisfying in terms of conclusions – there aren't any strong ones – but that's life, because there's a lot we still don't understand about what long term effects there will be in this area due to radioactive contamination.*
-- [The Last of Us](https://www.hbo.com/the-last-of-us) *Human fungal infections are on the rise, so this hits a little too close to home, maybe, but I'm kind of enjoying it. I'm watching this **super** slowly.*
 
 ### Food and Drink
 
-- [Bochi Bochi Japanese Rice Lager - Crux Fermentation](https://www.cruxfermentation.com/beer/)
+- [Silver Falls Brewery](https://www.silverfallsbrewery.com/)
+- [Toki Restaurant](https://www.tokipdx.com/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
-- [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Toki® Blended Japanese Whisky | The House of Suntory](https://house.suntory.com/toki-whisky)
 
 ### Projects
@@ -43,12 +38,6 @@ slug: "now"
 - Creating a wiki site for myself for links and topic notes. I also would like to create a private home wiki for my family, inspired by [Jason](https://grepjason.sh) of [Hemispheric Views Podcast](https://hemisphericviews.com/).
 - Revamping this site's [Uses](https://scottwillsey.com/uses/) page.
 
-### Fitness
+### Apple Home
 
-- Yoga
-- Running
-- Cycling
-- HIIT
-- Body weight and core exercises
-
-I'm really going back to longer runs and bike rides again after a period of much needed variation and focus on HIIT and body weight exercises. Yoga is always a constant. I do some yoga almost daily.
+- Installed an [Eve Outdoor Cam](https://www.evehome.com/en-us/eve-outdoor-cam) to cover a front-of-house blind spot. This is a combination light and camera so it replaces one of the outdoor lights to the side of the garage.
