@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-22T19:04:37-08:00"
+date: "2024-03-26T11:25:30-08:00"
 slug: "pins"
 ---
 
@@ -28,12 +28,6 @@ slug: "pins"
 ## FOOD
 
 - [Akatsuki Sushi Bar- Asian Fusion Restaurant｜Silverton｜OR](https://www.akatsukisushibar.com/)
-
-## Hugo
-
-- [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
-- [future-wd/hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images)
-- [Use Hugo Modules | Hugo](https://gohugo.io/hugo-modules/use-modules/)
 
 ## Keyboards
 
@@ -73,7 +67,6 @@ slug: "pins"
 ## Reads
 
 - [ChatGPT turns one: How OpenAI’s AI chatbot changed tech forever - The Verge](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future)
-- [Extremely softcore: the old Twitter was an idealist’s workplace and a naive business](https://www.theverge.com/c/features/23997510/twitter-jack-dorsey-workplace-extremely-softcore)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 
@@ -97,6 +90,7 @@ slug: "pins"
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Home | Tampermonkey](https://www.tampermonkey.net/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [Using Eleventy to Gobble Up Everything I Do Online - YouTube](https://www.youtube.com/watch?v=e_87IF7KGgo)
