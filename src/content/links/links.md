@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-26T11:25:30-08:00"
+date: "2024-03-26T13:45:27-08:00"
 slug: "links"
 ---
 
@@ -374,6 +374,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Modern Font Stacks](https://modernfontstacks.com/)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
+- [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
 - [SmolCSS](https://smolcss.dev/)
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
