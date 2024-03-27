@@ -99,7 +99,7 @@ Of course besides the usual drag and drop and open copy in options, you can expo
 
 Honestly, what pushed me back to using ScreenFloat wholeheartedly was discovering the customization options for all the annotations and the double-click workflows. Being able to quickly copy something to the clipboard or jump right into annotating it are things I can’t live without.
 
-ScreenFloat is a very powerful, very customizable screenshot tool for the Mac that I think trounces most of the competition. The other one I’d recommend is Shottr, which takes a much simpler but still feature-rich approach. It’s another great application. For me though, ScreenFlow wins easily with its Shots Browser, Floating Shots, and easy customization with workflows and tool options.
+ScreenFloat is a very powerful, very customizable screenshot tool for the Mac that I think trounces most of the competition. The other one I’d recommend is Shottr, which takes a much simpler but still feature-rich approach. It’s another great application. For me though, ScreenFloat wins easily with its Shots Browser, Floating Shots, and easy customization with workflows and tool options.
 
 [^1]: xNapper fans are especially zealous, in my experience. I understand – it’s a great app, but still. Breathe, people.
 [^2]: I don’t know if that’s what Matthias calls it, but it’s what I call it until I find out otherwise.
