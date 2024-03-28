@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-27T22:14:26-08:00"
+date: "2024-03-28T00:51:16-08:00"
 slug: "links"
 ---
 
@@ -251,6 +251,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
+- [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
