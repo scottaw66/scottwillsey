@@ -31,21 +31,21 @@
   "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
   "dependencies": {
     "@astrojs/rss": "^4.0.5",
-    "@astrojs/sitemap": "^3.1.1",
+    "@astrojs/sitemap": "^3.1.2",
     "@iconify-json/bi": "^1.1.23",
     "@iconify-json/ep": "^1.1.15",
-    "@iconify-json/fluent": "^1.1.50",
+    "@iconify-json/fluent": "^1.1.51",
     "@iconify-json/ic": "^1.1.17",
-    "@iconify-json/ion": "^1.1.16",
+    "@iconify-json/ion": "^1.1.17",
     "@iconify-json/mdi": "^1.1.64",
     "@iconify-json/noto": "^1.1.18",
     "@iconify-json/octicon": "^1.1.52",
     "@iconify-json/openmoji": "^1.1.49",
     "@iconify-json/ph": "^1.1.11",
     "@iconify-json/ri": "^1.1.20",
-    "@iconify-json/simple-icons": "^1.1.96",
+    "@iconify-json/simple-icons": "^1.1.97",
     "@iconify-json/uiw": "^1.1.11",
-    "astro": "^4.5.9",
+    "astro": "^4.5.10",
     "astro-expressive-code": "^0.33.5",
     "astro-font": "^0.0.78",
     "astro-icon": "^1.1.0",
@@ -58,9 +58,9 @@
     "sanitize-html": "^2.13.0"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^7.3.1",
+    "@typescript-eslint/parser": "^7.4.0",
     "eslint": "^8.57.0",
-    "eslint-plugin-astro": "^0.32.0",
+    "eslint-plugin-astro": "^0.33.1",
     "prettier": "^3.2.5",
     "prettier-plugin-astro": "^0.13.0"
   }
