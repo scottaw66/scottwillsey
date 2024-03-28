@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-28T00:51:16-08:00"
+date: "2024-03-28T00:58:44-08:00"
 slug: "links"
 ---
 
@@ -127,6 +127,9 @@ I don't need to tell you about kottke.org. **NO ONE** needs to tell you about ko
 
 **[The Liner Project](https://thelinerproject.com/)**  
 Ronnie Lutes – friend, blogger, former podcaster, and fan of history. Also I think he knows all the best restaurants in Vegas, so you should probably ask him questions if you're headed there.
+
+**[Blog | LMNT](https://lmnt.me/blog/)**  
+Louie Mantia's blog. Lots of interesting ideas here, and the rest of the sight is great too. It's even a Cool Site Spotlight entry.
 
 **[Marco.org](https://marco.org/)**  
 You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️  
