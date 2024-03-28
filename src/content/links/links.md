@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-26T13:45:27-08:00"
+date: "2024-03-27T22:14:26-08:00"
 slug: "links"
 ---
 
@@ -329,6 +329,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Ad Astra – Swapna Krishna](https://www.adastraspace.com/)
 - [AI Snake Oil](https://www.aisnakeoil.com/subscribe)
 - [Brilliantcrank](https://www.brilliantcrank.com/)
+- [Citation Needed by Molly White](https://www.citationneeded.news/)
 - [Once Upon A Time — Stories — Matt Gemmell](https://mattgemmell.scot/books/once-upon-a-time/stories/)
 - [Plura-list by Cory Doctorow – Info Page](https://mail.flarn.com/mailman/listinfo/plura-list/)
 - [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
