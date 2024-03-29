@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-28T20:47:40-08:00"
+date: "2024-03-29T15:54:23-08:00"
 slug: "links"
 ---
 
@@ -390,4 +390,5 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Friends with Brews](https://friendswithbrews.com/)
 - [Github](https://github.com/scottaw66)
 - [ScottWillsey](https://scottwillsey.com/)
+- [scottwillsey](https://omg.lol/scottwillsey) on omg.lol
 - [Scott Willsey • RsS iS dEaD LOL](https://rss-is-dead.lol/user?profileUrl=https%3A%2F%2Fsocial.lol%2Fusers%2Fscottwillsey)
