@@ -2,16 +2,25 @@
 import { getEntry } from "astro:content";
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
-import UsesItem from "../components/UsesItem.astro";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
-import usesdata from "../data/uses.json";
 
-import mac from "../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
+import mac from "../assets/images/posts/MacBrighter-72C30F73-DD6D-4E9F-98E0-6D9BC617F493.png";
+import keychron from "../assets/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.png";
+import mbp from "../assets/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
+import k2 from "../assets/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
+import shurebeta from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+import wave from "../assets/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 const bigmac =
-  "/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png";
+  "/images/posts/MacBrighter-72C30F73-DD6D-4E9F-98E0-6D9BC617F493.png";
+const bigkeychron = "/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.png";
+const bigmbp = "/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
+const bigk2 = "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
+const bigshurebeta = "/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+const bigwave = "/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 
 const uses = await getEntry("uses", "uses");
+const { Content } = await uses.render();
 
 let title = uses.data.title;
 let description = uses.data.description;
@@ -22,9 +31,23 @@ let description = uses.data.description;
     <h1>{title}</h1>
     <div class="use-header">
       <a href={bigmac}
-        ><Image src={mac} width="300" densities={[2, 3]} alt="My Computer" /></a
+        ><Image src={mac} height="150" densities={[2, 3]} alt="2021 M1 Pro MacBook Pro 14 in." /></a
       >
-      <p class="uses">{description}</p>
+      <a href={bigkeychron}
+        ><Image src={keychron} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+      >
+      <a href={bigmbp}
+        ><Image src={mbp} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+      >
+      <a href={bigk2}
+        ><Image src={k2} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+      >
+      <a href={bigshurebeta}
+        ><Image src={shurebeta} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+      >
+      <a href={bigwave}
+        ><Image src={wave} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+      >
     </div>
     <div class="time">
       <Icon name="bi:calendar2-week-fill" />
@@ -33,30 +56,21 @@ let description = uses.data.description;
         >
       </time>
     </div>
-    {
-      usesdata.map((use) => {
-        return (
-          <div class="uses">
-            <h2>{use.Category}</h2>
-            {use.Items.map((item) => (
-              <UsesItem item={item} />
-            ))}
-          </div>
-        );
-      })
-    }
+    <div class="uses">
+      <Content />
+    </div>
   </article>
 </Base>
 
 <style>
   div.use-header {
     display: flex;
-    flex-direction: row;
-    column-gap: 3rem;
+    flex-flow: row wrap;
+    gap: 2rem;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    padding: 0.5rem 2rem;
+    padding: 2rem;
     border-radius: 10px;
     font-weight: 400;
     font-size: 1.2em;
@@ -66,7 +80,7 @@ let description = uses.data.description;
     background-color: var(--surface-menu);
   }
   div.use-header img {
-    min-width: 225px;
+    min-height: 150px;
   }
   div.uses {
     background-color: var(--surface-menu);

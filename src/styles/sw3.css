@@ -1,21 +1,21 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #66800C;
-  --title-light: var(--hyperlink-light);
-  --hyperlink-light: #1F5EA6;
+  --brand-light: #017bee;
+  --title-light: #000000;
+  --hyperlink-light: #017bee;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
-  --surface-menu-light: rgba(215, 195, 163, 0.3);
+  --surface-menu-light: #FEFFFF;
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: #FEFCF0;
+  --surface1-light: #f6f6f6;
   --scroll-light: #0046c9;
   --language-id-light: rgb(88, 243, 88);
-  --accent1-light: #A02F6F;
+  --accent1-light: #6c6666;
   --accent2-light: #66800C;
-  --accent3-light: #A02F6F;
+  --accent3-light: #BF61FF;
   --accent4-light: rgb(255, 234, 175);
   --accent5-light: #BC5214;
   --accent6-light: #E98074;
@@ -515,25 +515,21 @@ article img {
   content-visibility: auto;
 }
 
+div.use-header img {
+  margin: 0.5rem;
+}
+
 div.uses h2 {
-  margin-top: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
 }
 div.uses h3 {
   color: var(--accent1);
-  margin-left: 0.25rem;
-}
-div.uses img {
-  max-width: 225px;
-}
-@media only screen and (max-width: 399px) {
-  div.uses img {
-    max-width: 99%;
-  }
+  margin-top: 0;
 }
 div.uses ul {
-  list-style: none;
   padding: 0;
-  margin: 1em;
+  margin: 0 1em 2em;
 }
 div.uses ul > li:first-child {
   margin: 0;
