@@ -8,6 +8,7 @@ html {
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
+  --quote-bg-light: #FFF7CA;
   --surface-menu-light: #FEFFFF;
   --post-bg-light: var(--surface-menu-light);
   --surface1-light: #f6f6f6;
@@ -35,6 +36,7 @@ html {
   --text2-dark: #58CCE7;
   --text3-dark: white;
   --quote-dark: var(--text1-dark);
+  --quote-bg-dark: var(--surface-menu-dark);
   /* --surface1-dark: rgb(0, 0, 16); */
   /* --surface1-dark: rgba(16, 28, 42, 1.0); */
   --surface1-dark: #101C2A;
@@ -63,6 +65,7 @@ html {
   --text2-hypercritical: var(--text2-light);
   --text3-hypercritical: var(--text3-light);
   --quote-hypercritical: var(--quote-light);
+  --quote-bg-hypercritical: var(--surface-menu-hypercritical);
   --surface1-hypercritical: #e3a649;
   --surface-menu-hypercritical: rgba(254, 234, 175, 0.54);
   --post-bg-hypercritical: var(--surface-menu-hypercritical);
@@ -124,6 +127,7 @@ html {
   --text2: var(--text2-light);
   --text3: var(--text3-light);
   --quote: var(--quote-light);
+  --quote-bg: var(--quote-bg-light);
   --accent1: var(--accent1-light);
   --accent2: var(--accent2-light);
   --accent3: var(--accent3-light);
@@ -165,6 +169,7 @@ html {
   --text1: var(--text1-dark);
   --text2: var(--text2-dark);
   --text3: var(--text3-dark);
+  --quote-bg: var(--quote-bg-dark);
   --accent1: var(--accent1-dark);
   --accent2: var(--accent2-dark);
   --accent3: var(--accent3-dark);
@@ -205,6 +210,7 @@ html {
   --text1: var(--text1-hypercritical);
   --text2: var(--text2-hypercritical);
   --text3: var(--text3-hypercritical);
+  --quote-bg: var(--quote-bg-hypercritical);
   --accent1: var(--accent1-hypercritical);
   --accent2: var(--accent2-hypercritical);
   --accent3: var(--accent3-hypercritical);
@@ -443,7 +449,7 @@ blockquote, .update {
   padding: 1em 1em;
   margin: 0 0.2em;
   quotes: "\201C" "\201D";
-  background-color: var(--surface-menu);
+  background-color: var(--quote-bg);
   border-radius: 0.5rem;
 }
 
