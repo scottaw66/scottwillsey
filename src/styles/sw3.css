@@ -525,8 +525,8 @@ div.use-header img {
   margin: 0.5rem;
 }
 
-div.uses h2 {
-  margin-top: 2rem;
+div.uses h2:not(:first-of-type) {
+  margin-top: 3rem;
   margin-bottom: 0;
 }
 div.uses h3 {
@@ -535,13 +535,19 @@ div.uses h3 {
 }
 div.uses ul {
   padding: 0;
-  margin: 0 1em 2em;
+  margin: 0;
 }
 div.uses ul > li:first-child {
   margin: 0;
 }
 div.uses ul strong {
   font-size: 1.3em;
+}
+div.uses img {
+  max-width: 300px;
+  display: block;
+  margin: 0 0 2em;
+  padding: 0;
 }
 
 div.change p {
