@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-22T19:45:36-08:00"
+date: "2024-03-28T00:58:44-08:00"
 slug: "links"
 ---
 
@@ -128,6 +128,9 @@ I don't need to tell you about kottke.org. **NO ONE** needs to tell you about ko
 **[The Liner Project](https://thelinerproject.com/)**  
 Ronnie Lutes – friend, blogger, former podcaster, and fan of history. Also I think he knows all the best restaurants in Vegas, so you should probably ask him questions if you're headed there.
 
+**[Blog | LMNT](https://lmnt.me/blog/)**  
+Louie Mantia's blog. Lots of interesting ideas here, and the rest of the sight is great too. It's even a Cool Site Spotlight entry.
+
 **[Marco.org](https://marco.org/)**  
 You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️  
 
@@ -251,6 +254,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
+- [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
@@ -329,6 +333,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Ad Astra – Swapna Krishna](https://www.adastraspace.com/)
 - [AI Snake Oil](https://www.aisnakeoil.com/subscribe)
 - [Brilliantcrank](https://www.brilliantcrank.com/)
+- [Citation Needed by Molly White](https://www.citationneeded.news/)
 - [Once Upon A Time — Stories — Matt Gemmell](https://mattgemmell.scot/books/once-upon-a-time/stories/)
 - [Plura-list by Cory Doctorow – Info Page](https://mail.flarn.com/mailman/listinfo/plura-list/)
 - [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
@@ -374,7 +379,9 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Modern Font Stacks](https://modernfontstacks.com/)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
+- [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
 - [SmolCSS](https://smolcss.dev/)
+- [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
 
