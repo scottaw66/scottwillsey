@@ -2,7 +2,7 @@
 
 html {
   --brand-light: #017bee;
-  --title-light: #000000;
+  --title-light: #222222;
   --hyperlink-light: #017bee;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
@@ -549,6 +549,16 @@ div.uses img {
   margin: 0 0 2em;
   padding: 0;
 }
+@media only screen and (max-width: 699px) {
+  div.uses ul {
+    margin-left: 1rem;
+  }
+  div.uses img {
+    max-width: 250px;
+    margin: 0 auto;
+  }
+}
+
 
 div.change p {
   margin: 0 1em;
