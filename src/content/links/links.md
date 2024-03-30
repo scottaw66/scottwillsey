@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-29T15:54:23-08:00"
+date: "2024-03-30T14:33:33-08:00"
 slug: "links"
 ---
 
@@ -34,6 +34,12 @@ slug: "links"
 - [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
 - [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
 - [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
+
+## Articles
+
+- [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+- [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 
 ## Beer
 

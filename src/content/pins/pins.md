@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-26T13:45:27-08:00"
+date: "2024-03-30T14:33:33-08:00"
 slug: "pins"
 ---
 
@@ -67,8 +67,6 @@ slug: "pins"
 ## Reads
 
 - [ChatGPT turns one: How OpenAI’s AI chatbot changed tech forever - The Verge](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future)
-- [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
-- [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 
 ## Swift
 
@@ -76,6 +74,7 @@ slug: "pins"
 
 ## Web Development
 
+- [Adding Webmentions to Your Site • Robb Knight](https://rknight.me/blog/adding-webmentions-to-your-site/)
 - [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
 - [Create a SoundCloud audio player with Wavesurfer.js - Hassan Corrigan](https://hassancorrigan.com/blog/create-a-soundcloud-audio-player-with-wavesurfer-js/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
