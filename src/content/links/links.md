@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-30T22:39:57-08:00"
+date: "2024-03-31T10:56:30-08:00"
 slug: "links"
 ---
 
@@ -175,6 +175,9 @@ Nick Heer's blog. I just stumbled across this tonight myself. Very much tech rel
 
 **[Home | Rach Smith's digital garden](https://rachsmith.com/)**  
 The modern web is beautiful. Rach Smith's site is part of why.  
+
+**[net.wars - computers, freedom, and privacy](https://netwars.pelicancrossing.net/)**  
+Wendy Grossman writes about computers, freedom, and privacy.  
 
 **[Rebecca Owen](https://beccais.online/)**  
 I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄  
