@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-30T14:33:33-08:00"
+date: "2024-03-30T22:13:12-08:00"
 slug: "links"
 ---
 
@@ -308,6 +308,8 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
 - [GoodLinks — Save. Read. Anywhere.](https://goodlinks.app/)
+- [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
+- [Hookmark – Links beat searching](https://hookproductivity.com/)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
