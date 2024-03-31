@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-31T10:56:30-08:00"
+date: "2024-03-31T11:07:53-08:00"
 slug: "links"
 ---
 
@@ -149,20 +149,23 @@ I guess Matt's pretty well known as the Automattic guy. I'm not super familiar w
 **[Matt Stein](https://mattstein.com/)**  
 I just found Matt's blog today when he answered Molly White's [call for blogs](https://hachyderm.io/@molly0xfff/111908294962007998). Looks interesting.  
 
+**[Miriam Eric Suzanne](https://www.miriamsuzanne.com/)**  
+Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS.  
+
+**[Blog – Nathan Knowler](https://knowler.dev/blog)**  
+I just started reading this blog, but anything about web development is always of interest and use to me.  
+
 **[Posts | Nathan's Site](https://nthp.me/posts/)**  
 Mac, web, and probably some FOSS stuff.  
+
+**[net.wars - computers, freedom, and privacy](https://netwars.pelicancrossing.net/)**  
+Wendy Grossman writes about computers, freedom, and privacy.  
 
 **[nico’s blog · Why store your 2FA in your password manager](https://cropp.blog/)**  
 I knew this was an omg.lol guy as soon as I saw the site. 😄 I really like the design and readability here.  
 
 **[Notes · Matthias Ott – User Experience Designer](https://matthiasott.com/notes)**  
 Web, Mac, and more.  
-
-**[Miriam Eric Suzanne](https://www.miriamsuzanne.com/)**  
-Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS.  
-
-**[Blog – Nathan Knowler](https://knowler.dev/blog)**  
-I just started reading this blog, but anything about web development is always of interest and use to me.  
 
 **[Notes and Ramblings](https://notes.1705.net/)**  
 See the notes for EuroVan Camper Stuff above - it's David H!  
@@ -175,9 +178,6 @@ Nick Heer's blog. I just stumbled across this tonight myself. Very much tech rel
 
 **[Home | Rach Smith's digital garden](https://rachsmith.com/)**  
 The modern web is beautiful. Rach Smith's site is part of why.  
-
-**[net.wars - computers, freedom, and privacy](https://netwars.pelicancrossing.net/)**  
-Wendy Grossman writes about computers, freedom, and privacy.  
 
 **[Rebecca Owen](https://beccais.online/)**  
 I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄  
@@ -213,7 +213,7 @@ Tiffany White writes, does web development, has a cat, and is clearly a good per
 Unix, linux, open source.  
 
 **[Vic Hudson](https://vichudson1.com/)**  
-I'm really just putting this here to put pressure on Vic to modernize his site and start blogging about his gourmet adventures.  
+I'm really just putting this here to put pressure on Vic to modernize his site and start blogging about his gourmet adventures. *Update – it's never happening*  
 
 **[Waxy.org - Andy Baio lives here](https://waxy.org/)**  
 I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his blog until recently.  
