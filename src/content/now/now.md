@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-03-29T12:59:32-08:00"
+date: "2024-03-31T21:38:11-08:00"
 slug: "now"
 ---
 
@@ -25,11 +25,11 @@ slug: "now"
 
 ### Food and Drink
 
-- [Koku Ramen & Bites](https://www.ramenkoku.com/)
-- [Silver Falls Brewery](https://www.silverfallsbrewery.com/)
+- [Tanaka](https://tanakakatsusando.com/)
 - [Toki Restaurant](https://www.tokipdx.com/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Toki® Blended Japanese Whisky | The House of Suntory](https://house.suntory.com/toki-whisky)
+- [Bochi Bochi Japanese Rice Lager](https://www.cruxfermentation.com/beer/)
 
 ### Projects
 

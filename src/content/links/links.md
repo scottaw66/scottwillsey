@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-31T11:07:53-08:00"
+date: "2024-03-31T21:38:11-08:00"
 slug: "links"
 ---
 
@@ -275,6 +275,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 ## FOOD
 
 - [Toki Restaurant](https://www.tokipdx.com/)
+- [Tanaka](https://tanakakatsusando.com/)
 
 ## Japan and Japanese Language
 
