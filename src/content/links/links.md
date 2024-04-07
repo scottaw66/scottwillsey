@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-03-31T21:38:11-08:00"
+date: "2024-04-07T14:41:21-08:00"
 slug: "links"
 ---
 
@@ -116,6 +116,9 @@ Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, 
 **[Harshil Shah](https://harshil.net/)**  
 I like Harshil Shah. I think everyone likes Harshil Shah. He created the excellent [Peak](https://sneakpeak.app) and [Pause](https://harshil.net/pause) apps, and more importantly, he brings light to the world.  
 
+**[Hello! from Rick Cogley](https://cogley.jp/)**  
+Rick's microblog on tech and Japan! Hey, I like both of those things!  
+
 **[Hey, it's Jason! // Welcome!](https://grepjason.sh/)**  
 Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
 
@@ -194,6 +197,9 @@ What an amazing programming explainer blog! Sam has all kinds of interactive vis
 **[Sarah Rainsberger 🐦](<https://www.rainsberger.ca/>)**  
 Sarah Rainsberger is lead for the [Astro docs project](https://docs.astro.build/), and she's also a super nice, super helpful, and super capable and organized human being. I sure hope the Astro people know how valuable she is to their mission.  
 
+**[Shankar UX](https://shankarux.com/)**  
+Shankar designs Gmail interactions. He's also recently discovered the modern personal web, which I think is bigger than he realizes. I hope he makes the most of it.  
+
 **[SIRACUSA SAYS](https://siracusasays.com/)**  
 A fun collection of things John Siracusa has said on podcasts.  
 
@@ -260,6 +266,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 ## Cool Sites Archive
 
+- [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
