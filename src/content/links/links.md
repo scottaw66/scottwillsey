@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-07T14:41:21-08:00"
+date: "2024-04-07T14:45:48-08:00"
 slug: "links"
 ---
 
@@ -208,6 +208,9 @@ I only just found Silvia Maggi's site, but as anyone can see by my site, I need 
 
 **[Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>)**  
 Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world.  
+
+**[Taggart Tech](https://taggart-tech.com/)**  
+A tech blog with a delightfully retro design.  
 
 **[TechDistortion](https://techdistortion.com/)**  
 John Chidgey is an engineer first and foremost, and a podcaster and writer additionally. That's not to downplay those works – they're excellent. It's just to emphasize how based in analysis his work is.
