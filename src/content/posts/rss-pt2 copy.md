@@ -2,6 +2,7 @@
 title: Really Specifically
 description: Martin Feld's Really Specific Stories podcast delves deep into the topic of what podcasts mean to people and how they interact with and/or produce them.
 date: "2024-04-08T05:00:00-08:00"
+link: "https://www.rsspod.net"
 keywords: ["audio", "rss", "podcast"]
 slug: "rss-podcast"
 ---
