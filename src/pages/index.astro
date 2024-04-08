@@ -56,7 +56,10 @@ let description = site.description;
           indexPosts.map((post) => (
             <header>
               <h2>
-                <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
+                <a href={`/${post.slug}`}>
+                  {post.data.link ? <Icon name="ion:ios-link" /> : ""}
+                  {titleCase(post.data.title)}
+                </a>
               </h2>
               <div class="time">
                 <Icon name="bi:calendar2-week-fill" />
@@ -150,5 +153,12 @@ let description = site.description;
     font-size: 2rem;
     margin: 0 0.25rem -0.333rem 0;
     color: var(--hyperlink);
+  }
+  [data-icon="ion:ios-link"] {
+    width: 1em;
+    margin-bottom: -0.5rem;
+    background-color: var(--surface-menu);
+    padding: 0.25rem;
+    border-radius: 50%;
   }
 </style>
