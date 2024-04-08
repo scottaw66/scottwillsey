@@ -131,7 +131,7 @@ declare module 'astro:content' {
   slug: "changelog";
   body: string;
   collection: "changelog";
-  data: InferEntrySchema<"changelog">
+  data: any
 } & { render(): Render[".md"] };
 };
 "links": {
@@ -140,7 +140,7 @@ declare module 'astro:content' {
   slug: "links";
   body: string;
   collection: "links";
-  data: InferEntrySchema<"links">
+  data: any
 } & { render(): Render[".md"] };
 };
 "now": {
@@ -149,7 +149,7 @@ declare module 'astro:content' {
   slug: "now";
   body: string;
   collection: "now";
-  data: InferEntrySchema<"now">
+  data: any
 } & { render(): Render[".md"] };
 };
 "pins": {
@@ -158,7 +158,7 @@ declare module 'astro:content' {
   slug: "pins";
   body: string;
   collection: "pins";
-  data: InferEntrySchema<"pins">
+  data: any
 } & { render(): Render[".md"] };
 };
 "posts": {
@@ -167,462 +167,469 @@ declare module 'astro:content' {
   slug: "allgpts";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "amphbunch.md": {
 	id: "amphbunch.md";
   slug: "amphbunch";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "anew.md": {
 	id: "anew.md";
   slug: "anew";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "applescript-gpt.md": {
 	id: "applescript-gpt.md";
   slug: "applescript-gpt";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-3-3-picture-component.md": {
 	id: "astro-3-3-picture-component.md";
   slug: "astro-3-3-picture-component";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-3-responsive-images.md": {
 	id: "astro-3-responsive-images.md";
   slug: "astro-3-responsive-images";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-expressive-code.md": {
 	id: "astro-expressive-code.md";
   slug: "astro-expressive-code";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-icon-v1.md": {
 	id: "astro-icon-v1.md";
   slug: "astro-icon-v1";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-last-modified.md": {
 	id: "astro-last-modified.md";
   slug: "astro-last-modified";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-markdown-image-story.md": {
 	id: "astro-markdown-image-story.md";
   slug: "astro-markdown-image-story";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-pagefind.md": {
 	id: "astro-pagefind.md";
   slug: "astro-pagefind";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-pagination.md": {
 	id: "astro-pagination.md";
   slug: "astro-pagination";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-remark-eleventy-image.md": {
 	id: "astro-remark-eleventy-image.md";
   slug: "astro-remark-eleventy-image";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-rss-compiledcontent.md": {
 	id: "astro-rss-compiledcontent.md";
   slug: "astro-rss-compiledcontent";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-rss-update.md": {
 	id: "astro-rss-update.md";
   slug: "astro-rss-update";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "astro-templates-json.md": {
 	id: "astro-templates-json.md";
   slug: "astro-templates-json";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "audio-hijack-transcribe.md": {
 	id: "audio-hijack-transcribe.md";
   slug: "audio-hijack-transcribe";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "autoimageprocess.md": {
 	id: "autoimageprocess.md";
   slug: "autoimageprocess";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "bunch.md": {
 	id: "bunch.md";
   slug: "bunch";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "default-apps-2023.md": {
 	id: "default-apps-2023.md";
   slug: "default-apps-2023";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "default-browser.md": {
 	id: "default-browser.md";
   slug: "default-browser";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "dimensions.md": {
 	id: "dimensions.md";
   slug: "dimensions";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "draftsgpt.md": {
 	id: "draftsgpt.md";
   slug: "draftsgpt";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "episode-image-script.md": {
 	id: "episode-image-script.md";
   slug: "episode-image-script";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "fastmarks.md": {
 	id: "fastmarks.md";
   slug: "fastmarks";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "friends-with-transcripts.md": {
 	id: "friends-with-transcripts.md";
   slug: "friends-with-transcripts";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "fwb2.md": {
 	id: "fwb2.md";
   slug: "fwb2";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "fwbrews.md": {
 	id: "fwbrews.md";
   slug: "fwbrews";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "git-commit-diffs.md": {
 	id: "git-commit-diffs.md";
   slug: "gitcommitdiffs";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "git-pre-commit.md": {
 	id: "git-pre-commit.md";
   slug: "git-pre-commit";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "gridtemplateareas.md": {
 	id: "gridtemplateareas.md";
   slug: "gridtemplateareas";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "grin-and-bear-it.md": {
 	id: "grin-and-bear-it.md";
   slug: "grin-and-bear-it";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "hypercritical-theme.md": {
 	id: "hypercritical-theme.md";
   slug: "hypercritical-theme";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "image-rabbit-hole-1.md": {
 	id: "image-rabbit-hole-1.md";
   slug: "image-rabbit-hole-1";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "image-rabbit-hole-2.md": {
 	id: "image-rabbit-hole-2.md";
   slug: "image-rabbit-hole-2";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "image-rabbit-hole-3.md": {
 	id: "image-rabbit-hole-3.md";
   slug: "image-rabbit-hole-3";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "is-this-the-show.md": {
 	id: "is-this-the-show.md";
   slug: "is-this-the-show";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "launchcontrol.md": {
 	id: "launchcontrol.md";
   slug: "launchcontrol";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "link-posts.md": {
 	id: "link-posts.md";
   slug: "link-posts";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "links-and-pins.md": {
 	id: "links-and-pins.md";
   slug: "links-and-pins";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "mac-40.md": {
 	id: "mac-40.md";
   slug: "mac-40";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "map-stuff.md": {
 	id: "map-stuff.md";
   slug: "map-stuff";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "mastodon-webfinger.md": {
 	id: "mastodon-webfinger.md";
   slug: "mastodon-webfinger";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "more-astro-image-markdown.md": {
 	id: "more-astro-image-markdown.md";
   slug: "more-astro-image-markdown";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "now-page.md": {
 	id: "now-page.md";
   slug: "now-page";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "one-more-thing.md": {
 	id: "one-more-thing.md";
   slug: "one-more-thing";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "picture-sizes.md": {
 	id: "picture-sizes.md";
   slug: "picture-sizes";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "podcasting-recording-practices.md": {
 	id: "podcasting-recording-practices.md";
   slug: "podcasting-recording-practices";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "podcasting-recording-software.md": {
 	id: "podcasting-recording-software.md";
   slug: "podcasting-recording-software";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "podcasting-setup-hardware.md": {
 	id: "podcasting-setup-hardware.md";
   slug: "podcasting-setup-hardware";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "raycast-clipboard-history.md": {
 	id: "raycast-clipboard-history.md";
   slug: "raycast-clipboard-history";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "raycast-sc-text-parsing.md": {
 	id: "raycast-sc-text-parsing.md";
   slug: "raycast-sc-text-parsing";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "raycast.md": {
 	id: "raycast.md";
   slug: "raycast";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "raycasting.md": {
 	id: "raycasting.md";
   slug: "raycasting";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "rss-pt1.md": {
 	id: "rss-pt1.md";
   slug: "rss-pt1";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
+} & { render(): Render[".md"] };
+"rss-pt2 copy.md": {
+	id: "rss-pt2 copy.md";
+  slug: "rss-podcast";
+  body: string;
+  collection: "posts";
+  data: any
 } & { render(): Render[".md"] };
 "rss-pt2.md": {
 	id: "rss-pt2.md";
   slug: "rss-pt2";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "safari-bookmarks.md": {
 	id: "safari-bookmarks.md";
   slug: "safari-bookmarks";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "sanitize-html.md": {
 	id: "sanitize-html.md";
   slug: "sanitize-html";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "screenfloat.md": {
 	id: "screenfloat.md";
   slug: "screenfloat";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "series-of-series.md": {
 	id: "series-of-series.md";
   slug: "series-of-series";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "some-tags.md": {
 	id: "some-tags.md";
   slug: "some-tags";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "theme-flicker.md": {
 	id: "theme-flicker.md";
   slug: "theme-flicker";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "this-blog.md": {
 	id: "this-blog.md";
   slug: "this-blog";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "title-case.md": {
 	id: "title-case.md";
   slug: "title-case";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "warp-blocks.md": {
 	id: "warp-blocks.md";
   slug: "warp-blocks";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 "whispering-transcripts.md": {
 	id: "whispering-transcripts.md";
   slug: "whispering-transcripts";
   body: string;
   collection: "posts";
-  data: InferEntrySchema<"posts">
+  data: any
 } & { render(): Render[".md"] };
 };
 "uses": {
@@ -631,7 +638,7 @@ declare module 'astro:content' {
   slug: "uses";
   body: string;
   collection: "uses";
-  data: InferEntrySchema<"uses">
+  data: any
 } & { render(): Render[".md"] };
 };
 
@@ -643,5 +650,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("../src/content/config.js");
+	export type ContentConfig = never;
 }
