@@ -446,6 +446,15 @@ h6 a {
   color: var(--brand);
 }
 
+svg.icon {
+  display: flex;
+  height: 2.5rem;
+  width: 2.5rem;
+  align-self: center;
+  margin: 6em auto 4em;
+  stroke: var(--accent1);
+}
+
 blockquote,
 .update {
   font-style: italic;
