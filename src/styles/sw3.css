@@ -446,13 +446,20 @@ h6 a {
   color: var(--brand);
 }
 
-svg.icon {
+svg.secret-link-icon {
   display: flex;
   height: 2.5rem;
   width: 2.5rem;
   align-self: center;
   margin: 6em auto 4em;
   stroke: var(--accent1);
+  fill: var(--surface1);
+}
+svg.menu-icon {
+  height: 5rem;
+  width: 5rem;
+  stroke: red;
+  fill: var(--surface1);
 }
 
 blockquote,

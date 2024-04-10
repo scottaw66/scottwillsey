@@ -14,4 +14,48 @@ I changed the light theme quite a bit and also revamped the [/uses](/uses) page 
 
 ### 2024-03-04
 
-Added and styled this site changelog
+Added and styled this site changelog. Added Articles Worth Reading and Newsletters sections to Links page.
+
+### 2024-02-06
+
+Added Cool Site Spotlight to Links page.
+
+### 2024-02-05
+
+Changed light theme colors.
+
+### 2024-01-09
+
+Implemented [rehype-accessible-emojis - npm](https://www.npmjs.com/package/rehype-accessible-emojis) to make emoji accessible.
+
+### 2024-01-07
+
+Revamped the dark theme to make it nicer and easier on the eyes.
+
+### 2024-01-06
+
+Added the [/links](/links) page! Also added auto-timestamp generation for links page, now page, uses page, and pins page..
+
+### 2024-01-05
+
+Implemented [remarkjs/remark-toc: plugin to generate a table of contents (TOC)](https://github.com/remarkjs/remark-toc) for auto-TOC generation in blog posts if desired.
+
+### 2024-01-04
+
+Added a [/now](/now) page!
+
+### 2023-12-27
+
+Completely revamped the site menu and added font smoothing.
+
+### 2023-12-23
+
+Added Fathom analytics.
+
+### 2023-12-12
+
+Upgraded to Astro 4.
+
+### 2023-09-07
+
+Finished conversion to Astro 3.
