@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-03-30T22:13:12-08:00"
+date: "2024-04-09T19:37:40-08:00"
 slug: "pins"
 ---
 
@@ -16,22 +16,18 @@ slug: "pins"
 - [rishi-raj-jain/astro-font: `astro-font` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.](https://github.com/rishi-raj-jain/astro-font)
 - [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
 
-## BBEdit
-
-- [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
-
 ## Command Line
 
 - [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 
+## Cool Stuff
+
+- [Explore Songs | Song a Day World](https://songaday.world/)
+
 ## FOOD
 
 - [Akatsuki Sushi Bar- Asian Fusion Restaurant｜Silverton｜OR](https://www.akatsukisushibar.com/)
-
-## Keyboards
-
-- [Customizing the Keychron Q1 with QMK Configurator and Toolbox - YouTube](https://www.youtube.com/watch?v=hHPcejmgty0)
 
 ## Linux
 
@@ -77,7 +73,7 @@ slug: "pins"
 ## Web Development
 
 - [Adding Webmentions to Your Site • Robb Knight](https://rknight.me/blog/adding-webmentions-to-your-site/)
-- [Better code for image processing in Hugo | BryceWray.com](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
+- [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
 - [Create a SoundCloud audio player with Wavesurfer.js - Hassan Corrigan](https://hassancorrigan.com/blog/create-a-soundcloud-audio-player-with-wavesurfer-js/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [Flexoki — Steph Ango](https://stephango.com/flexoki)
@@ -88,6 +84,7 @@ slug: "pins"
 - [</> htmx ~ Hypermedia-Driven Applications](https://htmx.org/essays/hypermedia-driven-applications/)
 - [Hypermedia Systems](https://hypermedia.systems/)
 - [hugo-modules/responsive-images at main · UtkarshVerma/hugo-modules](https://github.com/UtkarshVerma/hugo-modules/tree/main/responsive-images)
+- [IndieWeb](https://indieweb.org/)
 - [Installing Expressive Code | Expressive Code](https://expressive-code.com/installation/)
 - [Internet Computer](https://internetcomputer.org/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)

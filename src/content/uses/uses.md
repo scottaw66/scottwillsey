@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-03-29T10:24:44-08:00"
+date: "2024-04-09T19:37:40-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -19,19 +19,30 @@ slug: "uses"
 ### Mic
 
 - [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A)
-- [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)
+- [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
+
+### Software
+
+- [Audio Hijack: Record Any Audio on MacOS | Rogue Amoeba](https://rogueamoeba.com/audiohijack/)
+- [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
+- [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
+- [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
+- [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
+- [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
+- [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/)
+- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 
 ## Attire
 
 ### Glasses
 
+- [Connor Eyeglasses in Eastern Bluebird Fade | Warby Parker](https://www.warbyparker.com/eyeglasses/connor/eastern-bluebird-fade?w=medium) (My current favorites!)
+
+[![Warby Parker Connor Eastern Bluebird Fade](../../assets/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)](/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)  
+
 - [Cole Haan CH4034 Eyeglasses](https://www.coolframes.com/glasses/cole-haan-eyewear/ch4034-eyeglasses.html) in Tortoise and Blue Fade (no one has these anymore, and I love them)
 
 [![Cole Haan 4043 Tortoise and Blue Fade](../../assets/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.png)](/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.png)
-
-- [Connor Eyeglasses in Eastern Bluebird Fade | Warby Parker](https://www.warbyparker.com/eyeglasses/connor/eastern-bluebird-fade?w=medium) (I love these too!)
-
-[![Warby Parker Connor Eastern Bluebird Fade](../../assets/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)](/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)  
   
 ### Shoes
 

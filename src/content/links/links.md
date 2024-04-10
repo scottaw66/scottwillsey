@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-07T14:45:48-08:00"
+date: "2024-04-09T19:37:40-08:00"
 slug: "links"
 ---
 
@@ -273,6 +273,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
+- [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
@@ -300,6 +301,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 ## Keyboards
 
+- [Customizing the Keychron Q1 with QMK Configurator and Toolbox - YouTube](https://www.youtube.com/watch?v=hHPcejmgty0)
 - [Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/)
 - [Keychron Q1 User Manual – Keychron | Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/pages/keychron-q1-user-manual)
 - [QMK Configurator](https://config.qmk.fm/#/matthewdias/minim/LAYOUT)
@@ -393,14 +395,17 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
+- [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
+- [IndieWeb](https://indieweb.org/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
+- [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
 - [SmolCSS](https://smolcss.dev/)

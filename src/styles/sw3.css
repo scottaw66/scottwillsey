@@ -533,11 +533,11 @@ div.use-header img {
 
 div.uses h2:not(:first-of-type) {
   margin-top: 3rem;
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
 }
 div.uses h3 {
   color: var(--accent1);
-  margin-top: 0;
+  /* margin-top: 0; */
 }
 div.uses ul {
   padding: 0;
