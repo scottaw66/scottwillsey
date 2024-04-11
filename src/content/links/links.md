@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-09T19:37:40-08:00"
+date: "2024-04-11T16:42:46-08:00"
 slug: "links"
 ---
 
@@ -37,6 +37,7 @@ slug: "links"
 
 ## Articles
 
+- [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
@@ -119,6 +120,9 @@ I like Harshil Shah. I think everyone likes Harshil Shah. He created the excelle
 **[Hello! from Rick Cogley](https://cogley.jp/)**  
 Rick's microblog on tech and Japan! Hey, I like both of those things!  
 
+**[Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.](https://sohl-dickstein.github.io/)**  
+This is some crazy brain food that I probably won't understand most of.  
+
 **[Hey, it's Jason! // Welcome!](https://grepjason.sh/)**  
 Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
 
@@ -151,6 +155,9 @@ I guess Matt's pretty well known as the Automattic guy. I'm not super familiar w
 
 **[Matt Stein](https://mattstein.com/)**  
 I just found Matt's blog today when he answered Molly White's [call for blogs](https://hachyderm.io/@molly0xfff/111908294962007998). Looks interesting.  
+
+**[mb bischoff](https://mbbischoff.com/)**  
+Designer, developer, blogger, Lickability. It's all good stuff.  
 
 **[Miriam Eric Suzanne](https://www.miriamsuzanne.com/)**  
 Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS.  
@@ -257,7 +264,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
-## Command Line
+## Command Line, Linux, Unix
 
 - [Awk - A Tutorial and Introduction - by Bruce Barnett](https://www.grymoire.com/Unix/Awk.html)
 - [An Awk Primer - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/An_Awk_Primer)
@@ -265,6 +272,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](https://www.regular-expressions.info/)
 - [sed & awk](https://docstore.mik.ua/orelly/unix/sedawk/)
 - [sed](https://www.panix.com/%7Eelflord/unix/sed.html)
+- [tildeverse](https://tildeverse.org/)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 
 ## Cool Sites Archive
@@ -285,10 +293,15 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 ## FOOD
 
+- [BroderPDX | Valkommen](https://www.broderpdx.com/)
+- [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
+- [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/)
+- [Salt & Straw | Craft Made, Curiously Delicious Ice Cream](https://saltandstraw.com/)
+- [Syun Izakaya](https://www.syunhillsboro.com/)
 - [Toki Restaurant](https://www.tokipdx.com/)
 - [Tanaka](https://tanakakatsusando.com/)
 
-## Japan and Japanese Language
+## Japan & Japanese Language
 
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
@@ -371,12 +384,14 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 - [Accidental Tech Podcast](https://atp.fm/)
 - [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
+- [Causality](https://engineered.network/causality/)
 - [Friends with Brews](https://friendswithbrews.com)
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
 - [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
 - [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
 - [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
 - [Longform Podcast](https://longform.org/podcast)
+- [Pragmatic](https://engineered.network/pragmatic/)
 - [Really Specific Stories](https://www.rsspod.net/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
 - [Tofugu Podcast](https://www.tofugu.com/podcast/)
@@ -387,6 +402,11 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
+
+## RSS & Reading Tools
+
+- [EchoFeed](https://echofeed.app/)
+- [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 
 ## Web Dev
 

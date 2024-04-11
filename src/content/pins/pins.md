@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-09T19:37:40-08:00"
+date: "2024-04-11T16:42:46-08:00"
 slug: "pins"
 ---
 
@@ -28,6 +28,10 @@ slug: "pins"
 ## FOOD
 
 - [Akatsuki Sushi Bar- Asian Fusion Restaurant｜Silverton｜OR](https://www.akatsukisushibar.com/)
+
+## HomeKit
+
+- [Yale launches its first retrofit smart lock — the Yale Approach with Wi-Fi - The Verge](https://www.theverge.com/2024/4/11/24126764/yale-approach-smart-lock-price-release-date-specs)
 
 ## Linux
 
@@ -66,8 +70,9 @@ slug: "pins"
 
 - [ChatGPT turns one: How OpenAI’s AI chatbot changed tech forever - The Verge](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future)
 
-## Swift
+## Swift/Xcode
 
+- [Get Xcode Previews Working](https://letters.asereno.com/xcode-previews/)
 - [Workaround: Swift scripts importing Cocoa frameworks broken on macOS 14 · Jesse Squires](https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/)
 
 ## Web Development
