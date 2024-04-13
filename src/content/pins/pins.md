@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-11T16:42:46-08:00"
+date: "2024-04-12T21:29:58-08:00"
 slug: "pins"
 ---
 
@@ -69,6 +69,10 @@ slug: "pins"
 ## Reads
 
 - [ChatGPT turns one: How OpenAI’s AI chatbot changed tech forever - The Verge](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future)
+
+## Services
+
+- [New Family Plans and Pricing | Fastmail | Fast, Private Email](https://www.fastmail.com/blog/new-family-plans-and-pricing/)
 
 ## Swift/Xcode
 

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-11T16:42:46-08:00"
+date: "2024-04-12T21:29:58-08:00"
 slug: "links"
 ---
 
@@ -37,6 +37,7 @@ slug: "links"
 
 ## Articles
 
+- [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
@@ -45,6 +46,14 @@ slug: "links"
 ## Beer
 
 - [Bochi Bochi Japanese Rice Lager - Crux Fermentation](https://www.cruxfermentation.com/beer/)
+- [Blueberry Boyfriend | Prairie Artisan Ales](https://prairieales.com/beer/blueberry-boyfriend/)
+- [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
+- [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
+- [Honey Kolsch – Rogue](https://www.rogue.com/shop/beer/core/honey-kolsch/)
+- [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
+- [Peanut Butter Milk Stout – Belching Beaver Landing - Beer](https://belchingbeaver.com/san-diego-belching-beaver-landing-beer)
+- [Puff Puff Passion | Ex Novo Brewing Company](https://exnovobrew.com/beer/puff-puff-passion/)
+- [Salted Caramel Porter – Beers — Cascade Lakes](https://www.cascadelakes.com/beers)
 
 ## Blogroll
 
