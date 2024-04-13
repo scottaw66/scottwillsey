@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-12T21:29:58-08:00"
+date: "2024-04-13T15:24:34-08:00"
 slug: "pins"
 ---
 
@@ -65,6 +65,7 @@ slug: "pins"
 - [Raycast Store: PromptLab](https://www.raycast.com/HelloImSteven/promptlab)
 - [Raycast Store: Script Commands Store – Find and manage your Raycast Script Commands](https://www.raycast.com/tholanda/script-commands)
 - [Reference for supported alphabets in custom date format](https://manual.raycast.com/snippets/reference-for-supported-alphabets-in-custom-date-format)
+- [v1.50.0 | Raycast API](https://developers.raycast.com/migration/v1.50.0)
 
 ## Reads
 
