@@ -1,15 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-04-09T23:11:24-08:00"
+date: "2024-04-13T16:19:59-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
+- [ATP 582: Can't Render, Fog It — Accidental Tech Podcast](https://atp.fm/582)
 - [BEYOND THE GRID: Ayao Komatsu on his journey from Tokyo to Haas Team Principal | Formula 1®](https://www.formula1.com/en/latest/article/beyond-the-grid-ayao-komatsu-on-his-journey-from-tokyo-to-haas-team.4blGeAfm2z86R7G93QxwLn)
 - [Podcast Episode: About Face (Recognition) | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2024/03/podcast-episode-about-face-recognition)
-- [Better Offline – Are We At Peak AI?](https://www.iheart.com/podcast/139-better-offline-150284547/episode/are-we-at-peak-ai-166292808/)
 
 ### Books
 
@@ -19,6 +19,7 @@ slug: "now"
 
 ### Movies and TV
 
+- [The Bricklayer](https://www.netflix.com/browse?jbv=81691563) *I don't know what the book was like, but run, don't walk, away from this movie as fast as you can. It is so, so tropey and horrific. I mean, if you peaked in the 80's and you like to believe women always need a man around to help them get through life, you may like this, but... no, probably not even you will like this.*
 - [3 Body Problem](https://www.netflix.com/title/81024821) *No spoilers, but I found some of it excellent and some of it a bit disappointing. I have read book one of this but tbh I don't remember a lot of it.*
 
 ### Food and Drink

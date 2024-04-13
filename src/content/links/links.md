@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-13T15:24:34-08:00"
+date: "2024-04-13T16:19:59-08:00"
 slug: "links"
 ---
 
@@ -28,6 +28,7 @@ slug: "links"
 
 - [Eve Outdoor Cam | evehome.com](https://www.evehome.com/en-us/eve-outdoor-cam)
 - [HomeCam for HomeKit](https://homecam.app/)
+- [HomeKit.cam - Every HomeKit camera and more](https://homekit.cam/)
 - [HomeKit Light Switch - Meross Smart Switch MSS510US](https://www.meross.com/en-gc/smart-switch/homekit-light-switch/23)
 - [Logitech Circle View Wired Video Doorbell - HomeKit Enabled](https://www.logitech.com/en-us/products/cameras/circle-view-video-doorbell.html)
 - [Meross HomeKit Smart Plug, Smart Mini Wi-Fi Plug In American Standard - MSS110US MSS110JP](https://www.meross.com/en-gc/smart-plug/homekit-smart-plug/2)
