@@ -1,6 +1,6 @@
 ---
 title: "Small Web, Indie Web"
-description: Tthe internet is better than ever, if you just focus your attention.
+description: The internet is better than ever, if you just focus your attention.
 date: "2024-04-13T09:00:00-08:00"
 keywords: ["blog","indieweb"]
 slug: "small-web"
