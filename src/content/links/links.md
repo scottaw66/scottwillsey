@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-14T00:02:05-08:00"
+date: "2024-04-14T00:50:15-08:00"
 slug: "links"
 ---
 
@@ -159,9 +159,6 @@ You all know who Marco Arment is. I put this in blogrolls because he doesn't wri
 
 **[Blog – Mark writes](https://mdhughes.tech/blog/)**  
 Retro computing and a lot more.  
-
-**[Matt Mullenweg | Unlucky in Cards](https://ma.tt/)**  
-I guess Matt's pretty well known as the Automattic guy. I'm not super familiar with him, but it seems like people read his stuff.
 
 **[Matt Stein](https://mattstein.com/)**  
 I just found Matt's blog today when he answered Molly White's [call for blogs](https://hachyderm.io/@molly0xfff/111908294962007998). Looks interesting.  
