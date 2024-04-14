@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-13T16:19:59-08:00"
+date: "2024-04-14T00:02:05-08:00"
 slug: "links"
 ---
 
@@ -332,6 +332,16 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [So you've decided to get into mechanical keyboards - localghost](https://localghost.dev/blog/so-you-ve-decided-to-get-into-mechanical-keyboards/)
 - [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
 - [qmk/qmk_toolbox: A Toolbox companion for QMK Firmware](https://github.com/qmk/qmk_toolbox)
+
+## Linux & Unix
+
+- [11 Ways to Check Linux/Unix Operating System Uptime - Adamsdesk](https://www.adamsdesk.com/posts/check-linux-unix-system-uptime/)
+- [An Introduction to Uncomplicated Firewall (UFW) - Linux.com](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
+- [Bash printf syntax examples - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/bash-printf-syntax-basics-with-examples)
+- [Minimal Debian Install on a Headless pi | Notes and Ramblings](https://notes.1705.net/posts/debian-on-a-pi/)
+- [linux - How to find out who/what caused a reboot/shutdown? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/557888/how-to-find-out-who-what-caused-a-reboot-shutdown)
+- [The Complete Guide to Cron and Launchd on macOS/Linux | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41)
+- [Understanding PAM - Linux.com](https://www.linux.com/news/understanding-pam/)
 
 ## Mac
 
