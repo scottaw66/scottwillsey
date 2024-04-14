@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-13T15:24:34-08:00"
+date: "2024-04-14T09:09:13-08:00"
 slug: "pins"
 ---
 
@@ -25,17 +25,9 @@ slug: "pins"
 
 - [Explore Songs | Song a Day World](https://songaday.world/)
 
-## FOOD
-
-- [Akatsuki Sushi Bar- Asian Fusion Restaurant｜Silverton｜OR](https://www.akatsukisushibar.com/)
-
 ## HomeKit
 
 - [Yale launches its first retrofit smart lock — the Yale Approach with Wi-Fi - The Verge](https://www.theverge.com/2024/4/11/24126764/yale-approach-smart-lock-price-release-date-specs)
-
-## Linux
-
-- [Minimal Debian Install on a Headless pi | Notes and Ramblings](https://notes.1705.net/posts/debian-on-a-pi/)
 
 ## Mac
 
@@ -82,7 +74,6 @@ slug: "pins"
 
 ## Web Development
 
-- [Adding Webmentions to Your Site • Robb Knight](https://rknight.me/blog/adding-webmentions-to-your-site/)
 - [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
 - [Create a SoundCloud audio player with Wavesurfer.js - Hassan Corrigan](https://hassancorrigan.com/blog/create-a-soundcloud-audio-player-with-wavesurfer-js/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
