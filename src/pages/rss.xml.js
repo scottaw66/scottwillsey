@@ -2,11 +2,17 @@ import rss from "@astrojs/rss";
 import sanitizeHtml from "sanitize-html";
 import { rfc2822 } from "../components/utilities/DateFormat";
 import { globalImageUrls } from "../components/utilities/StringFormat";
-import site from "../data/site.json"
+import site from "../data/site.json";
 
 export function GET(context) {
-  const postImportResult = import.meta.glob('../content/posts/**/*.md', { eager: true });
-  const posts = Object.values(postImportResult).sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+  const postImportResult = import.meta.glob("../content/posts/**/*.md", {
+    eager: true,
+  });
+  const posts = Object.values(postImportResult).sort(
+    (a, b) =>
+      new Date(b.frontmatter.date).valueOf() -
+      new Date(a.frontmatter.date).valueOf(),
+  );
 
   return rss({
     title: site.title,
@@ -22,10 +28,13 @@ export function GET(context) {
       link: `${site.url}${post.frontmatter.slug}`,
       pubDate: rfc2822(post.frontmatter.date),
       description: post.frontmatter.description,
-      content: globalImageUrls(site.url, sanitizeHtml(post.compiledContent(), {
+      customData: `<summary>${post.frontmatter.description}</summary>`,
+      content: globalImageUrls(
+        site.url,
+        sanitizeHtml(post.compiledContent(), {
           allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
-        })),
-        ...post.frontmatter
+        }),
+      ),
     })),
   });
 }
