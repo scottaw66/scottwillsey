@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-14T01:09:31-08:00"
+date: "2024-04-14T19:21:41-08:00"
 slug: "links"
 ---
 
@@ -10,13 +10,13 @@ slug: "links"
 ## AI
 
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
-- [FridayGPT](https://www.fridaygpt.app/)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 
 ## Apple
 
 - [512 Pixels](https://512pixels.net/)
+- [Basic Apple Guy](https://basicappleguy.com/)
 - [Daring Fireball](https://daringfireball.net/)
 - [Hypercritical](https://hypercritical.co/)
 - [MacRumors: Apple News and Rumors](https://www.macrumors.com/)
@@ -358,6 +358,8 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
+- [The low-tech guys](https://lowtechguys.com/)
+- [Lunar - The defacto app for controlling monitor brightness](https://lunar.fyi/?source=lowtechguys)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
