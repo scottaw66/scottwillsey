@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-14T19:21:41-08:00"
+date: "2024-04-15T09:49:44-08:00"
 slug: "links"
 ---
 
@@ -35,6 +35,7 @@ slug: "links"
 - [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
 - [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
 - [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
+- [Yale Assure Lock® 2 | Best Smart Lock for your Home - Yale Home](https://shopyalehome.com/pages/yale-assure-lock-2)
 
 ## Articles
 
