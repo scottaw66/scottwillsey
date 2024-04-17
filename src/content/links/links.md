@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-15T09:49:44-08:00"
+date: "2024-04-17T16:45:23-08:00"
 slug: "links"
 ---
 
@@ -39,6 +39,7 @@ slug: "links"
 
 ## Articles
 
+- [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
@@ -130,6 +131,9 @@ I like Harshil Shah. I think everyone likes Harshil Shah. He created the excelle
 
 **[Hello! from Rick Cogley](https://cogley.jp/)**  
 Rick's microblog on tech and Japan! Hey, I like both of those things!  
+
+**[Home | James' Coffee Blog](https://jamesg.blog/)**  
+Is it a blog? Is it a coffee blog? I guess it's both, because James says so. Either way, it's also about the indieweb, and I'm here for it!  
 
 **[Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.](https://sohl-dickstein.github.io/)**  
 This is some crazy brain food that I probably won't understand most of.  

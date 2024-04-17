@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-16T19:04:54-08:00"
+date: "2024-04-17T16:45:23-08:00"
 slug: "pins"
 ---
 
@@ -15,6 +15,7 @@ slug: "pins"
 - [How to use Git Hooks to set Created and Modified Dates | AstroPaper](https://astro-paper.pages.dev/posts/setting-dates-via-git-hooks/)
 - [rishi-raj-jain/astro-font: `astro-font` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.](https://github.com/rishi-raj-jain/astro-font)
 - [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
+- [Using environment variables | Docs](https://docs.astro.build/en/guides/environment-variables/)
 
 ## Command Line
 
@@ -74,6 +75,7 @@ slug: "pins"
 
 ## Web Development
 
+- [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
 - [Clack](https://www.clack.cc/)
 - [natemoo-re/clack: Effortlessly build beautiful command-line apps](https://github.com/natemoo-re/clack)
