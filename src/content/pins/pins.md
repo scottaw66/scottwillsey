@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-14T09:09:13-08:00"
+date: "2024-04-16T19:04:54-08:00"
 slug: "pins"
 ---
 
@@ -75,6 +75,8 @@ slug: "pins"
 ## Web Development
 
 - [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
+- [Clack](https://www.clack.cc/)
+- [natemoo-re/clack: Effortlessly build beautiful command-line apps](https://github.com/natemoo-re/clack)
 - [Create a SoundCloud audio player with Wavesurfer.js - Hassan Corrigan](https://hassancorrigan.com/blog/create-a-soundcloud-audio-player-with-wavesurfer-js/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [Flexoki — Steph Ango](https://stephango.com/flexoki)
