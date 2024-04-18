@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-17T16:45:23-08:00"
+date: "2024-04-17T19:43:11-08:00"
 slug: "links"
 ---
 
@@ -40,6 +40,7 @@ slug: "links"
 ## Articles
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
