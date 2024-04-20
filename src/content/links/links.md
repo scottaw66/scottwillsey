@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-17T19:43:11-08:00"
+date: "2024-04-20T09:38:04-08:00"
 slug: "links"
 ---
 
@@ -40,12 +40,14 @@ slug: "links"
 ## Articles
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
+- [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 
 ## Beer
 
@@ -166,6 +168,9 @@ You all know who Marco Arment is. I put this in blogrolls because he doesn't wri
 **[Blog – Mark writes](https://mdhughes.tech/blog/)**  
 Retro computing and a lot more.  
 
+**[Martin Gunnarsson](https://www.martingunnarsson.com/)**  
+Martin writes a lot about bikes, and a lot about Eleventy.  
+
 **[Matt Stein](https://mattstein.com/)**  
 I just found Matt's blog today when he answered Molly White's [call for blogs](https://hachyderm.io/@molly0xfff/111908294962007998). Looks interesting.  
 
@@ -174,6 +179,9 @@ Designer, developer, blogger, Lickability. It's all good stuff.
 
 **[Miriam Eric Suzanne](https://www.miriamsuzanne.com/)**  
 Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS.  
+
+**[meyerweb.com](https://meyerweb.com/)**  
+Another site with unique and beautiful design. And it's all about web-related topics, so you'll love that too.  
 
 **[Blog – Nathan Knowler](https://knowler.dev/blog)**  
 I just started reading this blog, but anything about web development is always of interest and use to me.  
@@ -201,6 +209,9 @@ Nick Heer's blog. I just stumbled across this tonight myself. Very much tech rel
 
 **[Home | Rach Smith's digital garden](https://rachsmith.com/)**  
 The modern web is beautiful. Rach Smith's site is part of why.  
+
+**[Realmac Dan - Realmac Dan](https://realmacdan.com/)**  
+What? Realmac Dan? **THE** [Realmac](https://www.realmacsoftware.com)?  
 
 **[Rebecca Owen](https://beccais.online/)**  
 I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄  
@@ -248,7 +259,13 @@ I'm really just putting this here to put pressure on Vic to modernize his site a
 I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his blog until recently.  
 
 **[Wild Thoughts](https://sarafen.com/wildthoughts/)**  
-This is another one where the design immediately hooked me. Sara's site has it in spades. Beautiful!  
+This is another one where the design immediately hooked me. Sara's site has it in spades. Beautiful!
+
+**[You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)**  
+The blog is currently a lot about web programming, but there's all kinds of other stuff on this site too, and I really love the unique design.  
+
+**[四畳半のへや](https://blog.moeyua.com/)**  
+The title of this blog means four and a half tatami mats, which is a small room size in Japan. The site is bilingual, so if you're like me and you can read some Japanese very slowly, you'll love this site based on the topics AND the experience. Oh, and it looks beautiful.  
 
 ## Books
 
@@ -284,6 +301,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [An Awk Primer - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/An_Awk_Primer)
 - [An Introduction to Uncomplicated Firewall (UFW) - Linux.com](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
 - [Bash printf syntax examples - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/bash-printf-syntax-basics-with-examples)
+- [Beancount Documentation](https://beancount.github.io/docs/index.html)
 - [GREP](https://www.panix.com/%7Eelflord/unix/grep.html)
 - [Minimal Debian Install on a Headless pi | Notes and Ramblings](https://notes.1705.net/posts/debian-on-a-pi/)
 - [linux - How to find out who/what caused a reboot/shutdown? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/557888/how-to-find-out-who-what-caused-a-reboot-shutdown)
@@ -300,6 +318,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [CSS Zen Garden](https://csszengarden.com)
+- [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
@@ -431,6 +450,10 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [EchoFeed](https://echofeed.app/)
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 
+## Swift & Apple Platform Programming
+
+- [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)
+
 ## Web Dev
 
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
@@ -442,6 +465,7 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
+- [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
 - [IndieWeb](https://indieweb.org/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
@@ -453,8 +477,10 @@ This is another one where the design immediately hooked me. Sara's site has it i
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
 - [SmolCSS](https://smolcss.dev/)
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
+- [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
+- [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
 
 ## It's All About Me
 
