@@ -6,7 +6,7 @@ slug: "changelog"
 ---
 ### 2024-04-08
 
-Updated home page so that link posts show a link in front of the title. The title still links to the blog post page. The blog post page's link then links to the external site. Maybe this is confusing, I don't know.
+Updated home page so that link posts show a link in front of the title. The post title on the home page still links to the blog post page, and then the title on the blog post page itself links to the external site. Maybe this is confusing, I don't know.
 
 ### 2024-03-28
 

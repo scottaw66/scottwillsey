@@ -3,7 +3,7 @@ title: "Podcast Transcripts with Audio Hijack"
 description: Rogue Amoeba just added a Whisper powered transcription feature to Audio Hijack, and I am going to give it a try.
 date: "2023-11-03T09:00:00-08:00"
 keywords: ["mac", "apps", "podcast"]
-series: "My Podcasting Workflows"
+series: "Podcasting Workflows"
 slug: "audio-hijack-transcribe"
 ---
 
