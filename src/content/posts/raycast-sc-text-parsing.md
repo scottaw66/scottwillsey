@@ -93,7 +93,6 @@ This creates a relatively empty command script in the directory of my choosing (
 # @raycast.mode fullOutput
 
 # Optional parameters:
-# @raycast.icon 🆒
 # @raycast.packageName Website
 
 # Documentation:
