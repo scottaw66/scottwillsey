@@ -13,11 +13,15 @@ import shurebeta from "../assets/images/posts/ShureBeta87A-7780B721-09D1-44CC-82
 import wave from "../assets/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 const bigmac =
   "/images/posts/MacBrighter-72C30F73-DD6D-4E9F-98E0-6D9BC617F493.png";
-const bigkeychron = "/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.png";
+const bigkeychron =
+  "/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.png";
 const bigmbp = "/images/posts/Mbp-F16720DE-379E-4AEC-B296-47E897C0280B.jpeg";
-const bigk2 = "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
-const bigshurebeta = "/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
-const bigwave = "/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+const bigk2 =
+  "/images/posts/KeychronK2-21CDCD23-642A-4062-A506-DBD63D7032B7.jpeg";
+const bigshurebeta =
+  "/images/posts/ShureBeta87A-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
+const bigwave =
+  "/images/posts/ElgatoWaveXLR-7780B721-09D1-44CC-82B1-E083D8F4A7C9.jpeg";
 
 const uses = await getEntry("uses", "uses");
 const { Content } = await uses.render();
@@ -31,22 +35,28 @@ let description = uses.data.description;
     <h1>{title}</h1>
     <div class="use-header">
       <a href={bigmac}
-        ><Image src={mac} height="150" densities={[2, 3]} alt="2021 M1 Pro MacBook Pro 14 in." /></a
+        ><Image
+          src={mac}
+          height="150"
+          densities={[2, 3]}
+          alt="My computer desk with MacBook Pro and Apple Studio Display"
+        /></a
       >
       <a href={bigkeychron}
-        ><Image src={keychron} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+        ><Image
+          src={keychron}
+          height="150"
+          densities={[2, 3]}
+          alt="Keychron Q1"
+        /></a
       >
       <a href={bigmbp}
-        ><Image src={mbp} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
-      >
-      <a href={bigk2}
-        ><Image src={k2} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
-      >
-      <a href={bigshurebeta}
-        ><Image src={shurebeta} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
-      >
-      <a href={bigwave}
-        ><Image src={wave} height="150" densities={[2, 3]} alt="Keychron Q1" /></a
+        ><Image
+          src={mbp}
+          height="150"
+          densities={[2, 3]}
+          alt="2021 M1 Pro MacBook Pro 14 in."
+        /></a
       >
     </div>
     <div class="time">
