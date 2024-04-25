@@ -6,7 +6,7 @@ keywords: ["blog", "javascript", "astro", "rss"]
 series: "Astro"
 slug: "rss-pt2"
 ---
-As I mentioned in [Part 1](rss-pt1) of this installment, while trying to modify my site RSS feed to contain the full body of each post in my feed items, I ran into an inconvenient truth about how [MDX](https://mdxjs.com) exposes its file content as a component and how I could not use that component outside of an [Astro](https://astro.build) component. JavaScript just doesn't know what it is. Support for the MDX Content component has to be built into whatever framework you're using.
+As I mentioned in [Part 1](/rss-pt1) of this installment, while trying to modify my site RSS feed to contain the full body of each post in my feed items, I ran into an inconvenient truth about how [MDX](https://mdxjs.com) exposes its file content as a component and how I could not use that component outside of an [Astro](https://astro.build) component. JavaScript just doesn't know what it is. Support for the MDX Content component has to be built into whatever framework you're using.
 
 Astro, of course, is built to use MDX and take full advantage of the MDX Content component, so [Astro Discord](https://astro.build/chat) member Chris Adiante proposed I simply use an Astro component to create the RSS (with full access to the MDX content) and then have it write the rss file to the file system. Since my site is Astro SSG (fully static, only changing when I rebuild the site) and not [Astro SSR](https://docs.astro.build/en/guides/server-side-rendering/) (server-rendered on demand), I can use this technique without any problems.[^1]
 

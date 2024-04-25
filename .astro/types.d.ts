@@ -561,16 +561,16 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"rss-pt1.md": {
-	id: "rss-pt1.md";
-  slug: "rss-pt1";
+"rss-podcast.md": {
+	id: "rss-podcast.md";
+  slug: "rss-podcast";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"rss-pt2 copy.md": {
-	id: "rss-pt2 copy.md";
-  slug: "rss-podcast";
+"rss-pt1.md": {
+	id: "rss-pt1.md";
+  slug: "rss-pt1";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
