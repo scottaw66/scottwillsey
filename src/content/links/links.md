@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-20T09:45:36-08:00"
+date: "2024-04-28T10:26:23-08:00"
 slug: "links"
 ---
 
@@ -324,6 +324,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
+- [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
@@ -369,6 +370,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
+- [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
 - [Bear](https://bear.app/)
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
@@ -407,6 +409,10 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 - [Whisky - Run Modern Windows Games on macOS](https://getwhisky.app/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
+
+## Notion
+
+- [Notion Answers](https://notionanswers.com/)
 
 ## Newsletters
 
