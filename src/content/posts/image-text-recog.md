@@ -10,7 +10,7 @@ slug: "image-text-recog"
 ---
 There I was, checking out [Raycast](https://www.raycast.com)’s [updated website](https://www.raycast.com) and looking at their tips videos, when I stumbled on the tip called [Find Images by Text](https://www.youtube.com/watch?v=c96IXGOo6E4). Although I knew that Raycast would keep copied images in the clipboard history, what I did NOT know is that you can search those images not just by words matching the title, but words matching text IN the image.
 
-Example: I hit ⌘-Space to invoke Raycast, type **ch** (my alias for the Clipboard History function), and start typing “there I was”. Look at the results:
+Example: I hit ⌘ Space (that's Command Space) to invoke Raycast, type **ch** (my alias for the Clipboard History function), and start typing “there I was”. Look at the results:
 
 [![Raycast Clipboard History Image Text Recognition](../../assets/images/posts/RaycastCHImageOCR-3DDA949C-7624-4DA6-BD13-8024FBEBA98A.png)](/images/posts/RaycastCHImageOCR-3DDA949C-7624-4DA6-BD13-8024FBEBA98A.png)
 
