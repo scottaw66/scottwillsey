@@ -1,6 +1,6 @@
 ---
 title: "Image Search Text Recognition in Raycast and ScreenFloat"
-description: ScreenFloat is my current choice of screenshot utility for the Mac because of its functionality and customizability.
+description: Raycast and ScreenFloat both contain some pretty amazing search features that use text recognition to find matching text in images.
 date: "2024-04-28T09:00:00-08:00"
 keywords: ["mac", "images", "apps"]
 cover: "../../assets/images/covers/RaycastHeader.png"
