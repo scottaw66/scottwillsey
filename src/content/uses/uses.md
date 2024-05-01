@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-04-23T17:30:15-08:00"
+date: "2024-04-30T21:35:22-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -24,6 +24,7 @@ slug: "uses"
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
 - [Raycast](https://raycast.com/)
+- [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 
 ### Browsers and Bookmarks
@@ -49,11 +50,11 @@ slug: "uses"
 - [Audio Hijack: Record Any Audio on MacOS | Rogue Amoeba](https://rogueamoeba.com/audiohijack/)
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
 - [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
-- [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
-- [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
-- [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/)
+- [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
+- [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 
 ### Programming, Log Analysis, Text Filtering
 

@@ -1,29 +1,31 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-04-23T17:30:15-08:00"
+date: "2024-04-30T21:35:22-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Judge John Hodgman Episode 665: Property Cousins](https://maximumfun.org/episodes/judge-john-hodgman/episode-665-property-cousins/)
-- [ドングリFM公式サイト](https://donguri.fm/) *I don't know why they don't have recent episodes listed here.*
+- [Steiner podcast exclusive: Haas F1 exit, his future and Andretti - The Race](https://www.the-race.com/formula-1/guenther-steiner-f1-podcast-exclusive-haas-exit-future/)
+- [Rebuild: 383: After Humane Before WWDC (yuka)](https://rebuild.fm/383/)
+- [Episode 361: Just Us – Mac Admins Podcast](https://podcast.macadmins.org/2024/04/28/episode-361-just-us/)
 
 ### Books
 
 - [Kingdom of Play | Book by David Toomey | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Kingdom-of-Play/David-Toomey/9781982154462) *This is a pretty fascinating look at an under-studied element of animal life – the fact that animals play. But why? How does play benefit animals trying to survive in the ruthless foodchain that is their lives?*
 - [Hacking with macOS – learn to make macOS apps with Swift 5.10 using real-world projects](https://www.hackingwithswift.com/store/hacking-with-macos) *It should be pretty obvious what this one is about.*
-- [Lost Japan](https://www.penguin.co.uk/books/273227/lost-japan-by-kerr-alex/9780141979755) *Alex Kerr is a gaijin living in Japan who despairs at the loss of culture in the name of progress, and who also works to restore old buildings in various parts of Japan. Almost done with this one.*
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is more technical manual than history or novel, but it is **fascinating**. It's really a how-to of sensitive data analysis.*
 
 ### Movies and TV
 
-- [Watch The Expanse - Season 1 | Prime Video](https://www.amazon.com/The-Expanse-Season-1/dp/B08B48L4CQ) *My wife is finally finishing The Expanse and I'm watching some of it with her. What a show. All time favorite.*
+- [Mad Max: Fury Road | Rotten Tomatoes](https://www.rottentomatoes.com/m/mad_max_fury_road)
 
 ### Food and Drink
 
-- [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton) *Splendid food, horrible website. Restaurant owners need help with their webs, people.*
+- [Malted Moo Shake Ice Cream - Tillamook](https://www.tillamook.com/products/ice-cream/malted-moo-shake)
+- [Slumber Decaf – Alma Coffee](https://myalmacoffee.com/products/slumber?_pos=1&_sid=667adda5e&_ss=r)
+- [Seasonal coffee from Mexico "Sweater Weather" — TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/coffee/p/seasonalsweaterweather)
 
 ### Projects
 

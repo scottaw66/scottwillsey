@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-28T10:26:23-08:00"
+date: "2024-04-30T21:35:22-08:00"
 slug: "links"
 ---
 
@@ -48,6 +48,12 @@ slug: "links"
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
+
+## Astro
+
+- [Create a dev toolbar app | Docs](https://docs.astro.build/en/recipes/making-toolbar-apps/)
+- [Dev Toolbar | Docs](https://docs.astro.build/en/guides/dev-toolbar/)
+- [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
 
 ## Beer
 
