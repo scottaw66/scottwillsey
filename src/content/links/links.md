@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-04-30T21:35:22-08:00"
+date: "2024-05-04T10:55:34-08:00"
 slug: "links"
 ---
 
@@ -89,6 +89,9 @@ Bryce Wray writes articles that help me figure out solutions to web development 
 
 **[Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)**
 The most interesting man in the world isn't that old guy with the beard and the gravelly voice in the beer commercials. It's Blake Patterson. The Byte Cellar is an internet-ional treasure of nostalgia and experimentation.
+
+**[Carlo Zottmann](https://zottmann.org/)**  
+Carlo posts links! And who doesn't love links??  
 
 **[Cassidy's blog](https://blog.cassidoo.co/)**  
 Cassidy Williams does great work in the web world. She's a great web advocate.  
@@ -300,7 +303,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
-## Command Line, Linux, Unix
+## Command Line, Linux, Unix, Networking
 
 - [Awk - A Tutorial and Introduction - by Bruce Barnett](https://www.grymoire.com/Unix/Awk.html)
 - [11 Ways to Check Linux/Unix Operating System Uptime - Adamsdesk](https://www.adamsdesk.com/posts/check-linux-unix-system-uptime/)
@@ -318,6 +321,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 - [tildeverse](https://tildeverse.org/)
 - [Understanding PAM - Linux.com](https://www.linux.com/news/understanding-pam/)
+- [Wireshark · OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html)
 
 ## Cool Sites Archive
 
@@ -335,6 +339,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)
+- [Song a Day World](https://songaday.world)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 
@@ -452,22 +457,9 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Upgrade - Relay FM](https://www.relay.fm/upgrade)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 
-## Raycast
+## Programming and Web Dev
 
-- [Raycast AI](https://manual.raycast.com/ai)
-- [Raycast Browser Extension](https://www.raycast.com/browser-extension)
-
-## RSS & Reading Tools
-
-- [EchoFeed](https://echofeed.app/)
-- [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
-
-## Swift & Apple Platform Programming
-
-- [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)
-
-## Web Dev
-
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [CSS { In Real Life }](https://css-irl.info/)
@@ -483,6 +475,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
+- [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
@@ -493,6 +486,16 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
+
+## Raycast
+
+- [Raycast AI](https://manual.raycast.com/ai)
+- [Raycast Browser Extension](https://www.raycast.com/browser-extension)
+
+## RSS & Reading Tools
+
+- [EchoFeed](https://echofeed.app/)
+- [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 
 ## It's All About Me
 
