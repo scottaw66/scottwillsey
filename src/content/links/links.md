@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-04T10:55:34-08:00"
+date: "2024-05-09T21:16:17-08:00"
 slug: "links"
 ---
 
@@ -378,6 +378,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
 - [Adrian Nier - Color Doggy – Your loyal color helper](https://www.adriannier.de/colordoggy/)
+- [Advanced use cases | 1Password Developer](https://developer.1password.com/docs/ssh/agent/advanced/#ssh-server-six-key-limit)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
@@ -485,12 +486,15 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
+- [The Ultimate CSS Shapes Collection](https://css-shape.com/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
 
 ## Raycast
 
+- [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
+- [Security | Raycast API](https://developers.raycast.com/information/security)
 
 ## RSS & Reading Tools
 

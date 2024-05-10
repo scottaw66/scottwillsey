@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-04-17T16:45:23-08:00"
+date: "2024-05-09T21:16:17-08:00"
 slug: "pins"
 ---
 
@@ -10,6 +10,7 @@ slug: "pins"
 ## Astro
 
 - [Astro 4.3 | Astro](https://astro.build/blog/astro-430/)
+- [Astro 4.8 | Astro](https://astro.build/blog/astro-480/)
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
 - [How to use Git Hooks to set Created and Modified Dates | AstroPaper](https://astro-paper.pages.dev/posts/setting-dates-via-git-hooks/)
@@ -21,10 +22,6 @@ slug: "pins"
 
 - [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
-
-## Cool Stuff
-
-- [Explore Songs | Song a Day World](https://songaday.world/)
 
 ## HomeKit
 
@@ -39,6 +36,7 @@ slug: "pins"
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
+- [Virtual \]\[, the best Apple II emulator for macOS](https://www.virtualii.com/)
 
 ## Notion
 
@@ -53,6 +51,7 @@ slug: "pins"
 - [AI Prompt Explorer by Raycast](https://prompts.ray.so/code)
 - [Dynamic Placeholders](https://manual.raycast.com/dynamic-placeholders)
 - [Getting started with script commands - Raycast Blog](https://www.raycast.com/blog/getting-started-with-script-commands)
+- [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
 - [Raycast Developer API](https://developers.raycast.com/)
 - [Raycast Store: Pipe Commands](https://www.raycast.com/pomdtr/pipe-commands)
 - [Raycast Store: PromptLab](https://www.raycast.com/HelloImSteven/promptlab)
