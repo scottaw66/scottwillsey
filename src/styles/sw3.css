@@ -96,8 +96,10 @@ html {
 
   /* --font-title: "CaptainEdward-Bold"; */
   /* --font-title: "Cartridge-BoldRough"; */
-  --font-title: "Cartridge-Bold";
-  --font-blockquote-before: "Cartridge-BoldRough";
+  /* --font-title: "Cartridge-Bold"; */
+  --font-title: "PaintFactory-Bold";
+  /* --font-blockquote-before: "Cartridge-BoldRough"; */
+  --font-blockquote-before: "PaintFactory-Bold";
 
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
@@ -293,6 +295,16 @@ html {
 }
 
 @font-face {
+  font-family: PaintFactory-Bold;
+  src: url("/fonts/PaintFactory/PaintFactory-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: PaintFactory-Regular;
+  src: url("/fonts/PaintFactory/PaintFactory-Regular.woff2") format("woff2");
+}
+
+@font-face {
   font-family: GrandSans-Regular;
   src: url("/fonts/GrandSans/Grandsans-Regular.woff2") format("woff2");
   font-display: swap;
@@ -478,10 +490,10 @@ blockquote:before {
   color: var(--quote);
   opacity: 1;
   content: open-quote;
-  font-family: --var(font-blockquote-before);
-  font-size: 5em;
-  line-height: 0.1em;
-  margin-right: 0.1em;
+  font-family: var(--font-blockquote-before);
+  font-size: 5.5em;
+  line-height: 0.05em;
+  margin-right: 0.2em;
   vertical-align: -0.45em;
 }
 blockquote p {
