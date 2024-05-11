@@ -1,15 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-04-30T21:35:22-08:00"
+date: "2024-05-10T19:13:55-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Steiner podcast exclusive: Haas F1 exit, his future and Andretti - The Race](https://www.the-race.com/formula-1/guenther-steiner-f1-podcast-exclusive-haas-exit-future/)
-- [Rebuild: 383: After Humane Before WWDC (yuka)](https://rebuild.fm/383/)
-- [Episode 361: Just Us – Mac Admins Podcast](https://podcast.macadmins.org/2024/04/28/episode-361-just-us/)
+- [Don't Let Books Make You Cry - The Incomparable Mothership #715 - The Incomparable](https://www.theincomparable.com/theincomparable/715/)
+- [ATP 586: Do a Barrel Roll! — Accidental Tech Podcast](https://atp.fm/586)
+- [Hemispheric Views 110: It’s Such a Good Truck!](https://listen.hemisphericviews.com/110)
 
 ### Books
 
@@ -19,11 +19,12 @@ slug: "now"
 
 ### Movies and TV
 
-- [Mad Max: Fury Road | Rotten Tomatoes](https://www.rottentomatoes.com/m/mad_max_fury_road)
+- [Sugar](https://tv.apple.com/us/show/sugar/umc.cmc.4r6q7tdquewehwvb3rzl0k3dt) *This is definitely **different**, but I like it. I don't know if it'll start grating at some point, but right now I'm in.*
+- [Dark Matter](https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg) *I don't know how I feel about this yet. It has potential. Blake Crouch has a way of beating people over the head with his themes though.*
 
 ### Food and Drink
 
-- [Malted Moo Shake Ice Cream - Tillamook](https://www.tillamook.com/products/ice-cream/malted-moo-shake)
+- [Dark Chocolate Cookies & Cream Ice Cream - Tillamook](https://www.tillamook.com/products/ice-cream/dark-chocolate-cookies-and-cream)
 - [Slumber Decaf – Alma Coffee](https://myalmacoffee.com/products/slumber?_pos=1&_sid=667adda5e&_ss=r)
 - [Seasonal coffee from Mexico "Sweater Weather" — TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/coffee/p/seasonalsweaterweather)
 
