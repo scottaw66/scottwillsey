@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-10T19:13:55-08:00"
+date: "2024-05-12T11:52:26-08:00"
 slug: "links"
 ---
 
@@ -332,6 +332,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
+- [Lex.Games](https://lex.games)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)

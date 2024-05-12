@@ -1,11 +1,15 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-05-09T21:16:17-08:00"
+date: "2024-05-12T11:52:26-08:00"
 slug: "pins"
 ---
 
 ## Contents
+
+## AI
+
+- [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
 
 ## Astro
 
