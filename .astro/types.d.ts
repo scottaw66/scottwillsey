@@ -547,6 +547,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"raycast-ai-commands.md": {
+	id: "raycast-ai-commands.md";
+  slug: "raycast-ai-commands";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "raycast-clipboard-history.md": {
 	id: "raycast-clipboard-history.md";
   slug: "raycast-clipboard-history";
