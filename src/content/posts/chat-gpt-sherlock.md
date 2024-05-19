@@ -8,7 +8,7 @@ coverAlt: "Raycast"
 series: "Raycast"
 slug: "chat-gpt-sherlock"
 ---
-Interesting things are afoot at the company known as [OpenAI](https://openai.com/). Apparently they’re in the Sherlocking business now, and their target is (unintentionally?) Raycast AI. I’m talking about an AI chat triggered by keyboard shortcut, with model selection conversation history, contextual awareness and screenshot and image analysis, and more.
+Interesting things are afoot at the company known as [OpenAI](https://openai.com/). Apparently they’re in the Sherlocking business now, and their target is (unintentionally?) Raycast AI. I’m talking about an AI chat triggered by keyboard shortcut, with model selection, conversation history, contextual awareness and screenshot and image analysis, and more.
 
 Sadly, I don’t have access to it yet – OpenAI is rolling it out to people gradually, even for those of us who have ChatGPT Plus.
 
