@@ -64,7 +64,7 @@ The Regex Generator AI Command comes up with this regular expression:
 
 ```
 
-Using BBEdit’s Pattern Playground, you can see in the Catpure groups section of the window that it captures the entire Markdown link and also the link name as the first capture group and the URL as the second capture group.
+Using BBEdit’s Pattern Playground, you can see in the Capture groups section of the window that it captures the entire Markdown link and also the link name as the first capture group and the URL as the second capture group.
 
 [![BBEditRegexPlayground](../../assets/images/posts/BBEditRegexPlayground-00710879-7F1A-4F9F-8022-B45887589798.png)](/images/posts/BBEditRegexPlayground-00710879-7F1A-4F9F-8022-B45887589798.png)
 
