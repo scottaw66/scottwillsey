@@ -302,6 +302,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"chat-gpt-sherlock.md": {
+	id: "chat-gpt-sherlock.md";
+  slug: "chat-gpt-sherlock";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "cool-site-spotlight.md": {
 	id: "cool-site-spotlight.md";
   slug: "cool-site-spotlight";
