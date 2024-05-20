@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-12T11:52:26-08:00"
+date: "2024-05-20T14:39:00-08:00"
 slug: "links"
 ---
 
@@ -10,6 +10,8 @@ slug: "links"
 ## AI
 
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
+- [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
+- [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 
@@ -40,14 +42,18 @@ slug: "links"
 ## Articles
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
-- [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
-- [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
-- [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
-- [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+- [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
+- [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
+- [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
+- [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
+- [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
+- [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
 ## Astro
 
@@ -71,6 +77,9 @@ slug: "links"
 
 **[Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/)**  
 Aleksandr Hovhannisyan makes performant web software.  
+
+**[Alex Marshall - UI Designer](https://www.alexmarshall.io/me/blog)**  
+Alex likes coffee. Alex likes computers. I like the things Alex writes.  
 
 **[Álvaro Ramírez](https://xenodium.com/)**  
 A man of many tech topics.  
@@ -283,6 +292,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
 - [Image Performance, A Book Apart](https://abookapart.com/products/image-performance)
+- [Inventing the Future by John Buck | BooksBy](https://books.by/john-buck)
 - [Personal Days – Ed Park](https://ed-park.com/personal-days/)
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
@@ -328,6 +338,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [CSS Zen Garden](https://csszengarden.com)
+- [Game Dad Club](https://gamedad.club/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
@@ -386,6 +397,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
 - [Bear](https://bear.app/)
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
+- [CleanShot X for Mac](https://cleanshot.com/)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
@@ -473,6 +485,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
+- [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
 - [IndieWeb](https://indieweb.org/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
