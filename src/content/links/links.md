@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-20T14:39:00-08:00"
+date: "2024-05-22T09:12:28-08:00"
 slug: "links"
 ---
 
@@ -509,7 +509,9 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
+- [Raycast Developer API](https://developers.raycast.com/)
 - [Security | Raycast API](https://developers.raycast.com/information/security)
+- [Window Management](https://manual.raycast.com/window-management)
 
 ## RSS & Reading Tools
 
