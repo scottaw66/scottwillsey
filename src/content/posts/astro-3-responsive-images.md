@@ -78,7 +78,7 @@ Content related images are images IN the content of the site itself, whether tha
 
 The one really interesting setting is "Keep History For", which has options for 7 days, 30 days, 3 months, 6 months, 1 year, or unlimited. Unlimited comes with a warning that your hard drive will slowly be eaten alive and you should be ok with that.
 
-[![Clipboard History retention length setting](../../assets/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.png)](/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.webp)
+[![Clipboard History retention length setting](../../assets/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.png)](/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.jpg)
 
 The Clipboard History view itself is relatively simple. You can have pinned history items, and below those are your history items in reverse chronological order. The beauty of a clipboard history function is that you can copy several things in a row from a source and then worry about pasting them all later without losing any of them.
 
@@ -107,7 +107,7 @@ scott@Songoku:_astro main ✗ 2d △ ➜
 
 One thing that isn't different is the image dimensions:
 
-[![Image component optimized vs. original image dimensions](../../assets/images/posts/ImageComponentOptimizedVsOrig-5652E165-2DC3-4106-BCF5-D18E63514AD4.png)](/images/posts/ImageComponentOptimizedVsOrig-5652E165-2DC3-4106-BCF5-D18E63514AD4.webp)
+[![Image component optimized vs. original image dimensions](../../assets/images/posts/ImageComponentOptimizedVsOrig-5652E165-2DC3-4106-BCF5-D18E63514AD4.png)](/images/posts/ImageComponentOptimizedVsOrig-5652E165-2DC3-4106-BCF5-D18E63514AD4.jpg)
 
 This means I have to pay more attention to original image sizes that I'd prefer to. I'm hoping in the future this new Images component will gain some of the functionality back that it had before, but my guess is the real monkey in the wrench in doing some of those things is the SSR support.
 

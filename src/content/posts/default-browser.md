@@ -83,7 +83,7 @@ end changeDefaultBrowser
 
 The top half is information for Raycast. Then the AppleScript portion gets going. First it calls a function[^1] that runs the `defaultbrowser` command line program with the string `safari` as a parameter value. Then it runs a loop waiting for the confirmation dialog box to pop up. It waits until either the window exists or it's looped 15 times. Finally, it tries to click button 2 of the dialog box. The reason it tries to click button 2 is because the dialog looks like the following image – or at least, it's supposed to. More on that later.
 
-[![Default browser change confirmation dialog box](../../assets/images/posts/DefaultBrowserSwitchToChromeDialog-AA19A58F-FDE4-48B3-9BEA-3B33737D5081.png)](/images/posts/DefaultBrowserSwitchToChromeDialog-AA19A58F-FDE4-48B3-9BEA-3B33737D5081.webp)
+[![Default browser change confirmation dialog box](../../assets/images/posts/DefaultBrowserSwitchToChromeDialog-AA19A58F-FDE4-48B3-9BEA-3B33737D5081.png)](/images/posts/DefaultBrowserSwitchToChromeDialog-AA19A58F-FDE4-48B3-9BEA-3B33737D5081.jpg)
 
 This means when you send it a request to change your default browser from Safari to Chrome, for example, you'll get a dialog box with two buttons, the first of which cancels the change and the second of which executes the change to Chrome.
 

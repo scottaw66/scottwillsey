@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-05-23T21:34:49-08:00"
+date: "2024-05-23T22:36:27-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -83,16 +83,16 @@ slug: "uses"
 
 - [Connor Eyeglasses in Eastern Bluebird Fade | Warby Parker](https://www.warbyparker.com/eyeglasses/connor/eastern-bluebird-fade?w=medium) (My current favorites!)
 
-[![Warby Parker Connor Eastern Bluebird Fade](../../assets/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)](/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.webp)  
+[![Warby Parker Connor Eastern Bluebird Fade](../../assets/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)](/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.jpg)  
 
 - [Cole Haan CH4034 Eyeglasses](https://www.coolframes.com/glasses/cole-haan-eyewear/ch4034-eyeglasses.html) in Tortoise and Blue Fade (no one has these anymore, and I love them)
 
-[![Cole Haan 4043 Tortoise and Blue Fade](../../assets/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.png)](/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.webp)
+[![Cole Haan 4043 Tortoise and Blue Fade](../../assets/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.png)](/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.jpg)
   
 ### Shoes
 
 - [Onitsuka Tiger Mexico 66™ "White/Blue" Sneakers - Farfetch](https://www.farfetch.com/jp/shopping/men/onitsuka-tiger-mexico-66-whiteblue-sneakers-item-21345026.aspx?storeid=11218) I wore Asics Tigers in Japan as a kid, so finding these was super nostalgic. Instant buy.
 
-[![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger2-FA252BE3-2A89-4E1B-8B52-759AA55758F1.png)](/images/posts/OnitsukaTiger2-FA252BE3-2A89-4E1B-8B52-759AA55758F1.webp)
+[![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger2-FA252BE3-2A89-4E1B-8B52-759AA55758F1.png)](/images/posts/OnitsukaTiger2-FA252BE3-2A89-4E1B-8B52-759AA55758F1.jpg)
 
-[![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger-D434002B-191E-4772-A0C9-FC857CCC4AE1.png)](/images/posts/OnitsukaTiger-D434002B-191E-4772-A0C9-FC857CCC4AE1.webp)
+[![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger-D434002B-191E-4772-A0C9-FC857CCC4AE1.png)](/images/posts/OnitsukaTiger-D434002B-191E-4772-A0C9-FC857CCC4AE1.jpg)

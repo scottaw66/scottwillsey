@@ -13,7 +13,7 @@ Bunch works as a menubar app that lists your [Bunches](https://bunchapp.co/docs/
 
 By default, Bunches are toggles – the first time you click on a Bunch name in the menubar list, the Bunch opens. Any apps or commands that are set to open or run do so. The next time you click the Bunch in the menubar list, it does the reverse. It closes any apps that are not explicitly set to remain open when the Bunch is toggled off (or "closed", in Bunch parlance). It also runs any commands you have set up specifically to run when the Bunch is closed.
 
-[![Bunch menubar menu](../../assets/images/posts/Bunch-menu-bar-01F5FA78-F3B1-4D2D-B163-E1361EA70ABF.png)](/images/posts/Bunch-menu-bar-01F5FA78-F3B1-4D2D-B163-E1361EA70ABF.webp)
+[![Bunch menubar menu](../../assets/images/posts/Bunch-menu-bar-01F5FA78-F3B1-4D2D-B163-E1361EA70ABF.png)](/images/posts/Bunch-menu-bar-01F5FA78-F3B1-4D2D-B163-E1361EA70ABF.jpg)
 
 Talking about in the abstract isn't super helpful. So here's a podcast Bunch of mine! Please note that I'm still not super fluent in Bunch and this is void where prohibited and etc, etc, etc.
 

@@ -24,7 +24,7 @@ This is the t-shirt:
 
 This is my website:
 
-[![Scott's Hypercritical Yellow Theme](../../assets/images/posts/HypercriticalTheme-4FFD2C08-4ABF-4198-9816-76F9B1338C8E.png)](/images/posts/HypercriticalTheme-4FFD2C08-4ABF-4198-9816-76F9B1338C8E.webp)
+[![Scott's Hypercritical Yellow Theme](../../assets/images/posts/HypercriticalTheme-4FFD2C08-4ABF-4198-9816-76F9B1338C8E.png)](/images/posts/HypercriticalTheme-4FFD2C08-4ABF-4198-9816-76F9B1338C8E.jpg)
 
 You can toggle the themes on the site menu. There's a little icon under all the menu items that appears as a moon (if you are in dark theme), a sun (if you're in light theme), or a little 128k Mac (if you're in hypercritical theme). Clicking that icon toggles through the themes from dark to hypercritical to light.
 

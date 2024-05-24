@@ -99,6 +99,6 @@ let description = now.data.description;
 
 That's it. Now I have auto-generated last modified dates for any page I feel needs one, thanks to Astro using remark to render markdown and therefore making adding remark plugins super simple.
 
-[![Last updated indicator](../../assets/images/posts/LastUpdatedRemark-35161379-7B49-4BBB-88C0-09240426173A.png)](/images/posts/LastUpdatedRemark-35161379-7B49-4BBB-88C0-09240426173A.webp)
+[![Last updated indicator](../../assets/images/posts/LastUpdatedRemark-35161379-7B49-4BBB-88C0-09240426173A.png)](/images/posts/LastUpdatedRemark-35161379-7B49-4BBB-88C0-09240426173A.jpg)
 
 [^1]: You can put your remark plugin anywhere you want, as long as you reference the path correctly in astro.config.mjs.

@@ -11,7 +11,7 @@ Thanks entirely to Tiffany White, I finally implemented something that's been on
 
 You've seen link posts before, certainly so if you read a lot of Mac related blogs like [Daring Fireball](https://daringfireball.net), [SixColors](https://sixcolors.com), or [MacStories](https://www.macstories.net). The idea is the title of the post links to an article on another site, and then you add some commentary and maybe quote part of the article in your post.
 
-[![A link post on SixColors](../../assets/images/posts/SixColorsLinkPost-EDA8EA55-4DF2-41CD-8A78-88C1277FBDA4.png)](/images/posts/SixColorsLinkPost-EDA8EA55-4DF2-41CD-8A78-88C1277FBDA4.webp)
+[![A link post on SixColors](../../assets/images/posts/SixColorsLinkPost-EDA8EA55-4DF2-41CD-8A78-88C1277FBDA4.png)](/images/posts/SixColorsLinkPost-EDA8EA55-4DF2-41CD-8A78-88C1277FBDA4.jpg)
 
 [Tiffany](https://github.com/twhite96) created an issue on my site repo asking if I'd setup link post support in Astro yet. I had it on my to-do list, namely in my Obsidian kanban board for this site, but I hadn't done it yet because I haven't really wanted to link to too many external articles here. But Tiffany creating an issue for me gave me the motivation to figure out how I would do it.
 
@@ -135,7 +135,7 @@ const { Content } = await post.render();
 
 This is the result:
 
-[![A link post on scottwillsey.com](../../assets/images/posts/MyLinkPost-1AE68B36-13DD-4184-B02D-758980D93F16.png)](/images/posts/MyLinkPost-1AE68B36-13DD-4184-B02D-758980D93F16.webp)
+[![A link post on scottwillsey.com](../../assets/images/posts/MyLinkPost-1AE68B36-13DD-4184-B02D-758980D93F16.png)](/images/posts/MyLinkPost-1AE68B36-13DD-4184-B02D-758980D93F16.jpg)
 
 Before implementing PostTitle to create link post titles when appropriate, I just created the title directly in Post.astro with the following:
 

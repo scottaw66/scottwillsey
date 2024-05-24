@@ -36,9 +36,9 @@ Here's what that looks like in action:
 
 MacGPT allows you to use either a native Mac UI for interacting with ChatGPT or the OpenAI web view for ChatGPT. Both have pros and cons - the OpenAI web view allows you to keep your history available there for access across all platforms, while the native UI looks nicer and (hopefully) in the future will have greater customization. I'd like to see an even wider menubar view, and complete font customization including font, font size, and bubble colors.
 
-[![MacGPT native view](../../assets/images/posts/MacGPT-native-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/MacGPT-native-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.webp)
+[![MacGPT native view](../../assets/images/posts/MacGPT-native-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/MacGPT-native-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.jpg)
 
-[![MacGPT web view](../../assets/images/posts/MacGPT-web-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/MacGPT-web-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.webp)
+[![MacGPT web view](../../assets/images/posts/MacGPT-web-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/MacGPT-web-mode-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.jpg)
 
 Both views allow for copying of conversations, but the native UI copy function copies the entire conversation in the window including both your prompts and ChatGPT's replies, while the web view only allows you to copy a ChatGPT response and doesn't include the preceding prompt that you entered.
 
@@ -48,7 +48,7 @@ MacGPT isn't perfect, but given the low cost of entry (it's basically donation-w
 
 I recently stumbled across another Mac ChatGPT app called [Machato](https://untimelyunicorn.gumroad.com/l/machato). Machato takes a different approach than MacGPT in that it just runs as a normal Mac app and doesn't have menubar, inline, or global (floating textbox) functionality. I miss MacGPT's menubar aspect when using Machato, but it has some compelling features of its own.
 
-[![Machato](../../assets/images/posts/Machato-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/Machato-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.webp)
+[![Machato](../../assets/images/posts/Machato-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/Machato-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.jpg)
 
 Machato lets you create multiple conversations so you can categorize by topic, and it also allows you to create folders to further organize them. It also has a very handy ability to branch a conversation so that you can pick a point to split off into a new conversation. All you have to do is hover over a prompt or response and click the "Branch from here" icon. It's super handy.
 
@@ -62,7 +62,7 @@ I'm kind of torn between MacGPT and Machato, because Machato has the superior UI
 
 Another interesting entry into the ChatGPT space is [Petey](https://petey-assistant.com). Petey is for iOS and (get this) Apple Watch. Yep, you can ask ChatGPT things from your watch. You can share the results to messages or mail on the watch, or copy and paste them by sending the answer to your iPhone with one tap, and copying the answer from there.
 
-[![Petey for watchOS](../../assets/images/posts/Petey-watchOS-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/Petey-watchOS-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.webp)
+[![Petey for watchOS](../../assets/images/posts/Petey-watchOS-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.png)](/images/posts/Petey-watchOS-E0A2DB0B-F3F1-4ACC-A2F6-FF6342475A43.jpg)
 
 On iOS, it's not quite as interesting to me as the next app in my list, because it doesn't let you do multiple conversations or look at the history as easily. You can ask questions, get answers (and have them read back to you), and copy and paste them, but that's about it.
 

@@ -12,15 +12,15 @@ You'll notice I said transcript functionality. I'm weasel-wording it a bit there
 
 On the Friends with Brews homepage, click the Transcripts link under the podcast description paragraph, and you'll see a list of available transcripts.
 
-[![Friends with Brews episode transcripts](../../assets/images/posts/FwBTranscriptsList-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.png)](/images/posts/FwBTranscriptsList-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.webp)
+[![Friends with Brews episode transcripts](../../assets/images/posts/FwBTranscriptsList-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.png)](/images/posts/FwBTranscriptsList-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.jpg)
 
 In addition, any episodes with available transcripts will show a transcript link under its episode title.
 
-[![Episode transcript link](../../assets/images/posts/FwBEpisodeTranscriptLink-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.png)](/images/posts/FwBEpisodeTranscriptLink-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.webp)
+[![Episode transcript link](../../assets/images/posts/FwBEpisodeTranscriptLink-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.png)](/images/posts/FwBEpisodeTranscriptLink-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.jpg)
 
 The transcript pages themselves have links to the episode page, to the transcripts index, and to the episodes index, in addition to an episode description followed by the transcript.
 
-[![Episode 26 transcript](../../assets/images/posts/FwB-026Transcript-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.png)](/images/posts/FwB-026Transcript-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.webp)
+[![Episode 26 transcript](../../assets/images/posts/FwB-026Transcript-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.png)](/images/posts/FwB-026Transcript-E53278B1-70FC-4D24-9EA3-DA1AC8B622A4.jpg)
 
 I still have more work to do on this feature. I plan to make the raw transcripts downloadable, and also to integrate them into the RSS feed with srt formatting, at the suggestion of [John Chidgey](https://engineered.space/users/chidgey).
 

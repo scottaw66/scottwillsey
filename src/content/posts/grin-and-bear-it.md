@@ -24,7 +24,7 @@ I’m a person who has a lot of idiosyncrasies, and one of them is that I need a
 
 Below is an image showing both the light and dark themes I’m currently using in Bear.
 
-[![My Bear dark and light themes](../../assets/images/posts/BearLightAndDarkThemes-B3E5EF91-274E-4913-92C8-72B9B789A76A.png)](/images/posts/BearLightAndDarkThemes-B3E5EF91-274E-4913-92C8-72B9B789A76A.webp)
+[![My Bear dark and light themes](../../assets/images/posts/BearLightAndDarkThemes-B3E5EF91-274E-4913-92C8-72B9B789A76A.png)](/images/posts/BearLightAndDarkThemes-B3E5EF91-274E-4913-92C8-72B9B789A76A.jpg)
 
 There’s not a lot I need to do in order to incorporate Bear into my writing workflow. I already have a script that names my images and puts copies of them in the right locations to both be optimized for the blog and to be able to link to the original. I’ll need to put an automation somewhere in the publish chain that updates the post’s Markdown file with those image paths and creates the links to the larger, original images. But that was also something I needed to do for my Drafts workflow, and hadn’t yet.
 

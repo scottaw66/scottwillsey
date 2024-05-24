@@ -43,7 +43,7 @@ For example, here I want 600, 900, 1200, and 1500 pixel-wide versions of the ima
 
 Checking the result with Chrome developer tools, the image is displayed at 200px wide and the image downloaded is the 600px wide version.
 
-[![600px wide image displayed at 200px width](../../assets/images/posts/NormalView-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/NormalView-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![600px wide image displayed at 200px width](../../assets/images/posts/NormalView-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/NormalView-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 Let's additionally generate 200 and 400px wide images to see which one gets downloaded to display at my desired 200px width.
 
@@ -60,19 +60,19 @@ Let's additionally generate 200 and 400px wide images to see which one gets down
 
 The answer is that the 400px image gets downloaded to display at 200px wide. Why? Simple... My iMac has a screen with a pixel-ratio of 2. It wants a 2x image for any given display width.
 
-[![400px wide image displayed at 200px width](../../assets/images/posts/200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![400px wide image displayed at 200px width](../../assets/images/posts/200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 Now let's use Chrome's responsive device mode and look at what happens on an iPhone 12 Pro screen with the exact same Picture component parameters as above, still generating image widths at 200, 400, 600, 900, 1200, and 1500px wide.
 
-[![600px wide image displayed at 200px width](../../assets/images/posts/200px-600px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/200px-600px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![600px wide image displayed at 200px width](../../assets/images/posts/200px-600px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/200px-600px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 Now we get the 600px wide image in order to display it nicely, because the iPhone 12 Pro has a screen pixel-ratio of 3.
 
 You can use the console in your browser developer tools to show you the pixel-ratio for your computer's screen as well as any simulated devices in responsive mode. Below are the pixel-ratios for my 27" 5K iMac screen and the screen of the iPhone 12 Pro that I used for the above tests.
 
-[![Mac window device pixel ratio](../../assets/images/posts/DevicePixelRatioMac-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/DevicePixelRatioMac-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![Mac window device pixel ratio](../../assets/images/posts/DevicePixelRatioMac-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/DevicePixelRatioMac-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
-[![iPhone 12 Pro window device pixel ratio](../../assets/images/posts/DevicePixelRatioiPhone-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/DevicePixelRatioiPhone-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![iPhone 12 Pro window device pixel ratio](../../assets/images/posts/DevicePixelRatioiPhone-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/DevicePixelRatioiPhone-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 The Mac has a device pixel ratio of 2, so it needs and receives the 400px wide image to display at 200px, and the iPhone has a device pixel ratio of 3, so it wants and receives a 600px wide image to display nicely at 200px. If you have a picture element in your page and you are getting a larger image than you expect given what you set for the image size in the Picture sizes attribute, check your display window pixel ratio. Chances are it's higher than 1.
 
@@ -103,11 +103,11 @@ For example, let's throw an Image component in the mix. Let's give it a width of
 
 All these images are being displayed at 200 x 200px, as desired. But only the ones from the Picture component are nice and sharp, because it's using 400px wide images for those. The Image component is generating a single 200px wide image and using that, and it's noticeably blurrier than the 400px wide 2x image.
 
-[![Image and Picture components with 200px width](../../assets/images/posts/Image-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/Image-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![Image and Picture components with 200px width](../../assets/images/posts/Image-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/Image-200px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 Ok, fine, you say. Give image a width of 400 and call it done. That is in fact the correct answer (assuming your site never gets displayed on a screen with a higher pixel ratio than 2), but guess what? You're also telling it to generate an img tag with a width attribute set to 400. I'm sure it's not going to surprise you to see what happens next:
 
-[![Image component with 400px width](../../assets/images/posts/Image-400px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/Image-400px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![Image component with 400px width](../../assets/images/posts/Image-400px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/Image-400px-400px-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 To add insult to injury, not only is it displayed at twice the size you actually want, it's still fuzzy by comparison because it's not acting as a 2x image. It's just a bigger 1x image on a screen with a pixel ratio of 2. Wah, wah.
 
@@ -130,7 +130,7 @@ In order to conduct these experiments for you, I got rid of any CSS related to i
 
 The result is the image from both the Image component and the Picture component are displayed at 200 x 200px, and both use 400 x 400px images as source files. Both now look equally sharp on my Retina display.
 
-[![Image component with 400px width using CSS to set the display size](../../assets/images/posts/Image-all-400-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/Image-all-400-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.webp)
+[![Image component with 400px width using CSS to set the display size](../../assets/images/posts/Image-all-400-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.png)](/images/posts/Image-all-400-2FA1BD80-9E3E-406B-B3AF-3E8796E7DEE8.jpg)
 
 ## Lesson learned
 

@@ -9,7 +9,7 @@ slug: "astro-expressive-code"
 
 You've seen a lot of code blocks on this site in various posts of mine, primarily because I'm not ashamed to show what a bad programmer I am or how excited I am that I learned something that's probably rudimentary to many people. And while I like how the native [Astro support for the Shiki syntax highlighter](https://docs.astro.build/en/guides/markdown-content/#shiki-configuration) works, I really like how code blocks look in Astro's documentation pages even more. It looks like this:
 
-[![Astro documentation site code block example](../../assets/images/posts/AstroDocsSyntaxHighlighting-5F67B2E2-66DD-455D-BF52-6942F1173C95.png)](/images/posts/AstroDocsSyntaxHighlighting-5F67B2E2-66DD-455D-BF52-6942F1173C95.webp)
+[![Astro documentation site code block example](../../assets/images/posts/AstroDocsSyntaxHighlighting-5F67B2E2-66DD-455D-BF52-6942F1173C95.png)](/images/posts/AstroDocsSyntaxHighlighting-5F67B2E2-66DD-455D-BF52-6942F1173C95.jpg)
 
 I like the way they do this because it supports various languages and syntaxes, it allows for a frame with the name of the file being shown if applicable, and in general, it just looks really good.
 
@@ -19,7 +19,7 @@ I posted in the [Astro Discord](https://astro.build/chat) Starlight channel to a
 
 I installed it using the Astro CLI as recommended in the [astro-expressive-code README](https://github.com/expressive-code/expressive-code/blob/main/packages/astro-expressive-code/README.md) with the command `npx astro add astro-expressive-code` (since I'm using npm). After that, I did absolutely nothing except edit all my posts with code blocks to add titles to any code blocks that I wanted to list file names for. Now my code blocks look like this:
 
-[![A Scott Willsey code block using astro-expressive-code](../../assets/images/posts/AScottWillseyCodeBlock-2F322CD2-12B1-4319-B68C-D29D23B308B2.png)](/images/posts/AScottWillseyCodeBlock-2F322CD2-12B1-4319-B68C-D29D23B308B2.webp)
+[![A Scott Willsey code block using astro-expressive-code](../../assets/images/posts/AScottWillseyCodeBlock-2F322CD2-12B1-4319-B68C-D29D23B308B2.png)](/images/posts/AScottWillseyCodeBlock-2F322CD2-12B1-4319-B68C-D29D23B308B2.jpg)
 
 Right now I'm just using the default Shiki GitHub theme. I haven't customized the look at all. While they do look fine as is, I will customize the look more when I have time.
 

@@ -16,7 +16,7 @@ The reason it didn’t occur to me that I might miss these? I never use them. I 
 
 One annoyance about them is also a side-effect of one of their main features – you will have to manually edit your AI commands to update to newer LLMs when it becomes useful to do so.
 
-[![RaycastAIEdit](../../assets/images/posts/RaycastAIEdit-03DCE29C-D381-47E5-AB66-FC76FF3F150A.png)](/images/posts/RaycastAIEdit-03DCE29C-D381-47E5-AB66-FC76FF3F150A.webp)
+[![RaycastAIEdit](../../assets/images/posts/RaycastAIEdit-03DCE29C-D381-47E5-AB66-FC76FF3F150A.png)](/images/posts/RaycastAIEdit-03DCE29C-D381-47E5-AB66-FC76FF3F150A.jpg)
 
 Again, this isn’t a lazy miss because being able to choose your model is a feature, but it can eventually become a maintenance chore as well.
 
@@ -66,7 +66,7 @@ The Regex Generator AI Command comes up with this regular expression:
 
 Using BBEdit’s Pattern Playground, you can see in the Capture groups section of the window that it captures the entire Markdown link and also the link name as the first capture group and the URL as the second capture group.
 
-[![BBEditRegexPlayground](../../assets/images/posts/BBEditRegexPlayground-00710879-7F1A-4F9F-8022-B45887589798.png)](/images/posts/BBEditRegexPlayground-00710879-7F1A-4F9F-8022-B45887589798.webp)
+[![BBEditRegexPlayground](../../assets/images/posts/BBEditRegexPlayground-00710879-7F1A-4F9F-8022-B45887589798.png)](/images/posts/BBEditRegexPlayground-00710879-7F1A-4F9F-8022-B45887589798.jpg)
 
 It’s not a horrible result given the text I gave it. It makes me want to play with this specific AI command more on various pieces of data such as log files and see what it does.
 

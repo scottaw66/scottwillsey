@@ -11,17 +11,17 @@ As I started yet another topic series in my [last post about Raycast](https://sc
 
 Now there's a Series menu item that links to a [list of Series](https://scottwillsey.com/series/) available on the site. Each of those series names in turn links to an individual series page which is identical to the list except it only shows the one selected series instead of all of them.
 
-[![Series menu item](../../assets/images/posts/SeriesMenuOption-53365F54-B543-4250-951B-96724AA21BB9.png)](/images/posts/SeriesMenuOption-53365F54-B543-4250-951B-96724AA21BB9.webp)
+[![Series menu item](../../assets/images/posts/SeriesMenuOption-53365F54-B543-4250-951B-96724AA21BB9.png)](/images/posts/SeriesMenuOption-53365F54-B543-4250-951B-96724AA21BB9.jpg)
 
 Both the Series index page and the Series dynamic route page (to create all the individual series pages) rely on a component called SeriesList.astro to show each series and its associated posts.
 
 On the Series index page, it repeats the component view for each existing series:
 
-[![Series index](../../assets/images/posts/SeriesList-E3901C05-812E-4399-8615-F73FA46A222C.png)](/images/posts/SeriesList-E3901C05-812E-4399-8615-F73FA46A222C.webp)
+[![Series index](../../assets/images/posts/SeriesList-E3901C05-812E-4399-8615-F73FA46A222C.png)](/images/posts/SeriesList-E3901C05-812E-4399-8615-F73FA46A222C.jpg)
 
 On the individual series page, it just calls the component once because it's only showing the one series:
 
-[![Raycast series page](../../assets/images/posts/RaycastSeries-5994E4D3-7E86-4533-8A31-B4958A16173E.png)](/images/posts/RaycastSeries-5994E4D3-7E86-4533-8A31-B4958A16173E.webp)
+[![Raycast series page](../../assets/images/posts/RaycastSeries-5994E4D3-7E86-4533-8A31-B4958A16173E.png)](/images/posts/RaycastSeries-5994E4D3-7E86-4533-8A31-B4958A16173E.jpg)
 
 Besides the update to the menu, which is located in `layouts/Base.astro`, there are 3 new files that make Series happen: `pages/series/index.astro`, `pages/series/[name].astro`, and `components/SeriesList.astro`.
 

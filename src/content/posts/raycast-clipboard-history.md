@@ -17,13 +17,13 @@ Clipboard History has several settings. As always, to get to Raycast settings, l
 
 There's probably not too much you'll want to change. You'll probably want Clipboard History to paste to the active app instead of back to the clipboard, and you'll probably want fast text recognition for text in photos. The one really interesting setting is "Keep History For", which has options for 7 days, 30 days, 3 months, 6 months, 1 year, or unlimited. Unlimited comes with a warning that your hard drive will slowly be eaten alive and you should be ok with that.
 
-[![Clipboard History retention length setting](../../assets/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.png)](/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.webp)
+[![Clipboard History retention length setting](../../assets/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.png)](/images/posts/ClipboardHistoryLengthSetting-E511BEDE-4432-49AB-A442-05069F910E41.jpg)
 
 The Clipboard History view itself is relatively simple. You can have pinned history items, and below those are your history items in reverse chronological order. The beauty of a clipboard history function is that you can copy several things in a row from a source and then worry about pasting them all later without losing any of them. As you can see, clipboard history includes files and images. Any clipboard items show what app they were copied from, what the content type is, and then details such as word count or image dimensions.
 
-[![Clipboard History image](../../assets/images/posts/ch-image-23A05452-7AEB-4F72-B829-5CA21D67A0B5.png)](/images/posts/ch-image-23A05452-7AEB-4F72-B829-5CA21D67A0B5.webp)
+[![Clipboard History image](../../assets/images/posts/ch-image-23A05452-7AEB-4F72-B829-5CA21D67A0B5.png)](/images/posts/ch-image-23A05452-7AEB-4F72-B829-5CA21D67A0B5.jpg)
 
-[![Clipboard History Retrobatch file](../../assets/images/posts/ch-retrobatch-23A05452-7AEB-4F72-B829-5CA21D67A0B5.png)](/images/posts/ch-retrobatch-23A05452-7AEB-4F72-B829-5CA21D67A0B5.webp)
+[![Clipboard History Retrobatch file](../../assets/images/posts/ch-retrobatch-23A05452-7AEB-4F72-B829-5CA21D67A0B5.png)](/images/posts/ch-retrobatch-23A05452-7AEB-4F72-B829-5CA21D67A0B5.jpg)
 
 Whatever app is active when you trigger Raycast and Clipboard History will be the app you can paste your selected item into by hitting Return. If you have your cursor in a Safari URL bar at the time, it'll paste it there, assuming it's text. If you're typing in [Drafts](https://getdrafts.com), like I am right now, it'll paste the item into Drafts. In each case, the paste will only happen if the selected item is a content type that's contextually possible – you can't paste images into Safari URL bars or even into Drafts (it's a markdown text editor), but you CAN paste an image or other file into a Finder window or an image into a text editor that takes images.
 

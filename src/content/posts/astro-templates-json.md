@@ -252,7 +252,7 @@ All the information, or data, or content, about the items is GONE from the html 
 
 Now the only part that’s hard-coded into the page template is the page introduction area indicated by the rectangle marker below, which is right at the beginning of the `<article>` section.
 
-[![Uses page header section](../../assets/images/posts/UsesTemplate1-E07B61D0-26E3-46ED-9ADB-64F2740B5DA1.png)](/images/posts/UsesTemplate1-E07B61D0-26E3-46ED-9ADB-64F2740B5DA1.webp)
+[![Uses page header section](../../assets/images/posts/UsesTemplate1-E07B61D0-26E3-46ED-9ADB-64F2740B5DA1.png)](/images/posts/UsesTemplate1-E07B61D0-26E3-46ED-9ADB-64F2740B5DA1.jpg)
 
 Everything following it comes from the JSON file and is mapped out in this section:
 
@@ -356,7 +356,7 @@ You can see that `item.Specs` is an array and so I use `item.Specs.map` to creat
 
 The end result that is rendered is something like the following:
 
-[![Keychron Q1 item view](../../assets/images/posts/UsesKeychronQ1-730DE8A6-538A-4582-850B-C2765FF58127.png)](/images/posts/UsesKeychronQ1-730DE8A6-538A-4582-850B-C2765FF58127.webp)
+[![Keychron Q1 item view](../../assets/images/posts/UsesKeychronQ1-730DE8A6-538A-4582-850B-C2765FF58127.png)](/images/posts/UsesKeychronQ1-730DE8A6-538A-4582-850B-C2765FF58127.jpg)
 
 ## Summarium
 

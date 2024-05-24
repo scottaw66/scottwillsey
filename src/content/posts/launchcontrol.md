@@ -41,10 +41,10 @@ Along the way though, before I realized my remedial error, I was worried that Ve
 
 As you may remember, launchd handles User Agents (~/Library/LaunchAgents), Global Agents (/Library/LaunchAgents), Global Daemons (/Library/LaunchDaemons). LaunchControl allows easy viewing, execution, and modification of all of these in one location.
 
-[![LaunchControl](../../assets/images/posts/LaunchControl-20E2C710-2E7A-416A-A046-221876C80836.png)](/images/posts/LaunchControl-20E2C710-2E7A-416A-A046-221876C80836.webp)
+[![LaunchControl](../../assets/images/posts/LaunchControl-20E2C710-2E7A-416A-A046-221876C80836.png)](/images/posts/LaunchControl-20E2C710-2E7A-416A-A046-221876C80836.jpg)
 
 It also allows for easy editing of the file being run by the Agent or Daemon, which makes trying things simple.
 
-[![Edit Script in LaunchControl](../../assets/images/posts/LaunchControlEditScript-20E2C710-2E7A-416A-A046-221876C80836.png)](/images/posts/LaunchControlEditScript-20E2C710-2E7A-416A-A046-221876C80836.webp)
+[![Edit Script in LaunchControl](../../assets/images/posts/LaunchControlEditScript-20E2C710-2E7A-416A-A046-221876C80836.png)](/images/posts/LaunchControlEditScript-20E2C710-2E7A-416A-A046-221876C80836.jpg)
 
 You don't need LaunchControl to create and edit Agents and Daemons. You can create and edit plist files manually and many (most?) people do. But LaunchControl makes it easy in the same way that most people would much rather use VSCode or some other context-aware IDE to work on projects than to do it in TextEdit. It's a powerful tool that makes something that is a chore easier and less error prone, and that seems like a good thing to me.
