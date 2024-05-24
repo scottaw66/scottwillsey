@@ -117,15 +117,15 @@ end adding folder items to
 
 For the AppleScript to execute automatically on a folder, first it needs to be located in `~/Library/Scripts/Folder Action Scripts`.
 
-[![Folder Action Scripts folder](../../assets/images/posts/FolderActionScriptsFolder-BD0E8CCA-F2E3-487E-AF1C-3B67CF321DEF.png)](/images/posts/FolderActionScriptsFolder-BD0E8CCA-F2E3-487E-AF1C-3B67CF321DEF.png)
+[![Folder Action Scripts folder](../../assets/images/posts/FolderActionScriptsFolder-BD0E8CCA-F2E3-487E-AF1C-3B67CF321DEF.png)](/images/posts/FolderActionScriptsFolder-BD0E8CCA-F2E3-487E-AF1C-3B67CF321DEF.webp)
 
 Once I had the AppleScript there, I right-clicked my input folder, selected `Services` and then `Folder Action Setup`.
 
-[![Folder Action Setup menu](../../assets/images/posts/FolderActionsSetupMenu-86B4A871-966E-4A27-A2C5-3FC85E131D6C.png)](/images/posts/FolderActionsSetupMenu-86B4A871-966E-4A27-A2C5-3FC85E131D6C.png)
+[![Folder Action Setup menu](../../assets/images/posts/FolderActionsSetupMenu-86B4A871-966E-4A27-A2C5-3FC85E131D6C.png)](/images/posts/FolderActionsSetupMenu-86B4A871-966E-4A27-A2C5-3FC85E131D6C.webp)
 
 On the "Folder Action Setup" dialog box, I clicked on the action name on the right to reveal a dropdown with my AppleScript in the list. I chose the AppleScript, made sure "Enable Folder Actions" was checked, and closed the dialog box.
 
-[![Folder Action Setup dialog](../../assets/images/posts/FolderActionsSetup-1081E829-4FB6-447A-88A5-BC7EE5F934F6.png)](/images/posts/FolderActionsSetup-1081E829-4FB6-447A-88A5-BC7EE5F934F6.png)
+[![Folder Action Setup dialog](../../assets/images/posts/FolderActionsSetup-1081E829-4FB6-447A-88A5-BC7EE5F934F6.png)](/images/posts/FolderActionsSetup-1081E829-4FB6-447A-88A5-BC7EE5F934F6.webp)
 
 Now I have a folder that I can drop images into, and they automatically get formatted and renamed and placed in my output folder.
 

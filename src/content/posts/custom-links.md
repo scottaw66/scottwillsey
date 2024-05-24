@@ -16,25 +16,25 @@ It sounds more confusing than it is. Here’s an example that works perfectly, e
 
 Let’s say you get emails from your ticketing system and they include links to the ticket in question that look like the following:
 
-[![TicketEmail](../../assets/images/posts/TicketEmail-12439F99-9561-4F21-8B64-D0B31E98E529.png)](/images/posts/TicketEmail-12439F99-9561-4F21-8B64-D0B31E98E529.png)
+[![TicketEmail](../../assets/images/posts/TicketEmail-12439F99-9561-4F21-8B64-D0B31E98E529.png)](/images/posts/TicketEmail-12439F99-9561-4F21-8B64-D0B31E98E529.webp)
 
 <URL: /Ticket/Display.html?id=89285 > is not a useful link, but if you add your RT instance’s domain name to it, it can be. That’s where TextBuddy’s Custom Links feature comes in.
 
 First of all, copying text from any app to TextBuddy is simple – just highlight the text, and choose **Services - Send to TextBuddy** from the app menu (the menu with the app’s name in it, like Chrome in this case) or right-click the highlighted text and choose **Services - Send to TextBuddy**.
 
-[![ServicesMenu](../../assets/images/posts/ServicesMenu-5B76A1F3-2461-4D43-A94E-6035434080B8.png)](/images/posts/ServicesMenu-5B76A1F3-2461-4D43-A94E-6035434080B8.png)
+[![ServicesMenu](../../assets/images/posts/ServicesMenu-5B76A1F3-2461-4D43-A94E-6035434080B8.png)](/images/posts/ServicesMenu-5B76A1F3-2461-4D43-A94E-6035434080B8.webp)
 
 This results in the following text in TextBuddy’s text window in my case.
 
-[![TextBuddyNoLink](../../assets/images/posts/TextBuddyNoLink-632E04EC-27BD-4E3F-95E4-210436AAA7E7.png)](/images/posts/TextBuddyNoLink-632E04EC-27BD-4E3F-95E4-210436AAA7E7.png)
+[![TextBuddyNoLink](../../assets/images/posts/TextBuddyNoLink-632E04EC-27BD-4E3F-95E4-210436AAA7E7.png)](/images/posts/TextBuddyNoLink-632E04EC-27BD-4E3F-95E4-210436AAA7E7.webp)
 
 Yeah, that Ticket URL is still not helpful.
 
 To set up the Custom Link, click the TextBuddy Scripts menu and choose “Reveal Secret Custom Links File”. This opens a finder window to ~/Library/Application Support/com.clickontyler.TextBuddy, revealing a file called CustomLinks.txt.
 
-[![CustomLinksFileMenuOption](../../assets/images/posts/CustomLinksFileMenuOption-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.png)](/images/posts/CustomLinksFileMenuOption-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.png)
+[![CustomLinksFileMenuOption](../../assets/images/posts/CustomLinksFileMenuOption-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.png)](/images/posts/CustomLinksFileMenuOption-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.webp)
 
-[![CustomLinksTextFile](../../assets/images/posts/CustomLinksTextFile-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.png)](/images/posts/CustomLinksTextFile-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.png)
+[![CustomLinksTextFile](../../assets/images/posts/CustomLinksTextFile-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.png)](/images/posts/CustomLinksTextFile-ABFAAF1E-6B6E-412B-A746-69E5E8BEBE0B.webp)
 
 Open the file in an editor. If you haven’t added anything to it previously, it’ll be empty. This file should contain two lines per Custom Link – the first line for the regular expression and the second line to act as a template for the URL to create for the Custom Link. In my example case, I added the following two lines:
 
@@ -60,8 +60,8 @@ Now you can highlight the offending text in your email and choose Services - Sen
 
 And thanks to the magic of Custom Links, although the link in the copied text LOOKS the same in TextBuddy, it’s now a clickable link with the correct URL as the target.
 
-[![TextBuddyClickableLink](../../assets/images/posts/TextBuddyClickableLink-0BA5F58C-8535-4A2F-85E2-B197B2324490.png)](/images/posts/TextBuddyClickableLink-0BA5F58C-8535-4A2F-85E2-B197B2324490.png)
+[![TextBuddyClickableLink](../../assets/images/posts/TextBuddyClickableLink-0BA5F58C-8535-4A2F-85E2-B197B2324490.png)](/images/posts/TextBuddyClickableLink-0BA5F58C-8535-4A2F-85E2-B197B2324490.webp)
 
 By the way, I tested my regular expression in [BBEdit](https://www.barebones.com/products/bbedit/index.html) using its [Pattern Playground](https://www.barebones.com/support/technotes/PatternPlaygrounds.html) feature. If you have BBEdit and you haven’t used this yet, you can find it in the File menu under “New - Pattern Playground”, or in the Search menu’s “Pattern Playground” option.
 
-[![BBEditPatternPlayground](../../assets/images/posts/BBEditPatternPlayground-528B8A6C-A525-4944-86DB-FBABEC13A3F9.png)](/images/posts/BBEditPatternPlayground-528B8A6C-A525-4944-86DB-FBABEC13A3F9.png)
+[![BBEditPatternPlayground](../../assets/images/posts/BBEditPatternPlayground-528B8A6C-A525-4944-86DB-FBABEC13A3F9.png)](/images/posts/BBEditPatternPlayground-528B8A6C-A525-4944-86DB-FBABEC13A3F9.webp)

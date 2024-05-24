@@ -65,7 +65,7 @@ This Loopback device looks a lot like this – in fact, exactly like this:
 
 Usually, even though each app can have its own inputs and outputs separate from the system settings, I just set my system settings to the output I want (my Elgato Wave XLR, which my podcasting headphones are plugged into) and the input that I want (my Loopback input source that combines my mic and Farrago).
 
-[![SoundSource System Audio Settings](../../assets/images/posts/SoundSource-25F30062-97B2-48F2-A923-EFA82FAC2FD8.png)](/images/posts/SoundSource-25F30062-97B2-48F2-A923-EFA82FAC2FD8.png)
+[![SoundSource System Audio Settings](../../assets/images/posts/SoundSource-25F30062-97B2-48F2-A923-EFA82FAC2FD8.png)](/images/posts/SoundSource-25F30062-97B2-48F2-A923-EFA82FAC2FD8.webp)
 
 Then I set my VOIP app de jour to use system settings for input and output.
 

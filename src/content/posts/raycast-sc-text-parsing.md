@@ -80,7 +80,7 @@ I created my script command the standard way by using the Raycast “Create Scri
 
 I don’t actually know what the package name does for me, but I like to set similar items to the same Package Name just to be sure. All script commands that are for working on the website go in the Website package name.
 
-[![Creating the Spotlight Site to Cool Site script command](../../assets/images/posts/RaycastSpotlightLinkScriptCommand-E1628E4B-68E2-4FBA-AA05-54AF3FADA540.png)](/images/posts/RaycastSpotlightLinkScriptCommand-E1628E4B-68E2-4FBA-AA05-54AF3FADA540.png)
+[![Creating the Spotlight Site to Cool Site script command](../../assets/images/posts/RaycastSpotlightLinkScriptCommand-E1628E4B-68E2-4FBA-AA05-54AF3FADA540.png)](/images/posts/RaycastSpotlightLinkScriptCommand-E1628E4B-68E2-4FBA-AA05-54AF3FADA540.webp)
 
 This creates a relatively empty command script in the directory of my choosing (I put them all in a folder called ~/Scripts/Raycast/script commands) containing one line of Python. I tend to edit my script commands in BBEdit (as opposed to VSCode, which I use for website development and some other types of programming), so I fired it up and made the following very small, very simple Python script.
 
@@ -128,6 +128,6 @@ Suffice it to say that you need to install pyperclip on your Mac for this to wor
 
 To run the command script, I hit the Raycast hotkey (⌘-, in my case), and start typing “Spotlight”. When I see what I want, I hit Return if it’s the first in the list, or ⌘ and the number of its place in the list if not. Bam – it executes and I have my link in my clipboard.
 
-[![Running the Spotlight Site to Cool Site script command](../../assets/images/posts/RaycastRunningSpotlightScriptCommand-0EA1317A-92B6-4925-9F60-CDDC407DC212.png)](/images/posts/RaycastRunningSpotlightScriptCommand-0EA1317A-92B6-4925-9F60-CDDC407DC212.png)
+[![Running the Spotlight Site to Cool Site script command](../../assets/images/posts/RaycastRunningSpotlightScriptCommand-0EA1317A-92B6-4925-9F60-CDDC407DC212.png)](/images/posts/RaycastRunningSpotlightScriptCommand-0EA1317A-92B6-4925-9F60-CDDC407DC212.webp)
 
 This is an extremely simple example of a Raycast script command, but it illustrates that you can very easily perform all kinds of scripted actions without having to write a full Raycast extension or without having to open the Finder or terminal, go to a script directory, and running a script manually. Running a command script through Raycast will always be quicker.

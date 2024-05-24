@@ -204,7 +204,7 @@ const processedTags = allTags.reduce((acc, tag) => {
 
 The reason is that I'm keeping count of how many times each tag is used and I'm displaying that in my tag cloud, as shown below.
 
-[![Tags index page tag cloud](../../assets/images/posts/TagsPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/TagsPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)
+[![Tags index page tag cloud](../../assets/images/posts/TagsPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/TagsPage-06E42D5B-5C57-49DA-8888-49922722C7CD.webp)
 
 That's the only reason why instead of just sticking with a simple array of tags, I am creating a JavaScript Object of key value pairs, with the tag name being the key and the number of times its used being the value.
 
@@ -214,9 +214,9 @@ My whole TagCloud.astro component aside from styling comes straight from his [Ca
 
 My minor change is the addition of a prop called `displayNumber`. If I give it something real, like 11, it will display 11 tags plus a "All tags... " link to the tags index page. If I give it 999, it shows all tags. On my tags index page, I call TagCloud.astro with `displayNumber="999"`, while on my site home page and my site search page, I call TagCloud.astro with `displayNumber="11"`. The result is that my tags index page looks like the picture immediately above, while my home page and search page tag clouds look like the following two images.
 
-[![Home page tag cloud](../../assets/images/posts/IndexPageBottom-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/IndexPageBottom-06E42D5B-5C57-49DA-8888-49922722C7CD.png)
+[![Home page tag cloud](../../assets/images/posts/IndexPageBottom-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/IndexPageBottom-06E42D5B-5C57-49DA-8888-49922722C7CD.webp)
 
-[![Search page tag cloud](../../assets/images/posts/SearchPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/SearchPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)
+[![Search page tag cloud](../../assets/images/posts/SearchPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/SearchPage-06E42D5B-5C57-49DA-8888-49922722C7CD.webp)
 
 ## Individual Tag Pages
 
@@ -357,7 +357,7 @@ let description = "Posts with tag " + tag + ".";
 
 All of that in `[tag].astro` equates to the following individual tag view.
 
-[![Individual tag page](../../assets/images/posts/SingleTagPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/SingleTagPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)
+[![Individual tag page](../../assets/images/posts/SingleTagPage-06E42D5B-5C57-49DA-8888-49922722C7CD.png)](/images/posts/SingleTagPage-06E42D5B-5C57-49DA-8888-49922722C7CD.webp)
 
 I don't know if you're tired of tags yet, but I'm getting there. I do like how this turned out though. I think it looks pretty good considering my horrific lack of design skills, and I like how I can implement the partial cloud on the home page and the search page, and the full tag cloud on the tags index page, all from the same `TagCloud.astro` component.
 
@@ -365,6 +365,6 @@ I don't know if you're tired of tags yet, but I'm getting there. I do like how t
 
 Oh, I also added the tag cloud along with a search field on my 404 page too.
 
-[![I can haz 404?! And TAG CLOUD?!](../../assets/images/posts/404-2ABF6127-2AA2-452A-B787-32D051D95FB7.png)](/images/posts/404-2ABF6127-2AA2-452A-B787-32D051D95FB7.png)
+[![I can haz 404?! And TAG CLOUD?!](../../assets/images/posts/404-2ABF6127-2AA2-452A-B787-32D051D95FB7.png)](/images/posts/404-2ABF6127-2AA2-452A-B787-32D051D95FB7.webp)
 
 And now I'm going to sleep, because it's after 2 AM and I really need to be 404 myself right now.

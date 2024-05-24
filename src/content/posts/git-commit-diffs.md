@@ -22,7 +22,7 @@ git difftool 5298935609b106365c2786a711c844395539a43d cfcbb396fb29e1e100908152f0
 
 Then your difftool of choice opens and you can compare the two versions of the same file from two different commits side by side:
 
-[![Comparing two versions of the same file from two different commits](../../assets/images/posts/GitDiffTool-DF155BA0-CF87-46DC-8DBB-DF87B267513A.png)](/images/posts/GitDiffTool-DF155BA0-CF87-46DC-8DBB-DF87B267513A.png)
+[![Comparing two versions of the same file from two different commits](../../assets/images/posts/GitDiffTool-DF155BA0-CF87-46DC-8DBB-DF87B267513A.png)](/images/posts/GitDiffTool-DF155BA0-CF87-46DC-8DBB-DF87B267513A.webp)
 
 In order to find commit IDs, the command `git log` will do the trick. The commit at the top is your latest commit. You can even search for a particular phrase with `git log`, which I did in order to find my first Pagefind implementation.
 

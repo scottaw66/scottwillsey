@@ -10,15 +10,15 @@ Yesterday I learned about a really cool way to edit Safari bookmark descriptions
 
 When you think of editing Safari bookmarks, you may immediately think of going to the Bookmarks menu and choosing "Edit Bookmarks" (or typing the Opt-Cmd-B keyboard shortcut to do the same thing). I did too, but this won't let you edit bookmark descriptions. It will only let you edit bookmark names and URLs, as you can see in the image below.
 
-[![Bookmarks Editor View](../../assets/images/posts/BookmarksEditWindow-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)](/images/posts/BookmarksEditWindow-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)
+[![Bookmarks Editor View](../../assets/images/posts/BookmarksEditWindow-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)](/images/posts/BookmarksEditWindow-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.webp)
 
 Instead, use the View menu and choose "Show Bookmarks in Sidebar" or type Ctrl-Cmd-1 to show your Safari bookmarks in normal bookmarks view. Double-click on a bookmarks folder, and you'll see all of the bookmarks in the folder presented in mini-preview style with an image representation, name and description.
 
-[![Bookmarks Folder Preview View](../../assets/images/posts/BookmarksFolderView-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)](/images/posts/BookmarksFolderView-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)
+[![Bookmarks Folder Preview View](../../assets/images/posts/BookmarksFolderView-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)](/images/posts/BookmarksFolderView-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.webp)
 
 Here, you can right-click on any bookmark and choose to edit the name, the address, or the description.
 
-[![Bookmark Edit Menu](../../assets/images/posts/BookmarkRightClickEditDescription-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)](/images/posts/BookmarkRightClickEditDescription-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)
+[![Bookmark Edit Menu](../../assets/images/posts/BookmarkRightClickEditDescription-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.png)](/images/posts/BookmarkRightClickEditDescription-80E4D6AB-68F2-42A1-BBD7-E29E714A4987.webp)
 
 Great! You can edit bookmark descriptions. So what? My answer to that is yet another convoluted Scott Willsey trail of starting at one point and winding up at entirely another.
 
@@ -26,7 +26,7 @@ Once upon a time, namely now, there existed a little private indie Mac app devel
 
 [Fastmarks](https://retina.studio/fastmarks/) is all about searching and opening your browser bookmarks quickly. Despite the fact that this post is about Safari bookmarks, Fastmarks can also search bookmarks from Chrome, Edge, Brave, and Firefox, as well as iCloud tab groups and [Hookmark](https://hookproductivity.com) bookmarks. It's keyboard shortcut driven, and it's way faster than either Safari bookmarks or the solution I was using for bookmarks, [Raindrop.io](https://raindrop.io/).
 
-[![Searching bookmarks with Fastmarks](../../assets/images/posts/FastmarksSearch-CE38CE7A-7298-4E0C-AAF9-E79BAF369BC5.png)](/images/posts/FastmarksSearch-CE38CE7A-7298-4E0C-AAF9-E79BAF369BC5.png)
+[![Searching bookmarks with Fastmarks](../../assets/images/posts/FastmarksSearch-CE38CE7A-7298-4E0C-AAF9-E79BAF369BC5.png)](/images/posts/FastmarksSearch-CE38CE7A-7298-4E0C-AAF9-E79BAF369BC5.webp)
 
 The downside to using browser bookmarks as opposed to something like Raindrop, though, is that Raindrop is all about categorization and organization. Yes, there are categories, but also tags, so that any given bookmark can fit across several topic domains, as makes sense. Also any description information you add is readily available while searching bookmarks in Raindrop.
 

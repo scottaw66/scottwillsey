@@ -9,7 +9,7 @@ slug: "podcasting-setup-hardware"
 
 My friend Donnie Adams asked me on Mastodon if I've ever written anything about my podcasting setup and recording and editing workflow. The answer is... I don't think so. Even if I did, whatever I wrote is out of date and not online anymore anyway. So in 2023, here's my basic podcasting setup hardware.
 
-[![My computer desk with MacBook Pro, Studio Monitor, and accessories](../../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)](/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)
+[![My computer desk with MacBook Pro, Studio Monitor, and accessories](../../assets/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.png)](/images/posts/macsetup-7780B721-09D1-44CC-82B1-E083D8F4A7C9.webp)
 
 ## Mic
 
@@ -45,7 +45,7 @@ If you do in-person recording with a co-host, you may need an interface with mul
 
 My computer is a 14" 2021 MacBook Pro M1 Pro with 16 GB of RAM, a 1TB SSD, 10 core CPU, and 16 core GPU. Those memory, SSD, and CPU/GPU specs are the absolute minimum I would ever go with, but for the money this is by far the most amazing computer I've ever owned. It eats giant number-crunching chores for breakfast and never gets hot. The only time I can warm it up even remotely is when generating transcripts of podcast episodes with [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper).
 
-[![My 14" 2021 MacBook Pro M1 Pro](../../assets/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png)](/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png)
+[![My 14" 2021 MacBook Pro M1 Pro](../../assets/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.png)](/images/posts/mbp-7782B4DE-B770-4466-8734-30E663073CFA.webp)
 
 When I have 5 or 6 tracks of audio in Logic Pro, all split up with silences stripped, it can get really slow to respond to selections and movements, especially for longer episodes. I attribute this to the 16GB of RAM. Previously I had 32GB in my iMac, but that was because I could add and remove RAM with ease. That's obviously not the case with the MacBook Pro, so go for as much as you can afford.
 

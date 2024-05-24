@@ -53,7 +53,7 @@ Once the search bar appears, you start typing things, varying depending on your 
 
 To make selection fast and easy, Raycast lets you use Cmd+number keyboard combinations to make a choice. Hold Cmd for a second and you'll see what number key to hit to select a particular option. They're numbered from top to bottom as could be expected, so the Cmd+number choice for a given app is just its order in the list.
 
-[![Raycast Cmd selection numbers](../../assets/images/posts/AppLaunching-0BC2DC50-2519-4FDB-82A3-DC2D19ABF05F.png)](/images/posts/AppLaunching-0BC2DC50-2519-4FDB-82A3-DC2D19ABF05F.png)
+[![Raycast Cmd selection numbers](../../assets/images/posts/AppLaunching-0BC2DC50-2519-4FDB-82A3-DC2D19ABF05F.png)](/images/posts/AppLaunching-0BC2DC50-2519-4FDB-82A3-DC2D19ABF05F.webp)
 
 This same Cmd+number selection technique works for anything you search for in Raycast, so anytime a list is on screen, you can use this to quickly make your choice from the list of applicable items.
 
@@ -67,9 +67,9 @@ Aliases require you to open Raycast, but then you just quickly type the alias an
 
 Here's an example of a bunch of the Window Management commands with HotKeys assigned, followed by one of some Safari commands with Aliases.
 
-[![Raycast HotKeys](../../assets/images/posts/RaycastWindowMan-E88DA2A3-E432-461D-9248-9DB397B40E60.png)](/images/posts/RaycastWindowMan-E88DA2A3-E432-461D-9248-9DB397B40E60.png)
+[![Raycast HotKeys](../../assets/images/posts/RaycastWindowMan-E88DA2A3-E432-461D-9248-9DB397B40E60.png)](/images/posts/RaycastWindowMan-E88DA2A3-E432-461D-9248-9DB397B40E60.webp)
 
-[![Raycast Aliases](../../assets/images/posts/RaycastAliases-A2E05084-6964-4126-8ACB-7141550CED94.png)](/images/posts/RaycastAliases-A2E05084-6964-4126-8ACB-7141550CED94.png)
+[![Raycast Aliases](../../assets/images/posts/RaycastAliases-A2E05084-6964-4126-8ACB-7141550CED94.png)](/images/posts/RaycastAliases-A2E05084-6964-4126-8ACB-7141550CED94.webp)
 
 These are some of the very basics of Raycast that will come in handy as I show some examples of my Raycast workflows in future articles.
 

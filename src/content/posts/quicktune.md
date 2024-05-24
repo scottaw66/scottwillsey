@@ -11,7 +11,7 @@ slug: "quicktune"
 
 I mean, look at this!
 
-[![QuickTune](../../assets/images/posts/QuickTune-DE3A3CF0-128A-49D9-A7AE-E2E11077F4CA.png)](/images/posts/QuickTune-DE3A3CF0-128A-49D9-A7AE-E2E11077F4CA.png)
+[![QuickTune](../../assets/images/posts/QuickTune-DE3A3CF0-128A-49D9-A7AE-E2E11077F4CA.png)](/images/posts/QuickTune-DE3A3CF0-128A-49D9-A7AE-E2E11077F4CA.webp)
 
 So it’s well deserved but still very cool that [QuickTune was featured in MacStories](https://www.macstories.net/reviews/quicktune-a-music-remote-app-for-mac-with-tiger-vibes/) yesterday. As John says,
 

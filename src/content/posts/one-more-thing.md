@@ -91,6 +91,6 @@ chmod +x my-ip-address.sh
 
 And now I have my IP address in my menu bar!
 
-[![The IP address in my menu bar](../../assets/images/posts/OneThingIpAddress-7FBCDC10-F21F-4D8E-AE94-F5276E88F53E.png)](/images/posts/OneThingIpAddress-7FBCDC10-F21F-4D8E-AE94-F5276E88F53E.png)
+[![The IP address in my menu bar](../../assets/images/posts/OneThingIpAddress-7FBCDC10-F21F-4D8E-AE94-F5276E88F53E.png)](/images/posts/OneThingIpAddress-7FBCDC10-F21F-4D8E-AE94-F5276E88F53E.webp)
 
 By the way, the IP address shown isn't really mine. It's Microsoft's. Don't try to DDOS them, but if you do I can only assume they have better DDOS protection than I do.

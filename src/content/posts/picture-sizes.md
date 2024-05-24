@@ -15,11 +15,11 @@ When I wrote the my [science experiments post](https://scottwillsey.com/image-ra
 
 But more troublingly, setting them with a simple `sizes="500px"` value made them look bad on mobile devices. For example, here's my first image in the article shown in the iPhone 12 Pro screen size, and it just shoots out both sides like there's no guard rails and no cliffs next to the road.
 
-[![500px wide image on iPhone 12 Pro screen](../../assets/images/posts/image1-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image1-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)
+[![500px wide image on iPhone 12 Pro screen](../../assets/images/posts/image1-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image1-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.webp)
 
 It's a little confusing, because it's an image of me examining images on a web page in Chrome developer tools, but you can see that it's indeed displaying at my requested 500px width and is too wide for the page on the iPhone as a result.
 
-[![500px wide image details in Chrome developer tools](../../assets/images/posts/image2-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image2-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)
+[![500px wide image details in Chrome developer tools](../../assets/images/posts/image2-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image2-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.webp)
 
 Fortunately, sizes has an answer for us: we can specify it to be 500px above a certain screen width, and then just show at 90% of the viewport width below that screen width.
 
@@ -40,9 +40,9 @@ It's a little unclear how to read that initially. Here's what it means:
 
 It works great. Now for wide screens, I get a 500px wide image, and for smaller screens, I get an image better tailored to the display.
 
-[![Image displaying at 500px wide on bigger screen](../../assets/images/posts/image3-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image3-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)
+[![Image displaying at 500px wide on bigger screen](../../assets/images/posts/image3-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image3-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.webp)
 
-[![Image displaying at 90vw width on small screen](../../assets/images/posts/image4-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image4-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)
+[![Image displaying at 90vw width on small screen](../../assets/images/posts/image4-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.png)](/images/posts/image4-1C3FC4F9-AB6B-44DA-B33A-377336BD42B9.webp)
 
 You can get even more granular. For example, I determined that an image I displayed in a different post at 600px wide on big displays worked better if it was only 80% of the viewport width between 650 and 750px screen widths, and 90% of the viewport width below that.
 

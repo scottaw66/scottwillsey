@@ -18,10 +18,10 @@ It's glorious.
 
 Now I can edit bookmark descriptions and throw some keywords in at the end, like this:
 
-[![Safari bookmark description with my keywords added](../../assets/images/posts/BookmarkDescriptionKeywords-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.png)](/images/posts/BookmarkDescriptionKeywords-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.png)
+[![Safari bookmark description with my keywords added](../../assets/images/posts/BookmarkDescriptionKeywords-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.png)](/images/posts/BookmarkDescriptionKeywords-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.webp)
 
 And searching for any of those keywords will bring up the bookmark in my Fastmarks search results.
 
-[![Fastmarks search for a keyword](../../assets/images/posts/FastmarksSearch-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.png)](/images/posts/FastmarksSearch-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.png)
+[![Fastmarks search for a keyword](../../assets/images/posts/FastmarksSearch-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.png)](/images/posts/FastmarksSearch-F9B6B9AE-1A28-4991-AE4F-65E3AAEE38B4.webp)
 
 By the way, not only is Tyler clearly a superior human based upon the utilities he codes, he also was super open and responsive to the idea of adding descriptions to the Fastmarks search index. Once again, an indie Mac developer shows what makes the Mac great - people who care about the platform and about user experience.

@@ -12,19 +12,19 @@ There I was, checking out [Raycast](https://www.raycast.com)’s [updated websit
 
 Example: I hit ⌘ Space (that's Command Space) to invoke Raycast, type **ch** (my alias for the Clipboard History function), and start typing “there I was”. Look at the results:
 
-[![Raycast Clipboard History Image Text Recognition](../../assets/images/posts/RaycastCHImageOCR-3DDA949C-7624-4DA6-BD13-8024FBEBA98A.png)](/images/posts/RaycastCHImageOCR-3DDA949C-7624-4DA6-BD13-8024FBEBA98A.png)
+[![Raycast Clipboard History Image Text Recognition](../../assets/images/posts/RaycastCHImageOCR-3DDA949C-7624-4DA6-BD13-8024FBEBA98A.png)](/images/posts/RaycastCHImageOCR-3DDA949C-7624-4DA6-BD13-8024FBEBA98A.webp)
 
 The first result is a file called Image (1252x631), which is a screenshot of this blog post when I started writing it, taken with [ScreenFloat](https://www.screenfloatapp.com) and copied into the clipboard. Raycast sees the words “there I was” in the image and returns it as a match to my clipboard history search. Pretty cool.
 
 Raycast will also let you designate folders to search for screenshots in, apart from images in clipboard history, and you can apply text recognition to those search as well. Open Raycast Settings by toggling Raycast open and typing ⌘, (that’s Command comma), select Extensions, search for the Search Screenshots command, and then verify that Text Recognition is not disabled but shows one of the accuracy level options instead.
 
-[![Raycast Search Screenshots](../../assets/images/posts/RaycastSearchScreenshots-D2BE75B5-6FD9-41D5-9D4E-B2197FDFDEB8.png)](/images/posts/RaycastSearchScreenshots-D2BE75B5-6FD9-41D5-9D4E-B2197FDFDEB8.png)
+[![Raycast Search Screenshots](../../assets/images/posts/RaycastSearchScreenshots-D2BE75B5-6FD9-41D5-9D4E-B2197FDFDEB8.png)](/images/posts/RaycastSearchScreenshots-D2BE75B5-6FD9-41D5-9D4E-B2197FDFDEB8.webp)
 
 All that Raycast functionality is great, but since I’m using ScreenFloat to take my screenshots, what if I don’t want to have to copy an image into the clipboard or save it in one of those files to find it by text recognition? ScreenFloat has search by text recognition covered too.
 
 [ScreenFloat](https://www.screenfloatapp.com) saves screenshots you’ve taken in the Shots Browser. You can open the Shots Browser with your assigned keyboard shortcut (⇧⌘1 in my case), hit ⌘F to start a search, and type the word “float”. The results are anything that has the word “float” in the image name, or anything that has the text “float” in the image itself somewhere.
 
-[![ScreenFloat Shots Browser Text Search](../../assets/images/posts/ScreenFloatShotsBrowserTextSearch-9EFC5C9C-699B-4B12-98C7-C60960F1AEF7.png)](/images/posts/ScreenFloatShotsBrowserTextSearch-9EFC5C9C-699B-4B12-98C7-C60960F1AEF7.png)
+[![ScreenFloat Shots Browser Text Search](../../assets/images/posts/ScreenFloatShotsBrowserTextSearch-9EFC5C9C-699B-4B12-98C7-C60960F1AEF7.png)](/images/posts/ScreenFloatShotsBrowserTextSearch-9EFC5C9C-699B-4B12-98C7-C60960F1AEF7.webp)
 
 You can also see from the image above that ScreenFloat names the screenshots with the name of the app that was being screenshotted.[^1] You can rename images at any time in ScreenFloat, of course.
 

@@ -41,7 +41,7 @@ But let's say you have a podcast. Let's say this podcast is called [Friends with
 
 Presumably you'd like to show the latest episode on your site's home page with a little view featuring the beer that was consumed on that episode, like this:
 
-[![Latest episode beer list view](../../assets/images/posts/BeerList-FCBA21C9-2F71-4051-B283-51452F68625D.png)](/images/posts/BeerList-FCBA21C9-2F71-4051-B283-51452F68625D.png)
+[![Latest episode beer list view](../../assets/images/posts/BeerList-FCBA21C9-2F71-4051-B283-51452F68625D.png)](/images/posts/BeerList-FCBA21C9-2F71-4051-B283-51452F68625D.webp)
 
 First thing you need to do is grab the json file and find all beer associated with whatever episode is the latest. I have a file named beerlist.mjs that exports a beerList function this because I want to be able to get a beer list in other places on the site too.
 

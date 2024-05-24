@@ -18,11 +18,11 @@ Let's look at a real world use case to show you a typical scenario where you nee
 
 [Friends with Brews](https://friendswithbrews.com/) is a podcast about conversations and different kinds of brewed drinks – beer, coffee, or tea. Because part of the show's premise is trying new drinks and giving them a thumbs-up or thumbs-down, I also want to keep a list of these drinks and showcase them both on the individual episodes they're consumed on as well as on an aggregate brews page.
 
-[![Friends with Brews brew list page](../../assets/images/posts/TheBrews-DEEBDE29-AA09-4BE1-89C7-2F3A37F9952A.png)](/images/posts/TheBrews-DEEBDE29-AA09-4BE1-89C7-2F3A37F9952A.png)
+[![Friends with Brews brew list page](../../assets/images/posts/TheBrews-DEEBDE29-AA09-4BE1-89C7-2F3A37F9952A.png)](/images/posts/TheBrews-DEEBDE29-AA09-4BE1-89C7-2F3A37F9952A.webp)
 
 Each of these little detail blocks links to a details page for the specific drink.
 
-[![Drink details page](../../assets/images/posts/BottlePage-5B3808E1-4745-4345-8A39-4A5C9CCA40E0.png)](/images/posts/BottlePage-5B3808E1-4745-4345-8A39-4A5C9CCA40E0.png)
+[![Drink details page](../../assets/images/posts/BottlePage-5B3808E1-4745-4345-8A39-4A5C9CCA40E0.png)](/images/posts/BottlePage-5B3808E1-4745-4345-8A39-4A5C9CCA40E0.webp)
 
 Because several of these images are typically displayed on any given page, or because the image on the individual drink detail pages are dimensionally larger, I want them optimized as much as possible. In addition, I want them to be as responsive as possible for different size screens and different [pixel densities](https://scottwillsey.com/image-rabbit-hole-3/).
 
@@ -89,7 +89,7 @@ const { brew, episode } = Astro.props;
 
 After migrating to Astro 3 and before Astro 3.3 gave the ability to generate multiple widths for each desired image format, I was generating those myself. For my brew images, I was creating 400 pixel wide and 1000 pixel wide images for each drink in addition to the original size. This was all automated with [Retrobatch](https://flyingmeat.com/retrobatch/), but it was still a little more work and management on my part.
 
-[![Retrobatch automated image generation](../../assets/images/posts/FwBRetrobatchOriginal-86FC47FD-4C37-4DD3-A324-7B701A6BAF26.png)](/images/posts/FwBRetrobatchOriginal-86FC47FD-4C37-4DD3-A324-7B701A6BAF26.png)
+[![Retrobatch automated image generation](../../assets/images/posts/FwBRetrobatchOriginal-86FC47FD-4C37-4DD3-A324-7B701A6BAF26.png)](/images/posts/FwBRetrobatchOriginal-86FC47FD-4C37-4DD3-A324-7B701A6BAF26.webp)
 
 In my case, I would generate the 400 and 1000 pixel wide images in webp, and also keep the full-sized png on hand to link to for people who like staring at large images with equally impressive download times.
 
@@ -163,7 +163,7 @@ const { brew, episode } = Astro.props;
 
 Here's the file diff between my Astro 3.0-3.2 version versus my new Astro 3.3+ version:
 
-[![BrewsDetails.astro file diff](../../assets/images/posts/BrewDetailsDiff-A6C47A65-A427-41E9-9680-60634AF6F4B1.png)](/images/posts/BrewDetailsDiff-A6C47A65-A427-41E9-9680-60634AF6F4B1.png)
+[![BrewsDetails.astro file diff](../../assets/images/posts/BrewDetailsDiff-A6C47A65-A427-41E9-9680-60634AF6F4B1.png)](/images/posts/BrewDetailsDiff-A6C47A65-A427-41E9-9680-60634AF6F4B1.webp)
 
 By the way, remind me to talk about [Kaleidoscope](https://kaleidoscope.app) sometime. Its ability to diff things in multiple views, act as the command line difftool, and show diffs between different git commit versions is really spectacular.
 

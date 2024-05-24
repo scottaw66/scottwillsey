@@ -23,15 +23,15 @@ Bridges and hills. Who knew there would be so much geography involved in running
 
 Previously on this incarnation of my website (since converting it to Astro), the site header combined the site title (featuring my weird head) and the menu. The menu was just laid out horizontally and didn't change for smaller screens other than to scale down enough to fit.
 
-[![The old site menu](../../assets/images/posts/MenuOld-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuOld-3E56C990-7E39-4697-A776-5214ED13CCAE.png)
+[![The old site menu](../../assets/images/posts/MenuOld-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuOld-3E56C990-7E39-4697-A776-5214ED13CCAE.webp)
 
 Besides not being very elegant, this menu structure also has the downside of featuring inherent non-expandability. This is a convoluted way of saying there was no way to cram more onto that menu. I knew that at some point I wanted a side menu that would disappear for small screens, but I wasn't sure how it should look and if I really wanted a hamburger menu that would reveal a hidden mobile menu.
 
 Enter [Ben Smith](https://bensmith.sh), whose website I stumbled across somehow, probably in the Astro Discord Showcase channel. I genuinely feel bad about how much I stole his menu ideas, but it looks good and functions even better. Instead of a hamburger menu, Ben chose an approach of having a hamburger menu looking icon next to the site title for small screens, but having it just jump the visitor down to the same menu as on the full-size site, except now located down at the bottom of the page. I loved it. I stole it. I'm sorry and thank you?
 
-[![Side menu in full-size site view](../../assets/images/posts/MenuNew-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuNew-3E56C990-7E39-4697-A776-5214ED13CCAE.png)
+[![Side menu in full-size site view](../../assets/images/posts/MenuNew-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuNew-3E56C990-7E39-4697-A776-5214ED13CCAE.webp)
 
-[![Menu moved to the bottom of the page in responsive mode](../../assets/images/posts/MenuResponsive-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuResponsive-3E56C990-7E39-4697-A776-5214ED13CCAE.png)
+[![Menu moved to the bottom of the page in responsive mode](../../assets/images/posts/MenuResponsive-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuResponsive-3E56C990-7E39-4697-A776-5214ED13CCAE.webp)
 
 Lest the reader think I also stole the icon idea, you can see from the image of the old menu above that I was already using a menu with icons. In fact, way back when my site was written with [Hugo](https://gohugo.io), I had a menu that was nothing BUT icons. I think it's fair to say this isn't a unique idea.
 
