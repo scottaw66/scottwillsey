@@ -45,7 +45,7 @@
     "@iconify-json/ri": "^1.1.20",
     "@iconify-json/simple-icons": "^1.1.102",
     "@iconify-json/uiw": "^1.1.11",
-    "astro": "^4.8.7",
+    "astro": "^4.9.1",
     "astro-expressive-code": "^0.35.3",
     "astro-font": "^0.0.81",
     "astro-icon": "^1.1.0",
