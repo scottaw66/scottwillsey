@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-05-23
+
+Converted the full-sized images that the optimized post images link to from png to webp. Shout out to [Tiffany White](https://www.tiffwhite.me) for noticing some slow-loading gigantic pngs!
+
 ### 2024-04-08
 
 Updated home page so that link posts show a link in front of the title. The post title on the home page still links to the blog post page, and then the title on the blog post page itself links to the external site. Maybe this is confusing, I don't know.
