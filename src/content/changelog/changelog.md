@@ -6,7 +6,7 @@ slug: "changelog"
 ---
 ### 2024-05-23
 
-Converted the full-sized images that the optimized post images link to from png to webp. Shout out to [Tiffany White](https://www.tiffwhite.me) for noticing some slow-loading gigantic pngs!
+Converted the full-sized images that the optimized post images link to from png to jpeg. Shout out to [Tiffany White](https://www.tiffwhite.me) for noticing some slow-loading gigantic pngs!
 
 ### 2024-04-08
 
