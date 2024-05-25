@@ -602,7 +602,7 @@ div.change ol li {
   font-size: 0.9em;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1300px) {
   article img {
     display: flex;
     justify-content: center;

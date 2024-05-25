@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-05-25
+
+Removed Fathom analytics, not because they were bad, but just because I wanted to quit paying for them. Also fixed a really dumb image overflow issue.
+
 ### 2024-05-23
 
 Converted the full-sized images that the optimized post images link to from png to jpeg. Shout out to [Tiffany White](https://www.tiffwhite.me) for noticing some slow-loading gigantic pngs!
