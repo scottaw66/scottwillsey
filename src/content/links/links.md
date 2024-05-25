@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-22T09:12:28-08:00"
+date: "2024-05-25T16:29:25-08:00"
 slug: "links"
 ---
 
@@ -170,6 +170,9 @@ I mean, it's John Siracusa.
 
 **[I Build Things — Chris McLeod](https://chrismcleod.dev/)**  
 I love the design of this site. Wow!  
+
+**[Blog | Kev Quirk](https://kevquirk.com/)**  
+Another example of a blog that's well worth reading already, but then also has this design it's fantastic.
 
 **[kottke.org - home of fine hypertext products](https://kottke.org/)**  
 I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!!  
@@ -340,14 +343,15 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [CSS Zen Garden](https://csszengarden.com)
 - [Game Dad Club](https://gamedad.club/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
+- [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
-- [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
-- [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [Lex.Games](https://lex.games)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
+- [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
+- [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)

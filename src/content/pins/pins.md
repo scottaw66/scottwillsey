@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-05-22T09:12:28-08:00"
+date: "2024-05-25T16:29:25-08:00"
 slug: "pins"
 ---
 
@@ -37,6 +37,7 @@ slug: "pins"
 - [Getting Started – Anybox](https://anybox.app/getting-started)
 - [Hazel Overview – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Help – Hookmark](https://hookproductivity.com/help/)
+- [Play Help](https://marcosatanaka.com/support/play/play-help.html)
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
