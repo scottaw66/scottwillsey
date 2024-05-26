@@ -24,8 +24,10 @@ let description = links.data.description;
         >
       </time>
     </div>
-    <div class="now">
+    <div>
       <Spotlight />
+    </div>
+    <div class="now">
       <Content />
     </div>
     <div class="pins">
@@ -48,6 +50,11 @@ let description = links.data.description;
   [data-icon="bi:calendar2-week-fill"] {
     font-size: 0.75rem;
     margin-bottom: -0.05rem;
+  }
+  div.now {
+    background-color: var(--post-bg);
+    padding: 0.1rem 1.5rem;
+    border-radius: 0.5rem;
   }
   div.pins {
     margin: 8rem auto 0;

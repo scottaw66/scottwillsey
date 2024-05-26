@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-05-26
+
+Wildly overhauls dark theme.
+
 ### 2024-05-25
 
 Removed Fathom analytics, not because they were bad, but just because I wanted to quit paying for them. Also fixed a really dumb image overflow issue.

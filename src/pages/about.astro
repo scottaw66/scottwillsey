@@ -2,7 +2,6 @@
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
-import Timemachine from "../components/icons/TimeMachine.astro";
 import site from "../data/site.json";
 import av from "../assets/images/ScottLatest.jpg";
 
@@ -88,7 +87,9 @@ let description = "About Scott Willsey";
         <Icon name="simple-icons:threads" /> Threads</a
       >.
     </p>
-    <a href="/changelog"><Timemachine cssClass="secret-link-icon" /></a>
+    <div class="changelog">
+      <a href="/changelog/"><Icon name="ic:outline-history" /></a>
+    </div>
   </article>
 </Base>
 <style>
@@ -107,11 +108,17 @@ let description = "About Scott Willsey";
   p:last-of-type {
     font-style: italic;
   }
+  div.changelog {
+    margin: 8rem auto 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
   [data-icon] {
     font-size: 1.333rem;
     margin-bottom: -0.2rem;
   }
-  [data-icon="ic:baseline-add-location"] {
+  [data-icon="ic:outline-history"] {
     color: var(--accent1);
     font-size: 2.5rem;
   }
