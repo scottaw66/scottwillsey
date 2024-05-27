@@ -326,6 +326,7 @@ html {
   html {
     scroll-behavior: smooth;
     scroll-padding-top: 3rem;
+    min-height: 100vh;
   }
 }
 
@@ -351,8 +352,8 @@ body {
   font-style: normal;
   font-size: 1.25rem;
   line-height: 1.5;
-  background-color: var(--surface1);
   background: var(--background);
+  background-color: var(--surface1);
   /*   background-size: 96em auto;
   background-position: center;
   background-repeat: repeat-x; */
