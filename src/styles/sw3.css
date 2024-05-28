@@ -374,7 +374,7 @@ div#wrapper-grid {
   max-width: 100ch;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: min-content 72ch;
+  grid-template-columns: min-content 85ch;
   column-gap: 3rem;
   justify-content: center;
 }

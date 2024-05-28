@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-05-27
+
+New light theme and wider body on large viewports.
+
 ### 2024-05-26
 
 Wildly overhauls dark theme.
