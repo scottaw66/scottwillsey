@@ -1,20 +1,26 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #017bee;
-  --title-light: #222222;
-  --hyperlink-light: #017bee;
+  --brand-light: #003f97;
+  --title-light: #1e47db;
+  --hyperlink-light: #0037ff;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
-  --surface-menu-light: #feffff;
+  --surface-menu-light: #cbebff;
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: #f6f6f6;
+  --surface1-light: rgb(204, 248, 255);
   --background-light: var(--surface1-light);
+  --background-light: linear-gradient(
+    180deg,
+    rgba(204, 248, 255, 1) 0%,
+    rgba(201, 212, 255, 1) 74%,
+    rgba(255, 255, 255, 1) 100%
+  );
   --language-id-light: rgb(88, 243, 88);
-  --accent1-light: #6c6666;
+  --accent1-light: #7815a0;
   --accent2-light: #66800c;
   --accent3-light: #bf61ff;
   --accent4-light: rgb(255, 234, 175);
