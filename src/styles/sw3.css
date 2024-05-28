@@ -35,7 +35,8 @@ html {
 
   /* --brand-dark: #009dff; */
   /* --brand-dark: #f8b537; */
-  --brand-dark: #ffcceb;
+  /* --brand-dark: #ffcceb; */
+  --brand-dark: rgb(249, 215, 122);
   --title-dark: var(--hyperlink-dark);
   /* --hyperlink-dark: #58cce7; */
   --hyperlink-dark: #00a0ff;

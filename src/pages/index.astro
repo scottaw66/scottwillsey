@@ -49,7 +49,9 @@ let description = site.description;
   <article>
     <span data-pagefind-ignore>
       <h1>
-        <Icon name="mdi:book-edit-outline" /><a href="/1">Latest Posts</a>
+        <Icon name="mdi:book-edit-outline" /><a href="/1"
+          ><span class="posts-title">Latest Posts</span></a
+        >
       </h1>
       <section class="blog-post-list" aria-label="Blog post list">
         {
@@ -109,6 +111,9 @@ let description = site.description;
   div.search {
     margin: 3rem auto;
   }
+  span.posts-title {
+    color: var(--hyperlink);
+  }
   [data-icon="openmoji:label"] {
     font-size: 1.25em;
     margin-bottom: -0.3em;
@@ -147,7 +152,8 @@ let description = site.description;
   }
   [data-icon="mdi:book-edit-outline"] {
     font-size: 1em;
-    margin: 0 0.25em -0.175em 0;
+    margin: 0 0.25em -0.075em 0;
+    color: var(--hyperlink);
   }
   [data-icon="ep:copy-document"] {
     font-size: 2rem;
