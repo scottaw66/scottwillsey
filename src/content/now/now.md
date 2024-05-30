@@ -1,15 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-05-27T21:35:25-08:00"
+date: "2024-05-30T11:52:48-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [ATP 588: Sync Up Your Cycle — Accidental Tech Podcast](https://atp.fm/588)
-- [And Colossally That's History! James Hunt and Hesketh: The serious racers behind the playboy image](https://www.nytimes.com/athletic/podcast/292-and-colossally-thats-history/episode-10/)
-- [Episode 361: Just Us – Mac Admins Podcast](https://podcast.macadmins.org/2024/04/28/episode-361-just-us/)
+- [The 404 Media Podcast: Google Somehow Got Even More Shit on Apple Podcasts](https://podcasts.apple.com/us/podcast/google-somehow-got-even-more-shit/id1703615331?i=1000657165033)
 
 ### Books
 
@@ -24,8 +22,8 @@ slug: "now"
 
 ### Food and Drink
 
+- [ABV Public House Locally-Raised “Mason Hill Farms” Wagyu Smash Burger](https://abvpub.com/mainmenu) *What a tender and juicy one this was! Unexpected and much enjoyed.*  
 - [Decaf Colombia Amigos del Huila – Dapper & Wise](https://dapperandwise.com/collections/coffee/products/decaf-rwanda-baho?variant=44503883252021) *It's a quite good decaf. I think I've been lucky with decafs, there hasn't been one I've tried and not liked so far.*
-- [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/) *Went here again with the work gang not too long ago. It's so amazing. Just go.*
 
 ### Projects
 

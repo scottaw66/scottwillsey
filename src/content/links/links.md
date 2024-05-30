@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-25T16:29:25-08:00"
+date: "2024-05-30T11:52:48-08:00"
 slug: "links"
 ---
 
@@ -14,6 +14,7 @@ slug: "links"
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
+- [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 
 ## Apple
 
@@ -338,6 +339,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Cool Sites Archive
 
+- [&udm=14 | the disenshittification Konami code](https://udm14.com/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [CSS Zen Garden](https://csszengarden.com)
@@ -434,6 +436,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
+- [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 - [UTM | Virtual machines for Mac](https://mac.getutm.app/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)

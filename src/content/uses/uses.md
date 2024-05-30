@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-05-23T22:36:27-08:00"
+date: "2024-05-30T11:52:48-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -21,6 +21,7 @@ slug: "uses"
 ### Automation and Utilities
 
 - [BetterTouchTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/)
+- [CleanShot X for Mac](https://cleanshot.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
 - [Raycast](https://raycast.com/)
@@ -55,12 +56,14 @@ slug: "uses"
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
+- [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 
 ### Programming, Log Analysis, Text Filtering
 
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+- [Xcode 15 - Apple Developer](https://developer.apple.com/xcode/)
 
 ### Reading
 
