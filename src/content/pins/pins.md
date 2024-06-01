@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-05-25T16:29:25-08:00"
+date: "2024-06-01T11:20:42-08:00"
 slug: "pins"
 ---
 
@@ -26,6 +26,11 @@ slug: "pins"
 
 - [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
+
+## Eleventy
+
+- [Calling all courageous canary testers for Eleventy v3.0 — Eleventy](https://www.11ty.dev/blog/canary-eleventy-v3/)
+- [Eleventy 3.0.0 Milestone](https://github.com/11ty/eleventy/milestone/40?closed=1)
 
 ## HomeKit
 

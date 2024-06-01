@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-05-30T11:52:48-08:00"
+date: "2024-06-01T11:20:42-08:00"
 slug: "links"
 ---
 
@@ -360,6 +360,11 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Song a Day World](https://songaday.world)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
+
+## Eleventy
+
+- [Calling all courageous canary testers for Eleventy v3.0 — Eleventy](https://www.11ty.dev/blog/canary-eleventy-v3/)
+- [Eleventy 3.0.0 Milestone](https://github.com/11ty/eleventy/milestone/40?closed=1)
 
 ## FOOD
 
