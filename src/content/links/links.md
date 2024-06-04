@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-01T11:20:42-08:00"
+date: "2024-06-04T10:10:30-08:00"
 slug: "links"
 ---
 
@@ -46,6 +46,7 @@ slug: "links"
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
+- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
@@ -54,13 +55,16 @@ slug: "links"
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
+- [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
 ## Astro
 
+- [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
 - [Create a dev toolbar app | Docs](https://docs.astro.build/en/recipes/making-toolbar-apps/)
 - [Dev Toolbar | Docs](https://docs.astro.build/en/guides/dev-toolbar/)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
+- [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 
 ## Beer
 
@@ -358,6 +362,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)
 - [Song a Day World](https://songaday.world)
+- [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 
@@ -422,6 +427,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
 - [The low-tech guys](https://lowtechguys.com/)
+- [A launchd Tutorial](https://www.launchd.info/)
 - [Lunar - The defacto app for controlling monitor brightness](https://lunar.fyi/?source=lowtechguys)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)

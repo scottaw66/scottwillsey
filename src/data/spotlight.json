@@ -1,6 +1,6 @@
 {
-  "Site": "https://uses.tech",
-  "Title": "/uses",
-  "Description": "A list of /uses pages detailing developer setups, gear, software and configs. I think /uses pages are fun, and so should you!",
-  "Image": "UsesDotTech-C989DDB4-6904-43EF-884B-70CE7CC1AE3D"
+  "Site": "https://aem1k.com/qlock/",
+  "Title": "Qlock - A JavaScript Quine Clock",
+  "Description": "Displays the current time in a seven-segment style, embedded within its own JavaScript source code. (321 bytes)",
+  "Image": "QClock-F41FCC97-3B8A-44CC-A833-3C9523B97D04"
 }
