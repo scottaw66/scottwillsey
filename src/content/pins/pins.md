@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-06-04T10:10:30-08:00"
+date: "2024-06-05T16:55:15-08:00"
 slug: "pins"
 ---
 
@@ -19,6 +19,7 @@ slug: "pins"
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
 - [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
 - [How to use Git Hooks to set Created and Modified Dates | AstroPaper](https://astro-paper.pages.dev/posts/setting-dates-via-git-hooks/)
+- [Pages | Starlight](https://starlight.astro.build/guides/pages/#custom-pages)
 - [rishi-raj-jain/astro-font: `astro-font` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.](https://github.com/rishi-raj-jain/astro-font)
 - [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
 - [Using environment variables | Docs](https://docs.astro.build/en/guides/environment-variables/)

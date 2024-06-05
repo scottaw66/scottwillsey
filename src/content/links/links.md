@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-04T10:10:30-08:00"
+date: "2024-06-05T16:55:15-08:00"
 slug: "links"
 ---
 
@@ -409,6 +409,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Advanced use cases | 1Password Developer](https://developer.1password.com/docs/ssh/agent/advanced/#ssh-server-six-key-limit)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
+- [Apparency | Mothers Ruin Software](https://www.mothersruin.com/software/Apparency/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
 - [Bear](https://bear.app/)
@@ -418,11 +419,14 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
 - [Fastmarks for macOS – retina studio](https://retina.studio/fastmarks/)
+- [Find Any File](https://findanyfile.app/)
+- [Floating Menu & Desktop Widgets · GitBook · Better Touch Tool](https://docs.folivora.ai/docs/1600_floating_menus.html)
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
 - [GoodLinks — Save. Read. Anywhere.](https://goodlinks.app/)
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
 - [Hookmark – Links beat searching](https://hookproductivity.com/)
+- [How to fix Mac menu bar icons hidden by the MacBook notch · Jesse Squires](https://www.jessesquires.com/blog/2023/12/16/macbook-notch-and-menu-bar-fixes/)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)

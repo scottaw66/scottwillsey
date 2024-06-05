@@ -11,11 +11,11 @@ After seeing how great all that extra space on the PC was for remoting into serv
 
 System Settings has a Displays section that, among other things, shows you your resolution as 5 buttons labeled “Larger Text” on the low resolution side of things, through “Default” for 2560 x 1440, up to “More Space” for the (apparently) highest resolution.
 
-[![macOS Screen Resolution Buttons](../../assets/images/posts/MacScreenResButtons-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.png)](/images/posts/MacScreenResButtons-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.png)
+[![macOS Screen Resolution Buttons](../../assets/images/posts/MacScreenResButtons-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.png)](/images/posts/MacScreenResButtons-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.jpg)
 
 The thing is, this isn’t actually the highest resolution. If you click the “Advanced” button on this screen and choose to display resolutions as a list, you see that “More Space” sets the monitor to 3200 x 1800, and that there’s another option for 5120 x 2880.
 
-[![macOS Screen Resolution List](../../assets/images/posts/MacScreenResList-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.png)](/images/posts/MacScreenResList-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.png)
+[![macOS Screen Resolution List](../../assets/images/posts/MacScreenResList-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.png)](/images/posts/MacScreenResList-D89AADE3-BB7F-4CAA-9B6B-65AAD7096FBF.jpg)
 
 Here’s my gripe with macOS though – remember that “Larger Text” setting? That’s because Apple’s basic way of noticeably changing text size is changing monitor resolution. Which… is stupid. Screen resolution should be used to change how much you can see on screen at once, not to directly correlate that to text size. Yes, there will be some correlation, but Apple’s kind of making it 1:1 instead of allowing it to be a loose, more flexible relationship.
 

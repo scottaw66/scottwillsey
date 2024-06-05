@@ -561,6 +561,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"raycast-ai-not-sherlocked.md": {
+	id: "raycast-ai-not-sherlocked.md";
+  slug: "raycast-ai-not-sherlocked";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "raycast-clipboard-history.md": {
 	id: "raycast-clipboard-history.md";
   slug: "raycast-clipboard-history";
