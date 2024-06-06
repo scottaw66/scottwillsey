@@ -10,7 +10,7 @@ slug: "raycast-ai-not-sherlocked"
 ---
 I’ve finally had a chance to play with the ChatGPT macOS app[^1] and I’m here to say it doesn’t swing the uppercut required to get me to stop paying for Raycast Advanced AI. Right now the one thing it has that Raycast AI does not is the ability to upload files for parsing, but that’s coming soon to Raycast AI. Raycast also keeps playing with ideas like support for local LLMs to augment their Advanced AI plan support for models like OpenAI GPT-4o, Anthropic Claude 3 Sonnet and Opus, and Perplexity Llama 3 Sonar Large.
 
-[![Raycast local LLM prototype demo](../../assets/images/posts/RaycastLocalLLMdemo-10246C10-4291-4A0E-80C0-1A4BAF52F590.png)](/images/posts/RaycastLocalLLMdemo-10246C10-4291-4A0E-80C0-1A4BAF52F590.jpg)
+[![Raycast local LLM prototype demo](../../assets/images/posts/RaycastLocalLLMdemo-A7610198-352C-40CD-BF2A-9B2C363D6736.png)](/images/posts/RaycastLocalLLMdemo-A7610198-352C-40CD-BF2A-9B2C363D6736.jpg)
 
 Add to that things like [Raycast AI Commands](￼), which [I posted about previously](￼), and Raycast AI is still a very attractive option for integrating AI into workflows where it makes sense to do so. I feel like I have to add that caveat given that a lot of people want to dismiss the whole thing out of hand as some kind of scam. It’s not – but that doesn’t mean LLMs are applied optimally in a lot of cases and it doesn’t mean I trust the companies involved to take time to come up with correct and optimum use cases.[^2]
 
