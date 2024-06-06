@@ -12,9 +12,9 @@ I’ve finally had a chance to play with the ChatGPT macOS app[^1] and I’m her
 
 [![Raycast local LLM prototype demo](../../assets/images/posts/RaycastLocalLLMdemo-A7610198-352C-40CD-BF2A-9B2C363D6736.png)](/images/posts/RaycastLocalLLMdemo-A7610198-352C-40CD-BF2A-9B2C363D6736.jpg)
 
-Add to that things like [Raycast AI Commands](￼), which [I posted about previously](￼), and Raycast AI is still a very attractive option for integrating AI into workflows where it makes sense to do so. I feel like I have to add that caveat given that a lot of people want to dismiss the whole thing out of hand as some kind of scam. It’s not – but that doesn’t mean LLMs are applied optimally in a lot of cases and it doesn’t mean I trust the companies involved to take time to come up with correct and optimum use cases.[^2]
+Add to that things like [Raycast AI Commands](https://scottwillsey.com/raycast-ai-commands/), which [I posted about previously](https://scottwillsey.com/raycast-ai-commands/), and Raycast AI is still a very attractive option for integrating AI into workflows where it makes sense to do so. I feel like I have to add that caveat given that a lot of people want to dismiss the whole thing out of hand as some kind of scam. It’s not – but that doesn’t mean LLMs are applied optimally in a lot of cases and it doesn’t mean I trust the companies involved to take time to come up with correct and optimum use cases.[^2]
 
-Slight tangent – I think I view Raycast AI Commands as similar in purpose to things like [Fabric](￼) and [GPTScript](￼), even if different in scope and flexibility, possibly. Definitely more on that as I find time to investigate all of these further.
+Slight tangent – I think I view Raycast AI Commands as similar in purpose to things like [Fabric](https://github.com/danielmiessler/fabric) and [GPTScript](https://github.com/gptscript-ai/gptscript), even if different in scope and flexibility, possibly. Definitely more on that as I find time to investigate all of these further.
 
 [^1]: ChatGPT Plus subscription required
-[^2]: By the way, keep an eye on [Pragmatic](￼) podcast for an upcoming episode on this very topic.
+[^2]: By the way, keep an eye on [Pragmatic](https://engineered.network/pragmatic/) podcast for an upcoming episode on this very topic.
