@@ -1,12 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-05-30T11:52:48-08:00"
+date: "2024-06-05T21:23:26-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
+- [The Latest from NPC: Next Portable Console and AppStories - MacStories](https://www.macstories.net/news/the-latest-from-npc-next-portable-console-and-appstories/)
 - [The 404 Media Podcast: Google Somehow Got Even More Shit on Apple Podcasts](https://podcasts.apple.com/us/podcast/google-somehow-got-even-more-shit/id1703615331?i=1000657165033)
 
 ### Books
@@ -17,7 +18,7 @@ slug: "now"
 
 ### Movies and TV
 
-- [Mad Max: Fury Road](https://www.warnerbros.com/movies/mad-max-fury-road) *Started watching this while it was available "free" on Apple TV+ and then it was removed again before I finished. Dammit. I will finish this.*
+- [Mad Max: Fury Road](https://www.warnerbros.com/movies/mad-max-fury-road) *I think this is easily the best of the series. What a great movie. I know Tom Hardy caused issues for Charlize Theron and he wasn't the highlight of the movie, but still overall I think it was super strong. Charlize was great, btw.*
 - [Dark Matter](https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg) *It started pretty well, but it's starting to draaaaaaaaaaaggggggggg just a little bit.*
 
 ### Food and Drink
