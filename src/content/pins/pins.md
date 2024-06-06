@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-06-05T16:55:15-08:00"
+date: "2024-06-06T14:03:54-08:00"
 slug: "pins"
 ---
 
@@ -13,6 +13,7 @@ slug: "pins"
 
 ## Astro
 
+- [Astro 4.10 | Astro](https://astro.build/blog/astro-4100/)
 - [Astro 4.3 | Astro](https://astro.build/blog/astro-430/)
 - [Astro 4.8 | Astro](https://astro.build/blog/astro-480/)
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)

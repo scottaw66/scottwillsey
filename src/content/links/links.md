@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-05T16:55:15-08:00"
+date: "2024-06-06T14:03:54-08:00"
 slug: "links"
 ---
 
@@ -289,6 +289,9 @@ This is another one where the design immediately hooked me. Sara's site has it i
 
 **[You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)**  
 The blog is currently a lot about web programming, but there's all kinds of other stuff on this site too, and I really love the unique design.  
+
+**[Your Intermittent Lex](https://lexfriedman.com/newsletter/)**  
+Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](https://lex.games/)!  
 
 **[四畳半のへや](https://blog.moeyua.com/)**  
 The title of this blog means four and a half tatami mats, which is a small room size in Japan. The site is bilingual, so if you're like me and you can read some Japanese very slowly, you'll love this site based on the topics AND the experience. Oh, and it looks beautiful.  
