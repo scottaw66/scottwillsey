@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-06-06T14:03:54-08:00"
+date: "2024-06-08T15:49:32-08:00"
 slug: "pins"
 ---
 
@@ -10,6 +10,7 @@ slug: "pins"
 ## AI
 
 - [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
+- [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 
 ## Astro
 
@@ -94,6 +95,7 @@ slug: "pins"
 - [natemoo-re/clack: Effortlessly build beautiful command-line apps](https://github.com/natemoo-re/clack)
 - [Create a SoundCloud audio player with Wavesurfer.js - Hassan Corrigan](https://hassancorrigan.com/blog/create-a-soundcloud-audio-player-with-wavesurfer-js/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
+- [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
 - [Flexoki — Steph Ango](https://stephango.com/flexoki)
 - [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 - [Hashing](https://samwho.dev/hashing/)
@@ -103,8 +105,10 @@ slug: "pins"
 - [Hypermedia Systems](https://hypermedia.systems/)
 - [hugo-modules/responsive-images at main · UtkarshVerma/hugo-modules](https://github.com/UtkarshVerma/hugo-modules/tree/main/responsive-images)
 - [IndieWeb](https://indieweb.org/)
+- ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [Installing Expressive Code | Expressive Code](https://expressive-code.com/installation/)
 - [Internet Computer](https://internetcomputer.org/)
+- [On popover accessibility: what the browser does and doesn’t do | hidde.blog](https://hidde.blog/popover-accessibility/)
 - [Personal — The Valley of Code](https://thevalleyofcode.com/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
