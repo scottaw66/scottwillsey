@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-06-08T15:49:32-08:00"
+date: "2024-06-12T15:51:04-08:00"
 slug: "pins"
 ---
 
@@ -42,6 +42,8 @@ slug: "pins"
 
 ## Mac
 
+- [Bartender controversy, tutorial on how to manage menubar status items via BTT - Tutorials - BetterTouchTool Community](https://community.folivora.ai/t/bartender-controversy-tutorial-on-how-to-manage-menubar-status-items-via-btt/37429)
+- [Extending Finder Context Menu · Better Touch Tool · GitBook](https://docs.folivora.ai/docs/6b_finder_context_menu.html)
 - [Game Porting Toolkit - Gaming on M1 Apple silicon Macs and MacBooks, bugs, fixes, compatiblity and troubleshooting guides - AppleGamingWiki](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit)
 - [Getting Started – Anybox](https://anybox.app/getting-started)
 - [Hazel Overview – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
@@ -86,6 +88,7 @@ slug: "pins"
 
 - [Get Xcode Previews Working](https://letters.asereno.com/xcode-previews/)
 - [Workaround: Swift scripts importing Cocoa frameworks broken on macOS 14 · Jesse Squires](https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/)
+- [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
 
 ## Web Development
 
