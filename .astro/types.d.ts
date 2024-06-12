@@ -309,6 +309,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"cleanshotx-text-recog.md": {
+	id: "cleanshotx-text-recog.md";
+  slug: "cleanshotx-text-recog";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "cool-site-spotlight.md": {
 	id: "cool-site-spotlight.md";
   slug: "cool-site-spotlight";
