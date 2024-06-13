@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-12T19:45:49-08:00"
+date: "2024-06-12T20:56:51-08:00"
 slug: "links"
 ---
 
@@ -422,7 +422,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Apparency | Mothers Ruin Software](https://www.mothersruin.com/software/Apparency/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
-- [Bartender controversy, tutorial on how to manage menubar status items via BTT - Tutorials - BetterTouchTool Community](<https://community.folivora.ai/t/>
+- [Bartender controversy, tutorial on how to manage menubar status items via BTT - Tutorials - BetterTouchTool Community](https://community.folivora.ai/t/bartender-controversy-tutorial-on-how-to-manage-menubar-status-items-via-btt/37429)
 - [Bear](https://bear.app/)
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [CleanShot X for Mac](https://cleanshot.com/)
