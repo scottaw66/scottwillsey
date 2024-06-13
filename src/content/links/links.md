@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-12T15:51:04-08:00"
+date: "2024-06-12T19:45:49-08:00"
 slug: "links"
 ---
 
@@ -369,6 +369,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)
+- [The Scroll Art Museum](https://scrollart.org/)
 - [Song a Day World](https://songaday.world)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
