@@ -1,12 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-06-12T19:45:49-08:00"
+date: "2024-06-14T09:49:22-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
+- [The Talk Show ✪: Ep. 402: Live From WWDC 2024](https://daringfireball.net/thetalkshow/2024/06/11/ep-402)
 - [ATP Interview: Holly Borla & Ben Cohen — Accidental Tech Podcast](https://atp.fm/atp-interview-holly-borla-ben-cohen)
 - [Upgrade #516: I'm Suppressing My Feelings - Relay FM](https://www.relay.fm/upgrade/516)
 
