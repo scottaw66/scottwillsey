@@ -16,6 +16,6 @@ It's true, this is a great feature. It's a little counterintuitive to get it to 
 
 Here's the result.
 
-[![CleanShot X Scrolling Screenshot Example](../../assets/images/posts/CleanShotXScrollingScreenshotExample-1AEE3579-B206-4C43-93E0-B91C5700F3DF.png)](/images/posts/CleanShotXScrollingScreenshotExample-1AEE3579-B206-4C43-93E0-B91C5700F3DF.jpg)
+[![Pro Publica Screenshot](../../assets/images/posts/ProPublicaScreenShot-DC3CACBA-3091-4342-814C-FE15AAA272D8.png)](/images/posts/ProPublicaScreenShot-DC3CACBA-3091-4342-814C-FE15AAA272D8.jpg)
 
-It looks a little funny because I have a site menu that doesn't disappear up the page as it scrolls, so it looks long and repetitive. The scrollbar on the right has similar issues, but overall, it's a great feature that's useful if you have a need to document a long document of any kind.
+I originally put a screenshot of my own site's home page here, but It looks a little funny because I have a site menu that doesn't disappear up the page as it scrolls, so the menu looks long and repetitive in a way that it isn’t. Page scrollbars have similar issues, but overall, it's a great feature that's useful if you have a need to document a long document of any kind.

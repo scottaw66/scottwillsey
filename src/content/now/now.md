@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-06-14T09:49:22-08:00"
+date: "2024-06-15T09:47:04-08:00"
 slug: "now"
 ---
 
@@ -10,6 +10,17 @@ slug: "now"
 - [The Talk Show ✪: Ep. 402: Live From WWDC 2024](https://daringfireball.net/thetalkshow/2024/06/11/ep-402)
 - [ATP Interview: Holly Borla & Ben Cohen — Accidental Tech Podcast](https://atp.fm/atp-interview-holly-borla-ben-cohen)
 - [Upgrade #516: I'm Suppressing My Feelings - Relay FM](https://www.relay.fm/upgrade/516)
+
+### YouTube
+
+Hey look, a YouTube section! I do use YouTube a lot to catch up on tech information or just to watch all the things people did wrong on Mt Everest right before they died, but YouTube is such a click-bait generator that it does require some care and ignoring 99% of what YouTube recommends.
+
+- [The Talk Show Live From WWDC 2024 - YouTube](https://www.youtube.com/watch?v=J7al_Gpolb8&t=4415s)
+- [How Sicario Fools its Audience - YouTube](https://www.youtube.com/watch?v=_kOfDh5zF4c)
+- [Apple's Most Jam-Packed Keynote Ever! - YouTube](https://www.youtube.com/watch?v=C0Yu-hkk1c8&t=1020s)
+- [What next for Daniel Ricciardo after Red Bull F1 rejection - YouTube](https://www.youtube.com/watch?v=tnvIm6MGGWs)
+- [Martin Brundle’s Most Terrifying Racing Moment | BRUNDLE: behind the wheel - YouTube](https://www.youtube.com/watch?v=L28fk8ifiYs)
+- [Astro Actions: the missing server action library - YouTube](https://www.youtube.com/watch?v=VkYQMhit_04)
 
 ### Books
 
