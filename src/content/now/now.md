@@ -1,15 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-06-15T09:47:04-08:00"
+date: "2024-06-16T16:35:35-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
+- [Flashcast 14: WWDC 2024 Live – Mac Admins Podcast](https://podcast.macadmins.org/2024/06/14/flashcast-14-wwdc-2024-live/)
 - [The Talk Show ✪: Ep. 402: Live From WWDC 2024](https://daringfireball.net/thetalkshow/2024/06/11/ep-402)
 - [ATP Interview: Holly Borla & Ben Cohen — Accidental Tech Podcast](https://atp.fm/atp-interview-holly-borla-ben-cohen)
-- [Upgrade #516: I'm Suppressing My Feelings - Relay FM](https://www.relay.fm/upgrade/516)
 
 ### YouTube
 
@@ -34,6 +34,7 @@ I don't have a lot of time for reading these days, and usually by the time I get
 
 ### Movies and TV
 
+- [The Town](https://www.themoviedb.org/movie/23168) *Greatest movie ever? Most definitely not. But I did enjoy it at 1 am after a week of work.*
 - [Dark Matter](https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg) *Still watching. Still feels like they don't know how to make a compelling series last for however many episodes they have planned. LOTS of navel gazing and exposition, and I'm not necessarily opposed to focus on characters and story, but it's gotta be compelling.*
 
 ### Food and Drink

@@ -42,7 +42,7 @@
     "@iconify-json/octicon": "^1.1.54",
     "@iconify-json/openmoji": "^1.1.51",
     "@iconify-json/ph": "^1.1.13",
-    "@iconify-json/ri": "^1.1.20",
+    "@iconify-json/ri": "^1.1.21",
     "@iconify-json/simple-icons": "^1.1.105",
     "@iconify-json/uiw": "^1.1.11",
     "astro": "^4.10.2",
@@ -58,7 +58,7 @@
     "sanitize-html": "^2.13.0"
   },
   "devDependencies": {
-    "eslint": "^9.4.0",
+    "eslint": "^9.5.0",
     "eslint-plugin-astro": "^1.2.2",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.0"
