@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-16T16:35:35-08:00"
+date: "2024-06-16T16:57:45-08:00"
 slug: "links"
 ---
 
@@ -12,6 +12,7 @@ slug: "links"
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
+- [MacGPT - ChatGPT in your menubar](https://www.macgpt.com/)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
@@ -322,6 +323,8 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Coffee
 
+- [Alma Coffee ™ | Farmer Owned, Always Freshly Roasted](https://myalmacoffee.com/)
+- [Atomic Coffee Roasters](https://atomicroastery.com/)
 - [Backporch Coffee Roasters](https://www.backporchcoffeeroasters.com/)
 - [Caffe Vita Roasting Co. – Caffe Vita Coffee Roasting Co.](https://www.caffevita.com/)
 - [Café Mam – Organic Fair Trade Shade-Grown Coffee](https://cafemam.com/)
@@ -394,10 +397,12 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [BroderPDX | Valkommen](https://www.broderpdx.com/)
 - [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
 - [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/)
+- [ramen-ryoma](https://www.ramenryoma.net/)
 - [Salt & Straw | Craft Made, Curiously Delicious Ice Cream](https://saltandstraw.com/)
 - [Syun Izakaya](https://www.syunhillsboro.com/)
-- [Toki Restaurant](https://www.tokipdx.com/)
 - [Tanaka](https://tanakakatsusando.com/)
+- [Toki Restaurant](https://www.tokipdx.com/)
+- [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
 
 ## Japan & Japanese Language
 
@@ -456,7 +461,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
-- [MindMac — Elegant and Fullfil ChatGPT Client for macOS](https://mindmac.app/)
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
@@ -564,6 +568,11 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 - [EchoFeed](https://echofeed.app/)
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
+
+## Tea
+
+- [Kagoshima Tea - Japanese Green Tea - Loose / 1 lb. Bag - Harney & Sons Fine Teas](https://www.harney.com/products/kagoshima?variant=29491943302)
+- [Matcha Toasted Rice – Numi Tea](https://numitea.com/products/matcha-toasted-rice)
 
 ## It's All About Me
 
