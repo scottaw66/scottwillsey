@@ -526,6 +526,15 @@ blockquote p {
   display: inline;
 }
 
+blockquote.text-post-media {
+  margin: auto;
+  display: block;
+}
+
+div.threads-post {
+  text-align: center;
+}
+
 .update {
   padding: 0.5em 1em;
 }
