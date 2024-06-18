@@ -17,4 +17,4 @@ Interesting question. I guess the approach would be to first use `pre-commit` to
 
 There is a [serialize function](https://docs.astro.build/en/guides/integrations-guide/sitemap/#serialize) in Astro Sitemap and it looks like it happens on build when writing out the sitemap. If this is true, so long as you do your git commit before you do your build, it should update the pages with the correct last modified dates.
 
-Now I’m going to have to play with Astro SiteMap and find out!
+Now I’m going to have to play with Astro Sitemap and find out!
