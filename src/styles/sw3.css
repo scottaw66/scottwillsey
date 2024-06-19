@@ -2,23 +2,23 @@
 
 html {
   --brand-light: #003f97;
-  --title-light: #1e47db;
-  --hyperlink-light: #0037ff;
+  --title-light: #0126ac;
+  --hyperlink-light: #0028b9;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
-  --surface-menu-light: #cbebff;
+  --surface-menu-light: #c7e8fc;
   --post-bg-light: var(--surface-menu-light);
   --surface1-light: rgb(204, 248, 255);
-  --background-light: var(--surface1-light);
-  --background-light: linear-gradient(
+  --background-light: rgb(228, 248, 251);
+  /* --background-light: linear-gradient(
     180deg,
     rgba(204, 248, 255, 1) 0%,
     rgba(201, 212, 255, 1) 74%,
     rgba(255, 255, 255, 1) 100%
-  );
+  ); */
   --language-id-light: rgb(88, 243, 88);
   --accent1-light: #7815a0;
   --accent2-light: #66800c;
@@ -50,12 +50,13 @@ html {
   /* --surface1-dark: rgb(0, 0, 16); */
   /* --surface1-dark: rgba(16, 28, 42, 1.0); */
   --surface1-dark: rgb(2, 0, 36);
-  --background-dark: linear-gradient(
+  --background-dark: rgb(2, 0, 40);
+  /* --background-dark: linear-gradient(
     180deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(9, 9, 121, 1) 54%,
     rgba(17, 76, 230, 1) 100%
-  );
+  ); */
   --surface-menu-dark: #080663;
   --post-bg-dark: var(--surface-menu-dark);
   --scroll-dark: #002338;
@@ -159,8 +160,8 @@ html {
   --footnote-bubble: var(--footnote-bubble-light);
 
   --surface1: var(--surface1-light);
-  --background: var(--background-light);
   --surface-menu: var(--surface-menu-light);
+  --background: var(--background-light);
   --post-bg: var(--post-bg-light);
   --scroll: var(--scroll-light);
 
@@ -202,7 +203,6 @@ html {
   --footnote-bubble: var(--footnote-bubble-dark);
 
   --surface1: var(--surface1-dark);
-  --background: var(--background-dark);
   --surface-menu: var(--surface-menu-dark);
   --background: var(--background-dark);
   --post-bg: var(--surface-menu-dark);
@@ -361,7 +361,7 @@ body {
   font-size: 1.25rem;
   line-height: 1.5;
   background: var(--background);
-  background-color: var(--surface1);
+  /* background-color: var(--surface1); */
   /*   background-size: 96em auto;
   background-position: center;
   background-repeat: repeat-x; */

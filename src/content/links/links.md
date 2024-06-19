@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-16T16:57:45-08:00"
+date: "2024-06-19T10:30:40-08:00"
 slug: "links"
 ---
 
@@ -63,6 +63,7 @@ slug: "links"
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
+- [WebP is so great… except it's not | Engineering](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 
 ## Astro
 
@@ -70,6 +71,7 @@ slug: "links"
 - [Create a dev toolbar app | Docs](https://docs.astro.build/en/recipes/making-toolbar-apps/)
 - [Dev Toolbar | Docs](https://docs.astro.build/en/guides/dev-toolbar/)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
+- [MatthiesenXYZ/Astrolace: An easy way to use Shoelace.style within your Astro Project!](https://github.com/MatthiesenXYZ/Astrolace)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 
 ## Beer
@@ -546,6 +548,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
+- [Shoelace: A forward-thinking library of web components.](https://shoelace.style/)
 - [SmolCSS](https://smolcss.dev/)
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
