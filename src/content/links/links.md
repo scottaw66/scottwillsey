@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-19T10:30:40-08:00"
+date: "2024-06-19T15:35:32-08:00"
 slug: "links"
 ---
 
@@ -255,6 +255,9 @@ What? Realmac Dan? **THE** [Realmac](https://www.realmacsoftware.com)?
 
 **[Rebecca Owen](https://beccais.online/)**  
 I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄  
+
+**[Riccardo Mori | Writer & Translator](https://morrick.me/)**  
+Riccardo seems like a very serious blogger, and I don't mean that in a bad way. I mean he seems to consider his words carefully, and that's probably something I should do more of.  
 
 **[Robb Knight](https://rknight.me/)**  
 Robb Knight does beautiful web work. AND he's a nice human being! But what really makes him stand out is his amazing [App Defaults](https://defaults.rknight.me/) page.  

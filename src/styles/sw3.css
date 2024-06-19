@@ -50,14 +50,16 @@ html {
   /* --surface1-dark: rgb(0, 0, 16); */
   /* --surface1-dark: rgba(16, 28, 42, 1.0); */
   --surface1-dark: rgb(2, 0, 36);
-  --background-dark: rgb(2, 0, 40);
+  /* --background-dark: rgb(2, 0, 40); */
+  --background-dark: rgb(3, 0, 52);
   /* --background-dark: linear-gradient(
     180deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(9, 9, 121, 1) 54%,
     rgba(17, 76, 230, 1) 100%
   ); */
-  --surface-menu-dark: #080663;
+  /* --surface-menu-dark: #080663; */
+  --surface-menu-dark: #0a094b;
   --post-bg-dark: var(--surface-menu-dark);
   --scroll-dark: #002338;
   --language-id-dark: rgb(243, 202, 88);
