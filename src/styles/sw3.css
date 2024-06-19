@@ -9,10 +9,10 @@ html {
   --text3-light: white;
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
-  --surface-menu-light: #c7e8fc;
+  --surface-menu-light: #d5ecfa;
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: rgb(204, 248, 255);
-  --background-light: rgb(228, 248, 251);
+  --surface1-light: rgb(233, 250, 253);
+  --background-light: rgb(235, 249, 253);
   /* --background-light: linear-gradient(
     180deg,
     rgba(204, 248, 255, 1) 0%,
