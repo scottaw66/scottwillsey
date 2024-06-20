@@ -1,5 +1,24 @@
 ---
+import HomeIcon from "./icons/MenuHomeIcon.astro";
+import BlogIcon from "./icons/MenuBlogIcon.astro";
+import LinkIcon from "./icons/MenuLinkIcon.astro";
 import SearchIcon from "./icons/MenuSearchIcon.astro";
+import MoonIcon from "./icons/MenuMoonIcon.astro";
 ---
 
-<a href="/search"><SearchIcon /></a>
+<div class="menu">
+  <a href="/"><HomeIcon /></a>
+  <a href="/1"><BlogIcon /></a>
+  <a href="/links"><LinkIcon /></a>
+  <a href="/search"><SearchIcon /></a>
+  <a href="/"><MoonIcon /></a>
+</div>
+<style>
+  .menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75em;
+    width: fit-content;
+  }
+</style>
