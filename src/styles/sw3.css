@@ -279,7 +279,7 @@ html {
 }
 
 html {
-  max-width: 1300px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 
@@ -405,6 +405,11 @@ svg#menu-link-icon {
   width: 1.25em;
   height: 1.25em;
 }
+svg#menu-info-icon {
+  fill: var(--accent-purple);
+  width: 1.25em;
+  height: 1.25em;
+}
 svg#menu-search-icon {
   fill: var(--accent-blue);
   width: 1.25em;
@@ -421,11 +426,30 @@ svg#menu-moon-icon {
     margin-left: 0;
   }
 }
+svg#footer-github-icon {
+  fill: var(--accent-white);
+  width: 1.25em;
+  height: 1.25em;
+}
+svg#footer-mastodon-icon {
+  fill: var(--accent-purple);
+  width: 1.25em;
+  height: 1.25em;
+}
+svg#footer-rss-icon {
+  fill: var(--accent-orange);
+  width: 1.4em;
+  height: 1.4em;
+}
+
 svg#menu-home-icon:hover,
 svg#menu-blog-icon:hover,
 svg#menu-link-icon:hover,
+svg#menu-info-icon:hover,
 svg#menu-search-icon:hover,
-svg#menu-moon-icon:hover {
+svg#menu-moon-icon:hover,
+svg#footer-github-icon:hover,
+svg#footer-mastodon-icon:hover {
   fill: var(--brand);
 }
 a svg:hover {
@@ -440,12 +464,6 @@ svg.secret-link-icon {
   align-self: center;
   margin: 6em auto 4em;
   stroke: var(--accent-pink);
-  fill: var(--surface1);
-}
-svg.menu-icon {
-  height: 5rem;
-  width: 5rem;
-  stroke: red;
   fill: var(--surface1);
 }
 

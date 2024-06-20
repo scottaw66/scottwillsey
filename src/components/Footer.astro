@@ -1,9 +1,17 @@
 ---
 import { year } from "../components/utilities/DateFormat.js";
 import site from "../data/site.json";
+import GitHubIcon from "./icons/FooterGitHubIcon.astro";
+import MastodonIcon from "./icons/FooterMastodonIcon.astro";
+import RssIcon from "./icons/FooterRssIcon.astro";
 ---
 
 <div class="footer">
+  <div class="footer-links">
+    <a href={site.social.mastodon}><MastodonIcon /></a>
+    <a href={site.social.github}><GitHubIcon /></a>
+    <a href="/rss.xml"><RssIcon /></a>
+  </div>
   <div class="astrobuild">
     <a href="https://astro.build">
       <img
@@ -26,7 +34,7 @@ import site from "../data/site.json";
     padding: 2rem;
     display: flex;
     flex-direction: column;
-    row-gap: 0.5em;
+    row-gap: 1em;
     align-items: center;
     align-content: center;
     justify-content: center;
