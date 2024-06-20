@@ -1,31 +1,32 @@
 ---
-import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
+import Menu from "./Menu.astro";
 import av from "../assets/images/saw111.jpg";
 ---
 
 <div class="header">
-  <div class="title">
-    <div><a href="/">sc</a></div>
-    <div class="title-image">
-      <a href="/">
+  <a href="/">
+    <div class="title">
+      <div>sc</div>
+      <div class="title-image">
         <Image src={av} width={100} format={"webp"} alt="Scott avatar" />
-      </a>
+      </div>
+      <div>ttwillsey</div>
     </div>
-    <div><a href="/">tt·willsey</a></div>
-  </div>
-  <div id="menu-link-div" class="menu-link">
-    <a href="#main-nav"><Icon id="menu-icon" name="fluent:list-28-filled" /></a>
+  </a>
+  <div class="menu-header">
+    <Menu />
   </div>
 </div>
 
 <style>
   .header {
     display: flex;
-    align-items: center;
-    gap: 2rem;
-    margin: 2rem auto 2.5rem;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 1rem auto 2.5rem;
     color: var(--brand);
+    width: 100%;
   }
 
   .header div.title {
@@ -33,63 +34,48 @@ import av from "../assets/images/saw111.jpg";
     justify-items: center;
     grid-template-columns: fit-content(33%) fit-content(33%) fit-content(33%);
     font-family: var(--font-title);
-    font-size: clamp(1.8rem, 5.5vw + 1rem, 7rem);
-    text-shadow:
-      -1px 0 var(--accent1),
-      0 1px var(--accent1),
-      1px 1px var(--accent1),
-      0 -1px var(--accent1);
+    font-size: clamp(2rem, 2vw + 1rem, 3.5rem);
     padding: 0;
-    margin: 0 auto 0.5rem;
+    margin: 0 2em;
     width: fit-content;
   }
 
-  .header div.title a {
+  .header a {
     color: var(--title);
-  }
-
-  .header div.title-image img {
-    border-radius: 50%;
-    border: 1px solid var(--hyperlink);
-    width: 0.8em;
-    height: 0.8em;
-    margin-bottom: -0.06em;
-    box-shadow:
-      -1px 0 var(--accent1),
-      0 1px var(--accent1),
-      1px 1px var(--accent1),
-      0 -1px var(--accent1);
-    -webkit-box-shadow:
-      -1px 0 var(--accent1),
-      0 1px var(--accent1),
-      1px 1px var(--accent1),
-      0 -1px var(--accent1);
-    -moz-box-shadow:
-      -1px 0 var(--accent1),
-      0 1px var(--accent1),
-      1px 1px var(--accent1),
-      0 -1px var(--accent1);
-  }
-
-  @media only screen and (max-width: 460px) {
-    .header div.title {
-      text-shadow: 1px 1px 1px var(--accent1);
-    }
-    .header div.title-image img {
-      box-shadow: 1px 1px 1px var(--accent1);
-      -webkit-box-shadow: 1px 1px 1px var(--accent1);
-      -moz-box-shadow: 1px 1px 1px var(--accent1);
-    }
-  }
-
-  .header div.title a {
     text-decoration: none;
     margin: 0;
     padding: 0;
   }
 
-  .menu-link [data-icon] {
-    font-size: clamp(1rem, 2vw + 1rem, 2.5rem);
-    margin-bottom: -0.25rem;
+  .header a:hover {
+    color: var(--brand);
+  }
+
+  .header div.title-image img {
+    border-radius: 50%;
+    border: 2px solid var(--hyperlink);
+    width: 0.55em;
+    height: 0.55em;
+    margin-bottom: -0.06em;
+  }
+
+  .header div.title-image img:hover {
+    border-color: var(--brand);
+    transform-origin: center;
+    transform: scale(1.1);
+  }
+
+  .header div.menu-header {
+    padding: 0;
+    margin: 0 4em -0.5em 0;
+  }
+
+  @media only screen and (max-width: 550px) {
+    .header {
+      flex-direction: column;
+    }
+    .header div.menu-header {
+      margin: 0;
+    }
   }
 </style>

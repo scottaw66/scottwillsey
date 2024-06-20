@@ -1,4 +1,5 @@
 @import "normalize.css";
+@import url(https://fonts.bunny.net/css?family=metrophobic:400);
 
 html {
   --brand-light: #003f97;
@@ -107,7 +108,7 @@ html {
 :root {
   --font-fallback: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
     sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  --font-body: system-ui, var(--font-fallback);
+  --font-body: "Metrophobic", system-ui, var(--font-fallback);
   --font-mono: "IBM Plex Mono", Consolas, "Andale Mono WT", "Andale Mono",
     "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
@@ -116,9 +117,9 @@ html {
   /* --font-title: "CaptainEdward-Bold"; */
   /* --font-title: "Cartridge-BoldRough"; */
   /* --font-title: "Cartridge-Bold"; */
-  --font-title: "PaintFactory-Bold";
+  --font-title: "Cartridge-Bold";
   /* --font-blockquote-before: "Cartridge-BoldRough"; */
-  --font-blockquote-before: "PaintFactory-Bold";
+  --font-blockquote-before: "Cartridge-Bold";
 
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
@@ -296,42 +297,6 @@ html {
   src: url("/fonts/Cartridge/Cartridge-BoldRough.woff2") format("woff2");
 }
 
-@font-face {
-  font-family: CaptainEdward-Regular;
-  src: url("/fonts/CaptainEdward/CaptainEdward-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: CaptainEdward-Rough;
-  src: url("/fonts/CaptainEdward/CaptainEdward-Rough.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: CaptainEdward-Bold;
-  src: url("/fonts/CaptainEdward/CaptainEdward-Bold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: CaptainEdward-BoldRough;
-  src: url("/fonts/CaptainEdward/CaptainEdward-BoldRough.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: PaintFactory-Bold;
-  src: url("/fonts/PaintFactory/PaintFactory-Bold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: PaintFactory-Regular;
-  src: url("/fonts/PaintFactory/PaintFactory-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: GrandSans-Regular;
-  src: url("/fonts/GrandSans/Grandsans-Regular.woff2") format("woff2");
-  font-display: swap;
-}
-
 @media (prefers-reduced-motion: no-preference) {
   html {
     scroll-behavior: smooth;
@@ -381,13 +346,6 @@ div#wrapper-grid {
   grid-template-columns: min-content 85ch;
   column-gap: 3rem;
   justify-content: center;
-}
-
-@media screen and (min-width: 900px) {
-  #menu-link-div,
-  #menu-icon {
-    display: none;
-  }
 }
 
 @media only screen and (max-width: 1300px) {
@@ -470,10 +428,25 @@ p {
 a {
   text-decoration: none;
   color: var(--hyperlink);
+  text-underline-offset: 0.2em;
 }
 
 a:hover {
   text-decoration: underline;
+  --webkit-text-decoration: underline;
+  text-decoration-color: var(--accent1);
+}
+
+p a {
+  text-underline-offset: 0.2em;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+}
+
+p a:hover {
+  text-underline-offset: 0.2em;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
   text-decoration-color: var(--accent1);
 }
 
@@ -484,6 +457,19 @@ h4 a,
 h5 a,
 h6 a {
   color: var(--brand);
+}
+
+svg#menu-search-icon {
+  fill: var(--accent3);
+  width: 1.25em;
+  height: 1.25em;
+}
+svg#menu-search-icon:hover {
+  fill: var(--brand);
+}
+a svg:hover {
+  transform-origin: center;
+  transform: scale(1.2);
 }
 
 svg.secret-link-icon {
