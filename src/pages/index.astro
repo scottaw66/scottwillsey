@@ -6,6 +6,10 @@ import Search from "../components/Search.astro";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { titleCase } from "../components/utilities/StringFormat.js";
 import site from "../data/site.json";
+import MessageEditIcon from "../components/icons/MessageEditIcon.astro";
+import PostLinkIcon from "../components/icons/PostLinkIcon.astro";
+import CopyIcon from "../components/icons/CopyIcon.astro";
+import CalendarIcon from "../components/icons/CalendarFillIcon.astro";
 
 let allPosts = await getCollection("posts");
 allPosts = allPosts.sort(
@@ -24,11 +28,11 @@ let description = site.description;
       <p>
         I write about <a href="/1">computing related topics</a>. You can <a
           href="/search">search</a
-        > or click the <a href="/1">posts link</a>
-        to browse. Most of what I write about here is <Icon
-          name="openmoji:apple"
-        /><a href="/tags/mac/" ">Mac</a> or web related. <a href="/now">Here</a>
-        is what I'm up to <a href="/now">now</a>.
+        > or <a href="/1">browse</a> this site. Most of what I write about here is
+        <Icon name="openmoji:apple" /><a href="/tags/mac/" ">Mac</a> or web related.
+        <a href="/now">Here</a>
+        is what I'm up to <a href="/now">now</a>, and <a href="/use">here</a> is
+        what I <a href="/uses">use</a>.
       </p>
     </div>
   </article>
@@ -40,7 +44,7 @@ let description = site.description;
   <article>
     <span data-pagefind-ignore>
       <h1>
-        <Icon name="mdi:book-edit-outline" /><a href="/1"
+        <MessageEditIcon /><a href="/1"
           ><span class="posts-title">Latest Posts</span></a
         >
       </h1>
@@ -50,12 +54,12 @@ let description = site.description;
             <header>
               <h2>
                 <a href={`/${post.slug}`}>
-                  {post.data.link ? <Icon name="ion:ios-link" /> : ""}
+                  {post.data.link ? <PostLinkIcon /> : ""}
                   {titleCase(post.data.title)}
                 </a>
               </h2>
               <div class="time">
-                <Icon name="bi:calendar2-week-fill" />
+                <CalendarIcon />
                 <time datetime={post.data.date}>
                   <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
                 </time>
@@ -67,7 +71,7 @@ let description = site.description;
           ))
         }
         <p class="posts-link">
-          <a href="/1"><Icon name="ep:copy-document" /> Browse all posts</a>
+          <a href="/1"><CopyIcon /> Browse all posts</a>
         </p>
       </section>
     </span>
@@ -90,24 +94,11 @@ let description = site.description;
     font-size: 1.5em;
     margin-bottom: -0.4rem;
   }
-  .divider {
-    margin: 1rem auto -1rem;
-    width: fit-content;
-  }
-  .divider [data-icon] {
-    font-size: 1.5rem;
-    margin: 0.25rem;
-    color: var(--brand);
-  }
   div.search {
     margin: 3rem auto;
   }
   span.posts-title {
     color: var(--hyperlink);
-  }
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.75em;
-    margin-bottom: -0.0333rem;
   }
   header {
     margin-bottom: 3rem;
@@ -128,22 +119,5 @@ let description = site.description;
   p.posts-link a {
     color: var(--hyperlink);
     font-size: 2rem;
-  }
-  [data-icon="mdi:book-edit-outline"] {
-    font-size: 1em;
-    margin: 0 0.25em -0.075em 0;
-    color: var(--hyperlink);
-  }
-  [data-icon="ep:copy-document"] {
-    font-size: 2rem;
-    margin: 0 0.25rem -0.333rem 0;
-    color: var(--hyperlink);
-  }
-  [data-icon="ion:ios-link"] {
-    width: 1em;
-    margin-bottom: -0.5rem;
-    background-color: var(--surface-menu);
-    padding: 0.25rem;
-    border-radius: 50%;
   }
 </style>

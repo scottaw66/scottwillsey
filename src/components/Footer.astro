@@ -12,6 +12,11 @@ import RssIcon from "./icons/FooterRssIcon.astro";
     <a href={site.social.github}><GitHubIcon /></a>
     <a href="/rss.xml"><RssIcon /></a>
   </div>
+  <div class="footer-page-links">
+    <a href="/now">/now</a>
+    <a href="/uses">/uses</a>
+    <a href="/links">/links</a>
+  </div>
   <div class="astrobuild">
     <a href="https://astro.build">
       <img
@@ -34,10 +39,17 @@ import RssIcon from "./icons/FooterRssIcon.astro";
     padding: 2rem;
     display: flex;
     flex-direction: column;
-    row-gap: 1em;
     align-items: center;
     align-content: center;
     justify-content: center;
+  }
+
+  .footer-page-links {
+    font-size: 0.9rem;
+  }
+
+  .astrobuild img {
+    margin: 2em 0 1em;
   }
 
   .footer-copyright {

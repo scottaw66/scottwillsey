@@ -4,6 +4,8 @@ import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
 import av from "../assets/images/ScottLatest.jpg";
+import HistoryIcon from "../components/icons/HistoryIcon.astro";
+import MastodonIcon from "../components/icons/InlineMastodonIcon.astro";
 
 let title = "About Me - " + site.title;
 let description = "About Scott Willsey";
@@ -88,11 +90,11 @@ let description = "About Scott Willsey";
 
     <p>
       Contact me on <a rel="me" href="https://social.lol/@scottwillsey">
-        <Icon name="simple-icons:mastodon" /> Mastodon</a
+        <MastodonIcon /> Mastodon</a
       > if you wish.
     </p>
     <div class="changelog">
-      <a href="/changelog/"><Icon name="ic:outline-history" /></a>
+      <a href="/changelog/"><HistoryIcon /></a>
     </div>
   </article>
 </Base>
@@ -117,13 +119,5 @@ let description = "About Scott Willsey";
     width: 100%;
     display: flex;
     justify-content: center;
-  }
-  [data-icon] {
-    font-size: 1.333rem;
-    margin-bottom: -0.2rem;
-  }
-  [data-icon="ic:outline-history"] {
-    color: var(--accent-pink);
-    font-size: 2.5rem;
   }
 </style>

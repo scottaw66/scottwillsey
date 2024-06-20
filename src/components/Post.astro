@@ -1,10 +1,10 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { slugify } from "./utilities/StringFormat.js";
 import PostTitle from "./PostTitle.astro";
+import CalendarFillIcon from "./icons/CalendarFillIcon.astro";
 
 interface Props {
   post: CollectionEntry<"posts">;
@@ -20,7 +20,7 @@ const { Content } = await post.render();
       <PostTitle post={post} />
     </h1>
     <div class="time">
-      <Icon name="bi:calendar2-week-fill" />
+      <CalendarFillIcon />
       <time datetime={post.data.date}>
         <a href={`/${post.slug}`}>
           {postdate(post.data.date)}

@@ -114,8 +114,8 @@ html {
 
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
-  --pagefind-ui-text: #fff;
-  --pagefind-ui-message-text: #000;
+  --pagefind-ui-text: red;
+  --pagefind-ui-message-text: #000000;
   --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #000;
   --pagefind-ui-background: var(--surface1);
@@ -195,8 +195,8 @@ html {
   --language-id: var(--language-id-dark);
 
   --pagefind-ui-primary: var(--surface-menu);
-  --pagefind-ui-text: var(--surface1);
-  --pagefind-ui-message-text: var(--pagefind-ui-text);
+  --pagefind-ui-text: red;
+  --pagefind-ui-message-text: #fff;
   --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #fff;
   --pagefind-ui-background: #83645a;
@@ -426,20 +426,57 @@ svg#menu-moon-icon {
     margin-left: 0;
   }
 }
-svg#footer-github-icon {
-  fill: var(--accent-white);
-  width: 1.25em;
-  height: 1.25em;
-}
-svg#footer-mastodon-icon {
+svg#inline-mastodon-icon {
   fill: var(--accent-purple);
   width: 1.25em;
   height: 1.25em;
+  margin-bottom: -0.333em;
+}
+svg#footer-github-icon {
+  fill: var(--accent-white);
+  width: 1.5em;
+  height: 1.5em;
+}
+svg#footer-mastodon-icon {
+  fill: var(--accent-purple);
+  width: 1.5em;
+  height: 1.5em;
 }
 svg#footer-rss-icon {
   fill: var(--accent-orange);
-  width: 1.4em;
-  height: 1.4em;
+  width: 1.65em;
+  height: 1.65em;
+}
+svg#message-edit-icon {
+  width: 1.25em;
+  height: 1.25em;
+  margin: 0 0.25em -0.333em 0;
+  fill: var(--hyperlink);
+}
+svg#post-link-icon {
+  width: 1.1em;
+  height: 1.1em;
+  margin-bottom: -0.25em;
+  fill: var(--brand);
+  padding: 0.25rem;
+}
+svg#history-icon {
+  fill: var(--accent-purple);
+  width: 2.5em;
+  height: 2.5em;
+}
+svg#copy-icon {
+  fill: var(--hyperlink);
+  width: 1.25em;
+  height: 1.25em;
+  margin: 0 0.25em -0.25em 0;
+}
+
+svg#calendar-fill-icon {
+  fill: var(--accent-orange-darker);
+  width: 1.1em;
+  height: 1.1em;
+  margin-bottom: -0.2em;
 }
 
 svg#menu-home-icon:hover,

@@ -1,21 +1,11 @@
 ---
-import { Icon } from "astro-icon/components";
 import { titleCase } from "./utilities/StringFormat.js";
+import PostLinkIcon from "./icons/PostLinkIcon.astro";
 
 const { post } = Astro.props;
 ---
 
 <a href={post.data.link ? post.data.link : `/${post.slug}`}>
-  {post.data.link ? <Icon name="ion:ios-link" /> : ""}
+  {post.data.link ? <PostLinkIcon /> : ""}
   {titleCase(post.data.title)}
 </a>
-
-<style>
-  [data-icon] {
-    width: 1em;
-    margin-bottom: -0.5rem;
-    background-color: var(--surface-menu);
-    padding: 0.25rem;
-    border-radius: 50%;
-  }
-</style>
