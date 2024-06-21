@@ -1,8 +1,8 @@
 ---
 import { getEntry } from "astro:content";
-import { Icon } from "astro-icon/components";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
 
 const now = await getEntry("now", "now");
 const { Content } = await now.render();
@@ -20,7 +20,7 @@ let description = now.data.description;
       what they're focused on <b>now</b> at this point in their lives.
     </p>
     <div class="time">
-      <Icon name="bi:calendar2-week-fill" />
+      <CalendarFillIcon />
       <time datetime={now.data.date}>
         <a href={`/${now.slug}`}>Last updated {modifieddate(now.data.date)}</a>
       </time>
@@ -41,9 +41,5 @@ let description = now.data.description;
   }
   div.time {
     margin-top: 2.5rem;
-  }
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.75rem;
-    margin-bottom: -0.05rem;
   }
 </style>

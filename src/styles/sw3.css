@@ -471,6 +471,11 @@ svg#copy-icon {
   height: 1.25em;
   margin: 0 0.25em -0.25em 0;
 }
+svg#location-plus-icon {
+  fill: var(--accent-pink);
+  width: 2.5em;
+  height: 2.5em;
+}
 
 svg#calendar-fill-icon {
   fill: var(--accent-orange-darker);
@@ -565,7 +570,7 @@ div.time {
 }
 
 article {
-  margin: 0 0 4rem;
+  margin: 3em 0 6em;
 }
 
 article ul {
@@ -690,11 +695,6 @@ div.hero img {
 
   h1 {
     font-size: 2.5rem;
-  }
-
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.6em;
-    padding-right: 0.25rem;
   }
 
   article {

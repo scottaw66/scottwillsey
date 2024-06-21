@@ -1,9 +1,9 @@
 ---
 import { getEntry } from "astro:content";
-import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
 
 import mac from "../assets/images/posts/MacBrighter-72C30F73-DD6D-4E9F-98E0-6D9BC617F493.png";
 import keychron from "../assets/images/posts/Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284.png";
@@ -52,7 +52,7 @@ let description = uses.data.description;
       >
     </div>
     <div class="time">
-      <Icon name="bi:calendar2-week-fill" />
+      <CalendarFillIcon />
       <time datetime={uses.data.date}>
         <a href={`/${uses.slug}`}>Last updated {modifieddate(uses.data.date)}</a
         >

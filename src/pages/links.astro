@@ -1,9 +1,10 @@
 ---
 import { getEntry } from "astro:content";
-import { Icon } from "astro-icon/components";
 import Spotlight from "../components/Spotlight.astro";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
+import LocationIcon from "../components/icons/LocationPlusIcon.astro";
 
 const links = await getEntry("links", "links");
 const { Content } = await links.render();
@@ -17,7 +18,7 @@ let description = links.data.description;
     <h1>{title}</h1>
     <p class="now">{description}</p>
     <div class="time">
-      <Icon name="bi:calendar2-week-fill" />
+      <CalendarFillIcon />
       <time datetime={links.data.date}>
         <a href={`/${links.slug}`}
           >Last updated {modifieddate(links.data.date)}</a
@@ -31,7 +32,7 @@ let description = links.data.description;
       <Content />
     </div>
     <div class="pins">
-      <a href="/pins/"><Icon name="ic:baseline-add-location" /></a>
+      <a href="/pins/"><LocationIcon /></a>
     </div>
   </article>
 </Base>
@@ -47,23 +48,15 @@ let description = links.data.description;
   div.time {
     margin-top: 2.5rem;
   }
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.75rem;
-    margin-bottom: -0.05rem;
-  }
   div.now {
     /* background-color: var(--post-bg); */
     padding: 0.1rem 1.5rem;
     /* border-radius: 0.5rem; */
   }
   div.pins {
-    margin: 8rem auto 0;
+    margin: 2rem auto;
     width: 100%;
     display: flex;
     justify-content: center;
-  }
-  [data-icon="ic:baseline-add-location"] {
-    color: var(--accent-pink);
-    font-size: 2.5rem;
   }
 </style>
