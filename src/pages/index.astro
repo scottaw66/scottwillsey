@@ -1,11 +1,11 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon/components";
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.astro";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { titleCase } from "../components/utilities/StringFormat.js";
 import site from "../data/site.json";
+import AppleIcon from "../components/icons/AppleIcon.astro";
 import MessageEditIcon from "../components/icons/MessageEditIcon.astro";
 import PostLinkIcon from "../components/icons/PostLinkIcon.astro";
 import CopyIcon from "../components/icons/CopyIcon.astro";
@@ -29,7 +29,7 @@ let description = site.description;
         I write about <a href="/1">computing related topics</a>. You can <a
           href="/search">search</a
         > or <a href="/1">browse</a> this site. Most of what I write about here is
-        <Icon name="openmoji:apple" /><a href="/tags/mac/" ">Mac</a> or web related.
+        <AppleIcon /><a href="/tags/mac/" ">Mac</a> or web related.
         <a href="/now">Here</a>
         is what I'm up to <a href="/now">now</a>, and <a href="/use">here</a> is
         what I <a href="/uses">use</a>.
@@ -89,10 +89,6 @@ let description = site.description;
     border: 1px solid var(--brand);
     border-radius: 0.5rem;
     padding: 0.5rem 2rem;
-  }
-  [data-icon="openmoji:apple"] {
-    font-size: 1.5em;
-    margin-bottom: -0.4rem;
   }
   div.search {
     margin: 3rem auto;

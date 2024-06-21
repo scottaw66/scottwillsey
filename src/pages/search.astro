@@ -1,11 +1,13 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon/components";
 import { slugify } from "../components/utilities/StringFormat.js";
 import Search from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
+import LayerIcon from "../components/icons/LayerIcon.astro";
+import TagIcon from "../components/icons/TagIcon.astro";
+import PlusCircleIcon from "../components/icons/PlusCircleIcon.astro";
 
 const allPosts = await getCollection("posts");
 const allSeries = allPosts
@@ -24,7 +26,7 @@ const title = "Search " + site.title;
 
   <article data-pagefind-ignore>
     <div class="seriescloud">
-      <span><Icon name="mdi:plus-box-multiple" />Series</span>
+      <span><LayerIcon />Series</span>
       <div>
         {
           allSeries.map((series) => (
@@ -34,14 +36,12 @@ const title = "Search " + site.title;
           ))
         }
         <span class="all-series">
-          <a href="/series"
-            ><Icon name="mdi:plus-circle-multiple" /> Browse all series</a
-          >
+          <a href="/series"><PlusCircleIcon /> Browse all series</a>
         </span>
       </div>
     </div>
     <div class="tagcloud">
-      <span><Icon name="mdi:tag-multiple" />Some Tags</span>
+      <span><TagIcon />Some Tags</span>
       <TagCloud showCount="true" displayNumber="11" />
     </div>
   </article>
@@ -66,10 +66,6 @@ const title = "Search " + site.title;
     margin-top: 1em;
     font-weight: bold;
   }
-  [data-icon="mdi:plus-circle-multiple"] {
-    font-size: 1.25rem;
-    margin: 0 0.25rem -0.2rem 0;
-  }
 
   @media only screen and (max-width: 460px) {
     div.seriescloud,
@@ -83,18 +79,6 @@ const title = "Search " + site.title;
     }
     span.all-series a {
       font-size: 0.75rem;
-    }
-    [data-icon="mdi:plus-box-multiple"] {
-      font-size: 1rem;
-      margin: 0 0.75rem -0.1rem 0;
-    }
-    [data-icon="mdi:plus-circle-multiple"] {
-      font-size: 0.75rem;
-      margin: 0 0.1rem -0.1rem 0;
-    }
-    [data-icon="mdi:tag-multiple"] {
-      font-size: 2rem;
-      margin: 0 0.75rem 0 0;
     }
   }
 </style>

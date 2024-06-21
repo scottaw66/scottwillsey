@@ -4,7 +4,6 @@ import Spotlight from "../components/Spotlight.astro";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
-import LocationIcon from "../components/icons/LocationPlusIcon.astro";
 
 const links = await getEntry("links", "links");
 const { Content } = await links.render();
@@ -31,9 +30,6 @@ let description = links.data.description;
     <div class="now">
       <Content />
     </div>
-    <div class="pins">
-      <a href="/pins/"><LocationIcon /></a>
-    </div>
   </article>
 </Base>
 
@@ -47,16 +43,5 @@ let description = links.data.description;
   }
   div.time {
     margin-top: 2.5rem;
-  }
-  div.now {
-    /* background-color: var(--post-bg); */
-    padding: 0.1rem 1.5rem;
-    /* border-radius: 0.5rem; */
-  }
-  div.pins {
-    margin: 2rem auto;
-    width: 100%;
-    display: flex;
-    justify-content: center;
   }
 </style>

@@ -1,10 +1,8 @@
 ---
-import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
 import av from "../assets/images/ScottLatest.jpg";
-import HistoryIcon from "../components/icons/HistoryIcon.astro";
 import MastodonIcon from "../components/icons/InlineMastodonIcon.astro";
 
 let title = "About Me - " + site.title;
@@ -91,11 +89,8 @@ let description = "About Scott Willsey";
     <p>
       Contact me on <a rel="me" href="https://social.lol/@scottwillsey">
         <MastodonIcon /> Mastodon</a
-      > if you wish.
+      > if you like.
     </p>
-    <div class="changelog">
-      <a href="/changelog/"><HistoryIcon /></a>
-    </div>
   </article>
 </Base>
 <style>
@@ -113,11 +108,5 @@ let description = "About Scott Willsey";
   }
   p:last-of-type {
     font-style: italic;
-  }
-  div.changelog {
-    margin: 8rem auto 0;
-    width: 100%;
-    display: flex;
-    justify-content: center;
   }
 </style>

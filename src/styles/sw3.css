@@ -390,6 +390,11 @@ h6 a {
   color: var(--brand);
 }
 
+svg#apple-icon {
+  width: 1.5em;
+  height: 1.5em;
+  margin-bottom: -0.45rem;
+}
 svg#menu-home-icon {
   fill: var(--accent-orange);
   width: 1.25em;
@@ -443,10 +448,34 @@ svg#footer-mastodon-icon {
   height: 1.5em;
 }
 svg#footer-rss-icon {
-  fill: var(--accent-orange);
+  fill: var(--accent-orange-darker);
   width: 1.65em;
   height: 1.65em;
+  margin-right: -0.25em;
 }
+svg#footer-history-icon {
+  fill: var(--accent-green);
+  width: 1.65em;
+  height: 1.65em;
+  margin-bottom: -0.05em;
+}
+svg#menu-home-icon:hover,
+svg#menu-blog-icon:hover,
+svg#menu-link-icon:hover,
+svg#menu-info-icon:hover,
+svg#menu-search-icon:hover,
+svg#menu-moon-icon:hover,
+svg#footer-github-icon:hover,
+svg#footer-mastodon-icon:hover,
+svg#footer-rss-icon:hover,
+svg#footer-history-icon:hover {
+  fill: var(--brand);
+}
+a svg:hover {
+  transform-origin: center;
+  transform: scale(1.5);
+}
+
 svg#message-edit-icon {
   width: 1.25em;
   height: 1.25em;
@@ -460,11 +489,6 @@ svg#post-link-icon {
   fill: var(--brand);
   padding: 0.25rem;
 }
-svg#history-icon {
-  fill: var(--accent-purple);
-  width: 2.5em;
-  height: 2.5em;
-}
 svg#copy-icon {
   fill: var(--hyperlink);
   width: 1.25em;
@@ -476,27 +500,35 @@ svg#location-plus-icon {
   width: 2.5em;
   height: 2.5em;
 }
-
 svg#calendar-fill-icon {
   fill: var(--accent-orange-darker);
   width: 1.1em;
   height: 1.1em;
   margin-bottom: -0.2em;
 }
-
-svg#menu-home-icon:hover,
-svg#menu-blog-icon:hover,
-svg#menu-link-icon:hover,
-svg#menu-info-icon:hover,
-svg#menu-search-icon:hover,
-svg#menu-moon-icon:hover,
-svg#footer-github-icon:hover,
-svg#footer-mastodon-icon:hover {
+svg#tag-icon {
   fill: var(--brand);
+  width: 1.2em;
+  height: 1.2em;
+  margin: 0 0.25em -0.333em 0;
 }
-a svg:hover {
-  transform-origin: center;
-  transform: scale(1.5);
+div.seriescloud svg#layer-icon {
+  width: 2.25em;
+  height: 2.25em;
+  fill: var(--accent-white);
+  margin: 0 0.75em -0.333em 0;
+}
+div.tagcloud svg#tag-icon {
+  width: 3em;
+  height: 3em;
+  fill: var(--accent-white);
+  margin: 0 0.75em -0.333em 0;
+}
+span.all-series svg#plus-circle-icon {
+  width: 1.25em;
+  height: 1.25em;
+  fill: var(--hyperlink);
+  margin-bottom: -0.25em;
 }
 
 svg.secret-link-icon {
@@ -550,12 +582,6 @@ div.threads-post {
 
 a.readit {
   font-style: italic;
-}
-
-[data-icon="bi:calendar2-week-fill"] {
-  font-size: 0.8em;
-  padding-right: 0.5rem;
-  color: var(--accent-orange-darker);
 }
 
 div.time,
@@ -707,6 +733,23 @@ div.hero img {
 
   article ul li {
     padding: 0.5rem 0;
+  }
+
+  div.seriescloud svg#layer-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0 0.75rem 0 0;
+  }
+  div.tagcloud svg#tag-icon {
+    width: 2rem;
+    height: 2rem;
+    margin: 0 0.75rem 0 0;
+  }
+  span.all-series svg#plus-circle-icon {
+    width: 1em;
+    height: 1em;
+    fill: var(--hyperlink);
+    margin-bottom: -0.15em;
   }
 }
 
