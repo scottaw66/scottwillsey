@@ -3,6 +3,8 @@ title: "Bunch"
 description: Bunch is an amazing little automation tool for controlling work environments on your Mac.
 date: "2023-02-14T05:00:00-08:00"
 keywords: ["apps", "mac", "automation", "applescript", "programming"]
+cover: "../../assets/images/covers/macseries.png"
+coverAlt: "Mac"
 series: "Mac"
 slug: "bunch"
 ---

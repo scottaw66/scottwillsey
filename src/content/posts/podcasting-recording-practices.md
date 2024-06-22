@@ -3,6 +3,8 @@ title: "Podcast Recording Practices"
 description: Part 3 of a series on podcasting setups and workflows. These are some things you should consider in order to record a clean, pleasant sounding podcast.
 date: "2023-10-10T09:00:00-08:00"
 keywords: ["podcast"]
+cover: "../../assets/images/covers/macseries.png"
+coverAlt: "Mac"
 series: "Mac"
 slug: "podcasting-recording-practices"
 ---

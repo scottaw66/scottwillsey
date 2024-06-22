@@ -3,6 +3,8 @@ title: "All the GPTs"
 description: Mac and iOS users have some great options for ChatGPT tools.
 date: "2023-04-26T09:00:00-08:00"
 keywords: ["mac", "chatgpt", "apps"]
+cover: "../../assets/images/covers/macseries.png"
+coverAlt: "Mac"
 series: "Mac"
 slug: "allgpts"
 ---

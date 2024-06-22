@@ -3,6 +3,8 @@ title: Bunch of Amphetamine
 description: A hyper addition to my podcast workflow that keeps my Mac awake at all times.
 date: "2023-03-19T09:00:00-08:00"
 keywords: ["mac", "automation", "applescript", "programming", "podcast", "apps"]
+cover: "../../assets/images/covers/macseries.png"
+coverAlt: "Mac"
 series: "Mac"
 slug: "amphbunch"
 ---
