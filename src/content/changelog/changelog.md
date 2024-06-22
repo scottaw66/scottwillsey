@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-06-22
+
+A whole new redesign to clean it up, make it sleeker, and hopefully make it easier to read posts.
+
 ### 2024-06-05
 
 Fixed an awkward image link mistake that resulted in 404s on full-sized images
