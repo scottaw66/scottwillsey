@@ -6,6 +6,14 @@ const { post } = Astro.props;
 ---
 
 <a href={post.data.link ? post.data.link : `/${post.slug}`}>
-  {post.data.link ? <PostLinkIcon /> : ""}
+  {
+    post.data.link ? (
+      <span data-pagefind-ignore>
+        <PostLinkIcon />
+      </span>
+    ) : (
+      ""
+    )
+  }
   {titleCase(post.data.title)}
 </a>

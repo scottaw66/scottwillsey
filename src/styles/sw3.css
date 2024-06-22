@@ -32,7 +32,7 @@ html {
   --footnote-bg-light: var(--hyperlink-light);
   --footnote-text-light: var(--text3-light);
   --footnote-border-light: var(--brand-light);
-  --footnote-bubble-light: var(--accent-pink-light);
+  --footnote-bubble-light: var(--brand-light);
   --pager-current-light: var(--brand-light);
   --pager-current-text-light: var(--text3-light);
   --pager-hover-light: var(--brand-light);
@@ -102,11 +102,11 @@ html {
   --scroll-hypercritical: #0046c9;
   --language-id-hypercritical: rgb(88, 243, 88);
   --accent-shadow-hypercritical: rgba(57, 3, 107, 0.7);
-  --footnote-link-hypercritical: var(--accent-purple-hypercritical);
-  --footnote-bg-hypercritical: var(--accent-pink-hypercritical);
+  --footnote-link-hypercritical: var(--brand-hypercritical);
+  --footnote-bg-hypercritical: var(--brand-hypercritical);
   --footnote-text-hypercritical: var(--text3-hypercritical);
   --footnote-border-hypercritical: var(--surface1-hypercritical);
-  --footnote-bubble-hypercritical: var(--accent-pink-hypercritical);
+  --footnote-bubble-hypercritical: var(--brand-hypercritical);
   --pager-current-hypercritical: var(--accent-purple-hypercritical);
   --pager-current-text-hypercritical: var(--text3-hypercritical);
   --pager-hover-hypercritical: var(--accent-purple-hypercritical);
@@ -131,14 +131,14 @@ html {
 
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
-  --pagefind-ui-text: red;
-  --pagefind-ui-message-text: #000000;
+  --pagefind-ui-text: rgb(255, 255, 255);
+  --pagefind-ui-message-text: #ffffff;
   --pagefind-ui-result-title-text: var(--brand);
-  --pagefind-ui-result-text: #000;
-  --pagefind-ui-background: var(--surface1);
+  --pagefind-ui-result-text: #ffffff;
+  --pagefind-ui-background: white;
   --pagefind-input-background: var(--brand);
   --pagefind-ui-border: var(--accent-pink);
-  --pagefind-ui-tag: #0d0a01;
+  --pagefind-ui-tag: #ffffff;
   --pagefind-ui-border-width: 2px;
   --pagefind-ui-border-radius: 8px;
   --pagefind-ui-image-border-radius: 8px;
@@ -252,6 +252,7 @@ html {
   --pagefind-input-background: var(--hyperlink);
   --pagefind-ui-border: var(--brand);
   --pagefind-ui-tag: #b59c94;
+  --pagefind-button-color: var(--pagefind-ui-text);
 }
 
 [site-theme="hypercritical"] {
@@ -302,8 +303,8 @@ html {
   --pagefind-ui-result-text: #000;
   --pagefind-ui-background: var(--surface1);
   --pagefind-input-background: var(--brand);
-  --pagefind-ui-border: var(--accent-pink);
-  --pagefind-ui-tag: #0d0a01;
+  --pagefind-ui-border: var(--accent-blue);
+  --pagefind-ui-tag: #ffffff;
   --pagefind-button-color: var(--pagefind-ui-text);
 }
 
@@ -928,7 +929,7 @@ div.now ul li {
   transition: color 0.25s ease;
 }
 .footnote-button:hover {
-  background: var(--accent-pink);
+  background: var(--brand);
   outline: 0;
 }
 .footnote-button:hover:after {
@@ -1025,7 +1026,7 @@ iframe {
 #search .pagefind-ui__search-input,
 #search .pagefind-ui__search-clear {
   background-color: var(--pagefind-input-background);
-  color: var(--pagefind-ui-text);
+  color: white;
 }
 #search .pagefind-ui__result-title,
 #search .pagefind-ui__result-link {
@@ -1046,7 +1047,7 @@ iframe {
     calc(0.5rem * var(--pagefind-ui-scale));
 }
 #search .pagefind-ui__button {
-  color: var(--pagefind-button-color);
+  color: white;
   background: var(--pagefind-button-background);
 }
 #search .pagefind-ui__result-thumb {

@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import { slugify } from "../components/utilities/StringFormat.js";
-import Search from "../components/Search.astro";
+import SearchBar from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
@@ -22,7 +22,7 @@ const title = "Search " + site.title;
 <Base title={title} description={title}>
   <h1>Search</h1>
 
-  <Search />
+  <SearchBar />
 
   <article data-pagefind-ignore>
     <div class="seriescloud">

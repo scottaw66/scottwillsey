@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Base from "../layouts/Base.astro";
-import Search from "../components/Search.astro";
+import SearchBar from "../components/Search.astro";
 import { postdate } from "../components/utilities/DateFormat.js";
 import { titleCase } from "../components/utilities/StringFormat.js";
 import site from "../data/site.json";
@@ -37,8 +37,8 @@ let description = site.description;
     </div>
   </article>
 
-  <div class="search">
-    <Search />
+  <div class="search-bar">
+    <SearchBar />
   </div>
 
   <article>
@@ -54,7 +54,13 @@ let description = site.description;
             <header>
               <h2>
                 <a href={`/${post.slug}`}>
-                  {post.data.link ? <PostLinkIcon /> : ""}
+                  {post.data.link ? (
+                    <span data-pagefind-ignore>
+                      <PostLinkIcon />
+                    </span>
+                  ) : (
+                    ""
+                  )}
                   {titleCase(post.data.title)}
                 </a>
               </h2>
@@ -90,7 +96,7 @@ let description = site.description;
     border-radius: 0.5rem;
     padding: 0.5rem 2rem;
   }
-  div.search {
+  div.search-bar {
     margin: 3rem auto;
   }
   span.posts-title {
