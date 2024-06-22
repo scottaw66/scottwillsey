@@ -1,8 +1,8 @@
 ---
-import { Icon } from "astro-icon/components";
 import { postdate } from "./utilities/DateFormat.js";
 import { slugify } from "./utilities/StringFormat.js";
 import { titleCase } from "./utilities/StringFormat.js";
+import CalendarIcon from "./icons/CalendarFillIcon.astro";
 
 const { series, posts } = Astro.props;
 const filteredPosts = posts.filter(
@@ -24,7 +24,7 @@ const filteredPosts = posts.filter(
               <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
             </h4>
             <div class="cal">
-              <Icon name="bi:calendar2-week-fill" />
+              <CalendarIcon />
               <time datetime={post.data.date}>
                 <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
               </time>

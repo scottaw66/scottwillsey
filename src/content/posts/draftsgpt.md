@@ -3,6 +3,7 @@ title: "DraftsGPT"
 description: Drafts now has access to the OpenAI API for ChatGPT
 date: "2023-05-12T09:00:00-08:00"
 keywords: ["mac", "chatgpt", "apps"]
+series: "Mac"
 slug: "draftsgpt"
 ---
 

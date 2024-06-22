@@ -396,14 +396,14 @@ svg#apple-icon {
   margin-bottom: -0.45rem;
 }
 svg#menu-home-icon {
-  fill: var(--accent-orange);
+  fill: var(--accent-orange-darker);
   width: 1.25em;
   height: 1.25em;
 }
-svg#menu-blog-icon {
+div.menu svg#message-edit-icon {
+  width: 1.3em;
+  height: 1.3em;
   fill: var(--accent-red);
-  width: 1.25em;
-  height: 1.25em;
 }
 svg#menu-link-icon {
   fill: var(--accent-green);
@@ -460,7 +460,7 @@ svg#footer-history-icon {
   margin-bottom: -0.05em;
 }
 svg#menu-home-icon:hover,
-svg#menu-blog-icon:hover,
+div.menu svg#message-edit-icon:hover,
 svg#menu-link-icon:hover,
 svg#menu-info-icon:hover,
 svg#menu-search-icon:hover,
@@ -476,7 +476,7 @@ a svg:hover {
   transform: scale(1.5);
 }
 
-svg#message-edit-icon {
+h1 svg#message-edit-icon {
   width: 1.25em;
   height: 1.25em;
   margin: 0 0.25em -0.333em 0;
@@ -512,19 +512,45 @@ svg#tag-icon {
   height: 1.2em;
   margin: 0 0.25em -0.333em 0;
 }
+h1 svg#tag-icon,
+p.posts-link svg#tag-icon {
+  margin: 0 0 -0.333em 0;
+}
+p.posts-link svg#tag-icon {
+  fill: var(--hyperlink);
+}
+svg#globe-icon {
+  width: 1em;
+  height: 1em;
+  margin-bottom: -0.2em;
+  fill: var(--hyperlink);
+}
+svg#right-arrow-circle-icon {
+  width: 1.5em;
+  height: 1.5em;
+  margin-bottom: -0.333em;
+  fill: var(--text1);
+}
 div.seriescloud svg#layer-icon {
   width: 2.25em;
   height: 2.25em;
-  fill: var(--accent-white);
+  fill: var(--text1);
   margin: 0 0.75em -0.333em 0;
+}
+span#series-list svg#layer-icon {
+  width: 1.25em;
+  height: 1.25em;
+  margin-bottom: -0.3em;
+  fill: var(--brand);
 }
 div.tagcloud svg#tag-icon {
   width: 3em;
   height: 3em;
-  fill: var(--accent-white);
+  fill: var(--text1);
   margin: 0 0.75em -0.333em 0;
 }
-span.all-series svg#plus-circle-icon {
+span.all-series svg#plus-circle-icon,
+p.series-link svg#plus-circle-icon {
   width: 1.25em;
   height: 1.25em;
   fill: var(--hyperlink);
@@ -734,10 +760,9 @@ div.hero img {
   article ul li {
     padding: 0.5rem 0;
   }
-
   div.seriescloud svg#layer-icon {
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 2.25rem;
+    height: 2.25rem;
     margin: 0 0.75rem 0 0;
   }
   div.tagcloud svg#tag-icon {

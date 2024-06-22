@@ -3,7 +3,7 @@ title: "TextBuddy Custom Links"
 description: Custom Links is a pretty cool automation feature in TextBuddy for automatically transforming specific text patterns into clickable links.
 date: "2024-04-21T05:00:00-08:00"
 keywords: ["apps", "mac", "automation", "programming", "regex"]
-series: "Automation"
+series: "Mac"
 slug: "custom-links"
 ---
 [TextBuddy](https://retina.studio/textbuddy/) is a macOS utility app I love that lets you process text in all sorts of interesting ways. I actually intend to talk about it in detail more some time, or more likely write several posts about it highlighting specific use cases. Today I learned about a feature of [TextBuddy](https://retina.studio/textbuddy/) called [Custom Links](https://retina.studio/textbuddy/custom-links/) that I’d been woefully unaware of.

@@ -3,6 +3,7 @@ title: "QuickTune Is Beautiful and MacStories Knows It"
 description: Mario Guzmán has made some beautiful apps over the years, and QuickTune tops the list.
 date: "2024-05-22T12:00:00-08:00"
 keywords: ["apps", "mac","retro","music"]
+series: "Mac"
 link: "https://www.macstories.net/reviews/quicktune-a-music-remote-app-for-mac-with-tiger-vibes/"
 slug: "quicktune"
 ---

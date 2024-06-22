@@ -3,6 +3,7 @@ title: "OCR in CleanShot X"
 description: CleanShot X has Text Recognition using OCR technology, a handy tool I use all the time.
 date: "2024-06-11T09:00:00-08:00"
 keywords: ["mac", "images", "apps"]
+series: "Mac"
 slug: "cleanshotx-text-recog"
 ---
 

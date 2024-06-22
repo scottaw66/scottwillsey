@@ -1,9 +1,10 @@
 ---
-import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
 import Base from "../../layouts/Base.astro";
 import { postdate } from "../../components/utilities/DateFormat.js";
 import { titleCase } from "../../components/utilities/StringFormat.js";
+import CalendarFillIcon from "../../components/icons/CalendarFillIcon.astro";
+import TagIcon from "../../components/icons/TagIcon.astro";
 
 export async function getStaticPaths({}) {
   const allPosts = await getCollection("posts");
@@ -38,7 +39,7 @@ let description = "Posts with tag " + tag + ".";
 <Base title={title} description={description}>
   <article data-pagefind-ignore>
     <h1>
-      <Icon name="uiw:tag" />
+      <TagIcon />
       <a href={`/tags/${tag}`}>{title}</a>
     </h1>
     <section aria-label="Blog post list">
@@ -49,7 +50,7 @@ let description = "Posts with tag " + tag + ".";
               <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
             </h4>
             <div class="cal">
-              <Icon name="bi:calendar2-week-fill" />
+              <CalendarFillIcon />
               <time datetime={post.data.date}>
                 <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
               </time>
@@ -59,7 +60,7 @@ let description = "Posts with tag " + tag + ".";
         ))
       }
       <p class="posts-link">
-        <a href="/tags"><Icon name="mdi:tag-plus" /> Browse all tags</a>
+        <a href="/tags"><TagIcon /> Browse all tags</a>
       </p>
     </section>
   </article>

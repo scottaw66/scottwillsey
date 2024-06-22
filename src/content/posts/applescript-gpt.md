@@ -4,6 +4,7 @@ description: ChatGPT doesn't always get programming right.
 date: "2023-04-06T09:00:00-08:00"
 keywords:
   ["mac", "automation", "applescript", "images", "programming", "chatgpt"]
+series: "Mac"
 slug: "applescript-gpt"
 ---
 

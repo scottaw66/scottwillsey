@@ -2,7 +2,8 @@
 title: "title case"
 description: "A good system should never make you remember its implementation details in order to use."
 date: "2022-11-10T05:00:00-08:00"
-keywords: ["blog", "writing", "regex", "javascript"]
+keywords: ["astro","blog", "writing", "regex", "javascript"]
+series: "Astro"
 slug: "title-case"
 ---
 

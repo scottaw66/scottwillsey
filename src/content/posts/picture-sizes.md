@@ -3,7 +3,7 @@ title: "Picture Element Sizes Attribute"
 description: A deeper look at controlling image display sizes with the picture element's sizes attribute.
 date: "2022-10-17T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
-series: "Responsive Images"
+series: "Astro"
 slug: "picture-sizes"
 ---
 

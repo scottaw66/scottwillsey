@@ -3,6 +3,7 @@ title: "Whispering Podcast Transcripts"
 description: "Whisper.cpp is a C/C++ port of OpenAI's Whisper that might meet your needs for audio transcription."
 date: "2023-01-25T05:00:00-08:00"
 keywords: ["podcast", "audio", "transcription", "apps"]
+series: "Mac"
 slug: "whispering-transcripts"
 ---
 

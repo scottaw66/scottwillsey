@@ -3,7 +3,7 @@ title: Dimensions are a Nightmare
 description: Responsive Image handling still has some problems, at least to my knowledge.
 date: "2023-02-19T09:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
-series: "Responsive Images"
+series: "Astro"
 slug: "dimensions"
 ---
 

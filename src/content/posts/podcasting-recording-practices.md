@@ -3,7 +3,7 @@ title: "Podcast Recording Practices"
 description: Part 3 of a series on podcasting setups and workflows. These are some things you should consider in order to record a clean, pleasant sounding podcast.
 date: "2023-10-10T09:00:00-08:00"
 keywords: ["podcast"]
-series: "Podcasting Workflows"
+series: "Mac"
 slug: "podcasting-recording-practices"
 ---
 I talked previously about the [recording software I use for podcasting on the Mac](https://scottwillsey.com/podcasting-recording-software/). It's all great stuff, and if you haven't read that article, you should. Even if you think you're not a podcaster, maybe someday you will be, and each of those applications has use far beyond creating podcasts.

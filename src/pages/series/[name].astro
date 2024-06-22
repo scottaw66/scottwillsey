@@ -1,10 +1,11 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon/components";
 import { slugify } from "../../components/utilities/StringFormat.js";
 import { deslugify } from "../../components/utilities/StringFormat.js";
 import Base from "../../layouts/Base.astro";
 import SeriesList from "../../components/SeriesList.astro";
+import LayerIcon from "../../components/icons/LayerIcon.astro";
+import PlusCircleIcon from "../../components/icons/PlusCircleIcon.astro";
 
 export async function getStaticPaths({}) {
   const allPosts = await getCollection("posts");
@@ -37,16 +38,14 @@ let description = "Posts in " + title + " series.";
   <article data-pagefind-ignore>
     <span id="series-list">
       <h1>
-        <Icon name="mdi:plus-box-multiple" />
+        <LayerIcon />
         <a href={`/series/${name}`}>{title} Series</a>
       </h1>
       <div class="series">
         <SeriesList series={title} posts={posts} />
       </div>
       <p class="series-link">
-        <a href="/series"
-          ><Icon name="mdi:plus-circle-multiple" /> Browse all series</a
-        >
+        <a href="/series"><PlusCircleIcon /> Browse all series</a>
       </p>
     </span>
   </article>

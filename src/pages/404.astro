@@ -1,10 +1,10 @@
 ---
-import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
 import site from "../data/site.json";
+import TagIcon from "../components/icons/TagIcon.astro";
 
 import cat from "../assets/images/cat.svg";
 
@@ -20,7 +20,7 @@ let description = "Not all who seek find";
   <Search />
   <article data-pagefind-ignore>
     <div class="tagcloud">
-      <span><Icon name="uiw:tags" />Some Tags</span>
+      <span><TagIcon />Some Tags</span>
       <TagCloud showCount="true" displayNumber="11" />
     </div>
   </article>
