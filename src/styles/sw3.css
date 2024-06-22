@@ -2,24 +2,30 @@
 @import url(https://fonts.bunny.net/css?family=metrophobic:400);
 
 html {
-  --brand-light: #003f97;
-  --title-light: #0126ac;
-  --hyperlink-light: #0028b9;
+  --brand-light: #2d257e;
+  --accent-pink-light: rgb(255, 158, 200);
+  --accent-green-light: rgb(7, 142, 0);
+  --accent-green-darker-light: rgb(5, 88, 0);
+  --accent-blue-light: rgb(0, 92, 222);
+  --accent-purple-light: rgb(106, 0, 212);
+  --accent-orange-darker-light: #f85903;
+  --accent-orange-light: rgb(254, 214, 105);
+  --accent-pink-darker-light: rgb(252, 126, 180);
+  --accent-red-light: rgb(230, 0, 0);
+  --accent-yellow-light: rgb(212, 205, 0);
+  --accent-white-light: rgb(48, 49, 52);
+  --dates-light: var(--accent-purple-light);
+  --title-light: #3b00df;
+  --hyperlink-light: #002fec;
   --text1-light: rgb(2, 2, 45);
   --text2-light: #000000;
   --text3-light: white;
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
-  --surface-menu-light: #d5ecfa;
+  --surface-menu-light: rgb(245, 240, 255);
   --post-bg-light: var(--surface-menu-light);
   --surface1-light: rgb(233, 250, 253);
-  --background-light: rgb(235, 249, 253);
-  /* --background-light: linear-gradient(
-    180deg,
-    rgba(204, 248, 255, 1) 0%,
-    rgba(201, 212, 255, 1) 74%,
-    rgba(255, 255, 255, 1) 100%
-  ); */
+  --background-light: rgb(249, 246, 255);
   --language-id-light: rgb(88, 243, 88);
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: var(--accent-purple-light);
@@ -27,29 +33,33 @@ html {
   --footnote-text-light: var(--text3-light);
   --footnote-border-light: var(--brand-light);
   --footnote-bubble-light: var(--accent-pink-light);
+  --pager-current-light: var(--brand-light);
+  --pager-current-text-light: var(--text3-light);
+  --pager-hover-light: var(--brand-light);
+  --theme-toggle-light: var(--accent-orange-darker-light);
 
   --brand-dark: rgb(254, 214, 105);
+  --accent-pink-dark: rgb(255, 158, 200);
+  --accent-green-dark: rgb(140, 243, 134);
+  --accent-green-darker-dark: rgb(96, 243, 88);
+  --accent-blue-dark: rgb(151, 226, 255);
+  --accent-purple-dark: rgb(193, 136, 249);
+  --accent-orange-darker-dark: #de9351;
+  --accent-orange-dark: #f3ca73;
+  --accent-pink-darker-dark: rgb(252, 126, 180);
+  --accent-red-dark: rgb(255, 70, 70);
+  --accent-yellow-dark: rgb(253, 253, 186);
+  --accent-white-dark: rgb(243, 246, 255);
+  --dates-dark: var(--accent-orange-darker-dark);
   --title-dark: var(--hyperlink-dark);
-  /* --hyperlink-dark: #58cce7; */
   --hyperlink-dark: #00a0ff;
-  /* --text1-dark: #ddf4fb; */
   --text1-dark: #f6f7ed;
   --text2-dark: #58cce7;
   --text3-dark: white;
   --quote-dark: var(--text1-dark);
   --quote-bg-dark: var(--surface-menu-dark);
-  /* --surface1-dark: rgb(0, 0, 16); */
-  /* --surface1-dark: rgba(16, 28, 42, 1.0); */
   --surface1-dark: rgb(2, 0, 36);
-  /* --background-dark: rgb(2, 0, 40); */
   --background-dark: rgb(3, 0, 52);
-  /* --background-dark: linear-gradient(
-    180deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(9, 9, 121, 1) 54%,
-    rgba(17, 76, 230, 1) 100%
-  ); */
-  /* --surface-menu-dark: #080663; */
   --surface-menu-dark: #0a094b;
   --post-bg-dark: var(--surface-menu-dark);
   --scroll-dark: #002338;
@@ -60,10 +70,26 @@ html {
   --footnote-text-dark: var(--surface1-dark);
   --footnote-border-dark: var(--accent-blue-dark);
   --footnote-bubble-dark: var(--text3-dark);
+  --pager-current-dark: var(--accent-purple-dark);
+  --pager-current-text-dark: var(--text3-dark);
+  --pager-hover-dark: var(--accent-purple-dark);
+  --theme-toggle-dark: var(--accent-orange);
 
-  --brand-hypercritical: #053793;
-  --title-hypercritical: var(--hyperlink-hypercritical);
-  --hyperlink-hypercritical: #053793;
+  --brand-hypercritical: #051a93;
+  --accent-pink-hypercritical: rgb(255, 158, 200);
+  --accent-green-hypercritical: rgb(6, 109, 0);
+  --accent-green-darker-hypercritical: rgb(4, 88, 0);
+  --accent-blue-hypercritical: rgb(0, 17, 255);
+  --accent-purple-hypercritical: rgb(75, 0, 150);
+  --accent-orange-darker-hypercritical: #9f4a00;
+  --accent-orange-hypercritical: #bc8100;
+  --accent-pink-darker-hypercritical: rgb(252, 126, 180);
+  --accent-red-hypercritical: rgb(192, 0, 0);
+  --accent-yellow-hypercritical: rgb(253, 253, 186);
+  --accent-white-hypercritical: rgb(42, 42, 42);
+  --dates-hypercritical: var(--accent-orange-hypercritical-dark);
+  --title-hypercritical: var(#000dbd);
+  --hyperlink-hypercritical: var(--accent-blue-hypercritical);
   --text1-hypercritical: var(--text1-light);
   --text2-hypercritical: var(--text2-light);
   --text3-hypercritical: var(--text3-light);
@@ -81,6 +107,10 @@ html {
   --footnote-text-hypercritical: var(--text3-hypercritical);
   --footnote-border-hypercritical: var(--surface1-hypercritical);
   --footnote-bubble-hypercritical: var(--accent-pink-hypercritical);
+  --pager-current-hypercritical: var(--accent-purple-hypercritical);
+  --pager-current-text-hypercritical: var(--text3-hypercritical);
+  --pager-hover-hypercritical: var(--accent-purple-hypercritical);
+  --theme-toggle-hypercritical: var(--brand-hypercritical);
 }
 
 :root {
@@ -98,19 +128,6 @@ html {
   --font-title: "Cartridge-Bold";
   /* --font-blockquote-before: "Cartridge-BoldRough"; */
   --font-blockquote-before: "Cartridge-Bold";
-
-  /* accent colors - override in individual themes if needed */
-  --accent-pink: rgb(255, 158, 200);
-  --accent-green: rgb(140, 243, 134);
-  --accent-green-darker: rgb(96, 243, 88);
-  --accent-blue: rgb(151, 226, 255);
-  --accent-purple: rgb(193, 136, 249);
-  --accent-orange-darker: #de9351;
-  --accent-orange: #f3ca73;
-  --accent-pink-darker: rgb(252, 126, 180);
-  --accent-red: rgb(255, 70, 70);
-  --accent-yellow: rgb(253, 253, 186);
-  --accent-white: rgb(243, 246, 255);
 
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
@@ -133,6 +150,18 @@ html {
 
 [site-theme="light"] {
   --brand: var(--brand-light);
+  --accent-pink: var(--accent-pink-light);
+  --accent-green: var(--accent-green-light);
+  --accent-green-darker: var(--accent-green-darker-light);
+  --accent-blue: var(--accent-blue-light);
+  --accent-purple: var(--accent-purple-light);
+  --accent-orange-darker: var(--accent-orange-darker-light);
+  --accent-orange: var(--accent-orange-light);
+  --accent-pink-darker: var(--accent-pink-darker-light);
+  --accent-red: var(--accent-red-light);
+  --accent-yellow: var(--accent-yellow-light);
+  --accent-white: var(--accent-white-light);
+  --dates: var(--dates-light);
   --title: var(--title-light);
   --hyperlink: var(--hyperlink-light);
   --text1: var(--text1-light);
@@ -146,6 +175,10 @@ html {
   --footnote-text: var(--footnote-text-light);
   --footnote-border: var(--footnote-border-light);
   --footnote-bubble: var(--footnote-bubble-light);
+  --pager-current: var(--pager-current-light);
+  --pager-current-text: var(--pager-current-text-light);
+  --pager-hover: var(--pager-hover-light);
+  --theme-toggle: var(--theme-toggle-light);
 
   --surface1: var(--surface1-light);
   --surface-menu: var(--surface-menu-light);
@@ -171,6 +204,18 @@ html {
 
 [site-theme="dark"] {
   --brand: var(--brand-dark);
+  --accent-pink: var(--accent-pink-dark);
+  --accent-green: var(--accent-green-dark);
+  --accent-green-darker: var(--accent-green-darker-dark);
+  --accent-blue: var(--accent-blue-dark);
+  --accent-purple: var(--accent-purple-dark);
+  --accent-orange-darker: var(--accent-orange-darker-dark);
+  --accent-orange: var(--accent-orange-dark);
+  --accent-pink-darker: var(--accent-pink-darker-dark);
+  --accent-red: var(--accent-red-dark);
+  --accent-yellow: var(--accent-yellow-dark);
+  --accent-white: var(--accent-white-dark);
+  --dates: var(--dates-dark);
   --title: var(--title-dark);
   --hyperlink: var(--hyperlink-dark);
   --text1: var(--text1-dark);
@@ -183,6 +228,10 @@ html {
   --footnote-text: var(--footnote-text-dark);
   --footnote-border: var(--footnote-border-dark);
   --footnote-bubble: var(--footnote-bubble-dark);
+  --pager-current: var(--pager-current-dark);
+  --pager-current-text: var(--pager-current-text-dark);
+  --pager-hover: var(--pager-hover-dark);
+  --theme-toggle: var(--theme-toggle-dark);
 
   --surface1: var(--surface1-dark);
   --surface-menu: var(--surface-menu-dark);
@@ -207,6 +256,18 @@ html {
 
 [site-theme="hypercritical"] {
   --brand: var(--brand-hypercritical);
+  --accent-pink: var(--accent-pink-hypercritical);
+  --accent-green: var(--accent-green-hypercritical);
+  --accent-green-darker: var(--accent-green-darker-hypercritical);
+  --accent-blue: var(--accent-blue-hypercritical);
+  --accent-purple: var(--accent-purple-hypercritical);
+  --accent-orange-darker: var(--accent-orange-darker-hypercritical);
+  --accent-orange: var(--accent-orange-hypercritical);
+  --accent-pink-darker: var(--accent-pink-darker-hypercritical);
+  --accent-red: var(--accent-red-hypercritical);
+  --accent-yellow: var(--accent-yellow-hypercritical);
+  --accent-white: var(--accent-white-hypercritical);
+  --dates: var(--dates-hypercritical);
   --title: var(--title-hypercritical);
   --hyperlink: var(--hyperlink-hypercritical);
   --text1: var(--text1-hypercritical);
@@ -219,6 +280,10 @@ html {
   --footnote-text: var(--footnote-text-hypercritical);
   --footnote-border: var(--footnote-border-hypercritical);
   --footnote-bubble: var(--footnote-bubble-hypercritical);
+  --pager-current: var(--pager-current-hypercritical);
+  --pager-current-text: var(--pager-current-text-hypercritical);
+  --pager-hover: var(--pager-hover-hypercritical);
+  --theme-toggle: var(--theme-toggle-hypercritical);
 
   --surface1: var(--surface1-hypercritical);
   --background: var(--background-hypercritical);
@@ -301,10 +366,6 @@ body {
   font-size: 1.25rem;
   line-height: 1.5;
   background: var(--background);
-  /* background-color: var(--surface1); */
-  /*   background-size: 96em auto;
-  background-position: center;
-  background-repeat: repeat-x; */
   color: var(--text1);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -401,8 +462,8 @@ svg#menu-home-icon {
   height: 1.25em;
 }
 div.menu svg#message-edit-icon {
-  width: 1.3em;
-  height: 1.3em;
+  width: 1.25em;
+  height: 1.25em;
   fill: var(--accent-red);
 }
 svg#menu-link-icon {
@@ -420,14 +481,19 @@ svg#menu-search-icon {
   width: 1.25em;
   height: 1.25em;
 }
-svg#menu-moon-icon {
-  fill: var(--accent-white);
+svg#menu-moon-icon,
+svg#menu-sun-icon,
+svg#menu-hypercritical-icon {
+  fill: var(--theme-toggle);
   width: 1.25em;
   height: 1.25em;
   margin-left: 2em;
+  margin-bottom: 0.25em;
 }
 @media only screen and (max-width: 550px) {
-  svg#menu-moon-icon {
+  svg#menu-moon-icon,
+  svg#menu-sun-icon,
+  svg#menu-hypercritical-icon {
     margin-left: 0;
   }
 }
@@ -501,7 +567,7 @@ svg#location-plus-icon {
   height: 2.5em;
 }
 svg#calendar-fill-icon {
-  fill: var(--accent-orange-darker);
+  fill: var(--dates);
   width: 1.1em;
   height: 1.1em;
   margin-bottom: -0.2em;
@@ -614,7 +680,7 @@ div.time,
 div.time a {
   font-weight: bold;
   font-size: 0.9em;
-  color: var(--accent-orange-darker);
+  color: var(--dates);
 }
 
 div.time {

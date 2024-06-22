@@ -5,6 +5,8 @@ import LinkIcon from "./icons/MenuLinkIcon.astro";
 import InfoIcon from "./icons/MenuInfoIcon.astro";
 import SearchIcon from "./icons/MenuSearchIcon.astro";
 import MoonIcon from "./icons/MenuMoonIcon.astro";
+import SunIcon from "./icons/MenuSunIcon.astro";
+import HypercriticalIcon from "./icons/MenuHypercriticalIcon.astro";
 ---
 
 <div class="menu">
@@ -13,14 +15,103 @@ import MoonIcon from "./icons/MenuMoonIcon.astro";
   <a href="/links"><LinkIcon /></a>
   <a href="/about"><InfoIcon /></a>
   <a href="/search"><SearchIcon /></a>
-  <a href="/"><MoonIcon /></a>
+  <button id="theme-toggle" aria-label="Switch to dark theme">
+    <MoonIcon />
+    <SunIcon />
+    <HypercriticalIcon />
+  </button>
 </div>
+<script is:inline>
+  const setTheme = () => {
+    const themeToggle = document.getElementById("theme-toggle");
+
+    let currentTheme = localStorage.getItem("theme");
+    switch (currentTheme) {
+      case "light":
+        enableLightTheme();
+        break;
+      case "hypercritical":
+        enableHypercriticalTheme();
+        break;
+      case "dark":
+        enableDarkTheme();
+        break;
+      default:
+        enableDarkTheme();
+        break;
+    }
+
+    themeToggle.addEventListener("click", () => {
+      if (document.documentElement.hasAttribute("site-theme")) {
+        currentTheme = document.documentElement.getAttribute("site-theme");
+      }
+      toggleTheme(currentTheme);
+    });
+
+    function enableDarkTheme() {
+      document.documentElement.setAttribute("site-theme", "dark");
+      localStorage.setItem("theme", "dark");
+      document.getElementById("menu-sun-icon").style.display = "none";
+      document.getElementById("menu-moon-icon").style.display = "inline";
+      document.getElementById("menu-hypercritical-icon").style.display = "none";
+    }
+
+    function enableLightTheme() {
+      document.documentElement.setAttribute("site-theme", "light");
+      localStorage.setItem("theme", "light");
+      document.getElementById("menu-moon-icon").style.display = "none";
+      document.getElementById("menu-sun-icon").style.display = "inline";
+      document.getElementById("menu-hypercritical-icon").style.display = "none";
+    }
+
+    function enableHypercriticalTheme() {
+      document.documentElement.setAttribute("site-theme", "hypercritical");
+      localStorage.setItem("theme", "hypercritical");
+      document.getElementById("menu-moon-icon").style.display = "none";
+      document.getElementById("menu-sun-icon").style.display = "none";
+      document.getElementById("menu-hypercritical-icon").style.display =
+        "inline";
+    }
+
+    function toggleTheme(currentTheme) {
+      if (currentTheme) {
+        switch (currentTheme) {
+          case "light":
+            enableDarkTheme();
+            break;
+          case "hypercritical":
+            enableLightTheme();
+            break;
+          case "dark":
+            enableHypercriticalTheme();
+            break;
+          default:
+            enableDarkTheme();
+            break;
+        }
+      } else {
+        enableDarkTheme();
+      }
+    }
+  };
+
+  setTheme();
+
+  document.addEventListener("astro:after-swap", setTheme);
+</script>
 <style>
   .menu {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     gap: 0.75em;
     width: fit-content;
+  }
+  button#theme-toggle {
+    cursor: pointer;
+    background: 0;
+    border: 0;
+    border-radius: 50%;
   }
 </style>
