@@ -3,14 +3,14 @@
 
 html {
   --brand-light: #2d257e;
-  --accent-pink-light: rgb(255, 158, 200);
+  --accent-pink-light: rgb(224, 81, 143);
   --accent-green-light: rgb(7, 142, 0);
   --accent-green-darker-light: rgb(5, 88, 0);
   --accent-blue-light: rgb(0, 92, 222);
   --accent-purple-light: rgb(106, 0, 212);
   --accent-orange-darker-light: #f85903;
   --accent-orange-light: rgb(254, 214, 105);
-  --accent-pink-darker-light: rgb(252, 126, 180);
+  --accent-pink-darker-light: rgb(245, 85, 202);
   --accent-red-light: rgb(230, 0, 0);
   --accent-yellow-light: rgb(212, 205, 0);
   --accent-white-light: rgb(48, 49, 52);
@@ -76,14 +76,14 @@ html {
   --theme-toggle-dark: var(--accent-orange);
 
   --brand-hypercritical: #051a93;
-  --accent-pink-hypercritical: rgb(255, 158, 200);
+  --accent-pink-hypercritical: rgb(206, 0, 148);
   --accent-green-hypercritical: rgb(6, 109, 0);
   --accent-green-darker-hypercritical: rgb(4, 88, 0);
   --accent-blue-hypercritical: rgb(0, 17, 255);
   --accent-purple-hypercritical: rgb(75, 0, 150);
   --accent-orange-darker-hypercritical: #9f4a00;
   --accent-orange-hypercritical: #bc8100;
-  --accent-pink-darker-hypercritical: rgb(252, 126, 180);
+  --accent-pink-darker-hypercritical: rgb(152, 7, 70);
   --accent-red-hypercritical: rgb(192, 0, 0);
   --accent-yellow-hypercritical: rgb(253, 253, 186);
   --accent-white-hypercritical: rgb(42, 42, 42);
@@ -244,7 +244,7 @@ html {
   --language-id: var(--language-id-dark);
 
   --pagefind-ui-primary: var(--surface-menu);
-  --pagefind-ui-text: red;
+  --pagefind-ui-text: rgb(255, 255, 255);
   --pagefind-ui-message-text: #fff;
   --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #fff;
