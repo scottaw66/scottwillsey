@@ -6,7 +6,13 @@ slug: "changelog"
 ---
 ### 2024-06-22
 
-A whole new redesign to clean it up, make it sleeker, and hopefully make it easier to read posts.
+A whole new redesign to clean it up, make it sleeker, and hopefully make it easier to read posts. Loses persistent side menu and reverts to header menu (icons only again!). Better colors, no gradients anywhere.
+
+[![Redesigned Home Page](../../assets/images/posts/HomePageUpdate20240620-978203AA-FAED-428A-BCA2-2902F26640D6.png)](/images/posts/HomePageUpdate20240620-978203AA-FAED-428A-BCA2-2902F26640D6.jpg)
+
+[![Redesigned Blog Page](../../assets/images/posts/BlogPostUpdate20240620-FF065EE5-DDF1-40AC-8B5F-3A8E0CD1399D.png)](/images/posts/BlogPostUpdate20240620-FF065EE5-DDF1-40AC-8B5F-3A8E0CD1399D.jpg)
+
+[![Redesigned Home Page Light Theme](../../assets/images/posts/HomePageUpdateLightTheme20240620-4C825BBF-63B1-4C16-B901-3126BFF0CC0D.png)](/images/posts/HomePageUpdateLightTheme20240620-4C825BBF-63B1-4C16-B901-3126BFF0CC0D.jpg)
 
 ### 2024-06-05
 
@@ -83,3 +89,15 @@ Upgraded to Astro 4.
 ### 2023-09-07
 
 Finished conversion to Astro 3.
+
+### 2023-05-01
+
+Redesign! New persistent side menu instead of header menu, some theme colors with both dark and light modes.
+
+[![Site with persistent side menu](../../assets/images/posts/AboutMe20240619-0F4953B3-E481-40C1-8754-8B9BE3686F44.png)](/images/posts/AboutMe20240619-0F4953B3-E481-40C1-8754-8B9BE3686F44.jpg)
+
+[![New persistent side menu](../../assets/images/posts/MenuNew-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuNew-3E56C990-7E39-4697-A776-5214ED13CCAE.jpg)
+
+The previous menu was an iteration of a long-used header menu and looked like this:
+
+[![Site with persistent side menu](../../assets/images/posts/MenuOld-3E56C990-7E39-4697-A776-5214ED13CCAE.png)](/images/posts/MenuOld-3E56C990-7E39-4697-A776-5214ED13CCAE.jpg)

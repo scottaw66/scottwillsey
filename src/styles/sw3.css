@@ -538,7 +538,8 @@ svg#footer-rss-icon:hover,
 svg#footer-history-icon:hover {
   fill: var(--brand);
 }
-a svg:hover {
+a svg:hover,
+button svg:hover {
   transform-origin: center;
   transform: scale(1.5);
 }
