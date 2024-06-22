@@ -28,7 +28,7 @@ html {
   --background-light: rgb(249, 246, 255);
   --language-id-light: rgb(88, 243, 88);
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
-  --footnote-link-light: var(--accent-purple-light);
+  --footnote-link-light: #eddeff;
   --footnote-bg-light: var(--hyperlink-light);
   --footnote-text-light: var(--text3-light);
   --footnote-border-light: var(--brand-light);
@@ -65,7 +65,7 @@ html {
   --scroll-dark: #002338;
   --language-id-dark: rgb(243, 202, 88);
   --accent-shadow-dark: var(--hyperlink-dark);
-  --footnote-link-dark: rgb(4, 4, 119);
+  --footnote-link-dark: rgb(0, 0, 255);
   --footnote-bg-dark: var(--text3-dark);
   --footnote-text-dark: var(--surface1-dark);
   --footnote-border-dark: var(--accent-blue-dark);
@@ -102,7 +102,7 @@ html {
   --scroll-hypercritical: #0046c9;
   --language-id-hypercritical: rgb(88, 243, 88);
   --accent-shadow-hypercritical: rgba(57, 3, 107, 0.7);
-  --footnote-link-hypercritical: var(--brand-hypercritical);
+  --footnote-link-hypercritical: #e1ddfd;
   --footnote-bg-hypercritical: var(--brand-hypercritical);
   --footnote-text-hypercritical: var(--text3-hypercritical);
   --footnote-border-hypercritical: var(--surface1-hypercritical);

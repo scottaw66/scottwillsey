@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-19T15:35:32-08:00"
+date: "2024-06-22T16:02:02-08:00"
 slug: "links"
 ---
 
@@ -49,6 +49,7 @@ slug: "links"
 - [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
 - [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
 - [LLMs Aren’t Just “Trained On the Internet” Anymore - Allen Pike](https://allenpike.com/2024/llms-trained-on-internet)
@@ -304,6 +305,9 @@ I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his b
 **[Wild Thoughts](https://sarafen.com/wildthoughts/)**  
 This is another one where the design immediately hooked me. Sara's site has it in spades. Beautiful!
 
+**[Ye Olde Blogroll - Blogroll.org](https://blogroll.org/)**  
+It's not a blog, it's not a roll, it's a BLOGROLL!!!  
+
 **[You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)**  
 The blog is currently a lot about web programming, but there's all kinds of other stuff on this site too, and I really love the unique design.  
 
@@ -369,6 +373,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
+- [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
 - [Game Dad Club](https://gamedad.club/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
@@ -543,6 +548,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Man Reader 2](https://apps.apple.com/us/app/man-reader/id522583774?mt=12)
+- [Miller 6.12.0 Documentation](https://miller.readthedocs.io/en/6.12.0/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
 - [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)

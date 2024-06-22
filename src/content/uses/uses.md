@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-05-30T11:52:48-08:00"
+date: "2024-06-22T16:02:02-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -56,7 +56,6 @@ slug: "uses"
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
-- [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 
 ### Programming, Log Analysis, Text Filtering
 

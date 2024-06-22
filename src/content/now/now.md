@@ -1,26 +1,27 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-06-16T16:35:35-08:00"
+date: "2024-06-22T16:02:02-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Flashcast 14: WWDC 2024 Live – Mac Admins Podcast](https://podcast.macadmins.org/2024/06/14/flashcast-14-wwdc-2024-live/)
-- [The Talk Show ✪: Ep. 402: Live From WWDC 2024](https://daringfireball.net/thetalkshow/2024/06/11/ep-402)
-- [ATP Interview: Holly Borla & Ben Cohen — Accidental Tech Podcast](https://atp.fm/atp-interview-holly-borla-ben-cohen)
+- [Exploring the 3 Body Game & the Three-body problem theory explained | 3 Body Podcast](https://podcasts.apple.com/us/podcast/3-body-podcast/id1733588331?i=1000650698306)
+- [Inside the Players and Politics of the AI Industry | Decoder with Nilay Patel](https://podcasts.apple.com/us/podcast/decoder-with-nilay-patel/id1011668648?i=1000659616245)
+- [James Allison: confident of a Mercedes comeback | F1: Beyond The Grid](https://podcasts.apple.com/us/podcast/f1-beyond-the-grid/id1405972616?i=1000659454254)
 
 ### YouTube
 
 Hey look, a YouTube section! I do use YouTube a lot to catch up on tech information or just to watch all the things people did wrong on Mt Everest right before they died, but YouTube is such a click-bait generator that it does require some care and ignoring 99% of what YouTube recommends.
 
+- [Claude 3.5 Sonnet for vision - YouTube](https://www.youtube.com/watch?v=dhxrHvgXpSM)
+- [McLaren Driver Oscar Piastri Breaks Down Racing Movies | GQ Sports - YouTube](https://www.youtube.com/watch?v=X85BxrrhbbU&t=633s)
+- [Naming things just got easier thanks to @scope - YouTube](https://www.youtube.com/watch?v=PkFuytYVqI8&t=63s)
 - [The Talk Show Live From WWDC 2024 - YouTube](https://www.youtube.com/watch?v=J7al_Gpolb8&t=4415s)
 - [How Sicario Fools its Audience - YouTube](https://www.youtube.com/watch?v=_kOfDh5zF4c)
 - [Apple's Most Jam-Packed Keynote Ever! - YouTube](https://www.youtube.com/watch?v=C0Yu-hkk1c8&t=1020s)
 - [What next for Daniel Ricciardo after Red Bull F1 rejection - YouTube](https://www.youtube.com/watch?v=tnvIm6MGGWs)
-- [Martin Brundle’s Most Terrifying Racing Moment | BRUNDLE: behind the wheel - YouTube](https://www.youtube.com/watch?v=L28fk8ifiYs)
-- [Astro Actions: the missing server action library - YouTube](https://www.youtube.com/watch?v=VkYQMhit_04)
 
 ### Books
 
@@ -34,10 +35,12 @@ I don't have a lot of time for reading these days, and usually by the time I get
 
 ### Movies and TV
 
+- [Your Honor - Netflix](https://www.netflix.com/title/81684531) *Bryan Cranston is always at his best when he's trying to clean up his own messes. I'm only 4 episodes in, but I will watch this whole thing for sure.*
 - [The Town](https://www.themoviedb.org/movie/23168) *Greatest movie ever? Most definitely not. But I did enjoy it at 1 am after a week of work.*
-- [Dark Matter](https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg) *Still watching. Still feels like they don't know how to make a compelling series last for however many episodes they have planned. LOTS of navel gazing and exposition, and I'm not necessarily opposed to focus on characters and story, but it's gotta be compelling.*
+- [Dark Matter](https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg) *It took EIGHT @#$@# EPISODES TO ACTUALLY DO SOMETHING, but now I pretty much have to watch to see how the protagonist(s) resolves this mess.*
 
 ### Food and Drink
 
+- [ETHIOPIA – DOMA Coffee Roasting Company](https://www.domacoffee.com/collections/coffee/products/ethiopia) *I need a couple more brews of this to decide how much I like it, but it's certainly inoffensive.*
 - [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton) *This place has wonderful hot donburi, curry, and ramen, but the fresh sushi is worth its weight in gold (and costs it too).*
 - [Home | ramen-ryoma](https://www.ramenryoma.net/) *You can get really good ramen here for a family without bankrupting yourself, and that's not nothing. In fact, it's quite something. You should go. Now. Today.*
