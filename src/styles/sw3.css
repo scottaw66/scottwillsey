@@ -1021,7 +1021,8 @@ div.now ul li {
 
 iframe {
   margin: 0 auto;
-  width: 100%;
+  display: block;
+  width: 98%;
 }
 
 #search .pagefind-ui__search-input,

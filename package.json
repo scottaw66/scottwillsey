@@ -41,11 +41,10 @@
     "normalize.css": "^8.0.1",
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
-    "sanitize-html": "^2.13.0"
+    "sanitize-html": "^2.13.0",
+    "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
-    "eslint": "^9.5.0",
-    "eslint-plugin-astro": "^1.2.2",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.0"
   }
