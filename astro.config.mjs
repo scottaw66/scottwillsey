@@ -3,9 +3,7 @@ import expressiveCode from "astro-expressive-code";
 import pagefind from "astro-pagefind";
 import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
 import remarkToc from "remark-toc";
-import { remarkYouTubeLinks } from "./src/components/utilities/remark-social-links.mjs";
-import { remarkMastodonLinks } from "./src/components/utilities/remark-social-links.mjs";
-import { remarkThreadsLinks } from "./src/components/utilities/remark-social-links.mjs";
+import { remarkSocialLinks } from "./src/components/utilities/remark-social-links.mjs";
 
 /** @type {import('astro-expressive-code').AstroExpressiveCodeOptions} */
 const astroExpressiveCodeOptions = {
@@ -19,12 +17,7 @@ export default defineConfig({
   site: "https://scottwillsey.com/",
   integrations: [expressiveCode(astroExpressiveCodeOptions), pagefind()],
   markdown: {
-    remarkPlugins: [
-      [remarkToc, { heading: "contents" }],
-      remarkYouTubeLinks,
-      remarkMastodonLinks,
-      remarkThreadsLinks,
-    ],
+    remarkPlugins: [[remarkToc, { heading: "contents" }], remarkSocialLinks],
     rehypePlugins: [rehypeAccessibleEmojis],
   },
 });
