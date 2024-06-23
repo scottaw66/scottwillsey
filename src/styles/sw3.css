@@ -667,7 +667,8 @@ blockquote.text-post-media {
 }
 
 div.threads-post {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .update {
