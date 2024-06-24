@@ -712,7 +712,7 @@ article h2#contents + ul {
 article img {
   display: flex;
   justify-content: center;
-  margin: 2rem auto;
+  margin: 2em auto;
   max-width: 820px;
   height: auto;
   border: 1px solid var(--accent-pink);
@@ -1021,7 +1021,7 @@ div.now ul li {
 }
 
 iframe {
-  margin: 0 auto;
+  margin: 2em auto;
   display: block;
   width: 98%;
 }
