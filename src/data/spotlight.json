@@ -1,6 +1,6 @@
 {
-  "Site": "https://pudding.cool/",
-  "Title": "The Pudding",
-  "Description": "Most pudding is delicious but uninformative, but this pudding is delicious AND informative. Visual essays created with data.",
-  "Image": "ThePudding-20EA1375-A10F-406D-BA22-A72782E31651"
+  "Site": "https://blogofthe.day/",
+  "Title": "Blog of the .Day: Explore the (indie) web, one blog at a time.",
+  "Description": "Every day, Blog of the .Day highlights a new blog. The blog is chosen at random and a new one should be deployed daily via Netlify. Joe Crawford became steward of this project in May 2024.",
+  "Image": "BlogOfTheDay-85AD1241-E75B-4FEA-AC66-0F5E11FA54CA"
 }

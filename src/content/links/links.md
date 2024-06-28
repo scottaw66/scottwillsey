@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-22T16:02:02-08:00"
+date: "2024-06-28T09:49:30-08:00"
 slug: "links"
 ---
 
@@ -131,6 +131,9 @@ Habib Cham is one of the nicest people you'll meet on the socials, and he's alwa
 **[CodeMacLife](https://codemaclife.com/)**  
 I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere.  
 
+**[Cole's Blog](https://coleb.blog/)**  
+I like people who blog because they love to, results be damned!  
+
 **[Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/)**  
 Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be.  
 
@@ -166,6 +169,9 @@ Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, 
 
 **[Harshil Shah](https://harshil.net/)**  
 I like Harshil Shah. I think everyone likes Harshil Shah. He created the excellent [Peak](https://sneakpeak.app) and [Pause](https://harshil.net/pause) apps, and more importantly, he brings light to the world.  
+
+**[Heavy Home](https://heavy.rocks/)**  
+It's 1999, and even if it's not, Mike is going to pretend like it is!  
 
 **[Hello! from Rick Cogley](https://cogley.jp/)**  
 Rick's microblog on tech and Japan! Hey, I like both of those things!  
@@ -244,6 +250,9 @@ See the notes for EuroVan Camper Stuff above - it's David H!
 
 **[Philip Zastrow](https://zastrow.co/)**  
 I love all the different websites from designers. This is super cool too.  
+
+**[Phil's weblog](https://stollerys.co.uk/)**  
+Some of my favorite blogs are the ones that are all about how the website is built. I love that stuff.  
 
 **[Pixel Envy](https://pxlnv.com/)**  
 Nick Heer's blog. I just stumbled across this tonight myself. Very much tech related, like most of the blogs I list here.  
@@ -387,6 +396,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
+- [The Pudding](https://pudding.cool/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)

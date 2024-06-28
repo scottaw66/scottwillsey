@@ -386,6 +386,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"for-myself.md": {
+	id: "for-myself.md";
+  slug: "for-myself";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "friends-with-transcripts.md": {
 	id: "friends-with-transcripts.md";
   slug: "friends-with-transcripts";
