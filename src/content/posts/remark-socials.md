@@ -6,13 +6,13 @@ keywords: ["blog", "astro", "markdown","remark"]
 series: "Astro"
 slug: "remark-socials"
 ---
-## Contents
+Contents
 
 ## Astro Remark Support
 
 One of the cool things about [Astro](https://astro.build) is how it supports Markdown using [remark](https://github.com/remarkjs/remark). This means it also supports remark plugins, and THAT means you can write your own custom remark plugins to modify the markdown in your posts however you like.
 
-Astro’s documentation has [many examples of modifying front matter with remark](https://docs.astro.build/en/guides/content-collections/#modifying-frontmatter-with-remark). Actually modifying things in the markdown content itself is a slightly different matter, but it’s still pretty simple, all things considered. Astro has a recipes and guides section on their [Community Educational Content](https://docs.astro.build/en/community-resources/content/) page (basically links to external articles), and in that recipes and guides section is a section on Markdown, with a link to this example:
+Astro’s documentation has [many examples of modifying front matter with remark](https://docs.astro.build/en/guides/content-collections/#modifying-frontmatter-with-remark). Actually modifying things in the markdown content itself is a slightly different matter, but it’s still pretty simple, all things considered. Astro has a recipes and guides section on their [Community Educational Content page](https://docs.astro.build/en/community-resources/content/) (basically links to external articles), and in that recipes and guides section is a section on Markdown, with a link to this example:
 
 [Remove runts from your Markdown with ~15 lines of code · John Eatmon](https://eatmon.co/blog/remove-runts-markdown)
 
@@ -40,17 +40,17 @@ Here are the regular expressions I’m currently using for Mastodon, Threads, an
 
 ```javascript title="Mastodon regex"
 const mastodonRegex =
-        /^<?https:\/\/([a-zA-Z0-9.-]+)\/(@[\w-]+\/\d{10,20})>?$/;
+        /^https:\/\/([a-zA-Z0-9.-]+)\/(@[\w-]+\/\d{10,20})$/;
 ```
 
 ```javascript title="Threads regex"
 const threadsRegex =
-        /^<?https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_\-]+)(\?.*)?>?$/;
+        /^https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_\-]+)(\?.*)?$/;
 ```
 
 ```javascript title="YouTube regex"
 const youtubeRegex =
-        /^<?https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)(?:\S*)?>?$/;
+        /^https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)(?:\S*)?$/;
 ```
 
 These may change as I encounter variations of the different URLs for each service. These are rev 2 of the Threads and YouTube regular expressions, for example.
@@ -165,20 +165,20 @@ That’s great… but you may have noticed that there are no actual definitions 
 
 Well, earlier I showed you my regular expressions. I didn’t show you the replacement strings, but here’s the whole thing, including regular expressions (highlighted) and replacement strings (also highlighted):
 
-```javascript title="remark-social-links.mjs" {6,8,10,12-18}
+```javascript title="remark-social-links.mjs" {6-7,9-10,12-13,15-25}
 import { visit } from "unist-util-visit";
 
 export function remarkSocialLinks() {
   return (tree) => {
     visit(tree, "text", (node) => {
       const youtubeRegex =
-        /^<?https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)(?:\S*)?>?$/;
+        /^https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)(?:\S*)?$/;
 
       const mastodonRegex =
-        /^<?https:\/\/([a-zA-Z0-9.-]+)\/(@[\w-]+\/\d{10,20})>?$/;
+        /^https:\/\/([a-zA-Z0-9.-]+)\/(@[\w-]+\/\d{10,20})$/;
 
       const threadsRegex =
-        /^<?https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_\-]+)(\?.*)?>?$/;
+        /^https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_\-]+)(\?.*)?$/;
 
       const replacementTemplates = {
         youtube: (id) =>
@@ -243,8 +243,6 @@ export default defineConfig({
     rehypePlugins: [rehypeAccessibleEmojis],
   },
 });
-
-
 ```
 
 ## Summarium
