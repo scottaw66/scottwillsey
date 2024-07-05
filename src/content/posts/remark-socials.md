@@ -6,7 +6,6 @@ keywords: ["blog", "astro", "markdown","remark"]
 series: "Astro"
 slug: "remark-socials"
 ---
-
 ## Contents
 
 ## Astro Remark Support
@@ -33,6 +32,27 @@ Step 1 in transforming the social links is creating aforementioned regular expre
 
 ### Regular Expressions for YouTube, Threads, and Mastodon Links
 
-If you have a Mac and you do any scripting or text file management or log analysis, I highly suggest [BBEdit](https://www.barebones.com/products/bbedit/index.html) from Bare Bones Software. It’s not cheap, it’s
+If you have a Mac and you do any scripting or text file management or log analysis, I highly suggest [BBEdit](https://www.barebones.com/products/bbedit/index.html) from Bare Bones Software. It’s not cheap, it’s complex, and a lot of things are done in counterintuitive ways. But it’s powerful, and it has an outstanding Pattern Playground feature for building and testing regular expressions. It’s simple to make a bunch of sample posts and try matches and replacements on them to craft both your regular expressions and the replacement strings for the embed code.
+
+[![BBEdit Pattern Playground](../../assets/images/posts/BBEditPatternPlayground-AF19ED87-71D0-42DD-91E2-64601B7C2558.png)](/images/posts/BBEditPatternPlayground-AF19ED87-71D0-42DD-91E2-64601B7C2558.jpg)
+
+Here are the regular expressions I’m currently using for Mastodon, Threads, and YouTube, respectively.
+
+```javascript title="Mastodon regex"
+const mastodonRegex =
+        /^<?https:\/\/([a-zA-Z0-9.-]+)\/(@[\w-]+\/\d{10,20})>?$/;
+```
+
+```javascript title="Threads regex"
+const threadsRegex =
+        /^<?https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_\-]+)(\?.*)?>?$/;
+```
+
+```javascript title="YouTube regex"
+const youtubeRegex =
+        /^<?https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)(?:\S*)?>?$/;
+```
+
+These may change as I encounter variations of the different URLs for each service. These are rev 2 of the Threads and YouTube regular expressions, for example.
 
 [^1]: Remember when [hanging chads](https://www.history.com/news/2000-election-bush-gore-votes-supreme-court) were the biggest of our political problems? It can definitely be argued, however, that there’s a direct line from those hanging chads to where we are today with people storming the capitol to protest a “stolen election”.

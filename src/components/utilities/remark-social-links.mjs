@@ -3,12 +3,17 @@ import { visit } from "unist-util-visit";
 export function remarkSocialLinks() {
   return (tree) => {
     visit(tree, "text", (node) => {
+      /* const youtubeRegex =
+        /^<?https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)>?$/; */
       const youtubeRegex =
-        /^<?https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)>?$/;
+        /^<?https:\/\/(?:www\.youtube\.com\/watch\?v=|youtu\.be\/)([\w-]+)(?:\S*)?>?$/;
+
       const mastodonRegex =
         /^<?https:\/\/([a-zA-Z0-9.-]+)\/(@[\w-]+\/\d{10,20})>?$/;
+      /* const threadsRegex =
+        /^<?https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_]+)>?/; */
       const threadsRegex =
-        /^<?https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_]+)>?/;
+        /^<?https:\/\/www\.threads\.net\/(@[\w.]+)\/post\/([A-Za-z0-9_\-]+)(\?.*)?>?$/;
 
       const replacementTemplates = {
         youtube: (id) =>
