@@ -1,6 +1,6 @@
 {
-  "Site": "https://blogofthe.day/",
-  "Title": "Blog of the .Day: Explore the (indie) web, one blog at a time.",
-  "Description": "Every day, Blog of the .Day highlights a new blog. The blog is chosen at random and a new one should be deployed daily via Netlify. Joe Crawford became steward of this project in May 2024.",
-  "Image": "BlogOfTheDay-85AD1241-E75B-4FEA-AC66-0F5E11FA54CA"
+  "Site": "https://www.htmhell.dev",
+  "Title": "HTMHell",
+  "Description": "A collection of bad practices in HTML, copied from real websites.",
+  "Image": "HTMHell-11DD29CC-A055-41DC-AF08-69B4ABF958A6"
 }

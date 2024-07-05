@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-06-28T09:49:30-08:00"
+date: "2024-07-05T16:03:30-08:00"
 slug: "links"
 ---
 
@@ -12,6 +12,7 @@ slug: "links"
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
+- [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [MacGPT - ChatGPT in your menubar](https://www.macgpt.com/)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
@@ -381,6 +382,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [&udm=14 | the disenshittification Konami code](https://udm14.com/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
+- [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
@@ -423,6 +425,12 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Tanaka](https://tanakakatsusando.com/)
 - [Toki Restaurant](https://www.tokipdx.com/)
 - [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
+
+## Games
+
+- [Inform 7 | Inform is a natural-language-based programming language for writers of interactive fiction.](https://ganelson.github.io/inform-website/)
+- [Kunitsu-Gami: Path of the Goddess | CAPCOM](https://www.kunitsu-gami.com/en-us/)
+- [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
 
 ## Japan & Japanese Language
 
@@ -481,6 +489,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
+- [mierau/hotline: A modern Hotline client for Mac, iOS, and iPadOS](https://github.com/mierau/hotline)
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
@@ -584,6 +593,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
 - [Raycast Developer API](https://developers.raycast.com/)
 - [Security | Raycast API](https://developers.raycast.com/information/security)
+- [Top Extension Picks for Designers - Raycast Blog](https://www.raycast.com/blog/extension-picks-designers)
 - [Window Management](https://manual.raycast.com/window-management)
 
 ## RSS & Reading Tools
