@@ -6,7 +6,7 @@ keywords: ["blog", "astro", "markdown","remark"]
 series: "Astro"
 slug: "remark-socials"
 ---
-Contents
+## Contents
 
 ## Astro Remark Support
 
