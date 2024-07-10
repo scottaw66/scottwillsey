@@ -99,6 +99,10 @@ updateMostRecentFile();
 
 ```
 
+**NOTE!**
+
+*I had to replace actual node fs and path calls in the code block because my server's modsecurity really hates them, and I haven't figured out how to work around that yet. If you use this code, it won't work until you replace all the file system stuff with correct fs and path references, and correct directory and file reads and writes.*
+
 Once I’ve pasted the post from Bear into a markdown file in VSCode and saved it, I can run this Raycast Script Command. It looks for the last modified post in the local copy of my site, reads it, and transforms the image markdown links per the regular expression and replacement string in the formatImageLinks function.
 
 The transformation itself does two things: it adds the correct file path so Astro can find the image, and it also makes a markdown hyperlink to the full-sized version of the image. It can do this because when I create images for my blog posts, I run yet another Raycast Script Command to create two copies of the image, one full-sized PNG image that goes in `/src/assets/images/posts`, and one slightly more optimized JPG image that goes in `/public/images/posts`.
