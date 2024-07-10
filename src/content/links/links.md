@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-07-10T09:10:38-08:00"
+date: "2024-07-10T09:27:00-08:00"
 slug: "links"
 ---
 
@@ -98,6 +98,9 @@ Alex likes coffee. Alex likes computers. I like the things Alex writes.
 
 **[Álvaro Ramírez](https://xenodium.com/)**  
 A man of many tech topics.  
+
+**[And now… – The musings of an ageing technophile](https://andnow.me/)**  
+I always enjoy whatever Allister has to say. He's a friend from the Apple community.  
 
 **[A Shower Of Thoughts](https://berbaquero.com/)**  
 Some web stuff, some Apple stuff, this Dutch-Latino man is my kinda human.  
@@ -384,6 +387,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
 - [Game Dad Club](https://gamedad.club/)
+- [HTMHell](https://www.htmhell.dev)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
