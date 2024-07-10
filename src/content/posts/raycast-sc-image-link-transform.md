@@ -121,11 +121,11 @@ To this:
 [![Astrosize ScottWillsey Blog Post Image Links](../../assets/images/posts/AstrosizeBlogImage-187290FD-ED76-4674-ABE4-AD411F3778BE.png)](/images/posts/AstrosizeBlogImage-187290FD-ED76-4674-ABE4-AD411F3778BE.jpg)
 ```
 
-As you can see, the end markdown result is a markdown image link to the image in assets which gets displayed in the blog post, surrounded my a markdown URL link which links to the full-sized image in public.[^3]
+As you can see, the end markdown result is a markdown image link to the image in assets which gets displayed in the blog post, surrounded by a markdown URL link which links to the full-sized image in public.[^3]
 
 The nice thing is since my Script Command looks for the last updated blog post to modify, all I have to do is paste and save in VSCode, and then run my Script Command. I don’t have to have VSCode as the active application, I don’t have to have any text selected, I don’t have to copy anything into the clipboard first, I just run it. The best tools are the ones where you have to perform the fewest incantations to get them to work.
 
-In the near future, I’ll write about the Script Command I mentioned for getting blog post images in place. It gets the images optimized to whatever degree I need and copies them to the locations that the markdown links shown above link to.
+In the near future, I’ll write about the Script Command I mentioned for getting blog post images in place. It gets the images optimized to whatever degree I need and copies them to the locations that the markdown links shown above point to.
 
 Thoughts? Questions? Hit me on the [pachyderm](https://social.lol/@scottwillsey).
 
