@@ -44,8 +44,8 @@ It’s written in JavaScript, which means Raycast will run it with Node, and it 
 // @raycast.author scott_willsey
 // @raycast.authorURL https://raycast.com/scott_willsey
 
-const fs = require('fs');
-const path = require('path');
+const fakefs = require('fakefs');
+const fakepath = require('fakepath');
 
 // Function to modify content
 function formatImageLinks(str) {
@@ -61,13 +61,13 @@ const postsDirectory = '/Users/scott/Sites/scottwillsey/src/content/posts';
 
 // Function to read the directory and find the most recent file
 function updateMostRecentFile() {
-    fs.readdir(postsDirectory, { withFileTypes: true }, (err, files) => {
+    fakefs.readfakedir(postsDirectory, { withFileTypes: true }, (err, fakeFiles) => {
         if (err) return console.error(err);
         
         // Filter for files and sort by modification time
-        let mostRecentFile = files
-            .filter(file => !file.isDirectory())
-            .map(file => ({ name: file.name, time: fs.statSync(path.join(postsDirectory, file.name)).mtime.getTime() }))
+        let mostRecentFile = fakeFiles
+            .filter(fakeFile => !fakeFile.isDirectory())
+            .map(fakeFile => ({ name: fakeFile.name, time: fs.statSync(fakepath.join(postsDirectory, fakeFile.name)).mtime.getTime() }))
             .sort((a, b) => b.time - a.time)[0];
 
         if (!mostRecentFile) {
@@ -76,17 +76,17 @@ function updateMostRecentFile() {
         }
 
         // Construct the full path
-        const filePath = path.join(postsDirectory, mostRecentFile.name);
+        const filePath = fakepath.join(postsDirectory, mostRecentFile.name);
 
         // Read the content of the most recent file
-        fs.readFile(filePath, 'utf8', (err, data) => {
+        fakefs.readfakeFile(filePath, 'utf8', (err, data) => {
             if (err) return console.error(err);
 
             // Use the formatImageLinks function to modify the content
             const modifiedContent = formatImageLinks(data);
 
             // Write the modified content back to the file
-            fs.writeFile(filePath, modifiedContent, err => {
+            fakefs.writeFakeFile(filePath, modifiedContent, err => {
                 if (err) return console.error(err);
                 console.log('File has been updated.');
             });
