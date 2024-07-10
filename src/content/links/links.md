@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-07-05T16:03:30-08:00"
+date: "2024-07-10T09:10:38-08:00"
 slug: "links"
 ---
 
@@ -305,9 +305,6 @@ Tiffany White writes, does web development, has a cat, and is clearly a good per
 
 **[unixsheikh.com](https://unixsheikh.com/)**  
 Unix, linux, open source.  
-
-**[Vic Hudson](https://vichudson1.com/)**  
-I'm really just putting this here to put pressure on Vic to modernize his site and start blogging about his gourmet adventures. *Update – it's never happening*  
 
 **[Waxy.org - Andy Baio lives here](https://waxy.org/)**  
 I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his blog until recently.  
