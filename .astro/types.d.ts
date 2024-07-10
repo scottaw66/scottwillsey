@@ -603,6 +603,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"raycast-sc-image-link-transform.md": {
+	id: "raycast-sc-image-link-transform.md";
+  slug: "raycast-sc-image-link-transform";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "raycast-sc-text-parsing.md": {
 	id: "raycast-sc-text-parsing.md";
   slug: "raycast-sc-text-parsing";
