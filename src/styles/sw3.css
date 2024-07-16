@@ -23,6 +23,8 @@ html {
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
   --surface-menu-light: rgb(245, 240, 255);
+  --nav-bg-light: var(--surface-menu-light);
+  --nav-border-light: var(--surface-menu-light);
   --post-bg-light: var(--surface-menu-light);
   --surface1-light: rgb(233, 250, 253);
   --background-light: rgb(249, 246, 255);
@@ -61,6 +63,8 @@ html {
   --surface1-dark: rgb(2, 0, 36);
   --background-dark: rgb(3, 0, 52);
   --surface-menu-dark: #0a094b;
+  --nav-bg-dark: var(--surface-menu-dark);
+  --nav-border-dark: var(--surface-menu-dark);
   --post-bg-dark: var(--surface-menu-dark);
   --scroll-dark: #002338;
   --language-id-dark: rgb(243, 202, 88);
@@ -98,6 +102,8 @@ html {
   --surface1-hypercritical: #e3a649;
   --background-hypercritical: var(--surface1-hypercritical);
   --surface-menu-hypercritical: rgba(254, 234, 175, 0.54);
+  --nav-bg-hypercritical: var(--surface-menu-hypercritical);
+  --nav-border-hypercritical: var(--surface-menu-hypercritical);
   --post-bg-hypercritical: var(--surface-menu-hypercritical);
   --scroll-hypercritical: #0046c9;
   --language-id-hypercritical: rgb(88, 243, 88);
@@ -182,6 +188,8 @@ html {
 
   --surface1: var(--surface1-light);
   --surface-menu: var(--surface-menu-light);
+  --nav-bg: var(--nav-bg-light);
+  --nav-border: var(--nav-border-light);
   --background: var(--background-light);
   --post-bg: var(--post-bg-light);
   --scroll: var(--scroll-light);
@@ -235,6 +243,8 @@ html {
 
   --surface1: var(--surface1-dark);
   --surface-menu: var(--surface-menu-dark);
+  --nav-bg: var(--nav-bg-dark);
+  --nav-border: var(--nav-border-dark);
   --background: var(--background-dark);
   --post-bg: var(--surface-menu-dark);
   --scroll: var(--scroll-light);
@@ -289,6 +299,8 @@ html {
   --surface1: var(--surface1-hypercritical);
   --background: var(--background-hypercritical);
   --surface-menu: var(--surface-menu-hypercritical);
+  --nav-bg: var(--nav-bg-hypercritical);
+  --nav-border: var(--nav-border-hypercritical);
   --post-bg: var(--post-bg-hypercritical);
   --scroll: var(--scroll-light);
 

@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-06-19T10:30:40-08:00"
+date: "2024-07-16T11:13:45-08:00"
 slug: "pins"
 ---
 
@@ -50,6 +50,7 @@ slug: "pins"
 - [Hazel Overview – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Help – Hookmark](https://hookproductivity.com/help/)
 - [Play Help](https://marcosatanaka.com/support/play/play-help.html)
+- [Rogue Amoeba | Current Software Status](https://rogueamoeba.com/status/)
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
@@ -58,10 +59,6 @@ slug: "pins"
 ## Notion
 
 - [Notion Total Column: How To Sum A Column In 5 Totally Easy Steps](https://focusedbee.com/notion-total-column-how-to-sum-a-column/)
-
-## Podcasts
-
-- [Moving from Castro to Overcast](https://swipetounlock.co.uk/blog/2024-01/moving-castro-overcast)
 
 ## Raycast
 
