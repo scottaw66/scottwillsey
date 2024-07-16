@@ -1,36 +1,35 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-07-05T16:03:29-08:00"
+date: "2024-07-16T11:48:47-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [Podcast Episode: Fighting Enshittification | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2024/06/podcast-episode-fighting-enshittification)
-- [Tornado – Darknet Diaries](https://darknetdiaries.com/episode/147/)
-- [ATP 594: We Just Found It on the Doorstep — Accidental Tech Podcast](https://atp.fm/594)
-- [Exploring the 3 Body Game & the Three-body problem theory explained | 3 Body Podcast](https://podcasts.apple.com/us/podcast/3-body-podcast/id1733588331?i=1000650698306)
+- [503: At Least 38 Seconds | The Rebound: A tech podcast](https://reboundcast.com/episode/503)
+- [ATP 596: A New Foundation for Progress — Accidental Tech Podcast](https://atp.fm/596)
+- [Secret government organizations & exploring the characters of Da Shi and Tatiana with Benedict Wong and Marlo Kelly](https://podcasts.apple.com/us/podcast/3-body-podcast/id1733588331?i=1000651395632)
 
 ### YouTube
 
 Hey look, a YouTube section!
 
-- ["Smart" design patterns with container queries - YouTube](https://www.youtube.com/watch?v=DHj7JhH8ins&t=51s)
-- [Three crashes during a Ring Taxi ride! - YouTube](https://www.youtube.com/watch?v=zOhNHP-F7HU)
-- [Claude 3.5 Deep Dive: This new AI destroys GPT - YouTube](https://www.youtube.com/watch?v=b7JCor1DGJw&t=1657s)
-- [15 INSANE Use Cases for NEW Claude Sonnet 3.5! (Outperforms GPT-4o) - YouTube](https://www.youtube.com/watch?v=wBJZQt23J7M)
+- [Michael Imperioli On Throwing His 'Sopranos' Emmy Away and Meeting Martin Scorsese | The First Time - YouTube](https://www.youtube.com/watch?v=sicsdu3s64g)
+- [Omar kills Stinkum, then says the greatest line in TV History (The Wire) - YouTube](https://www.youtube.com/watch?v=k73Tx6ILz30)
+- [The new chaos in F1's crazy 2025 driver market - YouTube](https://www.youtube.com/watch?v=0y7zkbT8isA)
+- [Dry-Wet Chaos And The Top 10 Onboards | 2024 British Grand Prix | Qatar Airways - YouTube](https://www.youtube.com/watch?v=nR5luv5KK9U&t=53s)
 - [Reacting to comments about AI Vision & Updates to Quicklinks – Raycast Monthly Release Vlog #3 - YouTube](https://www.youtube.com/watch?v=QYquJ-USWOo)
 
 ### Books
 
+- [Personal Days – Ed Park](https://ed-park.com/personal-days/) *Beautiful and horrible all at once. It's kind of genius - but it will depress the @#%& out of you if you're in the working world (we all are).*
+
 - [The Three-Body Problem - Tor Publishing Group](https://torpublishinggroup.com/the-three-body-problem/) *I FINALLY FINISHED THIS BOOK!! I think in most ways, it's better than the 3 Body Problem TV show on Netflix. But I'm not 100% sure I enjoyed either enough to recommend them at this point. That's a reverse on what I told Peter on [Friends with Brews](https://friendswithbrews.com), when I told him to watch the Netflix series, but it's how I feel at the momement.*
-- [Kingdom of Play | Book by David Toomey | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Kingdom-of-Play/David-Toomey/9781982154462) *This is a pretty fascinating look at an under-studied element of animal life – the fact that animals play. But why? How does play benefit animals trying to survive in the ruthless foodchain that is their lives? I rented this from the library and now I'm waiting for it again (didn't finish in time).*
-- [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/) *This is more technical manual than history or novel, but it is **fascinating**. It's really a how-to of sensitive data analysis.*
 
 ### Movies and TV
 
-- [Your Honor - Netflix](https://www.netflix.com/title/81684531) *Bryan Cranston is always at his best when he's trying to clean up his own messes. I'm only 4 episodes in, but I will watch this whole thing for sure.*
+- [Your Honor - Netflix](https://www.netflix.com/title/81684531) *Bryan Cranston is always at his best when he's trying to clean up his own messes. I know I'll get slammed for this but I actually compare this to The Wire.*
 
 ### Food and Drink
 
