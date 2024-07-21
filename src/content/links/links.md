@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-07-16T14:43:24-08:00"
+date: "2024-07-21T10:44:36-08:00"
 slug: "links"
 ---
 
@@ -62,6 +62,7 @@ slug: "links"
 - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The West Coast’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico | WIRED](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
+- [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
@@ -392,6 +393,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Lex.Games](https://lex.games)
+- [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
