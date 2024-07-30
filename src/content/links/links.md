@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-07-21T10:44:36-08:00"
+date: "2024-07-29T19:32:51-08:00"
 slug: "links"
 ---
 
@@ -336,6 +336,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
 - [Image Performance, A Book Apart](https://abookapart.com/products/image-performance)
 - [Inventing the Future by John Buck | BooksBy](https://books.by/john-buck)
+- [macOS by Tutorials](https://sarahreichelt.gumroad.com/l/oximx)
 - [Personal Days – Ed Park](https://ed-park.com/personal-days/)
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
@@ -387,6 +388,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
+- [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 - [Game Dad Club](https://gamedad.club/)
 - [HTMHell](https://www.htmhell.dev)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
