@@ -1,16 +1,22 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-07-29T19:32:51-08:00"
+date: "2024-08-02T20:08:25-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [The Talk Show ✪: Ep. 405, With Hunter Hillegas](https://daringfireball.net/thetalkshow/2024/07/28/ep-405)
-- [Making mobile apps for developers, with Anders Borum - creator of the most popular git client, Working Copy | Scaling {DevTools}](https://overcast.fm/+AA5Rxf8Wqwk)
-- [Reaction to Belgian GP qualifying - P1 with Matt and Tommy](https://overcast.fm/+AA_U3pIdNs8)
-- [Generative AI is a Climate Disaster w/ Sasha Luccioni | Tech Won't Save Us](https://overcast.fm/+ZpQDD96II)
+- [P1 with Matt and Tommy – How To Run an F1 Team | Ep1 – Pierre Gasly and Esteban Ocon](https://overcast.fm/+_U3r8GsUg)
+- [Your Daily Lex – Just Venting](https://overcast.fm/+BbFGHwKnk)
+- [The Rebound – 506: We’re All The Color Guy](https://overcast.fm/+De1kMNHaY)
+- [Revisionist History – Blame Game](https://overcast.fm/+5IlBW5iVI)
+- [Judge John Hodgman – Claw and Door-der](https://overcast.fm/+YJM2GQZ74)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Don’t Exposé Your Mac’s Hidden Features](https://overcast.fm/+6TZ-_qo5o)
+- [F1: Chequered Flag – Belgian Grand Prix review](https://overcast.fm/+Ip6NqdmLY)
+- [Upgrade – 522: Reserve Your Spot](https://overcast.fm/+Fcm-QWYTA)
+- [F1: Beyond The Grid – Bruno Famin: a year as Alpine Team Principal](https://overcast.fm/+Nv8K9QRzM)
+- [P1 with Matt and Tommy – Belgian GP Driver Ratings: F1-to-10](https://overcast.fm/+_U3rVRPeY)
 
 ### YouTube
 
