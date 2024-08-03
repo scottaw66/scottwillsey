@@ -1,6 +1,6 @@
 ---
 title: "Pseudo-Automating the Listened to Podcasts List on My /now Page"
-description: Raycast script commands are great for all kinds of scripted tasks, and I'm increasingly using them for tasks related to my website.
+description: Using Python to retrieve and parse my Overcast listening history.
 date: "2024-08-03T05:00:00-08:00"
 keywords: ["automation", "blog", "programming", "python"]
 slug: "podcast-history"
