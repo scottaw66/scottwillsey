@@ -2,7 +2,7 @@
 title: "Raycast Script Command for Image Link Transformation"
 description: It's Yet Another Raycast Script Command, this time one for tranforming blog post image links to match image file locations in Astro.
 date: "2024-07-08T05:00:00-08:00"
-keywords: ["mac", "apps", "blog", "raycast", "programming", "javascript"]
+keywords: ["automation", "mac", "apps", "blog", "raycast", "programming", "javascript"]
 cover: "../../assets/images/covers/RaycastHeader.png"
 coverAlt: "Raycast"
 series: "Raycast"

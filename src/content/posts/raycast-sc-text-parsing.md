@@ -2,7 +2,7 @@
 title: "Raycast Script Command for Text Parsing"
 description: Raycast script commands are great for all kinds of scripted tasks, and I'm increasingly using them for tasks related to my website.
 date: "2024-03-03T05:00:00-08:00"
-keywords: ["mac", "apps", "blog", "raycast", "programming", "python"]
+keywords: ["automation", "mac", "apps", "blog", "raycast", "programming", "python"]
 cover: "../../assets/images/covers/RaycastHeader.png"
 coverAlt: "Raycast"
 series: "Raycast"

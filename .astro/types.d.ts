@@ -554,6 +554,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"podcast-history.md": {
+	id: "podcast-history.md";
+  slug: "podcast-history";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "podcasting-recording-practices.md": {
 	id: "podcasting-recording-practices.md";
   slug: "podcasting-recording-practices";

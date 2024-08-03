@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-07-29T19:32:51-08:00"
+date: "2024-08-03T13:31:55-08:00"
 slug: "links"
 ---
 
@@ -437,6 +437,15 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Kunitsu-Gami: Path of the Goddess | CAPCOM](https://www.kunitsu-gami.com/en-us/)
 - [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
 
+## IndieWeb
+
+- [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
+- [IndieWeb](https://indieweb.org/)
+- [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
+- [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
+- [slash pages](https://slashpages.net/)
+- [/uses](https://uses.tech)
+
 ## Japan & Japanese Language
 
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
@@ -567,7 +576,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
 - [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
-- [IndieWeb](https://indieweb.org/)
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
