@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-07-16T11:13:45-08:00"
+date: "2024-08-04T23:43:30-08:00"
 slug: "pins"
 ---
 
@@ -49,6 +49,7 @@ slug: "pins"
 - [Getting Started – Anybox](https://anybox.app/getting-started)
 - [Hazel Overview – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Help – Hookmark](https://hookproductivity.com/help/)
+- [Manage Menubar Status Items · GitBook](https://docs.folivora.ai/docs/1700_menubar_status_items.html)
 - [Play Help](https://marcosatanaka.com/support/play/play-help.html)
 - [Rogue Amoeba | Current Software Status](https://rogueamoeba.com/status/)
 - [Tips and Tricks – Anybox](https://anybox.app/tips-tricks)
@@ -59,6 +60,11 @@ slug: "pins"
 ## Notion
 
 - [Notion Total Column: How To Sum A Column In 5 Totally Easy Steps](https://focusedbee.com/notion-total-column-how-to-sum-a-column/)
+
+## Python
+
+- [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Python Virtual Environments: A Primer – Real Python](https://realpython.com/python-virtual-environments-a-primer/)
 
 ## Raycast
 
