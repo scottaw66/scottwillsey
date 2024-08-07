@@ -1,22 +1,23 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-08-02T20:08:25-08:00"
+date: "2024-08-06T20:24:50-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
-- [P1 with Matt and Tommy – How To Run an F1 Team | Ep1 – Pierre Gasly and Esteban Ocon](https://overcast.fm/+_U3r8GsUg)
-- [Your Daily Lex – Just Venting](https://overcast.fm/+BbFGHwKnk)
-- [The Rebound – 506: We’re All The Color Guy](https://overcast.fm/+De1kMNHaY)
-- [Revisionist History – Blame Game](https://overcast.fm/+5IlBW5iVI)
-- [Judge John Hodgman – Claw and Door-der](https://overcast.fm/+YJM2GQZ74)
-- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Don’t Exposé Your Mac’s Hidden Features](https://overcast.fm/+6TZ-_qo5o)
-- [F1: Chequered Flag – Belgian Grand Prix review](https://overcast.fm/+Ip6NqdmLY)
-- [Upgrade – 522: Reserve Your Spot](https://overcast.fm/+Fcm-QWYTA)
-- [F1: Beyond The Grid – Bruno Famin: a year as Alpine Team Principal](https://overcast.fm/+Nv8K9QRzM)
-- [P1 with Matt and Tommy – Belgian GP Driver Ratings: F1-to-10](https://overcast.fm/+_U3rVRPeY)
+- [Friends with Brews – The Condensed Tabs of Ronnie](https://overcast.fm/+AA9SHh5LGwY)
+- [Your Daily Lex – Your Daily Brian](https://overcast.fm/+BbFFao-uw)
+- [Upgrade – 523: I Got It to Hallucinate Already](https://overcast.fm/+Fcm8OTZuA)
+- [F1 Nation – How Sainz will turbocharge Williams - with James Vowles](https://overcast.fm/+aUSgss3ks)
+- [Your Daily Lex – Your Daily Jason](https://overcast.fm/+BbFH_5wxs)
+- [The Race: Is Piastri’s form unsettling Norris? Your questions answered](https://overcast.fm/+AAXDk9iP5w8)
+- [Tech Won't Save Us – Escaping the Processed World w/ Chris Carlsson](https://overcast.fm/+ZpQCa6L_w)
+- [Decoder with Nilay Patel – AI has a climate problem — but so does all of tech](https://overcast.fm/+QLdu_mLWw)
+- [The Weekly Planet – Aliens - Caravan Of Garbage](https://overcast.fm/+1HFJU2qro)
+- [Accidental Tech Podcast – 598: Three-Burner Stove](https://overcast.fm/+AAQ2lE_uQR0)
+- [楽しいラジオ「ドングリFM」 – 1100 最近これ聴いてるポッドキャスト](https://overcast.fm/+9ABKm7b5M)
 
 ### YouTube
 
