@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-08-10
+
+I took out the YouTube section on the [/now](/now) page because there's no good way (or any way, for that matter) to get YouTube watch history.
+
 ### 2024-06-22
 
 A whole new redesign to clean it up, make it sleeker, and hopefully make it easier to read posts. Loses persistent side menu and reverts to header menu (icons only again!). Better colors, no gradients anywhere.

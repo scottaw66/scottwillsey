@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-08-06T20:24:50-08:00"
+date: "2024-08-10T10:07:17-08:00"
 slug: "links"
 ---
 
@@ -410,6 +410,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [The Scroll Art Museum](https://scrollart.org/)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
+- [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
