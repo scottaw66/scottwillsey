@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-06-22T16:02:02-08:00"
+date: "2024-08-17T11:26:14-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -12,7 +12,7 @@ slug: "uses"
 - [Apple Studio Display](https://www.apple.com/studio-display/)
 - [Keychron Q1](https://www.keychron.com/products/keychron-q1) QMK, 84 key (75%), Gateron Pro Brown switches
 - [OWC 11-port Thunderbolt 4 Dock](https://eshop.macsales.com/shop/owc-thunderbolt-dock)
-- [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/products/mice/m720-triathlon.910-004790.html)
+- [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
 - [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A)
 - [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
 
@@ -67,7 +67,7 @@ slug: "uses"
 ### Reading
 
 - [Apple Books](https://apps.apple.com/us/app/apple-books/id364709193)
-- [Book Tracker: Bookshelf Log for iPhone, iPad and Mac](https://booktrack.app/)
+- [Sequel](https://www.getsequel.app)
 - [Libby App: Free ebooks & audiobooks from your library | by OverDrive](https://www.overdrive.com/apps/libby)
 
 ### RSS

@@ -1,20 +1,20 @@
 {
-    "title": "ScottWillsey",
-    "description": "macOS and iPadOS nerd, old school computer guy",
-    "url": "https://scottwillsey.com/",
-    "name": "Scott Willsey",
-    "social": {
-        "threads": "https://www.threads.net/@scott.willsey",
-        "github": "https://github.com/scottaw66",
-        "mastodon": "https://social.lol/@scottwillsey",
-        "bluesky": "https://bsky.app/profile/scottwillsey.com"
-    },
-    "posts": {
-        "path": "/",
-        "paginationSize": 7
-    },
-    "rss": {
-        "path": "/",
-        "fileName": "rss.xml"
-    }
+  "title": "ScottWillsey",
+  "description": "macOS and iPadOS nerd, old school computer guy",
+  "url": "https://scottwillsey.com/",
+  "name": "Scott Willsey",
+  "social": {
+    "threads": "https://www.threads.net/@scott.willsey",
+    "github": "https://github.com/scottaw66",
+    "mastodon": "https://social.lol/@scottwillsey",
+    "bluesky": "https://bsky.app/profile/scottwillsey.com"
+  },
+  "posts": {
+    "path": "/",
+    "paginationSize": 7
+  },
+  "rss": {
+    "path": "/",
+    "fileName": "rss.xml"
+  }
 }

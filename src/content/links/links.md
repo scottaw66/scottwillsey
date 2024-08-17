@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-08-10T10:07:17-08:00"
+date: "2024-08-17T11:26:14-08:00"
 slug: "links"
 ---
 
@@ -403,6 +403,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
+- [People and Blogs](https://peopleandblogs.com/)
 - [The Pudding](https://pudding.cool/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
@@ -517,6 +518,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 - [Rogue Amoeba | SoundSource: A Superior Sound Control](https://rogueamoeba.com/soundsource/)
 - [Secure ShellFish – SSH Client for iOS and Mac](https://shellfishapp.com/)
+- [Sequel](https://www.getsequel.app)
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
