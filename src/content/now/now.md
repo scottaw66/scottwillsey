@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-08-17T11:26:14-08:00"
+date: "2024-08-19T10:24:58-08:00"
 slug: "now"
 ---
 
@@ -28,6 +28,7 @@ slug: "now"
 
 ### Movies and TV
 
+- [American Conspiracy - The Octopus Murders](https://www.netflix.com/browse?jbv=81168725) *I know, I know, conspiracies. But this one appears to be a good old fashioned governmental overreach with the kinds of crazy characters that the Reagan administration couldn't get enough of. Reagan really was a bastard who did whatever it took to enforce his black and white view of the world upon everyone.*
 - [Sunny ep 7 There's Been a Shift](https://tv.apple.com/us/episode/theres-been-a-shift/umc.cmc.5gagbb7lcybwolhlkt1l8masq?showId=umc.cmc.7c5t9dde8dxoaxwyl5rkuw38pp) *Last week's comments still apply: Have I decided whether this show is genius or whether it's just ambiance and delay tactics? No. No, I haven't. But at this point, I'm still willing to find out.*
 - [Jackpot!](https://www.themoviedb.org/movie/1094138) *This movie is **SO DUMB** and **SO WEIRD** but it's also pretty funny. My wife was watching this when I came into the room and I couldn't stop watching until the end. Weird. I guess I needed something like this to make me forget whatever work-related garbage was destroying my soul at that moment.*
 
