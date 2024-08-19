@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-08-19T10:24:58-08:00"
+date: "2024-08-19T11:27:31-08:00"
 slug: "links"
 ---
 
@@ -45,6 +45,7 @@ slug: "links"
 ## Articles
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- [5 Reasons To Move To Tokyo's Exciting Eastside | Tokyo Cheapo](https://tokyocheapo.com/living/east-tokyo/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
@@ -52,9 +53,15 @@ slug: "links"
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
+- [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
+- [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
+- [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [LLMs Aren’t Just “Trained On the Internet” Anymore - Allen Pike](https://allenpike.com/2024/llms-trained-on-internet)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
+- [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
+- [Ten Years Later, ‘Monument Valley’ Is a Monument to Mobile Gaming’s Bygone Era - The Ringer](https://www.theringer.com/video-games/2024/4/3/24119719/monument-valley-10-year-anniversary-ustwo-mobile-gaming-apple-ios)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
@@ -68,6 +75,8 @@ slug: "links"
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 - [WebP is so great… except it's not | Engineering](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+- [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
+- [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 
 ## Astro
 
@@ -601,6 +610,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
 - [The Ultimate CSS Shapes Collection](https://css-shape.com/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
+- [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 - [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
 
 ## Raycast

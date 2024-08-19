@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-08-04T23:43:30-08:00"
+date: "2024-08-19T11:27:31-08:00"
 slug: "pins"
 ---
 
@@ -45,10 +45,12 @@ slug: "pins"
 
 - [Bartender controversy, tutorial on how to manage menubar status items via BTT - Tutorials - BetterTouchTool Community](https://community.folivora.ai/t/bartender-controversy-tutorial-on-how-to-manage-menubar-status-items-via-btt/37429)
 - [Extending Finder Context Menu · Better Touch Tool · GitBook](https://docs.folivora.ai/docs/6b_finder_context_menu.html)
+- [Find Any File](https://findanyfile.app/)
 - [Game Porting Toolkit - Gaming on M1 Apple silicon Macs and MacBooks, bugs, fixes, compatiblity and troubleshooting guides - AppleGamingWiki](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit)
 - [Getting Started – Anybox](https://anybox.app/getting-started)
 - [Hazel Overview – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Help – Hookmark](https://hookproductivity.com/help/)
+- [Mac Security Compliance Tutorials | Documentation](https://it-training.apple.com/tutorials/apt-compliance/)
 - [Manage Menubar Status Items · GitBook](https://docs.folivora.ai/docs/1700_menubar_status_items.html)
 - [Play Help](https://marcosatanaka.com/support/play/play-help.html)
 - [Rogue Amoeba | Current Software Status](https://rogueamoeba.com/status/)
@@ -56,6 +58,7 @@ slug: "pins"
 - [Infinite Mac](https://infinitemac.org/)
 - [Touch ID for sudo](https://chat.openai.com/share/3bfcbe1d-6e4a-4831-a126-ccedd4261ab5)
 - [Virtual \]\[, the best Apple II emulator for macOS](https://www.virtualii.com/)
+- [Welcome Kaleidoscope 5 – Kaleidoscope Blog](https://blog.kaleidoscope.app/2024/07/09/welcome-kaleidoscope-5/)
 
 ## Notion
 
@@ -63,16 +66,21 @@ slug: "pins"
 
 ## Python
 
+- [A Comprehensive Guide to Python Virtual Environments with venv | by Lucas Maia | Medium](https://medium.com/@lucasthedev/a-comprehensive-guide-to-python-virtual-environments-with-venv-cb76fea6a550)
 - [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Python Virtual Environments](https://www.pythontutorial.net/python-basics/python-virtual-environments/)
 - [Python Virtual Environments: A Primer – Real Python](https://realpython.com/python-virtual-environments-a-primer/)
+- [Setting Your Python Working Environment, the Right Way](https://www.pythonguis.com/tutorials/python-virtual-environments/)
 
 ## Raycast
 
 - [AI Prompt Explorer by Raycast](https://prompts.ray.so/code)
+- [Deeplinks](https://manual.raycast.com/deeplinks)
 - [Dynamic Placeholders](https://manual.raycast.com/dynamic-placeholders)
 - [Getting started with script commands - Raycast Blog](https://www.raycast.com/blog/getting-started-with-script-commands)
 - [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
 - [Raycast Developer API](https://developers.raycast.com/)
+- [raycast-script-commands/app-mode.sh at main · rknightuk/raycast-script-commands](https://github.com/rknightuk/raycast-script-commands/blob/main/app-mode.sh)
 - [Raycast Store: Pipe Commands](https://www.raycast.com/pomdtr/pipe-commands)
 - [Raycast Store: PromptLab](https://www.raycast.com/HelloImSteven/promptlab)
 - [Raycast Store: Script Commands Store – Find and manage your Raycast Script Commands](https://www.raycast.com/tholanda/script-commands)
@@ -82,7 +90,13 @@ slug: "pins"
 
 ## Reads
 
+- [5 Reasons To Move To Tokyo's Exciting Eastside | Tokyo Cheapo](https://tokyocheapo.com/living/east-tokyo/)
 - [ChatGPT turns one: How OpenAI’s AI chatbot changed tech forever - The Verge](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future)
+- [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
+- [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
+- [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
+- [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
+- [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 
 ## Services
 
