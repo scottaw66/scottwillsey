@@ -21,7 +21,7 @@ Talking about in the abstract isn't super helpful. So here's a podcast Bunch of 
 
 ```applescript
 ---
-title: 🎤Podcast
+title: Podcast
 ---
 call_app = ?[FaceTime, Discord, Skype, Zoom] "Which calling app?"
 
@@ -61,7 +61,7 @@ That's a lot. Here's how it works:
 
 ```applescript
 ---
-title: 🎤Podcast
+title: Podcast
 ---
 ```
 
