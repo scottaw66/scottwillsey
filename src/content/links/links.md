@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-08-19T11:27:31-08:00"
+date: "2024-08-25T08:02:38-08:00"
 slug: "links"
 ---
 
@@ -412,6 +412,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
+- [other networks](https://othernetworks.net/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
 - [The Pudding](https://pudding.cool/)
