@@ -17,11 +17,21 @@ I took inspiration from [Robb Knight](https://rknight.me)’s [App Mode Raycast 
 
 When I run the Sessions script command, I currently have two choices: Podcasting or Stop Podcasting.
 
-The Podcasting option runs a [Raycast Window Management Command](https://manual.raycast.com/window-management) which opens specific apps ([Audio Hijack](https://rogueamoeba.com/audiohijack/), [Farrago](https://rogueamoeba.com/farrago/), Safari, [Bear](https://bear.app) and FaceTime) and puts their windows in specific locations on the screen using a preset [Window Layout](https://www.raycast.com/changelog/1-78-0). It also sets the audio output to my [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr), which has my podcasting headphones plugged into it, and sets the audio input to a [Loopback](https://rogueamoeba.com/loopback/) audio device that combines my [podcasting mic](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A) and [Farrago](https://rogueamoeba.com/farrago/) soundboard into one input device. Finally, it starts an [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) session, which keeps the display from sleeping if I don’t touch the mouse or keyboard for awhile while podcasting, and toggles my desk lamps on using a Shortcuts shortcut.
+The Podcasting option runs a [Raycast Window Management Command](https://manual.raycast.com/window-management) which opens specific apps ([Audio Hijack](https://rogueamoeba.com/audiohijack/), [Farrago](https://rogueamoeba.com/farrago/), Safari, [Bear](https://bear.app) and FaceTime) and puts their windows in specific locations on the screen using a preset [Window Layout](https://www.raycast.com/changelog/1-78-0).
+
+This is what the Raycast Window Layout Command looks like. The apps are Audio Hijack (top left), Farrago (bottom left), Bear (center), FaceTime (top right), and Safari (right half).
+
+[![Podcast Session Window Layout Command](../../assets/images/posts/PodcastSessionWindowLayoutCommand-0CA11E69-7B62-4A38-908A-909B5865B25C.png)](/images/posts/PodcastSessionWindowLayoutCommand-0CA11E69-7B62-4A38-908A-909B5865B25C.jpg)
+
+The script command also sets the audio output to my [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr), which has my podcasting headphones plugged into it, and sets the audio input to a [Loopback](https://rogueamoeba.com/loopback/) audio device that combines my [podcasting mic](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A) and [Farrago](https://rogueamoeba.com/farrago/) soundboard into one input device. Finally, it starts an [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) session, which keeps the display from sleeping if I don’t touch the mouse or keyboard for awhile while podcasting, and toggles my desk lamps on using a Shortcuts shortcut.
+
+Here’s what it looks like on my Apple Studio Display after running the Sessions script command:
+
+[![Podcast Session Window Layout in Action](../../assets/images/posts/PodcastSessionLayout-0CA11E69-7B62-4A38-908A-909B5865B25C.png)](/images/posts/PodcastSessionLayout-0CA11E69-7B62-4A38-908A-909B5865B25C.jpg)
 
 The Stop Podcasting option sets the audio output and input to my Studio Display’s speakers and mic, closes Audio Hijack, Farrago, Bear, and FaceTime, centers Safari on the screen again, and stops the Amphetamine session. It also toggles the desk lamps.
 
-Here’s the script command:
+Here’s the full script command:
 
 ```bash
 #!/bin/bash
