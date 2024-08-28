@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-08-25T08:02:38-08:00"
+date: "2024-08-28T08:06:59-08:00"
 slug: "links"
 ---
 
@@ -396,6 +396,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
+- [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
