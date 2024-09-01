@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-08-19T11:27:31-08:00"
+date: "2024-09-01T08:34:14-08:00"
 slug: "pins"
 ---
 
@@ -14,9 +14,6 @@ slug: "pins"
 
 ## Astro
 
-- [Astro 4.10 | Astro](https://astro.build/blog/astro-4100/)
-- [Astro 4.3 | Astro](https://astro.build/blog/astro-430/)
-- [Astro 4.8 | Astro](https://astro.build/blog/astro-480/)
 - [Add last modified time | Docs](https://docs.astro.build/en/recipes/modified-time/)
 - [astro-font - npm](https://www.npmjs.com/package/astro-font)
 - [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
@@ -24,8 +21,10 @@ slug: "pins"
 - [MatthiesenXYZ/Astrolace: An easy way to use Shoelace.style within your Astro Project!](https://github.com/MatthiesenXYZ/Astrolace)
 - [Pages | Starlight](https://starlight.astro.build/guides/pages/#custom-pages)
 - [rishi-raj-jain/astro-font: `astro-font` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.](https://github.com/rishi-raj-jain/astro-font)
+- [Server Islands | Astro](https://astro.build/blog/future-of-astro-server-islands/)
 - [TechSquidTV | How I generate Open Graph images for my Astro-based blog](https://techsquidtv.com/blog/generating-open-graph-images-for-astro/)
 - [Using environment variables | Docs](https://docs.astro.build/en/guides/environment-variables/)
+- [What’s new in Astro - August 2024 | Astro](https://astro.build/blog/whats-new-august-2024/)
 
 ## Command Line
 

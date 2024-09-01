@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-08-28T08:06:59-08:00"
+date: "2024-09-01T08:34:14-08:00"
 slug: "links"
 ---
 
@@ -112,6 +112,9 @@ A man of many tech topics.
 
 **[And now… – The musings of an ageing technophile](https://andnow.me/)**  
 I always enjoy whatever Allister has to say. He's a friend from the Apple community.  
+
+**[Apple Annie’s Weblog · Home](https://weblog.anniegreens.lol/)**  
+Front-end web developer? Hand-curator of own insideweb site? Speaker of many topics? Sign me up!
 
 **[A Shower Of Thoughts](https://berbaquero.com/)**  
 Some web stuff, some Apple stuff, this Dutch-Latino man is my kinda human.  
@@ -426,6 +429,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
+- [White Noise](https://whitenoise.tiff.ws/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 
 ## Eleventy
@@ -455,9 +459,11 @@ The title of this blog means four and a half tatami mats, which is a small room 
 ## IndieWeb
 
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
+- [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [IndieWeb](https://indieweb.org/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
+- [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 - [slash pages](https://slashpages.net/)
 - [/uses](https://uses.tech)
 
@@ -518,6 +524,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
 - [mierau/hotline: A modern Hotline client for Mac, iOS, and iPadOS](https://github.com/mierau/hotline)
+- [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
@@ -595,6 +602,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Man Reader 2](https://apps.apple.com/us/app/man-reader/id522583774?mt=12)
+- [Material Line Icons - 1021 open source icons - Iconify](https://icon-sets.iconify.design/line-md/)
 - [Miller 6.12.0 Documentation](https://miller.readthedocs.io/en/6.12.0/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
