@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-09-01T08:34:14-08:00"
+date: "2024-09-02T09:23:00-08:00"
 slug: "now"
 ---
 
@@ -28,6 +28,7 @@ slug: "now"
 
 ### Movies and TV
 
+- [The Night Manager](https://www.amazon.com/gp/video/detail/B01EIM5NGG/) *I'm very late to this adaptation of John le Carré's 1993 novel of the same name, but wow, is it worth a watch. Great acting. Of course Hugh Laurie is always top notch, but don't miss Tom Hiddleston here. You may think of him as Loki now, but the man has range and depth.*
 - [Bad Monkey - Eps 1-4](https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x) *I don't consider myself the HUGEST of Vince Vaughn fans, but he's really good in this Yet Another Down On His Luck Detective show that has managed a few interesting twists in just its first four episodes.*
 - [AMERICAN MURDER: LACI PETERSON](https://www.netflix.com/title/81582794) *Everyone knows this story but it's still beyond creepy after all this time.*
 - [THE SONS OF SAM – A DESCENT INTO DARKNESS](https://www.netflix.com/browse?jbv=81059887) *I never realized there was controversy about whether or not Berkowitz was the sole killer. I'm in the midst of watching.*
