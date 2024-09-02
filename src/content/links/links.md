@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-09-01T08:34:14-08:00"
+date: "2024-09-02T10:31:30-08:00"
 slug: "links"
 ---
 
@@ -65,10 +65,13 @@ slug: "links"
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
+- [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
+- [The Vacuum of Space Will Decay Sooner Than Expected | WIRED](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
 - [The West Coast’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico | WIRED](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
@@ -118,6 +121,9 @@ Front-end web developer? Hand-curator of own insideweb site? Speaker of many top
 
 **[A Shower Of Thoughts](https://berbaquero.com/)**  
 Some web stuff, some Apple stuff, this Dutch-Latino man is my kinda human.  
+
+**[A Very Good Blog by Keenan](https://gkeenan.co/avgb/)**  
+A very good Keenan has a very good blog with humor and everything, and I like it very good!
 
 **[Bart Busschots](https://www.bartbusschots.ie/s/)**  
 Bart Busschots is a programmer, podcaster, and one of the kindest and coolest people I've had the pleasure of meeting virtually.  
@@ -586,6 +592,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 ## Programming and Web Dev
 
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [CSS { In Real Life }](https://css-irl.info/)
