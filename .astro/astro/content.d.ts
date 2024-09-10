@@ -541,6 +541,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"moom4.md": {
+	id: "moom4.md";
+  slug: "moom4";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "more-astro-image-markdown.md": {
 	id: "more-astro-image-markdown.md";
   slug: "more-astro-image-markdown";

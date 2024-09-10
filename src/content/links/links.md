@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-09-02T10:31:30-08:00"
+date: "2024-09-09T22:55:58-08:00"
 slug: "links"
 ---
 
@@ -178,6 +178,9 @@ Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized P
 
 **[The Eclectic Light Company – Macs, painting, and more](https://eclecticlight.co/)**  
 I don't know about the paintings because I haven't looked that far yet, but the Mac stuff is stupendously great. Howard Oakley should be proud (but not too proud, because no one likes arrogance).
+
+**[Eric Bailey – Inclusive design advocate, writer, developer, and speaker](https://ericwbailey.website/)**  
+Accessibilty, design, programming, and much more!  
 
 **[ericportis.com](https://ericportis.com/)**  
 I came for the colorspace article, I stayed for the photography. Wow!  
@@ -411,6 +414,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 - [Game Dad Club](https://gamedad.club/)
 - [HTMHell](https://www.htmhell.dev)
+- [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
@@ -619,6 +623,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
+- [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 - [Shoelace: A forward-thinking library of web components.](https://shoelace.style/)
 - [SmolCSS](https://smolcss.dev/)
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)

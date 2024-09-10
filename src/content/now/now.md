@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-09-02T09:23:00-08:00"
+date: "2024-09-09T22:55:58-08:00"
 slug: "now"
 ---
 
@@ -9,14 +9,13 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
+- The Race Members' Club – Ad-free F1 pod: Has McLaren got its Norris strategy wrong? (with special guest Will Buxton)
+- [楽しいラジオ「ドングリFM」 – 1109 アップル引っ越し](https://overcast.fm/+9ABJhS_e4)
+- The Race Members' Club – Early access: BBV10s S10 E11 - Your questions answered!
+- Six Colors – Event prep and prediction (6C Podcast)
+- [MacStories Unwind – An Official Weather Apology](https://overcast.fm/+aQir1lt20)
+- [Decoder with Nilay Patel – How the Wayback Machine is fighting linkrot](https://overcast.fm/+QLdsFBHOE)
 - [Accidental Tech Podcast – 602: A Glimpse of a Better World](https://atp.fm/602)
-- The Race Members' Club (Archive) – Ad-free F1 pod: Antonelli’s big break and Williams’s drastic action
-- [The Rebound – 510: The Kill Your Watch Button](https://overcast.fm/+De1l_3TKg)
-- [Judge John Hodgman – A Turning Client Privilege](https://overcast.fm/+YJM2HYvSE)
-- [The 404 Media Podcast – The Arrest of Telegram Founder Pavel Durov](https://overcast.fm/+BDRJNC3trU)
-- [Your Daily Lex – Shots! Shots! Shots!](https://overcast.fm/+BbFHosmR4)
-- [AppStories – The Future of Apps](https://overcast.fm/+I5CkiAV9M)
-- [P1 with Matt and Tommy – BREAKING: Williams DROP Logan Sargeant for the rest of the season!](https://overcast.fm/+_U3qpApIA)
 
 ### Books
 
@@ -28,10 +27,9 @@ slug: "now"
 
 ### Movies and TV
 
+- [Monsieur Spade](https://www.netflix.com/browse?jbv=81788695) *Clive Owen is always great. And cranky characters who secretly care deeply about people are too. This has both!*  
 - [The Night Manager](https://www.amazon.com/gp/video/detail/B01EIM5NGG/) *I'm very late to this adaptation of John le Carré's 1993 novel of the same name, but wow, is it worth a watch. Great acting. Of course Hugh Laurie is always top notch, but don't miss Tom Hiddleston here. You may think of him as Loki now, but the man has range and depth.*
 - [Bad Monkey - Eps 1-4](https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x) *I don't consider myself the HUGEST of Vince Vaughn fans, but he's really good in this Yet Another Down On His Luck Detective show that has managed a few interesting twists in just its first four episodes.*
-- [AMERICAN MURDER: LACI PETERSON](https://www.netflix.com/title/81582794) *Everyone knows this story but it's still beyond creepy after all this time.*
-- [THE SONS OF SAM – A DESCENT INTO DARKNESS](https://www.netflix.com/browse?jbv=81059887) *I never realized there was controversy about whether or not Berkowitz was the sole killer. I'm in the midst of watching.*
 
 ### Food and Drink
 
