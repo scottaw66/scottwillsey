@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-08-17T11:26:14-08:00"
+date: "2024-09-11T09:46:44-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -73,7 +73,7 @@ slug: "uses"
 ### RSS
 
 - [EchoFeed](https://echofeed.app/)
-- [NetNewsWire](https://netnewswire.com)
+- [Reeder Classic](https://reeder.app/classic/)
 
 ### Writing
 
