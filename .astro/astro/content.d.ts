@@ -779,6 +779,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"updated-sessions-script-command.md": {
+	id: "updated-sessions-script-command.md";
+  slug: "updated-sessions-script-command";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "warp-blocks.md": {
 	id: "warp-blocks.md";
   slug: "warp-blocks";

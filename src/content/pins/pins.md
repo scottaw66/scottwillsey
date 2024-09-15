@@ -1,7 +1,7 @@
 ---
 title: "Pins"
 description: Things I've spotted recently and want to get back to. Ephemeral things that don't quit fit into a read later app.
-date: "2024-09-09T22:55:58-08:00"
+date: "2024-09-15T15:50:43-08:00"
 slug: "pins"
 ---
 
@@ -68,6 +68,7 @@ slug: "pins"
 
 - [A Comprehensive Guide to Python Virtual Environments with venv | by Lucas Maia | Medium](https://medium.com/@lucasthedev/a-comprehensive-guide-to-python-virtual-environments-with-venv-cb76fea6a550)
 - [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Python — Homebrew Documentation](https://docs.brew.sh/Homebrew-and-Python)
 - [Python Virtual Environments](https://www.pythontutorial.net/python-basics/python-virtual-environments/)
 - [Python Virtual Environments: A Primer – Real Python](https://realpython.com/python-virtual-environments-a-primer/)
 - [Setting Your Python Working Environment, the Right Way](https://www.pythonguis.com/tutorials/python-virtual-environments/)

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-09-09T22:55:58-08:00"
+date: "2024-09-15T15:50:43-08:00"
 slug: "links"
 ---
 
@@ -404,13 +404,16 @@ The title of this blog means four and a half tatami mats, which is a small room 
 ## Cool Sites Archive
 
 - [&udm=14 | the disenshittification Konami code](https://udm14.com/)
+- [6 of the Coolest Rest Stops in the U.S. | The Discoverer](https://www.thediscoverer.com/blog/6-of-the-coolest-rest-stops-in-the-u-s/ZEa06xG9cAAI0Drq)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
+- [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
+- [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 - [Game Dad Club](https://gamedad.club/)
 - [HTMHell](https://www.htmhell.dev)
@@ -439,6 +442,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
+- [Weighing in on "Man or Bear" - BIKEPACKING.com](https://bikepacking.com/plog/man-or-bear-debate/)
 - [White Noise](https://whitenoise.tiff.ws/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 
