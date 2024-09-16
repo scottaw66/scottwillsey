@@ -4,6 +4,7 @@ import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
 import av from "../assets/images/ScottLatest.jpg";
 import MastodonIcon from "../components/icons/InlineMastodonIcon.astro";
+import BlueSkyIcon from "../components/icons/InlineBlueSky.astro";
 
 let title = "About Me - " + site.title;
 let description = "About Scott Willsey";
@@ -89,6 +90,8 @@ let description = "About Scott Willsey";
     <p>
       Contact me on <a rel="me" href="https://social.lol/@scottwillsey">
         <MastodonIcon /> Mastodon</a
+      > or <a href="https://bsky.app/profile/scottwillsey.com"
+        ><BlueSkyIcon /> Bluesky</a
       > if you like.
     </p>
   </article>
