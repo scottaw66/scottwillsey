@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-09-15T15:50:43-08:00"
+date: "2024-09-19T21:31:58-08:00"
 slug: "now"
 ---
 
@@ -9,13 +9,15 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [The Incomparable Mothership – 732: Terrible Clothes, Great Parties](https://overcast.fm/+kMYE6n94)
-- Six Colors – Apple event, OS anticipation, and Q&A! (6C Podcast)
-- [MacStories Unwind – Are We There Yet?](https://overcast.fm/+aQiqGvSKc)
-- [P1 with Matt and Tommy – Reaction to Azerbaijan GP qualifying](https://overcast.fm/+_U3qYL0Rg)
-- [Accidental Tech Podcast – 604: Minimized Embiggening](https://atp.fm/604)
-- [Judge John Hodgman – Mordor in the Court](https://overcast.fm/+YJM0pfmno)
-- [Upgrade – 528: Here’s My Child Criminal](https://overcast.fm/+Fcm9PU99A)
+- [Robot or Not? – 296: Catchphrase](https://overcast.fm/+Ep2S8aTUc)
+- The Race Members' Club – BBV10s Extra: Damon Hill and Richard West on Williams in 1993 UNCUT
+- [P1 with Matt and Tommy – Our 2024 Singapore GP predictions](https://overcast.fm/+_U3rByCYw)
+- The Race Members' Club – Ad-free F1 pod: Is Piastri McLaren’s best long-term title hope? Your questions answered
+- [The 404 Media Podcast – Hezbollah’s Exploding Pagers](https://overcast.fm/+BDRJMvp_Wg)
+- [Judge John Hodgman – Van Freaks Roadshow in Durham](https://overcast.fm/+YJM1b5zLE)
+- [Programming By Stealth – PBS 170 of X: Model View Controller (MVC)](https://overcast.fm/+JGaCBayzY)
+- Accidental Tech Podcast – ATP Insider: Photo Workflows
+- [P1 with Matt and Tommy – Azerbaijan GP Race Review](https://overcast.fm/+_U3onu60s)
 
 ### Books
 
