@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-09-19T21:31:58-08:00"
+date: "2024-09-23T09:28:21-08:00"
 slug: "links"
 ---
 
@@ -378,6 +378,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
+- [Sterling Coffee Roasters](https://www.sterling.coffee/)
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
 - [Trade Coffee](https://www.drinktrade.com/)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
@@ -544,6 +545,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
+- [Reeder Classic](https://reeder.app/classic/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
 - [Rogue Amoeba | Audio Hijack: Record Any Audio on MacOS](https://rogueamoeba.com/audiohijack/)
 - [Rogue Amoeba | Farrago: Robust, rapid-fire soundboards](https://rogueamoeba.com/farrago/)
@@ -655,7 +657,9 @@ The title of this blog means four and a half tatami mats, which is a small room 
 ## RSS & Reading Tools
 
 - [EchoFeed](https://echofeed.app/)
+- [Feedbin](https://feedbin.com/home)
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
+- [Reeder Classic](https://reeder.app/classic/)
 
 ## Tea
 
