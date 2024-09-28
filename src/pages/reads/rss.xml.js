@@ -15,7 +15,7 @@ export function GET(context) {
   );
 
   return rss({
-    title: site.title,
+    title: `${site.title} Weekly Reads`,
     description: "Weekly Reads",
     site: context.site,
     xmlns: {
