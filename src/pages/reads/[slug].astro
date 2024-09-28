@@ -1,0 +1,20 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import Read from "../../components/Read.astro";
+import { titleCase } from "../../components/utilities/StringFormat";
+
+export async function getStaticPaths() {
+  const reads = await getCollection("reads");
+  return reads.map((read) => ({
+    params: { slug: read.slug },
+    props: { read },
+  }));
+}
+
+const { read } = Astro.props;
+---
+
+<Base title={titleCase(read.data.title)} description={read.data.description}>
+  <Read read={read} />
+</Base>

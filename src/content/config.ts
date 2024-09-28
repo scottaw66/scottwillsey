@@ -6,7 +6,11 @@ const postCollection = defineCollection({
       title: z.string(),
       description: z.string(),
       link: z.string().optional(),
-      date: z.string().transform((str) => new Date(str)).optional().nullable(),
+      date: z
+        .string()
+        .transform((str) => new Date(str))
+        .optional()
+        .nullable(),
       keywords: z.string().array(),
       cover: image().optional(),
       coverAlt: z.string().optional(),
@@ -15,47 +19,81 @@ const postCollection = defineCollection({
 });
 
 const changeCollection = defineCollection({
-  type: 'content', // v2.5.0 and later
+  type: "content", // v2.5.0 and later
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)).optional().nullable(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
   }),
 });
 
 const nowCollection = defineCollection({
-  type: 'content', // v2.5.0 and later
+  type: "content", // v2.5.0 and later
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)).optional().nullable(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
   }),
 });
 
 const linksCollection = defineCollection({
-  type: 'content', // v2.5.0 and later
+  type: "content", // v2.5.0 and later
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)).optional().nullable(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
   }),
 });
 
 const pinsCollection = defineCollection({
-  type: 'content', // v2.5.0 and later
+  type: "content", // v2.5.0 and later
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)).optional().nullable(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
   }),
 });
 
 const usesCollection = defineCollection({
-  type: 'content', // v2.5.0 and later
+  type: "content", // v2.5.0 and later
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.string().transform((str) => new Date(str)).optional().nullable(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+  }),
+});
+
+const readsCollection = defineCollection({
+  type: "content", // v2.5.0 and later
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+    keywords: z.string().array(),
   }),
 });
 
@@ -65,5 +103,6 @@ export const collections = {
   links: linksCollection,
   now: nowCollection,
   pins: pinsCollection,
+  reads: readsCollection,
   uses: usesCollection,
 };

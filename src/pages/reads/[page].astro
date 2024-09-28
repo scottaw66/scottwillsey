@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import Read from "../../components/Read.astro";
+import Pager from "../../components/Pager.astro";
+import { getCollection } from "astro:content";
+import site from "../../data/site.json";
+
+export async function getStaticPaths({ paginate }) {
+  let reads = await getCollection("reads");
+
+  reads = reads.sort(
+    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
+  );
+
+  return paginate(reads, {
+    pageSize: site.posts.paginationSize,
+  });
+}
+const { page } = Astro.props;
+
+const title = site.title;
+const description = `Weekly Reads Page ${page.currentPage}`;
+---
+
+<Base title={title} description={description}>
+  <section aria-label="Post list" data-pagefind-ignore>
+    {
+      page.data.map((read, index) => {
+        return <Read read={read} />;
+      })
+    }
+    <Pager page={page} />
+  </section>
+</Base>

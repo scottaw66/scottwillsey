@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-09-28
+
+Adds [Weekly Reads](/reads/1) for links that I would normally send to my dad and brother, complete with an [RSS feed](/reads/rss.xml).
+
 ### 2024-08-10
 
 I took out the YouTube section on the [/now](/now) page because there's no good way (or any way, for that matter) to get YouTube watch history.
