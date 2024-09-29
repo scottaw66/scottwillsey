@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-09-28T10:51:08-08:00"
+date: "2024-09-29T15:19:04-08:00"
 slug: "now"
 ---
 
@@ -33,5 +33,6 @@ slug: "now"
 
 ### Food and Drink
 
+- [Mount Angel Sausage Company](https://mtangelsausage.com/)
 - [Fire on the Mountain Buffalo Wings | Portland, OR](https://www.portlandwings.com/)
 - [HIMALAYAN DUMPLINGS](https://www.himalayandumplings.com/)
