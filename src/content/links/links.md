@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-03T22:23:53-08:00"
+date: "2024-10-04T10:29:10-08:00"
 slug: "links"
 ---
 
@@ -462,6 +462,11 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Calling all courageous canary testers for Eleventy v3.0 — Eleventy](https://www.11ty.dev/blog/canary-eleventy-v3/)
 - [Eleventy 3.0.0 Milestone](https://github.com/11ty/eleventy/milestone/40?closed=1)
 - [The 11ty Bundle](https://11tybundle.dev/)
+
+## Fonts
+
+- [Departure Mono](https://departuremono.com/)
+- [SimpleBits®](https://simplebits.shop/)
 
 ## FOOD
 
