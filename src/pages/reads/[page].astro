@@ -4,6 +4,7 @@ import Read from "../../components/Read.astro";
 import Pager from "../../components/Pager.astro";
 import { getCollection } from "astro:content";
 import site from "../../data/site.json";
+import RssIcon from "../../components/icons/RssIconReads.astro";
 
 export async function getStaticPaths({ paginate }) {
   let reads = await getCollection("reads");
@@ -23,6 +24,7 @@ const description = `Weekly Reads Page ${page.currentPage}`;
 ---
 
 <Base title={title} description={description}>
+  <p><a href="/reads/rss.xml">Weekly Reeds RSS Feed <RssIcon /></a></p>
   <section aria-label="Post list" data-pagefind-ignore>
     {
       page.data.map((read, index) => {
@@ -32,3 +34,12 @@ const description = `Weekly Reads Page ${page.currentPage}`;
     <Pager page={page} />
   </section>
 </Base>
+<style>
+  p a {
+    color: var(--brand);
+  }
+  p a:hover {
+    color: var(--accent-orange-darker);
+    text-decoration-color: var(--accent-orange-darker);
+  }
+</style>

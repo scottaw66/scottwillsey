@@ -539,6 +539,18 @@ svg#footer-history-icon {
   height: 1.65em;
   margin-bottom: -0.05em;
 }
+svg#footer-notifications-unread-icon {
+  fill: var(--accent-red);
+  width: 1.333em;
+  height: 1.333em;
+  margin-bottom: 0.12em;
+}
+svg#rss-icon-reads {
+  fill: var(--accent-orange-darker);
+  width: 1.65em;
+  height: 1.65em;
+  margin: 0 0 -0.4em 0.25em;
+}
 svg#menu-home-icon:hover,
 div.menu svg#message-edit-icon:hover,
 svg#menu-link-icon:hover,

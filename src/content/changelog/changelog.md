@@ -4,6 +4,12 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-10-04
+
+Added link to [Weekly Reads](/reads/1) [RSS feed](/reads/rss.xml) on Weekly Reads page and added footer icon for Weekly Reads page.
+
+[![Footer Icons](../../assets/images/posts/ReadsIcon-D13602BA-2FF6-4610-A356-5704C868D75A.png)](/images/posts/ReadsIcon-D13602BA-2FF6-4610-A356-5704C868D75A.jpg)
+
 ### 2024-09-28
 
 Adds [Weekly Reads](/reads/1) for links that I would normally send to my dad and brother, complete with an [RSS feed](/reads/rss.xml).

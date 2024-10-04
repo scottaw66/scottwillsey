@@ -5,6 +5,7 @@ import GitHubIcon from "./icons/FooterGitHubIcon.astro";
 import MastodonIcon from "./icons/FooterMastodonIcon.astro";
 import RssIcon from "./icons/FooterRssIcon.astro";
 import HistoryIcon from "./icons/FooterHistoryIcon.astro";
+import NotificationsUnread from "./icons/NotificationsUnread.astro";
 ---
 
 <div class="footer">
@@ -13,6 +14,7 @@ import HistoryIcon from "./icons/FooterHistoryIcon.astro";
     <a href={site.social.github}><GitHubIcon /></a>
     <a href="/rss.xml"><RssIcon /></a>
     <a href="/changelog/"><HistoryIcon /></a>
+    <a href="/reads/1"><NotificationsUnread /></a>
   </div>
   <div class="footer-page-links">
     <a href="/now">/now</a>
