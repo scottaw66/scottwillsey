@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-09-28T12:10:53-08:00"
+date: "2024-10-03T22:23:53-08:00"
 slug: "links"
 ---
 
@@ -450,6 +450,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
+- - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
@@ -637,6 +638,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [On popover accessibility: what the browser does and doesn’t do | hidde.blog](https://hidde.blog/popover-accessibility/)
 - [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
+- [Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration](https://pmrf-ml.github.io/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
