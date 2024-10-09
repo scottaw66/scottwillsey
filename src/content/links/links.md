@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-04T10:29:10-08:00"
+date: "2024-10-08T23:35:02-08:00"
 slug: "links"
 ---
 
@@ -31,6 +31,7 @@ slug: "links"
 
 ## Apple Home
 
+- [Best smart door lock you can buy - The Verge](https://www.theverge.com/23393163/best-smart-door-lock)
 - [Eve Outdoor Cam | evehome.com](https://www.evehome.com/en-us/eve-outdoor-cam)
 - [HomeCam for HomeKit](https://homecam.app/)
 - [HomeKit.cam - Every HomeKit camera and more](https://homekit.cam/)
@@ -51,6 +52,7 @@ slug: "links"
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
+- [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
@@ -60,7 +62,9 @@ slug: "links"
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
+- [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
 - [LLMs Aren’t Just “Trained On the Internet” Anymore - Allen Pike](https://allenpike.com/2024/llms-trained-on-internet)
+- [Mark Zuckerberg’s rebrand is a master class in distraction](https://disconnect.blog/mark-zuckerbergs-rebrand-is-a-master-class-in-distraction/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
@@ -70,6 +74,7 @@ slug: "links"
 - [Ten Years Later, ‘Monument Valley’ Is a Monument to Mobile Gaming’s Bygone Era - The Ringer](https://www.theringer.com/video-games/2024/4/3/24119719/monument-valley-10-year-anniversary-ustwo-mobile-gaming-apple-ios)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
+- [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
@@ -616,6 +621,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Programming and Web Dev
 
+- [A Comprehensive Guide to Font Loading Strategies—zachleat.com](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)

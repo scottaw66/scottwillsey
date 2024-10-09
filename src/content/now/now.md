@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-10-03T22:23:53-08:00"
+date: "2024-10-08T23:35:02-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Upgrade – 531: Notifications in My Eyes](https://overcast.fm/+Fcm-CsMx0)
-- [Tech Won't Save Us – Don’t Fall for Mark Zuckerberg’s Rebrand w/ Karl Bode](https://overcast.fm/+ZpQBsrjrM)
-- [Decoder with Nilay Patel – The toxic transformation of Warcraft maker Blizzard](https://overcast.fm/+QLdtSX9LQ)
-- [P1 with Matt and Tommy – Who’s going to get the final 2025 F1 seat?](https://overcast.fm/+_U3olxI0s)
-- The Race Members' Club – Ad-free F1 podcast: We debate which rules should be ditched?
-- [The 404 Media Podcast – AI Companies Are Opting You In By Default](https://overcast.fm/+BDRJMnN3oY)
-- [Judge John Hodgman – Van Freaks Roadshow in Portland Maine](https://overcast.fm/+YJM0UWAp4)
-- [Darknet Diaries – 150: mobman 2](https://overcast.fm/+BI2YamB89k)
-- [F1: Beyond The Grid – James Vowles: on the right track with Albon + Sainz](https://overcast.fm/+Nv8KTqgFs)
-- [Malicious Life – Operation Snow White, Part 1](https://overcast.fm/+BCNCy1qzoU)
+- [F1: Beyond The Grid – Guenther Steiner: life on the other side of F1](https://overcast.fm/+Nv8JipojY)
+- [Tech Won't Save Us – Data Vampires: Going Hyperscale (Episode 1)](https://overcast.fm/+ZpQDY6iMA)
+- [Upgrade – 532: I Am Foreign Exchange Headwinds](https://overcast.fm/+Fcm-vA4ig)
+- [The Talk Show With John Gruber – 411: ‘An Acoustic Nightmare’, With Tyler Stalman](https://overcast.fm/+B7NDNUpqM)
+- [Decoder with Nilay Patel – Rabbit CEO Jesse Lyu isn’t thinking too far ahead](https://overcast.fm/+QLdtz7sb4)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Flashlight Tweaks, iPad Tips, Drive Fixes, and More](https://overcast.fm/+6TZ8arGoU)
+- The Race Members' Club – Ad-free F1 pod: Is the junior ladder fit for purpose?
+- [Robot or Not? – 298: Henchman](https://overcast.fm/+Ep2RXetv8)
+- [楽しいラジオ「ドングリFM」 – 1117 「会社四季報」業界地図](https://overcast.fm/+9ABLCy-Jk)
+- [Friends with Brews – The Germans Let Me Down](https://overcast.fm/+9SHiBPBFA)
 
 ### Books
 
@@ -31,8 +31,7 @@ slug: "now"
 
 ### Movies and TV
 
-- [Megan Leavey - Netflix](https://www.netflix.com/title/80170259) *Being a former German Shepherd owner, I'm a softie for anything with German Shepherds, and war dogs in general.*
-- [The Pacific](https://www.netflix.com/browse?jbv=80154375) *I always enjoy WWII related shows and movies. Maybe it's because it was the last war that truly needed to be fought? I don't know.*
+- [Meltdown – Three Mile Island](https://www.netflix.com/title/81198239) *I never realized how close TMI came to having a full core meltdown. I also didn't know the story about Bechtel trying to use a crane that would have destroyed the core too. So there's your cheerful tale of nuclear woe.*
 
 ### Food and Drink
 
