@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-10-08T23:35:02-08:00"
+date: "2024-10-13T19:18:40-08:00"
 slug: "now"
 ---
 
@@ -9,32 +9,33 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [F1: Beyond The Grid – Guenther Steiner: life on the other side of F1](https://overcast.fm/+Nv8JipojY)
-- [Tech Won't Save Us – Data Vampires: Going Hyperscale (Episode 1)](https://overcast.fm/+ZpQDY6iMA)
-- [Upgrade – 532: I Am Foreign Exchange Headwinds](https://overcast.fm/+Fcm-vA4ig)
-- [The Talk Show With John Gruber – 411: ‘An Acoustic Nightmare’, With Tyler Stalman](https://overcast.fm/+B7NDNUpqM)
-- [Decoder with Nilay Patel – Rabbit CEO Jesse Lyu isn’t thinking too far ahead](https://overcast.fm/+QLdtz7sb4)
-- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Flashlight Tweaks, iPad Tips, Drive Fixes, and More](https://overcast.fm/+6TZ8arGoU)
-- The Race Members' Club – Ad-free F1 pod: Is the junior ladder fit for purpose?
-- [Robot or Not? – 298: Henchman](https://overcast.fm/+Ep2RXetv8)
-- [楽しいラジオ「ドングリFM」 – 1117 「会社四季報」業界地図](https://overcast.fm/+9ABLCy-Jk)
-- [Friends with Brews – The Germans Let Me Down](https://overcast.fm/+9SHiBPBFA)
+- [Pitstop – Guenther Steiner on PITSTOP!](https://overcast.fm/+3sf7Tqps4)
+- [The High Performance Podcast – Here’s What No One Tells You About Starting Your Own Business In 2024](https://overcast.fm/+qG22vP-7A)
+- [The High Performance Podcast – The Hidden Skill Behind High Performance](https://overcast.fm/+qG20l3IQ4)
+- [Programming By Stealth – PBS Tidbit 9 – Using Git on iOS](https://overcast.fm/+JGaBVq6nM)
+- [How to Fix the Internet – Rerelease - So You Think You’re a Critical Thinker](https://overcast.fm/+1CUcWoFVM)
+- The Race Members' Club – BBV10s Extra: Your questions part 1 - Newey at Jaguar, Mansell’s Jordan test and Senna v Prost in karts!
+- The Race Members' Club – Ad-free F1 pod: Explaining Haas’s new Toyota deal
+- Six Colors – iPhones, “Submerged”, and the Sun (6C Podcast)
+- [The Vergecast – The Google breakup is looming](https://overcast.fm/+QN1rzWsHY)
+- [Rebuild – 392: It Wakes Up, But Doesn’t Wake Up (hak)](https://overcast.fm/+meqqp78)
 
 ### Books
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*
 
-- [Codex](https://books.apple.com/us/book/codex/id6468021882) *Finished. I rated this ⭐️⭐️⭐️⭐️ even though I didn't really enjoy the ending, I have to confess. Still well worth the read.*
-- [Livesuit by James S. A. Corey | Hachette Book Group](https://www.hachettebookgroup.com/titles/james-s-a-corey/livesuit/9780316575348/) *Finished. Great premise, great novella.*
+- [Build, Run, and Sell Your Apple Consulting Practice: Business and Marketing for iOS and Mac Start Ups | SpringerLink](https://link.springer.com/book/10.1007/978-1-4842-3835-6) *This book is by Charles Edge, much missed MacAdmins guru. The lessons in here are applicable to consulting in general.*
 - [The Man Who Lied to His Laptop — Clifford Nass & Corina Yen](https://books.apple.com/us/book/the-man-who-lied-to-his-laptop/id385166427) *In progress. This is not a novel, but it **IS** a novel look at how people interact with and anthropomorphize technology.*
-- [Dark Wire](https://books.apple.com/us/book/dark-wire/id6468445801) *Finished. The inside story of the largest law-enforcement sting operation ever, in which the FBI made its own tech start-up to wiretap the world, shows how cunning both the authorities and drug traffickers have become, with privacy implications for everyone.*
 
 ### Movies and TV
 
+- [Bad Boys: Ride or Die - Netflix](https://www.netflix.com/title/81762792) *I should have known this would be horrible, and it was horrible.*
+- [Pain Hustlers - Netflix](https://www.netflix.com/title/81614419) *Surprisingly good! Emily Blunt is always good, but she's outstanding in the role of a down-and-outer who lets her ambition and brains get the better of her judgement.*
 - [Meltdown – Three Mile Island](https://www.netflix.com/title/81198239) *I never realized how close TMI came to having a full core meltdown. I also didn't know the story about Bechtel trying to use a crane that would have destroyed the core too. So there's your cheerful tale of nuclear woe.*
 
 ### Food and Drink
 
+- [Hapa Pizza](https://www.hapapizza.com/)
 - [ABV Public House](https://abvpub.com/)
 - [Mount Angel Sausage Company](https://mtangelsausage.com/)
 - [Fire on the Mountain Buffalo Wings | Portland, OR](https://www.portlandwings.com/)

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-08T23:35:02-08:00"
+date: "2024-10-13T19:18:40-08:00"
 slug: "links"
 ---
 
@@ -73,8 +73,10 @@ slug: "links"
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
 - [Ten Years Later, ‘Monument Valley’ Is a Monument to Mobile Gaming’s Bygone Era - The Ringer](https://www.theringer.com/video-games/2024/4/3/24119719/monument-valley-10-year-anniversary-ustwo-mobile-gaming-apple-ios)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
+- [The Art of Arranging Flowers: A 1960s Guide for Achieving Harmony Through Art and Nature - Flashbak](https://flashbak.com/ikebana-the-japanese-art-of-arranging-flowers-470566/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
+- [The Eternal Truth of Markdown | WIRED](https://www.wired.com/story/the-eternal-truth-of-markdown/)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
@@ -88,10 +90,12 @@ slug: "links"
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
+- [Using this hidden camera detector to feel safer in an Airbnb | Popular Science](https://www.popsci.com/sponsored-content/hidden-camera-detector-airbnb-sponsored-deal/)
 - [Walking the Great Kantō Quake of 1923 — Ridgeline issue 193](https://craigmod.com/ridgeline/193/)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 - [WebP is so great… except it's not | Engineering](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 - [Weighing in on "Man or Bear" - BIKEPACKING.com](https://bikepacking.com/plog/man-or-bear-debate/)
+- [We only learnt of our son’s secret online life after he died at 25](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
 - [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 
@@ -219,6 +223,9 @@ Rick's microblog on tech and Japan! Hey, I like both of those things!
 
 **[Home | James' Coffee Blog](https://jamesg.blog/)**  
 Is it a blog? Is it a coffee blog? I guess it's both, because James says so. Either way, it's also about the indieweb, and I'm here for it!  
+
+**[Home - Stephanie Stimac's Blog](https://blog.stephaniestimac.com/)**  
+There's a lot here! I'm diggin' it. Also I think I need Stephanie's [Design for Developers](https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095) book!
 
 **[Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.](https://sohl-dickstein.github.io/)**  
 This is some crazy brain food that I probably won't understand most of.  
@@ -443,6 +450,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
+- [ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [other networks](https://othernetworks.net/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
