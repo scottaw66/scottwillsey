@@ -25,7 +25,7 @@ export function GET(context) {
     },
     items: posts.map((post) => ({
       title: post.frontmatter.title,
-      link: `${site.url}${post.frontmatter.slug}`,
+      link: `${site.url}reads/${post.frontmatter.slug}`,
       pubDate: rfc2822(post.frontmatter.date),
       description: post.frontmatter.description,
       customData: `<summary>${post.frontmatter.description}</summary>`,
