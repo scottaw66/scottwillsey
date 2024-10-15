@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-15T13:45:24-08:00"
+date: "2024-10-15T13:48:32-08:00"
 slug: "links"
 ---
 
@@ -465,7 +465,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
-- - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
+- [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
