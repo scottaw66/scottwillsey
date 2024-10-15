@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-13T19:18:40-08:00"
+date: "2024-10-15T13:45:24-08:00"
 slug: "links"
 ---
 
@@ -56,6 +56,7 @@ slug: "links"
 - [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+- [How an Atkinson Cycle Engine Works | HowStuffWorks](https://auto.howstuffworks.com/atkinson-cycle-engine.htm)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
@@ -460,6 +461,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [samwho](https://samwho.dev/)
 - [The Scroll Art Museum](https://scrollart.org/)
+- [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
@@ -559,6 +561,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [How to fix Mac menu bar icons hidden by the MacBook notch · Jesse Squires](https://www.jessesquires.com/blog/2023/12/16/macbook-notch-and-menu-bar-fixes/)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
+- [Insert the Current Date with a Keyboard Shortcut | AlanHogan.com](https://alanhogan.com/tips/insert-current-date-with-keyboard-shortcut)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
 - [The low-tech guys](https://lowtechguys.com/)
 - [A launchd Tutorial](https://www.launchd.info/)
@@ -645,6 +648,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
 - [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
+- [HTML for People](https://htmlforpeople.com/)
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)

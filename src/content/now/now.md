@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-10-13T19:18:40-08:00"
+date: "2024-10-15T13:45:24-08:00"
 slug: "now"
 ---
 
@@ -35,8 +35,8 @@ slug: "now"
 
 ### Food and Drink
 
+- [Matcha Chocolate | Green Tea Chocolate | Nama Chocolate | ROYCE'](https://roycechocolate.com/products/nama-chocolate-matcha)
+- [Wayfinder Beer](https://www.wayfinder.beer/) Corpo Seco Pumpkin Ale
 - [Hapa Pizza](https://www.hapapizza.com/)
 - [ABV Public House](https://abvpub.com/)
 - [Mount Angel Sausage Company](https://mtangelsausage.com/)
-- [Fire on the Mountain Buffalo Wings | Portland, OR](https://www.portlandwings.com/)
-- [HIMALAYAN DUMPLINGS](https://www.himalayandumplings.com/)

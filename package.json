@@ -31,8 +31,8 @@
   "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
   "dependencies": {
     "@astrojs/rss": "^4.0.8",
-    "@astrojs/sitemap": "^3.2.0",
-    "astro": "^4.16.2",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^4.16.4",
     "astro-expressive-code": "^0.37.0",
     "astro-font": "^0.1.81",
     "astro-pagefind": "https://gitpkg.now.sh/shishkin/astro-pagefind/packages/astro-pagefind?main",
