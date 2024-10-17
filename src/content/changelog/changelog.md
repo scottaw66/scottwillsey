@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-10-16
+
+Add a link in [Cool Site Spotlight](/links/#cool-site-spotlight) section to the [Cool Sites Archive](/links/#cool-sites-archive) section.
+
 ### 2024-10-04
 
 Added link to [Weekly Reads](/reads/1) [RSS feed](/reads/rss.xml) on Weekly Reads page and added footer icon for Weekly Reads page.
