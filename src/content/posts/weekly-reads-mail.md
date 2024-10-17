@@ -2,7 +2,10 @@
 title: "Mail Weekly Reads Script Command"
 description: "I created a Raycast Script Command to take the contents of my latest Reads post, reformat it, and mail it to unsuspecting family members."
 date: "2024-10-17T09:00:00-08:00"
-keywords: ["blog"]
+keywords: ["mac","raycast","apps"]
+cover: "../../assets/images/covers/RaycastHeader.png"
+coverAlt: "Raycast"
+series: "Raycast"
 slug: "weekly-reads-mail"
 ---
 
