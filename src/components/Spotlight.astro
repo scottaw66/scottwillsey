@@ -26,6 +26,9 @@ import GlobeIcon from "../components/icons/GlobeIcon.astro";
       </p>
     </div>
   </div>
+  <div class="archive-link">
+    <a href="/links#cool-sites-archive">Cool Sites Spotlight Archive</a>
+  </div>
 </div>
 
 <style>
@@ -45,6 +48,13 @@ import GlobeIcon from "../components/icons/GlobeIcon.astro";
     align-items: center;
     gap: 2em;
     white-space: pre-wrap;
+  }
+  div.archive-link a {
+    display: inline-block;
+    font-size: 0.8em;
+    font-style: italic;
+    color: var(--brand);
+    margin: 0 0 2em 3em;
   }
   @media only screen and (max-width: 699px) {
     div.spotlight-details {
