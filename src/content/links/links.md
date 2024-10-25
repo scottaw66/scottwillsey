@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-15T13:48:32-08:00"
+date: "2024-10-25T15:26:07-08:00"
 slug: "links"
 ---
 
@@ -60,6 +60,7 @@ slug: "links"
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
+- [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
@@ -85,6 +86,7 @@ slug: "links"
 - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
+- [The Thought Experiments That Fray the Fabric of Space-Time | Quanta Magazine](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 - [The Vacuum of Space Will Decay Sooner Than Expected | WIRED](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
 - [The West Coast’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico | WIRED](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
 - [This Ancient Technology Is Helping Millions Stay Cool | WIRED](https://www.wired.com/story/evaporative-cooling-devices-coolant-clay-matka-mitticool-india-heat-wave/)
@@ -437,6 +439,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [CSS Zen Garden](https://csszengarden.com)
 - [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+- [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
 - [HTMHell](https://www.htmhell.dev)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
@@ -632,6 +635,8 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Programming and Web Dev
 
+- [1Password Developer](https://developer.1password.com/)
+- [1Password CI/CD Integrations | 1Password Developer](https://developer.1password.com/docs/ci-cd/)
 - [A Comprehensive Guide to Font Loading Strategies—zachleat.com](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
@@ -641,8 +646,10 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
+- [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
+- [Developer Community | 1Password Developer](https://developer.1password.com/community/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
@@ -664,6 +671,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration](https://pmrf-ml.github.io/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
+- [Secrets Management for Developers | 1Password](https://1password.com/developers/secrets-management)
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 - [Shoelace: A forward-thinking library of web components.](https://shoelace.style/)
 - [SmolCSS](https://smolcss.dev/)
@@ -672,6 +680,8 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
 - [The Ultimate CSS Shapes Collection](https://css-shape.com/)
+- [Use secret references with 1Password CLI | 1Password Developer](https://developer.1password.com/docs/cli/secret-references/#with-op-inject)
+- [Using and Creating Global Variables in Your Python Functions – Real Python](https://realpython.com/python-use-global-variable-in-function/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 - [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
