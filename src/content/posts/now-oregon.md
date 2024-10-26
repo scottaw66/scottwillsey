@@ -7,7 +7,7 @@ slug: "now-oregon"
 ---
 You all know, I hope, that I have a [/now page](https://scottwillsey.com/now/) on this site for quick dumps of things I’m into at the moment. It’s ephemeral, as /now pages should be.
 
-The idea of the /now page comes from [Derek Sivers](https://sive.rs), and he has a whole site, nownownow.com, dedicated to spreading the message and the sheer fun of /now pages.
+The idea of the /now page comes from [Derek Sivers](https://sive.rs), and he has a whole site, [nownownow.com](https://nownownow.com), dedicated to spreading the message and the sheer fun of /now pages.
 
 And look! You can see people by region!
 
