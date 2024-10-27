@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-25T15:26:07-08:00"
+date: "2024-10-27T14:53:10-08:00"
 slug: "links"
 ---
 
@@ -82,6 +82,7 @@ slug: "links"
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
+- [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
 - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
@@ -387,6 +388,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
+- [The Galapagos and the Meaning of Life: A Young Woman’s Bittersweet Experiment in Inner Freedom – The Marginalian](https://www.themarginalian.org/2024/10/22/dore-strauch-floreana/)
 
 ## Coffee
 
@@ -415,6 +417,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Bash printf syntax examples - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/bash-printf-syntax-basics-with-examples)
 - [Beancount Documentation](https://beancount.github.io/docs/index.html)
 - [GREP](https://www.panix.com/%7Eelflord/unix/grep.html)
+- [mess with dns](https://messwithdns.net/)
 - [Minimal Debian Install on a Headless pi | Notes and Ramblings](https://notes.1705.net/posts/debian-on-a-pi/)
 - [linux - How to find out who/what caused a reboot/shutdown? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/557888/how-to-find-out-who-what-caused-a-reboot-shutdown)
 - [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](https://www.regular-expressions.info/)
@@ -500,6 +503,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Games
 
+- [Failbetter Games](https://www.failbettergames.com/)
 - [Inform 7 | Inform is a natural-language-based programming language for writers of interactive fiction.](https://ganelson.github.io/inform-website/)
 - [Kunitsu-Gami: Path of the Goddess | CAPCOM](https://www.kunitsu-gami.com/en-us/)
 - [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
@@ -568,6 +572,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
 - [The low-tech guys](https://lowtechguys.com/)
 - [A launchd Tutorial](https://www.launchd.info/)
+- [Louie Mantia's Icons](https://lmnt.me/blog/icons/)
 - [Lunar - The defacto app for controlling monitor brightness](https://lunar.fyi/?source=lowtechguys)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
@@ -612,6 +617,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
 - [SwiftLee Weekly (read by 17k+ Swift & SwiftUI Developers)](https://www.avanderlee.com/swiftlee-weekly-subscribe/)
 - [SwiftUI Weekly](https://weekly.swiftwithmajid.com/subscribe)
+- [The Hiro Report](https://subscribe.hiro.report/)
 - [this week in security](https://this.weekinsecurity.com/)
 - [Today in Librarian Tabs by Jessamyn West](https://tinyletter.com/jessamyn)
 
