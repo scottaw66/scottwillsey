@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-27T14:53:10-08:00"
+date: "2024-10-28T23:28:41-08:00"
 slug: "links"
 ---
 
@@ -593,6 +593,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Secure ShellFish – SSH Client for iOS and Mac](https://shellfishapp.com/)
 - [Sequel](https://www.getsequel.app)
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
+- [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
