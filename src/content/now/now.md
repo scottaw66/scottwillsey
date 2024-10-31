@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-10-25T15:26:07-08:00"
+date: "2024-10-30T23:10:53-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,14 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [P1 with Matt and Tommy – Our 2024 Mexico GP predictions](https://overcast.fm/+_U3oh6mSE)
-- [Accidental Tech Podcast 610: More Values in the Darkness](https://atp.fm/610)
-- The Race Members' Club – Ad-free F1 pod: Do the racing guidelines need tweaking?
-- [Judge John Hodgman – Junk, and this Quarterly](https://overcast.fm/+YJM2tVJk0)
-- [Tech Won't Save Us – Data Vampires: Sacrificing for AI (Episode 3)](https://overcast.fm/+ZpQCPjAVw)
-- [F1: Beyond The Grid – Fernando at 400: why Alonso’s still fired up](https://overcast.fm/+Nv8LkHpWk)
-- [NosillaCast Apple Podcast – NC #1015 Overcast Tutorial, Let’s Talk Photography, ChatGPT for JavaScript, ChatGPT’s Effect on StackOverflow with Bart Busschots](https://overcast.fm/+BJFaJIWcaI)
-- [P1 with Matt and Tommy – US GP Race Review](https://overcast.fm/+_U3o5ZSw0)
-- The Race Members' Club – Ad-free F1 pod: Sparks fly on and off track in Austin
-- [Upgrade – 534: The 2024 October Event? Draft](https://overcast.fm/+Fcm-7eTZE)
+- [F1: Beyond The Grid – Christian Danner: how Senna came to his defence in Monaco](https://overcast.fm/+Nv8KH7roM)
+- [Friends with Brews – It Came From Notes](https://overcast.fm/+9SHhIwAtQ)
+- [P1 with Matt and Tommy – Mexico City GP Driver Ratings: F1-to-10](https://overcast.fm/+_U3qQdT7w)
+- [Upgrade – 535: Little Spicy Peppers](https://overcast.fm/+Fcm-5xXg4)
+- [Tech Won't Save Us – Data Vampires: Fighting for Control (Episode 4)](https://overcast.fm/+ZpQDMwZSc)
+- The Race Members' Club – Ad-free F1 pod: Mexican GP review
+- [P1 with Matt and Tommy – Mexico City GP Race Review](https://overcast.fm/+_U3qVQm3Q)
+- [Blurring The Lines Podcast – Episode 217 – Football and Silkworms](https://overcast.fm/+GsOna383c)
 
 ### Books
 
@@ -36,7 +34,23 @@ slug: "now"
 
 ### Food and Drink
 
+- [Black Butte Gold Decaf – Sisters Coffee Company](https://sisterscoffee.com/collections/coffee/products/black-butte-gold-decaf)
+- [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
 - [Matcha Chocolate | Green Tea Chocolate | Nama Chocolate | ROYCE'](https://roycechocolate.com/products/nama-chocolate-matcha)
 - [Wayfinder Beer](https://www.wayfinder.beer/) Corpo Seco Pumpkin Ale
 - [Hapa Pizza](https://www.hapapizza.com/)
+
+### Projects
+
+- **trakt-history-py**
+
+Python version of Trakt history grabber for updating my [/now](https://scottwillsey.com/now/) page. I want to be able to grab my trakt history and format it for the Movies and TV section of this /now page using a Raycast Script Command. I don't update trakt directly, rather I am using the excellent [Sequel app](https://www.getsequel.app) to track shows and movies (and also books).
+
+*[https://github.com/scottaw66/trakt-history-py](https://github.com/scottaw66/trakt-history-py)*
+
+- **pytrakt3000: A Pythonic interface to the Trakt.tv REST API**
+
+This is a fork of [glensc/python-pytrakt: A Pythonic interface to the Trakt.tv REST API](https://github.com/glensc/python-pytrakt) and is a module for using the Trakt API. My [trakt-history-py](https://github.com/scottaw66/trakt-history-py) utility mentioned above imports and uses this.
+
+*[https://github.com/scottaw66/pytrakt3000](https://github.com/scottaw66/pytrakt3000)*
