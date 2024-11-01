@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-01T00:17:58-08:00"
+date: "2024-11-01T09:54:22-08:00"
 slug: "now"
 ---
 
@@ -29,24 +29,19 @@ slug: "now"
 
 ### Movies
 
-- [Pain Hustlers](https://www.themoviedb.org/movie/862968-pain-hustlers-2023) Thu, Oct 17 2024
-- [Bad Boys: Ride or Die](https://www.themoviedb.org/movie/573435-bad-boys-ride-or-die-2024) Thu, Oct 17 2024 *I knew it would be horrible, and it did not disappoint.*
-- [War for the Planet of the Apes](https://www.themoviedb.org/movie/281338-war-for-the-planet-of-the-apes-2017) Sat, Sep 28 2024 *Best ever. Seriously, it is a really good movie.*
-- [Dawn of the Planet of the Apes](https://www.themoviedb.org/movie/119450-dawn-of-the-planet-of-the-apes-2014) Sat, Sep 28 2024 *Humans are jerks, and apes are here to prove it.*
-- [Wolfs](https://www.themoviedb.org/movie/877817-wolfs-2024) Sat, Sep 28 2024 *Two guys past the point where their charm overcomes a lame script, but it could have been worse, possibly.*
+- [Pain Hustlers](https://www.themoviedb.org/movie/862968-pain-hustlers-2023) *Quirky, funny, depressing. Recommended.*
+- [Bad Boys: Ride or Die](https://www.themoviedb.org/movie/573435-bad-boys-ride-or-die-2024) *I knew it would be horrible, and it did not disappoint.*
+- [War for the Planet of the Apes](https://www.themoviedb.org/movie/281338-war-for-the-planet-of-the-apes-2017) *Best ever. Seriously, it is a really good movie.*
+- [Wolfs](https://www.themoviedb.org/movie/877817-wolfs-2024) *Two guys past the point where their charm overcomes a lame script, but it could have been worse, possibly.*
 
 ### TV Shows
 
-- [Shrinking Season 2 Episode 4 – Made You Look](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/4) Thu, Oct 31 2024 *Shrinking is slightly annoying at times with how much everyone is a character with super witty banter because there aren't THAT many witty characters in one or two overlapping social circles, but it is a good show.*
-- [Silo Season 1 Episode 10 – Outside](https://www.themoviedb.org/tv/125988-silo/season/1/episode/10) Thu, Oct 31 2024 *Someone told me the TV adaptation of Silo was good but not great, but I thought it was great, not good. Very enjoyable.*
-- [This Is the Zodiac Speaking Season 1 Episode 3 – Box of Secrets](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/3) Sat, Oct 26 2024 *It's a little weird, but if I had to bet on one guy being Zodiak, it would be this guy.*
-- [This Is the Zodiac Speaking Season 1 Episode 2 – Are You the Zodiac?](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/2) Fri, Oct 25 2024
-- [This Is the Zodiac Speaking Season 1 Episode 1 – We Called Him Mr. Allen](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/1) Fri, Oct 25 2024
-- [Silo Season 1 Episode 9 – The Getaway](https://www.themoviedb.org/tv/125988-silo/season/1/episode/9) Fri, Oct 25 2024
-- [Silo Season 1 Episode 8 – Hanna](https://www.themoviedb.org/tv/125988-silo/season/1/episode/8) Thu, Oct 24 2024
-- [Silo Season 1 Episode 6 – The Relic](https://www.themoviedb.org/tv/125988-silo/season/1/episode/6) Wed, Oct 23 2024
-- [Shrinking Season 2 Episode 3 – Psychological Something-ism](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/3) Wed, Oct 23 2024
-- [Shrinking Season 2 Episode 2 – I Love Pain](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/2) Tue, Oct 22 2024
+- [Shrinking Season 2 Episode 4 – Made You Look](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/4) *Shrinking is slightly annoying at times with how much everyone is a character with super witty banter because there aren't THAT many witty characters in one or two overlapping social circles, but it is a good show.*
+- [Silo Season 1 Episode 10 – Outside](https://www.themoviedb.org/tv/125988-silo/season/1/episode/10) *Someone told me the TV adaptation of Silo was good but not great, but I thought it was great, not good. Very enjoyable.*
+- [This Is the Zodiac Speaking Season 1 Episode 3 – Box of Secrets](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/3) *It's a little weird, but if I had to bet on one guy being Zodiak, it would be this guy.*
+- [This Is the Zodiac Speaking Season 1 Episode 2 – Are You the Zodiac?](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/2)
+- [This Is the Zodiac Speaking Season 1 Episode 1 – We Called Him Mr. Allen](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/1)
+- [Silo Season 1 Episode 9 – The Getaway](https://www.themoviedb.org/tv/125988-silo/season/1/episode/9)
 
 ### Food and Drink
 

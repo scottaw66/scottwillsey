@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-10-28T23:28:41-08:00"
+date: "2024-11-01T09:54:22-08:00"
 slug: "links"
 ---
 
@@ -43,9 +43,12 @@ slug: "links"
 - [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
 - [Yale Assure Lock® 2 | Best Smart Lock for your Home - Yale Home](https://shopyalehome.com/pages/yale-assure-lock-2)
 
+## Art
+
+- [Clothesline Animals Series | Helga Stentzel Official Store - Helga Stentzel Studio Ltd](https://www.helgastentzel.com/collections/clothing-line-animals)
+
 ## Articles
 
-- [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [5 Reasons To Move To Tokyo's Exciting Eastside | Tokyo Cheapo](https://tokyocheapo.com/living/east-tokyo/)
 - [6 of the Coolest Rest Stops in the U.S. | The Discoverer](https://www.thediscoverer.com/blog/6-of-the-coolest-rest-stops-in-the-u-s/ZEa06xG9cAAI0Drq)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
@@ -67,6 +70,7 @@ slug: "links"
 - [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
 - [LLMs Aren’t Just “Trained On the Internet” Anymore - Allen Pike](https://allenpike.com/2024/llms-trained-on-internet)
 - [Mark Zuckerberg’s rebrand is a master class in distraction](https://disconnect.blog/mark-zuckerbergs-rebrand-is-a-master-class-in-distraction/)
+- [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
@@ -77,13 +81,11 @@ slug: "links"
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [The Art of Arranging Flowers: A 1960s Guide for Achieving Harmony Through Art and Nature - Flashbak](https://flashbak.com/ikebana-the-japanese-art-of-arranging-flowers-470566/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
-- [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 - [The Eternal Truth of Markdown | WIRED](https://www.wired.com/story/the-eternal-truth-of-markdown/)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
-- [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
@@ -96,10 +98,9 @@ slug: "links"
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [Using this hidden camera detector to feel safer in an Airbnb | Popular Science](https://www.popsci.com/sponsored-content/hidden-camera-detector-airbnb-sponsored-deal/)
 - [Walking the Great Kantō Quake of 1923 — Ridgeline issue 193](https://craigmod.com/ridgeline/193/)
-- [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
-- [WebP is so great… except it's not | Engineering](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 - [Weighing in on "Man or Bear" - BIKEPACKING.com](https://bikepacking.com/plog/man-or-bear-debate/)
 - [We only learnt of our son’s secret online life after he died at 25](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
+- [‘We Were Wrong’: An Oral History of WIRED’s Original Website | WIRED](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
 - [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 
@@ -440,6 +441,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
+- [Decarbonize your life](https://heatmap.news/decarbonize-your-life)
 - [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 - [Follow the Crypto](https://www.followthecrypto.org/)
@@ -510,6 +512,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## IndieWeb
 
+- [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [IndieWeb](https://indieweb.org/)
@@ -518,6 +521,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 - [slash pages](https://slashpages.net/)
 - [/uses](https://uses.tech)
+- [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
 ## Japan & Japanese Language
 
