@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-01T09:54:22-08:00"
+date: "2024-11-02T00:36:32-08:00"
 slug: "now"
 ---
 
@@ -36,12 +36,13 @@ slug: "now"
 
 ### TV Shows
 
+- [Wanted: The Escape of Carlos Ghosn Season 1 Episode 2 – Chapter 2: Hostage Justice](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/2) *I always kind of assumed Ghosn was the criminal he was accused of being, but now I think at the very least Nissan wanted him gone and created this investigation to achieve that.*
+- [Wanted: The Escape of Carlos Ghosn Season 1 Episode 1 – Chapter 1: Hubris](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/1)
 - [Shrinking Season 2 Episode 4 – Made You Look](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/4) *Shrinking is slightly annoying at times with how much everyone is a character with super witty banter because there aren't THAT many witty characters in one or two overlapping social circles, but it is a good show.*
 - [Silo Season 1 Episode 10 – Outside](https://www.themoviedb.org/tv/125988-silo/season/1/episode/10) *Someone told me the TV adaptation of Silo was good but not great, but I thought it was great, not good. Very enjoyable.*
 - [This Is the Zodiac Speaking Season 1 Episode 3 – Box of Secrets](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/3) *It's a little weird, but if I had to bet on one guy being Zodiak, it would be this guy.*
 - [This Is the Zodiac Speaking Season 1 Episode 2 – Are You the Zodiac?](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/2)
 - [This Is the Zodiac Speaking Season 1 Episode 1 – We Called Him Mr. Allen](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/1)
-- [Silo Season 1 Episode 9 – The Getaway](https://www.themoviedb.org/tv/125988-silo/season/1/episode/9)
 
 ### Food and Drink
 
