@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-02T00:36:32-08:00"
+date: "2024-11-02T00:43:37-08:00"
 slug: "now"
 ---
 
@@ -59,10 +59,14 @@ slug: "now"
 
 Python version of Trakt history grabber for updating my [/now](https://scottwillsey.com/now/) page. I want to be able to grab my trakt history and format it for the Movies and TV section of this /now page using a Raycast Script Command. I don't update trakt directly, rather I am using the excellent [Sequel app](https://www.getsequel.app) to track shows and movies (and also books).
 
+It now internally incorporates the parts of [pytrakt3000](https://github.com/scottaw66/pytrakt3000) that I'm actually using and doesn't need to import it any longer, so it's now a standalone utility.
+
 *[https://github.com/scottaw66/trakt-history-py](https://github.com/scottaw66/trakt-history-py)*
 
 - **pytrakt3000: A Pythonic interface to the Trakt.tv REST API**
 
-This is a fork of [glensc/python-pytrakt: A Pythonic interface to the Trakt.tv REST API](https://github.com/glensc/python-pytrakt) and is a module for using the Trakt API. My [trakt-history-py](https://github.com/scottaw66/trakt-history-py) utility mentioned above imports and uses this.
+This is a fork of [glensc/python-pytrakt: A Pythonic interface to the Trakt.tv REST API](https://github.com/glensc/python-pytrakt) and is a module for using the Trakt API. My [trakt-history-py](https://github.com/scottaw66/trakt-history-py) utility mentioned above used to import and use this.
+
+*I'm no longer actually using this as I incorporated the parts I was using into [trakt-history-py](https://github.com/scottaw66/trakt-history-py) itself.*
 
 *[https://github.com/scottaw66/pytrakt3000](https://github.com/scottaw66/pytrakt3000)*
