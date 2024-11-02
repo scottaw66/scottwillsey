@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-02T00:43:37-08:00"
+date: "2024-11-02T00:51:49-08:00"
 slug: "now"
 ---
 
@@ -9,14 +9,14 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
+- [P1 with Matt and Tommy – Reaction to Brazil GP sprint qualifying](https://overcast.fm/+_U3oALK0M)
+- [The Talk Show With John Gruber – 412: ‘His Most Pro Shirt’, With Dan Moren](https://overcast.fm/+B7NA1O7Ck)
+- Six Colors – Macs, tax, and the rules of acquisition (6C Podcast)
+- The Race Members' Club – Ad-free F1 pod: Is Perez’s time at Red Bull up? What next for Colapinto? Your questions answered
+- [Accidental Tech Podcast 611: RAM Christmas](https://atp.fm/611)
 - [F1: Beyond The Grid – Christian Danner: how Senna came to his defence in Monaco](https://overcast.fm/+Nv8KH7roM)
-- [Friends with Brews – It Came From Notes](https://overcast.fm/+9SHhIwAtQ)
+- [Friends with Brews – It Came From Notes](https://friendswithbrews.com/74/)
 - [P1 with Matt and Tommy – Mexico City GP Driver Ratings: F1-to-10](https://overcast.fm/+_U3qQdT7w)
-- [Upgrade – 535: Little Spicy Peppers](https://overcast.fm/+Fcm-5xXg4)
-- [Tech Won't Save Us – Data Vampires: Fighting for Control (Episode 4)](https://overcast.fm/+ZpQDMwZSc)
-- The Race Members' Club – Ad-free F1 pod: Mexican GP review
-- [P1 with Matt and Tommy – Mexico City GP Race Review](https://overcast.fm/+_U3qVQm3Q)
-- [Blurring The Lines Podcast – Episode 217 – Football and Silkworms](https://overcast.fm/+GsOna383c)
 
 ### Books
 
