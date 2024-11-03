@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-02T00:51:49-08:00"
+date: "2024-11-03T07:33:52-08:00"
 slug: "now"
 ---
 
@@ -22,13 +22,14 @@ slug: "now"
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*
 
-- [Polostan – Volume One of Bomb Light](https://books.apple.com/us/book/polostan/id6474502267) *Diving into a new Neal Stephenson book: always a feeling of anticipation.*
+- [Leave the World Behind](https://books.apple.com/us/book/leave-the-world-behind/id1493825355) *Just starting - I've actually started the Netflix movie based on the book but as usual with Netflix, I never feel like watching anything in my list when I do open the stupid app. Anyway, this is the book, and I like books.*
+- [Polostan – Volume One of Bomb Light](https://books.apple.com/us/book/polostan/id6474502267) *FINISHED - a good start to a new Neal Stephenson series, with lots of the usual info-dumps that somehow are fun coming from him.*
 - [Guerrilla Marketing in 30 Days](https://books.apple.com/us/book/guerrilla-marketing-in-30-days/id843779604) *Marketing. I can't do it.*
 - [Build, Run, and Sell Your Apple Consulting Practice: Business and Marketing for iOS and Mac Start Ups | SpringerLink](https://link.springer.com/book/10.1007/978-1-4842-3835-6) *This book is by Charles Edge, much missed MacAdmins guru. The lessons in here are applicable to consulting in general.*
-- [The Man Who Lied to His Laptop — Clifford Nass & Corina Yen](https://books.apple.com/us/book/the-man-who-lied-to-his-laptop/id385166427) *In progress. This is not a novel, but it **IS** a novel look at how people interact with and anthropomorphize technology.*
 
 ### Movies
 
+- [Sicario: Day of the Soldado](https://www.themoviedb.org/movie/400535-sicario-day-of-the-soldado-2018) *I liked the first one with Emily Blunt as the fish out of water much better, but this is a pretty good movie. It's weird that Graver and Gillick seem to be redeemed here, as though their crimes and corrupt personas in the 2015 Sicario weren't really them. 🤷*
 - [Pain Hustlers](https://www.themoviedb.org/movie/862968-pain-hustlers-2023) *Quirky, funny, depressing. Recommended.*
 - [Bad Boys: Ride or Die](https://www.themoviedb.org/movie/573435-bad-boys-ride-or-die-2024) *I knew it would be horrible, and it did not disappoint.*
 - [War for the Planet of the Apes](https://www.themoviedb.org/movie/281338-war-for-the-planet-of-the-apes-2017) *Best ever. Seriously, it is a really good movie.*
