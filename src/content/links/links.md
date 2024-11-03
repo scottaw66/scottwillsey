@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-01T09:54:22-08:00"
+date: "2024-11-03T08:44:47-08:00"
 slug: "links"
 ---
 
@@ -115,15 +115,14 @@ slug: "links"
 
 ## Beer
 
-- [Bochi Bochi Japanese Rice Lager - Crux Fermentation](https://www.cruxfermentation.com/beer/)
 - [Blueberry Boyfriend | Prairie Artisan Ales](https://prairieales.com/beer/blueberry-boyfriend/)
 - [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Honey Kolsch – Rogue](https://www.rogue.com/shop/beer/core/honey-kolsch/)
 - [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
 - [Peanut Butter Milk Stout – Belching Beaver Landing - Beer](https://belchingbeaver.com/san-diego-belching-beaver-landing-beer)
-- [Puff Puff Passion | Ex Novo Brewing Company](https://exnovobrew.com/beer/puff-puff-passion/)
 - [Salted Caramel Porter – Beers — Cascade Lakes](https://www.cascadelakes.com/beers)
+- [Wayfinder Beer](https://www.wayfinder.beer/)
 
 ## Blogroll
 
@@ -135,6 +134,9 @@ Alex likes coffee. Alex likes computers. I like the things Alex writes.
 
 **[Álvaro Ramírez](https://xenodium.com/)**  
 A man of many tech topics.  
+
+**[Amerpie by Lou Plummer](https://amerpie.lol/)**  
+A fun blog including Lou's weekly links.  
 
 **[And now… – The musings of an ageing technophile](https://andnow.me/)**  
 I always enjoy whatever Allister has to say. He's a friend from the Apple community.  
@@ -401,6 +403,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
+- [Nightcap Decaf – Joe Coffee Company](https://joecoffeecompany.com/shop/nightcap-decaf/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Sterling Coffee Roasters](https://www.sterling.coffee/)
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
@@ -479,12 +482,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [White Noise](https://whitenoise.tiff.ws/)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
-
-## Eleventy
-
-- [Calling all courageous canary testers for Eleventy v3.0 — Eleventy](https://www.11ty.dev/blog/canary-eleventy-v3/)
-- [Eleventy 3.0.0 Milestone](https://github.com/11ty/eleventy/milestone/40?closed=1)
-- [The 11ty Bundle](https://11tybundle.dev/)
 
 ## Fonts
 
