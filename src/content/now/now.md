@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-03T07:33:52-08:00"
+date: "2024-11-04T22:55:23-08:00"
 slug: "now"
 ---
 
@@ -9,20 +9,22 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [P1 with Matt and Tommy – Reaction to Brazil GP sprint qualifying](https://overcast.fm/+_U3oALK0M)
-- [The Talk Show With John Gruber – 412: ‘His Most Pro Shirt’, With Dan Moren](https://overcast.fm/+B7NA1O7Ck)
-- Six Colors – Macs, tax, and the rules of acquisition (6C Podcast)
-- The Race Members' Club – Ad-free F1 pod: Is Perez’s time at Red Bull up? What next for Colapinto? Your questions answered
-- [Accidental Tech Podcast 611: RAM Christmas](https://atp.fm/611)
-- [F1: Beyond The Grid – Christian Danner: how Senna came to his defence in Monaco](https://overcast.fm/+Nv8KH7roM)
-- [Friends with Brews – It Came From Notes](https://friendswithbrews.com/74/)
-- [P1 with Matt and Tommy – Mexico City GP Driver Ratings: F1-to-10](https://overcast.fm/+_U3qQdT7w)
+- [Upgrade – 536: The Sleeping Lifestyle](https://overcast.fm/+Fcm9o3dwA)
+- [Malicious Life – Operation Snow White, Part 2](https://overcast.fm/+BCNCwcSbEQ)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Where Has All My Free Space Gone?](https://overcast.fm/+6TZ9KDimU)
+- [Robot or Not? – 300: Fast Food](https://overcast.fm/+Ep2SGssIM)
+- The Race Members' Club – Ad-free F1 pod: Brazilian GP review
+- [Not Playing with Lex and Dan – 10.7: The Rookie](https://overcast.fm/+BWFxUj3js)
+- [Whisky Whiskey – 7: Glenfiddich 12yr](https://overcast.fm/+BLIhcytBl8)
+- [P1 with Matt and Tommy – Brazil GP Race Review](https://overcast.fm/+_U3qCz_Gk)
+- [Accidental Tech Podcast – 611: RAM Christmas](https://atp.fm/611)
+- [P1 with Matt and Tommy – Brazil GP Sprint Race review](https://overcast.fm/+_U3pxINFs)
 
 ### Books
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*
 
-- [Leave the World Behind](https://books.apple.com/us/book/leave-the-world-behind/id1493825355) *Just starting - I've actually started the Netflix movie based on the book but as usual with Netflix, I never feel like watching anything in my list when I do open the stupid app. Anyway, this is the book, and I like books.*
+- [Leave the World Behind](https://books.apple.com/us/book/leave-the-world-behind/id1493825355) *FINISHED. I'm not going to lie – I didn't like this book. What's happening is never fully resolved, but if it's what the book implies, there's no way it would have been this relatively easy for the characters in the book. None of how this happened would have happened that way. I know it's popular, but the writing style and the ambiguity didn't really suit me.*
 - [Polostan – Volume One of Bomb Light](https://books.apple.com/us/book/polostan/id6474502267) *FINISHED - a good start to a new Neal Stephenson series, with lots of the usual info-dumps that somehow are fun coming from him.*
 - [Guerrilla Marketing in 30 Days](https://books.apple.com/us/book/guerrilla-marketing-in-30-days/id843779604) *Marketing. I can't do it.*
 - [Build, Run, and Sell Your Apple Consulting Practice: Business and Marketing for iOS and Mac Start Ups | SpringerLink](https://link.springer.com/book/10.1007/978-1-4842-3835-6) *This book is by Charles Edge, much missed MacAdmins guru. The lessons in here are applicable to consulting in general.*
