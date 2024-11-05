@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-03T08:44:47-08:00"
+date: "2024-11-04T22:00:10-08:00"
 slug: "links"
 ---
 
@@ -51,6 +51,7 @@ slug: "links"
 
 - [5 Reasons To Move To Tokyo's Exciting Eastside | Tokyo Cheapo](https://tokyocheapo.com/living/east-tokyo/)
 - [6 of the Coolest Rest Stops in the U.S. | The Discoverer](https://www.thediscoverer.com/blog/6-of-the-coolest-rest-stops-in-the-u-s/ZEa06xG9cAAI0Drq)
+- [8 Google Employees Invented Modern AI. Here’s the Inside Story | WIRED](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
@@ -59,12 +60,14 @@ slug: "links"
 - [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+- [Here’s the paper no one read before declaring the demise of modern cryptography - Ars Technica](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/#gsc.tab=0)
 - [How an Atkinson Cycle Engine Works | HowStuffWorks](https://auto.howstuffworks.com/atkinson-cycle-engine.htm)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
+- [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
@@ -216,6 +219,9 @@ I don't think I know David H's last name, but he's the same guy from Notes and R
 **[Flashing Palely in the Margins](https://www.inthemargins.ca/)**  
 Sameer's design is so clean and so fresh, you'll have to read this blog.  
 
+**[FlohGro](https://flohgro.com/)**  
+Tech related blog posts and a very cool design sensibility.  
+
 **[Gordon's Tech](https://tech.kateva.org/)**  
 Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, did ya?!  
 
@@ -233,6 +239,9 @@ Is it a blog? Is it a coffee blog? I guess it's both, because James says so. Eit
 
 **[Home - Stephanie Stimac's Blog](https://blog.stephaniestimac.com/)**  
 There's a lot here! I'm diggin' it. Also I think I need Stephanie's [Design for Developers](https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095) book!
+
+**[Ian Betteridge | Ian Betteridge writes about technology, media and whatever else he wants to](https://ianbetteridge.com/)**  
+If you read Ian's About page, you'll probably find that you've read something he's written before.  
 
 **[Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.](https://sohl-dickstein.github.io/)**  
 This is some crazy brain food that I probably won't understand most of.  
@@ -435,6 +444,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Cool Sites Archive
 
+- [#whiteboardtheweb](https://wtw.dev/)
 - [&udm=14 | the disenshittification Konami code](https://udm14.com/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
@@ -502,6 +512,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Games
 
+- [Dystopika is a beautiful cyberpunk city builder without the ugly details - Ars Technica](https://arstechnica.com/gaming/2024/11/dystopika-takes-all-the-management-out-of-a-cyberpunk-city-simulator/)
 - [Failbetter Games](https://www.failbettergames.com/)
 - [Inform 7 | Inform is a natural-language-based programming language for writers of interactive fiction.](https://ganelson.github.io/inform-website/)
 - [Kunitsu-Gami: Path of the Goddess | CAPCOM](https://www.kunitsu-gami.com/en-us/)
@@ -540,6 +551,10 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [So you've decided to get into mechanical keyboards - localghost](https://localghost.dev/blog/so-you-ve-decided-to-get-into-mechanical-keyboards/)
 - [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
 - [qmk/qmk_toolbox: A Toolbox companion for QMK Firmware](https://github.com/qmk/qmk_toolbox)
+
+## Late-Stage Capitalism and Society
+
+- [Visual Capitalist](https://www.visualcapitalist.com/)
 
 ## Mac
 
