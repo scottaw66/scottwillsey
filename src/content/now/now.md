@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-04T22:55:23-08:00"
+date: "2024-11-07T22:50:00-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,15 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Upgrade – 536: The Sleeping Lifestyle](https://overcast.fm/+Fcm9o3dwA)
-- [Malicious Life – Operation Snow White, Part 2](https://overcast.fm/+BCNCwcSbEQ)
-- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Where Has All My Free Space Gone?](https://overcast.fm/+6TZ9KDimU)
-- [Robot or Not? – 300: Fast Food](https://overcast.fm/+Ep2SGssIM)
-- The Race Members' Club – Ad-free F1 pod: Brazilian GP review
-- [Not Playing with Lex and Dan – 10.7: The Rookie](https://overcast.fm/+BWFxUj3js)
-- [Whisky Whiskey – 7: Glenfiddich 12yr](https://overcast.fm/+BLIhcytBl8)
-- [P1 with Matt and Tommy – Brazil GP Race Review](https://overcast.fm/+_U3qCz_Gk)
-- [Accidental Tech Podcast – 611: RAM Christmas](https://atp.fm/611)
-- [P1 with Matt and Tommy – Brazil GP Sprint Race review](https://overcast.fm/+_U3pxINFs)
+- The Race Members' Club – Ad-free F1 pod: Why it’s Bottas out, Bortoleto in for Sauber in 2025
+- [The 404 Media Podcast – How Politician Turned Advocate Susanna Gibson Battles Non-Consensual Imagery](https://overcast.fm/+BDRJMqkV7M)
+- [The 404 Media Podcast – How the U.S. Government Tracks Your Phone](https://overcast.fm/+BDRJOlyOUU)
+- [P1 with Matt and Tommy – Our reaction to Sauber dropping BOTH drivers!](https://overcast.fm/+_U3pYRdZg)
+- [Judge John Hodgman – Motion to Adorn](https://overcast.fm/+YJM3WnKkM)
+- [Risky Business – Risky Business #769 — Sophos drops implants on Chinese exploit devs](https://overcast.fm/+It0iJfBDU)
+- [F1: Beyond The Grid – Christian Fittipaldi: racing in an F1 dynasty](https://overcast.fm/+Nv8InXjnQ)
+- [Darknet Diaries – 151: Chris Rock](https://overcast.fm/+BI2YbO1K9k)
+- [The Vergecast – Alexa at 10: Amazon’s assistant is a winner and a failure](https://overcast.fm/+QN1rPyYE0)
 
 ### Books
 
@@ -33,19 +32,22 @@ slug: "now"
 
 - [Sicario: Day of the Soldado](https://www.themoviedb.org/movie/400535-sicario-day-of-the-soldado-2018) *I liked the first one with Emily Blunt as the fish out of water much better, but this is a pretty good movie. It's weird that Graver and Gillick seem to be redeemed here, as though their crimes and corrupt personas in the 2015 Sicario weren't really them. 🤷*
 - [Pain Hustlers](https://www.themoviedb.org/movie/862968-pain-hustlers-2023) *Quirky, funny, depressing. Recommended.*
-- [Bad Boys: Ride or Die](https://www.themoviedb.org/movie/573435-bad-boys-ride-or-die-2024) *I knew it would be horrible, and it did not disappoint.*
-- [War for the Planet of the Apes](https://www.themoviedb.org/movie/281338-war-for-the-planet-of-the-apes-2017) *Best ever. Seriously, it is a really good movie.*
 - [Wolfs](https://www.themoviedb.org/movie/877817-wolfs-2024) *Two guys past the point where their charm overcomes a lame script, but it could have been worse, possibly.*
 
 ### TV Shows
 
-- [Wanted: The Escape of Carlos Ghosn Season 1 Episode 2 – Chapter 2: Hostage Justice](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/2) *I always kind of assumed Ghosn was the criminal he was accused of being, but now I think at the very least Nissan wanted him gone and created this investigation to achieve that.*
+- [Narcos: Mexico Season 2 Episode 2 – Alea lacta Est](https://www.themoviedb.org/tv/80968-narcos-mexico/season/2/episode/2) *I started watching Narcos: Mexico a long time ago and never finished. Seemed like I may as well, and I'm glad I decided to because I really enjoy it.*
+- [Narcos: Mexico Season 2 Episode 1 – Salva El Tigre](https://www.themoviedb.org/tv/80968-narcos-mexico/season/2/episode/1)
+- [Narcos: Mexico Season 1 Episode 10 – Leyenda](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/10)
+- [Narcos: Mexico Season 1 Episode 9 – 881 Lope de Vega](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/9)
+- [Narcos: Mexico Season 1 Episode 8 – Just Say No](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/8)
+- [Narcos: Mexico Season 1 Episode 7 – Jefe de Jefes](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/7)
+- [Narcos: Mexico Season 1 Episode 6 – La Última Frontera](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/6)
+- [Narcos: Mexico Season 1 Episode 5 – The Colombian Connection](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/5)
+- [Narcos: Mexico Season 1 Episode 4 – Rafa, Rafa, Rafa!](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/4)
+- [Narcos: Mexico Season 1 Episode 3 – El Padrino](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/3)
+- [Wanted: The Escape of Carlos Ghosn Season 1 Episode 2 – Chapter 2: Hostage Justice](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/2) *What an up and down show. if you watch the whole series, you'll think he was guilty, then innocent, then guilty...*
 - [Wanted: The Escape of Carlos Ghosn Season 1 Episode 1 – Chapter 1: Hubris](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/1)
-- [Shrinking Season 2 Episode 4 – Made You Look](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/4) *Shrinking is slightly annoying at times with how much everyone is a character with super witty banter because there aren't THAT many witty characters in one or two overlapping social circles, but it is a good show.*
-- [Silo Season 1 Episode 10 – Outside](https://www.themoviedb.org/tv/125988-silo/season/1/episode/10) *Someone told me the TV adaptation of Silo was good but not great, but I thought it was great, not good. Very enjoyable.*
-- [This Is the Zodiac Speaking Season 1 Episode 3 – Box of Secrets](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/3) *It's a little weird, but if I had to bet on one guy being Zodiak, it would be this guy.*
-- [This Is the Zodiac Speaking Season 1 Episode 2 – Are You the Zodiac?](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/2)
-- [This Is the Zodiac Speaking Season 1 Episode 1 – We Called Him Mr. Allen](https://www.themoviedb.org/tv/272299-this-is-the-zodiac-speaking/season/1/episode/1)
 
 ### Food and Drink
 
