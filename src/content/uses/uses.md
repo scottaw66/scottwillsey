@@ -1,14 +1,14 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-09-11T09:46:44-08:00"
+date: "2024-11-12T10:24:35-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
 
-### 2021 M1 Pro 14"
+### 2024 M4 Pro 14"
 
-- 10-core CPU, 16-core GPU, 16GB RAM, 1TB SSD
+- 14-core CPU, 20-core GPU, 24GB RAM, 2TB SSD, Space Black
 - [Apple Studio Display](https://www.apple.com/studio-display/)
 - [Keychron Q1](https://www.keychron.com/products/keychron-q1) QMK, 84 key (75%), Gateron Pro Brown switches
 - [OWC 11-port Thunderbolt 4 Dock](https://eshop.macsales.com/shop/owc-thunderbolt-dock)
