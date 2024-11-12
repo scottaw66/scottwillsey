@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-07T22:50:00-08:00"
+date: "2024-11-12T09:05:45-08:00"
 slug: "now"
 ---
 
@@ -9,20 +9,22 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- The Race Members' Club – Ad-free F1 pod: Why it’s Bottas out, Bortoleto in for Sauber in 2025
-- [The 404 Media Podcast – How Politician Turned Advocate Susanna Gibson Battles Non-Consensual Imagery](https://overcast.fm/+BDRJMqkV7M)
-- [The 404 Media Podcast – How the U.S. Government Tracks Your Phone](https://overcast.fm/+BDRJOlyOUU)
-- [P1 with Matt and Tommy – Our reaction to Sauber dropping BOTH drivers!](https://overcast.fm/+_U3pYRdZg)
-- [Judge John Hodgman – Motion to Adorn](https://overcast.fm/+YJM3WnKkM)
-- [Risky Business – Risky Business #769 — Sophos drops implants on Chinese exploit devs](https://overcast.fm/+It0iJfBDU)
-- [F1: Beyond The Grid – Christian Fittipaldi: racing in an F1 dynasty](https://overcast.fm/+Nv8InXjnQ)
-- [Darknet Diaries – 151: Chris Rock](https://overcast.fm/+BI2YbO1K9k)
-- [The Vergecast – Alexa at 10: Amazon’s assistant is a winner and a failure](https://overcast.fm/+QN1rPyYE0)
+- [Upgrade – 537: Square Minus One](https://overcast.fm/+Fcm8OE9lI)
+- [The Retro Bros – Season 3 - Episode 1 - The Retros Bros Podcast - The Return](https://overcast.fm/+mOjh18UDI)
+- The Race Members' Club – F1 Book Club: Behind the scenes in the Mercedes F1 Team
+- The Race Members' Club – Ad-free F1 pod: Norris’ development, the GPDA hit back, Mercedes’ form & more
+- [Risky Business – Risky Biz Soap Box: Why black box email security is dead](https://overcast.fm/+It0imZvs8)
+- [The High Performance Podcast – Toto Wolff: My Untold Story of Traumatic Childhood, F1 Dominance & Hamilton Relationship (E304)](https://overcast.fm/+qG21PFiuQ)
+- [The Weekly Planet – Gladiator - Caravan Of Garbage](https://overcast.fm/+1HFKiUmgg)
+- [Chit Chat Across the Pond – CCATP #801 – Sam King of GigSky & How to Use a US Phone Number Using WiFi Calling with a Foreign eSIM](https://overcast.fm/+FcgKbk-Ho)
+- [The Weekly Planet – 550 Agatha All Along & Here](https://overcast.fm/+1HFLb4OnY)
+- [The Weekly Planet – Master & Commander: The Far Side of the World - Caravan Of Garbage](https://overcast.fm/+1HFIFTST0)
 
 ### Books
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*
 
+- [Inside Mercedes F1 – Life in the Fast Lane](https://books.apple.com/us/book/inside-mercedes-f1/id6477808292) *F1 and reading, two of my main passions. Still, it's not often that I find a book **about** F1 that I actually want to read. This is one. It's told from an honest, intelligent perspective by an outsider. I heard Matt on The Race podcast talking to Ed Straw about his book and I knew I had to buy it.*
 - [Leave the World Behind](https://books.apple.com/us/book/leave-the-world-behind/id1493825355) *FINISHED. I'm not going to lie – I didn't like this book. What's happening is never fully resolved, but if it's what the book implies, there's no way it would have been this relatively easy for the characters in the book. None of how this happened would have happened that way. I know it's popular, but the writing style and the ambiguity didn't really suit me.*
 - [Polostan – Volume One of Bomb Light](https://books.apple.com/us/book/polostan/id6474502267) *FINISHED - a good start to a new Neal Stephenson series, with lots of the usual info-dumps that somehow are fun coming from him.*
 - [Guerrilla Marketing in 30 Days](https://books.apple.com/us/book/guerrilla-marketing-in-30-days/id843779604) *Marketing. I can't do it.*
@@ -36,25 +38,22 @@ slug: "now"
 
 ### TV Shows
 
-- [Narcos: Mexico Season 2 Episode 2 – Alea lacta Est](https://www.themoviedb.org/tv/80968-narcos-mexico/season/2/episode/2) *I started watching Narcos: Mexico a long time ago and never finished. Seemed like I may as well, and I'm glad I decided to because I really enjoy it.*
-- [Narcos: Mexico Season 2 Episode 1 – Salva El Tigre](https://www.themoviedb.org/tv/80968-narcos-mexico/season/2/episode/1)
-- [Narcos: Mexico Season 1 Episode 10 – Leyenda](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/10)
-- [Narcos: Mexico Season 1 Episode 9 – 881 Lope de Vega](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/9)
-- [Narcos: Mexico Season 1 Episode 8 – Just Say No](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/8)
-- [Narcos: Mexico Season 1 Episode 7 – Jefe de Jefes](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/7)
-- [Narcos: Mexico Season 1 Episode 6 – La Última Frontera](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/6)
-- [Narcos: Mexico Season 1 Episode 5 – The Colombian Connection](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/5)
-- [Narcos: Mexico Season 1 Episode 4 – Rafa, Rafa, Rafa!](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/4)
-- [Narcos: Mexico Season 1 Episode 3 – El Padrino](https://www.themoviedb.org/tv/80968-narcos-mexico/season/1/episode/3)
-- [Wanted: The Escape of Carlos Ghosn Season 1 Episode 2 – Chapter 2: Hostage Justice](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/2) *What an up and down show. if you watch the whole series, you'll think he was guilty, then innocent, then guilty...*
-- [Wanted: The Escape of Carlos Ghosn Season 1 Episode 1 – Chapter 1: Hubris](https://www.themoviedb.org/tv/231319-wanted-the-escape-of-carlos-ghosn/season/1/episode/1)
+- [Narcos: Mexico Season 3 Episode 10 – Life in Wartime](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/10) *I started watching Narcos: Mexico a long time ago and didn't get far at the time, but I binged it the past couple weeks, and it's **GOOD**. Highly recommended.*
+- [Narcos: Mexico Season 3 Episode 9 – The Reckoning](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/9)
+- [Narcos: Mexico Season 3 Episode 8 – Last Dance](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/8)
+- [Narcos: Mexico Season 3 Episode 7 – La Voz](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/7)
+- [Narcos: Mexico Season 3 Episode 6 – La Jefa](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/6)
+- [Narcos: Mexico Season 3 Episode 5 – Boots on the Ground](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/5)
+- [Narcos: Mexico Season 3 Episode 4 – GDL](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/4)
+- [Narcos: Mexico Season 3 Episode 3 – Los Juniors](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/3)
+- [Narcos: Mexico Season 3 Episode 2 – Como La Flor](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/2)
+- [Narcos: Mexico Season 3 Episode 1 – 12 Steps](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/1)
 
 ### Food and Drink
 
+- [Wandering Goat Coffee - One Eye Open Decaf](https://wanderinggoat.com/products/one-eye-open)
 - [Black Butte Gold Decaf – Sisters Coffee Company](https://sisterscoffee.com/collections/coffee/products/black-butte-gold-decaf)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
-- [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
-- [Matcha Chocolate | Green Tea Chocolate | Nama Chocolate | ROYCE'](https://roycechocolate.com/products/nama-chocolate-matcha)
 - [Wayfinder Beer](https://www.wayfinder.beer/) Corpo Seco Pumpkin Ale
 - [Hapa Pizza](https://www.hapapizza.com/)
 

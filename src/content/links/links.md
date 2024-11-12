@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-04T22:00:10-08:00"
+date: "2024-11-12T09:05:45-08:00"
 slug: "links"
 ---
 
@@ -480,6 +480,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [The Pudding](https://pudding.cool/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
+- [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
 - [The Scroll Art Museum](https://scrollart.org/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
