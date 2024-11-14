@@ -167,15 +167,6 @@ declare module 'astro:content' {
   data: InferEntrySchema<"now">
 } & { render(): Render[".md"] };
 };
-"pins": {
-"pins.md": {
-	id: "pins.md";
-  slug: "pins";
-  body: string;
-  collection: "pins";
-  data: InferEntrySchema<"pins">
-} & { render(): Render[".md"] };
-};
 "posts": {
 "11-ways-uptime.md": {
 	id: "11-ways-uptime.md";

@@ -57,19 +57,6 @@ const linksCollection = defineCollection({
   }),
 });
 
-const pinsCollection = defineCollection({
-  type: "content", // v2.5.0 and later
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    date: z
-      .string()
-      .transform((str) => new Date(str))
-      .optional()
-      .nullable(),
-  }),
-});
-
 const usesCollection = defineCollection({
   type: "content", // v2.5.0 and later
   schema: z.object({
@@ -102,7 +89,6 @@ export const collections = {
   changelog: changeCollection,
   links: linksCollection,
   now: nowCollection,
-  pins: pinsCollection,
   reads: readsCollection,
   uses: usesCollection,
 };
