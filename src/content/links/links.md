@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-12T09:05:45-08:00"
+date: "2024-11-13T16:06:53-08:00"
 slug: "links"
 ---
 
@@ -42,10 +42,6 @@ slug: "links"
 - [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
 - [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
 - [Yale Assure Lock® 2 | Best Smart Lock for your Home - Yale Home](https://shopyalehome.com/pages/yale-assure-lock-2)
-
-## Art
-
-- [Clothesline Animals Series | Helga Stentzel Official Store - Helga Stentzel Studio Ltd](https://www.helgastentzel.com/collections/clothing-line-animals)
 
 ## Articles
 
