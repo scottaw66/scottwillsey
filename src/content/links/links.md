@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-13T16:06:53-08:00"
+date: "2024-11-19T19:09:39-08:00"
 slug: "links"
 ---
 
@@ -56,10 +56,12 @@ slug: "links"
 - [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+- [Here’s some cool stuff you can do with Bluesky - The Verge](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to?ref=hiro.report)
 - [Here’s the paper no one read before declaring the demise of modern cryptography - Ars Technica](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/#gsc.tab=0)
 - [How an Atkinson Cycle Engine Works | HowStuffWorks](https://auto.howstuffworks.com/atkinson-cycle-engine.htm)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
+- [How to Get Started on Bluesky | WIRED](https://www.wired.com/story/how-to-get-started-on-bluesky/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
@@ -82,6 +84,7 @@ slug: "links"
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 - [The Eternal Truth of Markdown | WIRED](https://www.wired.com/story/the-eternal-truth-of-markdown/)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [The Great American Microchip Mobilization | WIRED](https://www.wired.com/story/intel-great-american-microchip-mobilization/)
 - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
@@ -453,6 +456,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Decarbonize your life](https://heatmap.news/decarbonize-your-life)
 - [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+- [European Alternatives](https://european-alternatives.eu/)
 - [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
 - [HTMHell](https://www.htmhell.dev)
@@ -626,6 +630,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [AI Snake Oil](https://www.aisnakeoil.com/subscribe)
 - [Brilliantcrank](https://www.brilliantcrank.com/)
 - [Citation Needed by Molly White](https://www.citationneeded.news/)
+- [Garbage Day the email newsletter](https://www.garbageday.email/)
 - [Once Upon A Time — Stories — Matt Gemmell](https://mattgemmell.scot/books/once-upon-a-time/stories/)
 - [Plura-list by Cory Doctorow – Info Page](https://mail.flarn.com/mailman/listinfo/plura-list/)
 - [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
@@ -674,6 +679,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
+- [How to use cProfile and snakeviz to profile Python code | James' Coffee Blog](https://jamesg.blog/2024/11/02/cprofile/)
 - [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
 - [HTML for People](https://htmlforpeople.com/)
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)

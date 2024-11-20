@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-11-12T09:05:45-08:00"
+date: "2024-11-19T19:09:39-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Upgrade – 537: Square Minus One](https://overcast.fm/+Fcm8OE9lI)
-- [The Retro Bros – Season 3 - Episode 1 - The Retros Bros Podcast - The Return](https://overcast.fm/+mOjh18UDI)
-- The Race Members' Club – F1 Book Club: Behind the scenes in the Mercedes F1 Team
-- The Race Members' Club – Ad-free F1 pod: Norris’ development, the GPDA hit back, Mercedes’ form & more
-- [Risky Business – Risky Biz Soap Box: Why black box email security is dead](https://overcast.fm/+It0imZvs8)
-- [The High Performance Podcast – Toto Wolff: My Untold Story of Traumatic Childhood, F1 Dominance & Hamilton Relationship (E304)](https://overcast.fm/+qG21PFiuQ)
-- [The Weekly Planet – Gladiator - Caravan Of Garbage](https://overcast.fm/+1HFKiUmgg)
-- [Chit Chat Across the Pond – CCATP #801 – Sam King of GigSky & How to Use a US Phone Number Using WiFi Calling with a Foreign eSIM](https://overcast.fm/+FcgKbk-Ho)
-- [The Weekly Planet – 550 Agatha All Along & Here](https://overcast.fm/+1HFLb4OnY)
-- [The Weekly Planet – Master & Commander: The Far Side of the World - Caravan Of Garbage](https://overcast.fm/+1HFIFTST0)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Can You Spatchcock a Jackalope?](https://overcast.fm/+6TZ_-kz7Y)
+- [Tech Won't Save Us – Patreon Preview: How Cloud Giants Cement Their Power w/ Cecilia Rikap](https://overcast.fm/+ZpQCPznOc)
+- [The Talk Show With John Gruber – 414: ‘Annoying Friendliness’, With Joanna Stern](https://overcast.fm/+B7NC51Z3Y)
+- [Upgrade – 538: A Lot of Mac in Your Face](https://overcast.fm/+Fcm9-ujUI)
+- [Robot or Not? – 301: Fan/Light](https://overcast.fm/+Ep2TQruzI)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Beware The Click of Regret](https://overcast.fm/+6TZ9Whz9Y)
+- The Race Members' Club – Ad-free F1 pod: Brad Pitt’s F1 movie - How it’s been filmed and why it matters
+- [Chit Chat Across the Pond – CCATP #802 – Adam Engst on Invasive Location Tracking and Tips On How to Manage](https://overcast.fm/+FcgL4wjw0)
+- [The High Performance Podcast – Johnny Sexton: How to Reframe Regret, with Fernando Alonso, Gabor Maté and Keir Starmer](https://overcast.fm/+qG21kJg6w)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Naked (iPhone) and Not Afraid](https://overcast.fm/+6TZ8TrCpk)
 
 ### Books
 
@@ -38,21 +38,21 @@ slug: "now"
 
 ### TV Shows
 
-- [Narcos: Mexico Season 3 Episode 10 – Life in Wartime](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/10) *I started watching Narcos: Mexico a long time ago and didn't get far at the time, but I binged it the past couple weeks, and it's **GOOD**. Highly recommended.*
-- [Narcos: Mexico Season 3 Episode 9 – The Reckoning](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/9)
-- [Narcos: Mexico Season 3 Episode 8 – Last Dance](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/8)
-- [Narcos: Mexico Season 3 Episode 7 – La Voz](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/7)
-- [Narcos: Mexico Season 3 Episode 6 – La Jefa](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/6)
-- [Narcos: Mexico Season 3 Episode 5 – Boots on the Ground](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/5)
-- [Narcos: Mexico Season 3 Episode 4 – GDL](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/4)
-- [Narcos: Mexico Season 3 Episode 3 – Los Juniors](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/3)
-- [Narcos: Mexico Season 3 Episode 2 – Como La Flor](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/2)
-- [Narcos: Mexico Season 3 Episode 1 – 12 Steps](https://www.themoviedb.org/tv/80968-narcos-mexico/season/3/episode/1)
+- [Pachinko Season 1 Episode 6 – Chapter Six](https://www.themoviedb.org/tv/110382-pachinko/season/1/episode/6) *Pachinko is so beautiful and haunting and hard to watch. It really is an absolute must see.*
+- [Pachinko Season 1 Episode 5 – Chapter Five](https://www.themoviedb.org/tv/110382-pachinko/season/1/episode/5)
+- [Pachinko Season 1 Episode 4 – Chapter Four](https://www.themoviedb.org/tv/110382-pachinko/season/1/episode/4)
+- [Pachinko Season 1 Episode 3 – Chapter Three](https://www.themoviedb.org/tv/110382-pachinko/season/1/episode/3)
+- [Pachinko Season 1 Episode 2 – Chapter Two](https://www.themoviedb.org/tv/110382-pachinko/season/1/episode/2)
+- [Pachinko Season 1 Episode 1 – Chapter One](https://www.themoviedb.org/tv/110382-pachinko/season/1/episode/1)
+- [Griselda Season 1 Episode 2 – Rich White People](https://www.themoviedb.org/tv/137893-griselda/season/1/episode/2)
+- [Silo Season 2 Episode 1 – The Engineer](https://www.themoviedb.org/tv/125988-silo/season/2/episode/1) *Man, I love this show. SO good. I read the books a long time ago and I don't remember much about them. I may have to reread them.*
+- [Griselda Season 1 Episode 1 – Lady Comes to Town](https://www.themoviedb.org/tv/137893-griselda/season/1/episode/1) *Even more narco related stuff* 😄
+- [El Chapo Season 1 Episode 1 – Episode 1](https://www.themoviedb.org/tv/71411-el-chapo/season/1/episode/1) *More narco related stuff*
 
 ### Food and Drink
 
+- [Urban Brewing Co](https://urbanfamilybrewing.com) Forgotten Lore Porter
 - [Wandering Goat Coffee - One Eye Open Decaf](https://wanderinggoat.com/products/one-eye-open)
-- [Black Butte Gold Decaf – Sisters Coffee Company](https://sisterscoffee.com/collections/coffee/products/black-butte-gold-decaf)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Wayfinder Beer](https://www.wayfinder.beer/) Corpo Seco Pumpkin Ale
 - [Hapa Pizza](https://www.hapapizza.com/)

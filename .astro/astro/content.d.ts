@@ -546,6 +546,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"multiple-gh-deploy.md": {
+	id: "multiple-gh-deploy.md";
+  slug: "multiple-gh-deploy";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "now-oregon.md": {
 	id: "now-oregon.md";
   slug: "now-oregon";
