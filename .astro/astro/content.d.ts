@@ -891,6 +891,13 @@ declare module 'astro:content' {
   collection: "reads";
   data: InferEntrySchema<"reads">
 } & { render(): Render[".md"] };
+"20241120.md": {
+	id: "20241120.md";
+  slug: "20241120";
+  body: string;
+  collection: "reads";
+  data: InferEntrySchema<"reads">
+} & { render(): Render[".md"] };
 };
 "uses": {
 "uses.md": {
