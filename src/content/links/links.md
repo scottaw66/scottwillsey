@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-20T12:53:10-08:00"
+date: "2024-11-24T10:10:06-08:00"
 slug: "links"
 ---
 
@@ -79,6 +79,7 @@ slug: "links"
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
 - [Ten Years Later, ‘Monument Valley’ Is a Monument to Mobile Gaming’s Bygone Era - The Ringer](https://www.theringer.com/video-games/2024/4/3/24119719/monument-valley-10-year-anniversary-ustwo-mobile-gaming-apple-ios)
+- [The American Who Waged a Tech War on China | WIRED](https://www.wired.com/story/jake-sullivan-china-tech-profile/)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
 - [The Art of Arranging Flowers: A 1960s Guide for Achieving Harmony Through Art and Nature - Flashbak](https://flashbak.com/ikebana-the-japanese-art-of-arranging-flowers-470566/)
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
@@ -106,6 +107,7 @@ slug: "links"
 - [‘We Were Wrong’: An Oral History of WIRED’s Original Website | WIRED](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
 - [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
+- [With four more years like 2023, carbon emissions will blow past 1.5° limit - Ars Technica](https://arstechnica.com/science/2024/10/with-four-more-years-like-2023-carbon-emissions-will-blow-past-1-5-limit/)
 
 ## Astro
 
@@ -488,6 +490,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
+- [The Web We Want](https://webwewant.fyi)
 - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
@@ -686,6 +689,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
+- [Lesser known parts of Python standard library – Trickster Dev](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
 - [Man Reader 2](https://apps.apple.com/us/app/man-reader/id522583774?mt=12)
 - [Material Line Icons - 1021 open source icons - Iconify](https://icon-sets.iconify.design/line-md/)
 - [Miller 6.12.0 Documentation](https://miller.readthedocs.io/en/6.12.0/)
