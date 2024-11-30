@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-24T10:10:06-08:00"
+date: "2024-11-30T12:36:18-08:00"
 slug: "links"
 ---
 
@@ -94,6 +94,7 @@ slug: "links"
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 - [The Thought Experiments That Fray the Fabric of Space-Time | Quanta Magazine](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
+- [The UX of LEGO Interface Panels - Interaction Magic](https://interactionmagic.com/UX-LEGO-Interfaces/)
 - [The Vacuum of Space Will Decay Sooner Than Expected | WIRED](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
 - [The West Coast’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico | WIRED](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
 - [This Ancient Technology Is Helping Millions Stay Cool | WIRED](https://www.wired.com/story/evaporative-cooling-devices-coolant-clay-matka-mitticool-india-heat-wave/)
@@ -471,6 +472,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
+- [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
