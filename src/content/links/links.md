@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-11-30T12:36:18-08:00"
+date: "2024-12-07T10:09:55-08:00"
 slug: "links"
 ---
 
@@ -450,6 +450,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [#whiteboardtheweb](https://wtw.dev/)
 - [&udm=14 | the disenshittification Konami code](https://udm14.com/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
