@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-07T10:09:55-08:00"
+date: "2024-12-09T14:33:54-08:00"
 slug: "links"
 ---
 
@@ -9,14 +9,13 @@ slug: "links"
 
 ## AI
 
-- [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
-- [MacGPT - ChatGPT in your menubar](https://www.macgpt.com/)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
+- [Windsurf Editor and Codeium extensions](https://codeium.com/)
 
 ## Apple
 
@@ -394,12 +393,12 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 - [Coders by Clive Thompson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/539883/coders-by-clive-thompson/)
 - [Crypto: How the Code Rebels Beat the Government, Saving Privacy in the Digital Age — Steven Levy](https://www.stevenlevy.com/crypto)
+- [Custodians of Wonder: Ancient Customs, Profound Traditions, and the Last People Keeping Them Alive a book by Eliot Stein](https://bookshop.org/p/books/custodians-of-wonder-our-world-s-rarest-cultural-marvels-and-the-last-people-keeping-them-alive-eliot-stein/20981819)
 - [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
 - [Image Performance, A Book Apart](https://abookapart.com/products/image-performance)
 - [Inventing the Future by John Buck | BooksBy](https://books.by/john-buck)
 - [macOS by Tutorials](https://sarahreichelt.gumroad.com/l/oximx)
-- [Personal Days – Ed Park](https://ed-park.com/personal-days/)
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
@@ -675,6 +674,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
+- [Build An Audio AI Web App with Python and AssemblyAI Course](https://training.talkpython.fm/courses/build-an-audio-ai-app-with-python-and-assemblyai)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
@@ -718,6 +718,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Using and Creating Global Variables in Your Python Functions – Real Python](https://realpython.com/python-use-global-variable-in-function/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
+- [Windsurf Editor and Codeium extensions](https://codeium.com/)
 - [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
 
 ## Raycast
@@ -748,5 +749,3 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Github](https://github.com/scottaw66)
 - [ScottWillsey](https://scottwillsey.com/)
 - [ScottWillsey Weekly Reads](https://scottwillsey.com/reads/1)
-- [scottwillsey](https://omg.lol/scottwillsey) on omg.lol
-- [Scott Willsey • RsS iS dEaD LOL](https://rss-is-dead.lol/user?profileUrl=https%3A%2F%2Fsocial.lol%2Fusers%2Fscottwillsey)
