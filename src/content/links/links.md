@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-09T14:33:54-08:00"
+date: "2024-12-15T23:49:21-08:00"
 slug: "links"
 ---
 
@@ -12,6 +12,7 @@ slug: "links"
 - [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
+- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
@@ -38,6 +39,7 @@ slug: "links"
 - [Logitech Circle View Wired Video Doorbell - HomeKit Enabled](https://www.logitech.com/en-us/products/cameras/circle-view-video-doorbell.html)
 - [Meross HomeKit Smart Plug, Smart Mini Wi-Fi Plug In American Standard - MSS110US MSS110JP](https://www.meross.com/en-gc/smart-plug/homekit-smart-plug/2)
 - [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
+- [Pushcut | Automatically show your favorite site's recent news on your homescreen](https://www.pushcut.io/)
 - [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
 - [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
 - [Yale Assure Lock® 2 | Best Smart Lock for your Home - Yale Home](https://shopyalehome.com/pages/yale-assure-lock-2)
@@ -50,7 +52,6 @@ slug: "links"
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
-- [AI news that's fit to print](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
@@ -112,14 +113,13 @@ slug: "links"
 ## Astro
 
 - [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
-- [Create a dev toolbar app | Docs](https://docs.astro.build/en/recipes/making-toolbar-apps/)
-- [Dev Toolbar | Docs](https://docs.astro.build/en/guides/dev-toolbar/)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
 - [MatthiesenXYZ/Astrolace: An easy way to use Shoelace.style within your Astro Project!](https://github.com/MatthiesenXYZ/Astrolace)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 
 ## Beer
 
+- [BinaryBrewing.co](https://binarybrewing.co/beers)
 - [Blueberry Boyfriend | Prairie Artisan Ales](https://prairieales.com/beer/blueberry-boyfriend/)
 - [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
