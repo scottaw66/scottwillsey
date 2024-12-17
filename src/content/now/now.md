@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-12-15T23:49:21-08:00"
+date: "2024-12-17T12:51:25-08:00"
 slug: "now"
 ---
 
@@ -24,12 +24,14 @@ slug: "now"
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*
 
+- [The Internet of Garbage by Sarah Jeong - The Verge](https://www.theverge.com/2018/8/28/17777330/internet-of-garbage-book-sarah-jeong-online-harassment) *Just started.*
 - [The Apollo Murders](https://books.apple.com/us/book/the-apollo-murders/id1552671476) *Just started, don't know enough yet to comment on whether I like it or not. It seems like a bit of a stolen concept from For All Mankind though.*
 - [F1 Racing Confidential](https://books.apple.com/us/book/f1-racing-confidential/id6483210999) *FINISHED –A good look at some of the unsung heroes of Formula 1, but for some reason it left me wanting a bit more from it.*
 - [The Future](https://books.apple.com/us/book/the-future/id6445966756) *FINISHED – Depressing and relatable – a story of how technology and the rich &uc%ed our society.*
 
 ### Movies
 
+- [Biggest Heist Ever](https://www.themoviedb.org/movie/1391409-biggest-heist-ever-2024) *I already vaguely knew this story but I didn't realize how weird and messed up these kids are.*
 - [Carry-On](https://www.themoviedb.org/movie/1005331-carry-on-2024) *Cheesy beyond belief in terms of action believability, but it was nice to see Jason Bateman get what he deserved considering the ending of Ozark.*
 
 ### TV Shows
