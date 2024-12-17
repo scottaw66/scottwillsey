@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-15T23:49:21-08:00"
+date: "2024-12-16T23:12:38-08:00"
 slug: "links"
 ---
 
@@ -463,6 +463,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [European Alternatives](https://european-alternatives.eu/)
 - [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
+- [Gossip’s Web](https://gossipsweb.net/)
 - [HTMHell](https://www.htmhell.dev)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
