@@ -18,7 +18,7 @@ Here’s a UTM firewall packet filter log containing all entries for a given day
 
 [![BBEdit1](../../assets/images/posts/BBEdit1-AF741674-37FB-46A3-8751-BBDEA0A363D0.png)](/images/posts/BBEdit1-AF741674-37FB-46A3-8751-BBDEA0A363D0.jpg)
 
-If I want to look at only entries for 192.168.5.5 and 192.168.5.109, I can open the Search dialog box with ⌘F and put it a regular expression to search for that.
+If I want to look at only entries for 192.168.5.5 and 192.168.5.109, I can open the Search dialog box with ⌘F and put in a regular expression to search for that.
 
 [![BBEdit2](../../assets/images/posts/BBEdit2-AF741674-37FB-46A3-8751-BBDEA0A363D0.png)](/images/posts/BBEdit2-AF741674-37FB-46A3-8751-BBDEA0A363D0.jpg)
 
@@ -80,7 +80,7 @@ Now you get the full line for each matching line:
 
 [![BBEdit18](../../assets/images/posts/BBEdit18-AF741674-37FB-46A3-8751-BBDEA0A363D0.png)](/images/posts/BBEdit18-AF741674-37FB-46A3-8751-BBDEA0A363D0.jpg)
 
-That’s because the search was created with a regular expression of `^.*192\.168\.5.*$`, which looks for start of string, any characters any number of times followed by 192.168.5, followed by any number of any characters, followed by end of string. When using regular expressions as search terms, make sure that the Grep option next to “Matching:” in the search dialog box is checked so that the search term acts as a regular expression instead of a literal string.
+That’s because the search was created with a regular expression of `^.*192\.168\.5.*$`, which looks for start of line, any characters any number of times followed by 192.168.5, followed by any number of any characters, followed by end of line. When using regular expressions as search terms, make sure that the Grep option next to “Matching:” in the search dialog box is checked so that the search term acts as a regular expression instead of a literal string.
 
 I’m sure there’s much more that I haven’t even discovered about BBEdit and searching and extracting yet, but these are some things that I use all the time and find indispensable. If your job or hobby requires you to parse log files very often, I recommend a copy of BBEdit even if you never use it for anything else. It’s still very worth the price for that.
 
