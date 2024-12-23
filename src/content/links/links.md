@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-16T23:12:38-08:00"
+date: "2024-12-23T01:51:29-08:00"
 slug: "links"
 ---
 
@@ -510,12 +510,14 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 - [BroderPDX | Valkommen](https://www.broderpdx.com/)
 - [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
+- [Hapa Pizza](https://www.hapapizza.com/)
+- [KOREANA RESTAURANT](https://www.yelp.com/biz/koreana-restaurant-beaverton)
 - [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/)
+- [OYATSUPAN](https://www.oyatsupan.com/)
 - [ramen-ryoma](https://www.ramenryoma.net/)
 - [Salt & Straw | Craft Made, Curiously Delicious Ice Cream](https://saltandstraw.com/)
 - [Syun Izakaya](https://www.syunhillsboro.com/)
 - [Tanaka](https://tanakakatsusando.com/)
-- [Toki Restaurant](https://www.tokipdx.com/)
 - [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
 
 ## Games
@@ -560,10 +562,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
 - [qmk/qmk_toolbox: A Toolbox companion for QMK Firmware](https://github.com/qmk/qmk_toolbox)
 
-## Late-Stage Capitalism and Society
-
-- [Visual Capitalist](https://www.visualcapitalist.com/)
-
 ## Mac
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
@@ -576,6 +574,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Bartender controversy, tutorial on how to manage menubar status items via BTT - Tutorials - BetterTouchTool Community](https://community.folivora.ai/t/bartender-controversy-tutorial-on-how-to-manage-menubar-status-items-via-btt/37429)
 - [Bear](https://bear.app/)
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
+- [Carbon Copy Cloner | macOS Backup Software | Bombich Software](https://bombich.com/)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
@@ -606,6 +605,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
+- [Raycast - Your shortcut to everything](https://www.raycast.com/)
 - [Reeder Classic](https://reeder.app/classic/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
 - [Rogue Amoeba | Audio Hijack: Record Any Audio on MacOS](https://rogueamoeba.com/audiohijack/)
@@ -661,7 +661,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Pragmatic](https://engineered.network/pragmatic/)
 - [Really Specific Stories](https://www.rsspod.net/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
-- [Tofugu Podcast](https://www.tofugu.com/podcast/)
+- [Tech Won’t Save Us](https://www.techwontsave.us/)
 - [Upgrade - Relay FM](https://www.relay.fm/upgrade)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 
