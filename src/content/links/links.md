@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-23T01:51:29-08:00"
+date: "2024-12-23T11:29:13-08:00"
 slug: "links"
 ---
 
@@ -466,7 +466,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Gossip’s Web](https://gossipsweb.net/)
 - [HTMHell](https://www.htmhell.dev)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
-- [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Lex.Games](https://lex.games)
@@ -483,23 +482,25 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [other networks](https://othernetworks.net/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
-- [The Pudding](https://pudding.cool/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
-- [The Scroll Art Museum](https://scrollart.org/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
+- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
+- [The Pudding](https://pudding.cool/)
+- [The Scroll Art Museum](https://scrollart.org/)
 - [The Web We Want](https://webwewant.fyi)
+- [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [White Noise](https://whitenoise.tiff.ws/)
-- [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 
 ## Fonts
 
