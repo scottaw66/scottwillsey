@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2024-12-27T11:13:22-08:00"
+date: "2024-12-27T15:24:05-08:00"
 slug: "now"
 ---
 
@@ -14,7 +14,7 @@ slug: "now"
 - [F1: Beyond The Grid – Liam Lawson’s racing line, how Ferrari found Ollie Bearman + Oscar Piastri’s F2 preparation - The Best of F1 Explains 2024](https://overcast.fm/+Nv8K1xesA)
 - [The 404 Media Podcast – Why We Cover AI the Way We Do](https://overcast.fm/+BDRJOIPb2s)
 - [Tech Won't Save Us – Maybe We Should Destroy AI w/ Ali Alkhatib](https://overcast.fm/+ZpQA5jbFk)
-- [Tech Won't Save Us (Premium) – The Year in Tech w/ Molly White, Brian Merchant, & Eric Wickham](https://overcast.fm/+BMkRZzhFcU)
+- Tech Won't Save Us (Premium) – The Year in Tech w/ Molly White, Brian Merchant, & Eric Wickham
 - [Accidental Tech Podcast – 619: Master Plan to Take Over the World](https://atp.fm/619)
 - [Judge John Hodgman – Medical Pal Practice at SF Sketchfest](https://overcast.fm/+YJM2wiLAE)
 - [Friends with Brews – Clippy 3000](https://overcast.fm/+9SHiHxS7U)
