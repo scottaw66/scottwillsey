@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-27T11:13:22-08:00"
+date: "2024-12-27T15:43:00-08:00"
 slug: "links"
 ---
 
@@ -524,6 +524,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Games
 
+- [Baldur's Gate 3](https://baldursgate3.game/)
 - [Dystopika is a beautiful cyberpunk city builder without the ugly details - Ars Technica](https://arstechnica.com/gaming/2024/11/dystopika-takes-all-the-management-out-of-a-cyberpunk-city-simulator/)
 - [Failbetter Games](https://www.failbettergames.com/)
 - [Inform 7 | Inform is a natural-language-based programming language for writers of interactive fiction.](https://ganelson.github.io/inform-website/)
