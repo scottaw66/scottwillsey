@@ -2,10 +2,10 @@
 .vscode/
 .eslint*
 .prettier*
-.nova/
 
 # build output
 dist
+.astro/content-assets.mjs 
 
 # dependencies
 node_modules/
