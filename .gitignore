@@ -5,7 +5,7 @@
 
 # build output
 dist
-/.astro/
+.astro/
 
 # dependencies
 node_modules/
@@ -22,4 +22,3 @@ yarn-error.log*
 
 # macOS-specific files
 .DS_Store
-.astro/
