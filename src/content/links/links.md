@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-27T15:43:00-08:00"
+date: "2024-12-28T22:56:50-08:00"
 slug: "links"
 ---
 
@@ -14,6 +14,7 @@ slug: "links"
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Raycast AI](https://manual.raycast.com/ai)
+- [sigoden/aichat: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.](https://github.com/sigoden/aichat)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 - [Windsurf Editor and Codeium extensions](https://codeium.com/)
@@ -78,6 +79,7 @@ slug: "links"
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
+- [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Ten Years Later, ‘Monument Valley’ Is a Monument to Mobile Gaming’s Bygone Era - The Ringer](https://www.theringer.com/video-games/2024/4/3/24119719/monument-valley-10-year-anniversary-ustwo-mobile-gaming-apple-ios)
 - [The American Who Waged a Tech War on China | WIRED](https://www.wired.com/story/jake-sullivan-china-tech-profile/)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
@@ -214,6 +216,9 @@ Accessibilty, design, programming, and much more!
 
 **[ericportis.com](https://ericportis.com/)**  
 I came for the colorspace article, I stayed for the photography. Wow!  
+
+**[Erin Kissane's small internet website](https://erinkissane.com/)**  
+Erin does a **LOT** of really cool stuff.
 
 **[EuroVan Camper Stuff](https://1705.net/)**  
 I don't think I know David H's last name, but he's the same guy from Notes and Ramblings below. He's also a Hemispheric Views adjacent person, and I like him.  
@@ -587,6 +592,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Find Any File](https://findanyfile.app/)
 - [Floating Menu & Desktop Widgets · GitBook · Better Touch Tool](https://docs.folivora.ai/docs/1600_floating_menus.html)
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
+- [Ghostty](https://ghostty.org/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
 - [GoodLinks — Save. Read. Anywhere.](https://goodlinks.app/)
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
@@ -630,10 +636,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Whisky - Run Modern Windows Games on macOS](https://getwhisky.app/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
 
-## Notion
-
-- [Notion Answers](https://notionanswers.com/)
-
 ## Newsletters
 
 - [Ad Astra – Swapna Krishna](https://www.adastraspace.com/)
@@ -642,6 +644,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Citation Needed by Molly White](https://www.citationneeded.news/)
 - [Garbage Day the email newsletter](https://www.garbageday.email/)
 - [Once Upon A Time — Stories — Matt Gemmell](https://mattgemmell.scot/books/once-upon-a-time/stories/)
+- [Organizing My Thoughts](https://organizingmythoughts.org/)
 - [Plura-list by Cory Doctorow – Info Page](https://mail.flarn.com/mailman/listinfo/plura-list/)
 - [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
 - [SwiftLee Weekly (read by 17k+ Swift & SwiftUI Developers)](https://www.avanderlee.com/swiftlee-weekly-subscribe/)
@@ -649,6 +652,10 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [The Hiro Report](https://subscribe.hiro.report/)
 - [this week in security](https://this.weekinsecurity.com/)
 - [Today in Librarian Tabs by Jessamyn West](https://tinyletter.com/jessamyn)
+
+## Notion
+
+- [Notion Answers](https://notionanswers.com/)
 
 ## Podcasts
 
