@@ -47,12 +47,12 @@ let description = "Posts with tag " + tag + ".";
         posts.map((post) => (
           <header>
             <h4>
-              <a href={`/${post.slug}`}>{titleCase(post.data.title)}</a>
+              <a href={`/${post.id}`}>{titleCase(post.data.title)}</a>
             </h4>
             <div class="cal">
               <CalendarFillIcon />
               <time datetime={post.data.date}>
-                <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
+                <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
               </time>
             </div>
             <div class="description">{post.data.description}</div>

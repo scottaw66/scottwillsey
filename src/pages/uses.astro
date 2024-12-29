@@ -1,5 +1,5 @@
 ---
-import { getEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
@@ -15,7 +15,7 @@ const bigkeychron =
 const bigmbp = "/images/posts/BBP-8B00109B-1BD2-46E3-81C5-0996E53D5136.jpg";
 
 const uses = await getEntry("uses", "uses");
-const { Content } = await uses.render();
+const { Content } = await render(uses);
 
 let title = uses.data.title;
 let description = uses.data.description;
@@ -53,8 +53,7 @@ let description = uses.data.description;
     <div class="time">
       <CalendarFillIcon />
       <time datetime={uses.data.date}>
-        <a href={`/${uses.slug}`}>Last updated {modifieddate(uses.data.date)}</a
-        >
+        <a href={`/${uses.id}`}>Last updated {modifieddate(uses.data.date)}</a>
       </time>
     </div>
     <div class="uses">

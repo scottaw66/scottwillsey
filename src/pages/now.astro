@@ -1,11 +1,11 @@
 ---
-import { getEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
 
 const now = await getEntry("now", "now");
-const { Content } = await now.render();
+const { Content } = await render(now);
 
 let title = now.data.title;
 let description = now.data.description;
@@ -22,7 +22,7 @@ let description = now.data.description;
     <div class="time">
       <CalendarFillIcon />
       <time datetime={now.data.date}>
-        <a href={`/${now.slug}`}>Last updated {modifieddate(now.data.date)}</a>
+        <a href={`/${now.id}`}>Last updated {modifieddate(now.data.date)}</a>
       </time>
     </div>
     <div class="now">

@@ -5,7 +5,7 @@
 
 # build output
 dist
-.astro/content-assets.mjs 
+.astro/* 
 
 # dependencies
 node_modules/

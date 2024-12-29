@@ -4,6 +4,14 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2024-12-29
+
+Upgrades to Astro 5 Content Layer API (replacing legacy Content Collections API)
+
+### 2024-12-07
+
+Upgrades to Astro 5. Still needs Content Collections moved to new Content Layer API.
+
 ### 2024-11-13
 
 Gets rid of Pins.

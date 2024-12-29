@@ -5,13 +5,14 @@ import { postdate } from "../components/utilities/DateFormat.js";
 import { slugify } from "./utilities/StringFormat.js";
 import PostTitle from "./PostTitle.astro";
 import CalendarFillIcon from "./icons/CalendarFillIcon.astro";
+import { render } from "astro:content";
 
 interface Props {
   post: CollectionEntry<"posts">;
 }
 
 const { post } = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 
 <article>
@@ -22,7 +23,7 @@ const { Content } = await post.render();
     <div class="time">
       <CalendarFillIcon />
       <time datetime={post.data.date}>
-        <a href={`/${post.slug}`}>
+        <a href={`/${post.id}`}>
           {postdate(post.data.date)}
         </a>
       </time>

@@ -1,12 +1,12 @@
 ---
-import { getEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
 import Spotlight from "../components/Spotlight.astro";
 import Base from "../layouts/Base.astro";
 import { modifieddate } from "../components/utilities/DateFormat.js";
 import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
 
 const links = await getEntry("links", "links");
-const { Content } = await links.render();
+const { Content } = await render(links);
 
 let title = links.data.title;
 let description = links.data.description;
@@ -19,8 +19,7 @@ let description = links.data.description;
     <div class="time">
       <CalendarFillIcon />
       <time datetime={links.data.date}>
-        <a href={`/${links.slug}`}
-          >Last updated {modifieddate(links.data.date)}</a
+        <a href={`/${links.id}`}>Last updated {modifieddate(links.data.date)}</a
         >
       </time>
     </div>

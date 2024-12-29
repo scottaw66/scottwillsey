@@ -1,9 +1,9 @@
 ---
-import { getEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
 import Base from "../layouts/Base.astro";
 
 const change = await getEntry("changelog", "changelog");
-const { Content } = await change.render();
+const { Content } = await render(change);
 
 let title = change.data.title;
 let description = change.data.description;

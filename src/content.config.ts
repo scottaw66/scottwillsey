@@ -1,6 +1,8 @@
 import { z, defineCollection } from "astro:content";
+import { glob } from "astro/loaders";
 
 const postCollection = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/posts" }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
@@ -19,7 +21,10 @@ const postCollection = defineCollection({
 });
 
 const changeCollection = defineCollection({
-  type: "content", // v2.5.0 and later
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/changelog",
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -32,7 +37,7 @@ const changeCollection = defineCollection({
 });
 
 const nowCollection = defineCollection({
-  type: "content", // v2.5.0 and later
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/now" }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -45,7 +50,7 @@ const nowCollection = defineCollection({
 });
 
 const linksCollection = defineCollection({
-  type: "content", // v2.5.0 and later
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/links" }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -58,7 +63,7 @@ const linksCollection = defineCollection({
 });
 
 const usesCollection = defineCollection({
-  type: "content", // v2.5.0 and later
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/uses" }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -71,7 +76,7 @@ const usesCollection = defineCollection({
 });
 
 const readsCollection = defineCollection({
-  type: "content", // v2.5.0 and later
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/reads" }),
   schema: z.object({
     title: z.string(),
     description: z.string(),

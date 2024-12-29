@@ -53,7 +53,7 @@ let description = site.description;
           indexPosts.map((post) => (
             <header>
               <h2>
-                <a href={`/${post.slug}`}>
+                <a href={`/${post.id}`}>
                   {post.data.link ? (
                     <span data-pagefind-ignore>
                       <PostLinkIcon />
@@ -67,7 +67,7 @@ let description = site.description;
               <div class="time">
                 <CalendarIcon />
                 <time datetime={post.data.date}>
-                  <a href={`/${post.slug}`}>{postdate(post.data.date)}</a>
+                  <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
                 </time>
               </div>
               <div class="description">

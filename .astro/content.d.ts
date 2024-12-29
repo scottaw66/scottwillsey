@@ -148,9 +148,7 @@ declare module 'astro:content' {
 	type DataEntryMap = {
 		"changelog": Record<string, {
   id: string;
-  render(): Render[".md"];
-  slug: string;
-  body: string;
+  body?: string;
   collection: "changelog";
   data: InferEntrySchema<"changelog">;
   rendered?: RenderedContent;
@@ -158,9 +156,7 @@ declare module 'astro:content' {
 }>;
 "links": Record<string, {
   id: string;
-  render(): Render[".md"];
-  slug: string;
-  body: string;
+  body?: string;
   collection: "links";
   data: InferEntrySchema<"links">;
   rendered?: RenderedContent;
@@ -168,9 +164,7 @@ declare module 'astro:content' {
 }>;
 "now": Record<string, {
   id: string;
-  render(): Render[".md"];
-  slug: string;
-  body: string;
+  body?: string;
   collection: "now";
   data: InferEntrySchema<"now">;
   rendered?: RenderedContent;
@@ -178,9 +172,7 @@ declare module 'astro:content' {
 }>;
 "posts": Record<string, {
   id: string;
-  render(): Render[".md"];
-  slug: string;
-  body: string;
+  body?: string;
   collection: "posts";
   data: InferEntrySchema<"posts">;
   rendered?: RenderedContent;
@@ -188,9 +180,7 @@ declare module 'astro:content' {
 }>;
 "reads": Record<string, {
   id: string;
-  render(): Render[".md"];
-  slug: string;
-  body: string;
+  body?: string;
   collection: "reads";
   data: InferEntrySchema<"reads">;
   rendered?: RenderedContent;
@@ -198,9 +188,7 @@ declare module 'astro:content' {
 }>;
 "uses": Record<string, {
   id: string;
-  render(): Render[".md"];
-  slug: string;
-  body: string;
+  body?: string;
   collection: "uses";
   data: InferEntrySchema<"uses">;
   rendered?: RenderedContent;
@@ -211,5 +199,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("../src/content/config.js");
+	export type ContentConfig = typeof import("../src/content.config.js");
 }

@@ -7,7 +7,7 @@ import { titleCase } from "../../components/utilities/StringFormat";
 export async function getStaticPaths() {
   const reads = await getCollection("reads");
   return reads.map((read) => ({
-    params: { slug: read.slug },
+    params: { id: read.slug },
     props: { read },
   }));
 }

@@ -5,7 +5,7 @@ import PostLinkIcon from "./icons/PostLinkIcon.astro";
 const { post } = Astro.props;
 ---
 
-<a href={post.data.link ? post.data.link : `/${post.slug}`}>
+<a href={post.data.link ? post.data.link : `/${post.id}`}>
   {
     post.data.link ? (
       <span data-pagefind-ignore>

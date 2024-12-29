@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { render } from "astro:content";
 import { postdate } from "../components/utilities/DateFormat.js";
 import CalendarFillIcon from "./icons/CalendarFillIcon.astro";
 
@@ -8,18 +9,18 @@ interface Props {
 }
 
 const { read } = Astro.props;
-const { Content } = await read.render();
+const { Content } = await render(read);
 ---
 
 <article>
   <header>
     <h1>
-      <a href={`/reads/${read.slug}`}>{read.data.title}</a>
+      <a href={`/reads/${read.id}`}>{read.data.title}</a>
     </h1>
     <div class="time">
       <CalendarFillIcon />
       <time datetime={read.data.date}>
-        <a href={`/reads/${read.slug}`}>
+        <a href={`/reads/${read.id}`}>
           {postdate(read.data.date)}
         </a>
       </time>
