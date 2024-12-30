@@ -44,7 +44,7 @@ scott@Midnight:~ ➜ aichat -m openai:gpt-4o "What LLM model are you using?"
 I am based on OpenAI's GPT-4 model.
 ```
 
-And in aichat REPL mode, you can get a list of models to choose from with the `.model ⇥` command (that’s .mode followed by a space and a tab).
+And in aichat REPL mode, you can get a list of models to choose from with the `.model ⇥` command (that’s .model followed by a space and a tab).
 
 ```bash {5}
 scott@Midnight:~ ➜ aichat
