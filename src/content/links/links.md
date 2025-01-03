@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2024-12-28T22:56:50-08:00"
+date: "2025-01-03T10:11:17-08:00"
 slug: "links"
 ---
 
@@ -470,6 +470,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)
 - [HTMHell](https://www.htmhell.dev)
+- [HTML for People](https://htmlforpeople.com/)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
@@ -552,6 +553,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 ## Japan & Japanese Language
 
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
+- [JapanesePod101 – Learn Japanese](https://www.japanesepod101.com/dashboard)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
 - [News On Japan](https://newsonjapan.com/)
 - [Nippon.com | Your Doorway to Japan](https://www.nippon.com/en/)
