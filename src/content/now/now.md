@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-01-03T10:11:17-08:00"
+date: "2025-01-09T08:55:07-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Programming By Stealth – PBS Tidbit 11A — A PowerShell Teaser](https://overcast.fm/+JGaDQsRj4)
-- [Decoder with Nilay Patel – Platforms need the news, but they’re killing it](https://overcast.fm/+QLdudv5mo)
-- [Whisky Whiskey – 11: Tomintoul 16 Year Single Malt Scotch Whisky](https://overcast.fm/+BLIhdouKig)
-- [The Cyber Show – #036 | S4 | In The Chair | Paid in Full](https://overcast.fm/+BCiz9RU_yM)
-- Tech Won't Save Us (Premium) – Data Vampires: Fighting for Control (Episode 4)
-- [Dot Social – This Publishing Platform Sees the Future, with Ghost’s John O’Nolan](https://overcast.fm/+BFLqE2Xy2I)
-- [Tech Won't Save Us – How Cloud Giants Cement Their Power w/ Cecilia Rikap](https://overcast.fm/+ZpQAIwawQ)
-- [Mac Admins Podcast – Episode 392: Michael & Mark on Entra ID](https://overcast.fm/+OG8y_3IXo)
-- [The High Performance Podcast – Prof. Steve Peters: The Secret Weapon Behind Elite Athletes & The Top 1% (E317)](https://overcast.fm/+qG23IW8ZE)
-- [楽しいラジオ「ドングリFM」 – 1146 賞味期限間近スペシャル！プロ野球チップス](https://overcast.fm/+9ABLfry40)
+- [Judge John Hodgman – Ocean Spray-beus Corpus Live in Philadelphia](https://overcast.fm/+YJM1bKZSw)
+- [Risky Business – Risky Business #773 — Cybercriminals are dropping like flies in Russia](https://overcast.fm/+It0hlU9MU)
+- The 404 Media Podcast (Premium Feed) – Meta Goes Mask Off
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – They Dissolve Like You’re Thanos](https://overcast.fm/+6TZ97Cym4)
+- [The Weekly Planet – The Greatest Action Movies of All Time - Clickbait Bonus Episode](https://overcast.fm/+1HFIADTho)
+- [Causality – 57: Stardust Nightclub](https://overcast.fm/+fjzSEhGuQ)
+- [Darknet Diaries – 153: Bike Index](https://overcast.fm/+BI2YYzPuD8)
+- [Conduit – 91: Robb Knight made this for himself, and maybe you too.](https://overcast.fm/+xNegoEizA)
+- [Decoder with Nilay Patel – Rewind: Bluesky CEO Jay Graber on the future of federated social media](https://overcast.fm/+QLdvlXdsU)
+- [Decoder with Nilay Patel – Studying online bad behavior was hard. It’s going to get harder in Trump 2.0](https://overcast.fm/+QLdsWRbS8)
 
 ### Books
 
@@ -26,25 +26,24 @@ slug: "now"
 
 - [Doomsday Book](https://books.apple.com/us/book/doomsday-book/id420427169) *Time travel done right in a very clever and compelling story.*
 - [The Internet of Garbage by Sarah Jeong - The Verge](https://www.theverge.com/2018/8/28/17777330/internet-of-garbage-book-sarah-jeong-online-harassment) *Just started. Probably shouldn't read this in 2024, the year of the great enshittification.*
-- [The Apollo Murders](https://books.apple.com/us/book/the-apollo-murders/id1552671476) *So far so good. It seems like a bit of a stolen concept from For All Mankind, but it's different enough and engaging enough that I don't mind.*
+- [The Apollo Murders](https://books.apple.com/us/book/the-apollo-murders/id1552671476) *Not bad. Wouldn't be my first recommendation but it's well done for what it is. It seems like a bit of a stolen concept from For All Mankind, but it's different enough and engaging enough that I don't mind.*
 
 ### Movies
 
+- [Monkey Man](https://www.themoviedb.org/movie/560016-monkey-man-2024) *Good action. Great actor.*
 - [The Fall Guy](https://www.themoviedb.org/movie/746036-the-fall-guy-2024) *I really enjoyed this! It's dumb. It's fun. It's dumb fun!!*
 - [Woman of the Hour](https://www.themoviedb.org/movie/835113-woman-of-the-hour-2024) *No one ever believes a woman reporting a crime.*
 
 ### TV Shows
 
+- [Missing You Season 1 Episode 2 – With or Without You](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/2)
+- [Missing You Season 1 Episode 1 – Every Breath You Take](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/1)
 - [Silo Season 2 Episode 8 – The Book of Quinn](https://www.themoviedb.org/tv/125988-silo/season/2/episode/8)
 - [Silo Season 2 Episode 7 – The Dive](https://www.themoviedb.org/tv/125988-silo/season/2/episode/7)
 - [Silo Season 2 Episode 6 – Barricades](https://www.themoviedb.org/tv/125988-silo/season/2/episode/6)
 - [Shrinking Season 2 Episode 12 – The Last Thanksgiving](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/12)
 - [Bad Sisters Season 2 Episode 8 – Cliff Hanger](https://www.themoviedb.org/tv/199318-bad-sisters/season/2/episode/8)
 - [Senna Season 1 Episode 3 – Ambition](https://www.themoviedb.org/tv/211039-senna/season/1/episode/3)
-- [Senna Season 1 Episode 2 – Belonging](https://www.themoviedb.org/tv/211039-senna/season/1/episode/2)
-- [Senna Season 1 Episode 1 – Calling](https://www.themoviedb.org/tv/211039-senna/season/1/episode/1)
-- [Shrinking Season 2 Episode 11 – The Drugs Don't Work](https://www.themoviedb.org/tv/136311-shrinking/season/2/episode/11)
-- [Bad Sisters Season 2 Episode 7 – How to Pick a Prick](https://www.themoviedb.org/tv/199318-bad-sisters/season/2/episode/7)
 
 ### Games
 
@@ -52,6 +51,7 @@ slug: "now"
 
 ### Food and Drink
 
+- [Wayfinder Beer](https://www.wayfinder.beer/)
 - [Organic Genmaicha Loose Leaf Green Tea | Yamamotoyama– Yamamotoyama U.S.A.](https://yamamotoyama.com/products/organic-genmaicha-loose-green-tea)
 - [Matcha Toasted Rice – Numi Tea](https://numitea.com/products/matcha-toasted-rice)
 - [Hojicha – Numi Tea](https://numitea.com/collections/tea-bags/products/hojicha?_pos=4&_fid=a6aa6d029&_ss=c)
