@@ -567,9 +567,11 @@ svg#menu-info-icon:hover,
 svg#menu-search-icon:hover,
 svg#menu-moon-icon:hover,
 svg#footer-github-icon:hover,
+svg#footer-bluesky-icon:hover,
 svg#footer-mastodon-icon:hover,
 svg#footer-rss-icon:hover,
-svg#footer-history-icon:hover {
+svg#footer-history-icon:hover,
+svg#footer-notifications-unread-icon:hover {
   fill: var(--brand);
 }
 a svg:hover,
