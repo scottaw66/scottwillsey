@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-01-03T10:11:17-08:00"
+date: "2025-01-09T08:50:06-08:00"
 slug: "links"
 ---
 
@@ -503,6 +503,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [The Web We Want](https://webwewant.fyi)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
+- [tildeverse](https://tildeverse.org/)
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
