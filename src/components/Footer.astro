@@ -1,6 +1,7 @@
 ---
 import { year } from "../components/utilities/DateFormat.js";
 import site from "../data/site.json";
+import BlueSkyIcon from "../components/icons/FooterBlueSky.astro";
 import GitHubIcon from "./icons/FooterGitHubIcon.astro";
 import MastodonIcon from "./icons/FooterMastodonIcon.astro";
 import RssIcon from "./icons/FooterRssIcon.astro";
@@ -10,6 +11,7 @@ import NotificationsUnread from "./icons/NotificationsUnread.astro";
 
 <div class="footer">
   <div class="footer-links">
+    <a href={site.social.bluesky}><BlueSkyIcon /></a>
     <a href={site.social.mastodon}><MastodonIcon /></a>
     <a href={site.social.github}><GitHubIcon /></a>
     <a href="/rss.xml"><RssIcon /></a>
