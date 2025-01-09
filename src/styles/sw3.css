@@ -517,6 +517,9 @@ svg#inline-bluesky-icon {
   height: 1.25em;
   margin-bottom: -0.333em;
 }
+svg#inline-bluesky-icon {
+  fill: var(--accent-blue);
+}
 svg#footer-bluesky-icon {
   fill: var(--accent-blue);
   width: 1.333em;
