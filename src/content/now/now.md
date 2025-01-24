@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-01-18T09:58:03-08:00"
+date: "2025-01-23T23:04:37-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [The Vergecast – Nintendo’s Switch 2 is here — sort of](https://overcast.fm/+QN1op8j4w)
-- [This Machine Kills – Patreon Preview – 390. We All Live in the Firestorm](https://overcast.fm/+g6yHXBVQg)
-- [This Machine Kills – 389. The Year of Polycrisis](https://overcast.fm/+g6yGC2UdM)
-- [Chit Chat Across the Pond – CCATP #807 — Adam Engst on Bootable Backups Bug in macOS Sequoia](https://overcast.fm/+FcgKFnM_8)
-- Tech Won't Save Us (Premium) – How Big Tech Made the Cloud w/ Dwayne Monroe
-- The 404 Media Podcast (Premium Feed) – Total Chaos at Meta
-- [Hacking Humans – Crypto chameleons and star fraud.](https://overcast.fm/+Qfds_nh8k)
-- Six Colors – Calcification dilemmas (6C Podcast)
-- Tech Won't Save Us (Premium) – How to See Tech Like a Luddite w/ Jathan Sadowski
-- The Race Members' Club – BBV10s S11 E4: High drama at Adelaide ‘86 (early access)
+- [Friends with Brews – When the Poo Emoji Hits the Fan](https://friendswithbrews.com/79/)
+- [Accidental Tech Podcast 623: It’s About Human Connection](https://atp.fm/623)
+- The Race Members' Club – Hamilton’s Ferrari test debut - your questions answered (ad-free)
+- [Risky Business – Risky Business #776 — Trump will flex American cyber muscles](https://overcast.fm/+It0gz6t2g)
+- The 404 Media Podcast (Premium Feed) – TikTok and the Tech Oligarchy
+- [Think Fast Talk Smart: Communication Techniques – 179. Finding Positive in Negative Emotions: Communication, Happiness & Wellbeing](https://overcast.fm/+BKgJSoHUOA)
+- [The Vergecast – How the future of sports streaming died](https://overcast.fm/+QN1rZ72oA)
+- [NosillaCast Apple Podcast – NC #1020 EV Pivot Table Fun, Sign Documents from iOS and macOS, Take My Money, Security Bits](https://overcast.fm/+BJFaLlvMek)
+- [Clear+Vivid with Alan Alda – Matt Abrahams: Off the Cuff and in the Zone](https://overcast.fm/+Nlaq69yHY)
+- [Whisky Whiskey – 17: Loch Lomond 18 Year Single Malt](https://overcast.fm/+BLIhcDYhmA)
 
 ### Books
 
@@ -36,16 +36,18 @@ slug: "now"
 
 ### TV Shows
 
+- [The Night Agent Season 1 Episode 10 – Fathers](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/10)
+- [The Night Agent Season 1 Episode 9 – The Devil We Know](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/9)
+- [The Night Agent Season 1 Episode 8 – Redux](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/8)
+- [The Night Agent Season 1 Episode 7 – Best Served Cold](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/7)
+- [The Night Agent Season 1 Episode 6 – Fathoms](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/6)
+- [The Night Agent Season 1 Episode 5 – The Marionette](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/5)
+- [The Night Agent Season 1 Episode 4 – Eyes Only](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/4)
+- [The Night Agent Season 1 Episode 3 – The Zookeeper](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/3)
+- [The Night Agent Season 1 Episode 2 – Redial](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/2)
 - [The Night Agent Season 1 Episode 1 – The Call](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/1)
 - [Severance Season 2 Episode 1 – Hello, Ms. Cobel](https://www.themoviedb.org/tv/95396-severance/season/2/episode/1)
 - [Silo Season 2 Episode 10 – Into the Fire](https://www.themoviedb.org/tv/125988-silo/season/2/episode/10)
-- [Missing You Season 1 Episode 5 – Chain Reaction](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/5)
-- [Missing You Season 1 Episode 4 – Don't You Forget About Me](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/4)
-- [Missing You Season 1 Episode 3 – Never Too Much](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/3)
-- [Silo Season 2 Episode 9 – The Safeguard](https://www.themoviedb.org/tv/125988-silo/season/2/episode/9)
-- [Missing You Season 1 Episode 2 – With or Without You](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/2)
-- [Missing You Season 1 Episode 1 – Every Breath You Take](https://www.themoviedb.org/tv/244243-missing-you-2025/season/1/episode/1)
-- [Silo Season 2 Episode 8 – The Book of Quinn](https://www.themoviedb.org/tv/125988-silo/season/2/episode/8)
 
 ### Games
 
@@ -53,8 +55,6 @@ slug: "now"
 
 ### Food and Drink
 
+- [CHEESE & CRACK SNACK SHOP](https://www.cheeseandcrack.com/)
 - [Wayfinder Beer](https://www.wayfinder.beer/)
 - [Organic Genmaicha Loose Leaf Green Tea | Yamamotoyama– Yamamotoyama U.S.A.](https://yamamotoyama.com/products/organic-genmaicha-loose-green-tea)
-- [Matcha Toasted Rice – Numi Tea](https://numitea.com/products/matcha-toasted-rice)
-- [Hojicha – Numi Tea](https://numitea.com/collections/tea-bags/products/hojicha?_pos=4&_fid=a6aa6d029&_ss=c)
-- [Ill Tempered Gnome - Oakshire Brewing](https://oakbrew.com/beers/ill-tempered-gnome/)
