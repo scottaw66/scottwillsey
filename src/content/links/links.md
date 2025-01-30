@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-01-18T09:58:03-08:00"
+date: "2025-01-29T17:48:24-08:00"
 slug: "links"
 ---
 
@@ -265,9 +265,6 @@ I mean, it's John Siracusa.
 **[I Build Things — Chris McLeod](https://chrismcleod.dev/)**  
 I love the design of this site. Wow!  
 
-**[Blog | Kev Quirk](https://kevquirk.com/)**  
-Another example of a blog that's well worth reading already, but then also has this design it's fantastic.
-
 **[kottke.org - home of fine hypertext products](https://kottke.org/)**  
 I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!!  
 
@@ -396,10 +393,14 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Books
 
+- [Bookshop: Buy books online. Support local bookstores.](https://bookshop.org/)
 - [Coders by Clive Thompson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/539883/coders-by-clive-thompson/)
 - [Crypto: How the Code Rebels Beat the Government, Saving Privacy in the Digital Age — Steven Levy](https://www.stevenlevy.com/crypto)
 - [Custodians of Wonder: Ancient Customs, Profound Traditions, and the Last People Keeping Them Alive a book by Eliot Stein](https://bookshop.org/p/books/custodians-of-wonder-our-world-s-rarest-cultural-marvels-and-the-last-people-keeping-them-alive-eliot-stein/20981819)
+- [The Diamond Age by Neal Stephenson: 9780553380965 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/172835/the-diamond-age-by-neal-stephenson/9780553380965/)
 - [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
+- [Fluke | Book by Brian Klaas | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Fluke/Brian-Klaas/9781668006528)
+- [The Galapagos and the Meaning of Life: A Young Woman’s Bittersweet Experiment in Inner Freedom – The Marginalian](https://www.themarginalian.org/2024/10/22/dore-strauch-floreana/)
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
 - [Image Performance, A Book Apart](https://abookapart.com/products/image-performance)
 - [Inventing the Future by John Buck | BooksBy](https://books.by/john-buck)
@@ -407,7 +408,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
-- [The Galapagos and the Meaning of Life: A Young Woman’s Bittersweet Experiment in Inner Freedom – The Marginalian](https://www.themarginalian.org/2024/10/22/dore-strauch-floreana/)
 
 ## Coffee
 
@@ -447,6 +447,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 - [tildeverse](https://tildeverse.org/)
 - [Understanding PAM - Linux.com](https://www.linux.com/news/understanding-pam/)
+- [Warp | The intelligent terminal](https://www.warp.dev/e)
 - [Wireshark · OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html)
 
 ## Cool Sites Archive

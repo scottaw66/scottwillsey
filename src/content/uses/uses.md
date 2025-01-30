@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2024-11-12T10:24:35-08:00"
+date: "2025-01-29T17:48:24-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -83,13 +83,17 @@ slug: "uses"
 
 ### Glasses
 
-- [Connor Eyeglasses in Eastern Bluebird Fade | Warby Parker](https://www.warbyparker.com/eyeglasses/connor/eastern-bluebird-fade?w=medium) (My current favorites!)
+- [Burke Eyeglasses in Tennessee Whiskey | Warby Parker](https://www.warbyparker.com/eyeglasses/burke/tennessee-whiskey?w=medium)  (My current favorites!)
+
+[![Warby Parker Burke in Tennessee Whiskey](../../assets/images/posts/WarbyParkerBurke-5701041A-0801-4FF0-B738-4522258F4F46.png)](/images/posts/WarbyParkerBurke-5701041A-0801-4FF0-B738-4522258F4F46.jpg)  
+
+- [Connor Eyeglasses in Eastern Bluebird Fade | Warby Parker](https://www.warbyparker.com/eyeglasses/connor/eastern-bluebird-fade?w=medium)
 
 [![Warby Parker Connor Eastern Bluebird Fade](../../assets/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.png)](/images/posts/WarbyParkerConnorEasternBluebirdFade-11EAFF75-4793-48FD-9CA5-8EC00975558A.jpg)  
 
-- [Cole Haan CH4034 Eyeglasses](https://www.coolframes.com/glasses/cole-haan-eyewear/ch4034-eyeglasses.html) in Tortoise and Blue Fade (no one has these anymore, and I love them)
+- [Hector Eyeglasses in Driftwood Fade](https://www.warbyparker.com/eyeglasses/hector/driftwood-fade?w=medium) (My current computer glasses)
 
-[![Cole Haan 4043 Tortoise and Blue Fade](../../assets/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.png)](/images/posts/ColeHaan4043tortoisebluefade-38C5CFFE-CA65-4308-B444-56FCF52A533D.jpg)
+[![Warby Parker Hector in Driftwood Fade](../../assets/images/posts/WarbyParkerHector-5701041A-0801-4FF0-B738-4522258F4F46.png)](/images/posts/WarbyParkerHector-5701041A-0801-4FF0-B738-4522258F4F46.jpg)  
   
 ### Shoes
 

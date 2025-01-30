@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-01-26T15:35:45-08:00"
+date: "2025-01-29T17:48:24-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Smashing Security – Hacks on the high seas, and how your home can be stolen under your nose](https://overcast.fm/+SD4PFNDc4)
-- [Judge John Hodgman – Until Death Drew You Art](https://overcast.fm/+YJM0vdXgE)
-- [Risky Bulletin – Risky Bulletin: Contactless payment card relay fraud booms in Russia](https://overcast.fm/+5Sl-UgeWI)
-- [The Rebound – 530: I Hear Everything I’m Saying](https://overcast.fm/+De1nNwzR0)
-- [Mac Admins Podcast – Episode 396: CrashPlan’s Andrew Orrison talks Backup](https://overcast.fm/+OG8x2lKTQ)
-- Tech Won't Save Us (Premium) – The New Tech Oligarchy w/ Gaby Del Valle
-- [System Crash – The Rise of the Silicon Oligarchy ft. Jacob Silverman](https://overcast.fm/+BL8c3X7eGw)
-- Six Colors – Apple Intelligence and mixed feelings (6C Podcast)
-- The 404 Media Podcast (Premium Feed) – Pornhub Exec Discusses Pulling Out of the South, Trad Wives, and Feet Pics
-- [P1 with Matt and Tommy – The FIA have announced new rules that could ruin F1…](https://overcast.fm/+_U3pWS1yM)
+- [Risky Bulletin – Risky Bulletin: EU sanctions three GRU hackers](https://overcast.fm/+5Sl996ML0)
+- [Risky Business – Risky Business #777 — It’s SonicWall’s turn](https://overcast.fm/+It0jeh8Hg)
+- The 404 Media Podcast (Premium Feed) – The Truth Behind DeepSeek
+- [Accidental Tech Podcast – 623: It’s About Human Connection](https://atp.fm/623)
+- [Think Fast Talk Smart: Communication Techniques – 181. Why Happiness is a Direction, Not a Destination: Communication, Happiness & Wellbeing](https://overcast.fm/+BKgJSJ8zPI)
+- [Hacking Humans – endpoint security [Word Notes]](https://overcast.fm/+QfdsPxEI8)
+- Accidental Tech Podcast – ATP Movie Club: Star Trek IV: The Voyage Home
+- [Whisky Whiskey – 19: Glendronach 12 Year](https://overcast.fm/+BLIhch-UBM)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Battery Battles, Font Fun, and Ad Blockers…Oh My!](https://overcast.fm/+6TZ_mUhpM)
+- [Robot or Not? – 306: Roomba-like Items](https://overcast.fm/+Ep2QxeNbY)
 
 ### Books
 
@@ -54,6 +54,7 @@ slug: "now"
 
 ### Food and Drink
 
+- [OYATSUPAN](https://www.oyatsupan.com/)
 - [CHEESE & CRACK SNACK SHOP](https://www.cheeseandcrack.com/)
 - [Wayfinder Beer](https://www.wayfinder.beer/)
 - [Organic Genmaicha Loose Leaf Green Tea | Yamamotoyama– Yamamotoyama U.S.A.](https://yamamotoyama.com/products/organic-genmaicha-loose-green-tea)
