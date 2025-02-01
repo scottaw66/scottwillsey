@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-01-29T17:48:24-08:00"
+date: "2025-02-01T10:29:03-08:00"
 slug: "links"
 ---
 
@@ -136,9 +136,6 @@ slug: "links"
 **[Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/)**  
 Aleksandr Hovhannisyan makes performant web software.  
 
-**[Alex Marshall - UI Designer](https://www.alexmarshall.io/me/blog)**  
-Alex likes coffee. Alex likes computers. I like the things Alex writes.  
-
 **[Álvaro Ramírez](https://xenodium.com/)**  
 A man of many tech topics.  
 
@@ -148,14 +145,8 @@ A fun blog including Lou's weekly links.
 **[And now… – The musings of an ageing technophile](https://andnow.me/)**  
 I always enjoy whatever Allister has to say. He's a friend from the Apple community.  
 
-**[Apple Annie’s Weblog · Home](https://weblog.anniegreens.lol/)**  
-Front-end web developer? Hand-curator of own insideweb site? Speaker of many topics? Sign me up!
-
 **[A Shower Of Thoughts](https://berbaquero.com/)**  
 Some web stuff, some Apple stuff, this Dutch-Latino man is my kinda human.  
-
-**[A Very Good Blog by Keenan](https://gkeenan.co/avgb/)**  
-A very good Keenan has a very good blog with humor and everything, and I like it very good!
 
 **[Bart Busschots](https://www.bartbusschots.ie/s/)**  
 Bart Busschots is a programmer, podcaster, and one of the kindest and coolest people I've had the pleasure of meeting virtually.  
@@ -495,6 +486,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
+- [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
