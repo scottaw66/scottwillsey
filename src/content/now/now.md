@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-02T11:09:51-08:00"
+date: "2025-02-02T11:24:32-08:00"
 slug: "now"
 ---
 
@@ -34,16 +34,8 @@ slug: "now"
 
 ### TV Shows
 
-- [The Recruit Season 1 Episode 4 – I.Y.D.I.A.A.C.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/4)
-- [The Recruit Season 1 Episode 3 – Y.D.E.K.W.Y.D.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/3)
-- [The Recruit Season 1 Episode 2 – N.L.T.S.Y.P.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/2)
-- [The Recruit Season 1 Episode 1 – I.N.A.S.I.A.L.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/1)
-- [The Night Agent Season 2 Episode 10 – Buyer's Remorse](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/10)
-- [Severance Season 2 Episode 3 – Who Is Alive?](https://www.themoviedb.org/tv/95396-severance/season/2/episode/3)
-- [The Night Agent Season 2 Episode 9 – Cultural Exchange](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/9)
-- [Prime Target Season 1 Episode 3 – The Sequence](https://www.themoviedb.org/tv/246381-prime-target/season/1/episode/3)
-- [The Night Agent Season 2 Episode 8 – Divergence](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/8)
-- [The Night Agent Season 2 Episode 7 – Tilt](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/7)
+![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)
+![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)
 
 ### Games
 
