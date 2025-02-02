@@ -1,6 +1,6 @@
 {
-    "Site": "https://html.earth/",
-    "Title": "html.earth: Markdown to HTML Converter & Site Generator",
-    "Description": "html.earth is a free site generator that converts Markdown to HTML. It comes with a front matter editor, custom styling field, and import & export options.",
-    "Image": "HtmlDotEarth-5F9FE361-5512-40BF-A78E-468190030F83"
+  "Site": "https://html.earth/",
+  "Title": "html.earth: Markdown to HTML Converter & Site Generator",
+  "Description": "html.earth is a free site generator that converts Markdown to HTML. It comes with a front matter editor, custom styling field, and import & export options.",
+  "Image": "HtmlDotEarth-5F9FE361-5512-40BF-A78E-468190030F83"
 }
