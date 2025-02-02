@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-01-29T17:48:24-08:00"
+date: "2025-02-02T11:09:51-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,15 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Risky Bulletin – Risky Bulletin: EU sanctions three GRU hackers](https://overcast.fm/+5Sl996ML0)
-- [Risky Business – Risky Business #777 — It’s SonicWall’s turn](https://overcast.fm/+It0jeh8Hg)
-- The 404 Media Podcast (Premium Feed) – The Truth Behind DeepSeek
-- [Accidental Tech Podcast – 623: It’s About Human Connection](https://atp.fm/623)
-- [Think Fast Talk Smart: Communication Techniques – 181. Why Happiness is a Direction, Not a Destination: Communication, Happiness & Wellbeing](https://overcast.fm/+BKgJSJ8zPI)
-- [Hacking Humans – endpoint security [Word Notes]](https://overcast.fm/+QfdsPxEI8)
-- Accidental Tech Podcast – ATP Movie Club: Star Trek IV: The Voyage Home
-- [Whisky Whiskey – 19: Glendronach 12 Year](https://overcast.fm/+BLIhch-UBM)
-- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – Battery Battles, Font Fun, and Ad Blockers…Oh My!](https://overcast.fm/+6TZ_mUhpM)
-- [Robot or Not? – 306: Roomba-like Items](https://overcast.fm/+Ep2QxeNbY)
+- [The Rebound – 531: Bananas Fact](https://overcast.fm/+De1m-RXSc)
+- Six Colors – Continuity Camera theories, Ebooks and DRM, and Apple results (6C Podcast)
+- The Race Members' Club 2025 – F1 Extra: Does F1 have a problem with tribal fan culture?
+- [楽しいラジオ「ドングリFM」 – 1151 小学館のウラ漫が面白い #マンガワン](https://overcast.fm/+9ABKE3hg4)
+- [Risky Bulletin – Risky Bulletin: Authorities seize the Cracked and Nulled cybercrime forums](https://overcast.fm/+5Sl9nZQdQ)
+- [Ctrl-Alt-Speech – This Episode has Masculine Energy](https://overcast.fm/+BHRYF0Uzgk)
+- [Judge John Hodgman – Cavy-at Emptor](https://overcast.fm/+YJM3iT000)
+- Tech Won't Save Us (Premium) – The Problem With Cyberlibertarianism w/ Chris Gilliard
+- [Accidental Tech Podcast: Unedited Live Stream – 624: Do Less Math in Computers](https://atp.fm/624)
 
 ### Books
 
@@ -31,22 +30,20 @@ slug: "now"
 
 ### Movies
 
-- [Monkey Man](https://www.themoviedb.org/movie/560016-monkey-man-2024) *Good action. Great actor.*
-- [The Fall Guy](https://www.themoviedb.org/movie/746036-the-fall-guy-2024) *I really enjoyed this! It's dumb. It's fun. It's dumb fun!!*
-- [Woman of the Hour](https://www.themoviedb.org/movie/835113-woman-of-the-hour-2024) *No one ever believes a woman reporting a crime.*
+![Cold Blood](../../assets/images/posts/Cold-Blood-Review-7F20412E-D043-4BF7-B459-B8D18B650332.png)
 
 ### TV Shows
 
-- [Prime Target Season 1 Episode 2 – Syracuse](https://www.themoviedb.org/tv/246381-prime-target/season/1/episode/2)
-- [Prime Target Season 1 Episode 1 – A New Pattern](https://www.themoviedb.org/tv/246381-prime-target/season/1/episode/1)
-- [Severance Season 2 Episode 2 – Goodbye, Mrs. Selvig](https://www.themoviedb.org/tv/95396-severance/season/2/episode/2)
-- [The Night Agent Season 2 Episode 1 – Call Tracking](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/1)
-- [The Night Agent Season 1 Episode 10 – Fathers](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/10)
-- [The Night Agent Season 1 Episode 9 – The Devil We Know](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/9)
-- [The Night Agent Season 1 Episode 8 – Redux](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/8)
-- [The Night Agent Season 1 Episode 7 – Best Served Cold](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/7)
-- [The Night Agent Season 1 Episode 6 – Fathoms](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/6)
-- [The Night Agent Season 1 Episode 5 – The Marionette](https://www.themoviedb.org/tv/129552-the-night-agent/season/1/episode/5)
+- [The Recruit Season 1 Episode 4 – I.Y.D.I.A.A.C.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/4)
+- [The Recruit Season 1 Episode 3 – Y.D.E.K.W.Y.D.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/3)
+- [The Recruit Season 1 Episode 2 – N.L.T.S.Y.P.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/2)
+- [The Recruit Season 1 Episode 1 – I.N.A.S.I.A.L.](https://www.themoviedb.org/tv/210916-the-recruit-2022/season/1/episode/1)
+- [The Night Agent Season 2 Episode 10 – Buyer's Remorse](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/10)
+- [Severance Season 2 Episode 3 – Who Is Alive?](https://www.themoviedb.org/tv/95396-severance/season/2/episode/3)
+- [The Night Agent Season 2 Episode 9 – Cultural Exchange](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/9)
+- [Prime Target Season 1 Episode 3 – The Sequence](https://www.themoviedb.org/tv/246381-prime-target/season/1/episode/3)
+- [The Night Agent Season 2 Episode 8 – Divergence](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/8)
+- [The Night Agent Season 2 Episode 7 – Tilt](https://www.themoviedb.org/tv/129552-the-night-agent/season/2/episode/7)
 
 ### Games
 

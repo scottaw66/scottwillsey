@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-02T09:05:45-08:00"
+date: "2025-02-02T11:09:51-08:00"
 slug: "links"
 ---
 
@@ -256,6 +256,9 @@ I mean, it's John Siracusa.
 **[I Build Things — Chris McLeod](https://chrismcleod.dev/)**  
 I love the design of this site. Wow!  
 
+**[James' Coffee Blog](https://jamesg.blog/)**  
+NOT just coffee, but a whole lot of interesting musings. Good links too.
+
 **[kottke.org - home of fine hypertext products](https://kottke.org/)**  
 I don't need to tell you about kottke.org. **NO ONE** needs to tell you about kottke.org!!!  
 
@@ -267,6 +270,9 @@ Ronnie Lutes – friend, blogger, former podcaster, and fan of history. Also I t
 
 **[Blog | LMNT](https://lmnt.me/blog/)**  
 Louie Mantia's blog. Lots of interesting ideas here, and the rest of the sight is great too. It's even a Cool Site Spotlight entry.
+
+**[localghost](https://localghost.dev/)**  
+Sophie does a lot of cool indie web stuff. Really fun work.  
 
 **[Marco.org](https://marco.org/)**  
 You all know who Marco Arment is. I put this in blogrolls because he doesn't write often, and it's not *always* about Apple stuff. 🤷‍♂️  
@@ -550,6 +556,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
 - [JapanesePod101 – Learn Japanese](https://www.japanesepod101.com/dashboard)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
+- [Jisho.org: Japanese Dictionary](https://jisho.org/)
 - [News On Japan](https://newsonjapan.com/)
 - [Nippon.com | Your Doorway to Japan](https://www.nippon.com/en/)
 - [Savvy Tokyo - The Essential Guide for International Women and Families in Tokyo](https://savvytokyo.com/)
@@ -612,7 +619,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
 - [Raycast - Your shortcut to everything](https://www.raycast.com/)
-- [Reeder Classic](https://reeder.app/classic/)
+- [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
 - [Rogue Amoeba | Audio Hijack: Record Any Audio on MacOS](https://rogueamoeba.com/audiohijack/)
 - [Rogue Amoeba | Farrago: Robust, rapid-fire soundboards](https://rogueamoeba.com/farrago/)
@@ -735,6 +742,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
 - [Raycast Developer API](https://developers.raycast.com/)
+- [raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 - [Security | Raycast API](https://developers.raycast.com/information/security)
 - [Top Extension Picks for Designers - Raycast Blog](https://www.raycast.com/blog/extension-picks-designers)
 - [Window Management](https://manual.raycast.com/window-management)
@@ -744,7 +752,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [EchoFeed](https://echofeed.app/)
 - [Feedbin](https://feedbin.com/home)
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
-- [Reeder Classic](https://reeder.app/classic/)
+- [ReadKit - Have all your reading in one place](https://readkit.app/)
 
 ## Tea
 
