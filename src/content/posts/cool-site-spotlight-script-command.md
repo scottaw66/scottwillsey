@@ -9,7 +9,7 @@ series: "Raycast"
 slug: "cool-site-spotlight-script-command"
 ---
 
-I like to highlight different cool or interesting sites by featuring them in my [Cool Site Spotlight](https://scottwillsey.com/links/#CoolSiteSpotlight) on my links page. I put a new one up every one or two weeks, and put a link to the last one in the [Cool Sites Archive](https://scottwillsey.com/links/#cool-sites-archive) section of the links page.
+I like to highlight different cool or interesting sites by featuring them in my [Cool Site Spotlight](https://scottwillsey.com/links/#CoolSiteSpotlight) on my [links](https://scottwillsey.com/links/) page. I put a new one up every one or two weeks, and put a link to the last one in the [Cool Sites Archive](https://scottwillsey.com/links/#cool-sites-archive) section of the links page.
 
 The data for the current one is a simple JSON file called spotlight.json, and it looks like this:
 
@@ -97,7 +97,6 @@ Here’s the full New Cool Site Spotlight Raycast script command:
 # @raycast.mode fullOutput
 
 # Optional parameters:
-# @raycast.icon 
 # @raycast.argument1 { "type": "text", "placeholder": "Cool Site URL" }
 # @raycast.packageName Website
 
