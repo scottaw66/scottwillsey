@@ -765,7 +765,7 @@ article h3#games + p {
   gap: 1em;
   justify-content: flex-start;
   flex-wrap: wrap;
-  margin: 1em;
+  margin: 1em 1em 2em;
 }
 
 article h3#movies + p a img,
