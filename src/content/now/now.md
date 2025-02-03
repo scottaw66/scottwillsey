@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-02T11:24:32-08:00"
+date: "2025-02-02T17:30:47-08:00"
 slug: "now"
 ---
 
@@ -21,21 +21,24 @@ slug: "now"
 
 ### Books
 
-*Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*
+*Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*  
 
-- [Fluke | Book by Brian Klaas | Simon & Schuster](https://www.simonandschuster.com/books/Fluke/Brian-Klaas/9781668006535) *Determinists should read this with an open mind.*
-- [The Silo Series Collection](https://books.apple.com/us/book/the-silo-series-collection/id1602732974) *Even if you're watching the Apple TV+ series, READ THESE! They're different enough that it won't ruin everything, and they're both fun in their own ways. Plus (I don't know if you noticed), reading and watching things are different activities.*
-- [Doomsday Book](https://books.apple.com/us/book/doomsday-book/id420427169) *Time travel done right in a very clever and compelling story.*
-- [The Internet of Garbage by Sarah Jeong - The Verge](https://www.theverge.com/2018/8/28/17777330/internet-of-garbage-book-sarah-jeong-online-harassment) *Just started. Probably shouldn't read this in 2024, the year of the great enshittification.*
+[![Fluke](../../assets/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![The Silo Series Collection](../../assets/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
 ### Movies
 
-![Cold Blood](../../assets/images/posts/Cold-Blood-Review-7F20412E-D043-4BF7-B459-B8D18B650332.png)
+[![Cold Blood](../../assets/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.png)](../../../public/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.jpg)
+[![Monkey Man](../../assets/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](../../../public/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
+[![The Fall Guy](../../assets/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](../../../public/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
+[![Woman of the Hour](../../assets/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](../../../public/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
 
 ### TV Shows
 
-![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)
-![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)
+[![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](../../../public/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
+[![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](../../../public/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
+[![Prime Target](../../assets/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![The Night Agent](../../assets/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
 ### Games
 

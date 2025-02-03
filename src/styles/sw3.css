@@ -756,6 +756,26 @@ article img {
   border-radius: 0.3rem;
   content-visibility: auto;
 }
+article h3#movies + p,
+article h3#books ~ p,
+article h3#tv-shows + p,
+article h3#games + p {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 1em;
+}
+
+article h3#movies + p a img,
+article h3#books ~ p a img,
+article h3#tv-shows + p a img,
+article h3#games + p a img {
+  width: 100%;
+  max-width: 450px;
+  margin: 0;
+}
 
 div.use-header img {
   margin: 0.5rem;
