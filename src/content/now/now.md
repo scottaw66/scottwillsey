@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-02T17:30:47-08:00"
+date: "2025-02-02T17:47:41-08:00"
 slug: "now"
 ---
 
@@ -23,22 +23,22 @@ slug: "now"
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*  
 
-[![Fluke](../../assets/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
-[![The Silo Series Collection](../../assets/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![Fluke](../../assets/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![The Silo Series Collection](../../assets/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
 ### Movies
 
-[![Cold Blood](../../assets/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.png)](../../../public/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.jpg)
-[![Monkey Man](../../assets/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](../../../public/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
-[![The Fall Guy](../../assets/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](../../../public/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
-[![Woman of the Hour](../../assets/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](../../../public/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
+[![Cold Blood](../../assets/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.png)](/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.jpg)
+[![Monkey Man](../../assets/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
+[![The Fall Guy](../../assets/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
+[![Woman of the Hour](../../assets/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
 
 ### TV Shows
 
-[![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](../../../public/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
-[![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](../../../public/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
-[![Prime Target](../../assets/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
-[![The Night Agent](../../assets/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](../../../public/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
+[![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
+[![Prime Target](../../assets/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![The Night Agent](../../assets/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
 ### Games
 
