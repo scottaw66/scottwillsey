@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-02T21:18:35-08:00"
+date: "2025-02-03T10:26:14-08:00"
 slug: "now"
 ---
 
@@ -28,6 +28,7 @@ slug: "now"
 
 ### Movies
 
+[![Small Things Like these](../../assets/images/posts/Small-Things-Like-These-review-B7EA41BD-78D5-4E3B-AAD4-BE16300AED91.png)](/images/posts/Small-Things-Like-These-review-B7EA41BD-78D5-4E3B-AAD4-BE16300AED91.jpg)
 [![Cold Blood](../../assets/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.png)](/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.jpg)
 [![Monkey Man](../../assets/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
 [![The Fall Guy](../../assets/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
@@ -39,6 +40,7 @@ slug: "now"
 [![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
 [![Prime Target](../../assets/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 [![The Night Agent](../../assets/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![Missing You](../../assets/images/posts/Missing-You-review-E3468A66-9C4D-482C-9570-41B5E4390803.png)](/images/posts/Missing-You-review-E3468A66-9C4D-482C-9570-41B5E4390803.jpg)
 
 ### Games
 
@@ -46,7 +48,7 @@ slug: "now"
 
 ### Food and Drink
 
+- [Cloudburst Brewing](https://cloudburstbrew.com/)
+- [Hetty Alice Beers](https://www.hettyalicebeers.com/)
 - [OYATSUPAN](https://www.oyatsupan.com/)
 - [CHEESE & CRACK SNACK SHOP](https://www.cheeseandcrack.com/)
-- [Wayfinder Beer](https://www.wayfinder.beer/)
-- [Organic Genmaicha Loose Leaf Green Tea | Yamamotoyama– Yamamotoyama U.S.A.](https://yamamotoyama.com/products/organic-genmaicha-loose-green-tea)
