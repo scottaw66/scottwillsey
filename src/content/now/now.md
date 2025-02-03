@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-02T17:47:41-08:00"
+date: "2025-02-02T21:18:35-08:00"
 slug: "now"
 ---
 
@@ -42,7 +42,7 @@ slug: "now"
 
 ### Games
 
-- [Baldur's Gate 3](https://baldursgate3.game/) *Peter got me into this! It's fun with friends. I really don't have time for it, but whatever.*
+[![Baldur's Gate 3](../../assets/images/posts/Baldur’s-Gate-3-review-1A31427B-1F9C-4CE7-BF17-FA4B86910DEB.png)](/images/posts/Baldur’s-Gate-3-review-1A31427B-1F9C-4CE7-BF17-FA4B86910DEB.jpg)
 
 ### Food and Drink
 
