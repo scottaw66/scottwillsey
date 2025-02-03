@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-02T11:09:51-08:00"
+date: "2025-02-02T18:01:13-08:00"
 slug: "links"
 ---
 
@@ -246,6 +246,9 @@ This is some crazy brain food that I probably won't understand most of.
 
 **[Hey, it's Jason! // Welcome!](https://grepjason.sh/)**  
 Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
+
+**[jarunmb.com](https://jarunmb.com/)**  
+Michael has a beautiful site and shares a lot of the same interests as me. I should have found this site sooner!
 
 **[Hugo's Blog](https://hugo.blog/)**  
 Hugo is apparently a Meta Quest guy and he just wrote an encyclopedia-sized article on the Apple Vision Pro. I hope not every blog post he does is that long, but it's a fascinating read anyway.
