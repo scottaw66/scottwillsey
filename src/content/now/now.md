@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-03T10:26:14-08:00"
+date: "2025-02-05T00:16:00-08:00"
 slug: "now"
 ---
 
@@ -36,11 +36,11 @@ slug: "now"
 
 ### TV Shows
 
+[![Mr Inbetween I'm up through SlE4 which is a rewatch for me. I haven't seen all 3 seasons so this will be a treat. Great show. Loved It!](../../assets/images/posts/MrInbetweenReview-36004387-1051-4a96-84e5-ed90784fbdab.png)](/images/posts/MrInbetweenReview-36004387-1051-4a96-84e5-ed90784fbdab.jpg)
 [![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
 [![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
 [![Prime Target](../../assets/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 [![The Night Agent](../../assets/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
-[![Missing You](../../assets/images/posts/Missing-You-review-E3468A66-9C4D-482C-9570-41B5E4390803.png)](/images/posts/Missing-You-review-E3468A66-9C4D-482C-9570-41B5E4390803.jpg)
 
 ### Games
 
