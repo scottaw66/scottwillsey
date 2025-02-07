@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-02T18:01:13-08:00"
+date: "2025-02-06T23:55:54-08:00"
 slug: "links"
 ---
 
@@ -471,6 +471,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)
+- [html.earth: Markdown to HTML Converter & Site Generator](https://html.earth/)
 - [HTMHell](https://www.htmhell.dev)
 - [HTML for People](https://htmlforpeople.com/)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
