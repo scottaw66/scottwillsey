@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-06T23:55:54-08:00"
+date: "2025-02-09T12:49:14-08:00"
 slug: "links"
 ---
 
@@ -223,6 +223,9 @@ Tech related blog posts and a very cool design sensibility.
 **[Gordon's Tech](https://tech.kateva.org/)**  
 Gordon's Tech is tech related, and it's by John Gordon! Didn't see that coming, did ya?!  
 
+**[Grumpy Gamer](https://www.grumpygamer.com/)**  
+I'm not 100% sure what Grumpy Gamer is talking about all the time, but it's entertaining at the least.
+
 **[Harshil Shah](https://harshil.net/)**  
 I like Harshil Shah. I think everyone likes Harshil Shah. He created the excellent [Peak](https://sneakpeak.app) and [Pause](https://harshil.net/pause) apps, and more importantly, he brings light to the world.  
 
@@ -342,6 +345,9 @@ Robb Knight does beautiful web work. AND he's a nice human being! But what reall
 
 **[Rosemary Orchard](https://rosemaryorchard.com/)**  
 If you're into Apple platforms and automation, you've definitely heard of Rosemary Orchard. A tech wizard and creator of good ideas.  
+
+**[runtimeterror](https://runtimeterror.dev/)**  
+Love the name, love the topics.
 
 **[samwho](https://samwho.dev/)**
 What an amazing programming explainer blog! Sam has all kinds of interactive visualizations for clarifying programming concepts, and it's delightful.  
