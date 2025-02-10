@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-05T00:16:00-08:00"
+date: "2025-02-09T22:20:18-08:00"
 slug: "now"
 ---
 
@@ -9,20 +9,22 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [The Rebound – 531: Bananas Fact](https://overcast.fm/+De1m-RXSc)
-- Six Colors – Continuity Camera theories, Ebooks and DRM, and Apple results (6C Podcast)
-- The Race Members' Club 2025 – F1 Extra: Does F1 have a problem with tribal fan culture?
-- [楽しいラジオ「ドングリFM」 – 1151 小学館のウラ漫が面白い #マンガワン](https://overcast.fm/+9ABKE3hg4)
-- [Risky Bulletin – Risky Bulletin: Authorities seize the Cracked and Nulled cybercrime forums](https://overcast.fm/+5Sl9nZQdQ)
-- [Ctrl-Alt-Speech – This Episode has Masculine Energy](https://overcast.fm/+BHRYF0Uzgk)
-- [Judge John Hodgman – Cavy-at Emptor](https://overcast.fm/+YJM3iT000)
-- Tech Won't Save Us (Premium) – The Problem With Cyberlibertarianism w/ Chris Gilliard
-- [Accidental Tech Podcast: Unedited Live Stream – 624: Do Less Math in Computers](https://atp.fm/624)
+- The Race Members' Club 2025 – BBV10s S11 E7: Vettel stuns for ‘Minardi’ at Monza ‘08 (early access)
+- [Ctrl-Alt-Speech – Digital Oligarchs Gunning for Europe (DOGE)](https://overcast.fm/+BHRYEZMt1U)
+- [Whisky Whiskey – 25: Milk and Honey Classic](https://overcast.fm/+BLIhePXIRg)
+- [ctrl-alt-expletive – Episode 10: Career Changes and Coding Bootcamps, with Chris Hunter](https://overcast.fm/+BL4c1O528w)
+- The 404 Media Podcast (Premium Feed) – Subscriber Comment Show: Adtech and AI Music
+- [Blurring The Lines Podcast – Episode 222 – Free Internet](https://overcast.fm/+GsOmUZP-c)
+- Six Colors – Invites, hot tubs, report cards, and backdoors (6C Podcast)
+- The Race Members' Club 2025 – F1 Extra: We debate the drivers YOU think F1 should have taken more seriously
+- [Chit Chat Across the Pond – CCATP #808 — Jason Snell on The Magic Behind the Six Colors Charts](https://overcast.fm/+FcgLkMrXM)
+- [Risky Bulletin – Risky Bulletin: Browser extension supply chain attack hits AdsPower](https://overcast.fm/+5Sl_nS16o)
 
 ### Books
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*  
 
+[![Chasing Shadows Just started it... the story of Citizen Lab, the world's foremost digital watchdog. Liked It](../../assets/images/posts/ChasingShadowsReview-4dbe97f8-0347-4893-86d8-2d9da417e159.png)](/images/posts/ChasingShadowsReview-4dbe97f8-0347-4893-86d8-2d9da417e159.jpg)
 [![Fluke](../../assets/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 [![The Silo Series Collection](../../assets/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
@@ -36,8 +38,8 @@ slug: "now"
 
 ### TV Shows
 
-[![Mr Inbetween I'm up through SlE4 which is a rewatch for me. I haven't seen all 3 seasons so this will be a treat. Great show. Loved It!](../../assets/images/posts/MrInbetweenReview-36004387-1051-4a96-84e5-ed90784fbdab.png)](/images/posts/MrInbetweenReview-36004387-1051-4a96-84e5-ed90784fbdab.jpg)
-[![The Recruit](../../assets/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/The-Recruit-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
+[![Mr Inbetween 2018 Finished all 3 seasons, and apparently | *HAD* watched the whole thing. But it's good enough to watch again. And probably again. Great show! Loved It!](../../assets/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.png)](/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.jpg)
+[![The Recruit 2022 I'm on SlE6, and it's redeeming itself a bit. I'm OK with it. Still overly implausible, but fun. Liked It](../../assets/images/posts/TheRecruitReview-ef34ad0e-5a15-45f6-b7f4-540af194ee5d.png)](/images/posts/TheRecruitReview-ef34ad0e-5a15-45f6-b7f4-540af194ee5d.jpg)
 [![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
 [![Prime Target](../../assets/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Prime-Target-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 [![The Night Agent](../../assets/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/The-Night-Agent-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
