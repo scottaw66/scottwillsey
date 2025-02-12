@@ -447,7 +447,7 @@ a:hover {
   text-decoration-color: var(--brand);
 }
 
-a.image:hover {
+a.spotlight:hover {
   text-decoration: none;
 }
 
