@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-09T12:49:14-08:00"
+date: "2025-02-11T17:32:53-08:00"
 slug: "links"
 ---
 
@@ -70,7 +70,6 @@ slug: "links"
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
-- [LLMs Aren’t Just “Trained On the Internet” Anymore - Allen Pike](https://allenpike.com/2024/llms-trained-on-internet)
 - [Mark Zuckerberg’s rebrand is a master class in distraction](https://disconnect.blog/mark-zuckerbergs-rebrand-is-a-master-class-in-distraction/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
@@ -87,8 +86,6 @@ slug: "links"
 - [The cult cool of Japanese lifestyle magazines](https://www.ft.com/content/29518af6-0d3d-4f3a-970b-7fe968029daa)
 - [The Eternal Truth of Markdown | WIRED](https://www.wired.com/story/the-eternal-truth-of-markdown/)
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
-- [The Great American Microchip Mobilization | WIRED](https://www.wired.com/story/intel-great-american-microchip-mobilization/)
-- [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It | WIRED](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
 - [The Joy of Pachinko's Opening Credits - Pachinko Theme Song](https://www.townandcountrymag.com/leisure/arts-and-culture/a39538403/pachinko-opening-credits-theme-song/)
@@ -103,14 +100,13 @@ slug: "links"
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
-- [Using this hidden camera detector to feel safer in an Airbnb | Popular Science](https://www.popsci.com/sponsored-content/hidden-camera-detector-airbnb-sponsored-deal/)
 - [Walking the Great Kantō Quake of 1923 — Ridgeline issue 193](https://craigmod.com/ridgeline/193/)
 - [Weighing in on "Man or Bear" - BIKEPACKING.com](https://bikepacking.com/plog/man-or-bear-debate/)
 - [We only learnt of our son’s secret online life after he died at 25](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
 - [‘We Were Wrong’: An Oral History of WIRED’s Original Website | WIRED](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
 - [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
+- [What we talk about when we talk about computers - net.wars](https://netwars.pelicancrossing.net/2025/02/07/what-we-talk-about-when-we-talk-about-computers/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
-- [With four more years like 2023, carbon emissions will blow past 1.5° limit - Ars Technica](https://arstechnica.com/science/2024/10/with-four-more-years-like-2023-carbon-emissions-will-blow-past-1-5-limit/)
 
 ## Astro
 
@@ -367,6 +363,9 @@ I only just found Silvia Maggi's site, but as anyone can see by my site, I need 
 **[Stephanie Eckles – Front-End SWE, Author, Speaker](<https://thinkdobecreate.com/>)**  
 Stephanie Eckles is kind of amazing. She does a **ton** for CSS, web development, and positive encouragement and inclusivity through her writing and her videos. I think she's pretty well known and respected in the CSS world.  
 
+**[superdavey](https://superdavey.com/)**  
+You can't have a name like superdavey and not be cool.  
+
 **[Taggart Tech](https://taggart-tech.com/)**  
 A tech blog with a delightfully retro design.  
 
@@ -515,6 +514,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
 - [tildeverse](https://tildeverse.org/)
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
+- [Home | Unplatform](https://unplatform.fromthesuperhighway.com/)
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [White Noise](https://whitenoise.tiff.ws/)
