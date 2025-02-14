@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-11T17:32:53-08:00"
+date: "2025-02-14T10:39:26-08:00"
 slug: "now"
 ---
 
@@ -9,13 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- The Race Members' Club 2025 – BBV10s S11 E7: Vettel stuns for ‘Minardi’ at Monza ‘08 (early access)
-- [Ctrl-Alt-Speech – Digital Oligarchs Gunning for Europe (DOGE)](https://overcast.fm/+BHRYEZMt1U)
-- [Whisky Whiskey – 25: Milk and Honey Classic](https://overcast.fm/+BLIhePXIRg)
-- [ctrl-alt-expletive – Episode 10: Career Changes and Coding Bootcamps, with Chris Hunter](https://overcast.fm/+BL4c1O528w)
-- The 404 Media Podcast (Premium Feed) – Subscriber Comment Show: Adtech and AI Music
-- [Blurring The Lines Podcast – Episode 222 – Free Internet](https://overcast.fm/+GsOmUZP-c)
-- Six Colors – Invites, hot tubs, report cards, and backdoors (6C Podcast)
+- Six Colors – Apple Intelligence Take 2 (6C Podcast)
+- The Race Members' Club 2025 – BBV10s S11 E8: Panis’s sensational sole F1 win (early access)
+- The Race Members' Club 2025 – Why McLaren has gone ‘aggressive’ with 2025 F1 car (ad-free)
+- [Accidental Tech Podcast: Unedited Live Stream – 626: No Longer ery Good](https://atp.fm/626)
+- [The High Performance Podcast – Calum Nicholas on the ‘Real Max Verstappen’ & Lewis Hamilton’s F1 Legacy (E328)](https://overcast.fm/+qG21EZ1T0)
+- [Smashing Security – Podcast not found](https://overcast.fm/+SD4OQD_Ag)
+- [The Rebound – 533: His Name Is Milkshake Duck](https://overcast.fm/+De1n5SmuY)
+- [Risky Business – Risky Business #779 — DOGE staffer linked to The Com](https://overcast.fm/+It0hy6DE8)
+- The 404 Media Podcast (Premium Feed) – AI Is Breaking Our Brains
+- [F1: Beyond The Grid – Racing for Ferrari: Vettel, Prost + Mansell from the BTG Archive](https://overcast.fm/+Nv8ILP0tQ)
 
 ### Books
 
@@ -34,10 +37,10 @@ slug: "now"
 
 ### TV Shows
 
+[![Senna 2024 Senna's story is compelling but this series failed to capture Fl racing in a realistic way. Don't recommend for anyone who actually knows Fl or the Senna story already. Didn't Like It](../../assets/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.png)](/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.jpg)
 [![Surviving Black Hawk Down Everyone knows the Black Hawk Down story - here are some people who were there. A good documentary, with views from all sides. It was two terrible days that never should have happened. Loved It!](../../assets/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.png)](/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.jpg)
 [![Mr Inbetween 2018 Finished all 3 seasons, and apparently | *HAD* watched the whole thing. But it's good enough to watch again. And probably again. Great show! Loved It!](../../assets/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.png)](/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.jpg)
 [![The Recruit 2022 I'm on SlE6, and it's redeeming itself a bit. I'm OK with it. Still overly implausible, but fun. Liked It](../../assets/images/posts/TheRecruitReview-ef34ad0e-5a15-45f6-b7f4-540af194ee5d.png)](/images/posts/TheRecruitReview-ef34ad0e-5a15-45f6-b7f4-540af194ee5d.jpg)
-[![Severance S2E3](../../assets/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.png)](/images/posts/Severance-review-FBE1E42B-F59A-4761-82F3-BC55684D8110.jpg)
 
 ### Games
 
@@ -45,7 +48,5 @@ slug: "now"
 
 ### Food and Drink
 
-- [Cloudburst Brewing](https://cloudburstbrew.com/) Your Worst Nightmare Pumpkin Double Milk Stout
-- [Hetty Alice Beers](https://www.hettyalicebeers.com/)
-- [OYATSUPAN](https://www.oyatsupan.com/)
-- [CHEESE & CRACK SNACK SHOP](https://www.cheeseandcrack.com/)
+- [Baerlic Beer Co](https://www.baerlicbrewing.com/) Downlow Czech Dark Lager
+- [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
