@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-14T10:39:26-08:00"
+date: "2025-02-15T00:34:19-08:00"
 slug: "now"
 ---
 
@@ -30,10 +30,10 @@ slug: "now"
 
 ### Movies
 
+[![To Live and Die in L.A. 1985 • William Friedkin • Not as good as I remembered. Everyone in this is evil, or an idiot. I didn't buy the transformation of John Vukovich. He didn't earn it. Dafoe is stellar, of course. Decent](../../assets/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.png)](/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.jpg)
+[![The Princess Bride 1987 • Rob Reiner • A multiple rewatch, of course, but one of the greatest movies ever. So many classic lines and characters. Loved It!](../../assets/images/posts/ThePrincessBrideReview-be189bc8-20cc-44eb-b5c6-3a39d917defb.png)](/images/posts/ThePrincessBrideReview-be189bc8-20cc-44eb-b5c6-3a39d917defb.jpg)
 [![Small Things Like these](../../assets/images/posts/Small-Things-Like-These-review-B7EA41BD-78D5-4E3B-AAD4-BE16300AED91.png)](/images/posts/Small-Things-Like-These-review-B7EA41BD-78D5-4E3B-AAD4-BE16300AED91.jpg)
 [![Cold Blood](../../assets/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.png)](/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.jpg)
-[![Monkey Man](../../assets/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
-[![The Fall Guy](../../assets/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
 
 ### TV Shows
 
