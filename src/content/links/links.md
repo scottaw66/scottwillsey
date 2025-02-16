@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-11T17:32:53-08:00"
+date: "2025-02-16T11:37:39-08:00"
 slug: "links"
 ---
 
@@ -91,6 +91,7 @@ slug: "links"
 - [The Joy of Pachinko's Opening Credits - Pachinko Theme Song](https://www.townandcountrymag.com/leisure/arts-and-culture/a39538403/pachinko-opening-credits-theme-song/)
 - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
+- [The Red Pill Was Hijacked | Techdirt](https://www.techdirt.com/2025/02/11/the-red-pill-was-hijacked/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 - [The Thought Experiments That Fray the Fabric of Space-Time | Quanta Magazine](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 - [The UX of LEGO Interface Panels - Interaction Magic](https://interactionmagic.com/UX-LEGO-Interfaces/)
@@ -407,15 +408,16 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Fluke | Book by Brian Klaas | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Fluke/Brian-Klaas/9781668006528)
 - [The Galapagos and the Meaning of Life: A Young Woman’s Bittersweet Experiment in Inner Freedom – The Marginalian](https://www.themarginalian.org/2024/10/22/dore-strauch-floreana/)
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
-- [Image Performance, A Book Apart](https://abookapart.com/products/image-performance)
 - [Inventing the Future by John Buck | BooksBy](https://books.by/john-buck)
 - [macOS by Tutorials](https://sarahreichelt.gumroad.com/l/oximx)
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
+- [Silo (series) - Wikipedia](https://en.wikipedia.org/wiki/Silo_(series))
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
 
 ## Coffee
 
+- [AeroPress Coffee Makers](https://aeropress.com/)
 - [Alma Coffee ™ | Farmer Owned, Always Freshly Roasted](https://myalmacoffee.com/)
 - [Atomic Coffee Roasters](https://atomicroastery.com/)
 - [Backporch Coffee Roasters](https://www.backporchcoffeeroasters.com/)
@@ -423,14 +425,15 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Café Mam – Organic Fair Trade Shade-Grown Coffee](https://cafemam.com/)
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
+- [Kalita USA | Premium coffee brewing equipment](https://kalitausa.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
 - [Nightcap Decaf – Joe Coffee Company](https://joecoffeecompany.com/shop/nightcap-decaf/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Sterling Coffee Roasters](https://www.sterling.coffee/)
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
-- [Trade Coffee](https://www.drinktrade.com/)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
 - [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
+- [Wandering Goat Coffee Co.](https://wanderinggoat.com/)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
 ## Command Line, Linux, Unix, Networking
@@ -488,6 +491,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
+- [noclip](https://noclip.website/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
@@ -625,7 +629,6 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
 - [mierau/hotline: A modern Hotline client for Mac, iOS, and iPadOS](https://github.com/mierau/hotline)
 - [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
-- [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
 - [Raycast - Your shortcut to everything](https://www.raycast.com/)
@@ -673,21 +676,48 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Podcasts
 
+- [The 404 Media Podcast](https://www.404media.co/the-404-media-podcast/)
 - [Accidental Tech Podcast](https://atp.fm/)
 - [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
 - [Causality](https://engineered.network/causality/)
+- [Clear+Vivid with Alan Alda](https://clear-vivid-with-alan-alda.simplecast.com/)
+- [Compromising Positions Cybersecurity Podcast](https://www.compromisingpositions.co.uk/)
+- [Critical Assets Podcast — AMPYX CYBER](https://ampyxcyber.com/podcast)
+- [Ctrl-Alt-Speech: A Podcast About The Latest In Online Speech](https://ctrlaltspeech.com/)
+- [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com/)
+- [Decoder | The Verge](https://www.theverge.com/decoder-podcast-with-nilay-patel)
 - [Friends with Brews](https://friendswithbrews.com)
+- [Hacking Humans Podcast](https://thecyberwire.com/podcasts/hacking-humans)
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
+- [High Performance](https://www.thehighperformancepodcast.com/)
 - [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
 - [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
 - [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
-- [Longform Podcast](https://longform.org/podcast)
+- [Mac Admins Podcast – A podcast for Mac admins by Mac admins.](https://podcast.macadmins.org/)
+- [Mac Geek Gab Podcast](https://www.macgeekgab.com/)
+- [Malicious Life | Cybersecurity History Podcast](https://malicious.life/)
+- [Misreading Chat – CS の論文読んで話をしよう!](https://misreading.chat/)
+- [Mystery AI Hype Theater 3000 | DAIR](https://www.dair-institute.org/maiht3k/)
+- [Not Playing with Lex and Dan - a podcast from The Incomparable](https://www.theincomparable.com/notplaying/)
+- [P1 with Matt and Tommy | Stak](https://stak.london/shows/p1-with-matt-and-tommy/)
+- [Podfeet Podcasts](https://www.podfeet.com/blog/subscribe-to-the-podcasts/)
 - [Pragmatic](https://engineered.network/pragmatic/)
+- [Programming by Stealth](https://pbs.bartificer.net/)
+- [The Race Podcasts](https://www.the-race.com/podcasts/)
+- [Random but Memorable](https://randombutmemorable.simplecast.com/)
+- [The Rebound: A tech podcast](https://reboundcast.com/)
 - [Really Specific Stories](https://www.rsspod.net/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
+- [Risky Business - Risky Business](https://risky.biz/netcasts/risky-business/)
+- [Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren](https://sixcolors.com/)
+- [Smashing Security - News and views from the world of cybersecurity, hacking, and internet threats](https://www.smashingsecurity.com/)
+- [SYSTEM CRASH – A tech news podcast](https://systemcrash.info/)
+- [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/)
+- [Techdirt Podcast Editions | Techdirt](https://www.techdirt.com/edition/podcast/)
 - [Tech Won’t Save Us](https://www.techwontsave.us/)
-- [Upgrade - Relay FM](https://www.relay.fm/upgrade)
+- [The Vergecast Podcast | The Verge](https://www.theverge.com/the-vergecast)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
+- [Whisky Whiskey - YouTube](https://www.youtube.com/playlist?list=PLLNhKy4yME6d6FYOBRUIRwhLxLt-89i2n)
 
 ## Programming and Web Dev
 

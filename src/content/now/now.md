@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-15T00:34:19-08:00"
+date: "2025-02-16T11:37:39-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- Six Colors – Apple Intelligence Take 2 (6C Podcast)
-- The Race Members' Club 2025 – BBV10s S11 E8: Panis’s sensational sole F1 win (early access)
-- The Race Members' Club 2025 – Why McLaren has gone ‘aggressive’ with 2025 F1 car (ad-free)
-- [Accidental Tech Podcast: Unedited Live Stream – 626: No Longer ery Good](https://atp.fm/626)
-- [The High Performance Podcast – Calum Nicholas on the ‘Real Max Verstappen’ & Lewis Hamilton’s F1 Legacy (E328)](https://overcast.fm/+qG21EZ1T0)
-- [Smashing Security – Podcast not found](https://overcast.fm/+SD4OQD_Ag)
-- [The Rebound – 533: His Name Is Milkshake Duck](https://overcast.fm/+De1n5SmuY)
-- [Risky Business – Risky Business #779 — DOGE staffer linked to The Com](https://overcast.fm/+It0hy6DE8)
-- The 404 Media Podcast (Premium Feed) – AI Is Breaking Our Brains
-- [F1: Beyond The Grid – Racing for Ferrari: Vettel, Prost + Mansell from the BTG Archive](https://overcast.fm/+Nv8ILP0tQ)
+- [楽しいラジオ「ドングリFM」 – 1158 麻辣湯に何が起きたのか](https://overcast.fm/+9ABKE07GI)
+- [Friends with Brews – The Topic Tracking Tangent](https://overcast.fm/+9SHjZmLT8)
+- [The Vergecast – Elon Musk: agent of chaos](https://overcast.fm/+QN1qlgqIU)
+- [Whisky Whiskey – 29: Johnnie Walker Black Label Blended Scotch Whisky](https://overcast.fm/+BLIhdRu17A)
+- [Accidental Tech Podcast – 626: No Longer ery Good](https://atp.fm/626)
+- [Whisky Whiskey – 28: Johnnie Walker Red Label Blended Scotch Whisky](https://overcast.fm/+BLIhd19K6E)
+- [Under the Radar – 312: Our Changing Relationship with Apple](https://overcast.fm/+FgnabE4O4)
+- [Ctrl-Alt-Speech – Backdoors and Backsteps](https://overcast.fm/+BHRYGv5ptM)
+- [System Crash – Silicon Valley Enters Its Imperial Era](https://overcast.fm/+BL8c2HOVuQ)
+- The Race Members' Club 2025 – What Williams’s early car launch says about its 2025 prospects (ad-free)
 
 ### Books
 
