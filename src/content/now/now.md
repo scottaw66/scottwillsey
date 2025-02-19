@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-16T11:37:39-08:00"
+date: "2025-02-18T23:14:10-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [楽しいラジオ「ドングリFM」 – 1158 麻辣湯に何が起きたのか](https://overcast.fm/+9ABKE07GI)
-- [Friends with Brews – The Topic Tracking Tangent](https://overcast.fm/+9SHjZmLT8)
-- [The Vergecast – Elon Musk: agent of chaos](https://overcast.fm/+QN1qlgqIU)
-- [Whisky Whiskey – 29: Johnnie Walker Black Label Blended Scotch Whisky](https://overcast.fm/+BLIhdRu17A)
-- [Accidental Tech Podcast – 626: No Longer ery Good](https://atp.fm/626)
-- [Whisky Whiskey – 28: Johnnie Walker Red Label Blended Scotch Whisky](https://overcast.fm/+BLIhd19K6E)
-- [Under the Radar – 312: Our Changing Relationship with Apple](https://overcast.fm/+FgnabE4O4)
-- [Ctrl-Alt-Speech – Backdoors and Backsteps](https://overcast.fm/+BHRYGv5ptM)
-- [System Crash – Silicon Valley Enters Its Imperial Era](https://overcast.fm/+BL8c2HOVuQ)
-- The Race Members' Club 2025 – What Williams’s early car launch says about its 2025 prospects (ad-free)
+- [P1 with Matt and Tommy – Our reaction to F1 75 Live](https://overcast.fm/+_U3p7j80A)
+- Trashfuture Bonus Content Feed (Extremely Good) – We’re Going to Cherish It feat. Seamus Malekafzali
+- [Whisky Whiskey – 32: Johnnie Walker Green Label Blended Malt Scotch Whisky](https://overcast.fm/+BLIhfE91co)
+- The Race Members' Club 2025 – F1 Book Club: Karun Chandhok on his new F1 book for kids
+- [Think Fast Talk Smart: Communication Techniques – 186. Own Your Impact: How to Communicate Your Personal Power](https://overcast.fm/+BKgJT1O0cU)
+- [TRASHFUTURE – We’re Going to Cherish It feat. Seamus Malekafzali](https://overcast.fm/+0MYuRTits)
+- [TRASHFUTURE – Worst Case Scenario ft. Nathan Tankus](https://overcast.fm/+0MYtHJzEg)
+- [The High Performance Podcast – Alistair Brownlee: ‘Pushing to Blackout’ and What Made Me Retire from Triathlon (E329)](https://overcast.fm/+qG20hCxuA)
+- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – From Power Failures to Plex: Tech Tips Galore](https://overcast.fm/+6TZ8ZvzZA)
+- [Risky Bulletin – Srsly Risky Biz: Governments are losing the crypto wars](https://overcast.fm/+5Sl-DfYvM)
 
 ### Books
 
@@ -37,16 +37,13 @@ slug: "now"
 
 ### TV Shows
 
+[![Vietnam: The War That Changed America 2025 Overall, very well done - depressing, uplifting, maddening, inspiring, and insightful either way. I think some of the things chosen to focus on were a bit off, but mostly they nailed it. Liked It](../../assets/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.png)](/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.jpg)
 [![Senna 2024 Senna's story is compelling but this series failed to capture Fl racing in a realistic way. Don't recommend for anyone who actually knows Fl or the Senna story already. Didn't Like It](../../assets/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.png)](/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.jpg)
 [![Surviving Black Hawk Down Everyone knows the Black Hawk Down story - here are some people who were there. A good documentary, with views from all sides. It was two terrible days that never should have happened. Loved It!](../../assets/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.png)](/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.jpg)
 [![Mr Inbetween 2018 Finished all 3 seasons, and apparently | *HAD* watched the whole thing. But it's good enough to watch again. And probably again. Great show! Loved It!](../../assets/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.png)](/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.jpg)
-[![The Recruit 2022 I'm on SlE6, and it's redeeming itself a bit. I'm OK with it. Still overly implausible, but fun. Liked It](../../assets/images/posts/TheRecruitReview-ef34ad0e-5a15-45f6-b7f4-540af194ee5d.png)](/images/posts/TheRecruitReview-ef34ad0e-5a15-45f6-b7f4-540af194ee5d.jpg)
-
-### Games
-
-[![Baldur's Gate 3](../../assets/images/posts/Baldur’s-Gate-3-review-1A31427B-1F9C-4CE7-BF17-FA4B86910DEB.png)](/images/posts/Baldur’s-Gate-3-review-1A31427B-1F9C-4CE7-BF17-FA4B86910DEB.jpg)
 
 ### Food and Drink
 
+- [Wayfinder Beer](https://www.wayfinder.beer/) LA MAGIE - FRENCH PILSNER
 - [Baerlic Beer Co](https://www.baerlicbrewing.com/) Downlow Czech Dark Lager
 - [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
