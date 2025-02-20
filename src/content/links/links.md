@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-16T11:37:39-08:00"
+date: "2025-02-19T22:44:18-08:00"
 slug: "links"
 ---
 
@@ -483,6 +483,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [HTMHell](https://www.htmhell.dev)
 - [HTML for People](https://htmlforpeople.com/)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
+- [IS IT DNS?](https://isitdns.com/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Lex.Games](https://lex.games)
@@ -715,6 +716,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/)
 - [Techdirt Podcast Editions | Techdirt](https://www.techdirt.com/edition/podcast/)
 - [Tech Won’t Save Us](https://www.techwontsave.us/)
+- [Trashfuture](https://trashfuture.co.uk/)
 - [The Vergecast Podcast | The Verge](https://www.theverge.com/the-vergecast)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 - [Whisky Whiskey - YouTube](https://www.youtube.com/playlist?list=PLLNhKy4yME6d6FYOBRUIRwhLxLt-89i2n)
