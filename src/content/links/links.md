@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-19T22:44:18-08:00"
+date: "2025-02-20T20:46:18-08:00"
 slug: "links"
 ---
 
@@ -50,16 +50,20 @@ slug: "links"
 - [5 Reasons To Move To Tokyo's Exciting Eastside | Tokyo Cheapo](https://tokyocheapo.com/living/east-tokyo/)
 - [6 of the Coolest Rest Stops in the U.S. | The Discoverer](https://www.thediscoverer.com/blog/6-of-the-coolest-rest-stops-in-the-u-s/ZEa06xG9cAAI0Drq)
 - [8 Google Employees Invented Modern AI. Here’s the Inside Story | WIRED](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
+- [A brief history of logs and Console – The Eclectic Light Company](https://eclecticlight.co/2024/12/21/a-brief-history-of-logs-and-console/)
+- [A candy engineer explains the science behind the Snickers bar - Ars Technica](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/#gsc.tab=0)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
+- [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
-- [Down the Rabbithole: An intro to making photorealistic AI photos in 2024 | The Cleverest](https://thecleverest.com/down-the-rabbithole-an-intro-to-making-photorealistic-ai-photos-in-2024/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [Here’s some cool stuff you can do with Bluesky - The Verge](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to?ref=hiro.report)
 - [Here’s the paper no one read before declaring the demise of modern cryptography - Ars Technica](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/#gsc.tab=0)
+- [Honda’s on a Roll Reviving Retro Mini-Motorcycle Designs](https://www.thedrive.com/news/hondas-on-a-roll-reviving-retro-mini-motorcycle-designs)
 - [How an Atkinson Cycle Engine Works | HowStuffWorks](https://auto.howstuffworks.com/atkinson-cycle-engine.htm)
+- [How Does the Milky Way Compare to Other Galaxies? - Universe Today](https://www.universetoday.com/168742/how-does-the-milky-way-compare-to-other-galaxies/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
 - [How to Get Started on Bluesky | WIRED](https://www.wired.com/story/how-to-get-started-on-bluesky/)
@@ -70,11 +74,11 @@ slug: "links"
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
-- [Mark Zuckerberg’s rebrand is a master class in distraction](https://disconnect.blog/mark-zuckerbergs-rebrand-is-a-master-class-in-distraction/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
@@ -89,7 +93,6 @@ slug: "links"
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
 - [The Joy of Pachinko's Opening Credits - Pachinko Theme Song](https://www.townandcountrymag.com/leisure/arts-and-culture/a39538403/pachinko-opening-credits-theme-song/)
-- [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The Red Pill Was Hijacked | Techdirt](https://www.techdirt.com/2025/02/11/the-red-pill-was-hijacked/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
@@ -118,11 +121,13 @@ slug: "links"
 
 ## Beer
 
+- [Baerlic Beer Co](https://www.baerlicbrewing.com/) Downlow Czech Dark Lager
 - [BinaryBrewing.co](https://binarybrewing.co/beers)
 - [Blueberry Boyfriend | Prairie Artisan Ales](https://prairieales.com/beer/blueberry-boyfriend/)
 - [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Honey Kolsch – Rogue](https://www.rogue.com/shop/beer/core/honey-kolsch/)
+- [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
 - [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
 - [Peanut Butter Milk Stout – Belching Beaver Landing - Beer](https://belchingbeaver.com/san-diego-belching-beaver-landing-beer)
 - [Salted Caramel Porter – Beers — Cascade Lakes](https://www.cascadelakes.com/beers)
@@ -404,6 +409,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Crypto: How the Code Rebels Beat the Government, Saving Privacy in the Digital Age — Steven Levy](https://www.stevenlevy.com/crypto)
 - [Custodians of Wonder: Ancient Customs, Profound Traditions, and the Last People Keeping Them Alive a book by Eliot Stein](https://bookshop.org/p/books/custodians-of-wonder-our-world-s-rarest-cultural-marvels-and-the-last-people-keeping-them-alive-eliot-stein/20981819)
 - [The Diamond Age by Neal Stephenson: 9780553380965 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/172835/the-diamond-age-by-neal-stephenson/9780553380965/)
+- [Doomsday Book by Connie Willis: 9780593724330 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/191580/doomsday-book-by-connie-willis/)
 - [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 - [Fluke | Book by Brian Klaas | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Fluke/Brian-Klaas/9781668006528)
 - [The Galapagos and the Meaning of Life: A Young Woman’s Bittersweet Experiment in Inner Freedom – The Marginalian](https://www.themarginalian.org/2024/10/22/dore-strauch-floreana/)
@@ -414,6 +420,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
 - [Silo (series) - Wikipedia](https://en.wikipedia.org/wiki/Silo_(series))
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
+- [Tracers in the Dark by Andy Greenberg: 9780593315613 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/690603/tracers-in-the-dark-by-andy-greenberg/)
 
 ## Coffee
 
@@ -532,12 +539,14 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## FOOD
 
+- [ABV Public House - Hillsboro, OR](https://abvpub.com/)
 - [BroderPDX | Valkommen](https://www.broderpdx.com/)
 - [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
 - [Hapa Pizza](https://www.hapapizza.com/)
 - [KOREANA RESTAURANT](https://www.yelp.com/biz/koreana-restaurant-beaverton)
 - [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/)
 - [OYATSUPAN](https://www.oyatsupan.com/)
+- [Pine State Biscuits](https://pinestatebiscuits.com/)
 - [ramen-ryoma](https://www.ramenryoma.net/)
 - [Salt & Straw | Craft Made, Curiously Delicious Ice Cream](https://saltandstraw.com/)
 - [Syun Izakaya](https://www.syunhillsboro.com/)
@@ -593,12 +602,12 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
 - [Advanced use cases | 1Password Developer](https://developer.1password.com/docs/ssh/agent/advanced/#ssh-server-six-key-limit)
+- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Apparency | Mothers Ruin Software](https://www.mothersruin.com/software/Apparency/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
-- [Bartender controversy, tutorial on how to manage menubar status items via BTT - Tutorials - BetterTouchTool Community](https://community.folivora.ai/t/bartender-controversy-tutorial-on-how-to-manage-menubar-status-items-via-btt/37429)
 - [Bear](https://bear.app/)
 - [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
 - [Carbon Copy Cloner | macOS Backup Software | Bombich Software](https://bombich.com/)
@@ -613,18 +622,16 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
 - [Ghostty](https://ghostty.org/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
-- [GoodLinks — Save. Read. Anywhere.](https://goodlinks.app/)
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
 - [Hookmark – Links beat searching](https://hookproductivity.com/)
-- [How to fix Mac menu bar icons hidden by the MacBook notch · Jesse Squires](https://www.jessesquires.com/blog/2023/12/16/macbook-notch-and-menu-bar-fixes/)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
+- [Ice - Menu Bar Manager](https://icemenubar.app/)
 - [Insert the Current Date with a Keyboard Shortcut | AlanHogan.com](https://alanhogan.com/tips/insert-current-date-with-keyboard-shortcut)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
 - [The low-tech guys](https://lowtechguys.com/)
 - [A launchd Tutorial](https://www.launchd.info/)
 - [Louie Mantia's Icons](https://lmnt.me/blog/icons/)
-- [Lunar - The defacto app for controlling monitor brightness](https://lunar.fyi/?source=lowtechguys)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
@@ -647,11 +654,9 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
-- [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 - [UTM | Virtual machines for Mac](https://mac.getutm.app/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
-- [Whisky - Run Modern Windows Games on macOS](https://getwhisky.app/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
 
 ## Newsletters
