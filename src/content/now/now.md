@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-18T23:14:10-08:00"
+date: "2025-02-21T21:05:42-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [P1 with Matt and Tommy – Our reaction to F1 75 Live](https://overcast.fm/+_U3p7j80A)
-- Trashfuture Bonus Content Feed (Extremely Good) – We’re Going to Cherish It feat. Seamus Malekafzali
-- [Whisky Whiskey – 32: Johnnie Walker Green Label Blended Malt Scotch Whisky](https://overcast.fm/+BLIhfE91co)
-- The Race Members' Club 2025 – F1 Book Club: Karun Chandhok on his new F1 book for kids
-- [Think Fast Talk Smart: Communication Techniques – 186. Own Your Impact: How to Communicate Your Personal Power](https://overcast.fm/+BKgJT1O0cU)
-- [TRASHFUTURE – We’re Going to Cherish It feat. Seamus Malekafzali](https://overcast.fm/+0MYuRTits)
-- [TRASHFUTURE – Worst Case Scenario ft. Nathan Tankus](https://overcast.fm/+0MYtHJzEg)
-- [The High Performance Podcast – Alistair Brownlee: ‘Pushing to Blackout’ and What Made Me Retire from Triathlon (E329)](https://overcast.fm/+qG20hCxuA)
-- [Mac Geek Gab — Your Questions Answered, Tips Shared, Troubleshooting Assistance – From Power Failures to Plex: Tech Tips Galore](https://overcast.fm/+6TZ8ZvzZA)
-- [Risky Bulletin – Srsly Risky Biz: Governments are losing the crypto wars](https://overcast.fm/+5Sl-DfYvM)
+- [The Incomparable Mothership – 755: Is This… Dystopian?](https://overcast.fm/+kMY9_LmM)
+- Six Colors – The iPhone 16e arrives (6C Podcast)
+- The Race Members' Club 2025 – NEW - The Team Principal Podcast: How to integrate a new driver into an F1 team (early access)
+- [TRASHFUTURE – *PREVIEW* Reversed Stomach Syndrome ft. Nina Eichacker](https://overcast.fm/+0MYvvrDG8)
+- [Risky Business – Wide World of Cyber: DeepSeek lobs an AI hand grenade](https://overcast.fm/+It0gcpQzo)
+- [Accidental Tech Podcast – 627: Dragged Across the Line](https://atp.fm/627)
+- [P1 with Matt and Tommy – Our 2025 F1 livery ratings](https://overcast.fm/+_U3q5CTdk)
+- [Smashing Security – A crypto con exchange, and soaring ticket scams](https://overcast.fm/+SD4OkHuGE)
+- The Race Members' Club 2025 – Ferrari launches its 2025 car - but will it be a winner? (ad-free)
+- [The Rebound – 534: Suffer Socks™](https://overcast.fm/+De1lbTPaY)
 
 ### Books
 

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-20T20:46:18-08:00"
+date: "2025-02-21T21:05:42-08:00"
 slug: "links"
 ---
 
@@ -518,6 +518,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- [Terrible Captchas](https://terrible-captchas.vercel.app/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [The Pudding](https://pudding.cool/)
 - [The Scroll Art Museum](https://scrollart.org/)
