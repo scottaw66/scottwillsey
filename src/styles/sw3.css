@@ -8,11 +8,11 @@ html {
   --accent-green-darker-light: rgb(5, 88, 0);
   --accent-blue-light: rgb(0, 92, 222);
   --accent-purple-light: rgb(106, 0, 212);
-  --accent-orange-darker-light: #f85903;
-  --accent-orange-light: rgb(254, 214, 105);
+  --accent-orange-darker-light: #dd4d00;
+  --accent-orange-light: rgb(255, 166, 0);
   --accent-pink-darker-light: rgb(245, 85, 202);
   --accent-red-light: rgb(230, 0, 0);
-  --accent-yellow-light: rgb(212, 205, 0);
+  --accent-yellow-light: var(--accent-blue-light);
   --accent-white-light: rgb(48, 49, 52);
   --dates-light: var(--accent-purple-light);
   --title-light: #3b00df;
@@ -89,7 +89,7 @@ html {
   --accent-orange-hypercritical: #bc8100;
   --accent-pink-darker-hypercritical: rgb(152, 7, 70);
   --accent-red-hypercritical: rgb(192, 0, 0);
-  --accent-yellow-hypercritical: rgb(253, 253, 186);
+  --accent-yellow-hypercritical: rgb(0, 81, 255);
   --accent-white-hypercritical: rgb(42, 42, 42);
   --dates-hypercritical: var(--accent-orange-hypercritical-dark);
   --title-hypercritical: var(#000dbd);
@@ -276,6 +276,7 @@ html {
   --accent-purple: var(--accent-purple-hypercritical);
   --accent-orange-darker: var(--accent-orange-darker-hypercritical);
   --accent-orange: var(--accent-orange-hypercritical);
+  --accent-orange-light: var(--accent-orange-darker-light);
   --accent-pink-darker: var(--accent-pink-darker-hypercritical);
   --accent-red: var(--accent-red-hypercritical);
   --accent-yellow: var(--accent-yellow-hypercritical);
