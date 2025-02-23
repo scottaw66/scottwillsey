@@ -4,6 +4,15 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+
+### 2025-02-23
+
+Adds dedicated [Reviews](/reviews) page, and adds menu links to it and to [/now](/now).
+
+### 2025-02-02
+
+Reviews on [/now](/now) page now use images from [Quick Reviews](https://quickreviews.app/).
+
 ### 2024-12-29
 
 Upgrades to Astro 5 Content Layer API (replacing legacy Content Collections API)
