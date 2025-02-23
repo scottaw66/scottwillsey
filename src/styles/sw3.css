@@ -46,6 +46,7 @@ html {
   --accent-green-darker-dark: rgb(96, 243, 88);
   --accent-blue-dark: rgb(151, 226, 255);
   --accent-purple-dark: rgb(193, 136, 249);
+  --accent-orange-light-dark: var(--brand-dark);
   --accent-orange-darker-dark: #de9351;
   --accent-orange-dark: #f3ca73;
   --accent-pink-darker-dark: rgb(252, 126, 180);
@@ -165,6 +166,7 @@ html {
   --accent-purple: var(--accent-purple-light);
   --accent-orange-darker: var(--accent-orange-darker-light);
   --accent-orange: var(--accent-orange-light);
+  --accent-orange-light: var(--accent-orange-hypercritical);
   --accent-pink-darker: var(--accent-pink-darker-light);
   --accent-red: var(--accent-red-light);
   --accent-yellow: var(--accent-yellow-light);
