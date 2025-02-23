@@ -62,6 +62,19 @@ const linksCollection = defineCollection({
   }),
 });
 
+const reviewsCollection = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/reviews" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+  }),
+});
+
 const usesCollection = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/uses" }),
   schema: z.object({
@@ -93,6 +106,7 @@ export const collections = {
   posts: postCollection,
   changelog: changeCollection,
   links: linksCollection,
+  reviews: reviewsCollection,
   now: nowCollection,
   reads: readsCollection,
   uses: usesCollection,

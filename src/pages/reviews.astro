@@ -1,0 +1,47 @@
+---
+import { getEntry, render } from "astro:content";
+import Base from "../layouts/Base.astro";
+import { modifieddate } from "../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
+
+const reviews = await getEntry("reviews", "reviews");
+const { Content } = await render(reviews);
+
+let title = reviews.data.title;
+let description = reviews.data.description;
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>{title}</h1>
+    <p class="now">
+      Reviews of things I've watched, read, or played. Thanks to <a
+        href="https://quickreviews.app">Quick Reviews</a
+      > by <a href="https://isfeeling.social/@matt#.">Matt Birchler</a>!
+    </p>
+    <div class="time">
+      <CalendarFillIcon />
+      <time datetime={reviews.data.date}>
+        <a href={`/${reviews.id}`}
+          >Last updated {modifieddate(reviews.data.date)}</a
+        >
+      </time>
+    </div>
+    <div class="now">
+      <Content />
+    </div>
+  </article>
+</Base>
+
+<style>
+  h4 {
+    font-style: italic;
+  }
+  div.time,
+  div.time a {
+    font-size: 0.8em;
+  }
+  div.time {
+    margin-top: 2.5rem;
+  }
+</style>
