@@ -7,10 +7,6 @@ slug: "reviews"
 
 ### Books
 
-*Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*  
-
-[![Chasing Shadows • Just started it... the story of Citizen Lab, the world's foremost digital watchdog. • Liked It](../../assets/images/posts/ChasingShadowsReview-4dbe97f8-0347-4893-86d8-2d9da417e159.png)](/images/posts/ChasingShadowsReview-4dbe97f8-0347-4893-86d8-2d9da417e159.jpg)
-[![Fluke • Just started it, but it's both intellectually interesting and a nice counterpoint to the religion of determinism. • Loved It!](../../assets/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 [![The Silo Series Collection • One of the best dystopian series ever written. Kind of hard to read in early 2025 though. • Loved It!](../../assets/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
 ### Movies
