@@ -8,6 +8,9 @@ slug: "reviews"
 ### Books
 
 [![The Silo Series Collection • One of the best dystopian series ever written. Kind of hard to read in early 2025 though. • Loved It!](../../assets/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Silo-Series-Collection-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
+[![Dark Wire • Joseph Cox • Joseph Cox is a great security beat journalist, and this story is wild enough already. Sometimes I think the FBI just does stuff because they can and can secretly have fun doing it. Loved It!](../../assets/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.png)](/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.jpg)
+[![Tracers in the Dark • Andy Greenberg • Truly anonymous finance is the wet dream of the libertarian crypto bros, but it's a lie. Turns out logging everything is actually just like logging everything. Tons of wild and wacky fun. Loved It!](../../assets/images/posts/PngImage4Bb4B153Ff0-review-3a9aa495-7f1a-4e22-958c-8d35ad1090d5.png)](/images/posts/PngImage4Bb4B153Ff0-review-3a9aa495-7f1a-4e22-958c-8d35ad1090d5.jpg)
+[![The Ministry for the Future • Kim Stanley Robinson • I enjoyed this book when I read it, because they captured the climate change disaster headed our way. What they didn't foresee, however, is just how insane governments all over the world would go before we even get that far. Not dystopian enough after all. Liked It](../../assets/images/posts/PngImage4F579D31240-review-7451bed2-59af-4d84-9a7c-66aee2e710cc.png)](/images/posts/PngImage4F579D31240-review-7451bed2-59af-4d84-9a7c-66aee2e710cc.jpg)
 
 ### Movies
 
