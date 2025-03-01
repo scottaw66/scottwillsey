@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-23T09:44:28-08:00"
+date: "2025-02-28T23:23:01-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [The Incomparable Mothership – 755: Is This… Dystopian?](https://overcast.fm/+kMY9_LmM)
-- Six Colors – The iPhone 16e arrives (6C Podcast)
-- The Race Members' Club 2025 – NEW - The Team Principal Podcast: How to integrate a new driver into an F1 team (early access)
-- [TRASHFUTURE – *PREVIEW* Reversed Stomach Syndrome ft. Nina Eichacker](https://overcast.fm/+0MYvvrDG8)
-- [Risky Business – Wide World of Cyber: DeepSeek lobs an AI hand grenade](https://overcast.fm/+It0gcpQzo)
-- [Accidental Tech Podcast – 627: Dragged Across the Line](https://atp.fm/627)
-- [P1 with Matt and Tommy – Our 2025 F1 livery ratings](https://overcast.fm/+_U3q5CTdk)
-- [Smashing Security – A crypto con exchange, and soaring ticket scams](https://overcast.fm/+SD4OkHuGE)
-- The Race Members' Club 2025 – Ferrari launches its 2025 car - but will it be a winner? (ad-free)
-- [The Rebound – 534: Suffer Socks™](https://overcast.fm/+De1lbTPaY)
+- The Race Members' Club 2025 – Testing Day 3: What’s the pecking order heading to Australia - and are Red Bull in trouble? (ad-free)
+- [Tech Won't Save Us – Protesting Tesla Can Hurt Elon Musk w/ Ed Niedermeyer](https://techwontsave.us/episode/265_protesting_tesla_can_hurt_elon_musk_w_ed_niedermeyer)
+- [The High Performance Podcast – What’s the Mindset Behind Golden Moments? With Jessica Ennis-Hill (and Nicola Adams)](https://overcast.fm/+qG22Cu1vw)
+- [Risky Bulletin – Risky Bulletin: Cellebrite fires Serbia as a customer](https://overcast.fm/+5Sl91lrB4)
+- [P1 with Matt and Tommy – F1 Testing 2025 – Day Two](https://overcast.fm/+_U3rg7L2g)
+- [Risky Bulletin – Srsly Risky Biz: Canada’s expulsion from Five Eyes would be a disaster](https://overcast.fm/+5Sl-lt6Io)
+- The Race Members' Club 2025 – Testing Day 2: Sainz’s speed, Hamilton’s progress & Norris’s promising race pace (ad-free)
+- [Accidental Tech Podcast 628: There’s a Certain Smell](https://atp.fm/628)
+- The Race Members' Club 2025 – Testing Day 1: Advantage McLaren? Our first thoughts on every car (ad-free)
+- [Judge John Hodgman – Gulpable Negligence](https://overcast.fm/+YJM0o8M8Q)
 
 ### Books
 
@@ -45,6 +45,6 @@ slug: "now"
 
 ### Food and Drink
 
+- [Sisters Coffee Company](https://sisterscoffee.com/)
 - [Fair Trade Organic Bolivian Blend | Trader Joe's](https://www.traderjoes.com/home/products/pdp/fair-trade-organic-bolivian-blend-074367)
 - [Wayfinder Beer](https://www.wayfinder.beer/) LA MAGIE - FRENCH PILSNER
-- [Baerlic Beer Co](https://www.baerlicbrewing.com/) Downlow Czech Dark Lager

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-21T21:05:42-08:00"
+date: "2025-02-28T23:23:01-08:00"
 slug: "links"
 ---
 
@@ -14,6 +14,7 @@ slug: "links"
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Raycast AI](https://manual.raycast.com/ai)
+- [Raycast AI Extensions](https://manual.raycast.com/ai-extensions)
 - [sigoden/aichat: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.](https://github.com/sigoden/aichat)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
@@ -476,6 +477,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
+- [Calculating Empires](https://calculatingempires.net/)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
@@ -786,6 +788,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 
 ## Raycast
 
+- [AI Extensions](https://manual.raycast.com/ai-extensions)
 - [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
