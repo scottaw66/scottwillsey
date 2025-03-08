@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-02-28T23:23:01-08:00"
+date: "2025-03-07T22:28:47-08:00"
 slug: "links"
 ---
 
@@ -471,6 +471,7 @@ The title of this blog means four and a half tatami mats, which is a small room 
 - [#whiteboardtheweb](https://wtw.dev/)
 - [&udm=14 | the disenshittification Konami code](https://udm14.com/)
 - [1800WWW.COM — Play'in on the web...first and last in a series](https://1800www.com/)
+- [1Crossword: crosswords for your password manager · eieio.games](https://eieio.games/blog/1Crossword/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)

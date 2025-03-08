@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-02-28T23:23:01-08:00"
+date: "2025-03-07T22:28:47-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- The Race Members' Club 2025 – Testing Day 3: What’s the pecking order heading to Australia - and are Red Bull in trouble? (ad-free)
-- [Tech Won't Save Us – Protesting Tesla Can Hurt Elon Musk w/ Ed Niedermeyer](https://techwontsave.us/episode/265_protesting_tesla_can_hurt_elon_musk_w_ed_niedermeyer)
-- [The High Performance Podcast – What’s the Mindset Behind Golden Moments? With Jessica Ennis-Hill (and Nicola Adams)](https://overcast.fm/+qG22Cu1vw)
-- [Risky Bulletin – Risky Bulletin: Cellebrite fires Serbia as a customer](https://overcast.fm/+5Sl91lrB4)
-- [P1 with Matt and Tommy – F1 Testing 2025 – Day Two](https://overcast.fm/+_U3rg7L2g)
-- [Risky Bulletin – Srsly Risky Biz: Canada’s expulsion from Five Eyes would be a disaster](https://overcast.fm/+5Sl-lt6Io)
-- The Race Members' Club 2025 – Testing Day 2: Sainz’s speed, Hamilton’s progress & Norris’s promising race pace (ad-free)
-- [Accidental Tech Podcast 628: There’s a Certain Smell](https://atp.fm/628)
-- The Race Members' Club 2025 – Testing Day 1: Advantage McLaren? Our first thoughts on every car (ad-free)
-- [Judge John Hodgman – Gulpable Negligence](https://overcast.fm/+YJM0o8M8Q)
+- [Blurring The Lines Podcast – Episode 224 – The Love of Money Game](https://overcast.fm/+GsOkupAH4)
+- The Race Members' Club 2025 – F1 Book Club: Exploring Hamilton’s off-track influence in ‘Sir Lewis’
+- The Race Members' Club 2025 – Why Aston’s at odds with Ferrari, flexi wing row latest, and Raikkonen’s engineer on testing (ad-free)
+- [Tech Won't Save Us – The UK’s Misguided Embrace of AI Hype w/ James Meadway](https://techwontsave.us/episode/266_the_uks_misguided_embrace_of_ai_hype_w_james_meadway)
+- [Decoder with Nilay Patel – Flying is still safe, for now — but the FAA isn’t](https://overcast.fm/+QLdvOBFh8)
+- [Risky Bulletin – Srsly Risky Biz: Starlink an internet lifeline for pig butchering compounds](https://overcast.fm/+5Sl-NvOVA)
+- [Smashing Security – HP’s hold music, and human trafficking](https://overcast.fm/+SD4OQg8qo)
+- [P1 with Matt and Tommy – P1 | 2025 Trailer](https://overcast.fm/+_U3ow3tsE)
+- [The Rebound – 536: It’s Fun To Complain](https://overcast.fm/+De1kf3tzc)
+- The 404 Media Podcast (Premium Feed) – The Tesla Protests Come for Cybertruck Owners
 
 ### Books
 
@@ -45,6 +45,7 @@ slug: "now"
 
 ### Food and Drink
 
+- [Syun Izakaya](https://www.syunhillsboro.com/#21)
 - [Sisters Coffee Company](https://sisterscoffee.com/)
 - [Fair Trade Organic Bolivian Blend | Trader Joe's](https://www.traderjoes.com/home/products/pdp/fair-trade-organic-bolivian-blend-074367)
 - [Wayfinder Beer](https://www.wayfinder.beer/) LA MAGIE - FRENCH PILSNER
