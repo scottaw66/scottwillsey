@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-03-07T22:28:47-08:00"
+date: "2025-03-08T23:48:47-08:00"
 slug: "links"
 ---
 
@@ -75,6 +75,7 @@ slug: "links"
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
+- [Lumon Industries WoeMeter | make3](https://make3.co/work/woemeter)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
@@ -176,13 +177,7 @@ Cassidy Williams does great work in the web world. She's a great web advocate.
 Cassie Evans has some amazing design sensibility, and she's one of the people putting the fun back into the web in a delightful way.  
 
 **[Chamline](https://www.chamline.net/)**  
-Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him.  
-
-**[CodeMacLife](https://codemaclife.com/)**  
-I don't really know much about Mark except that I stumbled across his blog and found it interesting. The title should tell you he's into the Apple ecosphere.  
-
-**[Cole's Blog](https://coleb.blog/)**  
-I like people who blog because they love to, results be damned!  
+Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him.
 
 **[Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/)**  
 Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be.  
@@ -199,7 +194,7 @@ Lots of gaming stuff here which is pretty cool.
 **[davidnelson.net](https://davidnelson.net/)**  
 David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed adult who I greatly enjoy talking with.  
 
-**[The Dent ·](https://acn.lol/)**  
+**[The Dent ·](https://thedent.net/)**  
 Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized Podcast for a time? He was, but don't hold that against him - go read what he says about tech!  
 
 **[The Eclectic Light Company – Macs, painting, and more](https://eclecticlight.co/)**  
@@ -313,9 +308,6 @@ Mac, web, and probably some FOSS stuff.
 **[net.wars - computers, freedom, and privacy](https://netwars.pelicancrossing.net/)**  
 Wendy Grossman writes about computers, freedom, and privacy.  
 
-**[nico’s blog · Why store your 2FA in your password manager](https://cropp.blog/)**  
-I knew this was an omg.lol guy as soon as I saw the site. 😄 I really like the design and readability here.  
-
 **[Notes · Matthias Ott – User Experience Designer](https://matthiasott.com/notes)**  
 Web, Mac, and more.  
 
@@ -334,9 +326,6 @@ Nick Heer's blog. I just stumbled across this tonight myself. Very much tech rel
 **[Home | Rach Smith's digital garden](https://rachsmith.com/)**  
 The modern web is beautiful. Rach Smith's site is part of why.  
 
-**[Realmac Dan - Realmac Dan](https://realmacdan.com/)**  
-What? Realmac Dan? **THE** [Realmac](https://www.realmacsoftware.com)?  
-
 **[Rebecca Owen](https://beccais.online/)**  
 I don't know Rebecca Owen, but I really like her site, and she's got a now page, so she must be ok. 😄  
 
@@ -345,9 +334,6 @@ Riccardo seems like a very serious blogger, and I don't mean that in a bad way. 
 
 **[Robb Knight](https://rknight.me/)**  
 Robb Knight does beautiful web work. AND he's a nice human being! But what really makes him stand out is his amazing [App Defaults](https://defaults.rknight.me/) page.  
-
-**[Rosemary Orchard](https://rosemaryorchard.com/)**  
-If you're into Apple platforms and automation, you've definitely heard of Rosemary Orchard. A tech wizard and creator of good ideas.  
 
 **[runtimeterror](https://runtimeterror.dev/)**  
 Love the name, love the topics.
@@ -382,9 +368,6 @@ John Chidgey is an engineer first and foremost, and a podcaster and writer addit
 **[...tiff is typing](https://www.tiffwhite.me/)**  
 Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
 
-**[unixsheikh.com](https://unixsheikh.com/)**  
-Unix, linux, open source.  
-
 **[Waxy.org - Andy Baio lives here](https://waxy.org/)**  
 I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his blog until recently.  
 
@@ -398,10 +381,7 @@ It's not a blog, it's not a roll, it's a BLOGROLL!!!
 The blog is currently a lot about web programming, but there's all kinds of other stuff on this site too, and I really love the unique design.  
 
 **[Your Intermittent Lex](https://lexfriedman.com/newsletter/)**  
-Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](https://lex.games/)!  
-
-**[四畳半のへや](https://blog.moeyua.com/)**  
-The title of this blog means four and a half tatami mats, which is a small room size in Japan. The site is bilingual, so if you're like me and you can read some Japanese very slowly, you'll love this site based on the topics AND the experience. Oh, and it looks beautiful.  
+Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](https://lex.games/)!
 
 ## Books
 
