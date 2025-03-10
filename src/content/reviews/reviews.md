@@ -1,7 +1,7 @@
 ---
 title: "Reviews"
 description: "Things I've watched, read, played."
-date: "2025-03-07T22:39:29-08:00"
+date: "2025-03-10T10:58:46-08:00"
 slug: "reviews"
 ---
 
@@ -29,6 +29,7 @@ slug: "reviews"
 ### TV Shows
 
 [![American Murder: Gabby Petito • 2025 • A very well done documentary on an age old problem. Depressing but also uplifting at times. Don't watch if you're not in a good place. • Liked It](../../assets/images/posts/PngImage40C6A17DB10-review-cc7cc661-18f8-4d71-ac1f-d67b5a7af69b.png)](/images/posts/PngImage40C6A17DB10-review-cc7cc661-18f8-4d71-ac1f-d67b5a7af69b.jpg)
+[![Formula 1: Drive to Survive • 2019 • Season 7 of Drive to Survive is certainly the only season I'd rate this highly. FINALLY they quit manufacturing stories that barely existed and largely abandoned the constant chronological jumps. Loved It!](../../assets/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.png)](/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.jpg)
 [![Missing You • 2025 • Again, my pet peeve is - starts off brilliantly and then gets dumb, implausible, and hand-wavy. WHY CAN'T tv writers stop getting lazy halfway through shows? Rosalind Eleazar is always good though. • Didn't Like It](../../assets/images/posts/Missing-You-review-E3468A66-9C4D-482C-9570-41B5E4390803.png)](/images/posts/Missing-You-review-E3468A66-9C4D-482C-9570-41B5E4390803.jpg)
 [![Mr Inbetween • 2018 • Finished all 3 seasons, and apparently | *HAD* watched the whole thing. But it's good enough to watch again. And probably again. Great show! • Loved It!](../../assets/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.png)](/images/posts/MrInbetweenReview-7ee14a41-5583-4682-8738-833a6761ec40.jpg)
 [![Senna • 2024 • Senna's story is compelling but this series failed to capture Fl racing in a realistic way. Don't recommend for anyone who actually knows Fl or the Senna story already. • Didn't Like It](../../assets/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.png)](/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.jpg)
