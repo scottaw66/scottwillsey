@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-03-08T23:48:47-08:00"
+date: "2025-03-10T22:27:34-08:00"
 slug: "links"
 ---
 
@@ -514,6 +514,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [/uses](https://uses.tech)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [White Noise](https://whitenoise.tiff.ws/)
+- [WikiTok](https://wikitok.vercel.app/)
 - [Wreckage/Salvage](https://www.wrecka.ge)
 
 ## Fonts
