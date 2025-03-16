@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-10T10:58:46-08:00"
+date: "2025-03-16T11:29:20-08:00"
 slug: "now"
 ---
 
@@ -9,17 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Robot or Not? #309 - Flying - The Incomparable](https://www.theincomparable.com/robot/309/)
-- [F1: Beyond The Grid – ‘I felt so out of control’: BTG returns Wednesday 12th March](https://overcast.fm/+Nv8Jco1lg)
-- The Race Members' Club 2025 – BBV10s S11 E10: The Top 10 rivalries of F1’s V10 era (early access)
-- [Risky Bulletin – Risky Bulletin: Major browsers patch passkey phishing flaw](https://overcast.fm/+5Sl_ebD_I)
-- The Race Members' Club 2025 – F1 Season Preview: Why 2025 promises to be a classic (ad-free)
-- [Accidental Tech Podcast – 629: An Upsetting and Confusing Time to Be Me](https://atp.fm/629)
-- [楽しいラジオ「ドングリFM」 – 1162 胃カメラといわし](https://overcast.fm/+9ABLakhH8)
-- [The Talk Show With John Gruber – 418: ‘Putting a Stink on the Letter X’, With Craig Hockenberry](https://overcast.fm/+B7NC2J9vw)
-- Six Colors – New hardware, chip mysteries, and software struggles (6C Podcast)
-- [Blurring The Lines Podcast – Episode 224 – The Love of Money Game](https://overcast.fm/+GsOkupAH4)
-- The Race Members' Club 2025 – F1 Book Club: Exploring Hamilton’s off-track influence in ‘Sir Lewis’
+- [P1 with Matt and Tommy – Australian GP Race Review](https://overcast.fm/+_U3p9Bh8c)
+- [Click Here – Mic Drop: Frank McCourt wants TikTok to help him reinvent the internet](https://overcast.fm/+BL5Zg_1rJc)
+- [The Vergecast – The fake promise of better Siri](https://overcast.fm/+QN1ptrIUA)
+- [Accidental Tech Podcast – 630: Time to Spiral](https://atp.fm/630)
+- Trashfuture Bonus Content Feed (Extremely Good) – Pump It! ft. Ed Ongweso Jr
+- [Whisky Whiskey – 42: Tamdhu 15 Year Single Malt Scotch Whisky](https://overcast.fm/+BLIhc7vslU)
+- [Career Tools – Working In A Remote Team - Dealing With Timezones](https://overcast.fm/+JHHXVvRw)
+- [P1 with Matt and Tommy – Reaction to Australian GP qualifying](https://overcast.fm/+_U3omA3ZY)
+- [System Crash – Elon in Power: The PayPal Mafia and Building the Myth of Musk ft. Max Chafkin](https://overcast.fm/+BL8c3_pVMc)
+- [P1 with Matt and Tommy – Reaction to Australian GP practice](https://overcast.fm/+_U3rrgcVQ)
 
 ### Books
 

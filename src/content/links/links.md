@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-03-10T22:27:34-08:00"
+date: "2025-03-16T11:29:20-08:00"
 slug: "links"
 ---
 
@@ -512,6 +512,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Under Construction · mb bischoffn](https://mbbischoff.com/under-construction/)
 - [Home | Unplatform](https://unplatform.fromthesuperhighway.com/)
 - [/uses](https://uses.tech)
+- [Video Game History Foundation Library | Video Game History Foundation Library](https://library.gamehistory.org/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [White Noise](https://whitenoise.tiff.ws/)
 - [WikiTok](https://wikitok.vercel.app/)
@@ -775,6 +776,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
 - [Raycast Developer API](https://developers.raycast.com/)
+- [Raycast script - copy foremost Safari window as markdown link | Krzysztof Żuraw](https://krzysztofzuraw.com/blog/2022/raycast-script-copy-foremost-safari-window-as-markdown-link/)
 - [raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 - [Security | Raycast API](https://developers.raycast.com/information/security)
 - [Top Extension Picks for Designers - Raycast Blog](https://www.raycast.com/blog/extension-picks-designers)

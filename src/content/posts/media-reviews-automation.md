@@ -16,7 +16,7 @@ Until recently, I did this just by having standard text and html links to these 
 
 For some time I’ve wanted to improve my [/now](https://scottwillsey.com/now/) page by using images for the various movies, tv shows, books, and games I’ve enjoyed (or not). When I created my /now page, everything was done with simple text links with additional commentary from me. I did this for the Movies and TV sections by using a script to pull my Trakt history and format it into Markdown links.
 
-Thanks to [Quick Reviews](https://quickreviews.app/) from [Matt Birchler](https://birchtree.me/), [/now](https://scottwillsey.com/now/) I have a great solution for making them look nice.[^1] All I had to do was figure out a way to automate the process so it would not add time and effort compared to the trakt history workflow.
+Thanks to [Quick Reviews](https://quickreviews.app/) from [Matt Birchler](https://birchtree.me/), [/now](https://scottwillsey.com/now/) I have a great solution for making them look nice.[^1] All I had to do was figure out a way to automate the process so it would not add time and effort compared to the trakt history workflow. In addition, I decided to make use of Matt’s Quick Reviews images to make a dedicated [Reviews](/reviews) page. The workflow is the same – the only difference is where I paste the markdown links to the images after running the automation.
 
 I made a handy little video of the resulting automation workflow in action which you can watch, or jump to the [detailed workflow description](#automating-quick-reviews) below.
 
@@ -29,9 +29,5 @@ On the left is the new, Quick Review-ified version, on the right is the old one.
 ## Automating Quick Reviews
 
 Initally I thought this would be a Raycast Script Command, but then I realized I could  have it all happen automatically when I AirDrop an image from Quick Reviews to my Mac.
-
-### Hazel
-
-Have you ever used Hazel?
 
 [^1]: See what I did there?

@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-01-29T17:48:24-08:00"
+date: "2025-03-16T11:29:20-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -20,11 +20,12 @@ slug: "uses"
 
 ### Automation and Utilities
 
-- [BetterTouchTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
+- [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Raycast](https://raycast.com/)
+- [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 
