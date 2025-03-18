@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-03-16T11:29:20-08:00"
+date: "2025-03-18T00:32:15-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -25,9 +25,10 @@ slug: "uses"
 - [EchoFeed](https://echofeed.app/)
 - [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Raycast](https://raycast.com/)
+- [Swift Shift | Manage your mac's windows like a pro](https://www.swiftshift.app/)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
+- [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
-- [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 
 ### Browsers and Bookmarks
 
@@ -45,7 +46,15 @@ slug: "uses"
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
 - [Affinity Photo – Professional Image Editing Software](https://affinity.serif.com/en-us/photo/)
 - [Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/en-us/designer/)
+- [Pixelmator Pro](https://www.pixelmator.com/pro/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
+
+### Organization
+
+- Apple Reminders
+- [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
+- [Notion](https://www.notion.so/)
+- [Timery for Toggl: Toggl API Token](https://www.timeryapp.com/token.html)
 
 ### Podcasting/Recording
 
@@ -68,13 +77,14 @@ slug: "uses"
 ### Reading
 
 - [Apple Books](https://apps.apple.com/us/app/apple-books/id364709193)
+- [Bookshop: Buy books online. Support local bookstores.](https://bookshop.org/)
 - [Sequel](https://www.getsequel.app)
 - [Libby App: Free ebooks & audiobooks from your library | by OverDrive](https://www.overdrive.com/apps/libby)
 
 ### RSS
 
 - [EchoFeed](https://echofeed.app/)
-- [Reeder Classic](https://reeder.app/classic/)
+- [ReadKit - Have all your reading in one place](https://readkit.app/)
 
 ### Writing
 
