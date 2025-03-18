@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-16T11:29:20-08:00"
+date: "2025-03-18T00:12:37-08:00"
 slug: "now"
 ---
 
@@ -35,10 +35,9 @@ slug: "now"
 
 ### TV Shows
 
+[![Prime Target • 2025 • S1 review: Started off pretty good, then devolved into complete implausible nonsense. Very disappointing. Didn't Like It](../../assets/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.png)](/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.jpg)
 [![Formula 1: Drive to Survive • 2019 • Season 7 of Drive to Survive is certainly the only season I'd rate this highly. FINALLY they quit manufacturing stories that barely existed and largely abandoned the constant chronological jumps. Loved It!](../../assets/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.png)](/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.jpg)
 [![American Murder: Gabby Petito • 2025 • A very well done documentary on an age old problem. Depressing but also uplifting at times. Don't watch if you're not in a good place. • Liked It](../../assets/images/posts/PngImage40C6A17DB10-review-cc7cc661-18f8-4d71-ac1f-d67b5a7af69b.png)](/images/posts/PngImage40C6A17DB10-review-cc7cc661-18f8-4d71-ac1f-d67b5a7af69b.jpg)
-[![Vietnam: The War That Changed America • 2025 • Overall, very well done - depressing, uplifting, maddening, inspiring, and insightful either way. I think some of the things chosen to focus on were a bit off, but mostly they nailed it. • Liked It](../../assets/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.png)](/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.jpg)
-[![Senna • 2024 • Senna's story is compelling but this series failed to capture Fl racing in a realistic way. Don't recommend for anyone who actually knows Fl or the Senna story already. • Didn't Like It](../../assets/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.png)](/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.jpg)
 
 ### Food and Drink
 
