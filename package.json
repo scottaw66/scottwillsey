@@ -31,8 +31,8 @@
   "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
   "dependencies": {
     "@astrojs/rss": "^4.0.11",
-    "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.5.2",
+    "@astrojs/sitemap": "^3.3.0",
+    "astro": "^5.5.4",
     "astro-expressive-code": "^0.40.2",
     "astro-font": "^1.0.0",
     "astro-pagefind": "^1.8.3",
@@ -41,7 +41,7 @@
     "normalize.css": "^8.0.1",
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
-    "sanitize-html": "^2.14.0",
+    "sanitize-html": "^2.15.0",
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {

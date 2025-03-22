@@ -1,7 +1,7 @@
 ---
 title: "Reviews"
 description: "Things I've watched, read, played."
-date: "2025-03-18T00:12:37-08:00"
+date: "2025-03-21T22:36:11-08:00"
 slug: "reviews"
 ---
 
@@ -20,6 +20,7 @@ slug: "reviews"
 [![Bullet Train • 2022 • David Leitch The couple beers I drank may have helped, but I found this hilarious and fun. • Loved It!](../../assets/images/posts/PngImage48908Df7560-review-fc161232-4836-49b8-8d35-5414af55097c.png)](/images/posts/PngImage48908Df7560-review-fc161232-4836-49b8-8d35-5414af55097c.jpg)
 [![Cold Blood • Jean Reno is always interesting, and Sarah Lind did a good job, but the plot was weird and the ending unsatisfying. • Decent](../../assets/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.png)](/images/posts/Cold-Blood-review-2ECDD41C-4181-4540-9E06-BBA87F1D3EF5.jpg)
 [![The Fall Guy • 2024 • Yeah, I guess it's kind of dumb, but I really enjoyed it. Ryan Gosling is always good as a guy who has terrible things to do and he just gets on and does what has to be done. And Emily Blunt is always completely her character. Great actors, both. • Loved It!](../../assets/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/The-Fall-Guy-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
+[![Going Clear: Scientology and the Prison of Belief • 2015 • Alex Gibney Scientology is weird. Ron Hubbard was weird and evil. David Miscavige is just plain evil. An interesting documentary about a rotten church. Liked It](../../assets/images/posts/PngImage4B5BB133Ca0-review-a10625ab-89dc-4214-a9f7-96ab31198f8c.png)](/images/posts/PngImage4B5BB133Ca0-review-a10625ab-89dc-4214-a9f7-96ab31198f8c.jpg)
 [![Monkey Man • 2024 • Dev Patel • I don't know if I really should have enjoyed it so much, but I was in the mood for it and Dev Patel is a very compelling actor. • Loved It!](../../assets/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/Monkey-Man-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
 [![The Princess Bride 1987 • Rob Reiner • A multiple rewatch, of course, but one of the greatest movies ever. So many classic lines and characters. • Loved It!](../../assets/images/posts/ThePrincessBrideReview-be189bc8-20cc-44eb-b5c6-3a39d917defb.png)](/images/posts/ThePrincessBrideReview-be189bc8-20cc-44eb-b5c6-3a39d917defb.jpg)
 [![Small Things Like these • The ending left me with MANY questions, but what an excellent and haunting movie. Cillian Murphy is amazing here and Emily Watson embodies the compassionless preacher of compassion like no other. • Loved It!](../../assets/images/posts/Small-Things-Like-These-review-B7EA41BD-78D5-4E3B-AAD4-BE16300AED91.png)](/images/posts/Small-Things-Like-These-review-B7EA41BD-78D5-4E3B-AAD4-BE16300AED91.jpg)
