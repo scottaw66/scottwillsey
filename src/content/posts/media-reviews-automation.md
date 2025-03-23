@@ -87,7 +87,7 @@ The purpose of having two copies is so that I can display an optimized version i
 
 [![RetrobatchWorkflow](../../assets/images/posts/RetrobatchWorkflow-58C216B3-F566-4828-A34A-5C16EDC7137B.png)](/images/posts/RetrobatchWorkflow-58C216B3-F566-4828-A34A-5C16EDC7137B.jpg)
 
-One other important thing this Retrobatch workflow does is to the text from the resized image and save the text in a file with the same name as the corresponding image, with a .txt extension.
+One other important thing this Retrobatch workflow does is to extract the text from the resized image and save the text in a file with the same name as the corresponding image, with a .txt extension.
 
 I need the text from the image to create my image link alt text for the website, and the fact that Retrobatch can extract this for me makes the fully automated nature of this process possible. I don’t have to make a copy of the text while typing my review on the phone and send it to the Mac somehow. It’s literally delivered in the image and extracted on the Mac by Retrobatch. It’s beautiful.
 
