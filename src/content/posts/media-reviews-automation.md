@@ -1,7 +1,7 @@
 ---
 title: "Automation Workflow for Media Reviews"
 description: My automation workflow chain for getting quick reviews of media onto my website.
-date: "2025-03-10T05:00:00-08:00"
+date: "2025-03-22T05:00:00-08:00"
 keywords: ["automation", "blog", "reviews", "python", "retrobatch", "hazel"]
 slug: "media-reviews-automation"
 ---
