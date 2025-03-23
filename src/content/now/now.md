@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-21T22:36:11-08:00"
+date: "2025-03-22T19:10:40-08:00"
 slug: "now"
 ---
 
@@ -29,14 +29,18 @@ slug: "now"
 
 ### Movies
 
-[![Going Clear: Scientology and the Prison of Belief • 2015 • Alex Gibney Scientology is weird. Ron Hubbard was weird and evil. David Miscavige is just plain evil. An interesting documentary about a rotten church. Liked It](../../assets/images/posts/PngImage4B5BB133Ca0-review-a10625ab-89dc-4214-a9f7-96ab31198f8c.png)](/images/posts/PngImage4B5BB133Ca0-review-a10625ab-89dc-4214-a9f7-96ab31198f8c.jpg)
-[![To Live and Die in L.A. 1985 • William Friedkin • Not as good as I remembered. Everyone in this is evil, or an idiot. I didn't buy the transformation of John Vukovich. He didn't earn it. Dafoe is stellar, of course. Decent](../../assets/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.png)](/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.jpg)
+[![Going Clear: Scientology and the Prison of Belief • 2015 • Alex Gibney Scientology is weird. Ron Hubbard was weird and evil. David Miscavige is just plain evil. An interesting documentary about a rotten church. • Liked It](../../assets/images/posts/PngImage4B5BB133Ca0-review-a10625ab-89dc-4214-a9f7-96ab31198f8c.png)](/images/posts/PngImage4B5BB133Ca0-review-a10625ab-89dc-4214-a9f7-96ab31198f8c.jpg)
+[![To Live and Die in L.A. 1985 • William Friedkin • Not as good as I remembered. Everyone in this is evil, or an idiot. I didn't buy the transformation of John Vukovich. He didn't earn it. Dafoe is stellar, of course. • Decent](../../assets/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.png)](/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.jpg)
 
 ### TV Shows
 
-[![Severance S1&2 • 2022 • Man, this thing is weird and wild but also so much deeper than you might think at first. One of the best shows ever. Loved It!](../../assets/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.png)](/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.jpg)
-[![Prime Target • 2025 • S1 review: Started off pretty good, then devolved into complete implausible nonsense. Very disappointing. Didn't Like It](../../assets/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.png)](/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.jpg)
-[![Formula 1: Drive to Survive • 2019 • Season 7 of Drive to Survive is certainly the only season I'd rate this highly. FINALLY they quit manufacturing stories that barely existed and largely abandoned the constant chronological jumps. Loved It!](../../assets/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.png)](/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.jpg)
+[![Severance S1&2 • 2022 • Man, this thing is weird and wild but also so much deeper than you might think at first. One of the best shows ever. • Loved It!](../../assets/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.png)](/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.jpg)
+[![Prime Target • 2025 • S1 review: Started off pretty good, then devolved into complete implausible nonsense. Very disappointing. • Didn't Like It](../../assets/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.png)](/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.jpg)
+[![Formula 1: Drive to Survive • 2019 • Season 7 of Drive to Survive is certainly the only season I'd rate this highly. FINALLY they quit manufacturing stories that barely existed and largely abandoned the constant chronological jumps. • Loved It!](../../assets/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.png)](/images/posts/PngImage4E2CBff0500-review-213b7ece-93b3-4e7c-8014-eea56f9e2ce4.jpg)
+
+### Music
+
+[![Dive • Artist: Almost Monday • I heard "Can't Slow Down" in a 7-Eleven, that's literally how I discovered this album and band Not my usual, but good! • Liked It](../../assets/images/posts/PngImage446EB7Aa4F0-review-573431f0-ca97-4e5e-a380-c905768f7ac2.png)](/images/posts/PngImage446EB7Aa4F0-review-573431f0-ca97-4e5e-a380-c905768f7ac2.jpg)
 
 ### Food and Drink
 
