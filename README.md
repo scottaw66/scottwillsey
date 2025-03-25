@@ -1,6 +1,6 @@
 # Scott Willsey
 
-This is version 5.1.0 of my website, [scottwillsey.com](https://scottwillsey.com). This version is to bring compatibility with [Astro](https://astro.build) 5.x., as well as add some other quality of life and visual improvements.
+This is version 5.2.0 of my website, [scottwillsey.com](https://scottwillsey.com). This version is to bring compatibility with [Astro](https://astro.build) 5.x., as well as add some other quality of life and visual improvements.
 
 Recently I've added some pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/) page, a [links](https://scottwillsey.com/links/) page, a [uses](https://scottwillsey.com/uses/) page.
 
@@ -13,6 +13,7 @@ Astro is the fastest web development framework I've ever used, primarily because
 - [astro:assets Image and/or Picture](https://docs.astro.build/en/guides/images/) for all site and blog post images.
 - [Astro RSS](https://www.npmjs.com/package/@astrojs/rss) for full content RSS feed generation.
 - [Astro Content Loader API](https://docs.astro.build/en/reference/content-loader-reference/) for content collections.
+- [Filtering Content Collection Queries](https://docs.astro.build/en/guides/content-collections/#filtering-collection-queries) to let me filter out drafts from being built to production accidentally.
 
 ## Other features
 
