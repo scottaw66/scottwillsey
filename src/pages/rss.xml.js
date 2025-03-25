@@ -8,11 +8,13 @@ export function GET(context) {
   const postImportResult = import.meta.glob("../content/posts/**/*.md", {
     eager: true,
   });
-  const posts = Object.values(postImportResult).sort(
-    (a, b) =>
-      new Date(b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date).valueOf(),
-  );
+  const posts = Object.values(postImportResult)
+    .filter((post) => post.frontmatter.draft !== true)
+    .sort(
+      (a, b) =>
+        new Date(b.frontmatter.date).valueOf() -
+        new Date(a.frontmatter.date).valueOf(),
+    );
 
   return rss({
     title: site.title,
