@@ -17,6 +17,7 @@ const postCollection = defineCollection({
       cover: image().optional(),
       coverAlt: z.string().optional(),
       series: z.string().optional(),
+      draft: z.boolean().optional(),
     }),
 });
 

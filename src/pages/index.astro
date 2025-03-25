@@ -11,7 +11,9 @@ import PostLinkIcon from "../components/icons/PostLinkIcon.astro";
 import CopyIcon from "../components/icons/CopyIcon.astro";
 import CalendarIcon from "../components/icons/CalendarFillIcon.astro";
 
-let allPosts = await getCollection("posts");
+let allPosts = await getCollection("posts", ({ data }) => {
+  return import.meta.env.PROD ? data.draft !== true : true;
+});
 allPosts = allPosts.sort(
   (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
 );
