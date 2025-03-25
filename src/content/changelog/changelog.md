@@ -4,6 +4,9 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-03-25
+
+Finally added post drafts capability so I wouldn't accidentally push a draft to the web again.
 
 ### 2025-02-23
 
