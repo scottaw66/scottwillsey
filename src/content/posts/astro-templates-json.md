@@ -3,6 +3,8 @@ title: "Astro Templates for JSON Data"
 description: "Using a JSON data file and rendering it in Astro page templates."
 date: "2024-02-02T00:09:00-08:00"
 keywords: ["blog", "astro", "data", "programming"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "astro-templates-json"
 ---

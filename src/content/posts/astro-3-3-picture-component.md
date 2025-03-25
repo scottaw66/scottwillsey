@@ -3,6 +3,8 @@ title: "Astro 3.3 Picture Component"
 description: "Astro 3.3 dramatically improves the Astro image optimization story once again."
 date: "2023-11-12T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro", "component"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "astro-3-3-picture-component"
 ---

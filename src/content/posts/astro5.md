@@ -3,6 +3,8 @@ title: "Astro 5 Upgrade"
 description: "Astro 5 is out with a number of changes from Astro 4. The good news is I was able to upgrade instantly with no modifications (but there are some to come later)."
 date: "2024-12-10T01:00:00-08:00"
 keywords: ["blog", "astro", "programming"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "astro5"
 ---

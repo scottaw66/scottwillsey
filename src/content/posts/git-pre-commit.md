@@ -3,6 +3,8 @@ title: "Using Git Hooks for Displaying Last Modified Dates"
 description: "Git hooks are pretty cool. I'm using pre-commit to conditionally update the last modified date on certain pages in my blog. Here's how I did it."
 date: "2024-02-12T05:00:00-08:00"
 keywords: ["blog", "astro", "git"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "git-pre-commit"
 ---

@@ -3,6 +3,8 @@ title: "Astro Sitemap Page Modified Timestamps"
 description: "I was asked a question on Threads about how to apply my Last Modified Dates using Git pre-commit to Astro's Sitemap integration."
 date: "2024-06-18T05:00:00-08:00"
 keywords: ["blog", "astro", "git"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "astro-sitemap-timestamps"
 ---

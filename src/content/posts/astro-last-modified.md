@@ -3,6 +3,8 @@ title: "Auto-Generated Last Modified Date in Astro"
 description: "If you have a page that you want to show the last modified date on, Astro and remark can do it for you automatically."
 date: "2024-01-06T14:49:58-08:00"
 keywords: ["blog", "astro", "programming", "javascript", "remark"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "astro-last-modified"
 ---

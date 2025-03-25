@@ -3,6 +3,8 @@ title: "Reponsive Image Rabbit Hole – Part 3"
 description: Some science experiments with Astro Image to show how it and responsive images in general work.
 date: "2022-10-15T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro", "eleventy"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "image-rabbit-hole-3"
 ---

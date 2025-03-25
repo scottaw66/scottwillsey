@@ -3,6 +3,8 @@ title: "The Push I Needed to Implement Link Posts"
 description: "Thanks entirely to Tiffany White creating a GitHub issue on my site repo, I finally implemented something that's been on my site to-do list for some time, but that I've never gotten around to actually doing until now: link posts."
 date: "2023-07-30T09:00:00-08:00"
 keywords: ["blog", "astro"]
+cover: "../../assets/images/covers/AstroHeader.png"
+coverAlt: "Astro"
 series: "Astro"
 slug: "link-posts"
 ---
