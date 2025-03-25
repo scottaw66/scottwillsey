@@ -3,7 +3,7 @@ title: "Moom 4"
 description: Mac window management tools are a dime a dozen, but Moom 4 stands out for its versatility and for being fun to use.
 date: "2024-09-09T05:00:00-08:00"
 keywords: ["apps", "mac", "moom", "finder"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "moom4"

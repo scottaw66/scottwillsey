@@ -3,7 +3,7 @@ title: "BBEdit for Log Analysis"
 description: BBEdit is not my choice of code editor or writing app, but for logfile analysis, it's the best.
 date: "2024-12-19T12:00:00-08:00"
 keywords: ["apps", "mac","data"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "bbedit-logfiles"

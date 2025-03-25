@@ -3,7 +3,7 @@ title: "TextBuddy Custom Links"
 description: Custom Links is a pretty cool automation feature in TextBuddy for automatically transforming specific text patterns into clickable links.
 date: "2024-04-21T05:00:00-08:00"
 keywords: ["apps", "mac", "automation", "programming", "regex"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "custom-links"

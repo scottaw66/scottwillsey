@@ -3,7 +3,7 @@ title: "Editing Safari Bookmark Descriptions in macOS"
 description: Editing Safari bookmark descriptions and the (more interesting) backstory of why I stumbled across how to do it.
 date: "2023-07-11T09:00:00-08:00"
 keywords: ["mac", "bookmarks", "safari", "apps"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "safari-bookmarks"

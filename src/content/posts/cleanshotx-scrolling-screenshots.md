@@ -3,7 +3,7 @@ title: "Scrolling Screenshots in CleanShot X"
 description: Need a screenshot of a long web page? CleanShot X has a function for that.
 date: "2024-06-14T09:00:00-08:00"
 keywords: ["mac", "images", "apps"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "cleanshotx-scrolling-screenshots"

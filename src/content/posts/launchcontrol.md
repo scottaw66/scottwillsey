@@ -3,7 +3,7 @@ title: "One More One More Thing: LaunchControl"
 description: While debugging a broken LaunchAgent script, I discovered a great utility.
 date: "2023-04-15T09:00:00-08:00"
 keywords: ["mac", "automation", "programming", "apps"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "launchcontrol"

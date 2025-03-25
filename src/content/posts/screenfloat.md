@@ -3,7 +3,7 @@ title: "ScreenFloat Your Screenshots"
 description: ScreenFloat is my current choice of screenshot utility for the Mac because of its functionality and customizability.
 date: "2024-03-23T09:00:00-08:00"
 keywords: ["mac", "images", "apps"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "screenfloat"

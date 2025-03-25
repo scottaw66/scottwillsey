@@ -3,7 +3,7 @@ title: "Show Me More, but Let Me Read It"
 description: I'm genuinely baffled by Apple's approach to font size with respect to screen resolution.
 date: "2024-06-01T05:00:00-08:00"
 keywords: ["mac", "accessibility"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "show-me-more"

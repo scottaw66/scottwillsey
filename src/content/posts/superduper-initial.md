@@ -3,7 +3,7 @@ title: "Initial SuperDuper Copy"
 description: A tip for making your first SuperDuper! drive copy.
 date: "2024-10-28T05:00:00-08:00"
 keywords: ["apps", "mac", "superduper"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "superduper-initial"
@@ -20,7 +20,7 @@ I even thought about this when I started the initial backup, but then thought it
 I sent the log to [Shirt Pocket](https://shirt-pocket.com) support, and Dave Nanian quickly replied with the following (I hope he doesn’t mind me posting it here):
 
 > Your Mac has fallen asleep during the copy, even though we asked it not to, or something similar (such as a TRIM operation that takes too long) -- as you can see, Apple's error is vague and unhelpful.  
-> 
+>
 > But, in our experience, this usually works. Please reformat the backup drive (which, done this way, should reset all the TRIM operations):
 >
 > - Open Disk Utility
@@ -31,9 +31,9 @@ I sent the log to [Shirt Pocket](https://shirt-pocket.com) support, and Dave Nan
 > - Click Erase
 >
 > Then restart your Mac. Install Coca (free) from the App Store and enable it to keep your Mac awake -- *including* the screen. Ensure it's plugged in if it's a laptop. Turn Time Machine off temporarily. Then try the erase-then-copy backup again.  
-> 
+>
 > Note that none of this should be necessary for future Smart Updates, which are done with our copy engine, and not Apple's.  
-> 
+>
 > Hope that helps!  
 > —  
 > Dave Nanian  

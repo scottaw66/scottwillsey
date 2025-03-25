@@ -3,7 +3,7 @@ title: "SuperDuper Invisible"
 description: Here's a funny little UI quirk in SuperDuper! (which I love, by the way).
 date: "2024-10-27T05:00:00-08:00"
 keywords: ["apps", "mac", "superduper"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "superduper-invisible"

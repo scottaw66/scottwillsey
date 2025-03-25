@@ -3,7 +3,7 @@ title: "SSH Connections in Visual Studio Code"
 description: Use alternate ssh configs to execute remote commands for ssh connections in Visual Studio Code.
 date: "2025-01-26T05:00:00-08:00"
 keywords: ["apps", "mac", "programming", "terminal"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "vscode-ssh"

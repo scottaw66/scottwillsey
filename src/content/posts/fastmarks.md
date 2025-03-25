@@ -3,7 +3,7 @@ title: "Fastmarks and Safari Bookmark Descriptions"
 description: Fastmarks and Safari bookmark descriptions are a poweruser bookmark search combination supreme.
 date: "2023-07-17T09:00:00-08:00"
 keywords: ["mac", "bookmarks", "safari", "apps"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "fastmarks"

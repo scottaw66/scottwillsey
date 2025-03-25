@@ -3,7 +3,7 @@ title: Automatic Image Processing with AppleScript and Retrobatch
 description: I now have automatic image processing for my Friends with Brews images that happens automatically when I drop images in a folder, and I love it.
 date: "2023-06-26T09:00:00-08:00"
 keywords: ["mac","automation","applescript","images","programming","apps","friendswithbrews","fwb"]
-cover: "../../assets/images/covers/macseries.png"
+cover: "../../assets/images/covers/MacHeader.png"
 coverAlt: "Mac"
 series: "Mac"
 slug: "autoimageprocess"
