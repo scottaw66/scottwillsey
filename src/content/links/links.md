@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-03-22T19:32:41-08:00"
+date: "2025-03-26T22:36:12-08:00"
 slug: "links"
 ---
 
@@ -67,10 +67,13 @@ slug: "links"
 - [How Does the Milky Way Compare to Other Galaxies? - Universe Today](https://www.universetoday.com/168742/how-does-the-milky-way-compare-to-other-galaxies/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
+- [How to Buy the Best Keycaps for Your Mechanical Keyboard (2025) | WIRED](https://www.wired.com/story/how-to-buy-keycaps-for-your-mechanical-keyboard/)
+- [How to Enter the US With Your Digital Privacy Intact | WIRED](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
 - [How to Get Started on Bluesky | WIRED](https://www.wired.com/story/how-to-get-started-on-bluesky/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
+- [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
@@ -96,6 +99,7 @@ slug: "links"
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
 - [The Joy of Pachinko's Opening Credits - Pachinko Theme Song](https://www.townandcountrymag.com/leisure/arts-and-culture/a39538403/pachinko-opening-credits-theme-song/)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
+- [The Quantum Apocalypse Is Coming. Be Very Afraid | WIRED](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/)
 - [The Red Pill Was Hijacked | Techdirt](https://www.techdirt.com/2025/02/11/the-red-pill-was-hijacked/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 - [The Thought Experiments That Fray the Fabric of Space-Time | Quanta Magazine](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
@@ -466,6 +470,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 - [European Alternatives](https://european-alternatives.eu/)
+- [Everything's Computer!](https://everythings.computer/)
 - [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)
@@ -731,7 +736,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 - [Developer Community | 1Password Developer](https://developer.1password.com/community/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
-- [Frontend Horse | Creative Web Development](https://frontend.horse/)
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
 - [How to use cProfile and snakeviz to profile Python code | James' Coffee Blog](https://jamesg.blog/2024/11/02/cprofile/)
@@ -772,7 +776,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## Raycast
 
 - [AI Extensions](https://manual.raycast.com/ai-extensions)
+- [Focus](https://manual.raycast.com/focus)
 - [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
+- [Notes](https://manual.raycast.com/notes)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
 - [Raycast Developer API](https://developers.raycast.com/)

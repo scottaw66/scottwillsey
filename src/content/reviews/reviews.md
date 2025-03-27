@@ -1,7 +1,7 @@
 ---
 title: "Reviews"
 description: "Things I've watched, read, played."
-date: "2025-03-22T19:32:41-08:00"
+date: "2025-03-26T22:36:12-08:00"
 slug: "reviews"
 ---
 
@@ -38,3 +38,8 @@ slug: "reviews"
 [![Senna • 2024 • Senna's story is compelling but this series failed to capture Fl racing in a realistic way. Don't recommend for anyone who actually knows Fl or the Senna story already. • Didn't Like It](../../assets/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.png)](/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.jpg)
 [![Surviving Black Hawk Down • Everyone knows the Black Hawk Down story - here are some people who were there. A good documentary, with views from all sides. It was two terrible days that never should have happened. • Loved It!](../../assets/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.png)](/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.jpg)
 [![Vietnam: The War That Changed America • 2025 • Overall, very well done - depressing, uplifting, maddening, inspiring, and insightful either way. I think some of the things chosen to focus on were a bit off, but mostly they nailed it. • Liked It](../../assets/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.png)](/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.jpg)
+
+### Music
+
+[![Magic Monkey • Godiego • 1980 • A childhood favorite from when I lived in Kagoshima, Japan. Apparently Apple Music has heard of Godiego, so hey! Good work, Apple! • Loved It!](../../assets/images/posts/PngImage454BBeceCf0-review-ec28f74f-944a-481b-8c4c-3fd78be89229.png)](/images/posts/PngImage454BBeceCf0-review-ec28f74f-944a-481b-8c4c-3fd78be89229.jpg)
+[![Dive • Artist: Almost Monday • I heard "Can't Slow Down" in a 7-Eleven, that's literally how I discovered this album and band Not my usual, but good! • Liked It](../../assets/images/posts/PngImage446EB7Aa4F0-review-573431f0-ca97-4e5e-a380-c905768f7ac2.png)](/images/posts/PngImage446EB7Aa4F0-review-573431f0-ca97-4e5e-a380-c905768f7ac2.jpg)
