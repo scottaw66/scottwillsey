@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-26T22:36:11-08:00"
+date: "2025-03-28T23:14:10-08:00"
 slug: "now"
 ---
 
@@ -9,22 +9,22 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
+- [P1 with Matt and Tommy – Our reaction to Yuki Tsunoda REPLACING Liam Lawson at Red Bull](https://overcast.fm/+_U3oqB3p4)
+- [Click Here – Mic Drop: Jon Clay: Minority Report meets cyber… pre-cogs sold separately](https://overcast.fm/+BL5ZglE1kQ)
+- [Security Cryptography Whatever – Picking Quantum Resistant Algorithms](https://overcast.fm/+xz8VUTRcI)
+- [The Rebound – 539: The Four Finger Spread](https://overcast.fm/+De1mS8ffs)
+- [The Josh Marshall Podcast – Signal Noise](https://overcast.fm/+TzjgYzKoA)
+- Six Colors – Opening day and a WWDC date (6C Podcast)
+- [Accidental Tech Podcast 632: The Uncertainty Is Gone](https://atp.fm/632)
 - [The Weekly Planet – 567 Severance Season 2 (with Sammy Petersen)](https://overcast.fm/+1HFLsNr74)
 - [Otherwise Objectionable – Episode 3: Law and Disorder](https://overcast.fm/+BNy4NS77B0)
 - The Race Members' Club 2025 – Lawson out, Tsunoda in: Why Red Bull are preparing an early driver change (ad-free)
-- The 404 Media Podcast (Premium Feed) – The DNA of 15 Million People Is For Sale
-- [Risky Bulletin – Risky Bulletin: Cyberattack hits Ukraine’s state railway](https://overcast.fm/+5Sl8gvenU)
-- [F1: Beyond The Grid – Pierre Gasly: believing in Alpine](https://overcast.fm/+Nv8K3wuwA)
-- [Risky Bulletin – Risky Bulletin: US removes Tornado Cash sanctions](https://overcast.fm/+5Sl8qE0Mo)
-- [TRASHFUTURE – It Ain’t Half Austere](https://overcast.fm/+0MYuWFaM4)
-- [Risky Bulletin – Between Two Nerds: The 0day fetish](https://overcast.fm/+5Sl9x61Fg)
-- [P1 with Matt and Tommy – Chinese GP Driver Ratings](https://overcast.fm/+_U3o5U4ZQ)
 
 ### Books
 
 *Don't be surprised when the book list stays constant for awhile. Reading time is harder to come by these days. 😞*  
 
-[![Chasing Shadows • Just started it... the story of Citizen Lab, the world's foremost digital watchdog. • Liked It](../../assets/images/posts/ChasingShadowsReview-4dbe97f8-0347-4893-86d8-2d9da417e159.png)](/images/posts/ChasingShadowsReview-4dbe97f8-0347-4893-86d8-2d9da417e159.jpg)
+[![Chasing Shadows • Just started it... The story of Citizen Lab, the world's foremost digital watchdog. Encouraging and depressing all at once. • Liked It](../../assets/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.png)](/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.jpg)
 [![Fluke • Just started it, but it's both intellectually interesting and a nice counterpoint to the religion of determinism. • Loved It!](../../assets/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.png)](/images/posts/Fluke-review-3ABD1A95-A382-4EB0-AD9E-B5253755A6BD.jpg)
 
 ### Movies
@@ -34,7 +34,7 @@ slug: "now"
 
 ### TV Shows
 
-[![The Studio • 2025 • *This is a review of S1E1 only!* Yeah, I don't know. Doesn't the world have enough selfish, dishonest people? • Decent](../../assets/images/posts/PngImage46C597C4930-review-0deb2247-4477-4a69-a713-be80dc9f454a.png)](/images/posts/PngImage46C597C4930-review-0deb2247-4477-4a69-a713-be80dc9f454a.jpg)
+[![The Studio • 2025 • After one episode I realized I have zero desire to ever watch this again. I don't care about Hollywood sycophants and I'm not even much of a Seth Rogan fan. • Didn't Like It](../../assets/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.png)](/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.jpg)
 [![Severance S1&2 • 2022 • Man, this thing is weird and wild but also so much deeper than you might think at first. One of the best shows ever. • Loved It!](../../assets/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.png)](/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.jpg)
 [![Prime Target • 2025 • S1 review: Started off pretty good, then devolved into complete implausible nonsense. Very disappointing. • Didn't Like It](../../assets/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.png)](/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.jpg)
 

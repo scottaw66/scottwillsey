@@ -1,12 +1,13 @@
 ---
 title: "Reviews"
 description: "Things I've watched, read, played."
-date: "2025-03-26T22:36:12-08:00"
+date: "2025-03-28T23:14:10-08:00"
 slug: "reviews"
 ---
 
 ### Books
 
+[![Chasing Shadows • Just started it... The story of Citizen Lab, the world's foremost digital watchdog. Encouraging and depressing all at once. • Liked It](../../assets/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.png)](/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.jpg)
 [![Dark Wire • Joseph Cox • Joseph Cox is a great security beat journalist, and this story is wild enough already. Sometimes I think the FBI just does stuff because they can and can secretly have fun doing it. • Loved It!](../../assets/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.png)](/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.jpg)
 [![The Ministry for the Future • Kim Stanley Robinson • I enjoyed this book when I read it, because they captured the climate change disaster headed our way. What they didn't foresee, however, is just how insane governments all over the world would go before we even get that far. Not dystopian enough after all. • Liked It](../../assets/images/posts/PngImage4F579D31240-review-7451bed2-59af-4d84-9a7c-66aee2e710cc.png)](/images/posts/PngImage4F579D31240-review-7451bed2-59af-4d84-9a7c-66aee2e710cc.jpg)
 [![REAMDE • Neal Stephenson • Probably not regarded as a Stephenson classic, but honestly I think it's one of his better stories. Fewer sidetracks, more approachable. • Loved It!](../../assets/images/posts/PngImage4A79B0E5E30-review-f9e93501-df54-4be4-a46e-908f7c5af5e5.png)](/images/posts/PngImage4A79B0E5E30-review-f9e93501-df54-4be4-a46e-908f7c5af5e5.jpg)
@@ -37,6 +38,7 @@ slug: "reviews"
 [![Prime Target • 2025 • S1 review: Started off pretty good, then devolved into complete implausible nonsense. Very disappointing. • Didn't Like It](../../assets/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.png)](/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.jpg)
 [![Senna • 2024 • Senna's story is compelling but this series failed to capture Fl racing in a realistic way. Don't recommend for anyone who actually knows Fl or the Senna story already. • Didn't Like It](../../assets/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.png)](/images/posts/SennaReview-5cd2edc2-d007-4dd7-b37a-b2719957697b.jpg)
 [![Surviving Black Hawk Down • Everyone knows the Black Hawk Down story - here are some people who were there. A good documentary, with views from all sides. It was two terrible days that never should have happened. • Loved It!](../../assets/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.png)](/images/posts/SurvivingBlackHawkDownReview-a6d3b952-df30-4f46-b9d7-845e7b6a3fce.jpg)
+[![The Studio • 2025 • After one episode I realized I have zero desire to ever watch this again. I don't care about Hollywood sycophants and I'm not even much of a Seth Rogan fan. • Didn't Like It](../../assets/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.png)](/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.jpg)
 [![Vietnam: The War That Changed America • 2025 • Overall, very well done - depressing, uplifting, maddening, inspiring, and insightful either way. I think some of the things chosen to focus on were a bit off, but mostly they nailed it. • Liked It](../../assets/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.png)](/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.jpg)
 
 ### Music
