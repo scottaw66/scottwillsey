@@ -1,8 +1,8 @@
 ---
 import { getEntry, render } from "astro:content";
-import Base from "../layouts/Base.astro";
-import { modifieddate } from "../components/utilities/DateFormat.js";
-import CalendarFillIcon from "../components/icons/CalendarFillIcon.astro";
+import Base from "../../layouts/Base.astro";
+import { modifieddate } from "../../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../../components/icons/CalendarFillIcon.astro";
 
 const reviews = await getEntry("reviews", "reviews");
 const { Content } = await render(reviews);

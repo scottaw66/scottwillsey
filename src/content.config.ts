@@ -76,6 +76,58 @@ const reviewsCollection = defineCollection({
   }),
 });
 
+const bookReviewsCollection = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/books" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+  }),
+});
+
+const movieReviewsCollection = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/movies" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+  }),
+});
+
+const tvReviewsCollection = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/tvshows" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+  }),
+});
+
+const musicReviewsCollection = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/music" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .transform((str) => new Date(str))
+      .optional()
+      .nullable(),
+  }),
+});
+
 const usesCollection = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/uses" }),
   schema: z.object({
@@ -108,6 +160,10 @@ export const collections = {
   changelog: changeCollection,
   links: linksCollection,
   reviews: reviewsCollection,
+  books: bookReviewsCollection,
+  movies: movieReviewsCollection,
+  tvshows: tvReviewsCollection,
+  music: musicReviewsCollection,
   now: nowCollection,
   reads: readsCollection,
   uses: usesCollection,

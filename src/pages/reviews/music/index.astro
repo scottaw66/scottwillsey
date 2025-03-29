@@ -1,0 +1,58 @@
+---
+import { getEntry, render } from "astro:content";
+import Base from "../../../layouts/Base.astro";
+import { modifieddate } from "../../../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../../../components/icons/CalendarFillIcon.astro";
+import { Image } from "astro:assets";
+import musicsList from "../../../data/reviews/music.json";
+
+let musicList = Array.from(musicsList);
+
+const music = await getEntry("music", "music");
+
+let title = music.data.title;
+let description = music.data.description;
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>{title}</h1>
+    <p class="now">{music.data.description}</p>
+    <div class="time">
+      <CalendarFillIcon />
+      <time datetime={music.data.date}>
+        <a href={`/${music.id}`}>Last updated {modifieddate(music.data.date)}</a
+        >
+      </time>
+    </div>
+    <div class="now">
+      <p>
+        {
+          musicList.map((musicItem) => (
+            <a href={`/images/posts/${musicItem.review}.jpg`}>
+              <Image
+                src={
+                  import(`../../../assets/images/posts/${musicItem.review}.png`)
+                }
+                alt={`${musicItem.alttext}`}
+              />
+            </a>
+          ))
+        }
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  h4 {
+    font-style: italic;
+  }
+  div.time,
+  div.time a {
+    font-size: 0.8em;
+  }
+  div.time {
+    margin-top: 2.5rem;
+  }
+</style>

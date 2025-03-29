@@ -779,10 +779,8 @@ article img {
   border-radius: 0.3rem;
   content-visibility: auto;
 }
-article h3#movies + p,
-article h3#books ~ p,
-article h3#tv-shows + p,
-article h3#games + p {
+
+article div.now p {
   display: flex;
   flex-direction: row;
   gap: 1em;
@@ -791,10 +789,7 @@ article h3#games + p {
   margin: 1em 1em 2em;
 }
 
-article h3#movies + p a img,
-article h3#books ~ p a img,
-article h3#tv-shows + p a img,
-article h3#games + p a img {
+div.now p a img {
   width: 100%;
   max-width: 450px;
   margin: 0;

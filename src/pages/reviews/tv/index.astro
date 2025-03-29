@@ -1,0 +1,59 @@
+---
+import { getEntry, render } from "astro:content";
+import Base from "../../../layouts/Base.astro";
+import { modifieddate } from "../../../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../../../components/icons/CalendarFillIcon.astro";
+import { Image } from "astro:assets";
+import tvShowsList from "../../../data/reviews/tvshows.json";
+
+let tvShowList = Array.from(tvShowsList);
+
+const tvshows = await getEntry("tvshows", "tvshows");
+
+let title = tvshows.data.title;
+let description = tvshows.data.description;
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>{title}</h1>
+    <p class="now">{tvshows.data.description}</p>
+    <div class="time">
+      <CalendarFillIcon />
+      <time datetime={tvshows.data.date}>
+        <a href={`/${tvshows.id}`}
+          >Last updated {modifieddate(tvshows.data.date)}</a
+        >
+      </time>
+    </div>
+    <div class="now">
+      <p>
+        {
+          tvShowList.map((tvshow) => (
+            <a href={`/images/posts/${tvshow.review}.jpg`}>
+              <Image
+                src={
+                  import(`../../../assets/images/posts/${tvshow.review}.png`)
+                }
+                alt={`${tvshow.alttext}`}
+              />
+            </a>
+          ))
+        }
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  h4 {
+    font-style: italic;
+  }
+  div.time,
+  div.time a {
+    font-size: 0.8em;
+  }
+  div.time {
+    margin-top: 2.5rem;
+  }
+</style>

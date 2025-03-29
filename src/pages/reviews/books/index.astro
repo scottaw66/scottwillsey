@@ -1,0 +1,56 @@
+---
+import { getEntry, render } from "astro:content";
+import Base from "../../../layouts/Base.astro";
+import { modifieddate } from "../../../components/utilities/DateFormat.js";
+import CalendarFillIcon from "../../../components/icons/CalendarFillIcon.astro";
+import { Image } from "astro:assets";
+import booksList from "../../../data/reviews/books.json";
+
+let bookList = Array.from(booksList);
+
+const books = await getEntry("books", "books");
+
+let title = books.data.title;
+let description = books.data.description;
+---
+
+<Base title={title} description={description}>
+  <article>
+    <h1>{title}</h1>
+    <p class="now">{books.data.description}</p>
+    <div class="time">
+      <CalendarFillIcon />
+      <time datetime={books.data.date}>
+        <a href={`/${books.id}`}>Last updated {modifieddate(books.data.date)}</a
+        >
+      </time>
+    </div>
+    <div class="now">
+      <p>
+        {
+          bookList.map((book) => (
+            <a href={`/images/posts/${book.review}.jpg`}>
+              <Image
+                src={import(`../../../assets/images/posts/${book.review}.png`)}
+                alt={`${book.alttext}`}
+              />
+            </a>
+          ))
+        }
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  h4 {
+    font-style: italic;
+  }
+  div.time,
+  div.time a {
+    font-size: 0.8em;
+  }
+  div.time {
+    margin-top: 2.5rem;
+  }
+</style>

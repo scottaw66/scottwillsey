@@ -1,11 +1,11 @@
 ---
 title: "Reviews"
 description: "Things I've watched, read, played."
-date: "2025-03-28T23:14:10-08:00"
+date: "2025-03-29T11:34:24-08:00"
 slug: "reviews"
 ---
 
-### Books
+### [Books](/reviews/books/)
 
 [![Chasing Shadows • Just started it... The story of Citizen Lab, the world's foremost digital watchdog. Encouraging and depressing all at once. • Liked It](../../assets/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.png)](/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.jpg)
 [![Dark Wire • Joseph Cox • Joseph Cox is a great security beat journalist, and this story is wild enough already. Sometimes I think the FBI just does stuff because they can and can secretly have fun doing it. • Loved It!](../../assets/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.png)](/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.jpg)
@@ -15,7 +15,7 @@ slug: "reviews"
 [![Snow Crash • Neal Stephenson • 1992  • This has to be one of the classic cyberpunk novels. It's dumb AND cool, silly AND serious. It's also a fascinating look at how language controls thought and vice-versa. • Loved It!](../../assets/images/posts/PngImage4D3F935C6C0-review-591b3665-f084-4cf9-9881-f5c78d33aea5.png)](/images/posts/PngImage4D3F935C6C0-review-591b3665-f084-4cf9-9881-f5c78d33aea5.jpg)
 [![Tracers in the Dark • Andy Greenberg • Truly anonymous finance is the wet dream of the libertarian crypto bros, but it's a lie. Turns out logging everything is actually just like logging everything. Tons of wild and wacky fun. • Loved It!](../../assets/images/posts/PngImage4Bb4B153Ff0-review-3a9aa495-7f1a-4e22-958c-8d35ad1090d5.png)](/images/posts/PngImage4Bb4B153Ff0-review-3a9aa495-7f1a-4e22-958c-8d35ad1090d5.jpg)
 
-### Movies
+### [Movies](/reviews/movies)
 
 [![Blade Runner 2049 • 2017 • Denis Villeneuve • One of my favorite movies ever. Ryan Gosling is perfect emotionally as a replicant who wants to be human, and is more human than most of the humans around him. • Loved It!](../../assets/images/posts/PngImage4851A68CDc0-review-c037fd42-3ceb-435c-b80d-6135451e9eca.png)](/images/posts/PngImage4851A68CDc0-review-c037fd42-3ceb-435c-b80d-6135451e9eca.jpg)
 [![Bullet Train • 2022 • David Leitch The couple beers I drank may have helped, but I found this hilarious and fun. • Loved It!](../../assets/images/posts/PngImage48908Df7560-review-fc161232-4836-49b8-8d35-5414af55097c.png)](/images/posts/PngImage48908Df7560-review-fc161232-4836-49b8-8d35-5414af55097c.jpg)
@@ -28,7 +28,7 @@ slug: "reviews"
 [![To Live and Die in L.A. 1985 • William Friedkin • Not as good as I remembered. Everyone in this is evil, or an idiot. I didn't buy the transformation of John Vukovich. He didn't earn it. Dafoe is stellar, of course. • Decent](../../assets/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.png)](/images/posts/ToLiveAndDieInL.A.Review-c431a1c8-0edb-465d-bcd8-f8b33d1de492.jpg)
 [![Woman of the Hour • 2024 • I don't think I'd recommend it, but Anna Kendrick definitely does her part to make it worthwhile. No one ever believes a woman reporting a crime is the reality. • Liked It](../../assets/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.png)](/images/posts/Woman-of-the-Hour-review-EDA16B3D-1BEE-4437-8504-4487F9BB456B.jpg)
 
-### TV Shows
+### [TV Shows](/reviews/tv/)
 
 [![American Murder: Gabby Petito • 2025 • A very well done documentary on an age old problem. Depressing but also uplifting at times. Don't watch if you're not in a good place. • Liked It](../../assets/images/posts/PngImage40C6A17DB10-review-cc7cc661-18f8-4d71-ac1f-d67b5a7af69b.png)](/images/posts/PngImage40C6A17DB10-review-cc7cc661-18f8-4d71-ac1f-d67b5a7af69b.jpg)
 [![Black Doves • 2024 • This kind of tv is right up my alley. Spies, intrigue, excellently written and acted characters... it's the perfect, fun escape. • Loved It!](../../assets/images/posts/PngImage4253Bb2A550-review-3b5b7e91-9ad6-4173-83fd-fe3c7f3bcc07.png)](/images/posts/PngImage4253Bb2A550-review-3b5b7e91-9ad6-4173-83fd-fe3c7f3bcc07.jpg)
@@ -41,7 +41,7 @@ slug: "reviews"
 [![The Studio • 2025 • After one episode I realized I have zero desire to ever watch this again. I don't care about Hollywood sycophants and I'm not even much of a Seth Rogan fan. • Didn't Like It](../../assets/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.png)](/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.jpg)
 [![Vietnam: The War That Changed America • 2025 • Overall, very well done - depressing, uplifting, maddening, inspiring, and insightful either way. I think some of the things chosen to focus on were a bit off, but mostly they nailed it. • Liked It](../../assets/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.png)](/images/posts/PngImage4E32Ad42D80-review-af9dd394-2bff-4e5b-8f59-771f03a2bf41.jpg)
 
-### Music
+### [Music](/reviews/music/)
 
 [![Magic Monkey • Godiego • 1980 • A childhood favorite from when I lived in Kagoshima, Japan. Apparently Apple Music has heard of Godiego, so hey! Good work, Apple! • Loved It!](../../assets/images/posts/PngImage454BBeceCf0-review-ec28f74f-944a-481b-8c4c-3fd78be89229.png)](/images/posts/PngImage454BBeceCf0-review-ec28f74f-944a-481b-8c4c-3fd78be89229.jpg)
 [![Dive • Artist: Almost Monday • I heard "Can't Slow Down" in a 7-Eleven, that's literally how I discovered this album and band Not my usual, but good! • Liked It](../../assets/images/posts/PngImage446EB7Aa4F0-review-573431f0-ca97-4e5e-a380-c905768f7ac2.png)](/images/posts/PngImage446EB7Aa4F0-review-573431f0-ca97-4e5e-a380-c905768f7ac2.jpg)
