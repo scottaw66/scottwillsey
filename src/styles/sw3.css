@@ -1095,6 +1095,45 @@ div.now ul li {
   padding-bottom: 0;
 }
 
+nav[role="navigation"][aria-label="Pagination"] ul {
+  display: grid;
+  grid-auto-flow: column;
+  margin: 0 auto 3em;
+  width: fit-content;
+  align-items: center;
+  justify-items: center;
+  background: var(--surface-menu);
+  padding: 0.5em;
+  border-radius: 0.5rem;
+  gap: 0.5rem;
+  list-style: none;
+}
+nav[role="navigation"][aria-label="Pagination"] ul li em[aria-current="page"] {
+  border: none;
+  background-color: var(--pager-current);
+  color: var(--pager-current-text);
+  font-weight: inherit;
+  font-style: normal;
+  padding: 0.25rem 0.75rem;
+  border-radius: 5px;
+}
+nav[role="navigation"][aria-label="Pagination"] ul li {
+  border-radius: 5px;
+  padding: 0.25rem 0.75rem;
+}
+nav[role="navigation"][aria-label="Pagination"] ul li:hover {
+  background-color: var(--pager-hover);
+  border-color: var(--pager-hover);
+  font-weight: 700;
+}
+nav[role="navigation"][aria-label="Pagination"] ul li a:hover {
+  color: var(--pager-current-text);
+}
+nav[role="navigation"][aria-label="Pagination"] ul li a {
+  text-decoration: none;
+  font-weight: 900;
+}
+
 iframe {
   margin: 2em auto;
   display: block;

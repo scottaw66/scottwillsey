@@ -12,6 +12,9 @@
     "path": "/",
     "paginationSize": 7
   },
+  "reviews": {
+    "paginationSize": 10
+  },
   "rss": {
     "path": "/",
     "fileName": "rss.xml"

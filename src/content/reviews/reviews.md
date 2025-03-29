@@ -1,11 +1,11 @@
 ---
 title: "Reviews"
 description: "Things I've watched, read, played."
-date: "2025-03-29T11:34:24-08:00"
+date: "2025-03-29T16:16:29-08:00"
 slug: "reviews"
 ---
 
-### [Books](/reviews/books/)
+### [Books](/reviews/books/1)
 
 [![Chasing Shadows • Just started it... The story of Citizen Lab, the world's foremost digital watchdog. Encouraging and depressing all at once. • Liked It](../../assets/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.png)](/images/posts/PngImage4D3CB166480-review-ae16dbc0-ca2c-4deb-b0a9-90c68a0b2f1d.jpg)
 [![Dark Wire • Joseph Cox • Joseph Cox is a great security beat journalist, and this story is wild enough already. Sometimes I think the FBI just does stuff because they can and can secretly have fun doing it. • Loved It!](../../assets/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.png)](/images/posts/PngImage43919Ad5A30-review-a6d1efbe-5de8-4a8b-8875-796aff0ada0f.jpg)

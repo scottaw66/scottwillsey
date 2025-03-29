@@ -3,12 +3,22 @@ import { getEntry, render } from "astro:content";
 import Base from "../../../layouts/Base.astro";
 import { modifieddate } from "../../../components/utilities/DateFormat.js";
 import CalendarFillIcon from "../../../components/icons/CalendarFillIcon.astro";
+import Pagination from "@philnash/astro-pagination";
 import { Image } from "astro:assets";
 import booksList from "../../../data/reviews/books.json";
-
-let bookList = Array.from(booksList);
+import site from "../../../data/site.json";
 
 const books = await getEntry("books", "books");
+
+export async function getStaticPaths({ paginate }) {
+  let bookList = Array.from(booksList).sort((a, b) =>
+    a.alttext.localeCompare(b.alttext),
+  );
+  return paginate(bookList, {
+    pageSize: site.reviews.paginationSize,
+  });
+}
+const { page } = Astro.props;
 
 let title = books.data.title;
 let description = books.data.description;
@@ -28,7 +38,7 @@ let description = books.data.description;
     <div class="now">
       <p>
         {
-          bookList.map((book) => (
+          page.data.map((book) => (
             <a href={`/images/posts/${book.review}.jpg`}>
               <Image
                 src={import(`../../../assets/images/posts/${book.review}.png`)}
@@ -39,6 +49,15 @@ let description = books.data.description;
         }
       </p>
     </div>
+    {
+      page.lastPage > 1 && (
+        <Pagination
+          page={page}
+          urlPattern="/reviews/books/{}"
+          firstPageUrl="/reviews/books/1"
+        />
+      )
+    }
   </article>
 </Base>
 
