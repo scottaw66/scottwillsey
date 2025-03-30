@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-29T19:08:00-08:00"
+date: "2025-03-29T19:12:59-08:00"
 slug: "now"
 ---
 
@@ -18,7 +18,7 @@ slug: "now"
 - [Accidental Tech Podcast 632: The Uncertainty Is Gone](https://atp.fm/632)
 - [The Weekly Planet – 567 Severance Season 2 (with Sammy Petersen)](https://overcast.fm/+1HFLsNr74)
 - [Otherwise Objectionable – Episode 3: Law and Disorder](https://overcast.fm/+BNy4NS77B0)
-- The Race Members' Club 2025 – Lawson out, Tsunoda in: Why Red Bull are preparing an early driver change (ad-free)TEST
+- The Race Members' Club 2025 – Lawson out, Tsunoda in: Why Red Bull are preparing an early driver change (ad-free)
 
 ### Books
 
