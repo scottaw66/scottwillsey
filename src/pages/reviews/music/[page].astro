@@ -3,12 +3,22 @@ import { getEntry, render } from "astro:content";
 import Base from "../../../layouts/Base.astro";
 import { modifieddate } from "../../../components/utilities/DateFormat.js";
 import CalendarFillIcon from "../../../components/icons/CalendarFillIcon.astro";
+import Pagination from "@philnash/astro-pagination";
 import { Image } from "astro:assets";
 import musicsList from "../../../data/reviews/music.json";
-
-let musicList = Array.from(musicsList);
+import site from "../../../data/site.json";
 
 const music = await getEntry("music", "music");
+
+export async function getStaticPaths({ paginate }) {
+  let musicList = Array.from(musicsList).sort((a, b) =>
+    a.alttext.localeCompare(b.alttext),
+  );
+  return paginate(musicList, {
+    pageSize: site.reviews.paginationSize,
+  });
+}
+const { page } = Astro.props;
 
 let title = music.data.title;
 let description = music.data.description;
@@ -28,7 +38,7 @@ let description = music.data.description;
     <div class="now">
       <p>
         {
-          musicList.map((musicItem) => (
+          page.data.map((musicItem) => (
             <a href={`/images/posts/${musicItem.review}.jpg`}>
               <Image
                 src={
@@ -41,6 +51,15 @@ let description = music.data.description;
         }
       </p>
     </div>
+    {
+      page.lastPage > 1 && (
+        <Pagination
+          page={page}
+          urlPattern="/reviews/music/{}"
+          firstPageUrl="/reviews/music/1"
+        />
+      )
+    }
   </article>
 </Base>
 

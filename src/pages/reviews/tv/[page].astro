@@ -3,12 +3,22 @@ import { getEntry, render } from "astro:content";
 import Base from "../../../layouts/Base.astro";
 import { modifieddate } from "../../../components/utilities/DateFormat.js";
 import CalendarFillIcon from "../../../components/icons/CalendarFillIcon.astro";
+import Pagination from "@philnash/astro-pagination";
 import { Image } from "astro:assets";
 import tvShowsList from "../../../data/reviews/tvshows.json";
-
-let tvShowList = Array.from(tvShowsList);
+import site from "../../../data/site.json";
 
 const tvshows = await getEntry("tvshows", "tvshows");
+
+export async function getStaticPaths({ paginate }) {
+  let tvShowList = Array.from(tvShowsList).sort((a, b) =>
+    a.alttext.localeCompare(b.alttext),
+  );
+  return paginate(tvShowList, {
+    pageSize: site.reviews.paginationSize,
+  });
+}
+const { page } = Astro.props;
 
 let title = tvshows.data.title;
 let description = tvshows.data.description;
@@ -29,7 +39,7 @@ let description = tvshows.data.description;
     <div class="now">
       <p>
         {
-          tvShowList.map((tvshow) => (
+          page.data.map((tvshow) => (
             <a href={`/images/posts/${tvshow.review}.jpg`}>
               <Image
                 src={
@@ -42,6 +52,15 @@ let description = tvshows.data.description;
         }
       </p>
     </div>
+    {
+      page.lastPage > 1 && (
+        <Pagination
+          page={page}
+          urlPattern="/reviews/tv/{}"
+          firstPageUrl="/reviews/tv/1"
+        />
+      )
+    }
   </article>
 </Base>
 
