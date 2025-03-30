@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Read from "../../components/Read.astro";
-import Pager from "../../components/Pager.astro";
+import Pagination from "@philnash/astro-pagination";
 import { getCollection } from "astro:content";
 import site from "../../data/site.json";
 import RssIcon from "../../components/icons/RssIconReads.astro";
@@ -31,7 +31,15 @@ const description = `Weekly Reads Page ${page.currentPage}`;
         return <Read read={read} />;
       })
     }
-    <Pager page={page} />
+    {
+      page.lastPage > 1 && (
+        <Pagination
+          page={page}
+          urlPattern="/reads/{}"
+          firstPageUrl="/reads/1"
+        />
+      )
+    }
   </section>
 </Base>
 <style>
