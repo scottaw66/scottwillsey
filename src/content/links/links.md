@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-03-29T19:08:01-08:00"
+date: "2025-03-31T11:54:32-08:00"
 slug: "links"
 ---
 
@@ -508,6 +508,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 - [Terrible Captchas](https://terrible-captchas.vercel.app/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
+- [The Protesters' Guide to Smartphone Security - Privacy Guides](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 - [The Pudding](https://pudding.cool/)
 - [The Scroll Art Museum](https://scrollart.org/)
 - [The Web We Want](https://webwewant.fyi)

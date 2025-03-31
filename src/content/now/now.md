@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-29T19:12:59-08:00"
+date: "2025-03-31T11:54:32-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [P1 with Matt and Tommy – Our reaction to Yuki Tsunoda REPLACING Liam Lawson at Red Bull](https://overcast.fm/+_U3oqB3p4)
-- [Click Here – Mic Drop: Jon Clay: Minority Report meets cyber… pre-cogs sold separately](https://overcast.fm/+BL5ZglE1kQ)
-- [Security Cryptography Whatever – Picking Quantum Resistant Algorithms](https://overcast.fm/+xz8VUTRcI)
-- [The Rebound – 539: The Four Finger Spread](https://overcast.fm/+De1mS8ffs)
-- [The Josh Marshall Podcast – Signal Noise](https://overcast.fm/+TzjgYzKoA)
-- Six Colors – Opening day and a WWDC date (6C Podcast)
-- [Accidental Tech Podcast 632: The Uncertainty Is Gone](https://atp.fm/632)
-- [The Weekly Planet – 567 Severance Season 2 (with Sammy Petersen)](https://overcast.fm/+1HFLsNr74)
-- [Otherwise Objectionable – Episode 3: Law and Disorder](https://overcast.fm/+BNy4NS77B0)
-- The Race Members' Club 2025 – Lawson out, Tsunoda in: Why Red Bull are preparing an early driver change (ad-free)
+- The Race Members' Club 2025 – Is Verstappen papering over the cracks at a Red Bull team in crisis? (ad-free)
+- [Risky Bulletin – Srsly Risky Biz: The Signalgate clown show](https://overcast.fm/+5Sl_oevs0)
+- [Risky Bulletin – Risky Bulletin: Oracle’s healthtech division hacked, customers extorted](https://overcast.fm/+5Sl_J5oN4)
+- [Risky Bulletin – Sponsored: Why hacked geolocation data is worrying](https://overcast.fm/+5Sl8RoO50)
+- [Mac Admins Podcast – Episode 406: An App Catalog in the Cloud, with Root3](https://overcast.fm/+OG8zCAcTo)
+- [Risky Bulletin – Risky Bulletin: France runs phishing test on 2.5 million students](https://overcast.fm/+5Sl__IC7Q)
+- [楽しいラジオ「ドングリFM」 – 1166 花粉とクラウドの容量](https://overcast.fm/+9ABIP4g0E)
+- [The Vergecast – OpenAI has a Studio Ghibli problem](https://overcast.fm/+QN1r3K8u4)
+- [System Crash – How Elon Musk Used Tesla to Build His Power ft. Ed Niedermeyer](https://overcast.fm/+BL8c1G6Io8)
+- [Whisky Whiskey – 48: Macallan 12 Year Sherry Oak Single Malt Scotch Whisky Re-Review](https://overcast.fm/+BLIhfnCVd4)
 
 ### Books
 
@@ -45,7 +45,6 @@ slug: "now"
 
 ### Food and Drink
 
-- [Syun Izakaya](https://www.syunhillsboro.com/#21)
+- [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Sisters Coffee Company](https://sisterscoffee.com/)
-- [Fair Trade Organic Bolivian Blend | Trader Joe's](https://www.traderjoes.com/home/products/pdp/fair-trade-organic-bolivian-blend-074367)
 - [Wayfinder Beer](https://www.wayfinder.beer/) LA MAGIE - FRENCH PILSNER
