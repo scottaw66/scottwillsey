@@ -27,7 +27,11 @@ let description = music.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{title}</h1>
-    <p class="now">{music.data.description}</p>
+    <p class="now">
+      {music.data.description}<span class="bullet">•</span><a href="/reviews"
+        >Back to Reviews Page</a
+      >
+    </p>
     <div class="time">
       <CalendarFillIcon />
       <time datetime={music.data.date}>
@@ -51,6 +55,9 @@ let description = music.data.description;
         }
       </p>
     </div>
+    <p class="now">
+      <a href="/reviews">Back to Reviews Page</a>
+    </p>
     {
       page.lastPage > 1 && (
         <Pagination
@@ -73,5 +80,8 @@ let description = music.data.description;
   }
   div.time {
     margin-top: 2.5rem;
+  }
+  .bullet {
+    margin: 0 1rem;
   }
 </style>

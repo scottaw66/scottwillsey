@@ -27,7 +27,11 @@ let description = books.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{title}</h1>
-    <p class="now">{books.data.description}</p>
+    <p class="now">
+      {books.data.description}<span class="bullet">•</span><a href="/reviews"
+        >Back to Reviews Page</a
+      >
+    </p>
     <div class="time">
       <CalendarFillIcon />
       <time datetime={books.data.date}>
@@ -49,6 +53,9 @@ let description = books.data.description;
         }
       </p>
     </div>
+    <p class="now">
+      <a href="/reviews">Back to Reviews Page</a>
+    </p>
     {
       page.lastPage > 1 && (
         <Pagination
@@ -71,5 +78,8 @@ let description = books.data.description;
   }
   div.time {
     margin-top: 2.5rem;
+  }
+  .bullet {
+    margin: 0 1rem;
   }
 </style>
