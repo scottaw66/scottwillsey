@@ -780,7 +780,21 @@ article img {
   content-visibility: auto;
 }
 
-article div.now p {
+/* article div.now p {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 1em 1em 2em;
+} */
+
+article h3#movies + p,
+article h3#books ~ p,
+article h3#tv-shows + p,
+article h3#games + p,
+article h3#music + p,
+article div.review p {
   display: flex;
   flex-direction: row;
   gap: 1em;
@@ -789,7 +803,8 @@ article div.now p {
   margin: 1em 1em 2em;
 }
 
-div.now p a img {
+div.now p a img,
+div.review p a img {
   width: 100%;
   max-width: 450px;
   margin: 0;

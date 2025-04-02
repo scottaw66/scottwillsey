@@ -27,7 +27,7 @@ let description = movies.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{title}</h1>
-    <p class="now">
+    <p class="review">
       {movies.data.description}<span class="bullet">•</span><a href="/reviews"
         >Back to Reviews Page</a
       >
@@ -40,7 +40,7 @@ let description = movies.data.description;
         >
       </time>
     </div>
-    <div class="now">
+    <div class="review">
       <p>
         {
           page.data.map((movie) => (
@@ -63,7 +63,7 @@ let description = movies.data.description;
         />
       )
     }
-    <p class="now">
+    <p class="review">
       <a href="/reviews">Back to Reviews Page</a>
     </p>
   </article>
