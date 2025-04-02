@@ -29,7 +29,8 @@ let description = tvshows.data.description;
     <h1>{title}</h1>
     <p class="now">
       {tvshows.data.description}<span class="bullet">•</span><a href="/reviews"
-        >Back to Reviews Page</a>
+        >Back to Reviews Page</a
+      >
     </p>
     <div class="time">
       <CalendarFillIcon />
@@ -55,9 +56,6 @@ let description = tvshows.data.description;
         }
       </p>
     </div>
-    <p class="now">
-      <a href="/reviews">Back to Reviews Page</a>
-    </p>
     {
       page.lastPage > 1 && (
         <Pagination
@@ -67,6 +65,9 @@ let description = tvshows.data.description;
         />
       )
     }
+    <p class="now">
+      <a href="/reviews">Back to Reviews Page</a>
+    </p>
   </article>
 </Base>
 
