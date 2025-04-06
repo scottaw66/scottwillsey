@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-03-31T11:54:32-08:00"
+date: "2025-04-06T12:19:58-08:00"
 slug: "links"
 ---
 
@@ -497,6 +497,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
+- [Resistbot](https://resist.bot/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
