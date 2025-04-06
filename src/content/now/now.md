@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-03-31T11:54:32-08:00"
+date: "2025-04-06T13:19:40-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,15 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- The Race Members' Club 2025 – Is Verstappen papering over the cracks at a Red Bull team in crisis? (ad-free)
-- [Risky Bulletin – Srsly Risky Biz: The Signalgate clown show](https://overcast.fm/+5Sl_oevs0)
-- [Risky Bulletin – Risky Bulletin: Oracle’s healthtech division hacked, customers extorted](https://overcast.fm/+5Sl_J5oN4)
-- [Risky Bulletin – Sponsored: Why hacked geolocation data is worrying](https://overcast.fm/+5Sl8RoO50)
-- [Mac Admins Podcast – Episode 406: An App Catalog in the Cloud, with Root3](https://overcast.fm/+OG8zCAcTo)
-- [Risky Bulletin – Risky Bulletin: France runs phishing test on 2.5 million students](https://overcast.fm/+5Sl__IC7Q)
-- [楽しいラジオ「ドングリFM」 – 1166 花粉とクラウドの容量](https://overcast.fm/+9ABIP4g0E)
-- [The Vergecast – OpenAI has a Studio Ghibli problem](https://overcast.fm/+QN1r3K8u4)
-- [System Crash – How Elon Musk Used Tesla to Build His Power ft. Ed Niedermeyer](https://overcast.fm/+BL8c1G6Io8)
-- [Whisky Whiskey – 48: Macallan 12 Year Sherry Oak Single Malt Scotch Whisky Re-Review](https://overcast.fm/+BLIhfnCVd4)
+- The Race Members' Club 2025 – Japanese Grand Prix race review (ad-free)
+- [Techdirt – Ron Wyden On Chutzpah](https://overcast.fm/+DyYWudCGo)
+- [Whisky Whiskey – 52: Can You Taste E150A Colouring In Your Whisky?](https://overcast.fm/+BLIhd3oSK0)
+- [Accidental Tech Podcast – 633: Moonshoot](https://atp.fm/633)
+- [P1 with Matt and Tommy – Reaction to Japanese GP qualifying](https://overcast.fm/+_U3q5ufmE)
+- [The Incomparable Mothership – 760: Send Them to the Sea](https://overcast.fm/+kMbT_o5U)
+- Trashfuture Bonus Content Feed (Extremely Good) – I Bought A Cyber Truck And All I Got Was This Brown T-Shirt (feat. Victoria Scott)
+- Six Colors – Spreadsheets and Tariffs (6C Podcast)
+- [The Josh Marshall Podcast – Wisconsin Hates Elon](https://overcast.fm/+TzjjmBq1o)
 
 ### Books
 
@@ -45,6 +44,7 @@ slug: "now"
 
 ### Food and Drink
 
+- [Rogue Hazelnut Brown Ale](https://www.rogue.com/shop/beer/core/hazelnut-brown-ale/)
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Sisters Coffee Company](https://sisterscoffee.com/)
 - [Wayfinder Beer](https://www.wayfinder.beer/) LA MAGIE - FRENCH PILSNER
