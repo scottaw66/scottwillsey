@@ -500,7 +500,7 @@ svg#menu-timer-icon {
   height: 1.25em;
 }
 svg#menu-review-icon {
-  fill: var(--accent-orange-light);
+  fill: var(--accent-orange-dark);
   width: 1.25em;
   height: 1.25em;
   margin-bottom: 0.1em;
@@ -530,6 +530,15 @@ svg#menu-hypercritical-icon {
   svg#menu-hypercritical-icon {
     margin-left: 0;
   }
+}
+svg#reviews-books-icon,
+svg#reviews-movies-icon,
+svg#reviews-tv-icon,
+svg#reviews-music-icon {
+  fill: var(--brand);
+  width: 1.333em;
+  height: 1.333em;
+  margin: 0 0.25em -0.25em 0;
 }
 svg#inline-mastodon-icon,
 svg#inline-bluesky-icon {

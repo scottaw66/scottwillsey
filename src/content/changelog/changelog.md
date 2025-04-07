@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-04-06
+
+Added icons to review category links on the [reviews page](/reviews).
+
 ### 2025-04-01
 
 Broke categories out into their own pages. Reviews index page now shows one random review from each category.

@@ -2,6 +2,10 @@
 import { getEntry, render } from "astro:content";
 import { Image } from "astro:assets";
 import Base from "../../layouts/Base.astro";
+import ReviewBooksIcon from "../../components/icons/ReviewsBooksIcon.astro";
+import ReviewMoviesIcon from "../../components/icons/ReviewsMoviesIcon.astro";
+import ReviewTvIcon from "../../components/icons/ReviewsTvIcon.astro";
+import ReviewMusicIcon from "../../components/icons/ReviewsMusicIcon.astro";
 import booksList from "../../data/reviews/books.json";
 import moviesList from "../../data/reviews/movies.json";
 import tvList from "../../data/reviews/tvshows.json";
@@ -25,10 +29,26 @@ let description = reviews.data.description;
     </p>
     <p>
       <ul>
-        <li><a href="/reviews/books/1">Book Reviews</a></li>
-        <li><a href="/reviews/movies/1">Movie Reviews</a></li>
-        <li><a href="/reviews/tv/1">TV Show Reviews</a></li>
-        <li><a href="/reviews/music/1">Music Reviews</a></li>
+        <li>
+          <a href="/reviews/books/1"><ReviewBooksIcon /></a><a
+            href="/reviews/books/1">Book Reviews</a
+          >
+        </li>
+        <li>
+          <a href="/reviews/movies/1"><ReviewMoviesIcon /></a><a
+            href="/reviews/movies/1">Movie Reviews</a
+          >
+        </li>
+        <li>
+          <a href="/reviews/tv/1"><ReviewTvIcon /></a><a href="/reviews/tv/1"
+            >TV Show Reviews</a
+          >
+        </li>
+        <li>
+          <a href="/reviews/music/1"><ReviewMusicIcon /></a><a
+            href="/reviews/music/1">Music Reviews</a
+          >
+        </li>
       </ul>
     </p>
     <div class="review">
