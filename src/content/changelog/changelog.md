@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-04-08
+
+Added reviews to pagefind index by using hidden span with alt text inside.
+
 ### 2025-04-06
 
 Added icons to review category links on the [reviews page](/reviews).
