@@ -44,6 +44,7 @@ let description = movies.data.description;
       <p>
         {
           page.data.map((movie) => (
+            <span hidden>{`${movie.alttext}`}</span>
             <a href={`/images/posts/${movie.review}.jpg`}>
               <Image
                 src={import(`../../../assets/images/posts/${movie.review}.png`)}

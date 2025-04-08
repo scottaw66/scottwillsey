@@ -43,6 +43,7 @@ let description = books.data.description;
       <p>
         {
           page.data.map((book) => (
+            <span hidden>{`${book.alttext}`}</span>
             <a href={`/images/posts/${book.review}.jpg`}>
               <Image
                 src={import(`../../../assets/images/posts/${book.review}.png`)}

@@ -44,6 +44,7 @@ let description = tvshows.data.description;
       <p>
         {
           page.data.map((tvshow) => (
+            <span hidden>{`${tvshow.alttext}`}</span>
             <a href={`/images/posts/${tvshow.review}.jpg`}>
               <Image
                 src={

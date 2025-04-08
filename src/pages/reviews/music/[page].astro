@@ -43,6 +43,7 @@ let description = music.data.description;
       <p>
         {
           page.data.map((musicItem) => (
+            <span hidden>{`${musicItem.alttext}`}</span>
             <a href={`/images/posts/${musicItem.review}.jpg`}>
               <Image
                 src={
