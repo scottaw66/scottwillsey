@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-06T12:19:58-08:00"
+date: "2025-04-11T10:15:33-08:00"
 slug: "links"
 ---
 
@@ -351,6 +351,9 @@ Sarah Rainsberger is lead for the [Astro docs project](https://docs.astro.build/
 **[Shankar UX](https://shankarux.com/)**  
 Shankar designs Gmail interactions. He's also recently discovered the modern personal web, which I think is bigger than he realizes. I hope he makes the most of it.  
 
+**[sim.coffee](https://sim.coffee/)**  
+Sim's projects are just incredible. Read the one about the [Severance Terminal](https://sim.coffee/a-week-eating-dogfood/).
+
 **[SIRACUSA SAYS](https://siracusasays.com/)**  
 A fun collection of things John Siracusa has said on podcasts.  
 
@@ -417,9 +420,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Café Mam – Organic Fair Trade Shade-Grown Coffee](https://cafemam.com/)
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
+- [Forecast Coffee Company](https://forecastcoffeecompany.com/)
 - [Kalita USA | Premium coffee brewing equipment](https://kalitausa.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
 - [Nightcap Decaf – Joe Coffee Company](https://joecoffeecompany.com/shop/nightcap-decaf/)
+- [Sisters Coffee Company](https://sisterscoffee.com/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Sterling Coffee Roasters](https://www.sterling.coffee/)
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
@@ -458,6 +463,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [1Crossword: crosswords for your password manager · eieio.games](https://eieio.games/blog/1Crossword/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
+- [Are you a bot?](https://www.invisiclues.org/)
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
