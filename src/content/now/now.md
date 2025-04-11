@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-04-06T13:19:40-08:00"
+date: "2025-04-10T21:19:11-08:00"
 slug: "now"
 ---
 
@@ -9,15 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- The Race Members' Club 2025 – Japanese Grand Prix race review (ad-free)
-- [Techdirt – Ron Wyden On Chutzpah](https://overcast.fm/+DyYWudCGo)
-- [Whisky Whiskey – 52: Can You Taste E150A Colouring In Your Whisky?](https://overcast.fm/+BLIhd3oSK0)
-- [Accidental Tech Podcast – 633: Moonshoot](https://atp.fm/633)
-- [P1 with Matt and Tommy – Reaction to Japanese GP qualifying](https://overcast.fm/+_U3q5ufmE)
-- [The Incomparable Mothership – 760: Send Them to the Sea](https://overcast.fm/+kMbT_o5U)
-- Trashfuture Bonus Content Feed (Extremely Good) – I Bought A Cyber Truck And All I Got Was This Brown T-Shirt (feat. Victoria Scott)
-- Six Colors – Spreadsheets and Tariffs (6C Podcast)
-- [The Josh Marshall Podcast – Wisconsin Hates Elon](https://overcast.fm/+TzjjmBq1o)
+- [Risky Bulletin – Srsly Risky Biz: MAGA’s NSA purge will get messy](https://overcast.fm/+5Sl8HeuZE)
+- The 404 Media Podcast (Premium Feed) – How a $2,000 ‘Made in the USA’ Phone Is Manufactured
+- [Accidental Tech Podcast 634: We Don’t Have Enough Bees](https://atp.fm/634)
+- [Friends with Brews – Whales Are Submersible](https://friendswithbrews.com/83/)
+- [Smashing Security – Peeping perverts and FBI phone calls](https://overcast.fm/+SD4PCjDKw)
+- [Otherwise Objectionable – Episode 5: Blowback, and the Dust Settles](https://overcast.fm/+BNy4PXiVfA)
+- [Judge John Hodgman – A Jewelry of Your Peers in Ann Arbor](https://overcast.fm/+YJM0S6ZsE)
+- [Risky Business – Risky Business #787 — Trump fires NSA director, CISA cuts inbound](https://overcast.fm/+It0ghfr1o)
+- The 404 Media Podcast (Premium Feed) – The Websites An ICE Contractor is Monitoring
+- [P1 with Matt and Tommy – Our 2025 Bahrain GP predictions](https://overcast.fm/+_U3r07nao)
 
 ### Books
 
@@ -33,9 +34,8 @@ slug: "now"
 
 ### TV Shows
 
-[![The Studio • 2025 • After one episode I realized I have zero desire to ever watch this again. I don't care about Hollywood sycophants and I'm not even much of a Seth Rogan fan. • Didn't Like It](../../assets/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.png)](/images/posts/PngImage4872886A630-review-2989b063-2de2-4522-9377-4f30160cc5b4.jpg)
+[![Zero Day • 2025 • Decent-ish premise, written wildly unrealistically. Robert De Niro is always good, Jesse Plemons was surprisingly good, and several others do their jobs admirably, but the writing is too corny and far-fetched to care. Cannot recommend. • Didn't Like It](../../assets/images/posts/PngImage4Ea792E5D80-review-e3dcb4e1-2d2e-474f-a9fe-add1f2c652ea.png)](/images/posts/PngImage4Ea792E5D80-review-e3dcb4e1-2d2e-474f-a9fe-add1f2c652ea.jpg)
 [![Severance S1&2 • 2022 • Man, this thing is weird and wild but also so much deeper than you might think at first. One of the best shows ever. • Loved It!](../../assets/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.png)](/images/posts/PngImage42999A84080-review-6126286a-a138-4551-8892-ad278b0bfa5f.jpg)
-[![Prime Target • 2025 • S1 review: Started off pretty good, then devolved into complete implausible nonsense. Very disappointing. • Didn't Like It](../../assets/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.png)](/images/posts/PngImage4958Bb09820-review-537f7b28-8d4a-4f6a-a3f5-10e682af7b61.jpg)
 
 ### Music
 
