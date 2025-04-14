@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-11T10:15:33-08:00"
+date: "2025-04-13T20:36:37-08:00"
 slug: "links"
 ---
 
@@ -52,13 +52,17 @@ slug: "links"
 - [6 of the Coolest Rest Stops in the U.S. | The Discoverer](https://www.thediscoverer.com/blog/6-of-the-coolest-rest-stops-in-the-u-s/ZEa06xG9cAAI0Drq)
 - [8 Google Employees Invented Modern AI. Here’s the Inside Story | WIRED](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 - [A brief history of logs and Console – The Eclectic Light Company](https://eclecticlight.co/2024/12/21/a-brief-history-of-logs-and-console/)
+- [A brief history of Mac native file systems – The Eclectic Light Company](https://eclecticlight.co/2025/04/12/a-brief-history-of-mac-native-file-systems/)
 - [A candy engineer explains the science behind the Snickers bar - Ars Technica](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/#gsc.tab=0)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
+- [Anthropic's Claude Is Good at Poetry—and Bullshitting | WIRED](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
+- [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [Everything you need to know about bird flu - Ars Technica](https://arstechnica.com/health/2025/04/everything-you-need-to-know-about-bird-flu/)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [Here’s some cool stuff you can do with Bluesky - The Verge](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to?ref=hiro.report)
 - [Here’s the paper no one read before declaring the demise of modern cryptography - Ars Technica](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/#gsc.tab=0)
@@ -117,6 +121,7 @@ slug: "links"
 - [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
 - [What we talk about when we talk about computers - net.wars](https://netwars.pelicancrossing.net/2025/02/07/what-we-talk-about-when-we-talk-about-computers/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
+- [Wi-Fi is one of the great backward compatibility success stories | The Verge](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
 
 ## Astro
 
@@ -124,6 +129,7 @@ slug: "links"
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
 - [MatthiesenXYZ/Astrolace: An easy way to use Shoelace.style within your Astro Project!](https://github.com/MatthiesenXYZ/Astrolace)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
+- [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev/)
 
 ## Beer
 
@@ -140,6 +146,9 @@ slug: "links"
 - [Wayfinder Beer](https://www.wayfinder.beer/)
 
 ## Blogroll
+
+**[Alan's Home Page](https://www.alanwsmith.com/)**  
+As Alan says, thousands of pages of content! I was kind of excited to find out he makes Minecraft videos, personally.
 
 **[Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/)**  
 Aleksandr Hovhannisyan makes performant web software.  
