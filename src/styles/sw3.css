@@ -134,9 +134,9 @@ html {
   /* --font-title: "CaptainEdward-Bold"; */
   /* --font-title: "Cartridge-BoldRough"; */
   /* --font-title: "Cartridge-Bold"; */
-  --font-title: "Cartridge-Bold";
+  --font-title: "Cartridge-BoldSoft";
   /* --font-blockquote-before: "Cartridge-BoldRough"; */
-  --font-blockquote-before: "Cartridge-Bold";
+  --font-blockquote-before: "Cartridge-BoldSoft";
 
   --pagefind-ui-scale: 0.8;
   --pagefind-ui-primary: var(--surface-menu);
@@ -339,6 +339,11 @@ html {
 }
 
 @font-face {
+  font-family: Cartridge-RegularSoft;
+  src: url("/fonts/Cartridge/Cartridge-RegularSoft.woff2") format("woff2");
+}
+
+@font-face {
   font-family: Cartridge-Rough;
   src: url("/fonts/Cartridge/Cartridge-Rough.woff2") format("woff2");
 }
@@ -351,6 +356,11 @@ html {
 @font-face {
   font-family: Cartridge-BoldRough;
   src: url("/fonts/Cartridge/Cartridge-BoldRough.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Cartridge-BoldSoft;
+  src: url("/fonts/Cartridge/Cartridge-BoldSoft.woff2") format("woff2");
 }
 
 @media (prefers-reduced-motion: no-preference) {

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-13T20:36:37-08:00"
+date: "2025-04-14T09:29:16-08:00"
 slug: "links"
 ---
 
@@ -522,6 +522,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Song a Day World](https://songaday.world)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- [Terminal of Woe](https://codea.io/woe/)
 - [Terrible Captchas](https://terrible-captchas.vercel.app/)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [The Protesters' Guide to Smartphone Security - Privacy Guides](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
