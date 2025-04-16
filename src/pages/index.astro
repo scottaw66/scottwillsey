@@ -104,8 +104,18 @@ let description = site.description;
   div.search-bar {
     margin: 3rem auto -2rem;
   }
+  @media only screen and (max-width: 460px) {
+    div.search-bar {
+      margin: 2rem auto;
+    }
+  }
   span.posts-title {
     color: var(--hyperlink);
+  }
+  @media only screen and (max-width: 460px) {
+    span.posts-title {
+      font-size: 0.8em;
+    }
   }
   header {
     margin-bottom: 3rem;

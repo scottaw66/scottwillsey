@@ -502,6 +502,7 @@ svg#menu-home-icon {
 div.menu svg#message-edit-icon {
   width: 1.25em;
   height: 1.25em;
+  margin-bottom: -0.1em;
   fill: var(--accent-red);
 }
 svg#menu-link-icon {
@@ -536,7 +537,7 @@ svg#menu-hypercritical-icon {
   fill: var(--theme-toggle);
   width: 1.25em;
   height: 1.25em;
-  margin-left: 2em;
+  margin-left: 1.25em;
   margin-bottom: 0.25em;
 }
 @media only screen and (max-width: 550px) {
@@ -632,6 +633,11 @@ h1 svg#message-edit-icon {
   height: 1.25em;
   margin: 0 0.25em -0.333em 0;
   fill: var(--hyperlink);
+}
+@media only screen and (max-width: 460px) {
+  h1 svg#message-edit-icon {
+    margin: 0 0.15em -0.425em 0;
+  }
 }
 svg#post-link-icon {
   width: 1.1em;
