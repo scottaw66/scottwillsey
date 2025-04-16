@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-04-13T10:14:39-08:00"
+date: "2025-04-15T22:59:03-08:00"
 slug: "now"
 ---
 
@@ -19,6 +19,11 @@ slug: "now"
 - [Risky Business – Wide World of Cyber: How the Trump admin is changing the cybersecurity landscape](https://overcast.fm/+It0iRBzjg)
 - [The Vergecast – How the tech world is responding to tariff chaos](https://overcast.fm/+QN1rGSxK8)
 - [System Crash – What the Trade War Means for Tech, Musk, and American Workers](https://overcast.fm/+BL8c2IRq6Y)
+
+### Books
+
+[<span hidden>Doomsday Book • 1992 • Connie Willis A time traveler from the near future goes back to England of the 14th century and stumbles into the Black Death wiping everyone out all around her. Sounds horrible - and yet, it's a wonderful book. There are compelling characters in the future and in the past, and it's somehow compelling even while being a horrific portrayal of the plague. • Loved It!</span>
+![Doomsday Book • 1992 • Connie Willis A time traveler from the near future goes back to England of the 14th century and stumbles into the Black Death wiping everyone out all around her. Sounds horrible - and yet, it's a wonderful book. There are compelling characters in the future and in the past, and it's somehow compelling even while being a horrific portrayal of the plague. • Loved It!](../../assets/images/posts/PngImage447C8168150-review-2d617e4e-0e07-4fe1-9145-de1376f3caa2.png)](/images/posts/PngImage447C8168150-review-2d617e4e-0e07-4fe1-9145-de1376f3caa2.jpg)
 
 ### TV Shows
 

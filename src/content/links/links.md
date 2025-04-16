@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-14T09:29:16-08:00"
+date: "2025-04-15T22:59:03-08:00"
 slug: "links"
 ---
 
@@ -75,6 +75,7 @@ slug: "links"
 - [How to Enter the US With Your Digital Privacy Intact | WIRED](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
 - [How to Get Started on Bluesky | WIRED](https://www.wired.com/story/how-to-get-started-on-bluesky/)
 - [How to Lead an Army of Digital Sleuths in the Age of AI | WIRED](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
+- [How to leak to a journalist | Nieman Journalism Lab](https://www.niemanlab.org/2025/04/how-to-leak-to-a-journalist/)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
 - [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
@@ -327,6 +328,9 @@ Web, Mac, and more.
 **[Notes and Ramblings](https://notes.1705.net/)**  
 See the notes for EuroVan Camper Stuff above - it's David H!  
 
+**[Paul Stamatiou](https://paulstamatiou.com/)**  
+Paul writes about design, code, startups, and anything that interests him.  
+
 **[Philip Zastrow](https://zastrow.co/)**  
 I love all the different websites from designers. This is super cool too.  
 
@@ -500,6 +504,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
+- [Making A Plan](https://millionexperiments.com/zines/making-a-plan)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
 - [noclip](https://noclip.website/)
@@ -745,6 +750,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
+- [Browser Resource Hints: preload, prefetch, and preconnect | DebugBear](https://www.debugbear.com/blog/resource-hints-rel-preload-prefetch-preconnect)
 - [Build An Audio AI Web App with Python and AssemblyAI Course](https://training.talkpython.fm/courses/build-an-audio-ai-app-with-python-and-assemblyai)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
@@ -759,6 +765,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [How to use cProfile and snakeviz to profile Python code | James' Coffee Blog](https://jamesg.blog/2024/11/02/cprofile/)
 - [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
 - [HTML for People](https://htmlforpeople.com/)
+- [Icônes](https://icones.js.org/)
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
@@ -771,7 +778,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [On popover accessibility: what the browser does and doesn’t do | hidde.blog](https://hidde.blog/popover-accessibility/)
-- [porkbun.com | An oddly satisfying experience.](https://porkbun.com/)
 - [Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration](https://pmrf-ml.github.io/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
@@ -782,8 +788,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
-- [tiny-helpers.dev](https://tiny-helpers.dev/)
+- [The Best Font Loading Strategies and How to Execute Them | CSS-Tricks](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
 - [The Ultimate CSS Shapes Collection](https://css-shape.com/)
+- [tiny-helpers.dev](https://tiny-helpers.dev/)
 - [Use secret references with 1Password CLI | 1Password Developer](https://developer.1password.com/docs/cli/secret-references/#with-op-inject)
 - [Using and Creating Global Variables in Your Python Functions – Real Python](https://realpython.com/python-use-global-variable-in-function/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
