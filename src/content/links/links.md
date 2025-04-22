@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-15T22:59:03-08:00"
+date: "2025-04-22T11:07:43-08:00"
 slug: "links"
 ---
 
@@ -9,16 +9,13 @@ slug: "links"
 
 ## AI
 
-- [danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
-- [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast AI Extensions](https://manual.raycast.com/ai-extensions)
 - [sigoden/aichat: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.](https://github.com/sigoden/aichat)
 - [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
-- [Windsurf Editor and Codeium extensions](https://codeium.com/)
 
 ## Apple
 
@@ -48,6 +45,7 @@ slug: "links"
 
 ## Articles
 
+- [4chan Is Dead. Its Toxic Legacy Is Everywhere | WIRED](https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/)
 - [5 Reasons To Move To Tokyo's Exciting Eastside | Tokyo Cheapo](https://tokyocheapo.com/living/east-tokyo/)
 - [6 of the Coolest Rest Stops in the U.S. | The Discoverer](https://www.thediscoverer.com/blog/6-of-the-coolest-rest-stops-in-the-u-s/ZEa06xG9cAAI0Drq)
 - [8 Google Employees Invented Modern AI. Here’s the Inside Story | WIRED](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
@@ -61,9 +59,11 @@ slug: "links"
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
+- [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Everything you need to know about bird flu - Ars Technica](https://arstechnica.com/health/2025/04/everything-you-need-to-know-about-bird-flu/)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+- [Half the World’s People Depend on Rice. New Research Says Climate Change Will Make it Toxic - Inside Climate News](https://insideclimatenews.org/news/16042025/half-the-worlds-people-depend-on-rice-new-research-says-climate-change-will-make-it-toxic/)
 - [Here’s some cool stuff you can do with Bluesky - The Verge](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to?ref=hiro.report)
 - [Here’s the paper no one read before declaring the demise of modern cryptography - Ars Technica](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/#gsc.tab=0)
 - [Honda’s on a Roll Reviving Retro Mini-Motorcycle Designs](https://www.thedrive.com/news/hondas-on-a-roll-reviving-retro-mini-motorcycle-designs)
@@ -111,6 +111,7 @@ slug: "links"
 - [The UX of LEGO Interface Panels - Interaction Magic](https://interactionmagic.com/UX-LEGO-Interfaces/)
 - [The Vacuum of Space Will Decay Sooner Than Expected | WIRED](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
 - [The West Coast’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico | WIRED](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
+- [The WIRED Guide to Protecting Yourself From Government Surveillance | WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 - [This Ancient Technology Is Helping Millions Stay Cool | WIRED](https://www.wired.com/story/evaporative-cooling-devices-coolant-clay-matka-mitticool-india-heat-wave/)
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
@@ -128,6 +129,7 @@ slug: "links"
 
 - [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
+- [How to build a simple photo gallery with Astro | Jan Kraus](https://jankraus.net/2024/04/05/how-to-build-a-simple-photo-gallery-with-astro/)
 - [MatthiesenXYZ/Astrolace: An easy way to use Shoelace.style within your Astro Project!](https://github.com/MatthiesenXYZ/Astrolace)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 - [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev/)
@@ -249,6 +251,9 @@ Rick's microblog on tech and Japan! Hey, I like both of those things!
 
 **[Home | James' Coffee Blog](https://jamesg.blog/)**  
 Is it a blog? Is it a coffee blog? I guess it's both, because James says so. Either way, it's also about the indieweb, and I'm here for it!  
+
+**[Hello, I'm Jan Kraus. This is my space on the web | Jan Kraus](https://jankraus.net/)**  
+Jan shares stories about photography, travel, running, and building stuff on the web.  
 
 **[Home - Stephanie Stimac's Blog](https://blog.stephaniestimac.com/)**  
 There's a lot here! I'm diggin' it. Also I think I need Stephanie's [Design for Developers](https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095) book!
@@ -516,6 +521,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [other networks](https://othernetworks.net/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
+- [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [Resistbot](https://resist.bot/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
@@ -758,11 +764,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
+- [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Developer Community | 1Password Developer](https://developer.1password.com/community/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
 - [How to use cProfile and snakeviz to profile Python code | James' Coffee Blog](https://jamesg.blog/2024/11/02/cprofile/)
+- [Icônes](https://icones.js.org/)  
 - [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
 - [HTML for People](https://htmlforpeople.com/)
 - [Icônes](https://icones.js.org/)
@@ -791,6 +799,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Best Font Loading Strategies and How to Execute Them | CSS-Tricks](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
 - [The Ultimate CSS Shapes Collection](https://css-shape.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
+- [Typography troubles: Balancing lines in Japanese & Korean - ryelle codes](https://ryelle.codes/2025/04/typography-troubles-balancing-in-japanese-korean/)
 - [Use secret references with 1Password CLI | 1Password Developer](https://developer.1password.com/docs/cli/secret-references/#with-op-inject)
 - [Using and Creating Global Variables in Your Python Functions – Real Python](https://realpython.com/python-use-global-variable-in-function/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
@@ -800,6 +809,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Raycast
 
+- [AI](https://manual.raycast.com/ai)
 - [AI Extensions](https://manual.raycast.com/ai-extensions)
 - [Focus](https://manual.raycast.com/focus)
 - [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
