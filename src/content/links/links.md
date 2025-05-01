@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-27T18:06:47-08:00"
+date: "2025-04-30T20:17:27-08:00"
 slug: "links"
 ---
 
@@ -498,6 +498,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)
+- [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)
 - [html.earth: Markdown to HTML Converter & Site Generator](https://html.earth/)
 - [HTMHell](https://www.htmhell.dev)
 - [HTML for People](https://htmlforpeople.com/)
