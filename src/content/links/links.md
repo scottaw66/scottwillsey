@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-05T10:38:44-08:00"
+date: "2025-05-05T10:41:56-08:00"
 slug: "links"
 ---
 
@@ -560,6 +560,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
 - [How to Download and Optimize Google Fonts | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/downloading-and-optimizing-google-fonts/)
 - [SimpleBits®](https://simplebits.shop/)
+- [The Best Font Loading Strategies and How to Execute Them | CSS-Tricks](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/#loading-fonts-with-self-hosted-fonts)
 - [zachleat/glyphhanger: Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.](https://github.com/zachleat/glyphhanger)
 
 ## FOOD
@@ -709,8 +710,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Podcasts
 
-- [3x2 Photocast](https://3x2.pics/)
-- [The 404 Media Podcast](https://www.404media.co/the-404-media-podcast/)
+- [3x2 Photocast](<https://3x2.pics/>
 - [Accidental Tech Podcast](https://atp.fm/)
 - [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
 - [Causality](https://engineered.network/causality/)
@@ -725,7 +725,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Hemispheric Views Podcast](https://hemisphericviews.com/)
 - [High Performance](https://www.thehighperformancepodcast.com/)
 - [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
-- [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
 - [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
 - [Mac Admins Podcast – A podcast for Mac admins by Mac admins.](https://podcast.macadmins.org/)
 - [Mac Geek Gab Podcast](https://www.macgeekgab.com/)
@@ -737,21 +736,23 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Podfeet Podcasts](https://www.podfeet.com/blog/subscribe-to-the-podcasts/)
 - [Pragmatic](https://engineered.network/pragmatic/)
 - [Programming by Stealth](https://pbs.bartificer.net/)
-- [The Race Podcasts](https://www.the-race.com/podcasts/)
 - [Random but Memorable](https://randombutmemorable.simplecast.com/)
-- [The Rebound: A tech podcast](https://reboundcast.com/)
 - [Really Specific Stories](https://www.rsspod.net/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
 - [Risky Business - Risky Business](https://risky.biz/netcasts/risky-business/)
 - [Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren](https://sixcolors.com/)
 - [Smashing Security - News and views from the world of cybersecurity, hacking, and internet threats](https://www.smashingsecurity.com/)
 - [SYSTEM CRASH – A tech news podcast](https://systemcrash.info/)
-- [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/)
 - [Techdirt Podcast Editions | Techdirt](https://www.techdirt.com/edition/podcast/)
 - [Tech Won’t Save Us](https://www.techwontsave.us/)
-- [Trashfuture](https://trashfuture.co.uk/)
+- [The 404 Media Podcast](https://www.404media.co/the-404-media-podcast/)
+- [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
+- [The Race Podcasts](https://www.the-race.com/podcasts/)
+- [The Rebound: A tech podcast](https://reboundcast.com/)
+- [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/)
 - [The Vergecast Podcast | The Verge](https://www.theverge.com/the-vergecast)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
+- [Trashfuture](https://trashfuture.co.uk/)
 - [Whisky Whiskey - YouTube](https://www.youtube.com/playlist?list=PLLNhKy4yME6d6FYOBRUIRwhLxLt-89i2n)
 
 ## Programming and Web Dev
