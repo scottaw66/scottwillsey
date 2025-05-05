@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-04-30T20:17:27-08:00"
+date: "2025-05-05T10:38:44-08:00"
 slug: "links"
 ---
 
@@ -557,7 +557,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## Fonts
 
 - [Departure Mono](https://departuremono.com/)
+- [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
+- [How to Download and Optimize Google Fonts | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/downloading-and-optimizing-google-fonts/)
 - [SimpleBits®](https://simplebits.shop/)
+- [zachleat/glyphhanger: Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.](https://github.com/zachleat/glyphhanger)
 
 ## FOOD
 
@@ -565,8 +568,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [BroderPDX | Valkommen](https://www.broderpdx.com/)
 - [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
 - [Hapa Pizza](https://www.hapapizza.com/)
+- [JCD BBQ](https://www.jcdbbq.com/)
 - [KOREANA RESTAURANT](https://www.yelp.com/biz/koreana-restaurant-beaverton)
 - [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/)
+- [NAK WON KOREAN RESTAURANTpub - Yelp](https://www.yelp.com/biz/nak-won-korean-restaurant-beaverton-2)
 - [OYATSUPAN](https://www.oyatsupan.com/)
 - [Pine State Biscuits](https://pinestatebiscuits.com/)
 - [ramen-ryoma](https://www.ramenryoma.net/)
@@ -704,6 +709,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Podcasts
 
+- [3x2 Photocast](https://3x2.pics/)
 - [The 404 Media Podcast](https://www.404media.co/the-404-media-podcast/)
 - [Accidental Tech Podcast](https://atp.fm/)
 - [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
@@ -768,6 +774,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Developer Community | 1Password Developer](https://developer.1password.com/community/)
+- [Dying for Beauty | Alan Norbauer](https://alan.norbauer.com/articles/dying-for-beauty/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
