@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-05T10:41:56-08:00"
+date: "2025-05-06T09:52:22-08:00"
 slug: "links"
 ---
 
@@ -14,13 +14,13 @@ slug: "links"
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast AI Extensions](https://manual.raycast.com/ai-extensions)
 - [sigoden/aichat: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.](https://github.com/sigoden/aichat)
-- [There's An AI For That (TAAFT) - The #1 AI Aggregator](https://theresanaiforthat.com/)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 
 ## Apple
 
 - [512 Pixels](https://512pixels.net/)
 - [Basic Apple Guy](https://basicappleguy.com/)
+- [Club MacStories](https://club.macstories.net/)
 - [Daring Fireball](https://daringfireball.net/)
 - [Hypercritical](https://hypercritical.co/)
 - [MacRumors: Apple News and Rumors](https://www.macrumors.com/)
@@ -57,10 +57,12 @@ slug: "links"
 - [Anthropic's Claude Is Good at Poetry—and Bullshitting | WIRED](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
+- [‘Cook chose poorly’: how Apple blew up its control over the App Store | The Verge](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
 - [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [Enshittification - by William A. Finnegan - Persuasion](https://www.persuasion.community/p/enshittification)
 - [Everything you need to know about bird flu - Ars Technica](https://arstechnica.com/health/2025/04/everything-you-need-to-know-about-bird-flu/)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [Half the World’s People Depend on Rice. New Research Says Climate Change Will Make it Toxic - Inside Climate News](https://insideclimatenews.org/news/16042025/half-the-worlds-people-depend-on-rice-new-research-says-climate-change-will-make-it-toxic/)
@@ -78,12 +80,13 @@ slug: "links"
 - [How to leak to a journalist | Nieman Journalism Lab](https://www.niemanlab.org/2025/04/how-to-leak-to-a-journalist/)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
+- [I Never Lost Hope in the Principles of Democracy - Opinion | Mohsen Mahdawi – The New York Times](https://www.nytimes.com/2025/05/02/opinion/mohsen-mahdawi-ice-detention.html)
 - [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
-- [Jon Bair killed a neo-Nazi 28 years ago, and he has a message for Portland - OPB](https://www.opb.org/article/2021/10/08/portland-oregon-history-political-violence-skinheads-antifa-murder/)
 - [Lumon Industries WoeMeter | make3](https://make3.co/work/woemeter)
+- [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
@@ -93,6 +96,7 @@ slug: "links"
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
 - [Surveillance Self-Defense](https://ssd.eff.org/)
+- [Tech on Travel — the Japan Edition - Podfeet Podcasts](https://www.podfeet.com/blog/2025/05/tech-on-travel-japan/)
 - [Ten Years Later, ‘Monument Valley’ Is a Monument to Mobile Gaming’s Bygone Era - The Ringer](https://www.theringer.com/video-games/2024/4/3/24119719/monument-valley-10-year-anniversary-ustwo-mobile-gaming-apple-ios)
 - [The American Who Waged a Tech War on China | WIRED](https://www.wired.com/story/jake-sullivan-china-tech-profile/)
 - [The Ars guide to time travel in the movies | Ars Technica](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/)
@@ -110,7 +114,6 @@ slug: "links"
 - [The Thought Experiments That Fray the Fabric of Space-Time | Quanta Magazine](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 - [The UX of LEGO Interface Panels - Interaction Magic](https://interactionmagic.com/UX-LEGO-Interfaces/)
 - [The Vacuum of Space Will Decay Sooner Than Expected | WIRED](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
-- [The West Coast’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico | WIRED](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
 - [The WIRED Guide to Protecting Yourself From Government Surveillance | WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 - [This Ancient Technology Is Helping Millions Stay Cool | WIRED](https://www.wired.com/story/evaporative-cooling-devices-coolant-clay-matka-mitticool-india-heat-wave/)
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
@@ -414,19 +417,23 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coders by Clive Thompson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/539883/coders-by-clive-thompson/)
 - [Crypto: How the Code Rebels Beat the Government, Saving Privacy in the Digital Age — Steven Levy](https://www.stevenlevy.com/crypto)
 - [Custodians of Wonder: Ancient Customs, Profound Traditions, and the Last People Keeping Them Alive a book by Eliot Stein](https://bookshop.org/p/books/custodians-of-wonder-our-world-s-rarest-cultural-marvels-and-the-last-people-keeping-them-alive-eliot-stein/20981819)
-- [The Diamond Age by Neal Stephenson: 9780553380965 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/172835/the-diamond-age-by-neal-stephenson/9780553380965/)
+- [Dark Wire by Joseph Cox | Hachette Book Group](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/?lens=publicaffairs)
 - [Doomsday Book by Connie Willis: 9780593724330 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/191580/doomsday-book-by-connie-willis/)
 - [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 - [Fluke | Book by Brian Klaas | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Fluke/Brian-Klaas/9781668006528)
 - [The Galapagos and the Meaning of Life: A Young Woman’s Bittersweet Experiment in Inner Freedom – The Marginalian](https://www.themarginalian.org/2024/10/22/dore-strauch-floreana/)
 - [Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee](https://hacksandleaks.com/)
+- [Hugh Howey – Books](https://hughhowey.com/books/)
 - [Inventing the Future by John Buck | BooksBy](https://books.by/john-buck)
 - [macOS by Tutorials](https://sarahreichelt.gumroad.com/l/oximx)
+- [Pattern Recognition by William Gibson: 9780425192931 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/289017/pattern-recognition-by-william-gibson/)
 - [Powell’s Books | The World’s Largest Independent Bookstore](https://www.powells.com/)
 - [Reamde – Neal Stephenson | Atlantic Books](https://atlantic-books.co.uk/book/reamde/)
 - [Silo (series) - Wikipedia](https://en.wikipedia.org/wiki/Silo_(series))
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
+- [The Diamond Age by Neal Stephenson: 9780553380965 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/172835/the-diamond-age-by-neal-stephenson/9780553380965/)
 - [Tracers in the Dark by Andy Greenberg: 9780593315613 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/690603/tracers-in-the-dark-by-andy-greenberg/)
+- [William Gibson](https://williamgibsonbooks.com/)
 
 ## Coffee
 
@@ -439,9 +446,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coava Coffee Roasters - Coffee Roaster, Subscriptions, Shop](https://coavacoffee.com/)
 - [Dapper & Wise Coffee Roasters](https://dapperandwise.com/)
 - [Forecast Coffee Company](https://forecastcoffeecompany.com/)
-- [Kalita USA | Premium coffee brewing equipment](https://kalitausa.com/)
+- [Kalita USA | Premium coffee brewing equipment](<https://kalitausa.com/>)
+- [Kicking Horse Coffee – WAKE UP. KICK ASS.](https://kickinghorsecoffee.com/)
 - [Middle Fork Roasters](https://middleforkroasters.com/)
 - [Nightcap Decaf – Joe Coffee Company](https://joecoffeecompany.com/shop/nightcap-decaf/)
+- [Proud Mary Coffee USA](https://proudmarycoffee.com/)
 - [Sisters Coffee Company](https://sisterscoffee.com/)
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Sterling Coffee Roasters](https://www.sterling.coffee/)
@@ -499,6 +508,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)
 - [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)
+- [Hide a message in an emoji](https://emoji.paulbutler.org/?mode=decode)
 - [html.earth: Markdown to HTML Converter & Site Generator](https://html.earth/)
 - [HTMHell](https://www.htmhell.dev)
 - [HTML for People](https://htmlforpeople.com/)
@@ -593,13 +603,15 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## IndieWeb
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- [A Webring Kit | Max Böck](https://mxb.dev/blog/webring-kit/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [DO POST WHAT IT FELT LIKE TO MAKE YOUR FIRST WEBSITE ↱](https://donotreply.cards/en/do-post-what-it-felt-like-to-make-your-first-website)
 - [IndieWeb](https://indieweb.org/)
-- [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
+- [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 - [slash pages](https://slashpages.net/)
+- [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [/uses](https://uses.tech)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
@@ -710,7 +722,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Podcasts
 
-- [3x2 Photocast](<https://3x2.pics/>
+- [3x2 Photocast](<https://3x2.pics/>)
 - [Accidental Tech Podcast](https://atp.fm/)
 - [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
 - [Causality](https://engineered.network/causality/)
@@ -762,7 +774,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [A Comprehensive Guide to Font Loading Strategies—zachleat.com](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
-- [Automating My Now Page • Robb Knight](https://rknight.me/blog/automating-my-now-page/)
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [Browser Resource Hints: preload, prefetch, and preconnect | DebugBear](https://www.debugbear.com/blog/resource-hints-rel-preload-prefetch-preconnect)
@@ -839,6 +850,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Feedbin](https://feedbin.com/home)
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
+- [Tapestry • Your favorite blogs, social media, and more in a unified and chronological timeline](https://usetapestry.com/)
 
 ## Tea
 

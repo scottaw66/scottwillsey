@@ -1,6 +1,6 @@
 {
-  "Site": "https://emoji.paulbutler.org/?mode=decode",
-  "Title": "Hide a message in an emoji",
-  "Description": "This tool allows you to encode a hidden message into an emoji or alphabet letter. You can copy and paste text with a hidden message in it to decode the message.",
-  "Image": "HideAMessageInAnEmoji-10DB8854-393E-4CF8-8B89-26CA29DCC6F1"
+  "Site": "https://git.sr.ht/~sircmpwn/openring",
+  "Title": "sircmpwn/openring - A webring for static site generators",
+  "Description": "This is a tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog. It's designed to be fairly simple and integrate with any static site generator.",
+  "Image": "Openring-B53C3C03-812F-4EC3-86D9-7492B6768283"
 }

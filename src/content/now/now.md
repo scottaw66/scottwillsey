@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-04T09:27:40-08:00"
+date: "2025-05-06T09:52:22-08:00"
 slug: "now"
 ---
 
@@ -9,16 +9,16 @@ slug: "now"
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 
-- [Whisky Whiskey – 64: Waitui 8 Year Single Malt Whisky](https://overcast.fm/+BLIhfSQtRk)
-- [楽しいラジオ「ドングリFM」 – 1177 他人になめられていると思っているそこのあなた！](https://overcast.fm/+9ABIfEpxM)
-- [P1 with Matt and Tommy – Reaction to Miami GP qualifying](https://overcast.fm/+_U3roZyHQ)
-- The Race F1 Podcast (Members) – Scott and Jon on a mad Miami Saturday
-- [The Rebound – 544: General Misery About Life and Technology](https://overcast.fm/+De1mp7EMc)
-- The Race F1 Podcast (Members) – Antonelli’s shock first big F1 statement explained [ad-free video]
-- System Crash – Eric Schmidt’s Pivot to Military AI Salesman
-- [P1 with Matt and Tommy – Reaction to Miami GP sprint qualifying](https://overcast.fm/+_U3qIOP0U)
-- Bring Back V10s (Members) – ⭐️ BBV10s Extra: Why didn’t Brundle win in F1? Your questions answered
-- [The Weekly Planet – The Bourne Supremecy - Caravan Of Garbage](https://overcast.fm/+1HFIrxJTU)
+- [Accidental Tech Podcast: 638: Hop, Hop, Hop](https://atp.fm/638)
+- [Decoder with Nilay Patel – NYT publisher AG Sulzberger on Trump, OpenAI and the economy](https://overcast.fm/+QLduCwnH8)
+- [Risky Bulletin – Between Two Nerds: How tools evolve](https://overcast.fm/+5Sl8jPRm0)
+- [The Intercept Briefing – BONUS: Rümeysa Öztürk is Locked Up for an Op-ed](https://overcast.fm/+2EOrlMYk0)
+- [Mac Admins Podcast – Episode 411: The Art of Mac Malware Volume 2](https://overcast.fm/+OG8zIayI0)
+- [P1 with Matt and Tommy – Miami GP Race Review](https://overcast.fm/+_U3r6Wk2o)
+- [Robot or Not? – 313: Tech](https://overcast.fm/+Ep2Smt5NA)
+- The Race F1 Podcast (Members) – Miami GP review: McLaren in cruise control (ad-free)
+- [Pitlane Life Lessons Podcast – Haas CIO Gary Foote: Has Technology & AI Made Formula 1 Too Predictable? | EP79](https://overcast.fm/+pr7O70fzw)
+- [Ctrl-Alt-Speech – Look What The Chat Dragged In](https://overcast.fm/+BHRYGrfWhs)
 
 ### Books
 
@@ -34,6 +34,8 @@ slug: "now"
 
 ### TV Shows
 
+[<span hidden>The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!</span>
+![The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!](../../assets/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.png)](/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.jpg)
 [<span hidden>Dope Thief S1 • 2025 • I can't decided how l'd rate this overall, because it does have some slow moving points and a couple glaring weaknesses. But it's also one of the shows I look forward to the most. So... I guess I love it? • Loved It!</span>
 ![Dope Thief S1 • 2025 • I can't decided how l'd rate this overall, because it does have some slow moving points and a couple glaring weaknesses. But it's also one of the shows I look forward to the most. So... I guess I love it? • Loved It!](../../assets/images/posts/PngImage46C597C18A0-review-3be13a87-0e74-4863-ac6b-4ef5137449f6.png)](/images/posts/PngImage46C597C18A0-review-3be13a87-0e74-4863-ac6b-4ef5137449f6.jpg)
 
