@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-06T09:52:22-08:00"
+date: "2025-05-09T12:50:30-08:00"
 slug: "links"
 ---
 
@@ -11,8 +11,11 @@ slug: "links"
 
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- [Model Context Protocol](https://modelcontextprotocol.io/introduction)
+- [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast AI Extensions](https://manual.raycast.com/ai-extensions)
+- [Raycast Model Context Protocol](https://manual.raycast.com/model-context-protocol)
 - [sigoden/aichat: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.](https://github.com/sigoden/aichat)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 
@@ -56,6 +59,7 @@ slug: "links"
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Anthropic's Claude Is Good at Poetry—and Bullshitting | WIRED](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
+- [Hypercritical: Apple Turnover](https://hypercritical.co/2025/05/09/apple-turnover)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [‘Cook chose poorly’: how Apple blew up its control over the App Store | The Verge](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
 - [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
@@ -539,6 +543,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
+- [sircmpwn/openring - A webring for static site generators](https://git.sr.ht/~sircmpwn/openring)
 - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
@@ -569,6 +574,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Departure Mono](https://departuremono.com/)
 - [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
 - [How to Download and Optimize Google Fonts | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/downloading-and-optimizing-google-fonts/)
+- [Nebula Sans](https://nebulasans.com/)
 - [SimpleBits®](https://simplebits.shop/)
 - [The Best Font Loading Strategies and How to Execute Them | CSS-Tricks](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/#loading-fonts-with-self-hosted-fonts)
 - [zachleat/glyphhanger: Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.](https://github.com/zachleat/glyphhanger)
@@ -834,6 +840,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [AI Extensions](https://manual.raycast.com/ai-extensions)
 - [Focus](https://manual.raycast.com/focus)
 - [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
+- [Model Context Protocol](https://manual.raycast.com/model-context-protocol)
 - [Notes](https://manual.raycast.com/notes)
 - [Raycast AI](https://manual.raycast.com/ai)
 - [Raycast Browser Extension](https://www.raycast.com/browser-extension)
