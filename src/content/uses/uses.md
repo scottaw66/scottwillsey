@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-03-29T19:12:59-08:00"
+date: "2025-05-09T13:16:02-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -89,6 +89,17 @@ slug: "uses"
 ### Writing
 
 - [Bear - Notes for iPhone, iPad and Mac](https://bear.app/)
+
+## Photography
+
+### Camera
+
+- [Fujifilm X-T50](https://www.fujifilm-x.com/en-us/products/cameras/x-t50/)
+- [Fujifilm XF16-50mmF2.8-4.8 R LM WR lens](https://www.fujifilm-x.com/global/products/lenses/xf16-50mmf28-48-r-lm-wr/)
+
+[![Fujifilm X-T50](../../assets/images/posts/FujiTX50-2-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-2-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
+
+[![Fujifilm X-T50](../../assets/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
 
 ## Attire
 
