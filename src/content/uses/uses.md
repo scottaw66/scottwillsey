@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-05-09T13:16:02-08:00"
+date: "2025-05-10T13:54:53-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -101,6 +101,14 @@ slug: "uses"
 
 [![Fujifilm X-T50](../../assets/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
 
+### Camera Bag
+
+- [K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](https://www.kfconcept.com/KF13.157V2-camera-sling-bag10l-urban-wander-01-green-)
+
+[![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
+
+[![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
+
 ## Attire
 
 ### Glasses
@@ -119,7 +127,13 @@ slug: "uses"
   
 ### Shoes
 
-- [Onitsuka Tiger Mexico 66™ "White/Blue" Sneakers - Farfetch](https://www.farfetch.com/jp/shopping/men/onitsuka-tiger-mexico-66-whiteblue-sneakers-item-21345026.aspx?storeid=11218) I wore Asics Tigers in Japan as a kid, so finding these was super nostalgic. Instant buy.
+- [Onitsuka Tiger MEXICO 66 "Black/Classic Red"](https://www.onitsukatiger.com/jp/en-gl/product/mexico-66/1183c102_004.html) This is what I'm wearing now after wearing down the white/blue pair dramatically over the past couple of years. Still love the classic look and the wonderful minimalist comfort.
+
+[![Onitsuka Tiger](../../assets/images/posts/TigersBlackandRed-BAAD882F-3A67-43B1-8812-744703EAA373.png)](/images/posts/TigersBlackandRed-BAAD882F-3A67-43B1-8812-744703EAA373.jpg)
+
+[![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger-B12A1D15-0983-4917-878F-78F383FEAD70.png)](/images/posts/OnitsukaTiger-B12A1D15-0983-4917-878F-78F383FEAD70.jpg)
+
+- [Onitsuka Tiger Mexico 66™ "White/Blue" Sneakers - Farfetch](https://www.farfetch.com/jp/shopping/men/onitsuka-tiger-mexico-66-whiteblue-sneakers-item-21345026.aspx?storeid=11218) I wore Asics Tigers in Japan as a kid, so finding these was super nostalgic. Instant buy. I still have these but am wearing the black and red now.
 
 [![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger2-FA252BE3-2A89-4E1B-8B52-759AA55758F1.png)](/images/posts/OnitsukaTiger2-FA252BE3-2A89-4E1B-8B52-759AA55758F1.jpg)
 
