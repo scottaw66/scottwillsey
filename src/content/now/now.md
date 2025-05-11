@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-10T13:54:53-08:00"
+date: "2025-05-11T10:12:06-08:00"
 slug: "now"
 ---
 
@@ -22,6 +22,8 @@ slug: "now"
 
 ### Books
 
+[<span hidden>Things Become Other Things • 2025 • Craig Mod Craig has been wandering Japan on foot for decades, photographing and talking and observing, and he does brings the experience to life in a very spiritual way. He brings to life the importance of caring about things in the way that modern techno-fascist ideologies do exactly the opposite of. I'm hooked and trying to keep from racing through this. • Loved It!</span>
+![Things Become Other Things • 2025 • Craig Mod Craig has been wandering Japan on foot for decades, photographing and talking and observing, and he does brings the experience to life in a very spiritual way. He brings to life the importance of caring about things in the way that modern techno-fascist ideologies do exactly the opposite of. I'm hooked and trying to keep from racing through this. • Loved It!](../../assets/images/posts/PngImage448EBd8A8B0-review-f01235a8-8438-4a0b-9367-e774289563b4.png)](/images/posts/PngImage448EBd8A8B0-review-f01235a8-8438-4a0b-9367-e774289563b4.jpg)
 [<span hidden>Dope Thief • 2009 • Dennis Tafoya Just started reading the book the Apple TV+ series is based on. • Liked It</span>
 ![Dope Thief • 2009 • Dennis Tafoya Just started reading the book the Apple TV+ series is based on. • Liked It](../../assets/images/posts/PngImage40Bd9F28480-review-625a28b3-ad34-42d4-bcc1-410daf6cb486.png)](/images/posts/PngImage40Bd9F28480-review-625a28b3-ad34-42d4-bcc1-410daf6cb486.jpg)
 [<span hidden>When the Moon Hits Your Eye • 2025 • John Scalzi This is what should be called a silly, maybe even dumb, book. But it isn't. It's fun. And it manages to make a few relevant points about humanity along the way. • Loved It!</span>
@@ -43,6 +45,7 @@ slug: "now"
 
 ### Food and Drink
 
+- [Lazy Days Brewing Co - Portland, OR](https://lazydaysbrewing.com/)
 - [JCD BBQ](https://www.jcdbbq.com/)
 - Trader Joe's Green Tea Mochi Ice Cream
 - [Angel Wings Blend – Proud Mary Coffee USA](https://proudmarycoffee.com/collections/all-coffee/products/angel-wings)
