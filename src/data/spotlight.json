@@ -1,6 +1,6 @@
 {
-  "Site": "https://lex.games/",
-  "Title": "Lex's Games by Lex Friedman",
-  "Description": "The best collection of word games you'll find anywhere. There's also an iOS app!",
-  "Image": "LexGames-8504A5C3-C962-4697-A3D1-FD4A4C82CD6D"
+  "Site": "https://rainglow.zachleat.dev/3b5f3b/",
+  "Title": "Rainglow, a demo of Eleventy Serverless",
+  "Description": "Find a Random color. Built with Eleventy Serverless. Source code on GitHub.",
+  "Image": "RainGlow-10CD6FB3-E6DB-4189-BCC9-7B88B5CFE465"
 }

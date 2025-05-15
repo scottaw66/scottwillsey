@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-09T12:50:30-08:00"
+date: "2025-05-14T18:02:31-08:00"
 slug: "links"
 ---
 
@@ -520,7 +520,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [IS IT DNS?](https://isitdns.com/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
-- [Lex.Games](https://lex.games)
+- [Lex's Games by Lex Friedman](https://lex.games/)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
