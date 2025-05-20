@@ -1,24 +1,26 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-11T10:12:06-08:00"
+date: "2025-05-20T12:01:51-08:00"
 slug: "now"
 ---
 
 ### Podcasts
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
+<div class="podcast-episodes">
 
-- [The Weekly Planet – The Bourne Ultimatum - Caravan Of Garbage](https://overcast.fm/+1HFL5OYKM)
-- [The Vergecast – Why Apple is trying to save Google](https://overcast.fm/+QN1r5Ak8M)
-- [Whisky Whiskey – 68: Lark Tasmanian Peated Single Malt Whisky](https://overcast.fm/+BLIhepLWWg)
-- The Race F1 Podcast (Members) – 🔍 Driving Style Secrets Episode 1: Max Verstappen
-- [Whisky Whiskey – 67: Lark Chinotto Citrus Cask Single Malt Whisky](https://overcast.fm/+BLIhdrB420)
-- [Risky Business – BONUS INTERVIEW: Senator Mark Warner on Signalgate, Volt Typhoon and tariffs](https://overcast.fm/+It0i-PGto)
-- [Click Here – Radio Free Europe: When the signal fades](https://overcast.fm/+BL5ZiZn_Lk)
-- [Click Here – Mic Drop: America’s soft power in Asia – unplugged](https://overcast.fm/+BL5ZhSeLOE)
-- Trashfuture Bonus Content Feed (Extremely Good) – 100 Days of Bro-litude ft. Nathan Tankus
-- Six Colors – Answering questions and answering questions (6C Podcast)
+[![Crypto in Kentucky: The next extraction](../../assets/images/oc_artwork/5340766157298005-66bbb48e-a6c9-4817-85f8-3c2284514230.png)](https://overcast.fm/+BL5ZgWiWVU)[Click Here – Crypto in Kentucky: The next extraction](https://overcast.fm/+BL5ZgWiWVU)
+![Subscriber Comment Show: Don’t Read Our Emails With Your Kids, Maybe](../../assets/images/oc_artwork/5121671711622378-e7b941aa-1c52-45f6-bf90-641d33eb41cb.png)The 404 Media Podcast (Premium Feed) – Subscriber Comment Show: Don’t Read Our Emails With Your Kids, Maybe
+[![Is Elon Musk Really Stepping Back from DOGE?](../../assets/images/oc_artwork/4904748076882358-8c4c7d47-aa70-4967-b316-e7fd54a2424f.png)](https://overcast.fm/+BFs16bV2bY)[Uncanny Valley | WIRED – Is Elon Musk Really Stepping Back from DOGE?](https://overcast.fm/+BFs16bV2bY)
+[![421: ‘The Ratchet of Flippancy’, With Craig Mod](../../assets/images/oc_artwork/135464155213596-e66d96b8-bbcd-4557-a110-4540d876f3d0.png)](https://overcast.fm/+B7NDTZ7xw)[The Talk Show With John Gruber – 421: ‘The Ratchet of Flippancy’, With Craig Mod](https://overcast.fm/+B7NDTZ7xw)
+[![546: Dave And/Or Buster’s](../../assets/images/oc_artwork/245011785900358-eae0f377-2a82-407f-96d0-49f9494a93e0.png)](https://overcast.fm/+De1kB24UY)[The Rebound – 546: Dave And/Or Buster’s](https://overcast.fm/+De1kB24UY)
+![CarPlay Ultra and legal localization (6C Podcast)](../../assets/images/oc_artwork/2092466581013757-93182e76-be62-41ab-897a-fdaf4987f622.png)Six Colors – CarPlay Ultra and legal localization (6C Podcast)
+![Airbnb 2025 Summer Release: An Interview with Jud Coplan and Teo Connor](../../assets/images/oc_artwork/5561968007797863-3e9a8de1-8419-43d1-8589-dc732b60d920.png)AppStories+ – Airbnb 2025 Summer Release: An Interview with Jud Coplan and Teo Connor
+[![PBS 179 of X — Introducing Liquid Templates in GitHub Pages with Jekyll](../../assets/images/oc_artwork/640362802650572-686da9c0-ce7a-4559-b04e-08ca7c590250.png)](https://overcast.fm/+JGaBVhHcw)[Programming By Stealth – PBS 179 of X — Introducing Liquid Templates in GitHub Pages with Jekyll](https://overcast.fm/+JGaBVhHcw)
+[![Between Two Nerds: Why hackers and spies don’t mix](../../assets/images/oc_artwork/4031462282408809-7fc44fa7-0ef1-4f03-942b-f8f052be6ffc.png)](https://overcast.fm/+5Sl_VEs2k)[Risky Bulletin – Between Two Nerds: Why hackers and spies don’t mix](https://overcast.fm/+5Sl_VEs2k)
+
+</div>
 
 ### Books
 

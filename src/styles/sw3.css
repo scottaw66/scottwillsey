@@ -840,6 +840,28 @@ div.review p a img {
   margin: 0;
 }
 
+div.podcast-episodes {
+  margin: 0 2em;
+  font-size: 0.9em;
+}
+div.podcast-episodes p {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  column-gap: 10px;
+  row-gap: 0;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+
+div.podcast-episodes img,
+div.podcast-episodes p a img {
+  width: 55px;
+  height: 55px;
+  margin: 2px 0;
+  border: 0;
+}
+
 div.use-header img {
   margin: 0.5rem;
 }
