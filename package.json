@@ -34,7 +34,7 @@
     "@astrojs/sitemap": "^3.4.0",
     "@expressive-code/plugin-line-numbers": "^0.41.2",
     "@philnash/astro-pagination": "^0.5.0",
-    "astro": "^5.7.13",
+    "astro": "^5.7.14",
     "astro-expressive-code": "^0.41.2",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^1.8.3",

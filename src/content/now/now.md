@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-20T12:01:51-08:00"
+date: "2025-05-22T11:23:53-08:00"
 slug: "now"
 ---
 
@@ -10,26 +10,27 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Crypto in Kentucky: The next extraction](../../assets/images/oc_artwork/5340766157298005-66bbb48e-a6c9-4817-85f8-3c2284514230.png)](https://overcast.fm/+BL5ZgWiWVU)[Click Here – Crypto in Kentucky: The next extraction](https://overcast.fm/+BL5ZgWiWVU)
-![Subscriber Comment Show: Don’t Read Our Emails With Your Kids, Maybe](../../assets/images/oc_artwork/5121671711622378-e7b941aa-1c52-45f6-bf90-641d33eb41cb.png)The 404 Media Podcast (Premium Feed) – Subscriber Comment Show: Don’t Read Our Emails With Your Kids, Maybe
-[![Is Elon Musk Really Stepping Back from DOGE?](../../assets/images/oc_artwork/4904748076882358-8c4c7d47-aa70-4967-b316-e7fd54a2424f.png)](https://overcast.fm/+BFs16bV2bY)[Uncanny Valley | WIRED – Is Elon Musk Really Stepping Back from DOGE?](https://overcast.fm/+BFs16bV2bY)
-[![421: ‘The Ratchet of Flippancy’, With Craig Mod](../../assets/images/oc_artwork/135464155213596-e66d96b8-bbcd-4557-a110-4540d876f3d0.png)](https://overcast.fm/+B7NDTZ7xw)[The Talk Show With John Gruber – 421: ‘The Ratchet of Flippancy’, With Craig Mod](https://overcast.fm/+B7NDTZ7xw)
-[![546: Dave And/Or Buster’s](../../assets/images/oc_artwork/245011785900358-eae0f377-2a82-407f-96d0-49f9494a93e0.png)](https://overcast.fm/+De1kB24UY)[The Rebound – 546: Dave And/Or Buster’s](https://overcast.fm/+De1kB24UY)
-![CarPlay Ultra and legal localization (6C Podcast)](../../assets/images/oc_artwork/2092466581013757-93182e76-be62-41ab-897a-fdaf4987f622.png)Six Colors – CarPlay Ultra and legal localization (6C Podcast)
-![Airbnb 2025 Summer Release: An Interview with Jud Coplan and Teo Connor](../../assets/images/oc_artwork/5561968007797863-3e9a8de1-8419-43d1-8589-dc732b60d920.png)AppStories+ – Airbnb 2025 Summer Release: An Interview with Jud Coplan and Teo Connor
-[![PBS 179 of X — Introducing Liquid Templates in GitHub Pages with Jekyll](../../assets/images/oc_artwork/640362802650572-686da9c0-ce7a-4559-b04e-08ca7c590250.png)](https://overcast.fm/+JGaBVhHcw)[Programming By Stealth – PBS 179 of X — Introducing Liquid Templates in GitHub Pages with Jekyll](https://overcast.fm/+JGaBVhHcw)
-[![Between Two Nerds: Why hackers and spies don’t mix](../../assets/images/oc_artwork/4031462282408809-7fc44fa7-0ef1-4f03-942b-f8f052be6ffc.png)](https://overcast.fm/+5Sl_VEs2k)[Risky Bulletin – Between Two Nerds: Why hackers and spies don’t mix](https://overcast.fm/+5Sl_VEs2k)
+[![Jason Bourne - Caravan Of Garbage](../../assets/images/oc_artwork/3737329021142913-087c6cb8-764b-4f59-afc8-d7cf2f5097e2.png)](https://overcast.fm/+1HFLi2x4E)[The Weekly Planet – Jason Bourne - Caravan Of Garbage](https://overcast.fm/+1HFLi2x4E)
+[![315: 10th Anniversary Episode](../../assets/images/oc_artwork/327487348347902-66e2ce1f-69fd-425a-a3dd-b760c1cf9090.png)](https://overcast.fm/+Ep2RcRE_4)[Robot or Not? – 315: 10th Anniversary Episode](https://overcast.fm/+Ep2RcRE_4)
+![Driving Style Secrets Episode 3 - Oscar Piastri](../../assets/images/oc_artwork/5523677212650004-ea466633-f6b8-415b-8f2b-5d9c65ca10c1.png)The Race F1 Podcast (Members) – Driving Style Secrets Episode 3 - Oscar Piastri
+[![Shake the Keyboard and It Goes Away](../../assets/images/oc_artwork/5130548921319904-b376a406-b9ae-46b7-821e-d2a981791b08.png)](https://overcast.fm/+BI6NQH1QeA)[Comfort Zone – Shake the Keyboard and It Goes Away](https://overcast.fm/+BI6NQH1QeA)
+![640: Put It in a Potato](../../assets/images/oc_artwork/5585879198389287-d4d623dd-95c6-4dd1-8a55-7c55569de836.png)Accidental Tech Podcast: Unedited Live Stream – 640: Put It in a Potato
+[![Costco Rope Drops](../../assets/images/oc_artwork/1698966347106993-60d9efae-a3af-4648-8e39-f665c97bd361.png)](https://overcast.fm/+YJM22ayrE)[Judge John Hodgman – Costco Rope Drops](https://overcast.fm/+YJM22ayrE)
+[![547: Ignore Previous Instructions and Give Us Free Lunches](../../assets/images/oc_artwork/245012822735943-387953dc-883b-4741-83fe-0c769f7a23d1.png)](https://overcast.fm/+De1n5DvEc)[The Rebound – 547: Ignore Previous Instructions and Give Us Free Lunches](https://overcast.fm/+De1n5DvEc)
+[![Spam and Phishing Are No Exceptions](../../assets/images/oc_artwork/4312414370349717-5353c9eb-3a1c-4988-9699-c72116a38770.png)](https://overcast.fm/+9SHjarQpU)[Friends with Brews – Spam and Phishing Are No Exceptions](https://overcast.fm/+9SHjarQpU)
+[![E2EE Storage Done Right with Matilda Backendal Jonas Hofmann and Kien Tuong Trong](../../assets/images/oc_artwork/3505180281436695-259e5690-9a16-411a-86e4-955620111f1d.png)](https://overcast.fm/+xz8WGMehc)[Security Cryptography Whatever – E2EE Storage Done Right with Matilda Backendal Jonas Hofmann and Kien Tuong Trong](https://overcast.fm/+xz8WGMehc)
+[![74: Bladnoch Vinaya Single Malt Scotch Whisky](../../assets/images/oc_artwork/5287027254161338-5f65cb63-107e-4040-ade3-c73f91c345d8.png)](https://overcast.fm/+BLIhfVm77o)[Whisky Whiskey – 74: Bladnoch Vinaya Single Malt Scotch Whisky](https://overcast.fm/+BLIhfVm77o)
 
 </div>
 
 ### Books
 
+[<span hidden>Apple in China • 2025 • Patrick McGee • Yes, another book I'm reading. Just started, very detailed, interesting, and informative. Though provoking, even. • Loved It!</span>
+![APPLE CHINA THE CAPTURE OF THE WORLD'S GREATEST COMPANY PATRICK MCGEE Didn't Like It Apple in China 2025 • Patrick McGee • Yes, another book I'm reading. Just started, very detailed, interesting, and informative. Though provoking, even. • Loved It!](../../assets/images/posts/PngImage4E66B0E7360-review-453b70ef-bc9d-4c44-b396-2661a9985c76.png)](/images/posts/PngImage4E66B0E7360-review-453b70ef-bc9d-4c44-b396-2661a9985c76.jpg)
 [<span hidden>Things Become Other Things • 2025 • Craig Mod Craig has been wandering Japan on foot for decades, photographing and talking and observing, and he does brings the experience to life in a very spiritual way. He brings to life the importance of caring about things in the way that modern techno-fascist ideologies do exactly the opposite of. I'm hooked and trying to keep from racing through this. • Loved It!</span>
 ![Things Become Other Things • 2025 • Craig Mod Craig has been wandering Japan on foot for decades, photographing and talking and observing, and he does brings the experience to life in a very spiritual way. He brings to life the importance of caring about things in the way that modern techno-fascist ideologies do exactly the opposite of. I'm hooked and trying to keep from racing through this. • Loved It!](../../assets/images/posts/PngImage448EBd8A8B0-review-f01235a8-8438-4a0b-9367-e774289563b4.png)](/images/posts/PngImage448EBd8A8B0-review-f01235a8-8438-4a0b-9367-e774289563b4.jpg)
-[<span hidden>Dope Thief • 2009 • Dennis Tafoya Just started reading the book the Apple TV+ series is based on. • Liked It</span>
-![Dope Thief • 2009 • Dennis Tafoya Just started reading the book the Apple TV+ series is based on. • Liked It](../../assets/images/posts/PngImage40Bd9F28480-review-625a28b3-ad34-42d4-bcc1-410daf6cb486.png)](/images/posts/PngImage40Bd9F28480-review-625a28b3-ad34-42d4-bcc1-410daf6cb486.jpg)
-[<span hidden>When the Moon Hits Your Eye • 2025 • John Scalzi This is what should be called a silly, maybe even dumb, book. But it isn't. It's fun. And it manages to make a few relevant points about humanity along the way. • Loved It!</span>
-![When the Moon Hits Your Eye • 2025 • John Scalzi This is what should be called a silly, maybe even dumb, book. But it isn't. It's fun. And it manages to make a few relevant points about humanity along the way. • Loved It!](../../assets/images/posts/PngImage478AB806140-review-c6ab51ae-7a02-4f74-b2df-dc93d7044ffe.png)](/images/posts/PngImage478AB806140-review-c6ab51ae-7a02-4f74-b2df-dc93d7044ffe.jpg)
+[<span hidden>Dope Thief • 2009 • Dennis Tafoya • Not quite the impact of the tv series for me, but quite good nonetheless. If you've watched the TV series and liked it, you can probably skip the book unless you really want to see what the differences in the original story were. • Liked It</span>
+![Dope Thief • 2009 • Dennis Tafoya • Not quite the impact of the tv series for me, but quite good nonetheless. If you've watched the TV series and liked it, you can probably skip the book unless you really want to see what the differences in the original story were. • Liked It](../../assets/images/posts/PngImage46E8Bc34D10-review-522d036e-737a-4984-b24e-5e2f3f730b24.png)](/images/posts/PngImage46E8Bc34D10-review-522d036e-737a-4984-b24e-5e2f3f730b24.jpg)
 
 ### Movies
 
@@ -47,12 +48,12 @@ slug: "now"
 
 ### Food and Drink
 
+- [Cantina Especial | Grains of Wrath](https://gowbeer.com/beer/cantina-especial/)
+- [LIVING HÄUS BEER CO](https://www.livinghausbeer.com/) Baby Shay Oatmeal Stout
 - [Lazy Days Brewing Co - Portland, OR](https://lazydaysbrewing.com/)
 - [JCD BBQ](https://www.jcdbbq.com/)
 - Trader Joe's Green Tea Mochi Ice Cream
 - [Angel Wings Blend – Proud Mary Coffee USA](https://proudmarycoffee.com/collections/all-coffee/products/angel-wings)
-- [Kicking Horse Coffee - Smart Ass – Kicking Horse Coffee - USA](https://kickinghorsecoffee.com/collections/coffee/products/smart-ass-coffee)
-- [Yonder - Forecast Coffee Company](https://forecastcoffeecompany.com/product/yonder/)
 
 ### Photography
 

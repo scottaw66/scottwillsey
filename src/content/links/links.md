@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-14T18:02:31-08:00"
+date: "2025-05-22T11:23:53-08:00"
 slug: "links"
 ---
 
@@ -538,6 +538,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [People and Blogs](https://peopleandblogs.com/)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
+- [Rainglow, a demo of Eleventy Serverless](https://rainglow.zachleat.dev/3b5f3b/)
 - [Resistbot](https://resist.bot/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [SakuraPass](https://www.sakurapass.com/en/)
