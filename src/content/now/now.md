@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-22T11:23:53-08:00"
+date: "2025-05-23T15:33:57-08:00"
 slug: "now"
 ---
 
@@ -32,13 +32,10 @@ slug: "now"
 [<span hidden>Dope Thief • 2009 • Dennis Tafoya • Not quite the impact of the tv series for me, but quite good nonetheless. If you've watched the TV series and liked it, you can probably skip the book unless you really want to see what the differences in the original story were. • Liked It</span>
 ![Dope Thief • 2009 • Dennis Tafoya • Not quite the impact of the tv series for me, but quite good nonetheless. If you've watched the TV series and liked it, you can probably skip the book unless you really want to see what the differences in the original story were. • Liked It](../../assets/images/posts/PngImage46E8Bc34D10-review-522d036e-737a-4984-b24e-5e2f3f730b24.png)](/images/posts/PngImage46E8Bc34D10-review-522d036e-737a-4984-b24e-5e2f3f730b24.jpg)
 
-### Movies
-
-[<span hidden>Havoc • 2025 • Gareth Evans • I made it 5 minutes into this movie and shut it off. It's that stupid. I don't know if this is intentionally dumb, parody style, or if it's unconsciously dumb. Either way, it IS dumb. • Didn't Like It</span>
-![Havoc • 2025 • Gareth Evans • I made it 5 minutes into this movie and shut it off. It's that stupid. I don't know if this is intentionally dumb, parody style, or if it's unconsciously dumb. Either way, it IS dumb. • Didn't Like It](../../assets/images/posts/PngImage4Dfe875FA10-review-32855506-9d88-42ca-b103-16d3720538ae.png)](/images/posts/PngImage4Dfe875FA10-review-32855506-9d88-42ca-b103-16d3720538ae.jpg)
-
 ### TV Shows
 
+[<span hidden>Government Cheese • 2025 • Quirky and funny and I haven't really figured it out yet, but I'm along for the ride! • Loved It!</span>
+![Government Cheese • 2025 • Quirky and funny and I haven't really figured it out yet, but I'm along for the ride! • Loved It!](../../assets/images/posts/PngImage4518932DAd0-review-b31a20ad-4155-48fd-8752-5f57ee733a28.png)](/images/posts/PngImage4518932DAd0-review-b31a20ad-4155-48fd-8752-5f57ee733a28.jpg)
 [<span hidden>Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!</span>
 ![Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!](../../assets/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.png)](/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.jpg)
 [<span hidden>The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!</span>
@@ -69,11 +66,3 @@ slug: "now"
 [![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
 
 [![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
-
-### Attire
-
-- [Onitsuka Tiger MEXICO 66 "Black/Classic Red"](https://www.onitsukatiger.com/jp/en-gl/product/mexico-66/1183c102_004.html)
-
-[![Onitsuka Tiger](../../assets/images/posts/TigersBlackandRed-BAAD882F-3A67-43B1-8812-744703EAA373.png)](/images/posts/TigersBlackandRed-BAAD882F-3A67-43B1-8812-744703EAA373.jpg)
-
-[![Onitsuka Tiger](../../assets/images/posts/OnitsukaTiger-B12A1D15-0983-4917-878F-78F383FEAD70.png)](/images/posts/OnitsukaTiger-B12A1D15-0983-4917-878F-78F383FEAD70.jpg)

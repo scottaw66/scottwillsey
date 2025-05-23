@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-22T11:23:53-08:00"
+date: "2025-05-23T15:33:57-08:00"
 slug: "links"
 ---
 
@@ -97,6 +97,7 @@ slug: "links"
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
+- [Sierra made the games of my childhood. Are they still fun to play? - Ars Technica](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/)
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
 - [Surveillance Self-Defense](https://ssd.eff.org/)
