@@ -1,6 +1,6 @@
 ---
 title: /Now Page Update – Podcast Episode Artwork
-description: "I updated my /now page with podcast history episode artwork"
+description: "I updated my /now page with podcast history episode artwork. Here's how it works."
 date: "2025-05-22T00:10:00-08:00"
 keywords: ["raycast","blog","images","programming","raycast"]
 cover: "../../assets/images/covers/RaycastHeader.png"
