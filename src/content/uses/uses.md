@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-05-10T13:54:53-08:00"
+date: "2025-05-23T18:48:40-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -9,7 +9,7 @@ slug: "uses"
 ### 2024 M4 Pro 14"
 
 - 14-core CPU, 20-core GPU, 24GB RAM, 2TB SSD, Space Black
-- [Apple Studio Display](https://www.apple.com/studio-display/)
+- [Apple Studio Display](https://www.apple.com/studio-display/) (27" 5K Retina)
 - [Keychron Q1](https://www.keychron.com/products/keychron-q1) QMK, 84 key (75%), Gateron Pro Brown switches
 - [OWC 11-port Thunderbolt 4 Dock](https://eshop.macsales.com/shop/owc-thunderbolt-dock)
 - [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
@@ -20,12 +20,19 @@ slug: "uses"
 
 ### Automation and Utilities
 
+- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
+- [Batteries for Mac | Track all your devices' batteries from your Mac. Get notified when they need recharging.](https://www.fadel.io/batteries)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
+- [Framous: Screenshot Frames](https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519?mt=12)
+- [Front and Center](https://apps.apple.com/us/app/front-and-center/id1493996622?mt=12)
 - [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
+- [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
+- [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
 - [Raycast](https://raycast.com/)
 - [Swift Shift | Manage your mac's windows like a pro](https://www.swiftshift.app/)
+- [SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
@@ -40,6 +47,7 @@ slug: "uses"
 
 - Apple Notes
 - [Notion](https://www.notion.so/)
+- [Obsidian - Sharpen your thinking](https://obsidian.md/)
 
 ### Image Processing
 
@@ -53,7 +61,9 @@ slug: "uses"
 
 - Apple Reminders
 - [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
+- [Granola — The AI notepad for people in back-to-back meetings](https://www.granola.ai/)
 - [Notion](https://www.notion.so/)
+- [Obsidian - Sharpen your thinking](https://obsidian.md/)
 - [Timery for Toggl: Toggl API Token](https://www.timeryapp.com/token.html)
 
 ### Podcasting/Recording
@@ -61,6 +71,7 @@ slug: "uses"
 - [Audio Hijack: Record Any Audio on MacOS | Rogue Amoeba](https://rogueamoeba.com/audiohijack/)
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
 - [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
+- [Forecast: Podcast MP3 Chapter Encoder — Overcast](https://overcast.fm/forecast)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/)
 - [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
@@ -69,7 +80,8 @@ slug: "uses"
 
 ### Programming, Log Analysis, Text Filtering
 
-- [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
+- [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
+- [Kaleidoscope | Git Diff and Merge Tool and Text Comparison](https://kaleidoscope.app/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 - [Xcode 15 - Apple Developer](https://developer.apple.com/xcode/)
@@ -85,6 +97,7 @@ slug: "uses"
 
 - [EchoFeed](https://echofeed.app/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
+- [Tapestry • Your favorite blogs, social media, and more in a unified and chronological timeline](https://usetapestry.com/)
 
 ### Writing
 
