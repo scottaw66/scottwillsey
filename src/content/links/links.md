@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-23T15:33:57-08:00"
+date: "2025-05-27T17:31:57-08:00"
 slug: "links"
 ---
 
@@ -496,6 +496,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Are you a bot?](https://www.invisiclues.org/)
+- [A Webring List](https://brisray.com/web/webring-list.htm)
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)

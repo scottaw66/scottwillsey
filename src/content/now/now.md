@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-23T15:33:57-08:00"
+date: "2025-05-27T17:31:57-08:00"
 slug: "now"
 ---
 
@@ -10,16 +10,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Jason Bourne - Caravan Of Garbage](../../assets/images/oc_artwork/3737329021142913-087c6cb8-764b-4f59-afc8-d7cf2f5097e2.png)](https://overcast.fm/+1HFLi2x4E)[The Weekly Planet – Jason Bourne - Caravan Of Garbage](https://overcast.fm/+1HFLi2x4E)
-[![315: 10th Anniversary Episode](../../assets/images/oc_artwork/327487348347902-66e2ce1f-69fd-425a-a3dd-b760c1cf9090.png)](https://overcast.fm/+Ep2RcRE_4)[Robot or Not? – 315: 10th Anniversary Episode](https://overcast.fm/+Ep2RcRE_4)
-![Driving Style Secrets Episode 3 - Oscar Piastri](../../assets/images/oc_artwork/5523677212650004-ea466633-f6b8-415b-8f2b-5d9c65ca10c1.png)The Race F1 Podcast (Members) – Driving Style Secrets Episode 3 - Oscar Piastri
-[![Shake the Keyboard and It Goes Away](../../assets/images/oc_artwork/5130548921319904-b376a406-b9ae-46b7-821e-d2a981791b08.png)](https://overcast.fm/+BI6NQH1QeA)[Comfort Zone – Shake the Keyboard and It Goes Away](https://overcast.fm/+BI6NQH1QeA)
-![640: Put It in a Potato](../../assets/images/oc_artwork/5585879198389287-d4d623dd-95c6-4dd1-8a55-7c55569de836.png)Accidental Tech Podcast: Unedited Live Stream – 640: Put It in a Potato
-[![Costco Rope Drops](../../assets/images/oc_artwork/1698966347106993-60d9efae-a3af-4648-8e39-f665c97bd361.png)](https://overcast.fm/+YJM22ayrE)[Judge John Hodgman – Costco Rope Drops](https://overcast.fm/+YJM22ayrE)
-[![547: Ignore Previous Instructions and Give Us Free Lunches](../../assets/images/oc_artwork/245012822735943-387953dc-883b-4741-83fe-0c769f7a23d1.png)](https://overcast.fm/+De1n5DvEc)[The Rebound – 547: Ignore Previous Instructions and Give Us Free Lunches](https://overcast.fm/+De1n5DvEc)
-[![Spam and Phishing Are No Exceptions](../../assets/images/oc_artwork/4312414370349717-5353c9eb-3a1c-4988-9699-c72116a38770.png)](https://overcast.fm/+9SHjarQpU)[Friends with Brews – Spam and Phishing Are No Exceptions](https://overcast.fm/+9SHjarQpU)
-[![E2EE Storage Done Right with Matilda Backendal Jonas Hofmann and Kien Tuong Trong](../../assets/images/oc_artwork/3505180281436695-259e5690-9a16-411a-86e4-955620111f1d.png)](https://overcast.fm/+xz8WGMehc)[Security Cryptography Whatever – E2EE Storage Done Right with Matilda Backendal Jonas Hofmann and Kien Tuong Trong](https://overcast.fm/+xz8WGMehc)
-[![74: Bladnoch Vinaya Single Malt Scotch Whisky](../../assets/images/oc_artwork/5287027254161338-5f65cb63-107e-4040-ade3-c73f91c345d8.png)](https://overcast.fm/+BLIhfVm77o)[Whisky Whiskey – 74: Bladnoch Vinaya Single Malt Scotch Whisky](https://overcast.fm/+BLIhfVm77o)
+[![Blitzscaling For Tyrants](../../assets/images/oc_artwork/266499667791783-0ffef8f5-2f2a-4a39-9287-4a0ec409940b.png)](https://overcast.fm/+DyYUoID6c)[Techdirt – Blitzscaling For Tyrants](https://overcast.fm/+DyYUoID6c)
+[![Monaco GP Driver Ratings (and a HUGE announcement!)](../../assets/images/oc_artwork/4456177033775045-3bea909f-08db-41d0-b98d-5476937f584c.png)](https://overcast.fm/+_U3pEnh8U)[P1 with Matt and Tommy – Monaco GP Driver Ratings (and a HUGE announcement!)](https://overcast.fm/+_U3pEnh8U)
+[![Google CEO Sundar Pichai on the next phase of AI](../../assets/images/oc_artwork/1138505228064450-d3e0458d-74d4-4828-941c-ac4438f6e2d9.png)](https://overcast.fm/+QLduexlsI)[Decoder with Nilay Patel – Google CEO Sundar Pichai on the next phase of AI](https://overcast.fm/+QLduexlsI)
+[![Edd answers your questions about his F1 Monaco driver rankings](../../assets/images/oc_artwork/5523677265114402-6d8c7f87-3f6c-4610-a68f-89ce8f304c9e.png)](https://overcast.fm/+BOfwVU9tSI) The Race F1 Podcast (Members) – Edd answers your questions about his F1 Monaco driver rankings
+![Is That Foreboding or Foreshadowing?](../../assets/images/oc_artwork/4102724071647444-d33a8cb0-9f2c-4f34-954d-d4a254454ef8.png)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Is That Foreboding or Foreshadowing?](https://overcast.fm/+6TZ-Lm6NQ)
+[![422: ‘A Monkey on a Rock’, With Stephen Hackett](../../assets/images/oc_artwork/135464224094901-cfde123f-c28b-42b6-a74c-215f49e05767.png)](https://overcast.fm/+B7NDj0-rU)[The Talk Show With John Gruber – 422: ‘A Monkey on a Rock’, With Stephen Hackett](https://overcast.fm/+B7NDj0-rU)
+[![Between Two Nerds: Cyber’s hard problems](../../assets/images/oc_artwork/4031462375787720-0b757916-3c1f-4301-b565-a958f9a77919.png)](https://overcast.fm/+5Sl_rVjMg)[Risky Bulletin – Between Two Nerds: Cyber’s hard problems](https://overcast.fm/+5Sl_rVjMg)
+![Our 2025 macOS and visionOS WWDC Wishes](../../assets/images/oc_artwork/5561968431616418-460cbdd9-8fee-4636-bcd1-89bd7f3ace77.png)AppStories+ – Our 2025 macOS and visionOS WWDC Wishes
+[![Risky Bulletin: Major CISA leadership exodus underway](../../assets/images/oc_artwork/4031462185264277-92a46277-c80e-4278-89c9-a7f7a3d05240.png)](https://overcast.fm/+5Sl-96ZJU)[Risky Bulletin – Risky Bulletin: Major CISA leadership exodus underway](https://overcast.fm/+5Sl-96ZJU)
+![Monaco Grand Prix race review (ad-free)](../../assets/images/oc_artwork/5523677079974989-a71d4643-6923-4162-b1b0-2d77c52e4a46.png)The Race F1 Podcast (Members) – Monaco Grand Prix race review (ad-free)
 
 </div>
 
@@ -34,6 +34,8 @@ slug: "now"
 
 ### TV Shows
 
+[<span hidden>Murderbot • 2025 • I haven't decided how I feel about this one enough to stop watching it or to know if I'll KEEP watching it very much longer. Could go either way. • Decent</span>
+![Murderbot • 2025 • I haven't decided how I feel about this one enough to stop watching it or to know if I'll KEEP watching it very much longer. Could go either way. • Decent](../../assets/images/posts/PngImage4B219998Fb0-review-496904a1-810a-48fa-8fe4-0834c60f82dc.png)](/images/posts/PngImage4B219998Fb0-review-496904a1-810a-48fa-8fe4-0834c60f82dc.jpg)
 [<span hidden>Government Cheese • 2025 • Quirky and funny and I haven't really figured it out yet, but I'm along for the ride! • Loved It!</span>
 ![Government Cheese • 2025 • Quirky and funny and I haven't really figured it out yet, but I'm along for the ride! • Loved It!](../../assets/images/posts/PngImage4518932DAd0-review-b31a20ad-4155-48fd-8752-5f57ee733a28.png)](/images/posts/PngImage4518932DAd0-review-b31a20ad-4155-48fd-8752-5f57ee733a28.jpg)
 [<span hidden>Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!</span>
@@ -41,18 +43,17 @@ slug: "now"
 [<span hidden>The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!</span>
 ![The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!](../../assets/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.png)](/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.jpg)
 [<span hidden>Dope Thief S1 • 2025 • I can't decided how l'd rate this overall, because it does have some slow moving points and a couple glaring weaknesses. But it's also one of the shows I look forward to the most. So... I guess I love it? • Loved It!</span>
-![Dope Thief S1 • 2025 • I can't decided how l'd rate this overall, because it does have some slow moving points and a couple glaring weaknesses. But it's also one of the shows I look forward to the most. So... I guess I love it? • Loved It!](../../assets/images/posts/PngImage46C597C18A0-review-3be13a87-0e74-4863-ac6b-4ef5137449f6.png)](/images/posts/PngImage46C597C18A0-review-3be13a87-0e74-4863-ac6b-4ef5137449f6.jpg)
 
 ### Food and Drink
 
+- [Pacific Flyway – Water Avenue Coffee](https://wateravenuecoffee.com/collections/beans/products/pacific-flyway)
+- [Tilikum Crossing Decaf - 12oz Whole Bean](https://www.portlandcoffeeroasters.com/consumer/tilikum-crossing-decaf-12oz-whole-bean)
 - [Cantina Especial | Grains of Wrath](https://gowbeer.com/beer/cantina-especial/)
 - [LIVING HÄUS BEER CO](https://www.livinghausbeer.com/) Baby Shay Oatmeal Stout
-- [Lazy Days Brewing Co - Portland, OR](https://lazydaysbrewing.com/)
-- [JCD BBQ](https://www.jcdbbq.com/)
-- Trader Joe's Green Tea Mochi Ice Cream
-- [Angel Wings Blend – Proud Mary Coffee USA](https://proudmarycoffee.com/collections/all-coffee/products/angel-wings)
 
 ### Photography
+
+*I plan to have a LOT of fun learning this camera!*
 
 - [Fujifilm X-T50](https://www.fujifilm-x.com/en-us/products/cameras/x-t50/)
 - [Fujifilm XF16-50mmF2.8-4.8 R LM WR lens](https://www.fujifilm-x.com/global/products/lenses/xf16-50mmf28-48-r-lm-wr/)
@@ -60,9 +61,3 @@ slug: "now"
 [![Fujifilm X-T50](../../assets/images/posts/FujiTX50-2-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-2-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
 
 [![Fujifilm X-T50](../../assets/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
-
-- [K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](https://www.kfconcept.com/KF13.157V2-camera-sling-bag10l-urban-wander-01-green-)
-
-[![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
-
-[![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
