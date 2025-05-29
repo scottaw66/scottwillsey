@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-27T17:31:57-08:00"
+date: "2025-05-28T22:52:08-08:00"
 slug: "now"
 ---
 
@@ -42,7 +42,6 @@ slug: "now"
 ![Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!](../../assets/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.png)](/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.jpg)
 [<span hidden>The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!</span>
 ![The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!](../../assets/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.png)](/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.jpg)
-[<span hidden>Dope Thief S1 • 2025 • I can't decided how l'd rate this overall, because it does have some slow moving points and a couple glaring weaknesses. But it's also one of the shows I look forward to the most. So... I guess I love it? • Loved It!</span>
 
 ### Food and Drink
 
