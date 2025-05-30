@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-28T22:52:08-08:00"
+date: "2025-05-29T23:59:40-08:00"
 slug: "now"
 ---
 
@@ -10,16 +10,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Blitzscaling For Tyrants](../../assets/images/oc_artwork/266499667791783-0ffef8f5-2f2a-4a39-9287-4a0ec409940b.png)](https://overcast.fm/+DyYUoID6c)[Techdirt – Blitzscaling For Tyrants](https://overcast.fm/+DyYUoID6c)
-[![Monaco GP Driver Ratings (and a HUGE announcement!)](../../assets/images/oc_artwork/4456177033775045-3bea909f-08db-41d0-b98d-5476937f584c.png)](https://overcast.fm/+_U3pEnh8U)[P1 with Matt and Tommy – Monaco GP Driver Ratings (and a HUGE announcement!)](https://overcast.fm/+_U3pEnh8U)
-[![Google CEO Sundar Pichai on the next phase of AI](../../assets/images/oc_artwork/1138505228064450-d3e0458d-74d4-4828-941c-ac4438f6e2d9.png)](https://overcast.fm/+QLduexlsI)[Decoder with Nilay Patel – Google CEO Sundar Pichai on the next phase of AI](https://overcast.fm/+QLduexlsI)
-[![Edd answers your questions about his F1 Monaco driver rankings](../../assets/images/oc_artwork/5523677265114402-6d8c7f87-3f6c-4610-a68f-89ce8f304c9e.png)](https://overcast.fm/+BOfwVU9tSI) The Race F1 Podcast (Members) – Edd answers your questions about his F1 Monaco driver rankings
-![Is That Foreboding or Foreshadowing?](../../assets/images/oc_artwork/4102724071647444-d33a8cb0-9f2c-4f34-954d-d4a254454ef8.png)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Is That Foreboding or Foreshadowing?](https://overcast.fm/+6TZ-Lm6NQ)
-[![422: ‘A Monkey on a Rock’, With Stephen Hackett](../../assets/images/oc_artwork/135464224094901-cfde123f-c28b-42b6-a74c-215f49e05767.png)](https://overcast.fm/+B7NDj0-rU)[The Talk Show With John Gruber – 422: ‘A Monkey on a Rock’, With Stephen Hackett](https://overcast.fm/+B7NDj0-rU)
-[![Between Two Nerds: Cyber’s hard problems](../../assets/images/oc_artwork/4031462375787720-0b757916-3c1f-4301-b565-a958f9a77919.png)](https://overcast.fm/+5Sl_rVjMg)[Risky Bulletin – Between Two Nerds: Cyber’s hard problems](https://overcast.fm/+5Sl_rVjMg)
-![Our 2025 macOS and visionOS WWDC Wishes](../../assets/images/oc_artwork/5561968431616418-460cbdd9-8fee-4636-bcd1-89bd7f3ace77.png)AppStories+ – Our 2025 macOS and visionOS WWDC Wishes
-[![Risky Bulletin: Major CISA leadership exodus underway](../../assets/images/oc_artwork/4031462185264277-92a46277-c80e-4278-89c9-a7f7a3d05240.png)](https://overcast.fm/+5Sl-96ZJU)[Risky Bulletin – Risky Bulletin: Major CISA leadership exodus underway](https://overcast.fm/+5Sl-96ZJU)
-![Monaco Grand Prix race review (ad-free)](../../assets/images/oc_artwork/5523677079974989-a71d4643-6923-4162-b1b0-2d77c52e4a46.png)The Race F1 Podcast (Members) – Monaco Grand Prix race review (ad-free)
+[![Niléane’s Favorite Dinosaur](../../assets/images/oc_artwork/5130548992141956-8e43a25a-1ad8-46a1-aafc-61b5b7810583.png)](https://overcast.fm/+BI6NQYt6oQ)[Comfort Zone – Niléane’s Favorite Dinosaur](https://overcast.fm/+BI6NQYt6oQ)
+![The true impact of F1’s new front wing rules [ad-free video]](../../assets/images/oc_artwork/5523677833009558-aedb91b8-3343-4982-b957-dc96de116ce0.png)The Race F1 Podcast (Members) – The true impact of F1’s new front wing rules
+[![Srsly Risky Biz: Russia’s cybercriminals and spies are officially in cahoots](../../assets/images/oc_artwork/4031462424979997-d7f256e5-de92-46b0-b10e-589ba11e0d2f.png)](https://overcast.fm/+5Sl_3EKh0)[Risky Bulletin – Srsly Risky Biz: Russia’s cybercriminals and spies are officially in cahoots](https://overcast.fm/+5Sl_3EKh0)
+[![Love the Internet Before You Hate On It](../../assets/images/oc_artwork/3732094542489210-0f87356c-b81d-4f06-96cd-c918cdade5d7.png)](https://overcast.fm/+1CUfl5Jno)[How to Fix the Internet – Love the Internet Before You Hate On It](https://overcast.fm/+1CUfl5Jno)
+[![The Never-ending Reckoning](../../assets/images/oc_artwork/1393691548013875-1811284e-16dd-485f-9c60-c1e0c2c1ef2c.png)](https://overcast.fm/+TzjhmlVTM)[The Josh Marshall Podcast – The Never-ending Reckoning](https://overcast.fm/+TzjhmlVTM)
+[![313: Tech](../../assets/images/oc_artwork/327487660614864-5c68dd44-2b74-44a7-9410-7a2818fc923a.png)](https://overcast.fm/+Ep2Smt5NA)[Robot or Not? – 313: Tech](https://overcast.fm/+Ep2Smt5NA)
+[![CCATP #814 — Adam Engst on Deep Linking and VPN Survey](../../assets/images/oc_artwork/383182481353373-b1fcfba4-73b3-4edb-bd7f-bdaf163961ac.png)](https://overcast.fm/+FcgJ-vap0)[Chit Chat Across the Pond – CCATP #814 — Adam Engst on Deep Linking and VPN Survey](https://overcast.fm/+FcgJ-vap0)
+[![Survival Entrepreneurship](../../assets/images/oc_artwork/4232111343057347-3ac6a688-8d55-4272-9123-367f9d3aa147.png)](https://overcast.fm/+8JFTVAucM)[Business Brain – The Entrepreneurs’ Podcast – Survival Entrepreneurship](https://overcast.fm/+8JFTVAucM)
+[![548: Let’s Sound Naïve Together](../../assets/images/oc_artwork/245012426533435-5dd6d30e-e513-4a3d-a288-195badbbdc2c.png)](https://overcast.fm/+De1mamKjs)[The Rebound – 548: Let’s Sound Naïve Together](https://overcast.fm/+De1mamKjs)
+![Night Moves](../../assets/images/oc_artwork/5595878750518781-11c1cb0d-18cb-4913-b985-2ffc1498a300.png)Trial Balloon – Night Moves
 
 </div>
 
@@ -34,14 +34,14 @@ slug: "now"
 
 ### TV Shows
 
+[<span hidden>Your Friends & Neighbors • 2025 • What a season! What a show! This ranks way up there on the all time favorites list. Very curious about where it goes next. • Loved It!</span>
+![Your Friends & Neighbors • 2025 • What a season! What a show! This ranks way up there on the all time favorites list. Very curious about where it goes next. • Loved It!](../../assets/images/posts/PngImage408C8502Fa0-review-a1dd1633-678b-44fd-ad50-055df7276f98.png)](/images/posts/PngImage408C8502Fa0-review-a1dd1633-678b-44fd-ad50-055df7276f98.jpg)
 [<span hidden>Murderbot • 2025 • I haven't decided how I feel about this one enough to stop watching it or to know if I'll KEEP watching it very much longer. Could go either way. • Decent</span>
 ![Murderbot • 2025 • I haven't decided how I feel about this one enough to stop watching it or to know if I'll KEEP watching it very much longer. Could go either way. • Decent](../../assets/images/posts/PngImage4B219998Fb0-review-496904a1-810a-48fa-8fe4-0834c60f82dc.png)](/images/posts/PngImage4B219998Fb0-review-496904a1-810a-48fa-8fe4-0834c60f82dc.jpg)
 [<span hidden>Government Cheese • 2025 • Quirky and funny and I haven't really figured it out yet, but I'm along for the ride! • Loved It!</span>
 ![Government Cheese • 2025 • Quirky and funny and I haven't really figured it out yet, but I'm along for the ride! • Loved It!](../../assets/images/posts/PngImage4518932DAd0-review-b31a20ad-4155-48fd-8752-5f57ee733a28.png)](/images/posts/PngImage4518932DAd0-review-b31a20ad-4155-48fd-8752-5f57ee733a28.jpg)
 [<span hidden>Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!</span>
 ![Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!](../../assets/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.png)](/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.jpg)
-[<span hidden>The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!</span>
-![The Four Seasons • 2025 • I say this a lot, but this time it's true - this may be the tv show (limited series) I enjoyed most this year. It's hilarious and poignant. A wonderful remake of Alan Alda's classic. • Loved It!](../../assets/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.png)](/images/posts/PngImage4AdaA81BB80-review-bd8dd383-666c-455d-924d-c68ef4d41912.jpg)
 
 ### Food and Drink
 
@@ -49,14 +49,3 @@ slug: "now"
 - [Tilikum Crossing Decaf - 12oz Whole Bean](https://www.portlandcoffeeroasters.com/consumer/tilikum-crossing-decaf-12oz-whole-bean)
 - [Cantina Especial | Grains of Wrath](https://gowbeer.com/beer/cantina-especial/)
 - [LIVING HÄUS BEER CO](https://www.livinghausbeer.com/) Baby Shay Oatmeal Stout
-
-### Photography
-
-*I plan to have a LOT of fun learning this camera!*
-
-- [Fujifilm X-T50](https://www.fujifilm-x.com/en-us/products/cameras/x-t50/)
-- [Fujifilm XF16-50mmF2.8-4.8 R LM WR lens](https://www.fujifilm-x.com/global/products/lenses/xf16-50mmf28-48-r-lm-wr/)
-
-[![Fujifilm X-T50](../../assets/images/posts/FujiTX50-2-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-2-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
-
-[![Fujifilm X-T50](../../assets/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.png)](/images/posts/FujiTX50-4857DC40-E205-44B9-852D-A9F4CE0B3468.jpg)  
