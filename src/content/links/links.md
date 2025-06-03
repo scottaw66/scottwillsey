@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-05-27T17:31:57-08:00"
+date: "2025-06-03T15:23:01-08:00"
 slug: "links"
 ---
 
@@ -536,6 +536,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [other networks](https://othernetworks.net/)
+- [Owls in Towels](https://owlsintowels.org/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
