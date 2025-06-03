@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-05-29T23:59:40-08:00"
+date: "2025-06-03T16:43:18-08:00"
 slug: "now"
 ---
 
@@ -10,16 +10,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Niléane’s Favorite Dinosaur](../../assets/images/oc_artwork/5130548992141956-8e43a25a-1ad8-46a1-aafc-61b5b7810583.png)](https://overcast.fm/+BI6NQYt6oQ)[Comfort Zone – Niléane’s Favorite Dinosaur](https://overcast.fm/+BI6NQYt6oQ)
-![The true impact of F1’s new front wing rules [ad-free video]](../../assets/images/oc_artwork/5523677833009558-aedb91b8-3343-4982-b957-dc96de116ce0.png)The Race F1 Podcast (Members) – The true impact of F1’s new front wing rules
-[![Srsly Risky Biz: Russia’s cybercriminals and spies are officially in cahoots](../../assets/images/oc_artwork/4031462424979997-d7f256e5-de92-46b0-b10e-589ba11e0d2f.png)](https://overcast.fm/+5Sl_3EKh0)[Risky Bulletin – Srsly Risky Biz: Russia’s cybercriminals and spies are officially in cahoots](https://overcast.fm/+5Sl_3EKh0)
-[![Love the Internet Before You Hate On It](../../assets/images/oc_artwork/3732094542489210-0f87356c-b81d-4f06-96cd-c918cdade5d7.png)](https://overcast.fm/+1CUfl5Jno)[How to Fix the Internet – Love the Internet Before You Hate On It](https://overcast.fm/+1CUfl5Jno)
-[![The Never-ending Reckoning](../../assets/images/oc_artwork/1393691548013875-1811284e-16dd-485f-9c60-c1e0c2c1ef2c.png)](https://overcast.fm/+TzjhmlVTM)[The Josh Marshall Podcast – The Never-ending Reckoning](https://overcast.fm/+TzjhmlVTM)
-[![313: Tech](../../assets/images/oc_artwork/327487660614864-5c68dd44-2b74-44a7-9410-7a2818fc923a.png)](https://overcast.fm/+Ep2Smt5NA)[Robot or Not? – 313: Tech](https://overcast.fm/+Ep2Smt5NA)
-[![CCATP #814 — Adam Engst on Deep Linking and VPN Survey](../../assets/images/oc_artwork/383182481353373-b1fcfba4-73b3-4edb-bd7f-bdaf163961ac.png)](https://overcast.fm/+FcgJ-vap0)[Chit Chat Across the Pond – CCATP #814 — Adam Engst on Deep Linking and VPN Survey](https://overcast.fm/+FcgJ-vap0)
-[![Survival Entrepreneurship](../../assets/images/oc_artwork/4232111343057347-3ac6a688-8d55-4272-9123-367f9d3aa147.png)](https://overcast.fm/+8JFTVAucM)[Business Brain – The Entrepreneurs’ Podcast – Survival Entrepreneurship](https://overcast.fm/+8JFTVAucM)
-[![548: Let’s Sound Naïve Together](../../assets/images/oc_artwork/245012426533435-5dd6d30e-e513-4a3d-a288-195badbbdc2c.png)](https://overcast.fm/+De1mamKjs)[The Rebound – 548: Let’s Sound Naïve Together](https://overcast.fm/+De1mamKjs)
-![Night Moves](../../assets/images/oc_artwork/5595878750518781-11c1cb0d-18cb-4913-b985-2ffc1498a300.png)Trial Balloon – Night Moves
+[![Between Two Nerds: NSA’s thinking on information warfare](../../assets/images/oc_artwork/4031462075330075-b584213a-51e5-4330-871c-d0bb47b7f080.png)](https://overcast.fm/+5Sl-js7hs)[Risky Bulletin – Between Two Nerds: NSA’s thinking on information warfare](https://overcast.fm/+5Sl-js7hs)
+[![1184 いまオススメの場所は鮮魚店](../../assets/images/oc_artwork/4292512928330718-8a6c56e3-58da-4a97-af56-e289acfeb950.png)](https://overcast.fm/+9ABIxJc94)[楽しいラジオ「ドングリFM」 – 1184 いまオススメの場所は鮮魚店](https://overcast.fm/+9ABIxJc94)
+[![78: Westward Pinot Noir Cask Single Malt Whisky](../../assets/images/oc_artwork/5287027252298675-baeb8d40-d16a-4065-9896-fb28618e0f73.png)](https://overcast.fm/+BLIhfVKg7M)[Whisky Whiskey – 78: Westward Pinot Noir Cask Single Malt Whisky](https://overcast.fm/+BLIhfVKg7M)
+[![Algorithm Shrugged](../../assets/images/oc_artwork/5015286849839243-e143111b-9c69-4b84-a7ad-e73270e173db.png)](https://overcast.fm/+BHRYHchoIs)[Ctrl-Alt-Speech – Algorithm Shrugged](https://overcast.fm/+BHRYHchoIs)
+[![The Year of Weird Handhelds: RG Slide Edition](../../assets/images/oc_artwork/5131277252826337-6d225a79-3c19-497e-b608-c7747e0bfbd5.png)](https://overcast.fm/+BI63pXmFOE)[NPC: Next Portable Console – The Year of Weird Handhelds: RG Slide Edition](https://overcast.fm/+BI63pXmFOE)
+[![Wrench! A Musical ft. Séamus Malekafzali](../../assets/images/oc_artwork/3672793617811749-2037bd70-fd12-498b-8fbf-4d795325a278.png)](https://overcast.fm/+0MYubsSSU)[TRASHFUTURE – Wrench! A Musical ft. Séamus Malekafzali](https://overcast.fm/+0MYubsSSU)
+[![Spanish GP Driver Ratings](../../assets/images/oc_artwork/4456176958639653-f3cb4d00-d0ea-4598-a6e6-6622039edbfe.png)](https://overcast.fm/+_U3oytDiU)[P1 with Matt and Tommy – Spanish GP Driver Ratings](https://overcast.fm/+_U3oytDiU)
+[![641: We’re Saving That for the Egg](../../assets/images/oc_artwork/5585875592441605-82399a22-747d-4c8d-81ca-a71459113406.png)](https://atp.fm/641)[Accidental Tech Podcast – 641: We’re Saving That for the Egg](https://atp.fm/641)
+![Nine things we learned from the Spanish GP (ad-free)](../../assets/images/oc_artwork/5523677675249205-74b49f22-52b0-42e0-96e2-e381df642602.png)The Race F1 Podcast (Members) – Nine things we learned from the Spanish GP (ad-free)
+![Spanish Grand Prix race review (ad-free)](../../assets/images/oc_artwork/5523677827128432-eb5bb4fc-1d3b-46fc-b9b5-01e1da53a0aa.png)The Race F1 Podcast (Members) – Spanish Grand Prix race review (ad-free)
 
 </div>
 
@@ -29,8 +29,6 @@ slug: "now"
 ![APPLE CHINA THE CAPTURE OF THE WORLD'S GREATEST COMPANY PATRICK MCGEE Didn't Like It Apple in China 2025 • Patrick McGee • Yes, another book I'm reading. Just started, very detailed, interesting, and informative. Though provoking, even. • Loved It!](../../assets/images/posts/PngImage4E66B0E7360-review-453b70ef-bc9d-4c44-b396-2661a9985c76.png)](/images/posts/PngImage4E66B0E7360-review-453b70ef-bc9d-4c44-b396-2661a9985c76.jpg)
 [<span hidden>Things Become Other Things • 2025 • Craig Mod Craig has been wandering Japan on foot for decades, photographing and talking and observing, and he does brings the experience to life in a very spiritual way. He brings to life the importance of caring about things in the way that modern techno-fascist ideologies do exactly the opposite of. I'm hooked and trying to keep from racing through this. • Loved It!</span>
 ![Things Become Other Things • 2025 • Craig Mod Craig has been wandering Japan on foot for decades, photographing and talking and observing, and he does brings the experience to life in a very spiritual way. He brings to life the importance of caring about things in the way that modern techno-fascist ideologies do exactly the opposite of. I'm hooked and trying to keep from racing through this. • Loved It!](../../assets/images/posts/PngImage448EBd8A8B0-review-f01235a8-8438-4a0b-9367-e774289563b4.png)](/images/posts/PngImage448EBd8A8B0-review-f01235a8-8438-4a0b-9367-e774289563b4.jpg)
-[<span hidden>Dope Thief • 2009 • Dennis Tafoya • Not quite the impact of the tv series for me, but quite good nonetheless. If you've watched the TV series and liked it, you can probably skip the book unless you really want to see what the differences in the original story were. • Liked It</span>
-![Dope Thief • 2009 • Dennis Tafoya • Not quite the impact of the tv series for me, but quite good nonetheless. If you've watched the TV series and liked it, you can probably skip the book unless you really want to see what the differences in the original story were. • Liked It](../../assets/images/posts/PngImage46E8Bc34D10-review-522d036e-737a-4984-b24e-5e2f3f730b24.png)](/images/posts/PngImage46E8Bc34D10-review-522d036e-737a-4984-b24e-5e2f3f730b24.jpg)
 
 ### TV Shows
 
@@ -45,7 +43,6 @@ slug: "now"
 
 ### Food and Drink
 
+- [Cornflake Cookies | Wholesale Unlimited Inc.](https://wholesaleunlimitedhi.com/products/cornflake-cookies)
 - [Pacific Flyway – Water Avenue Coffee](https://wateravenuecoffee.com/collections/beans/products/pacific-flyway)
 - [Tilikum Crossing Decaf - 12oz Whole Bean](https://www.portlandcoffeeroasters.com/consumer/tilikum-crossing-decaf-12oz-whole-bean)
-- [Cantina Especial | Grains of Wrath](https://gowbeer.com/beer/cantina-especial/)
-- [LIVING HÄUS BEER CO](https://www.livinghausbeer.com/) Baby Shay Oatmeal Stout
