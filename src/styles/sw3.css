@@ -1029,6 +1029,13 @@ div.now ul li {
   padding: 0;
 }
 
+h3#current-personal-status + p {
+  color: var(--dates);
+  font-size: 0.75em;
+  font-weight: bold;
+  font-style: italic;
+}
+
 .footnote-container {
   display: inline-block;
   position: relative;

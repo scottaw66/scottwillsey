@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-06-03T15:23:01-08:00"
+date: "2025-06-29T01:40:53-08:00"
 slug: "links"
 ---
 
@@ -537,6 +537,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [OPML to Blogroll](https://opml-to-blogroll.lmika.app/)
 - [other networks](https://othernetworks.net/)
 - [Owls in Towels](https://owlsintowels.org/)
+- [Paint Toys](https://paint.toys/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
@@ -677,6 +678,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
 - [Ice - Menu Bar Manager](https://icemenubar.app/)
+- [Infinite Mac](https://infinitemac.org/)
 - [Insert the Current Date with a Keyboard Shortcut | AlanHogan.com](https://alanhogan.com/tips/insert-current-date-with-keyboard-shortcut)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
 - [The low-tech guys](https://lowtechguys.com/)
@@ -808,6 +810,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
+- [Lens \- Check your meta tags, icons, and rss feeds](https://lens.rknight.me/)
 - [Lesser known parts of Python standard library – Trickster Dev](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
 - [Man Reader 2](https://apps.apple.com/us/app/man-reader/id522583774?mt=12)
 - [Material Line Icons - 1021 open source icons - Iconify](https://icon-sets.iconify.design/line-md/)
@@ -817,6 +820,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [On popover accessibility: what the browser does and doesn’t do | hidde.blog](https://hidde.blog/popover-accessibility/)
+- [PNG is back\!](https://www.programmax.net/articles/png-is-back/)
 - [Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration](https://pmrf-ml.github.io/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
 - [Responsive Images on the Apple Watch — ericportis.com](https://ericportis.com/posts/2018/respimg-apple-watch/)
