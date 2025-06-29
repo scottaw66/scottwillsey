@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-06-29T01:40:53-08:00"
+date: "2025-06-29T01:56:49-08:00"
 slug: "now"
 ---
 
@@ -15,7 +15,7 @@ Some of the highlights so far have been:
 
 - Visiting the old house I lived in in Karuizawa, and generally enjoying the beautiful weather and scenery there.
 - Visiting Kagoshima, eating some amazing food there (they have the best food in Japan, in my opinion), and riding the ferry to Sakurajima, the active volcano that overlooks the city.
-- Enjoying the chaos of Tokyo Asakusa, and visiting the Senso-ji temple, as well as Shibuya and Harajuku.
+- Enjoying the chaos of Tokyo Asakusa, and visiting the Senso-ji temple, as well as Shibuya and Akihabara.
 - Spending time in some lesser known temples and bamboo groves in Kyoto. Also the city was nice and the food was outstanding.
 
 ### Podcasts
