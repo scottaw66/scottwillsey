@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-06-29T01:56:49-08:00"
+date: "2025-07-08T23:43:09-08:00"
 slug: "now"
 ---
 
@@ -9,32 +9,38 @@ slug: "now"
 
 **2025-06-15 – 2025-06-30**
 
-I have the joy of touring Japan with my daughter for two weeks, revisiting places I lived in Japan as a boy (Karuizawa and Kagoshima), as well as Tokyo and Kyoto. I will have a photos site to share photos from the trip on after I get home.
+I had the joy of touring Japan with my daughter for two weeks from mid-June to end of June, revisiting places I lived in Japan as a boy (Karuizawa and Kagoshima), as well as Tokyo and Kyoto. I will have a photos site to share photos from the trip on available shortly.
 
-Some of the highlights so far have been:
+Some of the highlights:
 
 - Visiting the old house I lived in in Karuizawa, and generally enjoying the beautiful weather and scenery there.
 - Visiting Kagoshima, eating some amazing food there (they have the best food in Japan, in my opinion), and riding the ferry to Sakurajima, the active volcano that overlooks the city.
 - Enjoying the chaos of Tokyo Asakusa, and visiting the Senso-ji temple, as well as Shibuya and Akihabara.
 - Spending time in some lesser known temples and bamboo groves in Kyoto. Also the city was nice and the food was outstanding.
+- THE FOOD, THE FOOD, THE FOOD!!
 
 ### Podcasts
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![The Big Update You Probably Didn’t Even Notice](../../assets/images/oc_artwork/1847774668571995-4f5db95a-deea-4175-bf64-1807568474a7.png)](https://overcast.fm/+aQipC-xVs)[MacStories Unwind – The Big Update You Probably Didn’t Even Notice](https://overcast.fm/+aQipC-xVs)
-![Hot EU summer and unreliable AI shortcuts (6C Podcast)](../../assets/images/oc_artwork/2092466422075812-2e4ed580-751d-4958-9afc-8398a6e26d98.png)Six Colors – Hot EU summer and unreliable AI shortcuts (6C Podcast)
-![Feel-good fun or ‘an insult’ to F1 fans? Our no holds barred, spoiler-heavy review of F1: The Movie](../../assets/images/oc_artwork/5523677258835912-991e9da6-8413-4302-8550-12eaa6a7ed06.png)The Race F1 Podcast (Members) – Feel-good fun or ‘an insult’ to F1 fans? Our no holds barred, spoiler-heavy review of F1: The Movie
-[![644: You Have to Invert](../../assets/images/oc_artwork/5585875561806127-9b92bb80-e6a6-4e08-bdb8-8ed4aedb4323.png)](https://overcast.fm/+BPYUwCe-S8)[Accidental Tech Podcast – 644: You Have to Invert](https://atp.fm/644)
-![Deconstructing Norris’s 2025 struggles + Austria preview (ad-free)](../../assets/images/oc_artwork/5523677614049666-b510937a-d2cd-4fa1-ae3d-d34cbc960f19.png)The Race F1 Podcast (Members) – Deconstructing Norris’s 2025 struggles + Austria preview (ad-free)
+[![Between Two Nerds: The opportunity in Asia](../../assets/images/oc_artwork/4031462366048800-04361cba-8b91-425e-9e5a-b9901642806f.png)](https://overcast.fm/+5Sl_pA8iA)[Risky Bulletin – Between Two Nerds: The opportunity in Asia](https://overcast.fm/+5Sl_pA8iA)
+[![Sponsored: Why Linux is the dark matter of the internet](../../assets/images/oc_artwork/4031462456097820-e2bbfa3a-0e0e-4f3b-a1fb-dcc7d4004da1.png)](https://overcast.fm/+5Sl_-e_Bw)[Risky Bulletin – Sponsored: Why Linux is the dark matter of the internet](https://overcast.fm/+5Sl_-e_Bw)
+![The Race F1 Podcast (Members) – British Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677675249205-74b49f22-52b0-42e0-96e2-e381df642602.png)The Race F1 Podcast (Members) – Edd answers your questions about his F1 British GP driver rankings
+[![Risky Bulletin: Chinese researchers claim to find new North American APT](../../assets/images/oc_artwork/4031462314704163-1952fe3b-531d-4349-b6a2-adf013fde4bf.png)](https://overcast.fm/+5Sl_cxfSM)[Risky Bulletin – Risky Bulletin: Chinese researchers claim to find new North American APT](https://overcast.fm/+5Sl_cxfSM)
+[![1194 進まないすごろく](../../assets/images/oc_artwork/4292513322395023-28d7991b-b604-4092-aaed-7fd998ba8d40.png)](https://overcast.fm/+9ABKPGZY8)[楽しいラジオ「ドングリFM」 – 1194 進まないすごろく](https://overcast.fm/+9ABKPGZY8)
+![The Race F1 Podcast (Members) – British Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677675249205-74b49f22-52b0-42e0-96e2-e381df642602.png)The Race F1 Podcast (Members) – British Grand Prix review (ad-free)
+[![Chatbots Are Repeating Social Media’s Harms w/ Nitasha Tiku](../../assets/images/oc_artwork/1804573958795925-d59039ac-1195-4190-8c41-4b1144819995.png)](https://overcast.fm/+ZpQB3I8pU)[Tech Won't Save Us – Chatbots Are Repeating Social Media’s Harms w/ Nitasha Tiku](https://overcast.fm/+ZpQB3I8pU)
+[![Between Two Nerds: Microsoft embraces digital sovereignty](../../assets/images/oc_artwork/4031462196894629-021c1389-d2ee-4443-b6d6-25fda70404cb.png)](https://overcast.fm/+5Sl_Ar26U)[Risky Bulletin – Between Two Nerds: Microsoft embraces digital sovereignty](https://overcast.fm/+5Sl_Ar26U)
+[![You’re Holding It Wrong: Dbrand and the Joy-Con Gap](../../assets/images/oc_artwork/5131277008377550-dbdaffb4-9c19-4743-bca4-b989a471f13b.png)](https://overcast.fm/+BI63odUFs4)[NPC: Next Portable Console – You’re Holding It Wrong: Dbrand and the Joy-Con Gap](https://overcast.fm/+BI63odUFs4)
+[![The movie and TV tech we actually want to use](../../assets/images/oc_artwork/1141115265804811-11860903-a2e7-466c-b1f8-c96733026ee6.png)](https://overcast.fm/+QN1poQ6gs)[The Vergecast – The movie and TV tech we actually want to use](https://overcast.fm/+QN1poQ6gs)  
 
 </div>
 
-### Books
+### Movies
 
-[<span hidden>Apple in China • 2025 • Patrick McGee • Detailed, interesting, and informative. It lays out how much Apple contributed to China's tech manufacturing dominance, and the existential challenges it has to navigate. • Loved It!</span>
-![Apple in China • 2025 • Patrick McGee • Detailed, interesting, and informative. It lays out how much Apple contributed to China's tech manufacturing dominance, and the existential challenges it has to navigate. • Loved It!](../../assets/images/posts/PngImage401AA8309E0-review-bc3112ea-cb01-4386-88c0-61195a185576.png)](/images/posts/PngImage401AA8309E0-review-bc3112ea-cb01-4386-88c0-61195a185576.jpg)
+[<span hidden>Ballerina • 2025 • Len Wiseman • Sometimes you just want to see people get shot and stabbed, and this is a lot of fun for that. John Wick movies always have interesting choreography and fights. Ana de Armas is fine as Eve and the action is all very well done. • Loved It!</span>
+![BALLERINA Didn't Like It Ballerina 2025 • Len Wiseman Sometimes you just want to see people get shot and stabbed, and this is a lot of fun for that. John Wick movies always have interesting choreography and fights. Ana de Armas is fine as Eve and the action is all very well done. Decent Liked It Loved It!](../../assets/images/posts/PngImage4A7CA53B7C0-review-a5e3466d-ac29-4207-a480-7dd4a72f8beb.png)](/images/posts/PngImage4A7CA53B7C0-review-a5e3466d-ac29-4207-a480-7dd4a72f8beb.jpg)
 
 ### TV Shows
 

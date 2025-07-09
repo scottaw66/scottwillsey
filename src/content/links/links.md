@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-06-29T01:40:53-08:00"
+date: "2025-07-08T23:43:09-08:00"
 slug: "links"
 ---
 
@@ -518,6 +518,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [html.earth: Markdown to HTML Converter & Site Generator](https://html.earth/)
 - [HTMHell](https://www.htmhell.dev)
 - [HTML for People](https://htmlforpeople.com/)
+- [Infinite Mac](https://infinitemac.org/)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
 - [IS IT DNS?](https://isitdns.com/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
