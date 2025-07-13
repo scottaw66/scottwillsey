@@ -2,7 +2,7 @@
 title: Media Reviews Are Now in Search Results
 description: My media reviews now show up in site search results for easier discovery.
 date: "2025-04-08T00:10:00-08:00"
-keywords: ["keyword"]
+keywords: ["blog"]
 cover: "../../assets/images/covers/AstroHeader.png"
 coverAlt: "Astro"
 series: "Astro"

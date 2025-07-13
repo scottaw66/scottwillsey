@@ -2,7 +2,7 @@
 title: Slowly Posting Reviews
 description: I'm slowly getting media reviews up on the site, and I hope they're fun for you. 🙂
 date: "2025-04-13T00:10:00-08:00"
-keywords: ["keyword"]
+keywords: ["blog"]
 slug: "slowly-posting-reviews"
 ---
 I’ve written about my [review automation workflow in some detail](https://scottwillsey.com/media-reviews-automation/), and while I personally find it fascinating, really the point is [the reviews themselves](https://scottwillsey.com/reviews/). I’m slowly getting some up there and will keep adding more slowly and steadily over time.

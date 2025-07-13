@@ -2,7 +2,7 @@
 title: Updated Sessions Raycast Script Command, 2025 Edition
 description: An even NEWER version of my Sessions Raycast script command using Raycast window layouts, Raycast focus sessions, and Coffee for Raycast to keep the screen awake.
 date: "2025-03-27T00:10:00-08:00"
-keywords: ["keyword"]
+keywords: ["apps", "mac", "automation", "programming", "raycast"]
 cover: "../../assets/images/covers/RaycastHeader.png"
 coverAlt: "Raycast"
 series: "Raycast"
