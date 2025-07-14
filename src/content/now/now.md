@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-07-08T23:43:09-08:00"
+date: "2025-07-14T00:25:06-08:00"
 slug: "now"
 ---
 
@@ -24,16 +24,16 @@ Some of the highlights:
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Between Two Nerds: The opportunity in Asia](../../assets/images/oc_artwork/4031462366048800-04361cba-8b91-425e-9e5a-b9901642806f.png)](https://overcast.fm/+5Sl_pA8iA)[Risky Bulletin – Between Two Nerds: The opportunity in Asia](https://overcast.fm/+5Sl_pA8iA)
-[![Sponsored: Why Linux is the dark matter of the internet](../../assets/images/oc_artwork/4031462456097820-e2bbfa3a-0e0e-4f3b-a1fb-dcc7d4004da1.png)](https://overcast.fm/+5Sl_-e_Bw)[Risky Bulletin – Sponsored: Why Linux is the dark matter of the internet](https://overcast.fm/+5Sl_-e_Bw)
-![The Race F1 Podcast (Members) – British Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677675249205-74b49f22-52b0-42e0-96e2-e381df642602.png)The Race F1 Podcast (Members) – Edd answers your questions about his F1 British GP driver rankings
-[![Risky Bulletin: Chinese researchers claim to find new North American APT](../../assets/images/oc_artwork/4031462314704163-1952fe3b-531d-4349-b6a2-adf013fde4bf.png)](https://overcast.fm/+5Sl_cxfSM)[Risky Bulletin – Risky Bulletin: Chinese researchers claim to find new North American APT](https://overcast.fm/+5Sl_cxfSM)
-[![1194 進まないすごろく](../../assets/images/oc_artwork/4292513322395023-28d7991b-b604-4092-aaed-7fd998ba8d40.png)](https://overcast.fm/+9ABKPGZY8)[楽しいラジオ「ドングリFM」 – 1194 進まないすごろく](https://overcast.fm/+9ABKPGZY8)
-![The Race F1 Podcast (Members) – British Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677675249205-74b49f22-52b0-42e0-96e2-e381df642602.png)The Race F1 Podcast (Members) – British Grand Prix review (ad-free)
-[![Chatbots Are Repeating Social Media’s Harms w/ Nitasha Tiku](../../assets/images/oc_artwork/1804573958795925-d59039ac-1195-4190-8c41-4b1144819995.png)](https://overcast.fm/+ZpQB3I8pU)[Tech Won't Save Us – Chatbots Are Repeating Social Media’s Harms w/ Nitasha Tiku](https://overcast.fm/+ZpQB3I8pU)
-[![Between Two Nerds: Microsoft embraces digital sovereignty](../../assets/images/oc_artwork/4031462196894629-021c1389-d2ee-4443-b6d6-25fda70404cb.png)](https://overcast.fm/+5Sl_Ar26U)[Risky Bulletin – Between Two Nerds: Microsoft embraces digital sovereignty](https://overcast.fm/+5Sl_Ar26U)
-[![You’re Holding It Wrong: Dbrand and the Joy-Con Gap](../../assets/images/oc_artwork/5131277008377550-dbdaffb4-9c19-4743-bca4-b989a471f13b.png)](https://overcast.fm/+BI63odUFs4)[NPC: Next Portable Console – You’re Holding It Wrong: Dbrand and the Joy-Con Gap](https://overcast.fm/+BI63odUFs4)
-[![The movie and TV tech we actually want to use](../../assets/images/oc_artwork/1141115265804811-11860903-a2e7-466c-b1f8-c96733026ee6.png)](https://overcast.fm/+QN1poQ6gs)[The Vergecast – The movie and TV tech we actually want to use](https://overcast.fm/+QN1poQ6gs)  
+[![Our reaction to Christian Horner being sacked by Red Bull](../../assets/images/oc_artwork/4456177610923956-5e7bd7c4-ee91-4c61-a28f-451730d42808.png)](https://overcast.fm/+_U3rOOH7Q)[P1 with Matt and Tommy – Our reaction to Christian Horner being sacked by Red Bull](https://overcast.fm/+_U3rOOH7Q)
+![Imagining Apple’s Next Big Thing](../../assets/images/oc_artwork/5561967839533219-b02e0167-5023-4589-9ab1-455fcd7bbdab.png)AppStories+ – Imagining Apple’s Next Big Thing
+![Inside our Summertime Review Toolkits](../../assets/images/oc_artwork/5561968130245359-ccfd2d90-9eee-490a-b57d-81b39e7a7a72.png)AppStories+ – Inside our Summertime Review Toolkits
+[![Securing Journalism on the ‘Data-Greedy’ Internet](../../assets/images/oc_artwork/3732094318450831-4cc6c365-48c9-442c-9c59-8e130e1393c4.png)](https://overcast.fm/+1CUewemI8)[How to Fix the Internet – Securing Journalism on the ‘Data-Greedy’ Internet](https://overcast.fm/+1CUewemI8)
+[![This Phone’s Got Curves](../../assets/images/oc_artwork/5130549562197183-e6eb38e1-0126-433e-95d4-3cb9dba498dd.png)](https://overcast.fm/+BI6NSgoRL8)[Comfort Zone – This Phone’s Got Curves](https://overcast.fm/+BI6NSgoRL8)
+[![1191 ベルドの良いところ](../../assets/images/oc_artwork/4292513603011255-67da68c2-ea31-4eb1-afcb-c7f5eacb5491.png)](https://overcast.fm/+9ABLSAQrc)[楽しいラジオ「ドングリFM」 – 1191 ベルドの良いところ](https://overcast.fm/+9ABLSAQrc)
+[![6/30：Gemini CLIって何者？ManusとClaudeの違い、Midjourney動画対応も⁉](../../assets/images/oc_artwork/5451521632481576-95451e3b-4048-45e2-8764-04f2a09b75a0.png)](https://overcast.fm/+BNeIUpjsSg)[ながらAIラジオ – 6/30：Gemini CLIって何者？ManusとClaudeの違い、Midjourney動画対応も⁉](https://overcast.fm/+BNeIUpjsSg)
+[![Switch 2 Dock Mysteries](../../assets/images/oc_artwork/5131277120875669-1be17c11-c73d-4b56-ab47-481305ff3bb4.png)](https://overcast.fm/+BI63o4IrJU)[NPC: Next Portable Console – Switch 2 Dock Mysteries](https://overcast.fm/+BI63o4IrJU)
+[![96: TIB Peated Vatted Malt No. 2 Blended Whisky](../../assets/images/oc_artwork/5287026711065157-ddba027a-b24f-478b-b503-95a52d3cc2c2.png)](https://overcast.fm/+BLIhdUH8kU)[Whisky Whiskey – 96: TIB Peated Vatted Malt No. 2 Blended Whisky](https://overcast.fm/+BLIhdUH8kU)
+[![How the US Weaponizes Tech in the Middle East w/ Laleh Khalili](../../assets/images/oc_artwork/1804573997566800-9b894cdb-28e8-43c7-b4cd-492e4b104791.png)](https://overcast.fm/+ZpQCAYi1A)[Tech Won't Save Us – How the US Weaponizes Tech in the Middle East w/ Laleh Khalili](https://overcast.fm/+ZpQCAYi1A)
 
 </div>
 
@@ -44,8 +44,8 @@ Some of the highlights:
 
 ### TV Shows
 
-[<span hidden>Your Friends & Neighbors • 2025 • What a season! What a show! This ranks way up there on the all time favorites list. Very curious about where it goes next. • Loved It!</span>
-![Your Friends & Neighbors • 2025 • What a season! What a show! This ranks way up there on the all time favorites list. Very curious about where it goes next. • Loved It!](../../assets/images/posts/PngImage408C8502Fa0-review-a1dd1633-678b-44fd-ad50-055df7276f98.png)](/images/posts/PngImage408C8502Fa0-review-a1dd1633-678b-44fd-ad50-055df7276f98.jpg)
+[<span hidden>Somebody Feed Phil • 2018 • 8 seasons in, this is one of the happiest and insistently must-see shows I know of. Watch it. Pay for the goddamned Netflix account JUST FOR THIS. If you don't, I have to ask - why do you hate yourself? • Loved It!</span>
+![Somebody Feed Phil • 2018 • 8 seasons in, this is one of the happiest and insistently must-see shows I know of. Watch it. Pay for the goddamned Netflix account JUST FOR THIS. If you don't, I have to ask - why do you hate yourself? • Loved It!](../../assets/images/posts/PngImage4Bbc86C7Ea0-review-99b30486-a314-4ae9-a35a-b140f463e70f.png)](/images/posts/PngImage4Bbc86C7Ea0-review-99b30486-a314-4ae9-a35a-b140f463e70f.jpg)
 [<span hidden>Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!</span>
 ![Long Way Home • 2025 • The Long Way series are always very entertaining, and two episodes in, this is no exception. I really love the European focus of this one. Will keep watching. • Loved It!](../../assets/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.png)](/images/posts/PngImage45C88D92520-review-176fb98d-e50d-4881-964a-f0cb2542add3.jpg)
 
