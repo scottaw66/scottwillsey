@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-07-14T10:02:38-08:00"
+date: "2025-07-22T19:25:47-08:00"
 slug: "links"
 ---
 
@@ -30,21 +30,6 @@ slug: "links"
 - [MacStories](https://www.macstories.net/)
 - [Matthew Cassinelli](https://matthewcassinelli.com/)
 - [Six Colors](https://sixcolors.com/)
-
-## Apple Home
-
-- [Best smart door lock you can buy - The Verge](https://www.theverge.com/23393163/best-smart-door-lock)
-- [Eve Outdoor Cam | evehome.com](https://www.evehome.com/en-us/eve-outdoor-cam)
-- [HomeCam for HomeKit](https://homecam.app/)
-- [HomeKit.cam - Every HomeKit camera and more](https://homekit.cam/)
-- [HomeKit Light Switch - Meross Smart Switch MSS510US](https://www.meross.com/en-gc/smart-switch/homekit-light-switch/23)
-- [Logitech Circle View Wired Video Doorbell - HomeKit Enabled](https://www.logitech.com/en-us/products/cameras/circle-view-video-doorbell.html)
-- [Meross HomeKit Smart Plug, Smart Mini Wi-Fi Plug In American Standard - MSS110US MSS110JP](https://www.meross.com/en-gc/smart-plug/homekit-smart-plug/2)
-- [Meross Smart Garage Door Opener Remote Control - MSG100](https://www.meross.com/en-gc/smart-garage-door-opener/garage-door-opener-remote-control/29)
-- [Pushcut | Automatically show your favorite site's recent news on your homescreen](https://www.pushcut.io/)
-- [Smart Light Bulb that Changes Color - Meross MSL120](https://www.meross.com/en-gc/smart-light/light-bulb-that-changes-color/28)
-- [Smart Light Switch with Thread | Belkin US](https://www.belkin.com/smart-light-switch-with-thread/WLS0503.html)
-- [Yale Assure Lock® 2 | Best Smart Lock for your Home - Yale Home](https://shopyalehome.com/pages/yale-assure-lock-2)
 
 ## Articles
 
@@ -530,6 +515,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [Making A Plan](https://millionexperiments.com/zines/making-a-plan)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
+- [Moon Phase Tracker | Rendered in ASCII Art](https://asciimoon.com/)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
 - [noclip](https://noclip.website/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
@@ -654,6 +640,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## Mac
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
+- [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [Advanced use cases | 1Password Developer](https://developer.1password.com/docs/ssh/agent/advanced/#ssh-server-six-key-limit)
 - [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
@@ -666,12 +653,14 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Carbon Copy Cloner | macOS Backup Software | Bombich Software](https://bombich.com/)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
+- [Dato — Sindre Sorhus](https://sindresorhus.com/dato)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
 - [Extending Finder Context Menu · Better Touch Tool · GitBook](https://docs.folivora.ai/docs/6b_finder_context_menu.html)
 - [Fastmarks for macOS – retina studio](https://retina.studio/fastmarks/)
 - [Find Any File](https://findanyfile.app/)
 - [Floating Menu & Desktop Widgets · GitBook · Better Touch Tool](https://docs.folivora.ai/docs/1600_floating_menus.html)
+- [Folder Peek — Sindre Sorhus](https://sindresorhus.com/folder-peek)
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
 - [Ghostty](https://ghostty.org/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
@@ -686,6 +675,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The low-tech guys](https://lowtechguys.com/)
 - [A launchd Tutorial](https://www.launchd.info/)
 - [Louie Mantia's Icons](https://lmnt.me/blog/icons/)
+- [Lungo — Sindre Sorhus](https://sindresorhus.com/lungo)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
@@ -693,6 +683,8 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
+- [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
+- [Quip – AI Clipboard Manager and Text Expander for macOS & iOS – BZG](https://www.bzgapps.com/quip)
 - [Raycast - Your shortcut to everything](https://www.raycast.com/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
@@ -702,10 +694,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rogue Amoeba | Loopback: Cable-Free Audio Routing](https://rogueamoeba.com/loopback/)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 - [Rogue Amoeba | SoundSource: A Superior Sound Control](https://rogueamoeba.com/soundsource/)
+- [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
 - [Secure ShellFish – SSH Client for iOS and Mac](https://shellfishapp.com/)
 - [Sequel](https://www.getsequel.app)
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
+- [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+- [System Color Picker — Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
 - [UTM | Virtual machines for Mac](https://mac.getutm.app/)
@@ -733,6 +728,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## Notion
 
 - [Notion Answers](https://notionanswers.com/)
+
+## Photography
+
+- [Photos and Words](https://photos.scottwillsey.com/)
 
 ## Podcasts
 
@@ -844,23 +843,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Windsurf Editor and Codeium extensions](https://codeium.com/)
 - [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
 
-## Raycast
-
-- [AI](https://manual.raycast.com/ai)
-- [AI Extensions](https://manual.raycast.com/ai-extensions)
-- [Focus](https://manual.raycast.com/focus)
-- [How the Raycast API and extensions work - Raycast Blog](https://www.raycast.com/blog/how-raycast-api-extensions-work)
-- [Model Context Protocol](https://manual.raycast.com/model-context-protocol)
-- [Notes](https://manual.raycast.com/notes)
-- [Raycast AI](https://manual.raycast.com/ai)
-- [Raycast Browser Extension](https://www.raycast.com/browser-extension)
-- [Raycast Developer API](https://developers.raycast.com/)
-- [Raycast script - copy foremost Safari window as markdown link | Krzysztof Żuraw](https://krzysztofzuraw.com/blog/2022/raycast-script-copy-foremost-safari-window-as-markdown-link/)
-- [raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
-- [Security | Raycast API](https://developers.raycast.com/information/security)
-- [Top Extension Picks for Designers - Raycast Blog](https://www.raycast.com/blog/extension-picks-designers)
-- [Window Management](https://manual.raycast.com/window-management)
-
 ## RSS & Reading Tools
 
 - [EchoFeed](https://echofeed.app/)
@@ -868,6 +850,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Tapestry • Your favorite blogs, social media, and more in a unified and chronological timeline](https://usetapestry.com/)
+
+## Security
+
+- [Safe Sisters – Safe Sisters](https://safesisters.org/)
 
 ## Tea
 
@@ -878,5 +864,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 - [Friends with Brews](https://friendswithbrews.com/)
 - [Github](https://github.com/scottaw66)
+- [Photos and Words](https://photos.scottwillsey.com/)
 - [ScottWillsey](https://scottwillsey.com/)
 - [ScottWillsey Weekly Reads](https://scottwillsey.com/reads/1)
