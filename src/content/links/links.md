@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-07-22T19:25:47-08:00"
+date: "2025-07-24T09:07:15-08:00"
 slug: "links"
 ---
 
@@ -13,10 +13,6 @@ slug: "links"
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
-- [Raycast AI](https://manual.raycast.com/ai)
-- [Raycast AI Extensions](https://manual.raycast.com/ai-extensions)
-- [Raycast Model Context Protocol](https://manual.raycast.com/model-context-protocol)
-- [sigoden/aichat: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.](https://github.com/sigoden/aichat)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 
 ## Apple
@@ -78,6 +74,7 @@ slug: "links"
 - [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
+- [Overtourism in Japan, and How it Hurts Small Businesses — Ridgeline issue 210](https://craigmod.com/ridgeline/210/)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
@@ -121,9 +118,8 @@ slug: "links"
 ## Astro
 
 - [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
+- [Building Astro sites with AI tools | Docs](https://docs.astro.build/en/guides/build-with-ai/)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
-- [How to build a simple photo gallery with Astro | Jan Kraus](https://jankraus.net/2024/04/05/how-to-build-a-simple-photo-gallery-with-astro/)
-- [MatthiesenXYZ/Astrolace: An easy way to use Shoelace.style within your Astro Project!](https://github.com/MatthiesenXYZ/Astrolace)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 - [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev/)
 
@@ -620,9 +616,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [JapanesePod101 – Learn Japanese](https://www.japanesepod101.com/dashboard)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
 - [Jisho.org: Japanese Dictionary](https://jisho.org/)
+- [NEW ホームページ - Miku Real Japanese](https://www.mikurealjapanese.com/)
 - [News On Japan](https://newsonjapan.com/)
 - [Nippon.com | Your Doorway to Japan](https://www.nippon.com/en/)
 - [Savvy Tokyo - The Essential Guide for International Women and Families in Tokyo](https://savvytokyo.com/)
+- [Sayuri Saying](https://sayurisaying.com/)
 - [Spoon & Tamago | japanese art, design and culture](https://www.spoon-tamago.com/)
 - [Tokyo Cheapo | The Ultimate Guide To Tokyo](https://tokyocheapo.com/)
 - [WaniKani / Dashboard](https://www.wanikani.com/)
@@ -731,7 +729,15 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Photography
 
+- [Affinity Photo Tutorials (V1) - YouTube](https://www.youtube.com/playlist?list=PLjZ7Y0kROWitoJtnw0pdvjPmS8mYGvrBR)
+- [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
+- [Have Camera Will Travel](https://havecamerawilltravel.com/)
+- [Hyperfocal Distance Explained](https://photographylife.com/hyperfocal-distance-explained)
+- [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
+- [The Phoblographers Guide to Buying Fujifilm GF Lenses](https://www.thephoblographer.com/2019/10/09/the-phoblographers-guide-to-buying-fujifilm-gf-lenses/)
+- [Photons to Photos](https://www.photonstophotos.net/)
 - [Photos and Words](https://photos.scottwillsey.com/)
+- [PhotoSwipe: Responsive JavaScript Image Gallery](https://photoswipe.com/)
 
 ## Podcasts
 
