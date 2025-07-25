@@ -379,7 +379,7 @@ A tech blog with a delightfully retro design.
 **[TechDistortion](https://techdistortion.com/)**  
 John Chidgey is an engineer first and foremost, and a podcaster and writer additionally. That's not to downplay those works – they're excellent. It's just to emphasize how based in analysis his work is.
 
-**[...tiff is typing](https://www.tiffwhite.me/)**  
+**[...tiff is typing](https://tiffwhite.me/)**  
 Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
 
 **[Waxy.org - Andy Baio lives here](https://waxy.org/)**  
