@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-05-23T18:48:40-08:00"
+date: "2025-08-05T08:56:46-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -20,18 +20,20 @@ slug: "uses"
 
 ### Automation and Utilities
 
+- [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Batteries for Mac | Track all your devices' batteries from your Mac. Get notified when they need recharging.](https://www.fadel.io/batteries)
+- [BetterSnapTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/bettersnaptool)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
-- [Framous: Screenshot Frames](https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519?mt=12)
+- [FastScripts 3](https://redsweater.com/fastscripts/)
 - [Front and Center](https://apps.apple.com/us/app/front-and-center/id1493996622?mt=12)
 - [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
-- [Raycast](https://raycast.com/)
-- [Swift Shift | Manage your mac's windows like a pro](https://www.swiftshift.app/)
+- [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
+- [Snippety - Productivity App for macOS](https://snippety.app/)
 - [SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
@@ -48,22 +50,31 @@ slug: "uses"
 - Apple Notes
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
+- [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
+- [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
+- [Snippety - Productivity App for macOS](https://snippety.app/)
 
 ### Image Processing
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
 - [Affinity Photo – Professional Image Editing Software](https://affinity.serif.com/en-us/photo/)
 - [Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/en-us/designer/)
+- [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
+- [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
+- [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
 - [Pixelmator Pro](https://www.pixelmator.com/pro/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
+- [System Color Picker — Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 
 ### Organization
 
 - Apple Reminders
 - [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
-- [Granola — The AI notepad for people in back-to-back meetings](https://www.granola.ai/)
+- [Dato — Sindre Sorhus](https://sindresorhus.com/dato)
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
+- [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
+- [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
 - [Timery for Toggl: Toggl API Token](https://www.timeryapp.com/token.html)
 
 ### Podcasting/Recording
@@ -76,6 +87,7 @@ slug: "uses"
 - [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- [Riverside: HD Podcast & Video Software | Free Recording & Editing](https://riverside.com/)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 
 ### Programming, Log Analysis, Text Filtering
@@ -121,6 +133,13 @@ slug: "uses"
 [![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/KFUrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
 
 [![K&F CONCEPT Camera Sling Bag10L Urban Wander 01(Green)](../../assets/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.png)](/images/posts/UrbanWander-E19E154C-38C8-4402-802E-D6AD1F4FE955.jpg)  
+
+### Software
+
+- [Affinity Photo – Professional Image Editing Software](https://affinity.serif.com/en-us/photo/)
+- [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
+- [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
+- [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
 
 ## Attire
 

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-07-24T09:07:15-08:00"
+date: "2025-08-05T08:56:46-08:00"
 slug: "links"
 ---
 
@@ -58,6 +58,7 @@ slug: "links"
 - [How Does the Milky Way Compare to Other Galaxies? - Universe Today](https://www.universetoday.com/168742/how-does-the-milky-way-compare-to-other-galaxies/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
+- [How the Solid Protocol Restores Digital Agency - Schneier on Security](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 - [How to Buy the Best Keycaps for Your Mechanical Keyboard (2025) | WIRED](https://www.wired.com/story/how-to-buy-keycaps-for-your-mechanical-keyboard/)
 - [How to Enter the US With Your Digital Privacy Intact | WIRED](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
 - [How to Get Started on Bluesky | WIRED](https://www.wired.com/story/how-to-get-started-on-bluesky/)
@@ -418,6 +419,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Silo (series) - Wikipedia](https://en.wikipedia.org/wiki/Silo_(series))
 - [Snow Crash by Neal Stephenson | PenguinRandomHouse.com](https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/9780553380958/)
 - [The Diamond Age by Neal Stephenson: 9780553380965 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/172835/the-diamond-age-by-neal-stephenson/9780553380965/)
+- [Things Become Other Things — by Craig Mod](https://craigmod.com/books/things_become_other_things/)
 - [Tracers in the Dark by Andy Greenberg: 9780593315613 | PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/690603/tracers-in-the-dark-by-andy-greenberg/)
 - [William Gibson](https://williamgibsonbooks.com/)
 
@@ -529,6 +531,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rainglow, a demo of Eleventy Serverless](https://rainglow.zachleat.dev/3b5f3b/)
 - [Resistbot](https://resist.bot/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
+- [Safe Sisters – Safe Sisters](https://safesisters.org/)
 - [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
@@ -616,14 +619,18 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [JapanesePod101 – Learn Japanese](https://www.japanesepod101.com/dashboard)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
 - [Jisho.org: Japanese Dictionary](https://jisho.org/)
+- [Jozen - YouTube](https://www.youtube.com/@jozendesu)
+- [Miku Real Japanese - YouTube](https://www.youtube.com/@mikurealjapanese)
 - [NEW ホームページ - Miku Real Japanese](https://www.mikurealjapanese.com/)
 - [News On Japan](https://newsonjapan.com/)
+- [NihongoDekita with Sayaka - YouTube](https://www.youtube.com/@NihongoDekita)
 - [Nippon.com | Your Doorway to Japan](https://www.nippon.com/en/)
 - [Savvy Tokyo - The Essential Guide for International Women and Families in Tokyo](https://savvytokyo.com/)
 - [Sayuri Saying](https://sayurisaying.com/)
 - [Spoon & Tamago | japanese art, design and culture](https://www.spoon-tamago.com/)
 - [Tokyo Cheapo | The Ultimate Guide To Tokyo](https://tokyocheapo.com/)
 - [WaniKani / Dashboard](https://www.wanikani.com/)
+- [Yuko Sensei - YouTube](https://www.youtube.com/@YukoSensei)
 
 ## Keyboards
 
@@ -647,12 +654,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
 - [Bear](https://bear.app/)
-- [Blog Series: #1 ChatGPT + BetterTouchTool = ❤️](https://folivora.ai/blog/post/13300)
+- [BetterSnapTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/bettersnaptool)
 - [Carbon Copy Cloner | macOS Backup Software | Bombich Software](https://bombich.com/)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
 - [Dato — Sindre Sorhus](https://sindresorhus.com/dato)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
+- [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
 - [Extending Finder Context Menu · Better Touch Tool · GitBook](https://docs.folivora.ai/docs/6b_finder_context_menu.html)
 - [Fastmarks for macOS – retina studio](https://retina.studio/fastmarks/)
@@ -660,7 +668,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Floating Menu & Desktop Widgets · GitBook · Better Touch Tool](https://docs.folivora.ai/docs/1600_floating_menus.html)
 - [Folder Peek — Sindre Sorhus](https://sindresorhus.com/folder-peek)
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
-- [Ghostty](https://ghostty.org/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
 - [Hookmark – Links beat searching](https://hookproductivity.com/)
@@ -673,7 +680,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The low-tech guys](https://lowtechguys.com/)
 - [A launchd Tutorial](https://www.launchd.info/)
 - [Louie Mantia's Icons](https://lmnt.me/blog/icons/)
-- [Lungo — Sindre Sorhus](https://sindresorhus.com/lungo)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
@@ -681,9 +687,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
+- [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
 - [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
 - [Quip – AI Clipboard Manager and Text Expander for macOS & iOS – BZG](https://www.bzgapps.com/quip)
-- [Raycast - Your shortcut to everything](https://www.raycast.com/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
 - [Rogue Amoeba | Audio Hijack: Record Any Audio on MacOS](https://rogueamoeba.com/audiohijack/)
@@ -696,14 +702,15 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Secure ShellFish – SSH Client for iOS and Mac](https://shellfishapp.com/)
 - [Sequel](https://www.getsequel.app)
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
+- [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 - [System Color Picker — Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
+- [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [UTM | Virtual machines for Mac](https://mac.getutm.app/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
-- [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 - [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)
 
 ## Newsletters
@@ -731,6 +738,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 - [Affinity Photo Tutorials (V1) - YouTube](https://www.youtube.com/playlist?list=PLjZ7Y0kROWitoJtnw0pdvjPmS8mYGvrBR)
 - [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
+- [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
 - [Have Camera Will Travel](https://havecamerawilltravel.com/)
 - [Hyperfocal Distance Explained](https://photographylife.com/hyperfocal-distance-explained)
 - [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)

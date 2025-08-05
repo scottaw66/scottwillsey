@@ -1,6 +1,6 @@
 {
-  "Site": "https://safesisters.org/",
-  "Title": "Safe Sisters \u2013 Safe Sisters",
-  "Description": "A fellowship program for women human rights defenders, journalists or media workers, and activists that train them to be able to understand and respond to the digital security challenges they face in their work and daily life.",
-  "Image": "SafeSisters-8AF5CE00-78E2-49E8-8E4E-F4DED2AECF93"
+  "Site": "https://photos.scottwillsey.com/",
+  "Title": "Photos and Words",
+  "Description": "I know it's gauche to promote a site of my own, but here it is: my new Photos website. The part I like about this is that it's an Astro site created specifically for showcasing photos, and you can download the code for it from the github repo linked on the site.",
+  "Image": "Photos-CA838C4D-C763-4A27-93BF-D3E92884055F"
 }

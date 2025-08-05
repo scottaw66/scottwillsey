@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-07-22T19:25:47-08:00"
+date: "2025-08-05T08:56:46-08:00"
 slug: "now"
 ---
 
@@ -16,16 +16,16 @@ Oh, well.
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Our 2025 Belgian GP Predictions](../../assets/images/oc_artwork/4456177480573345-60d51b6f-20dd-4a6d-9ee4-7e01de52690d.png)](https://overcast.fm/+_U3qvJIaE)[P1 with Matt and Tommy – Our 2025 Belgian GP Predictions](https://overcast.fm/+_U3qvJIaE)
-[![103: Cape Byron Chardonnay Cask Single Malt Whisky](../../assets/images/oc_artwork/5287027158172087-d889d239-e22a-499d-8044-9165c1b6deda.png)](https://overcast.fm/+BLIhe-uQbc)[Whisky Whiskey – 103: Cape Byron Chardonnay Cask Single Malt Whisky](https://overcast.fm/+BLIhe-uQbc)
-[![Hello from 1998: Revisiting Past Handhelds](../../assets/images/oc_artwork/5131277871794067-a70efd07-6f31-4aaa-b567-f8eb3282abd9.png)](https://overcast.fm/+BI63rrKx5M)[NPC: Next Portable Console – Hello from 1998: Revisiting Past Handhelds](https://overcast.fm/+BI63rrKx5M)
-![Road to F1: Which Formula 1 team has the best junior roster?](../../assets/images/oc_artwork/5523677056600524-5171507e-16a3-42e9-97dc-3d16da585d04.png)The Race F1 Podcast (Members) – Road to F1: Which Formula 1 team has the best junior roster?
-[![1198 進撃のドンキ](../../assets/images/oc_artwork/4292513052483106-41a52da0-d449-483c-8093-82b9758d0a6b.png)](https://overcast.fm/+9ABJOv3iI)[楽しいラジオ「ドングリFM」 – 1198 進撃のドンキ](https://overcast.fm/+9ABJOv3iI)
-[![Stump The Geeks Live from Macstock 2025](../../assets/images/oc_artwork/4102724453788450-eb49a24f-77a1-4aba-8d10-9082ca326c47.png)](https://overcast.fm/+6TZ_mt6yI)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Stump The Geeks Live from Macstock 2025](https://overcast.fm/+6TZ_mt6yI)
-![BBV10s Debrief: Monza 2003](../../assets/images/oc_artwork/5523679920621809-36ec9cca-1ead-415d-8f35-1a5d6baac89b.png)Bring Back V10s (Members) – BBV10s Debrief: Monza 2003
-[![Why tech billionaires want a ‘corporate dictatorship’](../../assets/images/oc_artwork/1138505195338913-78fe1380-7ee4-45b0-a06f-d1cffa10546e.png)](https://overcast.fm/+QLduW-PKE)[Decoder with Nilay Patel – Why tech billionaires want a ‘corporate dictatorship’](https://overcast.fm/+QLduW-PKE)
-[![319: Market](../../assets/images/oc_artwork/327487359114301-2329a38f-43f1-4f50-ab58-2649d3c3a3d8.png)](https://overcast.fm/+Ep2Re1XD0)[Robot or Not? – 319: Market](https://overcast.fm/+Ep2Re1XD0)
-[![102: Cape Byron Viognier Cask Single Malt Whisky](../../assets/images/oc_artwork/5287027215789044-047c5b52-45a8-4bd5-b9aa-b0135a418807.png)](https://overcast.fm/+BLIhfMda_Q)[Whisky Whiskey – 102: Cape Byron Viognier Cask Single Malt Whisky](https://overcast.fm/+BLIhfMda_Q)
+[![Kick ‘Em in the Dongle](../../assets/images/oc_artwork/4478463075199540-7c9154d9-cf91-4885-be53-aaa9a797a0a5.png)](https://overcast.fm/+_pI3C8qjQ)[Understood: Who Broke the Internet? – Kick ‘Em in the Dongle](https://overcast.fm/+_pI3C8qjQ)
+[![In God We Antitrust](../../assets/images/oc_artwork/4478462296769499-ffbb71ae-8593-4e4b-a2ec-cab28d7a7a7f.png)](https://overcast.fm/+_pI0JWw9s)[Understood: Who Broke the Internet? – In God We Antitrust](https://overcast.fm/+_pI0JWw9s)
+[![Ctrl, Ctrl, Ctrl](../../assets/images/oc_artwork/4478462972831282-02c60278-ab2e-4988-bb84-19fb470f406a.png)](https://overcast.fm/+_pI2qipjI)[Understood: Who Broke the Internet? – Ctrl, Ctrl, Ctrl](https://overcast.fm/+_pI2qipjI)
+[![Don’t Be Evil](../../assets/images/oc_artwork/4478462421715671-e855cc43-6b94-460c-a9ea-4b22ec1fb970.png)](https://overcast.fm/+_pI0nJStc)[Understood: Who Broke the Internet? – Don’t Be Evil](https://overcast.fm/+_pI0nJStc)
+[![Introducing Understood: Who Broke the Internet?](../../assets/images/oc_artwork/4478462546559624-b9761882-cb40-4837-b475-651067742437.png)](https://overcast.fm/+_pI1E6Qog)[Understood: Who Broke the Internet? – Introducing Understood: Who Broke the Internet?](https://overcast.fm/+_pI1E6Qog)
+[![The Naked Emperor BONUS | Guilty: The fall of Sam Bankman-Fried](../../assets/images/oc_artwork/4478463083156672-55568220-0445-4195-a08c-91462173fcbf.png)](https://overcast.fm/+_pI3E2FMA)[Understood: Who Broke the Internet? – The Naked Emperor BONUS | Guilty: The fall of Sam Bankman-Fried](https://overcast.fm/+_pI3E2FMA)
+[![The Naked Emperor BONUS: The Trial of Sam Bankman-Fried](../../assets/images/oc_artwork/4478463282310059-0f676bda-6da1-4d09-b595-502b6533e1cf.png)](https://overcast.fm/+_pI30U66s)[Understood: Who Broke the Internet? – The Naked Emperor BONUS: The Trial of Sam Bankman-Fried](https://overcast.fm/+_pI30U66s)
+[![The Naked Emperor BONUS: Binance and its CEO sued in major crypto case](../../assets/images/oc_artwork/4478462392170335-ddd6ef75-90c2-4617-91a3-41e84df0d620.png)](https://overcast.fm/+_pI0gGd18)[Understood: Who Broke the Internet? – The Naked Emperor BONUS: Binance and its CEO sued in major crypto case](https://overcast.fm/+_pI0gGd18)
+[![Between Two Nerds: The Aeroflot hack](../../assets/images/oc_artwork/4031462134178860-ca0afc7e-817b-493e-89e1-343483c70283.png)](https://overcast.fm/+5Sl-xu5Cw)[Risky Bulletin – Between Two Nerds: The Aeroflot hack](https://overcast.fm/+5Sl-xu5Cw)
+[![Life’s Too Short to Deal With Bad Cables](../../assets/images/oc_artwork/4102723492883828-fb51ff0f-259f-4b00-9bf7-a872493c8627.png)](https://overcast.fm/+6TZ8BnrXQ)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Life’s Too Short to Deal With Bad Cables](https://overcast.fm/+6TZ8BnrXQ)
 
 </div>
 
@@ -45,8 +45,18 @@ Oh, well.
 ![Murderbot S1 • 2025 • I didn't expect to love this. I didn't even want to like it after a couple episodes. But I do! I love it! It's fun and somehow heartwarming. • Loved It!](../../assets/images/posts/PngImage4Cee8279170-review-8f5cff22-2481-41cf-83f2-8ba425311f71.png)](/images/posts/PngImage4Cee8279170-review-8f5cff22-2481-41cf-83f2-8ba425311f71.jpg)
 [<span hidden>Somebody Feed Phil • 2018 • 8 seasons in, this is one of the happiest and insistently must-see shows I know of. Watch it. Pay for the goddamned Netflix account JUST FOR THIS. If you don't, I have to ask - why do you hate yourself? • Loved It!</span>
 ![Somebody Feed Phil • 2018 • 8 seasons in, this is one of the happiest and insistently must-see shows I know of. Watch it. Pay for the goddamned Netflix account JUST FOR THIS. If you don't, I have to ask - why do you hate yourself? • Loved It!](../../assets/images/posts/PngImage4Bbc86C7Ea0-review-99b30486-a314-4ae9-a35a-b140f463e70f.png)](/images/posts/PngImage4Bbc86C7Ea0-review-99b30486-a314-4ae9-a35a-b140f463e70f.jpg)
-[<span hidden>Long Way Home • 2025 • I genuinely think this was the best of the Long Way series. Very fun and occasionally moving. • Loved It!</span>
-![Long Way Home • 2025 • I genuinely think this was the best of the Long Way series. Very fun and occasionally moving. • Loved It!](../../assets/images/posts/PngImage4283Bc41Ac0-review-6d7a7c39-ba51-49a4-8651-0c949db5c8a8.png)](/images/posts/PngImage4283Bc41Ac0-review-6d7a7c39-ba51-49a4-8651-0c949db5c8a8.jpg)
+
+### YouTube
+
+- [Adam Mockler - YouTube](https://www.youtube.com/@adammockler)
+- [Jozen - YouTube](https://www.youtube.com/@jozendesu)
+- [Miku Real Japanese - YouTube](https://www.youtube.com/@mikurealjapanese)
+- [NihongoDekita with Sayaka - YouTube](https://www.youtube.com/@NihongoDekita)
+- [Pilot Debrief - YouTube](https://www.youtube.com/@pilot-debrief)
+- [Sunny in Japan - YouTube](https://www.youtube.com/@Sunny_in_Japan)
+- [Tetsu Sensei - YouTube](https://www.youtube.com/@tetsujpjp)
+- [THE RACE - YouTube](https://www.youtube.com/WeAreTheRace)
+- [Yuko Sensei - YouTube](https://www.youtube.com/@YukoSensei)
 
 ### Food and Drink
 
