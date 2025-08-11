@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-08-05T08:56:46-08:00"
+date: "2025-08-10T23:21:54-08:00"
 slug: "links"
 ---
 
@@ -9,11 +9,17 @@ slug: "links"
 
 ## AI
 
+- [Claude can now connect to your world \ Anthropic](https://www.anthropic.com/news/integrations)
+- [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
+- [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
+- [Model Context Protocol | Warp documentation](https://docs.warp.dev/knowledge-and-collaboration/mcp)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
+- [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes/)
 
 ## Apple
 
@@ -48,6 +54,7 @@ slug: "links"
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Enshittification - by William A. Finnegan - Persuasion](https://www.persuasion.community/p/enshittification)
+- [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [Everything you need to know about bird flu - Ars Technica](https://arstechnica.com/health/2025/04/everything-you-need-to-know-about-bird-flu/)
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction | Ars Technica](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [Half the World’s People Depend on Rice. New Research Says Climate Change Will Make it Toxic - Inside Climate News](https://insideclimatenews.org/news/16042025/half-the-worlds-people-depend-on-rice-new-research-says-climate-change-will-make-it-toxic/)
@@ -120,6 +127,7 @@ slug: "links"
 
 - [Build a custom image component | Docs](https://docs.astro.build/en/recipes/build-custom-img-component/)
 - [Building Astro sites with AI tools | Docs](https://docs.astro.build/en/guides/build-with-ai/)
+- [Creating breadcrumbs in Astro. Expected results If for example, you… | by gideon maina | Medium](https://medium.com/@gmainapro/creating-breadcrumbs-in-astro-4c7280d599fa)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 - [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev/)
@@ -526,6 +534,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Paint Toys](https://paint.toys/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
+- [Photos and Words](https://photos.scottwillsey.com/)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [Rainglow, a demo of Eleventy Serverless](https://rainglow.zachleat.dev/3b5f3b/)
@@ -867,7 +876,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Security
 
+- [Locking down Signal](https://freedom.press/digisec/blog/locking-down-signal/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
+- [The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search | WIRED](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)
 
 ## Tea
 

@@ -1,6 +1,6 @@
 {
-  "Site": "https://photos.scottwillsey.com/",
-  "Title": "Photos and Words",
-  "Description": "I know it's gauche to promote a site of my own, but here it is: my new Photos website. The part I like about this is that it's an Astro site created specifically for showcasing photos, and you can download the code for it from the github repo linked on the site.",
-  "Image": "Photos-CA838C4D-C763-4A27-93BF-D3E92884055F"
+    "Site": "https://smallseasons.guide/",
+    "Title": "Small Seasons",
+    "Description": "Prior to the Gregorian calendar, farmers in China and Japan broke each year down into 24 sekki, or \u2018small seasons.\u2019 Rather than using dates, these seasons were divided up by natural phenomena. This site documents these different sekki.",
+    "Image": "SmallSeasons-BE2C399C-F52B-4651-92BA-BED63FFC8BE1"
 }
