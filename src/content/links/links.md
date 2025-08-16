@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-08-10T23:21:54-08:00"
+date: "2025-08-15T23:17:42-08:00"
 slug: "links"
 ---
 
@@ -50,6 +50,7 @@ slug: "links"
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [‘Cook chose poorly’: how Apple blew up its control over the App Store | The Verge](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
 - [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
+- [Curate your own newspaper with RSS](https://www.citationneeded.news/curate-with-rss/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
@@ -66,6 +67,7 @@ slug: "links"
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
 - [How Sequoia changes virtualisation on Apple silicon – The Eclectic Light Company](https://eclecticlight.co/2024/06/17/how-sequoia-changes-virtualisation-on-apple-silicon/)
 - [How the Solid Protocol Restores Digital Agency - Schneier on Security](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
+- [How to Be a Happier Creature – The Marginalian](https://www.themarginalian.org/2025/07/31/william-henry-hudson-nature/)
 - [How to Buy the Best Keycaps for Your Mechanical Keyboard (2025) | WIRED](https://www.wired.com/story/how-to-buy-keycaps-for-your-mechanical-keyboard/)
 - [How to Enter the US With Your Digital Privacy Intact | WIRED](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
 - [How to Get Started on Bluesky | WIRED](https://www.wired.com/story/how-to-get-started-on-bluesky/)
@@ -137,10 +139,12 @@ slug: "links"
 - [Baerlic Beer Co](https://www.baerlicbrewing.com/) Downlow Czech Dark Lager
 - [BinaryBrewing.co](https://binarybrewing.co/beers)
 - [Blueberry Boyfriend | Prairie Artisan Ales](https://prairieales.com/beer/blueberry-boyfriend/)
+- [Buy Asian Beer at Sapporo | #1 Premium Japanese Lager](https://www.sapporobeer.com/)
 - [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Honey Kolsch – Rogue](https://www.rogue.com/shop/beer/core/honey-kolsch/)
 - [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
+- [KIRIN ICHIBAN](http://www.kirinichiban.com/)
 - [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
 - [Peanut Butter Milk Stout – Belching Beaver Landing - Beer](https://belchingbeaver.com/san-diego-belching-beaver-landing-beer)
 - [Salted Caramel Porter – Beers — Cascade Lakes](https://www.cascadelakes.com/beers)
@@ -585,6 +589,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [ABV Public House - Hillsboro, OR](https://abvpub.com/)
 - [BroderPDX | Valkommen](https://www.broderpdx.com/)
 - [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
+- [Burgerville Oregon Marionberry Shake](https://www.burgerville.com/menu/)  
 - [Hapa Pizza](https://www.hapapizza.com/)
 - [JCD BBQ](https://www.jcdbbq.com/)
 - [KOREANA RESTAURANT](https://www.yelp.com/biz/koreana-restaurant-beaverton)

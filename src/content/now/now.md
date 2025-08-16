@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-08-10T23:21:54-08:00"
+date: "2025-08-15T23:17:42-08:00"
 slug: "now"
 ---
 
@@ -14,20 +14,23 @@ Trying to get some work done, and also vibe coding myself a Mac app for time tra
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Sponsored: The phishing-resistant employee](../../assets/images/oc_artwork/4031462461813115-06314e22-32e5-4f1a-9a15-96f1cd44699f.png)](https://overcast.fm/+5Sl__2MXs)[Risky Bulletin – Sponsored: The phishing-resistant employee](https://overcast.fm/+5Sl__2MXs)
-[![Risky Bulletin: Researcher scores $250,000 for Chrome bug](../../assets/images/oc_artwork/4031461869970973-1bc36512-7be7-4e8a-b79e-484fb86fcf7c.png)](https://overcast.fm/+5Sl9yvZh0)[Risky Bulletin – Risky Bulletin: Researcher scores $250,000 for Chrome bug](https://overcast.fm/+5Sl9yvZh0)
-[![PBS Tidbit 13 — PowerShell Tames Monty](../../assets/images/oc_artwork/640363051463969-c2ea5122-a85a-437e-aad5-8b2e46a8868d.png)](https://overcast.fm/+JGaCQ1tSE)[Programming By Stealth – PBS Tidbit 13 — PowerShell Tames Monty](https://overcast.fm/+JGaCQ1tSE)
-[![Are Digital Nomads Good For a Country? - LF #181 (Japanese Listening)](../../assets/images/oc_artwork/3926254603334353-86ee974f-5526-4cba-8187-f1269df876ef.png)](https://overcast.fm/+3y6GLt8tE)[Lazy Fluency - Japanese Podcast | 英会話 – Are Digital Nomads Good For a Country? - LF #181 (Japanese Listening)](https://overcast.fm/+3y6GLt8tE)
-[![410: Hitting the Context Window Limit (naoya)](../../assets/images/oc_artwork/660824735417-5b94371d-511d-4a40-85f0-f246e45da146.png)](https://overcast.fm/+mdw5Prk)[Rebuild – 410: Hitting the Context Window Limit (naoya)](https://overcast.fm/+mdw5Prk)
-[![778: Oops! All Batman](../../assets/images/oc_artwork/39795284770435-fda5adb6-c78a-4c28-ac28-ccfb9174b6f9.png)](https://overcast.fm/+kMY_P_oM)[The Incomparable Mothership – 778: Oops! All Batman](https://overcast.fm/+kMY_P_oM)
-[![NC #1055 15 Years of Hazel, Another Brother PSA, Another MagGo Testimonial, Virtual Monitor HDMI Dongles, Adam Engst on New Mac Migration](../../assets/images/oc_artwork/5142864803195720-fbb3461f-9364-46c6-a7ed-2b6c9345a46a.png)](https://overcast.fm/+BJFaIW460g)[NosillaCast Apple Podcast – NC #1055 15 Years of Hazel, Another Brother PSA, Another MagGo Testimonial, Virtual Monitor HDMI Dongles, Adam Engst on New Mac Migration](https://overcast.fm/+BJFaIW460g)
+[![652: You Have 24 Hours to Comply](../../assets/images/oc_artwork/5585875696070845-4d70564a-1d1c-48a9-958c-cde216d4bf51.png)](https://atp.fm/652)[Accidental Tech Podcast – 652: You Have 24 Hours to Comply](https://atp.fm/652)
+[![I Could Use A Big Giant Femur Bone](../../assets/images/oc_artwork/4312414403404148-5bbf1cfa-ace0-4998-83d7-237c5125c1ee.png)](https://overcast.fm/+9SHjijoXQ)[Friends with Brews – I Could Use A Big Giant Femur Bone](https://overcast.fm/+9SHjijoXQ)
+![EARLY ACCESS: BBV10s S12 E8 - Senna’s record-breaking sixth Monaco victory](../../assets/images/oc_artwork/5523679636457271-a43a26c5-f195-4e60-bc88-6acfd8694acf.png) Bring Back V10s (Members) – EARLY ACCESS: BBV10s S12 E8 - Senna’s record-breaking sixth Monaco victory
+[![ChatGPT chief Nick Turley doesn’t want you too attached to AI](../../assets/images/oc_artwork/1138505260349057-ed5cdb4b-9220-4d22-8823-a2d8dbdc5968.png)](https://overcast.fm/+QLdumeNoE)[Decoder with Nilay Patel – ChatGPT chief Nick Turley doesn’t want you too attached to AI](https://overcast.fm/+QLdumeNoE)
+[![Separating AI Hope from AI Hype](../../assets/images/oc_artwork/3732094163635607-46de7438-3f77-4602-98f8-4e9ad6ecf0cf.png)](https://overcast.fm/+1CUeLkTZc)[How to Fix the Internet – Separating AI Hope from AI Hype](https://overcast.fm/+1CUeLkTZc)
+[![Dragonian Law](../../assets/images/oc_artwork/1698966401025164-175c18ca-d50f-4136-990e-833c891e86db.png)](https://overcast.fm/+YJM3DRhIw)[Judge John Hodgman – Dragonian Law](https://overcast.fm/+YJM3DRhIw)
+![F1 Extra: Edd and Jon unpack their interview with Domenicali and answer more of your questions](../../assets/images/oc_artwork/5523677228018866-e6d7fafb-8ade-4007-a103-5bfa6134a834.png) The Race F1 Podcast (Members) – F1 Extra: Edd and Jon unpack their interview with Domenicali and answer more of your questions
+![Why Are DHS Agents Wearing Meta Ray-Bans?](../../assets/images/oc_artwork/5121672158539101-62b1f8be-7861-426b-868e-535d8b8de26c.png) The 404 Media Podcast (Premium Feed) – Why Are DHS Agents Wearing Meta Ray-Bans?
+[![The Media Capitulation Index](../../assets/images/oc_artwork/266500341596012-da59e67f-1f75-4dc6-982a-4f5928aa55a3.png)](https://overcast.fm/+DyYXIxf2w)[Techdirt – The Media Capitulation Index](https://overcast.fm/+DyYXIxf2w)
+[![How to save a smart home company](../../assets/images/oc_artwork/1141115083862799-d8f38e5f-4bd4-481d-adbb-bc3948ac5f9a.png)](https://overcast.fm/+QN1o84sw8)[The Vergecast – How to save a smart home company](https://overcast.fm/+QN1o84sw8)
 
 </div>
 
 ### Books
 
-[<span hidden>Sir Lewis • 2025 • Michael Sawyer Look. Lewis is an actual role model, and he's also a true legend. This book was just a little too willing to bypass nuances in a couple cases and overstate its case. It did not need to do that, because Lewis' life and work speaks for itself. • Liked It</span>
-![Sir Lewis • 2025 • Michael Sawyer Look. Lewis is an actual role model, and he's also a true legend. This book was just a little too willing to bypass nuances in a couple cases and overstate its case. It did not need to do that, because Lewis' life and work speaks for itself. • Liked It](../../assets/images/posts/PngImage498A9F6D680-review-9e725bb8-827b-4445-9e2c-5b07a9cad227.png)](/images/posts/PngImage498A9F6D680-review-9e725bb8-827b-4445-9e2c-5b07a9cad227.jpg)
+[<span hidden>Things Become Other Things • 2025 • Craig Mod Craig is a fascinating guy, not least because of the fact he's ingrained himself into the culture of Japan, a country I grew up in, but because he's an artful storyteller and photographer. In this book, he brings the reader along on one of his long walks through the Japan countryside as he ties the pieces of his past together with his present in a way that few people can. • Loved It!</span>
+![Things Become Other Things • 2025 • Craig Mod Craig is a fascinating guy, not least because of the fact he's ingrained himself into the culture of Japan, a country I grew up in, but because he's an artful storyteller and photographer. In this book, he brings the reader along on one of his long walks through the Japan countryside as he ties the pieces of his past together with his present in a way that few people can. • Loved It!](../../assets/images/posts/png-image43aeb2d0160-review-c7853685-8e59-44d3-a5c3-8972cd1ce8ca.png)](/images/posts/png-image43aeb2d0160-review-c7853685-8e59-44d3-a5c3-8972cd1ce8ca.jpg)
 
 ### Movies
 
@@ -36,15 +39,18 @@ Trying to get some work done, and also vibe coding myself a Mac app for time tra
 
 ### TV Shows
 
-[<span hidden>Murderbot S1 • 2025 • I didn't expect to love this. I didn't even want to like it after a couple episodes. But I do! I love it! It's fun and somehow heartwarming. • Loved It!</span>
-![Murderbot S1 • 2025 • I didn't expect to love this. I didn't even want to like it after a couple episodes. But I do! I love it! It's fun and somehow heartwarming. • Loved It!](../../assets/images/posts/PngImage4Cee8279170-review-8f5cff22-2481-41cf-83f2-8ba425311f71.png)](/images/posts/PngImage4Cee8279170-review-8f5cff22-2481-41cf-83f2-8ba425311f71.jpg)
-[<span hidden>Somebody Feed Phil • 2018 • 8 seasons in, this is one of the happiest and insistently must-see shows I know of. Watch it. Pay for the goddamned Netflix account JUST FOR THIS. If you don't, I have to ask - why do you hate yourself? • Loved It!</span>
-![Somebody Feed Phil • 2018 • 8 seasons in, this is one of the happiest and insistently must-see shows I know of. Watch it. Pay for the goddamned Netflix account JUST FOR THIS. If you don't, I have to ask - why do you hate yourself? • Loved It!](../../assets/images/posts/PngImage4Bbc86C7Ea0-review-99b30486-a314-4ae9-a35a-b140f463e70f.png)](/images/posts/PngImage4Bbc86C7Ea0-review-99b30486-a314-4ae9-a35a-b140f463e70f.jpg)
+[<span hidden>Dark Winds Season 1 • 2022 • Dark Winds started off incredibly well - suspenseful, well-paced, well-written, and then faded slightly as it reached the end of season 1. Readers will know I find this to be an issue with much of TV. Still, I loved it and recommend season 1! • Loved It!</span>
+![Dark Winds Season 1 • 2022 • Dark Winds started off incredibly well - suspenseful, well-paced, well-written, and then faded slightly as it reached the end of season 1. Readers will know I find this to be an issue with much of TV. Still, I loved it and recommend season 1! • Loved It!](../../assets/images/posts/png-image4e3784f0b70-review-f8dcca30-8b1e-4f3d-9932-c57667120ec4.png)](/images/posts/png-image4e3784f0b70-review-f8dcca30-8b1e-4f3d-9932-c57667120ec4.jpg)
 
 ### YouTube
 
-- [Why Every Japanese Person Will Have The Name Same- LF #177(Japanese / English Listening + Subtitles) - YouTube](https://www.youtube.com/watch?v=5G4a-_MEgS8)
-- [Using Rules in Warp (Web Dev Version) - YouTube](https://www.youtube.com/watch?v=MU_xZ5sAU9w)
-- [Setting up 5 MCP Servers in Warp (FULL Tutorial) - YouTube](https://www.youtube.com/watch?v=rrxfS9u1XRA)
-- [Is the CHEAPEST Formula 1 Race Worth It?! - YouTube](https://www.youtube.com/watch?v=idmokrBRvz8&t=1413s)
-- [The AI Bandwidth Wall & Co-Packaged Optics - YouTube](https://www.youtube.com/watch?v=G5r2OyCN5_s&t=255s)
+- [The Terrifying Final Seconds of Air India 171: Prelim Report](https://www.youtube.com/watch?v=L2Fg4tSyCFE)
+- [🚨MSNBC Drops BOMB On Trump AFTER Putin Meeting](https://www.youtube.com/watch?v=Zjxbu0uPERI)
+- [Subscription Scam: We’ve Been Tricked!](https://www.youtube.com/watch?v=7ARTSXfLIaU)
+- [Why Modern Photos Look Awful](https://www.youtube.com/watch?v=JLoVbv1pfew)
+- [Understanding the Japanese で Particle](https://www.youtube.com/watch?v=a4Ia0ha5l7Q)
+- [How to move to Japan | Visa, Job Hunting, Apartments✨](https://www.youtube.com/watch?v=DhxJeWJDf8A)
+- [All DxO Photo Editing Software Reviewed & Holiday Sale! ep.389](https://www.youtube.com/watch?v=ybwdKKfDwm8)
+- [Builder.ai - The Greatest AI Scam in History](https://www.youtube.com/watch?v=TuAsFCcvWPg)
+- [12 Times Title Dreams Ended in Formula 1](https://www.youtube.com/watch?v=efNVXzDupls)
+- [Japanese Citizenship | 7 Steps to Get a Japanese Passport in 2025](https://www.youtube.com/watch?v=68J0QAsIuio)
