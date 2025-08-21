@@ -1,34 +1,36 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-08-15T23:17:42-08:00"
+date: "2025-08-21T12:04:09-08:00"
 slug: "now"
 ---
 
 ### Current Personal Status
 
-Trying to get some work done, and also vibe coding myself a Mac app for time tracking using Claude Code with Opus 4.1. Hey, I need the app.
+Boy. I keep getting sick, and it's not helping me get things done. I also have the roots of a [Chinese Empress](https://www.bhg.com/gardening/trees-shrubs-vines/trees/empress-tree/) to dig out. It literally took over the entire underground of our backyard, and apparently some other yards too. Don't ever let your in-laws give you any Chinese Empress trees. They grow fast, are nice to look at, give great shade, but they take over the universe.
 
 ### Podcasts
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![652: You Have 24 Hours to Comply](../../assets/images/oc_artwork/5585875696070845-4d70564a-1d1c-48a9-958c-cde216d4bf51.png)](https://atp.fm/652)[Accidental Tech Podcast – 652: You Have 24 Hours to Comply](https://atp.fm/652)
-[![I Could Use A Big Giant Femur Bone](../../assets/images/oc_artwork/4312414403404148-5bbf1cfa-ace0-4998-83d7-237c5125c1ee.png)](https://overcast.fm/+9SHjijoXQ)[Friends with Brews – I Could Use A Big Giant Femur Bone](https://overcast.fm/+9SHjijoXQ)
-![EARLY ACCESS: BBV10s S12 E8 - Senna’s record-breaking sixth Monaco victory](../../assets/images/oc_artwork/5523679636457271-a43a26c5-f195-4e60-bc88-6acfd8694acf.png) Bring Back V10s (Members) – EARLY ACCESS: BBV10s S12 E8 - Senna’s record-breaking sixth Monaco victory
-[![ChatGPT chief Nick Turley doesn’t want you too attached to AI](../../assets/images/oc_artwork/1138505260349057-ed5cdb4b-9220-4d22-8823-a2d8dbdc5968.png)](https://overcast.fm/+QLdumeNoE)[Decoder with Nilay Patel – ChatGPT chief Nick Turley doesn’t want you too attached to AI](https://overcast.fm/+QLdumeNoE)
-[![Separating AI Hope from AI Hype](../../assets/images/oc_artwork/3732094163635607-46de7438-3f77-4602-98f8-4e9ad6ecf0cf.png)](https://overcast.fm/+1CUeLkTZc)[How to Fix the Internet – Separating AI Hope from AI Hype](https://overcast.fm/+1CUeLkTZc)
-[![Dragonian Law](../../assets/images/oc_artwork/1698966401025164-175c18ca-d50f-4136-990e-833c891e86db.png)](https://overcast.fm/+YJM3DRhIw)[Judge John Hodgman – Dragonian Law](https://overcast.fm/+YJM3DRhIw)
-![F1 Extra: Edd and Jon unpack their interview with Domenicali and answer more of your questions](../../assets/images/oc_artwork/5523677228018866-e6d7fafb-8ade-4007-a103-5bfa6134a834.png) The Race F1 Podcast (Members) – F1 Extra: Edd and Jon unpack their interview with Domenicali and answer more of your questions
-![Why Are DHS Agents Wearing Meta Ray-Bans?](../../assets/images/oc_artwork/5121672158539101-62b1f8be-7861-426b-868e-535d8b8de26c.png) The 404 Media Podcast (Premium Feed) – Why Are DHS Agents Wearing Meta Ray-Bans?
-[![The Media Capitulation Index](../../assets/images/oc_artwork/266500341596012-da59e67f-1f75-4dc6-982a-4f5928aa55a3.png)](https://overcast.fm/+DyYXIxf2w)[Techdirt – The Media Capitulation Index](https://overcast.fm/+DyYXIxf2w)
-[![How to save a smart home company](../../assets/images/oc_artwork/1141115083862799-d8f38e5f-4bd4-481d-adbb-bc3948ac5f9a.png)](https://overcast.fm/+QN1o84sw8)[The Vergecast – How to save a smart home company](https://overcast.fm/+QN1o84sw8)
+[![653: Warning Stories](../../assets/images/oc_artwork/5585879541940732-2f7a8ade-3c46-41f1-ac58-93a36a653a7d.png)](https://atp.fm/653)[Accidental Tech Podcast 653: Warning Stories](https://atp.fm/653)
+[![Risky Bulletin: Child sextortion cases linked to scam compounds](../../assets/images/oc_artwork/4031462386835306-f2cb393e-8118-43f6-9fc9-ffbbd651fa3f.png)](https://overcast.fm/+5Sl_t-H2o)[Risky Bulletin – Risky Bulletin: Child sextortion cases linked to scam compounds](https://overcast.fm/+5Sl_t-H2o)
+[![The Rule of Make it Two](../../assets/images/oc_artwork/1698966406640921-2d53eaaa-c1a9-48d3-8626-45d23a9156ea.png)](https://overcast.fm/+YJM3EnNRk)[Judge John Hodgman – The Rule of Make it Two](https://overcast.fm/+YJM3EnNRk)
+[![Risky Business #803 — Oracle’s CSO Mary Ann Davidson quietly departs](../../assets/images/oc_artwork/613330650710258-84b4e16b-668d-45f3-bb21-b0c5ada50d28.png)](https://overcast.fm/+It0iuQwPI)[Risky Business – Risky Business #803 — Oracle’s CSO Mary Ann Davidson quietly departs](https://overcast.fm/+It0iuQwPI)
+![🔍 Driving Style Secrets S2 E1: Michael Schumacher](../../assets/images/oc_artwork/5523677431165347-08ce5e87-4562-4528-8133-7dfc5074bc39.png) The Race F1 Podcast (Members) – Driving Style Secrets S2 E1: Michael Schumacher
+[![Will the Pope Be An Ally Against AI? w/ Paolo Benanti](../../assets/images/oc_artwork/1804574107726310-1fa165a0-18ee-4de4-85ba-f10f4de50cb1.png)](https://overcast.fm/+ZpQCapceY)[Tech Won't Save Us – Will the Pope Be An Ally Against AI? w/ Paolo Benanti](https://overcast.fm/+ZpQCapceY)
+[![112: Spending Time With vs Single Review](../../assets/images/oc_artwork/5287027053642560-8eb8b4d5-83bf-401f-a099-00e182fd8a29.png)](https://overcast.fm/+BLIhelzQ0A)[Whisky Whiskey – 112: Spending Time With vs Single Review](https://overcast.fm/+BLIhelzQ0A)
+[![Risky Biz Soap Box: How to measure vulnerability reachability](../../assets/images/oc_artwork/613330031760831-16c904dd-4e05-4698-a7d1-846da9196b6f.png)](https://overcast.fm/+It0gasVb8)[Risky Business – Risky Biz Soap Box: How to measure vulnerability reachability](https://overcast.fm/+It0gasVb8)
+![The Inside Story of Tea](../../assets/images/oc_artwork/5121671402167941-44c73b78-9b88-4015-9be3-a5313dacecf0.png) The 404 Media Podcast (Premium Feed) – The Inside Story of Tea
+[![Why Data Portability Is Crucial For The AI Future](../../assets/images/oc_artwork/266500257551656-61631762-390f-4203-b5da-9481b47c581b.png)](https://overcast.fm/+DyYW0vFSg)[Techdirt – Why Data Portability Is Crucial For The AI Future](https://overcast.fm/+DyYW0vFSg)
 
 </div>
 
 ### Books
 
+[<span hidden>Empire of AI • 2025 • Karen Hao • An important look at the narratives society is being sold about AI and the people selling those narratives. • Loved It!</span>
+![Empire of AI • 2025 • Karen Hao • An important look at the narratives society is being sold about AI and the people selling those narratives. • Loved It!](../../assets/images/posts/png-image4537a0c7710-review-48d5430a-a2f5-4bb7-9a50-e43faa10c2ec.png)](/images/posts/png-image4537a0c7710-review-48d5430a-a2f5-4bb7-9a50-e43faa10c2ec.jpg)
 [<span hidden>Things Become Other Things • 2025 • Craig Mod Craig is a fascinating guy, not least because of the fact he's ingrained himself into the culture of Japan, a country I grew up in, but because he's an artful storyteller and photographer. In this book, he brings the reader along on one of his long walks through the Japan countryside as he ties the pieces of his past together with his present in a way that few people can. • Loved It!</span>
 ![Things Become Other Things • 2025 • Craig Mod Craig is a fascinating guy, not least because of the fact he's ingrained himself into the culture of Japan, a country I grew up in, but because he's an artful storyteller and photographer. In this book, he brings the reader along on one of his long walks through the Japan countryside as he ties the pieces of his past together with his present in a way that few people can. • Loved It!](../../assets/images/posts/png-image43aeb2d0160-review-c7853685-8e59-44d3-a5c3-8972cd1ce8ca.png)](/images/posts/png-image43aeb2d0160-review-c7853685-8e59-44d3-a5c3-8972cd1ce8ca.jpg)
 
@@ -44,13 +46,13 @@ Trying to get some work done, and also vibe coding myself a Mac app for time tra
 
 ### YouTube
 
-- [The Terrifying Final Seconds of Air India 171: Prelim Report](https://www.youtube.com/watch?v=L2Fg4tSyCFE)
-- [🚨MSNBC Drops BOMB On Trump AFTER Putin Meeting](https://www.youtube.com/watch?v=Zjxbu0uPERI)
-- [Subscription Scam: We’ve Been Tricked!](https://www.youtube.com/watch?v=7ARTSXfLIaU)
-- [Why Modern Photos Look Awful](https://www.youtube.com/watch?v=JLoVbv1pfew)
-- [Understanding the Japanese で Particle](https://www.youtube.com/watch?v=a4Ia0ha5l7Q)
-- [How to move to Japan | Visa, Job Hunting, Apartments✨](https://www.youtube.com/watch?v=DhxJeWJDf8A)
-- [All DxO Photo Editing Software Reviewed & Holiday Sale! ep.389](https://www.youtube.com/watch?v=ybwdKKfDwm8)
-- [Builder.ai - The Greatest AI Scam in History](https://www.youtube.com/watch?v=TuAsFCcvWPg)
-- [12 Times Title Dreams Ended in Formula 1](https://www.youtube.com/watch?v=efNVXzDupls)
-- [Japanese Citizenship | 7 Steps to Get a Japanese Passport in 2025](https://www.youtube.com/watch?v=68J0QAsIuio)
+- [Why This Sherpa Let His Climber Die](https://www.youtube.com/watch?v=5QEi_Cr7GIs)
+- [UH-OH: Do Trump’s “trade deals” NOT EXIST?](https://www.youtube.com/watch?v=kvjitFBXaLo)
+- [He Was Loved. Then Hated. Then Dead.](https://www.youtube.com/watch?v=LGbHQ_Wfu8o)
+- [They fixed Astro DB types!](https://www.youtube.com/watch?v=dzRr7Req4ZA)
+- [🤔 Will Lewis Hamilton retire from F1 in 2026?](https://www.youtube.com/watch?v=y_5n9IN4SSo)
+- [Spot The Mistake 🔍 | Grill The Grid 2025 | Episode 3](https://www.youtube.com/watch?v=ecPoPCvKDOA)
+- [I spent $200 on an "AI web browser"](https://www.youtube.com/watch?v=Xw21dwlKdSM)
+- [Trump Admits He's Taking Orders From Putin](https://www.youtube.com/watch?v=r5Do6LUvna8)
+- [Trump’s confusion on full display #shorts](https://www.youtube.com/watch?v=w4tBdhWWrXs)
+- [The 7 year wait is over...](https://www.youtube.com/watch?v=KFVLmkhAgv4)

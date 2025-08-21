@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-08-15T23:17:42-08:00"
+date: "2025-08-21T12:04:09-08:00"
 slug: "links"
 ---
 
@@ -131,6 +131,7 @@ slug: "links"
 - [Building Astro sites with AI tools | Docs](https://docs.astro.build/en/guides/build-with-ai/)
 - [Creating breadcrumbs in Astro. Expected results If for example, you… | by gideon maina | Medium](https://medium.com/@gmainapro/creating-breadcrumbs-in-astro-4c7280d599fa)
 - [Getting Started | Docs](https://docs.astro.build/en/getting-started/)
+- [StudioCMS – The Astro-native CMS for all your needs.](https://studiocms.dev/)
 - [Using Animate On Scroll (AOS) in Astro: A Step-by-Step Guide](https://www.launchfa.st/blog/aos-astro)
 - [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev/)
 
@@ -549,6 +550,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [samwho](https://samwho.dev/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
 - [sircmpwn/openring - A webring for static site generators](https://git.sr.ht/~sircmpwn/openring)
+- [Small Seasons](https://smallseasons.guide/)
 - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
@@ -582,6 +584,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Nebula Sans](https://nebulasans.com/)
 - [SimpleBits®](https://simplebits.shop/)
 - [The Best Font Loading Strategies and How to Execute Them | CSS-Tricks](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/#loading-fonts-with-self-hosted-fonts)
+- [The Red Onion Font](https://kottke.org/25/08/the-red-onion-font)
 - [zachleat/glyphhanger: Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.](https://github.com/zachleat/glyphhanger)
 
 ## FOOD
@@ -629,8 +632,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Japan & Japanese Language
 
+- [Bunpro](https://bunpro.jp/)
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
-- [JapanesePod101 – Learn Japanese](https://www.japanesepod101.com/dashboard)
+- [Japanese Study Apps That DON'T Use AI - Japanese Talk](https://jtalkonline.com/japanese-study-apps-that-dont-use-ai/)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
 - [Jisho.org: Japanese Dictionary](https://jisho.org/)
 - [Jozen - YouTube](https://www.youtube.com/@jozendesu)
@@ -639,6 +643,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [News On Japan](https://newsonjapan.com/)
 - [NihongoDekita with Sayaka - YouTube](https://www.youtube.com/@NihongoDekita)
 - [Nippon.com | Your Doorway to Japan](https://www.nippon.com/en/)
+- [renshuu.org](https://www.renshuu.org/)
 - [Savvy Tokyo - The Essential Guide for International Women and Families in Tokyo](https://savvytokyo.com/)
 - [Sayuri Saying](https://sayurisaying.com/)
 - [Spoon & Tamago | japanese art, design and culture](https://www.spoon-tamago.com/)
@@ -704,6 +709,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
 - [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
 - [Quip – AI Clipboard Manager and Text Expander for macOS & iOS – BZG](https://www.bzgapps.com/quip)
+- [Rectangle Pro](https://rectangleapp.com/pro)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Retrobatch 2, from Flying Meat](https://flyingmeat.com/retrobatch/)
 - [Rogue Amoeba | Audio Hijack: Record Any Audio on MacOS](https://rogueamoeba.com/audiohijack/)

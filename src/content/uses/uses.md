@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-08-05T08:56:46-08:00"
+date: "2025-08-21T12:04:09-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -23,7 +23,6 @@ slug: "uses"
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Batteries for Mac | Track all your devices' batteries from your Mac. Get notified when they need recharging.](https://www.fadel.io/batteries)
-- [BetterSnapTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/bettersnaptool)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
@@ -33,8 +32,8 @@ slug: "uses"
 - [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
+- [Rectangle Pro](https://rectangleapp.com/pro)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
-- [SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [Warp: Your terminal, reimagined](https://www.warp.dev/)
