@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-08-21T12:04:09-08:00"
+date: "2025-09-02T16:14:28-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -17,6 +17,15 @@ slug: "uses"
 - [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
 
 ## Software
+
+### AI - Programming, research, dictation, transcribing
+
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/new)
+- [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
+- [HyperContext](https://hypercontext.eu/)
+- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- [OpenAI Codex](https://openai.com/codex/)
 
 ### Automation and Utilities
 

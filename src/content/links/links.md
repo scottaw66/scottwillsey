@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-08-21T12:04:09-08:00"
+date: "2025-09-02T16:14:28-08:00"
 slug: "links"
 ---
 
@@ -10,13 +10,16 @@ slug: "links"
 ## AI
 
 - [Claude can now connect to your world \ Anthropic](https://www.anthropic.com/news/integrations)
+- [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 - [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
+- [HyperContext](https://hypercontext.eu/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [Model Context Protocol | Warp documentation](https://docs.warp.dev/knowledge-and-collaboration/mcp)
+- [OpenAI Codex](https://openai.com/codex/)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes/)
@@ -544,6 +547,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [Rainglow, a demo of Eleventy Serverless](https://rainglow.zachleat.dev/3b5f3b/)
 - [Resistbot](https://resist.bot/)
+- [Retraction Watch – Tracking retractions as a window into the scientific process](https://retractionwatch.com/)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
 - [SakuraPass](https://www.sakurapass.com/en/)
