@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-09-02T16:14:28-08:00"
+date: "2025-09-12T00:49:33-08:00"
 slug: "links"
 ---
 
@@ -47,6 +47,7 @@ slug: "links"
 - [A candy engineer explains the science behind the Snickers bar - Ars Technica](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/#gsc.tab=0)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
+- [Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns - Ars Technica](https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/)
 - [Anthropic's Claude Is Good at Poetry—and Bullshitting | WIRED](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Hypercritical: Apple Turnover](https://hypercritical.co/2025/05/09/apple-turnover)
@@ -83,6 +84,7 @@ slug: "links"
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
+- [Know Your Rights in Encounters with Law Enforcement and Military Troops | American Civil Liberties Union](https://www.aclu.org/news/national-security/know-your-rights-in-encounters-with-law-enforcement-and-military-troops)
 - [Lumon Industries WoeMeter | make3](https://make3.co/work/woemeter)
 - [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
@@ -92,6 +94,7 @@ slug: "links"
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
+- [Ron Deibert Warns Cybersecurity Industry About U.S. Authoritarian Descent - The Citizen Lab](https://citizenlab.ca/2025/08/ron-deibert-warns-cybersecurity-industry-about-u-s-authoritarian-descent-techcrunch/)
 - [Sierra made the games of my childhood. Are they still fun to play? - Ars Technica](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/)
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
@@ -127,6 +130,7 @@ slug: "links"
 - [What we talk about when we talk about computers - net.wars](https://netwars.pelicancrossing.net/2025/02/07/what-we-talk-about-when-we-talk-about-computers/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 - [Wi-Fi is one of the great backward compatibility success stories | The Verge](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
+- [You no longer need JavaScript Ʊ lyra's epic blog](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## Astro
 
@@ -575,6 +579,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [/uses](https://uses.tech)
 - [Video Game History Foundation Library | Video Game History Foundation Library](https://library.gamehistory.org/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
+- [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes)
 - [White Noise](https://whitenoise.tiff.ws/)
 - [WikiTok](https://wikitok.vercel.app/)
 - [Wreckage/Salvage](https://www.wrecka.ge)
@@ -859,6 +864,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Modern iOS Navigation Patterns · Frank Rausch](https://frankrausch.com/ios-navigation)
 - [Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [On popover accessibility: what the browser does and doesn’t do | hidde.blog](https://hidde.blog/popover-accessibility/)
+- [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
 - [PNG is back\!](https://www.programmax.net/articles/png-is-back/)
 - [Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration](https://pmrf-ml.github.io/)
 - [Responsively App - A web developer's browser](https://responsively.app/)
@@ -880,6 +886,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 - [Windsurf Editor and Codeium extensions](https://codeium.com/)
 - [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
+- [You no longer need JavaScript Ʊ lyra's epic blog](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## RSS & Reading Tools
 
