@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-09-12T00:49:33-08:00"
+date: "2025-09-13T13:08:18-08:00"
 slug: "links"
 ---
 
@@ -463,6 +463,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Space Cadet – Atomic Coffee Roasters](https://atomicroastery.com/products/space-cadet)
 - [Sterling Coffee Roasters](https://www.sterling.coffee/)
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
+- [tostado coffee roasters | arandas](https://www.tostadocoffeeroasters.com/arandas)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
 - [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Wandering Goat Coffee Co.](https://wanderinggoat.com/)
@@ -505,6 +506,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Calculating Empires](https://calculatingempires.net/)
+- [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai/caaac)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
