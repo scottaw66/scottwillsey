@@ -1,6 +1,6 @@
 ---
 title: Spotomation, Part 2 – Replacing AI
-description: describe
+description: "macOS 26 brings with it a more powerful Spotlight, and with it, a challenge – can it replace Raycast, specifically Raycast AI?"
 date: "2025-09-18T00:10:00-08:00"
 keywords: ["mac","raycast","spotlight"]
 cover: "../../assets/images/covers/Spotlight.png"
