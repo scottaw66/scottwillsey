@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-09-13T13:08:18-08:00"
+date: "2025-09-23T14:26:42-08:00"
 slug: "links"
 ---
 
@@ -497,6 +497,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [&udm=14 | the disenshittification Konami code](https://udm14.com/)
 - [1800WWW.COM — Play'in on the web...first and last in a series](https://1800www.com/)
 - [1Crossword: crosswords for your password manager · eieio.games](https://eieio.games/blog/1Crossword/)
+- [88x31 Web Button Maker](https://hekate2.github.io/buttonmaker/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Are you a bot?](https://www.invisiclues.org/)

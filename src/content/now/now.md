@@ -1,13 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-09-14T20:03:58-08:00"
+date: "2025-09-23T14:26:42-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 
-Currently looking for work contracting for customer support, documentation and procedure writing, and support triage. Also looking to find additional SMB clients for Paradigm Consulting Company for IT and security services.
+My daughter started college so that should tell you how old I feel. Fortunately she's still living here. She could live with us forever and I'd be fine with it, personally.
+
+And I'm back to digging up the roots of our cursed, ever-living Empress tree. Never, ever, EVER put one of these in your yard.
 
 ## Stuff I've recently enjoyed
 
@@ -16,16 +18,16 @@ Currently looking for work contracting for customer support, documentation and p
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![I Was Dreaming When I Wrote This, So Sue Me if I Judge Too Fast LIVE in Portland, ME!](../../assets/images/oc_artwork/1698966238416116-eb015877-ee57-4f8f-a102-94bddc78551d.png)](https://overcast.fm/+YJM2cgTPQ)[Judge John Hodgman – I Was Dreaming When I Wrote This, So Sue Me if I Judge Too Fast LIVE in Portland, ME!](https://overcast.fm/+YJM2cgTPQ)
-[![656: A Long T-Shirt](../../assets/images/oc_artwork/5585876335300590-27683620-da04-4547-aae3-c6a45b7e231b.png)](https://atp.fm/656)[Accidental Tech Podcast – 656: A Long T-Shirt](https://atp.fm/656)
-[![One Topic Yubikey](../../assets/images/oc_artwork/4312413963343999-4b1a78ac-8939-4a5e-8ff5-f75dc2874c20.png)](https://overcast.fm/+9SHh5o2H8)[Friends with Brews – One Topic Yubikey](https://overcast.fm/+9SHh5o2H8)
-[![Apple Keynote Reactions: Always On for Everyone!](../../assets/images/oc_artwork/4102724343590409-98b93298-6d78-4ee4-8917-2fab8b121196.png)](https://overcast.fm/+6TZ_Mcbgk)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Apple Keynote Reactions: Always On for Everyone!](https://overcast.fm/+6TZ_Mcbgk)
-[![The orange iPhone stole the show](../../assets/images/oc_artwork/1141115552973724-5cbeeceb-ebed-41bc-abed-a178f449113e.png)](https://overcast.fm/+QN1qsuw5w)[The Vergecast – The orange iPhone stole the show](https://overcast.fm/+QN1qsuw5w)
-![Are F1’s latest racing rules already failing? (ad-free)](../../assets/images/oc_artwork/5523677314599552-1b68d1b2-4e95-478d-8ba7-defed546186c.png) The Race F1 Podcast (Members) – Are F1’s latest racing rules already failing? (ad-free)
-[![9/9/25: Trump’s Epstein drawing released as Dem Governor shuts him down](../../assets/images/oc_artwork/4295512448105237-c5c6ed52-133f-48ba-8741-738a2d3c9dad.png)](https://overcast.fm/+9Cvu2Y-xU)[The David Pakman Show – 9/9/25: Trump’s Epstein drawing released as Dem Governor shuts him down](https://overcast.fm/+9Cvu2Y-xU)
-![AI Slop Is Drowning Out Human YouTubers](../../assets/images/oc_artwork/5121672050831230-ad4f186d-ee17-4bfe-920c-d7cfe76b5a38.png) The 404 Media Podcast (Premium Feed) – AI Slop Is Drowning Out Human YouTubers
-[![Copyright And The First Amendment Collide At The Supreme Court](../../assets/images/oc_artwork/266500165921213-35ab2ab7-0261-4482-9815-79be87fa9c80.png)](https://overcast.fm/+DyYWe46b0)[Techdirt – Copyright And The First Amendment Collide At The Supreme Court](https://overcast.fm/+DyYWe46b0)
-![Edd answers your questions about his Italian GP F1 driver rankings](../../assets/images/oc_artwork/5523677905915241-e6da5208-e2dd-4deb-be78-c0a6a81fc439.png) The Race F1 Podcast (Members) – Edd answers your questions about his Italian GP F1 driver rankings
+[![BIG INTV: Signal’s Meredith Whittaker Says AI Is Just A Branding Term](../../assets/images/oc_artwork/4904747433610193-b9bd88bc-45b5-4439-8bf5-25f222c9cf2c.png)](https://overcast.fm/+BFs14B-S9E)[Uncanny Valley | WIRED – BIG INTV: Signal’s Meredith Whittaker Says AI Is Just A Branding Term](https://overcast.fm/+BFs14B-S9E)
+[![Risky Business #806 — Apple’s Memory Integrity Enforcement is a big deal](../../assets/images/oc_artwork/613330672198349-e661cb21-7058-4639-84c8-f5d2e6d9846b.png)](https://overcast.fm/+It0izYos0)[Risky Business – Risky Business #806 — Apple’s Memory Integrity Enforcement is a big deal](https://overcast.fm/+It0izYos0)
+[![414: The Rain in Spain Stays Mainly in the Plain (hak)](../../assets/images/oc_artwork/661275117299-c17edf34-d9c7-44f5-b9da-29c0c35953fb.png)](https://overcast.fm/+mfcRhvM)[Rebuild – 414: The Rain in Spain Stays Mainly in the Plain (hak)](https://overcast.fm/+mfcRhvM)
+[![Between Two Nerds: How the US can win the cyber war](../../assets/images/oc_artwork/4031462156281228-681017b4-313a-4fc5-98ec-450b3139088b.png)](https://overcast.fm/+5Sl-3AJYw)[Risky Bulletin – Between Two Nerds: How the US can win the cyber war](https://overcast.fm/+5Sl-3AJYw)
+[![The Roots of Political Violence and How We Prevent It](../../assets/images/oc_artwork/4043671424624952-b026b1a2-1b3b-4924-a583-01dae6d6622b.png)](https://overcast.fm/+5dsp7aaTg)[Pod Save America – The Roots of Political Violence and How We Prevent It](https://overcast.fm/+5dsp7aaTg)
+[![9/22/25: Charlie Kirk funeral goes fascist as Trump threatens everyone](../../assets/images/oc_artwork/4295512409762710-f8583c5e-2462-48c8-bf2d-e5443f4c01fd.png)](https://overcast.fm/+9CvutP65Y)[The David Pakman Show – 9/22/25: Charlie Kirk funeral goes fascist as Trump threatens everyone](https://overcast.fm/+9CvutP65Y)
+[![CarPlay Widgets, eSIM Swaps, Photo Preservation & AI Assisted Living](../../assets/images/oc_artwork/4102724324858085-33866c05-e935-4518-b2cc-7c5f48aa4a7b.png)](https://overcast.fm/+6TZ_H-mOU)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – CarPlay Widgets, eSIM Swaps, Photo Preservation & AI Assisted Living](https://overcast.fm/+6TZ_H-mOU)
+[![Dropout CEO Sam Reich on business, comedy, and keeping culture weird](../../assets/images/oc_artwork/1138505197594916-c0e11f87-8a23-429a-8bf4-b35a42f8496f.png)](https://overcast.fm/+QLduXgqSQ)[Decoder with Nilay Patel – Dropout CEO Sam Reich on business, comedy, and keeping culture weird](https://overcast.fm/+QLduXgqSQ)
+[![Risky Bulletin: Cyberattack disrupts airports across Europe](../../assets/images/oc_artwork/4031461406290991-dd15410b-f696-4988-9408-275e8842ce04.png)](https://overcast.fm/+5Sl8EMNC8)[Risky Bulletin – Risky Bulletin: Cyberattack disrupts airports across Europe](https://overcast.fm/+5Sl8EMNC8)
+![Azerbaijan GP review (ad-free)](../../assets/images/oc_artwork/5523677563269350-5f0c997c-da87-4e8f-a282-a0f96a5dae76.png) The Race F1 Podcast (Members) – Azerbaijan GP review (ad-free)
 
 </div>
 
@@ -43,18 +45,17 @@ Currently looking for work contracting for customer support, documentation and p
 
 ### TV Shows
 
-[<span hidden>Dark Winds Season 2 • 2022 • At the beginning of S2, I thought it was going to be a letdown. In fact, I enjoyed it quite a bit. The actors all live their characters very well, and I hope S3 comes to Netflix soon. • Loved It!</span>
-![Dark Winds Season 2 • 2022 • At the beginning of S2, I thought it was going to be a letdown. In fact, I enjoyed it quite a bit. The actors all live their characters very well, and I hope S3 comes to Netflix soon. • Loved It!](../../assets/images/posts/png-image4ff089b42d0-review-e076f104-60f1-4410-b06a-94351f18eae0.png)](/images/posts/png-image4ff089b42d0-review-e076f104-60f1-4410-b06a-94351f18eae0.jpg)
+[<span hidden>Black Rabbit • 2025 • It's hard to like the two main characters in this show, but they do become sympathetic characters over time. There's plenty of tension, action, and family dynamics to go around. Some people are bad for themselves and everyone around them. • Liked It</span>
+![Black Rabbit • 2025 • It's hard to like the two main characters in this show, but they do become sympathetic characters over time. There's plenty of tension, action, and family dynamics to go around. Some people are bad for themselves and everyone around them. • Liked It](../../assets/images/posts/png-image4871b18c150-review-6fbb83bc-9e41-4708-978d-2389029b8df7.png)](/images/posts/png-image4871b18c150-review-6fbb83bc-9e41-4708-978d-2389029b8df7.jpg)
 
 ### YouTube
 
-- [The Problem of AI That Seems Alive](https://www.youtube.com/watch?v=BPm_FaaOuMQ&t=330s&pp=0gcJCckJAYcqIYzv) — [The AI Daily Brief: Artificial Intelligence News](https://www.youtube.com/@AIDailyBrief)
-- [The Real Pilot Mistake That Got Nicole Killed!](https://www.youtube.com/watch?v=iVgOpLMna2o) — [Pilot Debrief](https://www.youtube.com/@pilot-debrief)
-- [Trump TRIES TO STOP Epstein Survivors EXPOSING HIM](https://www.youtube.com/watch?v=TQpnSNywkKE&t=8s) — [Adam Mockler](https://www.youtube.com/@adammockler)
-- [Baby Elephant Tula-Tu Plays With A Big Ball](https://www.youtube.com/watch?v=76hsq2seTeM) — [Oregon Zoo](https://www.youtube.com/@oregonzoo)
-- [The Dark Side of Formula One - 18 Stories They Don't Want You to Know](https://www.youtube.com/watch?v=iu5dcJXk1NE) — [The F1 Explained](https://www.youtube.com/@thef1explained)
-- [GPT-5 Finally Beats Gemini 2.5 Pro 🤯 (Google AI, ChatGPT, NotebookLM News)](https://www.youtube.com/watch?v=g-ifKOXpZRE&t=106s) — [Your AI Workflow](https://www.youtube.com/@youraiworkflow)
-- [How To Install Google Gemini on Mac](https://www.youtube.com/watch?v=DFHQ5EAHekQ) — [Aldo James](https://www.youtube.com/@AldoJames)
-- [AirPods Pro 3: Huge Upgrade in Sound & Experience](https://www.youtube.com/watch?v=GLuktcf-_kI&t=1s) — [Dallas Taylor](https://www.youtube.com/@dallastaylor.mp3)
-- [It's not just you (Claude did get dumber)](https://www.youtube.com/watch?v=Px2ksfuAowo&t=2610s) — [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
-- [Trump FBI Admits They Lost Charlie Kirk Shooter](https://www.youtube.com/watch?v=_eSQs58eSOs) — [Adam Mockler](https://www.youtube.com/@adammockler)
+- [Watch Fox Host DIE INSIDE After Kimmel DEFEATS TRUMP!](https://www.youtube.com/watch?v=y8_Jl9Ca5QM) — [Jack Cocchiarella](https://www.youtube.com/@JackCocchiarellaShow)
+- [MAGA Mike PANICS and CANCELS ALL VOTES in House](https://www.youtube.com/watch?v=7NM2vDpdp_w&t=1108s) — [MeidasTouch](https://www.youtube.com/@MeidasTouch)
+- [Jake Takes Alonzo’s Stolen Money and Leaves Him to His Fate [CLIP] | Training Day (2001) | TNT](https://www.youtube.com/watch?v=3zw2NyCpdBs) — [TNT](https://www.youtube.com/@TNT)
+- [Kemp PANICS Hyundai has left forever](https://www.youtube.com/watch?v=h_gEFFFh-sY) — [Chris Norlund](https://www.youtube.com/@realchris)
+- [Training Day - How Denzel Washington Improvised as Alonzo Harris](https://www.youtube.com/watch?v=tejPYrhtuSk&pp=0gcJCesJAYcqIYzv) — [Just an Observation](https://www.youtube.com/@JustanObservation)
+- [Better Call Saul - Why Tony Dalton Is So Captivating As Lalo Salamanca](https://www.youtube.com/watch?v=ddXnhoQ1I-4&t=9s) — [Just an Observation](https://www.youtube.com/@JustanObservation)
+- [The Most Horrifying Pilot Mistake I've Ever Talked About!](https://www.youtube.com/watch?v=r4GEaJeSNJQ&t=237s) — [Pilot Debrief](https://www.youtube.com/@pilot-debrief)
+- [Crashing after 22 seconds?? Delta 1141](https://www.youtube.com/watch?v=sBm_s2f6V9s) — [Green Dot Aviation](https://www.youtube.com/@GreenDotAviation)
+- [The ENTIRE Story Of Better Call Saul in 18 Minutes](https://www.youtube.com/watch?v=R1b8iD3o-q4) — [Seriesly](https://www.youtube.com/@SerieslyYT)
