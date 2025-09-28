@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-09-02T16:14:28-08:00"
+date: "2025-09-27T20:33:13-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -15,6 +15,7 @@ slug: "uses"
 - [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
 - [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A)
 - [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
+- [Insta360 Link 2 - AI 4K webcam, pro audio.](https://www.insta360.com/product/insta360-link2)  
 
 ## Software
 
@@ -42,6 +43,7 @@ slug: "uses"
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
 - [Rectangle Pro](https://rectangleapp.com/pro)
+- [Shortcutie — Sindre Sorhus](https://sindresorhus.com/shortcutie)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
@@ -78,12 +80,12 @@ slug: "uses"
 
 - Apple Reminders
 - [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
-- [Dato — Sindre Sorhus](https://sindresorhus.com/dato)
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
 - [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
 - [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
 - [Timery for Toggl: Toggl API Token](https://www.timeryapp.com/token.html)
+- [Zones: Time Zone Conversion](https://squircleapps.com/zones/)
 
 ### Podcasting/Recording
 
@@ -91,15 +93,16 @@ slug: "uses"
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
 - [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
 - [Forecast: Podcast MP3 Chapter Encoder — Overcast](https://overcast.fm/forecast)
-- [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/)
 - [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Riverside: HD Podcast & Video Software | Free Recording & Editing](https://riverside.com/)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
+- [Voice Cleaner](https://alexdenk.eu/mywork/voicecleaner.html)
 
 ### Programming, Log Analysis, Text Filtering
 
+- [BackLog - Eternal Storms Software](https://eternalstorms.at/backlog/)
 - [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
 - [Kaleidoscope | Git Diff and Merge Tool and Text Comparison](https://kaleidoscope.app/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
@@ -121,7 +124,7 @@ slug: "uses"
 
 ### Writing
 
-- [Bear - Notes for iPhone, iPad and Mac](https://bear.app/)
+- [Obsidian - Sharpen your thinking](https://obsidian.md/)
 
 ## Photography
 

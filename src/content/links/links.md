@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-09-23T14:26:42-08:00"
+date: "2025-09-27T20:33:13-08:00"
 slug: "links"
 ---
 
@@ -561,6 +561,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [samwho](https://samwho.dev/)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
 - [sircmpwn/openring - A webring for static site generators](https://git.sr.ht/~sircmpwn/openring)
+- [SLRPNK](https://slrpnk.net)
 - [Small Seasons](https://smallseasons.guide/)
 - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
@@ -751,14 +752,17 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [AI Snake Oil](https://www.aisnakeoil.com/subscribe)
 - [Brilliantcrank](https://www.brilliantcrank.com/)
 - [Citation Needed by Molly White](https://www.citationneeded.news/)
+- [David Pakman](https://davidpakman.com/)
 - [Garbage Day the email newsletter](https://www.garbageday.email/)
 - [Once Upon A Time — Stories — Matt Gemmell](https://mattgemmell.scot/books/once-upon-a-time/stories/)
 - [Organizing My Thoughts](https://organizingmythoughts.org/)
 - [Plura-list by Cory Doctorow – Info Page](https://mail.flarn.com/mailman/listinfo/plura-list/)
 - [Roden Mailing List Signup – Craig Mod](https://craigmod.com/explorers/)
+- [Straight Arrow News - SAN - Unbiased. Straight Facts.](https://san.com/)
 - [SwiftLee Weekly (read by 17k+ Swift & SwiftUI Developers)](https://www.avanderlee.com/swiftlee-weekly-subscribe/)
 - [SwiftUI Weekly](https://weekly.swiftwithmajid.com/subscribe)
 - [The Hiro Report](https://subscribe.hiro.report/)
+- [The Race - The Race](https://www.the-race.com/)
 - [this week in security](https://this.weekinsecurity.com/)
 - [Today in Librarian Tabs by Jessamyn West](https://tinyletter.com/jessamyn)
 
@@ -790,6 +794,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Critical Assets Podcast — AMPYX CYBER](https://ampyxcyber.com/podcast)
 - [Ctrl-Alt-Speech: A Podcast About The Latest In Online Speech](https://ctrlaltspeech.com/)
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com/)
+- [David Pakman](https://davidpakman.com/)
 - [Decoder | The Verge](https://www.theverge.com/decoder-podcast-with-nilay-patel)
 - [Friends with Brews](https://friendswithbrews.com)
 - [Hacking Humans Podcast](https://thecyberwire.com/podcasts/hacking-humans)
