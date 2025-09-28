@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-09-28T11:47:57-08:00"
+date: "2025-09-28T11:55:03-08:00"
 slug: "now"
 ---
 
@@ -28,7 +28,7 @@ It doesn't mean you have to be besties with people that ultimately can be hard t
 [![Trump Has James Comey Indicted](../../assets/images/oc_artwork/4043671844992132-fa7a0434-acf7-472b-93a0-95582bc44a6b.png)](https://overcast.fm/+5dsrfotIQ)[Pod Save America – Trump Has James Comey Indicted](https://overcast.fm/+5dsrfotIQ)
 ![We’re Suing ICE. Here’s Why](../../assets/images/oc_artwork/5121671873083013-524b8056-cca2-4b93-8f09-e2a82441d72e.png)The 404 Media Podcast (Premium Feed) – We’re Suing ICE. Here’s Why
 [![Big Mike and the Extended Shower Lifestyle](../../assets/images/oc_artwork/1847775398301225-2fbc2ac5-a12c-460f-9409-0d1406df732a.png)](https://overcast.fm/+aQirw9jik)[MacStories Unwind – Big Mike and the Extended Shower Lifestyle](https://overcast.fm/+aQirw9jik)
-[![BBV10s Debrief: Malaysia 2015](../../assets/images/oc_artwork/5523679165462971-8510053f-cdb7-40ea-afa8-ae66bf1b72e3.png)](https://overcast.fm/+BOfwcaCubs)[Bring Back V10s (Members) – BBV10s Debrief: Malaysia 2015](https://overcast.fm/+BOfwcaCubs)
+![BBV10s Debrief: Malaysia 2015](../../assets/images/oc_artwork/5523679165462971-8510053f-cdb7-40ea-afa8-ae66bf1b72e3.png)Bring Back V10s (Members) – BBV10s Debrief: Malaysia 2015
 [![Is Silicon Valley Still the Tech Capital?](../../assets/images/oc_artwork/4904747697079172-ef68c7d3-4163-46d0-84bd-92cd12c5b70b.png)](https://overcast.fm/+BFs15Ayg4Q)[Uncanny Valley | WIRED – Is Silicon Valley Still the Tech Capital?](https://overcast.fm/+BFs15Ayg4Q)
 
 </div>
