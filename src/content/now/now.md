@@ -1,15 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-09-23T14:26:42-08:00"
+date: "2025-09-28T11:47:57-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 
-My daughter started college so that should tell you how old I feel. Fortunately she's still living here. She could live with us forever and I'd be fine with it, personally.
+So many things. So many tireds. What a time we live in.
 
-And I'm back to digging up the roots of our cursed, ever-living Empress tree. Never, ever, EVER put one of these in your yard.
+I was reminded today that we should treat all relationships uniquely. Someone may be the polar opposite of us politically, but still be someone we can talk to and try to build common ground with. I'm not saying we need to engage everyone with that motive, but at least try it with longstanding relationships where the other person has fallen prey to lies and nonsense but you can still talk with them about other things. Connections are important. Remembering that other people are humans is important. It helps to avoid things like civil wars.
+
+It doesn't mean you have to be besties with people that ultimately can be hard to be around. It just means sometimes try to find common ground on other things.
 
 ## Stuff I've recently enjoyed
 
@@ -18,16 +20,16 @@ And I'm back to digging up the roots of our cursed, ever-living Empress tree. Ne
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![BIG INTV: Signal’s Meredith Whittaker Says AI Is Just A Branding Term](../../assets/images/oc_artwork/4904747433610193-b9bd88bc-45b5-4439-8bf5-25f222c9cf2c.png)](https://overcast.fm/+BFs14B-S9E)[Uncanny Valley | WIRED – BIG INTV: Signal’s Meredith Whittaker Says AI Is Just A Branding Term](https://overcast.fm/+BFs14B-S9E)
-[![Risky Business #806 — Apple’s Memory Integrity Enforcement is a big deal](../../assets/images/oc_artwork/613330672198349-e661cb21-7058-4639-84c8-f5d2e6d9846b.png)](https://overcast.fm/+It0izYos0)[Risky Business – Risky Business #806 — Apple’s Memory Integrity Enforcement is a big deal](https://overcast.fm/+It0izYos0)
-[![414: The Rain in Spain Stays Mainly in the Plain (hak)](../../assets/images/oc_artwork/661275117299-c17edf34-d9c7-44f5-b9da-29c0c35953fb.png)](https://overcast.fm/+mfcRhvM)[Rebuild – 414: The Rain in Spain Stays Mainly in the Plain (hak)](https://overcast.fm/+mfcRhvM)
-[![Between Two Nerds: How the US can win the cyber war](../../assets/images/oc_artwork/4031462156281228-681017b4-313a-4fc5-98ec-450b3139088b.png)](https://overcast.fm/+5Sl-3AJYw)[Risky Bulletin – Between Two Nerds: How the US can win the cyber war](https://overcast.fm/+5Sl-3AJYw)
-[![The Roots of Political Violence and How We Prevent It](../../assets/images/oc_artwork/4043671424624952-b026b1a2-1b3b-4924-a583-01dae6d6622b.png)](https://overcast.fm/+5dsp7aaTg)[Pod Save America – The Roots of Political Violence and How We Prevent It](https://overcast.fm/+5dsp7aaTg)
-[![9/22/25: Charlie Kirk funeral goes fascist as Trump threatens everyone](../../assets/images/oc_artwork/4295512409762710-f8583c5e-2462-48c8-bf2d-e5443f4c01fd.png)](https://overcast.fm/+9CvutP65Y)[The David Pakman Show – 9/22/25: Charlie Kirk funeral goes fascist as Trump threatens everyone](https://overcast.fm/+9CvutP65Y)
-[![CarPlay Widgets, eSIM Swaps, Photo Preservation & AI Assisted Living](../../assets/images/oc_artwork/4102724324858085-33866c05-e935-4518-b2cc-7c5f48aa4a7b.png)](https://overcast.fm/+6TZ_H-mOU)[Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – CarPlay Widgets, eSIM Swaps, Photo Preservation & AI Assisted Living](https://overcast.fm/+6TZ_H-mOU)
-[![Dropout CEO Sam Reich on business, comedy, and keeping culture weird](../../assets/images/oc_artwork/1138505197594916-c0e11f87-8a23-429a-8bf4-b35a42f8496f.png)](https://overcast.fm/+QLduXgqSQ)[Decoder with Nilay Patel – Dropout CEO Sam Reich on business, comedy, and keeping culture weird](https://overcast.fm/+QLduXgqSQ)
-[![Risky Bulletin: Cyberattack disrupts airports across Europe](../../assets/images/oc_artwork/4031461406290991-dd15410b-f696-4988-9408-275e8842ce04.png)](https://overcast.fm/+5Sl8EMNC8)[Risky Bulletin – Risky Bulletin: Cyberattack disrupts airports across Europe](https://overcast.fm/+5Sl8EMNC8)
-![Azerbaijan GP review (ad-free)](../../assets/images/oc_artwork/5523677563269350-5f0c997c-da87-4e8f-a282-a0f96a5dae76.png) The Race F1 Podcast (Members) – Azerbaijan GP review (ad-free)
+![9/25/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694695334340-e6b1c0ed-a993-4085-8ccc-8e7526baca58.png)David Pakman Member Feed – 9/25/25: TDPS Bonus Show
+[![Risky Bulletin: EU users to get free Windows 10 extended security updates](../../assets/images/oc_artwork/4031462179073399-f4e57cba-97dd-4713-a315-cd3efb06087e.png)](https://overcast.fm/+5Sl-8b7Xc)[Risky Bulletin – Risky Bulletin: EU users to get free Windows 10 extended security updates](https://overcast.fm/+5Sl-8b7Xc)
+[![123: Divergence Otago Pinot Barrel Single Malt Whisky](../../assets/images/oc_artwork/5287026820415708-5a3a879d-a702-4b72-87ae-464d8ea687aa.png)](https://overcast.fm/+BLIhduMgNw)[Whisky Whiskey – 123: Divergence Otago Pinot Barrel Single Malt Whisky](https://overcast.fm/+BLIhduMgNw)
+![9/26/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694437745931-91018add-2a0a-45e3-81b5-00c2d4ad26de.png)David Pakman Member Feed – 9/26/25: TDPS Bonus Show
+![We answer your questions about working at The Race](../../assets/images/oc_artwork/5523677592124215-a59a3a75-a238-44c9-bed0-6e40f00d4cf4.png)The Race F1 Podcast (Members) – We answer your questions about working at The Race
+[![Trump Has James Comey Indicted](../../assets/images/oc_artwork/4043671844992132-fa7a0434-acf7-472b-93a0-95582bc44a6b.png)](https://overcast.fm/+5dsrfotIQ)[Pod Save America – Trump Has James Comey Indicted](https://overcast.fm/+5dsrfotIQ)
+![We’re Suing ICE. Here’s Why](../../assets/images/oc_artwork/5121671873083013-524b8056-cca2-4b93-8f09-e2a82441d72e.png)The 404 Media Podcast (Premium Feed) – We’re Suing ICE. Here’s Why
+[![Big Mike and the Extended Shower Lifestyle](../../assets/images/oc_artwork/1847775398301225-2fbc2ac5-a12c-460f-9409-0d1406df732a.png)](https://overcast.fm/+aQirw9jik)[MacStories Unwind – Big Mike and the Extended Shower Lifestyle](https://overcast.fm/+aQirw9jik)
+[![BBV10s Debrief: Malaysia 2015](../../assets/images/oc_artwork/5523679165462971-8510053f-cdb7-40ea-afa8-ae66bf1b72e3.png)](https://overcast.fm/+BOfwcaCubs)[Bring Back V10s (Members) – BBV10s Debrief: Malaysia 2015](https://overcast.fm/+BOfwcaCubs)
+[![Is Silicon Valley Still the Tech Capital?](../../assets/images/oc_artwork/4904747697079172-ef68c7d3-4163-46d0-84bd-92cd12c5b70b.png)](https://overcast.fm/+BFs15Ayg4Q)[Uncanny Valley | WIRED – Is Silicon Valley Still the Tech Capital?](https://overcast.fm/+BFs15Ayg4Q)
 
 </div>
 
@@ -40,8 +42,10 @@ And I'm back to digging up the roots of our cursed, ever-living Empress tree. Ne
 
 ### Movies
 
-[<span hidden>Kandahar • 2023 • Ric Roman Waugh • Not bad, not stupendous, but it was perfect for late night before sleep. Navid Negahban ("Mo") and Bahador Foladi (Farzad) were the most compellingly played characters for me. • Liked It</span>
-![Kandahar • 2023 • Ric Roman Waugh • Not bad, not stupendous, but it was perfect for late night before sleep. Navid Negahban ("Mo") and Bahador Foladi (Farzad) were the most compellingly played characters for me. • Liked It](../../assets/images/posts/png-image4fe6856a7f0-review-8522247f-65e8-442c-aa93-63a6809c8a34.png)](/images/posts/png-image4fe6856a7f0-review-8522247f-65e8-442c-aa93-63a6809c8a34.jpg)
+[<span hidden>The Equalizer 3 • 2023 • Antoine Fuqua • Sometimes you just want to watch crisp, effective killing of bad guys, and Denzel always delivers in spades. I particularly enjoyed watching Marco get stabbed with his own knife he was still holding. • Loved It!</span>
+![The Equalizer 3 • 2023 • Antoine Fuqua • Sometimes you just want to watch crisp, effective killing of bad guys, and Denzel always delivers in spades. I particularly enjoyed watching Marco get stabbed with his own knife he was still holding. • Loved It!](../../assets/images/posts/png-image4dfa8c43f10-review-d2bf8b83-4aab-4a2f-82a2-6010349e6a3d.png)](/images/posts/png-image4dfa8c43f10-review-d2bf8b83-4aab-4a2f-82a2-6010349e6a3d.jpg)
+[<span hidden>Highest 2 Lowest • 2025 • Spike Lee • Denzel Washington is always great. This movie was ultimately more uplifting than I expected, and that's ok. The world needs more of that. • Liked It</span>
+![Highest 2 Lowest • 2025 • Spike Lee • Denzel Washington is always great. This movie was ultimately more uplifting than I expected, and that's ok. The world needs more of that. • Liked It](../../assets/images/posts/png-image41bf880d270-review-15992669-eb47-4747-b1eb-5684492ff8cd.png)](/images/posts/png-image41bf880d270-review-15992669-eb47-4747-b1eb-5684492ff8cd.jpg)
 
 ### TV Shows
 
@@ -50,12 +54,9 @@ And I'm back to digging up the roots of our cursed, ever-living Empress tree. Ne
 
 ### YouTube
 
-- [Watch Fox Host DIE INSIDE After Kimmel DEFEATS TRUMP!](https://www.youtube.com/watch?v=y8_Jl9Ca5QM) — [Jack Cocchiarella](https://www.youtube.com/@JackCocchiarellaShow)
-- [MAGA Mike PANICS and CANCELS ALL VOTES in House](https://www.youtube.com/watch?v=7NM2vDpdp_w&t=1108s) — [MeidasTouch](https://www.youtube.com/@MeidasTouch)
-- [Jake Takes Alonzo’s Stolen Money and Leaves Him to His Fate [CLIP] | Training Day (2001) | TNT](https://www.youtube.com/watch?v=3zw2NyCpdBs) — [TNT](https://www.youtube.com/@TNT)
-- [Kemp PANICS Hyundai has left forever](https://www.youtube.com/watch?v=h_gEFFFh-sY) — [Chris Norlund](https://www.youtube.com/@realchris)
-- [Training Day - How Denzel Washington Improvised as Alonzo Harris](https://www.youtube.com/watch?v=tejPYrhtuSk&pp=0gcJCesJAYcqIYzv) — [Just an Observation](https://www.youtube.com/@JustanObservation)
-- [Better Call Saul - Why Tony Dalton Is So Captivating As Lalo Salamanca](https://www.youtube.com/watch?v=ddXnhoQ1I-4&t=9s) — [Just an Observation](https://www.youtube.com/@JustanObservation)
-- [The Most Horrifying Pilot Mistake I've Ever Talked About!](https://www.youtube.com/watch?v=r4GEaJeSNJQ&t=237s) — [Pilot Debrief](https://www.youtube.com/@pilot-debrief)
-- [Crashing after 22 seconds?? Delta 1141](https://www.youtube.com/watch?v=sBm_s2f6V9s) — [Green Dot Aviation](https://www.youtube.com/@GreenDotAviation)
-- [The ENTIRE Story Of Better Call Saul in 18 Minutes](https://www.youtube.com/watch?v=R1b8iD3o-q4) — [Seriesly](https://www.youtube.com/@SerieslyYT)
+- [I Defeated the MAGA Final Boss LIVE ON CNN](https://www.youtube.com/watch?v=mv7QmN_tNcg&t=504s) — [Adam Mockler](https://www.youtube.com/@adammockler)
+- [Stephen Miller SNAPS after getting MERCILESSLY BULLIED](https://www.youtube.com/watch?v=BpzQzFXzjwo) — [Adam Mockler](https://www.youtube.com/@adammockler)
+- [The real reason Claude got dumber](https://www.youtube.com/watch?v=6qIZTmaJc0Y) — [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
+- [30 Facts You Didn't Know About Interstellar](https://www.youtube.com/watch?v=Qy8KaWpbBUk) — [The Why](https://www.youtube.com/@The_Why)
+- [He never made a sound after being rescued from dog fights — not until he truly loved his owner.](https://www.youtube.com/watch?v=PqR5OTeWn1A) — [Heart of a Dog](https://www.youtube.com/@HeartofaDog-1)
+- [Robert (Denzel Washington) Gets His Vengeance [CLIP] | The Equalizer (2014) | TNT](https://www.youtube.com/watch?v=fM7X8GQD5e4&t=22s) — [TNT](https://www.youtube.com/@TNT)
