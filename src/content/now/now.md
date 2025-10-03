@@ -1,17 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-09-29T09:12:46-08:00"
+date: "2025-10-02T23:58:39-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 
-So many things. So many tireds. What a time we live in.
+Words. What do they mean? Truth is easily twisted. Liars lie. And that's how Portland is portrayed as "WAR RAVAGED", in the words of dementia man, [to send in the troops to Portland](https://www.theatlantic.com/national-security/archive/2025/10/portland-ice-protest-national-guard-trump/684439/).
 
-I was reminded today that we should treat all relationships uniquely. Someone may be the polar opposite of us politically, but still be someone we can talk to and try to build common ground with. I'm not saying we need to engage everyone with that motive, but at least try it with longstanding relationships where the other person has fallen prey to lies and nonsense but you can still talk with them about other things. Connections are important. Remembering that other people are humans is important. It helps to avoid things like civil wars.
-
-It doesn't mean you have to be besties with people that ultimately can be hard to be around. It just means sometimes try to find common ground on other things.
+Well, f#$% those guys.
 
 ## Stuff I've recently enjoyed
 
@@ -20,16 +18,16 @@ It doesn't mean you have to be besties with people that ultimately can be hard t
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Between Two Nerds: The death of the exploit](../../assets/images/oc_artwork/4031461437990181-bb3c3bfa-6a47-44d8-af88-750dff46c54f.png)](https://overcast.fm/+5Sl8Lv5SU) [Risky Bulletin – Between Two Nerds: The death of the exploit](https://overcast.fm/+5Sl8Lv5SU)
-[![David X Cohen, Co-Creator of Futurama](../../assets/images/oc_artwork/5728092896493036-88a70156-c82f-4c59-a4e3-bfe405070248.png)](https://overcast.fm/+BRZq45V_ew) [First, Last, Everything – David X Cohen, Co-Creator of Futurama](https://overcast.fm/+BRZq45V_ew)
-[![Virtual Boy’s Cardboard Comeback](../../assets/images/oc_artwork/5131276949926741-ab858028-0300-4bc9-9e6e-f87b2cd8e2bb.png)](https://overcast.fm/+BI63oPYM1U) [NPC: Next Portable Console – Virtual Boy’s Cardboard Comeback](https://overcast.fm/+BI63oPYM1U)
-[![Risky Bulletin: US raids SIM farm in New York](../../assets/images/oc_artwork/4031461916521480-54f918be-1d99-49e0-bbe2-47a2adc7f9ae.png)](https://overcast.fm/+5Sl991tAg) [Risky Bulletin – Risky Bulletin: US raids SIM farm in New York](https://overcast.fm/+5Sl991tAg)
-[![Stopping Domain Impersonation with AI](../../assets/images/oc_artwork/4797911583483460-f62f7897-bb88-45dd-9671-fa60cf1c4ca8.png)](https://overcast.fm/+BELrNeY5kQ) [Microsoft Threat Intelligence Podcast – Stopping Domain Impersonation with AI](https://overcast.fm/+BELrNeY5kQ)
-[![Srsly Risky Biz: The kids aren’t alright](../../assets/images/oc_artwork/4031462119907556-a2a55fa2-67a2-4b46-8043-5164f4abeea2.png)](https://overcast.fm/+5Sl-uVIOQ) [Risky Bulletin – Srsly Risky Biz: The kids aren’t alright](https://overcast.fm/+5Sl-uVIOQ)
-![Is Tesla Still a Car Company? w/ Ed Niedermeyer](../../assets/images/oc_artwork/5585832514969399-c076ad47-fced-4c50-a212-284834314891.png) Tech Won't Save Us (Premium) – Is Tesla Still a Car Company? w/ Ed Niedermeyer
-[![Dracula Untold - Caravan Of Garbage](../../assets/images/oc_artwork/3737328534057534-bbd95abe-0474-4722-b921-6e63c7bafec4.png)](https://overcast.fm/+1HFJuucj4) [The Weekly Planet – Dracula Untold - Caravan Of Garbage](https://overcast.fm/+1HFJuucj4)
-![AirPods Pro 3, iPhone Air, and a Cable Quest](../../assets/images/oc_artwork/5561968558229176-6e4a5d76-9f2f-4b38-9113-dd6fe0fdcc83.png) AppStories+ – AirPods Pro 3, iPhone Air, and a Cable Quest
-[![Sponsored: Why identity is critical](../../assets/images/oc_artwork/4031461395466350-cfdfe69f-f25a-41b5-83a8-585424d4e640.png)](https://overcast.fm/+5Sl8BnCG4) [Risky Bulletin – Sponsored: Why identity is critical](https://overcast.fm/+5Sl8BnCG4)
+[![Risky Bulletin: Scam compound operators sentenced to death in China](../../assets/images/oc_artwork/4031461614080497-ca9214de-b1e8-40c0-aba9-f6aa258cabdc.png)](https://overcast.fm/+5Sl81u0fE) [Risky Bulletin – Risky Bulletin: Scam compound operators sentenced to death in China](https://overcast.fm/+5Sl81u0fE)
+[![Trump Has Thursday Meltdown as His Shutdown Is Backfiring](../../assets/images/oc_artwork/1872555228547021-3285af5a-c63d-47c8-a4c5-1f033aac35ca.png)](https://overcast.fm/+anFD04R80) [The MeidasTouch Podcast – Trump Has Thursday Meltdown as His Shutdown Is Backfiring](https://overcast.fm/+anFD04R80)
+[![Gotcha! ScamGPT w/ Lana Swartz & Alice Marwick](../../assets/images/oc_artwork/4973608165231611-140d079f-c5e5-4d58-8f80-6fbecd8df329.png)](https://overcast.fm/+BGreGPwy_s) [Computer Says Maybe – Gotcha! ScamGPT w/ Lana Swartz & Alice Marwick](https://overcast.fm/+BGreGPwy_s)
+![10/2/25: Governor urges Trump’s removal as shutdown drama escalates](../../assets/images/oc_artwork/5771694139818388-607467ee-999d-42de-8ba8-294003a5115b.png) David Pakman Member Feed – 10/2/25: Governor urges Trump’s removal as shutdown drama escalates
+[![WH Holds DISASTER Press Conference as SHUTDOWN Backfires on Them](../../assets/images/oc_artwork/1872554633310756-1e12f917-fe7d-4dd6-9242-df054c228b9d.png)](https://overcast.fm/+anFBm9siQ) [The MeidasTouch Podcast – WH Holds DISASTER Press Conference as SHUTDOWN Backfires on Them](https://overcast.fm/+anFBm9siQ)
+[![Leader Jeffries Challenges Trump to Public Meeting on Funding](../../assets/images/oc_artwork/1872554221225981-06ad1835-2356-4060-a1a5-3af10087c22a.png)](https://overcast.fm/+anFAEtx_0) [The MeidasTouch Podcast – Leader Jeffries Challenges Trump to Public Meeting on Funding](https://overcast.fm/+anFAEtx_0)
+[![The good, the bad, and the future of AI agents](../../assets/images/oc_artwork/1138504603234943-e5d63442-ef6d-4c87-9873-cbf400a65746.png)](https://overcast.fm/+QLdsJzcn8) [Decoder with Nilay Patel – The good, the bad, and the future of AI agents](https://overcast.fm/+QLdsJzcn8)
+![New Horner return options + ‘heat hazard’ declared: Singapore Thursday debrief with Jon and Scott](../../assets/images/oc_artwork/5523677144423575-ea536f39-9977-4ef3-b38a-abe523ee353e.png) The Race F1 Podcast (Members) – New Horner return options + ‘heat hazard’ declared: Singapore Thursday debrief with Jon and Scott
+![10/2/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694349136801-182cea61-910c-4570-bf6a-6a2f4bdfcdc5.png) David Pakman Member Feed – 10/2/25: TDPS Bonus Show
+[![659: Lose the Ear Lottery](../../assets/images/oc_artwork/5585875812134451-d40aa698-53e6-4fc0-9c20-829b637b2e7a.png)](https://atp.fm/659) [Accidental Tech Podcast – 659: Lose the Ear Lottery](https://atp.fm/659)
 
 </div>
 
@@ -54,9 +52,13 @@ It doesn't mean you have to be besties with people that ultimately can be hard t
 
 ### YouTube
 
-- [I Defeated the MAGA Final Boss LIVE ON CNN](https://www.youtube.com/watch?v=mv7QmN_tNcg&t=504s) — [Adam Mockler](https://www.youtube.com/@adammockler)
-- [Stephen Miller SNAPS after getting MERCILESSLY BULLIED](https://www.youtube.com/watch?v=BpzQzFXzjwo) — [Adam Mockler](https://www.youtube.com/@adammockler)
-- [The real reason Claude got dumber](https://www.youtube.com/watch?v=6qIZTmaJc0Y) — [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
-- [30 Facts You Didn't Know About Interstellar](https://www.youtube.com/watch?v=Qy8KaWpbBUk) — [The Why](https://www.youtube.com/@The_Why)
-- [He never made a sound after being rescued from dog fights — not until he truly loved his owner.](https://www.youtube.com/watch?v=PqR5OTeWn1A) — [Heart of a Dog](https://www.youtube.com/@HeartofaDog-1)
-- [Robert (Denzel Washington) Gets His Vengeance [CLIP] | The Equalizer (2014) | TNT](https://www.youtube.com/watch?v=fM7X8GQD5e4&t=22s) — [TNT](https://www.youtube.com/@TNT)
+- [The Day Intel Said NO to Steve Jobs (And Lost Everything)](https://www.youtube.com/watch?v=hUK9xK2iuOU) — [Snazzy Labs](https://www.youtube.com/@snazzy)
+- [Jamie Raskin DESTROYS Kash Patel With SH0CKING Video Proof Of His Past](https://www.youtube.com/watch?v=AEyqIhHeKj4&t=15s) — [CONGRESS NEWS TV](https://www.youtube.com/@congressnewstv12)
+- [Trump suffers public brain rot, generals STUNNED](https://www.youtube.com/watch?v=7HSOX0_V_Ro&t=16s) — [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
+- [Comedians' BRUTAL Insults Leave Trump Supporters SEETHING](https://www.youtube.com/watch?v=TcnMvZ-VnFc) — [TYT Sports](https://www.youtube.com/@tytsports)
+- [Drivers Look Ahead To Race Weekend | 2025 Singapore Grand Prix](https://www.youtube.com/watch?v=VS8SVHWAluo) — [FORMULA 1](https://www.youtube.com/@Formula1)
+- [I've Not Been Doing Well](https://www.youtube.com/watch?v=NYVv1kiZIUo&t=84s) — [vlogbrothers](https://www.youtube.com/@vlogbrothers)
+- [Breaking Down Claude 4.5's LEAKED System Prompt](https://www.youtube.com/watch?v=u4D6hEdM_XQ) — [Mark Kashef](https://www.youtube.com/@Mark_Kashef)
+- [Building the future of agents with Claude](https://www.youtube.com/watch?v=XuvKFsktX0Q&t=1026s) — [Anthropic](https://www.youtube.com/@anthropic-ai)
+- [F1's Secret Paddle That Baffled Everyone](https://www.youtube.com/watch?v=y_RBtr7DL_U) — [Driver61](https://www.youtube.com/@Driver61)
+- [“We don’t have a military full of Nordic pagans.” — Pete Hegseth declares war on beards 👀](https://www.youtube.com/watch?v=cnPAxk8vFDA) — [Diaper Diplomacy](https://www.youtube.com/@DiaperDiplomacy)
