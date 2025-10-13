@@ -1,15 +1,18 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-10-02T23:58:39-08:00"
+date: "2025-10-12T21:41:42-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 
-Words. What do they mean? Truth is easily twisted. Liars lie. And that's how Portland is portrayed as "WAR RAVAGED", in the words of dementia man, [to send in the troops to Portland](https://www.theatlantic.com/national-security/archive/2025/10/portland-ice-protest-national-guard-trump/684439/).
+Many vaccines were had, and I was sick for 2 days. PROOF THAT THEY'RE A SCAM!!!!!@#@!!
 
-Well, f#$% those guys.
+My 2024 M4 MacBook Pro has a broken Thunderbolt 5 port, just because I plug my hub into it all the time. I'm not rough. I don't abuse it. I just plug and unplug multiple times per day. Now that broken port is causing issues where the Mac can't go to sleep:
+
+***panic(cpu 11 caller 0xfffffe003fad6598): Sleep transition timed out after 35 seconds while calling power state change callbacks. Suspected bundle: com.apple.iokit.IOThunderboltFamily. Thread 0x8b59f1.
+Debugger message: panic***
 
 ## Stuff I've recently enjoyed
 
@@ -18,25 +21,23 @@ Well, f#$% those guys.
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Risky Bulletin: Scam compound operators sentenced to death in China](../../assets/images/oc_artwork/4031461614080497-ca9214de-b1e8-40c0-aba9-f6aa258cabdc.png)](https://overcast.fm/+5Sl81u0fE) [Risky Bulletin – Risky Bulletin: Scam compound operators sentenced to death in China](https://overcast.fm/+5Sl81u0fE)
-[![Trump Has Thursday Meltdown as His Shutdown Is Backfiring](../../assets/images/oc_artwork/1872555228547021-3285af5a-c63d-47c8-a4c5-1f033aac35ca.png)](https://overcast.fm/+anFD04R80) [The MeidasTouch Podcast – Trump Has Thursday Meltdown as His Shutdown Is Backfiring](https://overcast.fm/+anFD04R80)
-[![Gotcha! ScamGPT w/ Lana Swartz & Alice Marwick](../../assets/images/oc_artwork/4973608165231611-140d079f-c5e5-4d58-8f80-6fbecd8df329.png)](https://overcast.fm/+BGreGPwy_s) [Computer Says Maybe – Gotcha! ScamGPT w/ Lana Swartz & Alice Marwick](https://overcast.fm/+BGreGPwy_s)
-![10/2/25: Governor urges Trump’s removal as shutdown drama escalates](../../assets/images/oc_artwork/5771694139818388-607467ee-999d-42de-8ba8-294003a5115b.png) David Pakman Member Feed – 10/2/25: Governor urges Trump’s removal as shutdown drama escalates
-[![WH Holds DISASTER Press Conference as SHUTDOWN Backfires on Them](../../assets/images/oc_artwork/1872554633310756-1e12f917-fe7d-4dd6-9242-df054c228b9d.png)](https://overcast.fm/+anFBm9siQ) [The MeidasTouch Podcast – WH Holds DISASTER Press Conference as SHUTDOWN Backfires on Them](https://overcast.fm/+anFBm9siQ)
-[![Leader Jeffries Challenges Trump to Public Meeting on Funding](../../assets/images/oc_artwork/1872554221225981-06ad1835-2356-4060-a1a5-3af10087c22a.png)](https://overcast.fm/+anFAEtx_0) [The MeidasTouch Podcast – Leader Jeffries Challenges Trump to Public Meeting on Funding](https://overcast.fm/+anFAEtx_0)
-[![The good, the bad, and the future of AI agents](../../assets/images/oc_artwork/1138504603234943-e5d63442-ef6d-4c87-9873-cbf400a65746.png)](https://overcast.fm/+QLdsJzcn8) [Decoder with Nilay Patel – The good, the bad, and the future of AI agents](https://overcast.fm/+QLdsJzcn8)
-![New Horner return options + ‘heat hazard’ declared: Singapore Thursday debrief with Jon and Scott](../../assets/images/oc_artwork/5523677144423575-ea536f39-9977-4ef3-b38a-abe523ee353e.png) The Race F1 Podcast (Members) – New Horner return options + ‘heat hazard’ declared: Singapore Thursday debrief with Jon and Scott
-![10/2/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694349136801-182cea61-910c-4570-bf6a-6a2f4bdfcdc5.png) David Pakman Member Feed – 10/2/25: TDPS Bonus Show
-[![659: Lose the Ear Lottery](../../assets/images/oc_artwork/5585875812134451-d40aa698-53e6-4fc0-9c20-829b637b2e7a.png)](https://atp.fm/659) [Accidental Tech Podcast – 659: Lose the Ear Lottery](https://atp.fm/659)
+[![Senator Baldwin Calls Out Trump’s Disastrous Shutdown](../../assets/images/oc_artwork/1872554240099089-a55cc519-d3e7-4fd6-9cf8-5337b015d1fb.png)](https://overcast.fm/+anFAJNwxE) [The MeidasTouch Podcast – Senator Baldwin Calls Out Trump’s Disastrous Shutdown](https://overcast.fm/+anFAJNwxE)
+[![Sponsored: Fighting fire with fire](../../assets/images/oc_artwork/4031461741146750-276fbf8f-72c4-4275-b88f-92cc4998e1f3.png)](https://overcast.fm/+5Sl9UBsn4) [Risky Bulletin – Sponsored: Fighting fire with fire](https://overcast.fm/+5Sl9UBsn4)
+[![President of Peace Invades Chicago (feat. JB Pritzker)](../../assets/images/oc_artwork/4043671296202492-800824d8-23d4-45c0-9d62-c19b16adfb7a.png)](https://overcast.fm/+5dspcy1vw) [Pod Save America – President of Peace Invades Chicago (feat. JB Pritzker)](https://overcast.fm/+5dspcy1vw)
+[![will blind gamers ever play Zelda like I do? (part 2)](../../assets/images/oc_artwork/3986960945131737-9e6290c2-7c92-41d0-84c9-6aeda8d67fe8.png)](https://overcast.fm/+4qHq7eMNk) [kill switch – will blind gamers ever play Zelda like I do? (part 2)](https://overcast.fm/+4qHq7eMNk)
+[![Rep. Stevens Responds to Trump’s Disastrous Government Shutdown](../../assets/images/oc_artwork/1872554232750645-7cca210d-4faf-4a20-963d-14c1d713471c.png)](https://overcast.fm/+anFAHdojU) [The MeidasTouch Podcast – Rep. Stevens Responds to Trump’s Disastrous Government Shutdown](https://overcast.fm/+anFAHdojU)
+[![playing video games while blind (part 1)](../../assets/images/oc_artwork/3986960494649676-92cf5449-952a-4540-bd73-1ee892a2ed35.png)](https://overcast.fm/+4qHpQEYUw) [kill switch – playing video games while blind (part 1)](https://overcast.fm/+4qHpQEYUw)
+[![Maybe it’s real, maybe it’s Sora](../../assets/images/oc_artwork/1141115142474675-3baae0d7-79b6-4e68-8bbb-62c25b2123ee.png)](https://overcast.fm/+QN1pK3C7M) [The Vergecast – Maybe it’s real, maybe it’s Sora](https://overcast.fm/+QN1pK3C7M)
+[![Charlie Angus Reacts to Trump Canada Threats](../../assets/images/oc_artwork/1872554244268451-96d437e5-5e7e-4a5c-9d71-9cd6f4803da1.png)](https://overcast.fm/+anFAKNYaM) [The MeidasTouch Podcast – Charlie Angus Reacts to Trump Canada Threats](https://overcast.fm/+anFAKNYaM)
+[![Tron: Legacy - Caravan Of Garbage](../../assets/images/oc_artwork/3737328696284277-3444bc24-570e-47a7-9e81-44f5cd919de8.png)](https://overcast.fm/+1HFKVZ1HU) [The Weekly Planet – Tron: Legacy - Caravan Of Garbage](https://overcast.fm/+1HFKVZ1HU)
+[![WIRED Roundup: Are We In An AI Bubble?](../../assets/images/oc_artwork/4904748312298331-f08bd14a-7251-4fb4-a0a1-e4731b91c2d9.png)](https://overcast.fm/+BFs17TeA1s) [Uncanny Valley | WIRED – WIRED Roundup: Are We In An AI Bubble?](https://overcast.fm/+BFs17TeA1s)
 
 </div>
 
 ### Books
 
-[<span hidden>Fluke • 2025 • Brian Klaas • (In progress) You'd thinking finding out everything is random and our smallest choices and actions can change everything would be scary and depressing, but in fact this book is interesting and though provoking and not at all depressing. That sounds like I’m just tolerating it, but I’m in fact enjoying it quite a bit. • Loved It!</span>
-![Fluke • 2025 • Brian Klaas • (In progress) You'd thinking finding out everything is random and our smallest choices and actions can change everything would be scary and depressing, but in fact this book is interesting and though provoking and not at all depressing. That sounds like I’m just tolerating it, but I’m in fact enjoying it quite a bit. • Loved It!](../../assets/images/posts/png-image481d813ee50-review-8aece3be-1f6e-4a0c-a3b3-9d3105d407dc.png)](/images/posts/png-image481d813ee50-review-8aece3be-1f6e-4a0c-a3b3-9d3105d407dc.jpg)
-[<span hidden>To Say Nothing of the Dog • 2013 • Connie Willis • Book 3 of the Oxford Time Travel series. It's funny and cute and compelling, even if I miss Mr. Dunworthy's constant presence ala Doomsday Book. But Ned Henry and all the other characters make this a fun book that's hard to put down. • Loved It!</span>
-![To Say Nothing of the Dog • 2013 • Connie Willis • (In progress) Book 3 of the Oxford Time Travel series. It's funny and cute and compelling, even if I miss Mr. Dunworthy's constant presence ala Doomsday Book. But Ned Henry and all the other characters make this a fun book that's hard to put down. • Loved It!](../../assets/images/posts/png-image4ebabaea1b0-review-954dbef9-86ea-478b-a0dd-e2bc85854b6a.png)](/images/posts/png-image4ebabaea1b0-review-954dbef9-86ea-478b-a0dd-e2bc85854b6a.jpg)
+[<span hidden>A History of What Comes Next • M Sylvain Neuvel • 2021 • A wonderful historical fiction novel that becomes... sci-fi? Yes, and it's a great premise too. It's not always an easy read, because there is a lot of tension and bad times, but it IS a worthy read. • Loved It!</span>
+![A History of What Comes Next • M Sylvain Neuvel • 2021 • A wonderful historical fiction novel that becomes... sci-fi? Yes, and it's a great premise too. It's not always an easy read, because there is a lot of tension and bad times, but it IS a worthy read. • Loved It!](../../assets/images/posts/png-image492cb8af700-review-a142100d-fff7-45c3-9a2c-cbf1609682df.png)](/images/posts/png-image492cb8af700-review-a142100d-fff7-45c3-9a2c-cbf1609682df.jpg)
 
 ### Movies
 
@@ -52,13 +53,12 @@ Well, f#$% those guys.
 
 ### YouTube
 
-- [The Day Intel Said NO to Steve Jobs (And Lost Everything)](https://www.youtube.com/watch?v=hUK9xK2iuOU) — [Snazzy Labs](https://www.youtube.com/@snazzy)
-- [Jamie Raskin DESTROYS Kash Patel With SH0CKING Video Proof Of His Past](https://www.youtube.com/watch?v=AEyqIhHeKj4&t=15s) — [CONGRESS NEWS TV](https://www.youtube.com/@congressnewstv12)
-- [Trump suffers public brain rot, generals STUNNED](https://www.youtube.com/watch?v=7HSOX0_V_Ro&t=16s) — [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
-- [Comedians' BRUTAL Insults Leave Trump Supporters SEETHING](https://www.youtube.com/watch?v=TcnMvZ-VnFc) — [TYT Sports](https://www.youtube.com/@tytsports)
-- [Drivers Look Ahead To Race Weekend | 2025 Singapore Grand Prix](https://www.youtube.com/watch?v=VS8SVHWAluo) — [FORMULA 1](https://www.youtube.com/@Formula1)
-- [I've Not Been Doing Well](https://www.youtube.com/watch?v=NYVv1kiZIUo&t=84s) — [vlogbrothers](https://www.youtube.com/@vlogbrothers)
-- [Breaking Down Claude 4.5's LEAKED System Prompt](https://www.youtube.com/watch?v=u4D6hEdM_XQ) — [Mark Kashef](https://www.youtube.com/@Mark_Kashef)
-- [Building the future of agents with Claude](https://www.youtube.com/watch?v=XuvKFsktX0Q&t=1026s) — [Anthropic](https://www.youtube.com/@anthropic-ai)
-- [F1's Secret Paddle That Baffled Everyone](https://www.youtube.com/watch?v=y_RBtr7DL_U) — [Driver61](https://www.youtube.com/@Driver61)
-- [“We don’t have a military full of Nordic pagans.” — Pete Hegseth declares war on beards 👀](https://www.youtube.com/watch?v=cnPAxk8vFDA) — [Diaper Diplomacy](https://www.youtube.com/@DiaperDiplomacy)
+- [ChatGPT’s App Store Moment Has Arrived](https://www.youtube.com/watch?v=HgXdOeSfsfk&pp=0gcJCfwJAYcqIYzv) — [Matt Maher](https://www.youtube.com/@MetalSole)
+- [He cried all the way to the shelter 😭😭❤️ @graham.britt](https://www.youtube.com/watch?v=SLgWWgRWDQ0&pp=0gcJCfwJAYcqIYzv) — [We Love Animals](https://www.youtube.com/@We_Love_Animals)
+- [🚨 Apple’s M5 MacBook Pro Is About to Launch - But There’s a Twist!](https://www.youtube.com/watch?v=0npDqRAfbGY) — [SaranByte](https://www.youtube.com/@SaranByte)
+- [Jane Goodall reflects on hug from rescued chimpanzee](https://www.youtube.com/watch?v=YXKzGzSdMY8) — [Kristie Lu Stout](https://www.youtube.com/@klustout)
+- [This Rice Cooker Hack Makes PERFECT Japanese Fried Rice a.k.a. CHAHAN](https://www.youtube.com/watch?v=3ZIJUVhtmBo&t=14s) — [JAPANESE COOKING CHANNEL](https://www.youtube.com/@JapaneseCookingChannel)
+- [AI + me: It's difficult](https://www.youtube.com/watch?v=CctJNYYCPo0&t=38s) — [Maximilian Schwarzmüller](https://www.youtube.com/@maximilian-schwarzmueller)
+- [The Kindness of Koreans Never Fails to Amaze Me 🇰🇷🥹 #닭곰탕](https://www.youtube.com/watch?v=xHGez1zIcNo&t=22s) — [Jipseekid](https://www.youtube.com/@Jipseekid)
+- [Dog's emotional response to freedom from shelter](https://www.youtube.com/watch?v=XDjFlopnv2w) — [GeoBeats Animals](https://www.youtube.com/@GeoBeatsAnimals)
+- [When Pilots Push Too Far.. | ALM Flight 980](https://www.youtube.com/watch?v=vK_7q9tixX4&t=11s) — [Mentour Pilot](https://www.youtube.com/@MentourPilot)

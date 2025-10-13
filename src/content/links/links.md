@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-09-27T20:33:13-08:00"
+date: "2025-10-12T21:41:42-08:00"
 slug: "links"
 ---
 
@@ -12,7 +12,9 @@ slug: "links"
 - [Claude can now connect to your world \ Anthropic](https://www.anthropic.com/news/integrations)
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 - [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [Claude Code Docs, Guides & Best Practices | ClaudeLog](https://claudelog.com/)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
+- [Customize Claude Code with plugins \ Anthropic](https://www.anthropic.com/news/claude-code-plugins)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [HyperContext](https://hypercontext.eu/)
@@ -509,6 +511,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Calculating Empires](https://calculatingempires.net/)
 - [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai/caaac)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
+- [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
 - [Decarbonize your life](https://heatmap.news/decarbonize-your-life)
@@ -848,6 +851,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
+- [CodeCut | Actionable Python tips, curated for busy data pros. Skim in under 2 minutes, three times a week.](https://codecut.ai/?featured_on=talkpython)
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Developer Community | 1Password Developer](https://developer.1password.com/community/)
 - [Dying for Beauty | Alan Norbauer](https://alan.norbauer.com/articles/dying-for-beauty/)
