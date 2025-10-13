@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-10-12T21:41:42-08:00"
+date: "2025-10-12T23:04:43-08:00"
 slug: "links"
 ---
 
@@ -50,10 +50,10 @@ slug: "links"
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns - Ars Technica](https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/)
-- [Anthropic's Claude Is Good at Poetry—and Bullshitting | WIRED](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Hypercritical: Apple Turnover](https://hypercritical.co/2025/05/09/apple-turnover)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
+- [Browse No More | Paul Stamatiou](https://paulstamatiou.com/browse-no-more)
 - [‘Cook chose poorly’: how Apple blew up its control over the App Store | The Verge](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
 - [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
 - [Curate your own newspaper with RSS](https://www.citationneeded.news/curate-with-rss/)
@@ -81,7 +81,7 @@ slug: "links"
 - [How to leak to a journalist | Nieman Journalism Lab](https://www.niemanlab.org/2025/04/how-to-leak-to-a-journalist/)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
-- [I Never Lost Hope in the Principles of Democracy - Opinion | Mohsen Mahdawi – The New York Times](https://www.nytimes.com/2025/05/02/opinion/mohsen-mahdawi-ice-detention.html)
+- [I’m a US citizen and a veteran. ICE arrested me for no reason.](https://newsletter.ofthebrave.org/p/im-a-us-citizen-and-a-veteran-ice)
 - [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
@@ -97,6 +97,7 @@ slug: "links"
 - [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
 - [Ron Deibert Warns Cybersecurity Industry About U.S. Authoritarian Descent - The Citizen Lab](https://citizenlab.ca/2025/08/ron-deibert-warns-cybersecurity-industry-about-u-s-authoritarian-descent-techcrunch/)
+- [Shot by His Father and Left Blind—Now He's a Hardcore Gamer | WIRED](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
 - [Sierra made the games of my childhood. Are they still fun to play? - Ars Technica](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/)
 - [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
