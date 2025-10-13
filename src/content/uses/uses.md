@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-09-27T20:33:13-08:00"
+date: "2025-10-12T22:09:44-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -79,10 +79,10 @@ slug: "uses"
 ### Organization
 
 - Apple Reminders
+- [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
 - [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
-- [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
 - [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
 - [Timery for Toggl: Toggl API Token](https://www.timeryapp.com/token.html)
 - [Zones: Time Zone Conversion](https://squircleapps.com/zones/)
