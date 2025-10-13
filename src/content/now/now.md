@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-10-12T21:41:42-08:00"
+date: "2025-10-12T22:03:37-08:00"
 slug: "now"
 ---
 
@@ -48,8 +48,8 @@ Debugger message: panic***
 
 ### TV Shows
 
-[<span hidden>Black Rabbit • 2025 • It's hard to like the two main characters in this show, but they do become sympathetic characters over time. There's plenty of tension, action, and family dynamics to go around. Some people are bad for themselves and everyone around them. • Liked It</span>
-![Black Rabbit • 2025 • It's hard to like the two main characters in this show, but they do become sympathetic characters over time. There's plenty of tension, action, and family dynamics to go around. Some people are bad for themselves and everyone around them. • Liked It](../../assets/images/posts/png-image4871b18c150-review-6fbb83bc-9e41-4708-978d-2389029b8df7.png)](/images/posts/png-image4871b18c150-review-6fbb83bc-9e41-4708-978d-2389029b8df7.jpg)
+[<span hidden>The Last Frontier • 2025 • Another Apple TV+ series. Two episodes in, not sure how I'm going to feel about it. Started off well in some ways, hand-wavy in others. Seems like it's worth giving a chance though. • Liked It</span>
+![The Last Frontier • 2025 • Another Apple TV+ series. Two episodes in, not sure how I'm going to feel about it. Started off well in some ways, hand-wavy in others. Seems like it's worth giving a chance though. • Liked It](../../assets/images/posts/png-image41b9a9fec20-review-7a31e41f-7f85-4844-9544-87b1d32b09d7.png)](/images/posts/png-image41b9a9fec20-review-7a31e41f-7f85-4844-9544-87b1d32b09d7.jpg)
 
 ### YouTube
 
