@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-10-12T22:09:44-08:00"
+date: "2025-10-21T21:10:39-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -22,9 +22,9 @@ slug: "uses"
 ### AI - Programming, research, dictation, transcribing
 
 - [ChatGPT](https://chatgpt.com/)
+- [ChatGPT Atlas | OpenAI](https://openai.com/index/introducing-chatgpt-atlas/)
 - [Claude](https://claude.ai/new)
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
-- [HyperContext](https://hypercontext.eu/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [OpenAI Codex](https://openai.com/codex/)
 

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-10-12T23:04:43-08:00"
+date: "2025-10-21T21:10:39-08:00"
 slug: "links"
 ---
 
@@ -520,6 +520,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 - [European Alternatives](https://european-alternatives.eu/)
 - [Everything's Computer!](https://everythings.computer/)
+- [Flawtinet - Your Most Trusted Vulnerable Product](https://www.flawtinet.com)
 - [Follow the Crypto](https://www.followthecrypto.org/)
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)

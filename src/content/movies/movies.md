@@ -1,6 +1,6 @@
 ---
 title: "Movie Reviews"
 description: "Reviews of movie things I've watched."
-date: "2025-09-28T11:47:57-08:00"
+date: "2025-10-21T21:10:39-08:00"
 slug: "movies"
 ---
