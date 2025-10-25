@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-10-21T21:10:39-08:00"
+date: "2025-10-25T11:55:09-08:00"
 slug: "links"
 ---
 
@@ -234,6 +234,9 @@ Accessibilty, design, programming, and much more!
 
 **[ericportis.com](https://ericportis.com/)**  
 I came for the colorspace article, I stayed for the photography. Wow!  
+
+**[Erika](https://erika.florist/)**  
+Erika is a very thoughtful programmer and designer who works for [Astro](https://astro.build/), but also has a very cool static website generator project named [Maudit](https://maudit.org/).
 
 **[Erin Kissane's small internet website](https://erinkissane.com/)**  
 Erin does a **LOT** of really cool stuff.
@@ -532,6 +535,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Infinite Mac](https://infinitemac.org/)
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
 - [IS IT DNS?](https://isitdns.com/)
+- [Just a moment...](https://neal.fun/not-a-robot/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Lens - Check your meta tags, icons, and rss feeds](https://lens.rknight.me/)
@@ -705,8 +709,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Floating Menu & Desktop Widgets · GitBook · Better Touch Tool](https://docs.folivora.ai/docs/1600_floating_menus.html)
 - [Folder Peek — Sindre Sorhus](https://sindresorhus.com/folder-peek)
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
+- [Framecap - A CLI Screen Recorder for macOS](https://framecap.app/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
+- [HomeCam for HomeKit](https://homecam.app/)
 - [Hookmark – Links beat searching](https://hookproductivity.com/)
 - [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
@@ -722,6 +728,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
 - [mierau/hotline: A modern Hotline client for Mac, iOS, and iPadOS](https://github.com/mierau/hotline)
 - [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
+- [NameQuick - Rename files effortlessly on macOS](https://www.namequick.app/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
@@ -807,6 +814,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [High Performance](https://www.thehighperformancepodcast.com/)
 - [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
 - [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
+- [Keeping your Rust toolchain and binaries up-to-date, the easy way | Eduard's Blog](https://www.edu4rdshl.dev/posts/keeping-your-rust-toolchain-and-binaries-up-to-date-the-easy-way/)
 - [Mac Admins Podcast – A podcast for Mac admins by Mac admins.](https://podcast.macadmins.org/)
 - [Mac Geek Gab Podcast](https://www.macgeekgab.com/)
 - [Malicious Life | Cybersecurity History Podcast](https://malicious.life/)
@@ -857,6 +865,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
 - [Developer Community | 1Password Developer](https://developer.1password.com/community/)
 - [Dying for Beauty | Alan Norbauer](https://alan.norbauer.com/articles/dying-for-beauty/)
+- [Erika](https://erika.florist/)
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/)
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
@@ -891,6 +900,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
 - [The Best Font Loading Strategies and How to Execute Them | CSS-Tricks](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
+- [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [The Ultimate CSS Shapes Collection](https://css-shape.com/)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
 - [Typography troubles: Balancing lines in Japanese & Korean - ryelle codes](https://ryelle.codes/2025/04/typography-troubles-balancing-in-japanese-korean/)

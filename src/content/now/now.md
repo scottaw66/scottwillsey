@@ -1,15 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-10-21T21:10:39-08:00"
+date: "2025-10-25T11:55:09-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 
-Remember how I thought my 2024 M4 MacBook Pro has a broken Thunderbolt 5 port because it quit recognizing anything plugged into it (including my TB4 hub)? Well, I took it to Apple and when then genius bar employee put it into diag mode, it apparently fixed whatever SOFTWARE issue was causing the problem, because it immediately started working for her, and it's worked for me ever since too.
+You may have gotten the impression that I've dramatically slowed the pace on both posting here and posting podcasts at [Friends with Brews](https://friendswithbrews.com). That's because itt's true, I have. I have really had to prioritize work and family things, and frankly I sometimes just want to get away from the computer. But I have some plans for projects still, as well as getting back to this site and Friends with Brews.
 
-Oh, Apple. How many times in the past few years has your software driven me to drink?
+They aren't dead yet!!
 
 ## Stuff I've recently enjoyed
 
@@ -18,16 +18,16 @@ Oh, Apple. How many times in the past few years has your software driven me to d
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-![10/21/25: Anger is building as White House demolition begins](../../assets/images/oc_artwork/5771694192023351-51dab583-e96c-46b2-b270-b471accd6ce8.png) David Pakman Member Feed – 10/21/25: Anger is building as White House demolition begins
-[![Risky Bulletin: Clever worm hits the VS Code scene](../../assets/images/oc_artwork/4031461878032844-1b20a17e-039c-41e3-9088-a73eec8694cd.png)](https://overcast.fm/+5Sl90qacw) [Risky Bulletin – Risky Bulletin: Clever worm hits the VS Code scene](https://overcast.fm/+5Sl90qacw)
-![Hackers Dox ICE](../../assets/images/oc_artwork/5121671847137335-6393d785-91c1-4d79-b4d3-7aca141aa467.png) The 404 Media Podcast (Premium Feed) – Hackers Dox ICE
-![10/21/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694497526161-598a816a-474d-4c95-bf67-7238de1fb255.png) David Pakman Member Feed – 10/21/25: TDPS Bonus Show
-[![An Insider’s View Of Decentralized Social Media](../../assets/images/oc_artwork/266500366656962-676f3ce3-a8a6-4404-bf4b-3060a4a9594f.png)](https://overcast.fm/+DyYXOv5cI) [Techdirt – An Insider’s View Of Decentralized Social Media](https://overcast.fm/+DyYXOv5cI)
-[![Joe Rosensteel, VFX Artist, Podcaster and writer](../../assets/images/oc_artwork/5728093497359646-b9156f73-e381-4ceb-84eb-e892fc5e81c2.png)](https://overcast.fm/+BRZq7ImfR4) [First, Last, Everything – Joe Rosensteel, VFX Artist, Podcaster and writer](https://overcast.fm/+BRZq7ImfR4)
-[![The new Xbox is not an Xbox](../../assets/images/oc_artwork/5816342741628650-b14b239a-02e9-485f-a3cb-7dd851e4f7ed.png)](https://overcast.fm/+BSp7tMBtuo) [The Vergecast: Ad-Free Edition – The new Xbox is not an Xbox](https://overcast.fm/+BSp7tMBtuo)
-[![130: Oamaruvian Double Wood Cask Strength Single Malt Whisky](../../assets/images/oc_artwork/5287027259667503-e1a31d2d-aa50-4bb9-86ee-efafda72d53e.png)](https://overcast.fm/+BLIhfW69C8) [Whisky Whiskey – 130: Oamaruvian Double Wood Cask Strength Single Malt Whisky](https://overcast.fm/+BLIhfW69C8)
-![10/20/25: No Kings protests rattle MAGA as US approaches failed state](../../assets/images/oc_artwork/5771694339872492-2e418922-cfad-40fb-a8c6-0ffd5bbc7305.png) David Pakman Member Feed – 10/20/25: No Kings protests rattle MAGA as US approaches failed state
-[![Between Three Nerds: India, the sleeping cyber superpower](../../assets/images/oc_artwork/4031461825238264-8fbb339b-4ba4-466d-bfc3-0916a038ad5f.png)](https://overcast.fm/+5Sl9oE1Pg) [Risky Bulletin – Between Three Nerds: India, the sleeping cyber superpower](https://overcast.fm/+5Sl9oE1Pg)
+[![How Data Centers Actually Work](../../assets/images/oc_artwork/4904747462381466-4c58ccb9-23d3-4a76-ad52-265e64d5e2b8.png)](https://overcast.fm/+BFs14I1T5o) [Uncanny Valley | WIRED – How Data Centers Actually Work](https://overcast.fm/+BFs14I1T5o)
+![Silicon Valley Doesn’t Know What Makes a Good City w/ Joanne McNeil](../../assets/images/oc_artwork/5585832270331913-cd26730a-23a1-4c74-a148-7ca3552ccb24.png) Tech Won't Save Us (Premium) – Silicon Valley Doesn’t Know What Makes a Good City w/ Joanne McNeil
+![Dinner with Edd & Scott: Verstappen vs McLaren, Piastri’s struggle and more Mexico talking points](../../assets/images/oc_artwork/5523677109308635-da131f22-a5df-475d-975f-22e337cc9915.png) The Race F1 Podcast (Members) – Dinner with Edd & Scott: Verstappen vs McLaren, Piastri’s struggle and more Mexico talking points
+[![You seem lonely. Have a robot w/ Stevie Chancellor](../../assets/images/oc_artwork/4973608019749530-77d7a042-97ba-4f97-b500-694243408a3e.png)](https://overcast.fm/+BGreFtE6po) [Computer Says Maybe – You seem lonely. Have a robot w/ Stevie Chancellor](https://overcast.fm/+BGreFtE6po)
+[![WIRED Roundup: Protest Frogs, Google Bedbugs, AI Psychosis](../../assets/images/oc_artwork/4904747958399352-1b30d837-7172-4035-a2a5-57e846eb7a83.png)](https://overcast.fm/+BFs15_F8Xg) [Uncanny Valley | WIRED – WIRED Roundup: Protest Frogs, Google Bedbugs, AI Psychosis](https://overcast.fm/+BFs15_F8Xg)
+![10/24/25: Bubble bursting as red states decline, Trump crushes farmers](../../assets/images/oc_artwork/5771694255035484-0ad6f1dd-6694-41cf-99f6-6e88e508da9a.png) David Pakman Member Feed – 10/24/25: Bubble bursting as red states decline, Trump crushes farmers
+![10/24/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694936225909-ef236d80-de80-4606-a356-ce71b63f330a.png) David Pakman Member Feed – 10/24/25: TDPS Bonus Show
+[![Notion Daily Notes and AI Browsers](../../assets/images/oc_artwork/1847775224160196-11e14b6e-e771-43f1-95f1-3db7d89cf659.png)](https://overcast.fm/+aQirHcX8Q) [MacStories Unwind – Notion Daily Notes and AI Browsers](https://overcast.fm/+aQirHcX8Q)
+[![ChatGPT enters the browser wars](../../assets/images/oc_artwork/5816342812016892-f2f514ea-389f-4e47-ab7b-4997bc1ba8b8.png)](https://overcast.fm/+BSp7tczwPw) [The Vergecast: Ad-Free Edition – ChatGPT enters the browser wars](https://overcast.fm/+BSp7tczwPw)
+![In-Car Insights: Edd and Scott in a bumpy minibus after Mexican GP day one](../../assets/images/oc_artwork/5523677204517087-beaa587d-270f-4980-9da5-c19df385ebea.png) The Race F1 Podcast (Members) – In-Car Insights: Edd and Scott in a bumpy minibus after Mexican GP day one
 
 </div>
 
@@ -48,13 +48,13 @@ Oh, Apple. How many times in the past few years has your software driven me to d
 
 ### YouTube
 
-- [Copilot Update: Microsoft Adds NEW 'Connectors' (Link OneDrive, Google Drive & More)](https://www.youtube.com/watch?v=-kveNM_Y5Jw&t=3s) — [BrenTech](https://www.youtube.com/@BrenTech)
-- [MAGA Voter THREATENS Protestors… INSTANTLY BACKFIRES!](https://www.youtube.com/watch?v=70TmI_RxjhU&t=403s) — [Adam Mockler](https://www.youtube.com/@adammockler)
-- [Tech Titans. Tiny Thinking. Will AI Save or Sink Us?](https://www.youtube.com/watch?v=zwO3CKa6RuY&t=1944s) — [Josh Johnson](https://www.youtube.com/@JoshJohnsonComedy)
-- [Radio Rewind | 2025 United States Grand Prix | Paramount+](https://www.youtube.com/watch?v=ZXAUZBcV_d8) — [FORMULA 1](https://www.youtube.com/@Formula1)
-- [Sucked Through a Tiny Hole - Byford Dolphin Incident](https://www.youtube.com/watch?v=j8XgLX5FLdY) — [Storified](https://www.youtube.com/@Storified1)
-- [Cat narrowly escapes coyote attack in Surfside Beach](https://www.youtube.com/watch?v=HEPC8YEI7yg) — [ABC13 Houston](https://www.youtube.com/@ABC13Houston)
-- [Quick Thinking Attorney GOES TO WAR For His Client And WINS!](https://www.youtube.com/watch?v=pRLMGx6mLvE) — [Audit the Audit](https://www.youtube.com/@AuditTheAudit)
-- [⚖️ Judge FLEISCHER: Shoddy Police Report and Parking While Black | Judging Judges](https://www.youtube.com/watch?v=G19SKEevVKA) — [Judging Judges](https://www.youtube.com/@JudgingJudges)
-- [⚖️ Judge FLEISCHER Shuts Down Arrest for Living While Black | Judging Judges](https://www.youtube.com/watch?v=lvZHKjlrtO4) — [Judging Judges](https://www.youtube.com/@JudgingJudges)
-- [Dr. Phil Facing Financial RUIN After Going Full MAGA](https://www.youtube.com/watch?v=R6Qk6j_7fF4) — [Farron Balanced](https://www.youtube.com/@FarronBalanced)
+- [Anthropic Finally Solved AI Memory & More AI Use Cases](https://www.youtube.com/watch?v=rsuU_ueV0fo&t=1s) — [The AI Advantage](https://www.youtube.com/@aiadvantage)
+- [How Claude Solved AI's Biggest Problem](https://www.youtube.com/watch?v=Z9glbip8pZc) — [AI LABS](https://www.youtube.com/@AILABS-393)
+- [Weekend Warm-Up | 2025 Mexico City Grand Prix](https://www.youtube.com/watch?v=r7xCjLcppzc&t=1925s) — [FORMULA 1](https://www.youtube.com/@Formula1)
+- [Helicopter Crash at Huntington Beach — What Went Wrong?](https://www.youtube.com/watch?v=1nlGbJf737o&t=32s) — [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
+- [Drivers Look Ahead To Race Weekend | 2025 Mexico City Grand Prix](https://www.youtube.com/watch?v=oz72q2Dvf0E) — [FORMULA 1](https://www.youtube.com/@Formula1)
+- [Should You Use OpenAI's New Browser?](https://www.youtube.com/watch?v=QHOTpStej2g&t=128s) — [The AI Advantage](https://www.youtube.com/@aiadvantage)
+- [BREAKING: Appeals court issues Trump ruling we've WAITED FOR](https://www.youtube.com/watch?v=rmDpVQut2BA&t=68s) — [Brian Tyler Cohen](https://www.youtube.com/@briantylercohen)
+- [How To Blur An Area Using Screenflow Tutorial - Hide Text With A Blur](https://www.youtube.com/watch?v=6WRq6ZNeUXo) — [PNUK](https://www.youtube.com/@pnuk)
+- [Best AI for Developers Revealed Oct 2025!](https://www.youtube.com/watch?v=fuhx7VsH1mU&t=396s&pp=0gcJCQYKAYcqIYzv) — [Rob Shocks](https://www.youtube.com/@RobShocks)
+- [Claude now has memory](https://www.youtube.com/watch?v=PupmfSttxlc) — [Anthropic](https://www.youtube.com/@anthropic-ai)
