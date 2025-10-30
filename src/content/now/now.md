@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-10-29T23:12:19-08:00"
+date: "2025-10-30T15:24:54-08:00"
 slug: "now"
 ---
 
@@ -38,13 +38,17 @@ All work and no play still makes not enough money. But hey, I *AM* working on a 
 
 ### YouTube
 
-- [Malware of the Future: What an infected system looks like in 2025](https://www.youtube.com/watch?v=24dfe8q7Aq4&t=6s) — [PC Security Channel](https://www.youtube.com/@pcsecuritychannel)
-- [Inside An F1 Driver’s Detailed Preparation Process | Psychology of Preparation | TAG Heuer](https://www.youtube.com/watch?v=I7pKRfEbfJI) — [FORMULA 1](https://www.youtube.com/@Formula1)
-- [The Hack That Made China a Superpower: Operation Shady Rat](https://www.youtube.com/watch?v=y27B-sKIUHA) — [Cybernews](https://www.youtube.com/@cybernews)
-- [ICE Agents Get EXACTLY What They Deserve from Fed-Up Police Officer](https://www.youtube.com/watch?v=Fhpvruy7Xjs) — [TYT Sports](https://www.youtube.com/@tytsports)
-- [Sam, Jakub, and Wojciech on the future of OpenAI with audience Q&A](https://www.youtube.com/watch?v=ngDCxlZcecw&t=1073s) — [OpenAI](https://www.youtube.com/@OpenAI)
-- [ICE Agent FACE PLANTS and Ruins His Life](https://www.youtube.com/watch?v=JYU3tWMm4I8) — [Adam Mockler](https://www.youtube.com/@adammockler)
-- [Why Red Bull's F1 2026 delay has given Yuki Tsunoda fresh hope](https://www.youtube.com/watch?v=kZ3CCnGcc7o) — [THE RACE](https://www.youtube.com/@WeAreTheRace)
-- [Trump suffers SCARY cognitive glitch](https://www.youtube.com/watch?v=hqBWjuJbrFQ&t=12s) — [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
-- [The Man Who Leaked Windows 95 & Went to Prison](https://www.youtube.com/watch?v=bKP5ZWFjWmU) — [Cybernews](https://www.youtube.com/@cybernews)
-- [JUST IN: Canada's Carney Slams Trump’s ‘No Meeting’ Comment — Says Canada Won’t Be Ignored | AC1B](https://www.youtube.com/watch?v=wcLAL-VUpBY&pp=0gcJCQMKAYcqIYzv) — [DRM News](https://www.youtube.com/@DRMNewsInternational)
+<div class="yt-history">
+
+[![../../assets/images/yt_thumbs/20251030151436_y27B-sKIUHA.png](../../assets/images/yt_thumbs/20251030151436_y27B-sKIUHA.png)](https://www.youtube.com/watch?v=y27B-sKIUHA&t=1s)[The Hack That Made China a Superpower: Operation Shady Rat](https://www.youtube.com/watch?v=y27B-sKIUHA&t=1s) • [Cybernews](https://www.youtube.com/@cybernews)
+[![../../assets/images/yt_thumbs/20251030151436_tL7TA95f44k.png](../../assets/images/yt_thumbs/20251030151436_tL7TA95f44k.png)](https://www.youtube.com/watch?v=tL7TA95f44k)[The Sopranos - Junior Soprano orders 6 murders like you and I order a cup of coffee](https://www.youtube.com/watch?v=tL7TA95f44k) • [borko](https://www.youtube.com/@borko1990)
+[![../../assets/images/yt_thumbs/20251030151436_Y1zyLwmOA68.png](../../assets/images/yt_thumbs/20251030151436_Y1zyLwmOA68.png)](https://www.youtube.com/watch?v=Y1zyLwmOA68&t=558s)[JD Vance Just Got Confronted Over His Dark Secret](https://www.youtube.com/watch?v=Y1zyLwmOA68&t=558s) • [Adam Mockler](https://www.youtube.com/@adammockler)
+[![../../assets/images/yt_thumbs/20251030151436_G-5bInklwRQ.png](../../assets/images/yt_thumbs/20251030151436_G-5bInklwRQ.png)](https://www.youtube.com/watch?v=G-5bInklwRQ&t=353s)[Claude Skills Just 10x'd My AI Agents (I'm Shocked)](https://www.youtube.com/watch?v=G-5bInklwRQ&t=353s) • [Greg Isenberg](https://www.youtube.com/@GregIsenberg)
+[![../../assets/images/yt_thumbs/20251030151436_NP-qmffUNHQ.png](../../assets/images/yt_thumbs/20251030151436_NP-qmffUNHQ.png)](https://www.youtube.com/watch?v=NP-qmffUNHQ&t=316s)[The Dirty Secret Behind Amazon's 30,000 Cuts: Nvidia](https://www.youtube.com/watch?v=NP-qmffUNHQ&t=316s) • [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)
+[![../../assets/images/yt_thumbs/20251030151436_NbL7yZCF-6Q.png](../../assets/images/yt_thumbs/20251030151436_NbL7yZCF-6Q.png)](https://www.youtube.com/watch?v=NbL7yZCF-6Q)[Is AI’s Circular Financing Inflating a Bubble?](https://www.youtube.com/watch?v=NbL7yZCF-6Q) • [Patrick Boyle](https://www.youtube.com/@PBoyle)
+[![../../assets/images/yt_thumbs/20251030151436_Drv54Auw_mg.png](../../assets/images/yt_thumbs/20251030151436_Drv54Auw_mg.png)](https://www.youtube.com/watch?v=Drv54Auw_mg)[Every KILLED OFF Character In The Sopranos](https://www.youtube.com/watch?v=Drv54Auw_mg) • [Vextro](https://www.youtube.com/@VextroOfficial)
+[![../../assets/images/yt_thumbs/20251030151436_I7pKRfEbfJI.png](../../assets/images/yt_thumbs/20251030151436_I7pKRfEbfJI.png)](https://www.youtube.com/watch?v=I7pKRfEbfJI&pp=0gcJCQMKAYcqIYzv)[Inside An F1 Driver’s Detailed Preparation Process | Psychology of Preparation | TAG Heuer](https://www.youtube.com/watch?v=I7pKRfEbfJI&pp=0gcJCQMKAYcqIYzv) • [FORMULA 1](https://www.youtube.com/@Formula1)
+[![../../assets/images/yt_thumbs/20251030151436_24dfe8q7Aq4.png](../../assets/images/yt_thumbs/20251030151436_24dfe8q7Aq4.png)](https://www.youtube.com/watch?v=24dfe8q7Aq4&t=10s)[Malware of the Future: What an infected system looks like in 2025](https://www.youtube.com/watch?v=24dfe8q7Aq4&t=10s) • [PC Security Channel](https://www.youtube.com/@pcsecuritychannel)
+[![../../assets/images/yt_thumbs/20251030151436_Fhpvruy7Xjs.png](../../assets/images/yt_thumbs/20251030151436_Fhpvruy7Xjs.png)](https://www.youtube.com/watch?v=Fhpvruy7Xjs)[ICE Agents Get EXACTLY What They Deserve from Fed-Up Police Officer](https://www.youtube.com/watch?v=Fhpvruy7Xjs) • [TYT Sports](https://www.youtube.com/@tytsports)
+
+</div>
