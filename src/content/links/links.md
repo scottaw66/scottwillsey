@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-10-25T11:55:09-08:00"
+date: "2025-10-29T23:12:19-08:00"
 slug: "links"
 ---
 
@@ -564,6 +564,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rainglow, a demo of Eleventy Serverless](https://rainglow.zachleat.dev/3b5f3b/)
 - [Resistbot](https://resist.bot/)
 - [Retraction Watch – Tracking retractions as a window into the scientific process](https://retractionwatch.com/)
+- [Ross Minor](https://rossminor.com)
 - [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
 - [SakuraPass](https://www.sakurapass.com/en/)
@@ -687,6 +688,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
+- [Actions For Obsidian](https://actions.work/actions-for-obsidian/)
 - [Advanced use cases | 1Password Developer](https://developer.1password.com/docs/ssh/agent/advanced/#ssh-server-six-key-limit)
 - [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
