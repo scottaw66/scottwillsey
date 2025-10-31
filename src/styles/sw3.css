@@ -871,7 +871,8 @@ div.yt-history p {
 }
 div.yt-history img,
 div.yt-history p a img {
-  width: 250px;
+  width: 150px;
+  height: auto;
   margin: 2px 0;
 }
 
