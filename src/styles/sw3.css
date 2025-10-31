@@ -883,6 +883,12 @@ div.yt-video > div {
   display: flex;
   flex-direction: column;
   gap: 5px;
+  align-self: center;
+}
+
+/* Hide empty paragraphs in the info div */
+div.yt-video > div > p:empty {
+  display: none;
 }
 
 /* Channel paragraph */
