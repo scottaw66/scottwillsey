@@ -861,19 +861,72 @@ div.podcast-episodes p a img {
   margin: 2px 0;
   border: 0;
 }
-div.yt-history p {
+/* Each video - yt-video is the grid container with 2 columns */
+div.yt-video {
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: auto 1fr;
   gap: 10px;
-  padding: 0;
-  margin: 0;
+  margin-bottom: 20px;
   align-items: start;
 }
+
+/* Thumbnail paragraph - column 1 */
+div.yt-video > p:first-child {
+  grid-column: 1;
+  margin: 0;
+  padding: 0;
+}
+
+/* Info div container (sibling to thumbnail p) - column 2 */
+div.yt-video > div {
+  grid-column: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+/* Channel paragraph */
+p.yt-video-channel {
+  margin: 0;
+  padding: 0;
+  order: 1;
+  font-size: 0.9em;
+  font-weight: bold;
+  color: var(--secondary-text);
+}
+
+p.yt-video-channel a {
+  margin: 0;
+  padding: 0;
+  color: var(--dates);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+p.yt-video-channel div {
+  align-items: center;
+}
+
+/* Title paragraph */
+p.yt-video-title {
+  margin: 0;
+  padding: 0;
+  order: 2;
+}
+
+p.yt-video-title a {
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
 div.yt-history img,
-div.yt-history p a img {
-  width: 150px;
+div.yt-video img,
+div.yt-history p a img,
+div.yt-video p a img {
+  width: 250px;
   height: auto;
-  margin: 2px 0;
+  margin: 2px 25px 2px 0;
 }
 
 div.use-header img {
@@ -953,7 +1006,7 @@ pre.astro-code::-webkit-scrollbar {
 }
 
 pre.astro-code::-webkit-scrollbar-thumb {
-  background-color: var(--accent-blue);
+  background-color: var(--hyperlink);
   outline: 1px solid var(--surface1);
 }
 

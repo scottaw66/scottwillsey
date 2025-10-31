@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-10-31T08:23:22-08:00"
+date: "2025-10-31T14:14:16-08:00"
 slug: "now"
 ---
 
@@ -40,15 +40,84 @@ All work and no play still makes not enough money. But hey, I *AM* working on a 
 
 <div class="yt-history">
 
-[![../../assets/images/yt_thumbs/20251031082135_QNouXP0cQjM.png](../../assets/images/yt_thumbs/20251031082135_QNouXP0cQjM.png)](https://www.youtube.com/watch?v=QNouXP0cQjM)[The Most Painful Formula 1 Deaths Ever | Part 2](https://www.youtube.com/watch?v=QNouXP0cQjM) [Mort](https://www.youtube.com/@mort.animation)
-[![../../assets/images/yt_thumbs/20251031082135_BUKleG0N180.png](../../assets/images/yt_thumbs/20251031082135_BUKleG0N180.png)](https://www.youtube.com/watch?v=BUKleG0N180&t=86s)[Are We Going to War?](https://www.youtube.com/watch?v=BUKleG0N180&t=86s) [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)
-[![../../assets/images/yt_thumbs/20251031082135_Z4OpDCF8qME.png](../../assets/images/yt_thumbs/20251031082135_Z4OpDCF8qME.png)](https://www.youtube.com/watch?v=Z4OpDCF8qME&pp=0gcJCQMKAYcqIYzv)[25 Years Of Legendary F1 Team Radio](https://www.youtube.com/watch?v=Z4OpDCF8qME&pp=0gcJCQMKAYcqIYzv) [FORMULA 1](https://www.youtube.com/@Formula1)
-[![../../assets/images/yt_thumbs/20251031082135_ou9M6rEZZMk.png](../../assets/images/yt_thumbs/20251031082135_ou9M6rEZZMk.png)](https://www.youtube.com/watch?v=ou9M6rEZZMk)[The Sopranos - Animal Blundetto strikes again and kills Billy "The kid" Leotardo](https://www.youtube.com/watch?v=ou9M6rEZZMk) [Borko](https://www.youtube.com/@borko2.0)
-[![../../assets/images/yt_thumbs/20251031082135_ygxT9Vs8Vr0.png](../../assets/images/yt_thumbs/20251031082135_ygxT9Vs8Vr0.png)](https://www.youtube.com/watch?v=ygxT9Vs8Vr0)[Charles Leclerc: The Ultimate Onboard Collection | Best Onboards | Qatar Airways](https://www.youtube.com/watch?v=ygxT9Vs8Vr0) [FORMULA 1](https://www.youtube.com/@Formula1)
-[![../../assets/images/yt_thumbs/20251031082135_UP_TBaKODlw.png](../../assets/images/yt_thumbs/20251031082135_UP_TBaKODlw.png)](https://www.youtube.com/watch?v=UP_TBaKODlw&t=3s)[Your first look at the all-new Affinity](https://www.youtube.com/watch?v=UP_TBaKODlw&t=3s) [Affinity](https://www.youtube.com/@Affinity)
-[![../../assets/images/yt_thumbs/20251031082135_CBneTpXF1CQ.png](../../assets/images/yt_thumbs/20251031082135_CBneTpXF1CQ.png)](https://www.youtube.com/watch?v=CBneTpXF1CQ)[Claude Code updates: When to use Haiku 4.5, Claude Code on web, and more.](https://www.youtube.com/watch?v=CBneTpXF1CQ) [Anthropic](https://www.youtube.com/@anthropic-ai)
-[![../../assets/images/yt_thumbs/20251031082135_QjwsvyXvDPA.png](../../assets/images/yt_thumbs/20251031082135_QjwsvyXvDPA.png)](https://www.youtube.com/watch?v=QjwsvyXvDPA)[Microsoft Just Launched the First True Self-Improving AI (Broke the Rules of AI)](https://www.youtube.com/watch?v=QjwsvyXvDPA) [AI Revolution](https://www.youtube.com/@airevolutionx)
-[![../../assets/images/yt_thumbs/20251031082135_9xwI-xGm0GE.png](../../assets/images/yt_thumbs/20251031082135_9xwI-xGm0GE.png)](https://www.youtube.com/watch?v=9xwI-xGm0GE)[Sergio Pérez: “No Driver Can Survive There” 😬 | F1 Interview 2025](https://www.youtube.com/watch?v=9xwI-xGm0GE) [F1 Pulse](https://www.youtube.com/@F1Pulse2025)
-[![../../assets/images/yt_thumbs/20251031082135_24dfe8q7Aq4.png](../../assets/images/yt_thumbs/20251031082135_24dfe8q7Aq4.png)](https://www.youtube.com/watch?v=24dfe8q7Aq4&t=8s)[Malware of the Future: What an infected system looks like in 2025](https://www.youtube.com/watch?v=24dfe8q7Aq4&t=8s) [PC Security Channel](https://www.youtube.com/@pcsecuritychannel)
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_EiPYgiu8-Hc.png](../../assets/images/yt_thumbs/20251031135832_EiPYgiu8-Hc.png)](https://www.youtube.com/watch?v=EiPYgiu8-Hc&t=976s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[AI is ruining the job market](https://www.youtube.com/watch?v=EiPYgiu8-Hc&t=976s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_b_SNExtznd4.png](../../assets/images/yt_thumbs/20251031135832_b_SNExtznd4.png)](https://www.youtube.com/watch?v=b_SNExtznd4&t=75s)<div><p class="yt-video-channel">Channel – The Daily Show and Ronny Chieng</p><p class="yt-video-title">
+[Ronny Chieng Meets Neo, the World’s Stupidest Robot Maid | The Daily Show](https://www.youtube.com/watch?v=b_SNExtznd4&t=75s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_RkihlUfLG_0.png](../../assets/images/yt_thumbs/20251031135832_RkihlUfLG_0.png)](https://www.youtube.com/watch?v=RkihlUfLG_0)<div><p class="yt-video-channel">Channel – [Walter Masterson](https://www.youtube.com/@waltermasterson)</p><p class="yt-video-title">
+[Trolling ICE Agents in Portland](https://www.youtube.com/watch?v=RkihlUfLG_0)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_QNouXP0cQjM.png](../../assets/images/yt_thumbs/20251031135832_QNouXP0cQjM.png)](https://www.youtube.com/watch?v=QNouXP0cQjM)<div><p class="yt-video-channel">Channel – [Mort](https://www.youtube.com/@mort.animation)</p><p class="yt-video-title">
+[The Most Painful Formula 1 Deaths Ever | Part 2](https://www.youtube.com/watch?v=QNouXP0cQjM)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_BUKleG0N180.png](../../assets/images/yt_thumbs/20251031135832_BUKleG0N180.png)](https://www.youtube.com/watch?v=BUKleG0N180&t=86s)<div><p class="yt-video-channel">Channel – [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)</p><p class="yt-video-title">
+[Are We Going to War?](https://www.youtube.com/watch?v=BUKleG0N180&t=86s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_Z4OpDCF8qME.png](../../assets/images/yt_thumbs/20251031135832_Z4OpDCF8qME.png)](https://www.youtube.com/watch?v=Z4OpDCF8qME&pp=0gcJCQMKAYcqIYzv)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[25 Years Of Legendary F1 Team Radio](https://www.youtube.com/watch?v=Z4OpDCF8qME&pp=0gcJCQMKAYcqIYzv)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_ou9M6rEZZMk.png](../../assets/images/yt_thumbs/20251031135832_ou9M6rEZZMk.png)](https://www.youtube.com/watch?v=ou9M6rEZZMk)<div><p class="yt-video-channel">Channel – [Borko](https://www.youtube.com/@borko2.0)</p><p class="yt-video-title">
+[The Sopranos - Animal Blundetto strikes again and kills Billy "The kid" Leotardo](https://www.youtube.com/watch?v=ou9M6rEZZMk)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_ygxT9Vs8Vr0.png](../../assets/images/yt_thumbs/20251031135832_ygxT9Vs8Vr0.png)](https://www.youtube.com/watch?v=ygxT9Vs8Vr0)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Charles Leclerc: The Ultimate Onboard Collection | Best Onboards | Qatar Airways](https://www.youtube.com/watch?v=ygxT9Vs8Vr0)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_UP_TBaKODlw.png](../../assets/images/yt_thumbs/20251031135832_UP_TBaKODlw.png)](https://www.youtube.com/watch?v=UP_TBaKODlw&t=3s)<div><p class="yt-video-channel">Channel – [Affinity](https://www.youtube.com/@Affinity)</p><p class="yt-video-title">
+[Your first look at the all-new Affinity](https://www.youtube.com/watch?v=UP_TBaKODlw&t=3s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251031135832_CBneTpXF1CQ.png](../../assets/images/yt_thumbs/20251031135832_CBneTpXF1CQ.png)](https://www.youtube.com/watch?v=CBneTpXF1CQ)<div><p class="yt-video-channel">Channel – [Anthropic](https://www.youtube.com/@anthropic-ai)</p><p class="yt-video-title">
+[Claude Code updates: When to use Haiku 4.5, Claude Code on web, and more.](https://www.youtube.com/watch?v=CBneTpXF1CQ)
+</p></div>
+
+</div>
 
 </div>
