@@ -926,6 +926,25 @@ p.yt-video-title a {
   font-size: 1.2em;
 }
 
+/* Mobile layout - stack vertically below 750px */
+@media (max-width: 750px) {
+  div.yt-video {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+  }
+
+  div.yt-video > p:first-child {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  div.yt-video > div {
+    grid-column: 1;
+    grid-row: 2;
+    align-self: start;
+  }
+}
+
 div.yt-history img,
 div.yt-video img,
 div.yt-history p a img,
