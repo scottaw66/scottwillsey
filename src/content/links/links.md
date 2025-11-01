@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-10-29T23:12:19-08:00"
+date: "2025-11-01T13:44:34-08:00"
 slug: "links"
 ---
 
@@ -483,6 +483,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [An Introduction to Uncomplicated Firewall (UFW) - Linux.com](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
 - [Bash printf syntax examples - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/bash-printf-syntax-basics-with-examples)
 - [Beancount Documentation](https://beancount.github.io/docs/index.html)
+- [Ghostty](https://ghostty.org/)
 - [GREP](https://www.panix.com/%7Eelflord/unix/grep.html)
 - [mess with dns](https://messwithdns.net/)
 - [Minimal Debian Install on a Headless pi | Notes and Ramblings](https://notes.1705.net/posts/debian-on-a-pi/)
@@ -490,12 +491,15 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](https://www.regular-expressions.info/)
 - [sed & awk](https://docstore.mik.ua/orelly/unix/sedawk/)
 - [sed](https://www.panix.com/%7Eelflord/unix/sed.html)
+- [Starship](https://starship.rs)
 - [The Complete Guide to Cron and Launchd on macOS/Linux | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 - [tildeverse](https://tildeverse.org/)
 - [Understanding PAM - Linux.com](https://www.linux.com/news/understanding-pam/)
+- [vim-plug](https://github.com/junegunn/vim-plug)
 - [Warp | The intelligent terminal](https://www.warp.dev/e)
 - [Wireshark · OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html)
+- [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 
 ## Cool Sites Archive
 

@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-11-01T13:21:06-08:00"
+date: "2025-11-01T13:44:34-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -50,6 +50,7 @@ slug: "uses"
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [vim-plug](https://github.com/junegunn/vim-plug)
+- [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 
 ### Browsers and Bookmarks
 
