@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-01T13:44:34-08:00"
+date: "2025-11-01T16:15:04-08:00"
 slug: "links"
 ---
 
@@ -328,11 +328,14 @@ I just found Matt's blog today when he answered Molly White's [call for blogs](h
 **[mb bischoff](https://mbbischoff.com/)**  
 Designer, developer, blogger, Lickability. It's all good stuff.  
 
+**[meyerweb.com](https://meyerweb.com/)**  
+Another site with unique and beautiful design. And it's all about web-related topics, so you'll love that too.  
+
 **[Miriam Eric Suzanne](https://www.miriamsuzanne.com/)**  
 Miriam Eric Suzanne writes about the web and CSS. I can't remember where I first saw Miriam speaking, but it was either in the context of the W3C CSS working group or SASS.  
 
-**[meyerweb.com](https://meyerweb.com/)**  
-Another site with unique and beautiful design. And it's all about web-related topics, so you'll love that too.  
+**[Mitchell Hashimoto – Writing](https://mitchellh.com/writing)**  
+Mitchel Hashimoto is the creator of [Ghostty](https://ghostty.org/) and also a proponent of the [Zig programming language](https://ziglang.org), so he's always got something interesting to say.  
 
 **[Blog – Nathan Knowler](https://knowler.dev/blog)**  
 I just started reading this blog, but anything about web development is always of interest and use to me.  
