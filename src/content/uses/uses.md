@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-10-21T21:10:39-08:00"
+date: "2025-11-01T13:21:06-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -38,6 +38,7 @@ slug: "uses"
 - [EchoFeed](https://echofeed.app/)
 - [FastScripts 3](https://redsweater.com/fastscripts/)
 - [Front and Center](https://apps.apple.com/us/app/front-and-center/id1493996622?mt=12)
+- [Ghostty](https://ghostty.org/)
 - [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
@@ -45,9 +46,10 @@ slug: "uses"
 - [Rectangle Pro](https://rectangleapp.com/pro)
 - [Shortcutie — Sindre Sorhus](https://sindresorhus.com/shortcutie)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
+- [Starship](https://starship.rs)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
-- [Warp: Your terminal, reimagined](https://www.warp.dev/)
+- [vim-plug](https://github.com/junegunn/vim-plug)
 
 ### Browsers and Bookmarks
 
@@ -104,6 +106,7 @@ slug: "uses"
 
 - [BackLog - Eternal Storms Software](https://eternalstorms.at/backlog/)
 - [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
+- [Ghostty](https://ghostty.org/)
 - [Kaleidoscope | Git Diff and Merge Tool and Text Comparison](https://kaleidoscope.app/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
