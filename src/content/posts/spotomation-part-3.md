@@ -80,4 +80,4 @@ There are some idiosyncrasies to the Snippety UI that are minor annoyances to me
 
 Check it out at <https://snippety.app> if you're in the market for a good snippet and text expander app, whether you're coming from Raycast or not. I think you'll wonder why no one is really talking about this app.
 
-[^1]: Total sideshow here, but holy cow how far the original TextExpander fallen. I'm not even going to do it the favor of linking to it. You can take the time if you're really that bored.
+[^1]: Total sideshow here, but holy cow how far the original has TextExpander fallen. I'm not even going to do it the favor of linking to it. You can take the time if you're really that bored.
