@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-01T16:15:04-08:00"
+date: "2025-11-02T11:24:26-08:00"
 slug: "links"
 ---
 
@@ -219,6 +219,9 @@ Craig Mod is a writer and photographer and *really* thoughtful guy. The fact tha
 
 **[David Amador](https://www.david-amador.com/)**  
 Lots of gaming stuff here which is pretty cool.  
+
+**[Blog – David Bushell – Freelance Web Development (UK)](https://dbushell.com/blog/)**  
+I think I found David's site while doing searches for Ghostty keybinding examples. Lots of interesting stuff here, coupled with beautiful design.  
 
 **[davidnelson.net](https://davidnelson.net/)**  
 David Nelson. What a nice man. I enjoy his thoughts on life in general. He's in the Apple world, but he's also a nice, level-headed adult who I greatly enjoy talking with.  
