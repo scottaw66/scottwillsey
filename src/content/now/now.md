@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-02T11:24:26-08:00"
+date: "2025-11-02T14:52:16-08:00"
 slug: "now"
 ---
 
@@ -44,7 +44,15 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_3I6LKaoldCE.png](../../assets/images/yt_thumbs/20251102111909_3I6LKaoldCE.png)](https://www.youtube.com/watch?v=3I6LKaoldCE&t=5s)<div><p class="yt-video-channel">Channel – [MegLog from TOKYO](https://www.youtube.com/@MegLog_JAPAN)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_-J5KcXdqlQw.png](../../assets/images/yt_thumbs/20251102145007_-J5KcXdqlQw.png)](https://www.youtube.com/watch?v=-J5KcXdqlQw&t=4s)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[I Bought 5 Japanese Akiya Houses in One Year. Here is What I Learned.](https://www.youtube.com/watch?v=-J5KcXdqlQw&t=4s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251102145007_3I6LKaoldCE.png](../../assets/images/yt_thumbs/20251102145007_3I6LKaoldCE.png)](https://www.youtube.com/watch?v=3I6LKaoldCE&t=5s)<div><p class="yt-video-channel">Channel – [MegLog from TOKYO](https://www.youtube.com/@MegLog_JAPAN)</p><p class="yt-video-title">
 [JAPAN HAS CHANGED | TOP 9 New Things to Know Before Traveling to Japan 2025](https://www.youtube.com/watch?v=3I6LKaoldCE&t=5s)
 </p></div>
 
@@ -52,7 +60,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_0yG29a8Ghrs.png](../../assets/images/yt_thumbs/20251102111909_0yG29a8Ghrs.png)](https://www.youtube.com/watch?v=0yG29a8Ghrs&t=67s)<div><p class="yt-video-channel">Channel – [Gumi – daily life in Japan](https://www.youtube.com/@gumi-japan)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_0yG29a8Ghrs.png](../../assets/images/yt_thumbs/20251102145007_0yG29a8Ghrs.png)](https://www.youtube.com/watch?v=0yG29a8Ghrs&t=67s)<div><p class="yt-video-channel">Channel – [Gumi – daily life in Japan](https://www.youtube.com/@gumi-japan)</p><p class="yt-video-title">
 [Payday in Japan 🇯🇵 How a 31-Year-Old Japanese Woman Really Spends It｜Vlog](https://www.youtube.com/watch?v=0yG29a8Ghrs&t=67s)
 </p></div>
 
@@ -60,7 +68,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_SYi9uzSvhQc.png](../../assets/images/yt_thumbs/20251102111909_SYi9uzSvhQc.png)](https://www.youtube.com/watch?v=SYi9uzSvhQc)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_SYi9uzSvhQc.png](../../assets/images/yt_thumbs/20251102145007_SYi9uzSvhQc.png)](https://www.youtube.com/watch?v=SYi9uzSvhQc)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
 [February Payday Routine｜My salary and Japanese salaries｜A lonely Japanese father Night｜Japan VLOG](https://www.youtube.com/watch?v=SYi9uzSvhQc)
 </p></div>
 
@@ -68,7 +76,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_G5iA0SNbU9w.png](../../assets/images/yt_thumbs/20251102111909_G5iA0SNbU9w.png)](https://www.youtube.com/watch?v=G5iA0SNbU9w)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_G5iA0SNbU9w.png](../../assets/images/yt_thumbs/20251102145007_G5iA0SNbU9w.png)](https://www.youtube.com/watch?v=G5iA0SNbU9w)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
 [Daily Routine of a lonely Japanese man｜I'm struggling at work and at home and is addicted to alcohol](https://www.youtube.com/watch?v=G5iA0SNbU9w)
 </p></div>
 
@@ -76,7 +84,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_Rx68PaNiMTY.png](../../assets/images/yt_thumbs/20251102111909_Rx68PaNiMTY.png)](https://www.youtube.com/watch?v=Rx68PaNiMTY)<div><p class="yt-video-channel">Channel – [MeidasTouch](https://www.youtube.com/@MeidasTouch)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_Rx68PaNiMTY.png](../../assets/images/yt_thumbs/20251102145007_Rx68PaNiMTY.png)](https://www.youtube.com/watch?v=Rx68PaNiMTY)<div><p class="yt-video-channel">Channel – [MeidasTouch](https://www.youtube.com/@MeidasTouch)</p><p class="yt-video-title">
 [Trump term COLLAPSES as Military Leaders FINALLY TURN ON HIM](https://www.youtube.com/watch?v=Rx68PaNiMTY)
 </p></div>
 
@@ -84,7 +92,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_2Z_VASmUPi0.png](../../assets/images/yt_thumbs/20251102111909_2Z_VASmUPi0.png)](https://www.youtube.com/watch?v=2Z_VASmUPi0)<div><p class="yt-video-channel">Channel – THE RACE and 2 more</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_2Z_VASmUPi0.png](../../assets/images/yt_thumbs/20251102145007_2Z_VASmUPi0.png)](https://www.youtube.com/watch?v=2Z_VASmUPi0)<div><p class="yt-video-channel">Channel – THE RACE and 2 more</p><p class="yt-video-title">
 [Stay on Track - New F1 Podcast with Damon Hill and Johnny Herbert!](https://www.youtube.com/watch?v=2Z_VASmUPi0)
 </p></div>
 
@@ -92,7 +100,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909__P1b00n12PU.png](../../assets/images/yt_thumbs/20251102111909__P1b00n12PU.png)](https://www.youtube.com/watch?v=_P1b00n12PU)<div><p class="yt-video-channel">Channel – [Raycast](https://www.youtube.com/@raycastapp)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007__P1b00n12PU.png](../../assets/images/yt_thumbs/20251102145007__P1b00n12PU.png)](https://www.youtube.com/watch?v=_P1b00n12PU)<div><p class="yt-video-channel">Channel – [Raycast](https://www.youtube.com/@raycastapp)</p><p class="yt-video-title">
 [All About Raycast Snippets: Stop Repeating Yourself!](https://www.youtube.com/watch?v=_P1b00n12PU)
 </p></div>
 
@@ -100,7 +108,7 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_7Jon_cAK_to.png](../../assets/images/yt_thumbs/20251102111909_7Jon_cAK_to.png)](https://www.youtube.com/watch?v=7Jon_cAK_to&t=17s)<div><p class="yt-video-channel">Channel – [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_7Jon_cAK_to.png](../../assets/images/yt_thumbs/20251102145007_7Jon_cAK_to.png)](https://www.youtube.com/watch?v=7Jon_cAK_to&t=17s)<div><p class="yt-video-channel">Channel – [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)</p><p class="yt-video-title">
 [so i tried ghostty...](https://www.youtube.com/watch?v=7Jon_cAK_to&t=17s)
 </p></div>
 
@@ -108,16 +116,8 @@ All told, I wound up setting up [Ghostty](https://ghostty.org/), [Starship](http
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251102111909_95Cz1uTK6eo.png](../../assets/images/yt_thumbs/20251102111909_95Cz1uTK6eo.png)](https://www.youtube.com/watch?v=95Cz1uTK6eo&t=13s)<div><p class="yt-video-channel">Channel – [Adib Hanna](https://www.youtube.com/@adibhanna)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251102145007_95Cz1uTK6eo.png](../../assets/images/yt_thumbs/20251102145007_95Cz1uTK6eo.png)](https://www.youtube.com/watch?v=95Cz1uTK6eo&t=13s)<div><p class="yt-video-channel">Channel – [Adib Hanna](https://www.youtube.com/@adibhanna)</p><p class="yt-video-title">
 [Terminal Development Environment: Part 1 - Ghostty](https://www.youtube.com/watch?v=95Cz1uTK6eo&t=13s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251102111909_0vFErGxD2QY.png](../../assets/images/yt_thumbs/20251102111909_0vFErGxD2QY.png)](https://www.youtube.com/watch?v=0vFErGxD2QY&t=32s)<div><p class="yt-video-channel">Channel – [Dave2D](https://www.youtube.com/@Dave2D)</p><p class="yt-video-title">
-[The WEiRDEST Way to Use a Mac](https://www.youtube.com/watch?v=0vFErGxD2QY&t=32s)
 </p></div>
 
 </div>
