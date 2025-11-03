@@ -4,14 +4,10 @@
   "description": "Astro 3 version of ScottWillsey.com",
   "scripts": {
     "dev": "export NODE_ENV=development && astro dev",
-    "dev:h": "export NODE_ENV=development && astro dev --host",
     "start": "npm run dev",
-    "start:h": "npm run dev:h",
-    "build": "export NODE_ENV=production && astro build",
-    "build:p": "npm run build && npm run preview",
-    "build:ph": "npm run build && npm run preview:h",
-    "preview": "astro preview",
-    "preview:h": "astro preview --host"
+    "build": "export NODE_ENV=production && astro build && /Users/scott/Scripts/scottwillsey/update-site/update-site.sh",
+    "buildp": "npm run build && npm run preview",
+    "preview": "astro preview"
   },
   "repository": {
     "type": "git",
