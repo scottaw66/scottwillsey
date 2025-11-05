@@ -517,9 +517,9 @@ svg#menu-timer-icon {
 }
 svg#menu-review-icon {
   fill: var(--brand);
-  width: 1.25em;
-  height: 1.25em;
-  margin-bottom: 0.1em;
+  width: 1.4em;
+  height: 1.4em;
+  /* margin-bottom: 0.1em; */
 }
 svg#menu-info-icon {
   fill: var(--accent-purple);
