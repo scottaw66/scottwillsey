@@ -1,11 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-07T10:54:56-08:00"
+date: "2025-11-07T11:17:03-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
+
+I've made some tweaks to my site update scripts and my site build scripts. Everything automatically uploads to my server upon site build now, and the update scripts for various media histories on this /now page directly edit the /now page so there's even less for me to do now. Also, I can generate little thumbnails for food related links now.
 
 If you want to collaborate on any writing projects along the lines of things I write on this site, or if you want to inquire about IT/Computing services for your small to medium-sized business, get in touch on [Mastodon](https://social.lol/@scottwillsey) or [BlueSky](https://bsky.app/profile/scottwillsey.com)! I'm open for work possibilities.
 
@@ -42,7 +44,15 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_a3uMv1S-1tM.png](../../assets/images/yt_thumbs/20251107025250_a3uMv1S-1tM.png)](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)<div><p class="yt-video-channel">Channel – [Ali H. Salem](https://www.youtube.com/@Ali.H.Salem1)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_VUyib5mR8Pg.png](../../assets/images/yt_thumbs/20251107110617_VUyib5mR8Pg.png)](https://www.youtube.com/watch?v=VUyib5mR8Pg)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Anthropic can’t help themselves…](https://www.youtube.com/watch?v=VUyib5mR8Pg)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251107110617_a3uMv1S-1tM.png](../../assets/images/yt_thumbs/20251107110617_a3uMv1S-1tM.png)](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)<div><p class="yt-video-channel">Channel – [Ali H. Salem](https://www.youtube.com/@Ali.H.Salem1)</p><p class="yt-video-title">
 [Claude Skills Explained: Beginner to Advanced Tutorial](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)
 </p></div>
 
@@ -50,7 +60,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_NHiKC96HU24.png](../../assets/images/yt_thumbs/20251107025250_NHiKC96HU24.png)](https://www.youtube.com/watch?v=NHiKC96HU24)<div><p class="yt-video-channel">Channel – [Savvy Nomad](https://www.youtube.com/@savvynomadio)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_NHiKC96HU24.png](../../assets/images/yt_thumbs/20251107110617_NHiKC96HU24.png)](https://www.youtube.com/watch?v=NHiKC96HU24)<div><p class="yt-video-channel">Channel – [Savvy Nomad](https://www.youtube.com/@savvynomadio)</p><p class="yt-video-title">
 [Trump's 2025 Tax Law: What Expats Need to Know](https://www.youtube.com/watch?v=NHiKC96HU24)
 </p></div>
 
@@ -58,7 +68,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_v9Rd_l6gLjU.png](../../assets/images/yt_thumbs/20251107025250_v9Rd_l6gLjU.png)](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_v9Rd_l6gLjU.png](../../assets/images/yt_thumbs/20251107110617_v9Rd_l6gLjU.png)](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
 [Gemini Designer is INSANE... Build Beautiful Websites in Minutes](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)
 </p></div>
 
@@ -66,7 +76,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_n54w51y2BEo.png](../../assets/images/yt_thumbs/20251107025250_n54w51y2BEo.png)](https://www.youtube.com/watch?v=n54w51y2BEo)<div><p class="yt-video-channel">Channel – [CBS LA](https://www.youtube.com/@CBSLA)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_n54w51y2BEo.png](../../assets/images/yt_thumbs/20251107110617_n54w51y2BEo.png)](https://www.youtube.com/watch?v=n54w51y2BEo)<div><p class="yt-video-channel">Channel – [CBS LA](https://www.youtube.com/@CBSLA)</p><p class="yt-video-title">
 [2 passenger planes nearly collide shortly after taking off from LAX](https://www.youtube.com/watch?v=n54w51y2BEo)
 </p></div>
 
@@ -74,7 +84,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_dSjWFlbxTLg.png](../../assets/images/yt_thumbs/20251107025250_dSjWFlbxTLg.png)](https://www.youtube.com/watch?v=dSjWFlbxTLg)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_dSjWFlbxTLg.png](../../assets/images/yt_thumbs/20251107110617_dSjWFlbxTLg.png)](https://www.youtube.com/watch?v=dSjWFlbxTLg)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
 [Brutally Honest Truths About Buying Property in Japan](https://www.youtube.com/watch?v=dSjWFlbxTLg)
 </p></div>
 
@@ -82,7 +92,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_IwQYVQ3MohE.png](../../assets/images/yt_thumbs/20251107025250_IwQYVQ3MohE.png)](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_IwQYVQ3MohE.png](../../assets/images/yt_thumbs/20251107110617_IwQYVQ3MohE.png)](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
 [AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)
 </p></div>
 
@@ -90,7 +100,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_JqmkB3bby8s.png](../../assets/images/yt_thumbs/20251107025250_JqmkB3bby8s.png)](https://www.youtube.com/watch?v=JqmkB3bby8s)<div><p class="yt-video-channel">Channel – [blancolirio](https://www.youtube.com/@blancolirio)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_JqmkB3bby8s.png](../../assets/images/yt_thumbs/20251107110617_JqmkB3bby8s.png)](https://www.youtube.com/watch?v=JqmkB3bby8s)<div><p class="yt-video-channel">Channel – [blancolirio](https://www.youtube.com/@blancolirio)</p><p class="yt-video-title">
 [UPS #2976 UPDATE 2 6 Nov 2025](https://www.youtube.com/watch?v=JqmkB3bby8s)
 </p></div>
 
@@ -98,7 +108,7 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_gIIjGtz-SdA.png](../../assets/images/yt_thumbs/20251107025250_gIIjGtz-SdA.png)](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_gIIjGtz-SdA.png](../../assets/images/yt_thumbs/20251107110617_gIIjGtz-SdA.png)](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
 [Lewis Hamilton: The Ultimate Onboard Collection | Best Onboards | Qatar Airways](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)
 </p></div>
 
@@ -106,16 +116,8 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107025250_BOy4ZMd01m8.png](../../assets/images/yt_thumbs/20251107025250_BOy4ZMd01m8.png)](https://www.youtube.com/watch?v=BOy4ZMd01m8)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251107110617_BOy4ZMd01m8.png](../../assets/images/yt_thumbs/20251107110617_BOy4ZMd01m8.png)](https://www.youtube.com/watch?v=BOy4ZMd01m8)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
 [United Jet OVERRUNS Runway After Captain Ignores FO Warnings](https://www.youtube.com/watch?v=BOy4ZMd01m8)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251107025250_eidb6IqQCRU.png](../../assets/images/yt_thumbs/20251107025250_eidb6IqQCRU.png)](https://www.youtube.com/watch?v=eidb6IqQCRU)<div><p class="yt-video-channel">Channel – [Max Afterburner](https://www.youtube.com/@MaxAfterburnerusa)</p><p class="yt-video-title">
-[Airline Pilot Exposes CRITICAL FLAW of UPS 2976 DISASTER](https://www.youtube.com/watch?v=eidb6IqQCRU)
 </p></div>
 
 </div>
