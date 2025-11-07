@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-04T19:02:15-08:00"
+date: "2025-11-07T03:01:13-08:00"
 slug: "now"
 ---
 
@@ -42,82 +42,91 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_ck9X7AhslGQ.png](../../assets/images/yt_thumbs/20251104185201_ck9X7AhslGQ.png)](https://www.youtube.com/watch?v=ck9X7AhslGQ&t=1s)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[LIVE ELECTION UPDATES](https://www.youtube.com/watch?v=ck9X7AhslGQ&t=1s)
+[![../../assets/images/yt_thumbs/20251107025250_a3uMv1S-1tM.png](../../assets/images/yt_thumbs/20251107025250_a3uMv1S-1tM.png)](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)<div><p class="yt-video-channel">Channel – [Ali H. Salem](https://www.youtube.com/@Ali.H.Salem1)</p><p class="yt-video-title">
+[Claude Skills Explained: Beginner to Advanced Tutorial](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_VPREaHxh1Ks.png](../../assets/images/yt_thumbs/20251104185201_VPREaHxh1Ks.png)](https://www.youtube.com/watch?v=VPREaHxh1Ks)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
-[What 13,000 Foreigners Taught Us About Buying Homes in Japan](https://www.youtube.com/watch?v=VPREaHxh1Ks)
+[![../../assets/images/yt_thumbs/20251107025250_NHiKC96HU24.png](../../assets/images/yt_thumbs/20251107025250_NHiKC96HU24.png)](https://www.youtube.com/watch?v=NHiKC96HU24)<div><p class="yt-video-channel">Channel – [Savvy Nomad](https://www.youtube.com/@savvynomadio)</p><p class="yt-video-title">
+[Trump's 2025 Tax Law: What Expats Need to Know](https://www.youtube.com/watch?v=NHiKC96HU24)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_dVyfkdAqkBA.png](../../assets/images/yt_thumbs/20251104185201_dVyfkdAqkBA.png)](https://www.youtube.com/watch?v=dVyfkdAqkBA)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[Trump press sec STUMBLES over ELECTION Nightmare](https://www.youtube.com/watch?v=dVyfkdAqkBA)
+[![../../assets/images/yt_thumbs/20251107025250_v9Rd_l6gLjU.png](../../assets/images/yt_thumbs/20251107025250_v9Rd_l6gLjU.png)](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
+[Gemini Designer is INSANE... Build Beautiful Websites in Minutes](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_X9fXe4JcW20.png](../../assets/images/yt_thumbs/20251104185201_X9fXe4JcW20.png)](https://www.youtube.com/watch?v=X9fXe4JcW20)<div><p class="yt-video-channel">Channel – [BradyStudiesJapanese](https://www.youtube.com/@BradyStudiesJapanese)</p><p class="yt-video-title">
-[Japanese doesn’t have an alphabet…? 🤔 #learnjapanese #japanese #nihongo](https://www.youtube.com/watch?v=X9fXe4JcW20)
+[![../../assets/images/yt_thumbs/20251107025250_n54w51y2BEo.png](../../assets/images/yt_thumbs/20251107025250_n54w51y2BEo.png)](https://www.youtube.com/watch?v=n54w51y2BEo)<div><p class="yt-video-channel">Channel – [CBS LA](https://www.youtube.com/@CBSLA)</p><p class="yt-video-title">
+[2 passenger planes nearly collide shortly after taking off from LAX](https://www.youtube.com/watch?v=n54w51y2BEo)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_7Q5DBhxm6XI.png](../../assets/images/yt_thumbs/20251104185201_7Q5DBhxm6XI.png)](https://www.youtube.com/watch?v=7Q5DBhxm6XI)<div><p class="yt-video-channel">Channel – [Disasterthon - True Horror](https://www.youtube.com/@DisasterthonTrueHorror)</p><p class="yt-video-title">
-[Fatal Stunt | Man Chopped In Half During Car Jump](https://www.youtube.com/watch?v=7Q5DBhxm6XI)
+[![../../assets/images/yt_thumbs/20251107025250_dSjWFlbxTLg.png](../../assets/images/yt_thumbs/20251107025250_dSjWFlbxTLg.png)](https://www.youtube.com/watch?v=dSjWFlbxTLg)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[Brutally Honest Truths About Buying Property in Japan](https://www.youtube.com/watch?v=dSjWFlbxTLg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_uBf76MZSGfc.png](../../assets/images/yt_thumbs/20251104185201_uBf76MZSGfc.png)](https://www.youtube.com/watch?v=uBf76MZSGfc)<div><p class="yt-video-channel">Channel – [Kaname Naito](https://www.youtube.com/@kanamenaito)</p><p class="yt-video-title">
-[Particle が](https://www.youtube.com/watch?v=uBf76MZSGfc)
+[![../../assets/images/yt_thumbs/20251107025250_IwQYVQ3MohE.png](../../assets/images/yt_thumbs/20251107025250_IwQYVQ3MohE.png)](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_vlaRSZg9r5I.png](../../assets/images/yt_thumbs/20251104185201_vlaRSZg9r5I.png)](https://www.youtube.com/watch?v=vlaRSZg9r5I)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
-[The Real Routine of a Japanese Salaryman working in Tokyo, Japan｜Japan VLOG](https://www.youtube.com/watch?v=vlaRSZg9r5I)
+[![../../assets/images/yt_thumbs/20251107025250_JqmkB3bby8s.png](../../assets/images/yt_thumbs/20251107025250_JqmkB3bby8s.png)](https://www.youtube.com/watch?v=JqmkB3bby8s)<div><p class="yt-video-channel">Channel – [blancolirio](https://www.youtube.com/@blancolirio)</p><p class="yt-video-title">
+[UPS #2976 UPDATE 2 6 Nov 2025](https://www.youtube.com/watch?v=JqmkB3bby8s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_Xb5WJ-HN4_o.png](../../assets/images/yt_thumbs/20251104185201_Xb5WJ-HN4_o.png)](https://www.youtube.com/watch?v=Xb5WJ-HN4_o)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
-[Daily Routine of a lonely Japanese father whose wife hates him｜shopping after work｜Japan VLOG](https://www.youtube.com/watch?v=Xb5WJ-HN4_o)
+[![../../assets/images/yt_thumbs/20251107025250_gIIjGtz-SdA.png](../../assets/images/yt_thumbs/20251107025250_gIIjGtz-SdA.png)](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Lewis Hamilton: The Ultimate Onboard Collection | Best Onboards | Qatar Airways](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_V9AGTIK26gg.png](../../assets/images/yt_thumbs/20251104185201_V9AGTIK26gg.png)](https://www.youtube.com/watch?v=V9AGTIK26gg&t=162s)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[NO ONE KNOWS ANYTHING ABOUT THIS?!](https://www.youtube.com/watch?v=V9AGTIK26gg&t=162s)
+[![../../assets/images/yt_thumbs/20251107025250_BOy4ZMd01m8.png](../../assets/images/yt_thumbs/20251107025250_BOy4ZMd01m8.png)](https://www.youtube.com/watch?v=BOy4ZMd01m8)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[United Jet OVERRUNS Runway After Captain Ignores FO Warnings](https://www.youtube.com/watch?v=BOy4ZMd01m8)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251104185201_XKkA0LAw1jQ.png](../../assets/images/yt_thumbs/20251104185201_XKkA0LAw1jQ.png)](https://www.youtube.com/watch?v=XKkA0LAw1jQ)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
-[This Foreigner Couple Bought a House in Shibuya](https://www.youtube.com/watch?v=XKkA0LAw1jQ)
+[![../../assets/images/yt_thumbs/20251107025250_eidb6IqQCRU.png](../../assets/images/yt_thumbs/20251107025250_eidb6IqQCRU.png)](https://www.youtube.com/watch?v=eidb6IqQCRU)<div><p class="yt-video-channel">Channel – [Max Afterburner](https://www.youtube.com/@MaxAfterburnerusa)</p><p class="yt-video-title">
+[Airline Pilot Exposes CRITICAL FLAW of UPS 2976 DISASTER](https://www.youtube.com/watch?v=eidb6IqQCRU)
 </p></div>
 
 </div>
+
+</div>
+
+### Food
+
+<div class="food">
+
+[![HANSIK TOWN | korean food beaverton | 20537 Southwest Tualatin Valley Highway, Beaverton, OR, USA](../../assets/images/food_thumbs/HansikTown-C6B05851-B94A-4A4F-A9F9-7C3DC32F8BF0.png)](https://www.hansiktown.com) [HANSIK TOWN | korean food beaverton | 20537 Southwest Tualatin Valley Highway, Beaverton, OR, USA](https://www.hansiktown.com)
+[![Dine In, Take Out, Delivery | Kinboshi Ramen - Portland Oregon](../../assets/images/food_thumbs/KinboshiRamen-0DBD227E-9074-4800-808C-070DDBE3215A.png)](https://www.kinboshiramen.com) [Dine In, Take Out, Delivery | Kinboshi Ramen - Portland Oregon](https://www.kinboshiramen.com)
 
 </div>

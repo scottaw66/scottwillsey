@@ -841,11 +841,13 @@ div.review p a img {
 }
 
 div.podcast-episodes,
-div.yt-history {
+div.yt-history,
+div.food {
   margin: 0 2em;
   font-size: 0.9em;
 }
-div.podcast-episodes p {
+div.podcast-episodes p,
+div.food p {
   display: grid;
   grid-template-columns: 70px 1fr;
   column-gap: 10px;
@@ -861,6 +863,18 @@ div.podcast-episodes p a img {
   margin: 2px 0;
   border: 0;
 }
+div.food p {
+  grid-template-columns: 125px 1fr;
+  row-gap: 10px;
+}
+div.food img,
+div.food p a img {
+  width: 100px;
+  height: 100px;
+  margin: 2px 0;
+  border: 0;
+}
+
 /* Each video - yt-video is the grid container with 2 columns */
 div.yt-video {
   display: grid;
