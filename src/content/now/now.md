@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-07T03:01:13-08:00"
+date: "2025-11-07T10:54:56-08:00"
 slug: "now"
 ---
 
@@ -16,16 +16,16 @@ If you want to collaborate on any writing projects along the lines of things I w
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-![People Are Modding Meta Ray-Bans to Spy On You](../../assets/images/oc_artwork/5121671819842705-ab5e0a42-d377-42ba-ae69-d37533b4e873.png) The 404 Media Podcast (Premium Feed) – People Are Modding Meta Ray-Bans to Spy On You
-[![Social Media Is Always Changing](../../assets/images/oc_artwork/266500353388290-9a534f56-7a34-4974-a88b-480d5afba337.png)](https://overcast.fm/+DyYXLlbwI) [Techdirt – Social Media Is Always Changing](https://overcast.fm/+DyYXLlbwI)
-![11/4/25: MAGA set to lose everything as CBS doctors Trump interview](../../assets/images/oc_artwork/5771695000726676-f3fe8e3d-d329-4b73-84e4-cc9942622ad3.png) David Pakman Member Feed – 11/4/25: MAGA set to lose everything as CBS doctors Trump interview
-![11/4/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771695007737997-0a17508c-5bd5-43e5-9fe9-ac20fe5666cb.png) David Pakman Member Feed – 11/4/25: TDPS Bonus Show
-[![Your smart home questions, answered](../../assets/images/oc_artwork/5816342962207508-1d9bf0e8-f299-4f66-8da6-ca1631d62067.png)](https://overcast.fm/+BSp7uAnexQ) [The Vergecast: Ad-Free Edition – Your smart home questions, answered](https://overcast.fm/+BSp7uAnexQ)
-[![134: Laphroaig 10 Year Old Single Malt Whisky](../../assets/images/oc_artwork/5287026843466735-7dd747f7-31c9-472b-bebc-6aef2cb9899f.png)](https://overcast.fm/+BLIhdzsO-8) [Whisky Whiskey – 134: Laphroaig 10 Year Old Single Malt Whisky](https://overcast.fm/+BLIhdzsO-8)
-[![Retroid Design Controversy and More on Thor](../../assets/images/oc_artwork/5131277423918477-0e3cecf3-3e8b-4b4e-b266-6673d9414a63.png)](https://overcast.fm/+BI63qAYvY0) [NPC: Next Portable Console – Retroid Design Controversy and More on Thor](https://overcast.fm/+BI63qAYvY0)
-[![maybe ICEBlock was ‘activism theater,’ but is banning it protecting us?](../../assets/images/oc_artwork/3986960172423308-3bb14f91-5643-46fb-b3bb-567f6227d5f7.png)](https://overcast.fm/+4qHoDPmIw) [kill switch – maybe ICEBlock was ‘activism theater,’ but is banning it protecting us?](https://overcast.fm/+4qHoDPmIw)
-![F1 Extra: Is F1 2010 being repeated, and how would a standout rookie be doing at McLaren?](../../assets/images/oc_artwork/5523677441659316-4b96ad24-4acd-4987-a80e-f392f1f641b7.png) The Race F1 Podcast (Members) – F1 Extra: Is F1 2010 being repeated, and how would a standout rookie be doing at McLaren?
-[![NC #1069 Unite is Accessible, Shell Script for Rounded Border Screenshots, Shure MV7+ by Eddie, Nits with Allister Jenks](../../assets/images/oc_artwork/5142865181990547-b2150cbe-3839-4987-b0ea-f7846ff3d7b8.png)](https://overcast.fm/+BJFaJxM3pM) [NosillaCast Apple Podcast – NC #1069 Unite is Accessible, Shell Script for Rounded Border Screenshots, Shure MV7+ by Eddie, Nits with Allister Jenks](https://overcast.fm/+BJFaJxM3pM)
+[![WIRED Roundup: Zuckerberg’s Illegal School, Nepal’s Discord Revolution, Fandom in Politics](../../assets/images/oc_artwork/4904748007347642-19892cac-4647-4e83-bf5a-33215511ddae.png)](https://overcast.fm/+BFs16Kw1bo) [Uncanny Valley | WIRED – WIRED Roundup: Zuckerberg’s Illegal School, Nepal’s Discord Revolution, Fandom in Politics](https://overcast.fm/+BFs16Kw1bo)
+![A Massive Archiving Effort at National Parks (with Jenny McBurney and Lynda Kellam)](../../assets/images/oc_artwork/5121671690351876-84b88e65-2f04-48fb-9e74-884335ba13f2.png) The 404 Media Podcast (Premium Feed) – A Massive Archiving Effort at National Parks (with Jenny McBurney and Lynda Kellam)
+[![New Blocks On The Kids](../../assets/images/oc_artwork/5015286895208772-ecfc6e90-47e1-4070-99cf-ccd3a01266ac.png)](https://overcast.fm/+BHRYHnV6UQ) [Ctrl-Alt-Speech – New Blocks On The Kids](https://overcast.fm/+BHRYHnV6UQ)
+![In-Car Insights: Edd and Jon on a Newey-led shake-up and day one at the Brazilian GP](../../assets/images/oc_artwork/5523677521910763-9fdfe0fc-d67f-4425-b48b-c937135846cd.png) The Race F1 Podcast (Members) – In-Car Insights: Edd and Jon on a Newey-led shake-up and day one at the Brazilian GP
+![11/6/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694811898938-3c378c5e-5495-4aa4-932f-ef34580d1e40.png) David Pakman Member Feed – 11/6/25: TDPS Bonus Show
+[![664: Humanity Gets in the Way](../../assets/images/oc_artwork/5585879252778692-3e1aab85-3fa6-4f2e-a57b-0596d2a2d2e0.png)](https://overcast.fm/+BPYU9yevsQ) [Accidental Tech Podcast: Unedited Live Stream – 664: Humanity Gets in the Way](https://overcast.fm/+BPYU9yevsQ)
+[![Shut Your Payhole](../../assets/images/oc_artwork/1698966292735125-4c25b0da-85ee-4613-9bc8-6236ebe1e76e.png)](https://overcast.fm/+YJM2pdJJU) [Judge John Hodgman – Shut Your Payhole](https://overcast.fm/+YJM2pdJJU)
+![11/5/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694385485978-73ca4a9e-5c93-4277-89d9-0e1c6ccbe9f3.png) David Pakman Member Feed – 11/5/25: TDPS Bonus Show
+![Can Verstappen provide another title twist in Brazil? (ad-free)](../../assets/images/oc_artwork/5523677588864673-9e636ad8-f724-4069-b768-fcaabbd9d6d5.png) The Race F1 Podcast (Members) – Can Verstappen provide another title twist in Brazil? (ad-free)
+[![The Bulwark’s Sarah Longwell on Why Republicans Won the Attention War](../../assets/images/oc_artwork/1138929893071820-5b7de808-df04-45de-ad83-cf4ab976f0a0.png)](https://overcast.fm/+QL2cezW8w) [Channels with Peter Kafka – The Bulwark’s Sarah Longwell on Why Republicans Won the Attention War](https://overcast.fm/+QL2cezW8w)
 
 </div>
 
