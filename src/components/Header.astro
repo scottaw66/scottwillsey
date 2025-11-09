@@ -30,7 +30,7 @@ import av from "../assets/images/saw111.jpg";
     align-items: center;
     justify-content: space-between;
     margin: 1rem auto 2.5rem;
-    color: var(--brand);
+    color: var(--title);
     width: 100%;
   }
 
@@ -59,6 +59,7 @@ import av from "../assets/images/saw111.jpg";
   .header div.header-nihongo .subtitle {
     transform: rotate(-5deg);
     display: inline-block;
+    color: var(--text1);
   }
 
   .header a {
@@ -69,26 +70,26 @@ import av from "../assets/images/saw111.jpg";
   }
 
   .header a:hover {
-    color: var(--brand);
+    color: var(--title-hover);
   }
 
   .header div.title-image img {
     border-radius: 50%;
-    border: 2px solid var(--hyperlink);
+    border: 2px solid var(--brand);
     width: 0.55em;
     height: 0.55em;
     margin-bottom: -0.05em;
   }
 
   .header div.title-image img:hover {
-    border-color: var(--brand);
+    border-color: var(--title-hover);
     transform-origin: center;
     transform: scale(1.1);
   }
 
   .header div.menu-header {
     padding: 0;
-    margin: 0 4em -0.5em 0;
+    margin: 0 0 -0.5em 0;
   }
 
   @media only screen and (max-width: 835px) {

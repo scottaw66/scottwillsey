@@ -1,26 +1,24 @@
 @import "normalize.css";
 
 html {
-  --brand-light: #2d257e;
+  --brand-light: #01a0ff;
   --accent-blue-light: rgb(0, 92, 222);
   --accent-purple-light: rgb(106, 0, 212);
-  --accent-orange-darker-light: #dd4d00;
-  --accent-orange-light: rgb(255, 166, 0);
+  --accent-orange-light: rgb(230, 150, 0);
   --accent-white-light: rgb(48, 49, 52);
-  --dates-light: var(--accent-purple-light);
-  --title-light: #3b00df;
-  --hyperlink-light: #002fec;
-  --text1-light: rgb(2, 2, 45);
-  --text2-light: #000000;
+  --dates-light: var(--accent-blue-light);
+  --title-light: var(--brand-light);
+  --title-hover-light: var(--accent-orange-light);
+  --hyperlink-light: var(--brand-light);
+  --text1-light: #2e2e2e;
   --text3-light: white;
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
-  --surface-menu-light: rgb(245, 240, 255);
+  --surface-menu-light: #fef9ef;
   --nav-bg-light: var(--surface-menu-light);
-  --nav-border-light: var(--surface-menu-light);
+  --nav-border-light: var(--brand-light);
   --post-bg-light: var(--surface-menu-light);
-  --surface1-light: rgb(233, 250, 253);
-  --background-light: rgb(249, 246, 255);
+  --background-light: #edf8ff;
   --language-id-light: rgb(88, 243, 88);
   --accent-shadow-light: rgba(101, 18, 179, 0.7);
   --footnote-link-light: #eddeff;
@@ -29,9 +27,9 @@ html {
   --footnote-border-light: var(--brand-light);
   --footnote-bubble-light: var(--brand-light);
   --pager-current-light: var(--brand-light);
-  --pager-current-text-light: var(--text3-light);
+  --pager-current-text-light: var(--surface-menu-light);
   --pager-hover-light: var(--brand-light);
-  --theme-toggle-light: var(--accent-orange-darker-light);
+  --theme-toggle-light: var(--accent-orange-light);
 
   --brand-dark: rgb(254, 214, 105);
   --accent-pink-dark: rgb(255, 158, 200);
@@ -43,34 +41,32 @@ html {
   --accent-orange-darker-dark: #de9351;
   --accent-orange-dark: #f3ca73;
   --accent-pink-darker-dark: rgb(252, 126, 180);
-  --accent-red-dark: rgb(255, 70, 70);
   --accent-yellow-dark: rgb(253, 253, 186);
   --accent-white-dark: rgb(243, 246, 255);
   --dates-dark: var(--accent-orange-darker-dark);
-  --title-dark: var(--hyperlink-dark);
-  --hyperlink-dark: #00a0ff;
-  --text1-dark: #f6f7ed;
-  --text2-dark: #58cce7;
+  --title-dark: var(--brand-dark);
+  --title-hover-dark: var(--accent-blue-dark);
+  --hyperlink-dark: var(--accent-blue-dark);
+  --text1-dark: #fef9ef;
   --text3-dark: white;
   --quote-dark: var(--text1-dark);
   --quote-bg-dark: var(--surface-menu-dark);
-  --surface1-dark: rgb(2, 0, 36);
-  --background-dark: rgb(3, 0, 52);
-  --surface-menu-dark: #0a094b;
+  --background-dark: #2e2e2e;
+  --surface-menu-dark: #1e1e1e;
   --nav-bg-dark: var(--surface-menu-dark);
   --nav-border-dark: var(--surface-menu-dark);
-  --post-bg-dark: var(--surface-menu-dark);
+  --post-bg-dark: var(--background-dark);
   --scroll-dark: #002338;
   --language-id-dark: rgb(243, 202, 88);
   --accent-shadow-dark: var(--hyperlink-dark);
   --footnote-link-dark: rgb(0, 0, 255);
   --footnote-bg-dark: var(--text3-dark);
-  --footnote-text-dark: var(--surface1-dark);
+  --footnote-text-dark: blue;
   --footnote-border-dark: var(--accent-blue-dark);
   --footnote-bubble-dark: var(--text3-dark);
-  --pager-current-dark: var(--accent-purple-dark);
-  --pager-current-text-dark: var(--text3-dark);
-  --pager-hover-dark: var(--accent-purple-dark);
+  --pager-current-dark: var(--accent-blue-dark);
+  --pager-current-text-dark: var(--background-dark);
+  --pager-hover-dark: var(--brand-dark);
   --theme-toggle-dark: var(--accent-orange);
 }
 
@@ -120,9 +116,9 @@ html {
   --accent-white: var(--accent-white-light);
   --dates: var(--dates-light);
   --title: var(--title-light);
+  --title-hover: var(--title-hover-light);
   --hyperlink: var(--hyperlink-light);
   --text1: var(--text1-light);
-  --text2: var(--text2-light);
   --text3: var(--text3-light);
   --quote: var(--quote-light);
   --quote-bg: var(--quote-bg-light);
@@ -137,7 +133,6 @@ html {
   --pager-hover: var(--pager-hover-light);
   --theme-toggle: var(--theme-toggle-light);
 
-  --surface1: var(--surface1-light);
   --surface-menu: var(--surface-menu-light);
   --nav-bg: var(--nav-bg-light);
   --nav-border: var(--nav-border-light);
@@ -154,7 +149,7 @@ html {
   --pagefind-ui-message-text: #000;
   --pagefind-ui-result-title-text: var(--brand);
   --pagefind-ui-result-text: #000;
-  --pagefind-ui-background: var(--surface1);
+  --pagefind-ui-background: blue;
   --pagefind-input-background: var(--hyperlink);
   --pagefind-ui-border: var(--accent-pink);
   --pagefind-ui-tag: #0d0a01;
@@ -170,9 +165,9 @@ html {
   --accent-white: var(--accent-white-dark);
   --dates: var(--dates-dark);
   --title: var(--title-dark);
+  --title-hover: var(--title-hover-dark);
   --hyperlink: var(--hyperlink-dark);
   --text1: var(--text1-dark);
-  --text2: var(--text2-dark);
   --text3: var(--text3-dark);
   --quote-bg: var(--quote-bg-dark);
   --accent-shadow: var(--accent-shadow-dark);
@@ -186,12 +181,11 @@ html {
   --pager-hover: var(--pager-hover-dark);
   --theme-toggle: var(--theme-toggle-dark);
 
-  --surface1: var(--surface1-dark);
   --surface-menu: var(--surface-menu-dark);
   --nav-bg: var(--nav-bg-dark);
   --nav-border: var(--nav-border-dark);
   --background: var(--background-dark);
-  --post-bg: var(--surface-menu-dark);
+  --post-bg: var(--post-bg-dark);
   --scroll: var(--scroll-light);
 
   --site-name: var(--text3-dark);
@@ -274,7 +268,7 @@ body::-webkit-scrollbar {
 
 body::-webkit-scrollbar-thumb {
   background-color: var(--accent-blue);
-  outline: 1px solid var(--surface1);
+  outline: 1px solid var(--background);
 }
 
 body {
@@ -388,7 +382,8 @@ svg#mode-light-icon {
   fill: var(--theme-toggle);
   width: 1.25em;
   height: 1.25em;
-  margin-left: 1.25em;
+  margin-left: 0.5em;
+  margin-bottom: -0.25em;
 }
 @media only screen and (max-width: 550px) {
   svg#mode-dark-icon,
@@ -547,7 +542,10 @@ div.time {
 }
 
 article {
-  margin: 3em 0 6em;
+  margin: 3em 0;
+  padding: 0.5em 1.5em;
+  border-radius: 1rem;
+  background-color: var(--post-bg);
 }
 
 article ul {
@@ -812,7 +810,7 @@ pre.astro-code::-webkit-scrollbar {
 
 pre.astro-code::-webkit-scrollbar-thumb {
   background-color: var(--hyperlink);
-  outline: 1px solid var(--surface1);
+  outline: 1px solid var(--background);
 }
 
 div.hero img {
@@ -912,7 +910,7 @@ div.now ul li {
   z-index: 1;
 }
 .footnote-button:after {
-  color: var(--surface1);
+  color: blue;
   content: attr(data-fn-number);
   display: block;
   font-size: 0.57em;
@@ -930,7 +928,7 @@ div.now ul li {
   outline: 0;
 }
 .footnote-button:hover:after {
-  color: var(--surface1);
+  color: blue;
 }
 .footnote-button.is-active {
   background: var(--text1);
@@ -938,7 +936,7 @@ div.now ul li {
   transition-delay: 0.1s;
 }
 .footnote-button.is-active:after {
-  color: var(--surface1);
+  color: blue;
 }
 .bf-footnote {
   background: var(--footnote-bg);

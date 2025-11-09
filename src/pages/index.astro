@@ -23,61 +23,57 @@ let description = site.description;
 ---
 
 <Base title={title} description={description}>
-  <article>
-    <div class="blurb">
-      <p>
-        I write about <a href="/1">computing related topics</a>. You can <a
-          href="/search">search</a
-        > or <a href="/1">browse</a> this site. Most of what I write about here is
-        <AppleIcon /><a href="/tags/mac/" ">Mac</a> or web related.
-        <a href="/now">Here</a>
-        is what I'm up to <a href="/now">now</a>, and <a href="/uses">here</a> is
-        what I <a href="/uses">use</a>.
-      </p>
-    </div>
-  </article>
+  <div class="blurb">
+    <p>
+      I write about <a href="/1">computing related topics</a>. You can <a
+        href="/search">search</a
+      > or <a href="/1">browse</a> this site. Most of what I write about here is
+      <AppleIcon /><a href="/tags/mac/" ">Mac</a> or web related.
+      <a href="/now">Here</a>
+      is what I'm up to <a href="/now">now</a>, and <a href="/uses">here</a> is what
+      I <a href="/uses">use</a>.
+    </p>
+  </div>
 
   <div class="search-bar">
     <SearchBar />
   </div>
 
-  <article>
-    <span data-pagefind-ignore="all">
-      <h1>
-        <a href="/1"><span class="posts-title">Latest Posts</span></a>
-      </h1>
-      <section class="blog-post-list" aria-label="Blog post list">
-        {
-          indexPosts.map((post) => (
-            <header>
-              <h2>
-                <a href={`/${post.id}`}>
-                  {post.data.link ? (
-                    <span data-pagefind-ignore>
-                      <PostLinkIcon />
-                    </span>
-                  ) : (
-                    ""
-                  )}
-                  {titleCase(post.data.title)}
-                </a>
-              </h2>
-              <div class="time">
-                <CalendarIcon />
-                <time datetime={post.data.date}>
-                  <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
-                </time>
-              </div>
-              <div class="description">
-                <p>{post.data.description}</p>
-              </div>
-            </header>
-          ))
-        }
-        <p class="posts-link">Browse all posts</p>
-      </section>
-    </span>
-  </article>
+  <span data-pagefind-ignore="all">
+    <h1>
+      <a href="/1"><span class="posts-title">Latest Posts</span></a>
+    </h1>
+    <section class="blog-post-list" aria-label="Blog post list">
+      {
+        indexPosts.map((post) => (
+          <header>
+            <h2>
+              <a href={`/${post.id}`}>
+                {post.data.link ? (
+                  <span data-pagefind-ignore>
+                    <PostLinkIcon />
+                  </span>
+                ) : (
+                  ""
+                )}
+                {titleCase(post.data.title)}
+              </a>
+            </h2>
+            <div class="time">
+              <CalendarIcon />
+              <time datetime={post.data.date}>
+                <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
+              </time>
+            </div>
+            <div class="description">
+              <p>{post.data.description}</p>
+            </div>
+          </header>
+        ))
+      }
+      <p class="posts-link">Browse all posts</p>
+    </section>
+  </span>
 </Base>
 
 <style>
@@ -93,11 +89,12 @@ let description = site.description;
   div.blurb {
     background-color: var(--surface-menu);
     border: 1px solid var(--brand);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     padding: 0.5rem 2rem;
+    margin-top: 5rem;
   }
   div.search-bar {
-    margin: 3rem auto -2rem;
+    margin: 3rem auto 1rem;
   }
   @media only screen and (max-width: 460px) {
     div.search-bar {
@@ -117,7 +114,7 @@ let description = site.description;
   }
   .blog-post-list {
     background-color: var(--surface-menu);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     padding: 0.5rem 2rem;
     margin-top: 2rem;
   }
