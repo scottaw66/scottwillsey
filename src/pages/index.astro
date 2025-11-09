@@ -6,10 +6,8 @@ import { postdate } from "../components/utilities/DateFormat.js";
 import { titleCase } from "../components/utilities/StringFormat.js";
 import site from "../data/site.json";
 import AppleIcon from "../components/icons/AppleIcon.astro";
-import MessageEditIcon from "../components/icons/MessageEditIcon.astro";
-import PostLinkIcon from "../components/icons/PostLinkIcon.astro";
-import CopyIcon from "../components/icons/CopyIcon.astro";
 import CalendarIcon from "../components/icons/CalendarFillIcon.astro";
+import PostLinkIcon from "../components/icons/PostLinkIcon.astro";
 
 let allPosts = await getCollection("posts", ({ data }) => {
   return import.meta.env.PROD ? data.draft !== true : true;
@@ -46,9 +44,7 @@ let description = site.description;
   <article>
     <span data-pagefind-ignore="all">
       <h1>
-        <MessageEditIcon /><a href="/1"
-          ><span class="posts-title">Latest Posts</span></a
-        >
+        <a href="/1"><span class="posts-title">Latest Posts</span></a>
       </h1>
       <section class="blog-post-list" aria-label="Blog post list">
         {
@@ -78,13 +74,12 @@ let description = site.description;
             </header>
           ))
         }
-        <p class="posts-link">
-          <a href="/1"><CopyIcon /> Browse all posts</a>
-        </p>
+        <p class="posts-link">Browse all posts</p>
       </section>
     </span>
   </article>
 </Base>
+
 <style>
   article {
     margin-bottom: 0;

@@ -5,8 +5,6 @@ import BlueSkyIcon from "../components/icons/FooterBlueSky.astro";
 import GitHubIcon from "./icons/FooterGitHubIcon.astro";
 import MastodonIcon from "./icons/FooterMastodonIcon.astro";
 import RssIcon from "./icons/FooterRssIcon.astro";
-import HistoryIcon from "./icons/FooterHistoryIcon.astro";
-import NotificationsUnread from "./icons/NotificationsUnread.astro";
 ---
 
 <div class="footer">
@@ -15,14 +13,6 @@ import NotificationsUnread from "./icons/NotificationsUnread.astro";
     <a href={site.social.mastodon}><MastodonIcon /></a>
     <a href={site.social.github}><GitHubIcon /></a>
     <a href="/rss.xml"><RssIcon /></a>
-    <a href="/changelog/"><HistoryIcon /></a>
-    <a href="/reads/1"><NotificationsUnread /></a>
-  </div>
-  <div class="footer-page-links">
-    <a href="/now">/now</a>
-    <a href="/reviews">/reviews</a>
-    <a href="/uses">/uses</a>
-    <a href="/links">/links</a>
   </div>
   <div class="astrobuild">
     <a href="https://astro.build">

@@ -5,15 +5,20 @@ import av from "../assets/images/saw111.jpg";
 ---
 
 <div class="header">
-  <a href="/">
-    <div class="title">
-      <div>sc</div>
-      <div class="title-image">
-        <Image src={av} width={100} format={"webp"} alt="Scott avatar" />
+  <div class="header-left">
+    <a href="/">
+      <div class="title">
+        <div>sc</div>
+        <div class="title-image">
+          <Image src={av} width={100} format={"webp"} alt="Scott avatar" />
+        </div>
+        <div>ttwillsey</div>
       </div>
-      <div>ttwillsey</div>
+    </a>
+    <div class="header-nihongo">
+      <span class="subtitle">新無料サイト!!</span>
     </div>
-  </a>
+  </div>
   <div class="menu-header">
     <Menu />
   </div>
@@ -29,6 +34,10 @@ import av from "../assets/images/saw111.jpg";
     width: 100%;
   }
 
+  .header-left {
+    position: relative; /* Add this to contain the absolute positioned subtitle */
+  }
+
   .header div.title {
     display: grid;
     justify-items: center;
@@ -36,8 +45,20 @@ import av from "../assets/images/saw111.jpg";
     font-family: var(--font-title);
     font-size: clamp(2rem, 2vw + 1rem, 3.5rem);
     padding: 0;
-    margin: 0 2em;
+    margin: 0;
     width: fit-content;
+  }
+
+  .header div.header-nihongo {
+    position: absolute; /* Change to absolute */
+    bottom: -1.25em; /* Adjust as needed */
+    left: 2em; /* Adjust as needed */
+    margin: 0;
+    padding: 0;
+  }
+  .header div.header-nihongo .subtitle {
+    transform: rotate(-5deg);
+    display: inline-block;
   }
 
   .header a {

@@ -1,28 +1,19 @@
 ---
-import HomeIcon from "./icons/MenuHomeIcon.astro";
-import BlogIcon from "./icons/MessageEditIcon.astro";
-import LinkIcon from "./icons/MenuLinkIcon.astro";
-import NowIcon from "./icons/MenuTimerIcon.astro";
-import ReviewIcon from "./icons/MenuReviewIcon.astro";
-import InfoIcon from "./icons/MenuInfoIcon.astro";
-import SearchIcon from "./icons/MenuSearchIcon.astro";
-import MoonIcon from "./icons/MenuMoonIcon.astro";
-import SunIcon from "./icons/MenuSunIcon.astro";
-import HypercriticalIcon from "./icons/MenuHypercriticalIcon.astro";
+import MenuLayoutLeft from "./icons/MenuLayoutLeft.astro";
+import MenuLayoutRight from "./icons/MenuLayoutRight.astro";
+import ModeDark from "./icons/ModeDark.astro";
+import ModeLight from "./icons/ModeLight.astro";
 ---
 
 <div class="menu">
-  <a href="/"><HomeIcon /></a>
-  <a href="/1"><BlogIcon /></a>
-  <a href="/links"><LinkIcon /></a>
-  <a href="/now"><NowIcon /></a>
-  <a href="/reviews"><ReviewIcon /></a>
-  <a href="/about"><InfoIcon /></a>
-  <a href="/search"><SearchIcon /></a>
+  <a href="/1">blog</a>
+  <a href="/links">links</a>
+  <a href="/now">/now</a>
+  <a href="/reviews">reviews</a>
+  <a href="/about">about</a>
   <button id="theme-toggle" aria-label="Switch to dark theme">
-    <MoonIcon />
-    <SunIcon />
-    <HypercriticalIcon />
+    <ModeDark />
+    <ModeLight />
   </button>
 </div>
 <script is:inline>
@@ -55,26 +46,15 @@ import HypercriticalIcon from "./icons/MenuHypercriticalIcon.astro";
     function enableDarkTheme() {
       document.documentElement.setAttribute("site-theme", "dark");
       localStorage.setItem("theme", "dark");
-      document.getElementById("menu-sun-icon").style.display = "none";
-      document.getElementById("menu-moon-icon").style.display = "inline";
-      document.getElementById("menu-hypercritical-icon").style.display = "none";
+      document.getElementById("mode-light-icon").style.display = "none";
+      document.getElementById("mode-dark-icon").style.display = "inline";
     }
 
     function enableLightTheme() {
       document.documentElement.setAttribute("site-theme", "light");
       localStorage.setItem("theme", "light");
-      document.getElementById("menu-moon-icon").style.display = "none";
-      document.getElementById("menu-sun-icon").style.display = "inline";
-      document.getElementById("menu-hypercritical-icon").style.display = "none";
-    }
-
-    function enableHypercriticalTheme() {
-      document.documentElement.setAttribute("site-theme", "hypercritical");
-      localStorage.setItem("theme", "hypercritical");
-      document.getElementById("menu-moon-icon").style.display = "none";
-      document.getElementById("menu-sun-icon").style.display = "none";
-      document.getElementById("menu-hypercritical-icon").style.display =
-        "inline";
+      document.getElementById("mode-light-icon").style.display = "inline";
+      document.getElementById("mode-dark-icon").style.display = "none";
     }
 
     function toggleTheme(currentTheme) {
@@ -83,18 +63,15 @@ import HypercriticalIcon from "./icons/MenuHypercriticalIcon.astro";
           case "light":
             enableDarkTheme();
             break;
-          case "hypercritical":
+          case "dark":
             enableLightTheme();
             break;
-          case "dark":
-            enableHypercriticalTheme();
-            break;
           default:
-            enableDarkTheme();
+            enableLightTheme();
             break;
         }
       } else {
-        enableDarkTheme();
+        enableLightTheme();
       }
     }
   };
@@ -114,7 +91,8 @@ import HypercriticalIcon from "./icons/MenuHypercriticalIcon.astro";
     background-color: var(--nav-bg);
     border: 1px solid var(--nav-border);
     border-radius: 0.5em;
-    padding: 0.25em 0.5em 0;
+    padding: 0.25em 0.5em;
+    font-size: 1.5rem;
   }
   button#theme-toggle {
     cursor: pointer;
