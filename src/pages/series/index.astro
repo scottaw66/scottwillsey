@@ -3,7 +3,6 @@ import { getCollection } from "astro:content";
 import Base from "../../layouts/Base.astro";
 import SeriesList from "../../components/SeriesList.astro";
 import site from "../../data/site.json";
-import LayerIcon from "../../components/icons/LayerIcon.astro";
 
 const allPosts = await getCollection("posts");
 const allSeries = allPosts
@@ -20,7 +19,6 @@ let description = "Series of related posts on " + site.title + ".";
   <article data-pagefind-ignore>
     <span id="series-list">
       <h1>
-        <LayerIcon />
         <a href="/series">Series</a>
       </h1>
       <div class="series">

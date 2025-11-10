@@ -93,13 +93,24 @@ import ModeLight from "./icons/ModeLight.astro";
     background-color: var(--nav-bg);
     border: 1px solid var(--nav-border);
     border-radius: 0.5em;
-    padding: 0.25em 0.5em 0.25em 1em;
+    padding: 0.25em 0.5em 0.25em 0.5em;
     font-size: 1.5rem;
+  }
+  @media only screen and (min-width: 471px) and (max-width: 600px) {
+    .menu {
+      font-size: 0.85em;
+    }
+  }
+  @media only screen and (max-width: 470px) {
+    .menu {
+      font-size: 0.8em;
+    }
   }
   button#theme-toggle {
     cursor: pointer;
     background: 0;
     border: 0;
     border-radius: 50%;
+    padding: 0;
   }
 </style>

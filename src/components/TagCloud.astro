@@ -1,7 +1,6 @@
 ---
 import { getCollection } from "astro:content";
 import { slugify } from "./utilities/StringFormat.js";
-import RightArrowCircleIcon from "./icons/RightArrowCircleIcon.astro";
 
 const allPosts = await getCollection("posts");
 const allTags = allPosts.map((tag) => tag.data.keywords).flat();
@@ -34,13 +33,7 @@ const { showCount, displayNumber } = Astro.props;
       ))
       .slice(0, displayNumber)
   }
-  {
-    displayNumber < 999 ? (
-      <a href="/tags/">
-        All Tags ... <RightArrowCircleIcon />
-      </a>
-    ) : null
-  }
+  {displayNumber < 999 ? <a href="/tags/">All Tags ...</a> : null}
 </span>
 <style>
   span.categories {

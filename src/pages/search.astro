@@ -5,9 +5,6 @@ import SearchBar from "../components/Search.astro";
 import TagCloud from "../components/TagCloud.astro";
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
-import LayerIcon from "../components/icons/LayerIcon.astro";
-import TagIcon from "../components/icons/TagIcon.astro";
-import PlusCircleIcon from "../components/icons/PlusCircleIcon.astro";
 
 const allPosts = await getCollection("posts");
 const allSeries = allPosts
@@ -26,7 +23,7 @@ const title = "Search " + site.title;
 
   <article data-pagefind-ignore>
     <div class="seriescloud">
-      <span><LayerIcon />Series</span>
+      <span>Series</span>
       <div>
         {
           allSeries.map((series) => (
@@ -36,12 +33,12 @@ const title = "Search " + site.title;
           ))
         }
         <span class="all-series">
-          <a href="/series"><PlusCircleIcon /> Browse all series</a>
+          <a href="/series">Browse all series</a>
         </span>
       </div>
     </div>
     <div class="tagcloud">
-      <span><TagIcon />Some Tags</span>
+      <span>Some Tags</span>
       <TagCloud showCount="true" displayNumber="11" />
     </div>
   </article>

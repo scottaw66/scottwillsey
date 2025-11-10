@@ -1,7 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import spotlight from "../data/spotlight.json";
-import GlobeIcon from "../components/icons/GlobeIcon.astro";
+import GlobeAsiaIcon from "./icons/GlobeAsiaIcon.astro";
 ---
 
 <div class="spotlight">
@@ -21,7 +21,7 @@ import GlobeIcon from "../components/icons/GlobeIcon.astro";
       <h2><a href={spotlight.Site}>{spotlight.Title}</a></h2>
       <p>{spotlight.Description}</p>
       <p>
-        <a href={spotlight.Site}><GlobeIcon /></a>
+        <a href={spotlight.Site}><GlobeAsiaIcon /></a>
         <a href={spotlight.Site}>{spotlight.Site}</a>
       </p>
     </div>

@@ -24,23 +24,27 @@ const description = `Weekly Reads Page ${page.currentPage}`;
 ---
 
 <Base title={title} description={description}>
-  <p><a href="/reads/rss.xml">Weekly Reeds RSS Feed <RssIcon /></a></p>
-  <section aria-label="Post list" data-pagefind-ignore>
-    {
-      page.data.map((read, index) => {
-        return <Read read={read} />;
-      })
-    }
-    {
-      page.lastPage > 1 && (
-        <Pagination
-          page={page}
-          urlPattern="/reads/{}"
-          firstPageUrl="/reads/1"
-        />
-      )
-    }
-  </section>
+  <article>
+    <div>
+      <p><a href="/reads/rss.xml">Weekly Reeds RSS Feed <RssIcon /></a></p>
+    </div>
+    <section aria-label="Post list" data-pagefind-ignore>
+      {
+        page.data.map((read, index) => {
+          return <Read read={read} />;
+        })
+      }
+      {
+        page.lastPage > 1 && (
+          <Pagination
+            page={page}
+            urlPattern="/reads/{}"
+            firstPageUrl="/reads/1"
+          />
+        )
+      }
+    </section>
+  </article>
 </Base>
 <style>
   p a {

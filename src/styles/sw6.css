@@ -6,6 +6,7 @@ html {
   --accent-purple-light: rgb(106, 0, 212);
   --accent-orange-light: rgb(230, 150, 0);
   --accent-white-light: rgb(48, 49, 52);
+  --accent-pink-light: rgb(253, 62, 145);
   --dates-light: var(--accent-blue-light);
   --title-light: var(--brand-light);
   --title-hover-light: var(--accent-orange-light);
@@ -114,6 +115,7 @@ html {
   --accent-purple: var(--accent-purple-light);
   --accent-orange-darker: var(--accent-orange-darker-light);
   --accent-white: var(--accent-white-light);
+  --accent-pink: var(--accent-pink-light);
   --dates: var(--dates-light);
   --title: var(--title-light);
   --title-hover: var(--title-hover-light);
@@ -163,6 +165,7 @@ html {
   --accent-orange-darker: var(--accent-orange-darker-dark);
   --accent-orange: var(--accent-orange-dark);
   --accent-white: var(--accent-white-dark);
+  --accent-pink: var(--accent-pink-dark);
   --dates: var(--dates-dark);
   --title: var(--title-dark);
   --title-hover: var(--title-hover-dark);
@@ -258,7 +261,7 @@ html {
 }
 
 html {
-  max-width: 1100px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -284,7 +287,7 @@ body {
 }
 
 main {
-  max-width: 90%;
+  max-width: 95%;
   margin: 0 auto;
 }
 
@@ -381,15 +384,16 @@ svg#home-icon {
   fill: var(--theme-toggle);
   width: 1.25em;
   height: 1.25em;
-  margin-right: 0.5em;
-  margin-bottom: -0.33em;
+  margin-right: 0;
+  margin-bottom: -0.3em;
 }
 svg#mode-dark-icon,
 svg#mode-light-icon {
   fill: var(--theme-toggle);
   width: 1.25em;
   height: 1.25em;
-  margin-left: 0.5em;
+  /* margin-left: 0.25em; */
+  margin-left: 0;
   margin-bottom: -0.25em;
 }
 @media only screen and (max-width: 550px) {
@@ -406,6 +410,12 @@ svg#reviews-music-icon {
   width: 1.333em;
   height: 1.333em;
   margin: 0 0.25em -0.25em 0;
+}
+svg#globe-asia-icon {
+  width: 1em;
+  height: 1em;
+  margin: 0 0.2em -0.2em 0;
+  fill: var(--hyperlink);
 }
 svg#inline-mastodon-icon,
 svg#inline-bluesky-icon {
@@ -574,7 +584,7 @@ article img {
   display: flex;
   justify-content: center;
   margin: 2em auto;
-  max-width: 820px;
+  max-width: 95%;
   height: auto;
   border: 1px solid var(--accent-pink);
   border-radius: 0.3rem;
@@ -599,7 +609,7 @@ article div.review p {
   display: flex;
   flex-direction: row;
   gap: 1em;
-  justify-content: flex-start;
+  justify-content: center;
   flex-wrap: wrap;
   margin: 1em 1em 2em;
 }
@@ -882,9 +892,36 @@ div.seriescloud span {
   font-weight: bold;
 }
 
-div.now ul li {
+div.now ul,
+div.uses ul {
+  list-style: none;
+  padding-left: 0;
+}
+div.now ul li,
+div.uses ul li {
   margin: 0.25rem 0;
-  padding: 0;
+  padding: 0 0 0 2em;
+  position: relative;
+}
+div.now ul li::before,
+div.uses ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  /* top: 0.25em; /* Adjust vertical alignment */
+  width: 1.25em;
+  height: 1.25em;
+  margin-top: 0.1em;
+  background-color: var(--hyperlink); /* Your desired color */
+  mask-image: url("/images/icons/MaterialSymbolsAwardStarRounded.svg");
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-image: url("/images/icons/MaterialSymbolsAwardStarRounded.svg"); /* Safari support */
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+}
+div.uses ul li::before {
+  background-color: var(--accent-pink);
 }
 
 .footnote-container {
