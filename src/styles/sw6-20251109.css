@@ -4,7 +4,7 @@ html {
   --brand-light: #01a0ff;
   --accent-blue-light: rgb(0, 92, 222);
   --accent-purple-light: rgb(106, 0, 212);
-  --accent-orange-light: rgb(255, 136, 0);
+  --accent-orange-light: rgb(230, 150, 0);
   --accent-white-light: rgb(48, 49, 52);
   --accent-pink-light: rgb(253, 62, 145);
   --dates-light: var(--accent-blue-light);
@@ -15,7 +15,7 @@ html {
   --text3-light: white;
   --quote-light: var(--text1-light);
   --quote-bg-light: #fff7ca;
-  --surface-menu-light: #fffdf8;
+  --surface-menu-light: #fef9ef;
   --nav-bg-light: var(--surface-menu-light);
   --nav-border-light: var(--brand-light);
   --post-bg-light: var(--surface-menu-light);
@@ -260,74 +260,10 @@ html {
   }
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, sans-serif;
-  line-height: 1.6;
-}
-
-.container {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-areas:
-    "header"
-    "content"
-    "footer";
-  min-height: 100vh;
-}
-
-.header {
-  grid-area: header;
-}
-
-.content-wrapper {
-  grid-area: content;
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-template-areas: "sidebar main";
-  gap: 20px;
-  max-width: 1600px;
-  width: 100%;
-  margin: 2em auto 0;
-}
-
-.main-content {
-  grid-area: main;
-  padding: 0.5em;
-}
-
-.sidebar {
-  grid-area: sidebar;
-  background-color: #e8e8e8;
-  padding: 20px;
-}
-
-.footer {
-  grid-area: footer;
-  text-align: center;
-}
-
-/* Responsive: sidebar moves below main content on smaller screens */
-@media (max-width: 768px) {
-  .content-wrapper {
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "main"
-      "sidebar";
-  }
-}
-
-/* html {
+html {
   max-width: 1400px;
   margin: 0 auto;
-} */
+}
 
 body::-webkit-scrollbar {
   width: 0.2em;

@@ -58,29 +58,16 @@ const { title, description } = Astro.props;
     />
   </head>
   <body>
-    <div class="container">
-      <header class="header">
-        <Header />
-      </header>
-
-      <div class="content-wrapper">
-        <aside class="sidebar">
-          <Sidebar />
-        </aside>
-
-        <main class="main-content">
-          <slot />
-        </main>
-      </div>
-
-      <footer class="footer">
-        <Footer />
-      </footer>
-      <script is:inline src="/scripts/barefoot.min.js"></script>
-      <script is:inline>
-        lf = new BareFoot();
-        lf.init();
-      </script>
-    </div>
+    <main>
+      <Header />
+      <Sidebar />
+      <slot />
+      <Footer />
+    </main>
+    <script is:inline src="/scripts/barefoot.min.js"></script>
+    <script is:inline>
+      lf = new BareFoot();
+      lf.init();
+    </script>
   </body>
 </html>
