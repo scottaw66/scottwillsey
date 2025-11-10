@@ -255,10 +255,24 @@ html {
 }
 
 body {
-  font-family:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, sans-serif;
-  line-height: 1.6;
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  background: var(--background);
+  color: var(--text1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body::-webkit-scrollbar {
+  width: 0.2em;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--accent-blue);
+  outline: 1px solid var(--background);
 }
 
 .container {
@@ -269,6 +283,12 @@ body {
     "content"
     "footer";
   min-height: 100vh;
+  margin: 0 1em;
+}
+@media screen and (max-width: 800px) {
+  .container {
+    margin: 0 0.25em;
+  }
 }
 
 .header {
@@ -289,12 +309,12 @@ body {
 .main-content {
   grid-area: main;
   padding: 0.5em;
+  min-width: 0;
 }
 
 .sidebar {
   grid-area: sidebar;
-  background-color: #e8e8e8;
-  padding: 20px;
+  padding: 0.5em;
 }
 
 .footer {
@@ -310,37 +330,6 @@ body {
       "main"
       "sidebar";
   }
-}
-
-/* html {
-  max-width: 1400px;
-  margin: 0 auto;
-} */
-
-body::-webkit-scrollbar {
-  width: 0.2em;
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: var(--accent-blue);
-  outline: 1px solid var(--background);
-}
-
-body {
-  font-family: var(--font-body);
-  font-weight: 400;
-  font-style: normal;
-  font-size: 1.5rem;
-  line-height: 1.5;
-  background: var(--background);
-  color: var(--text1);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-main {
-  max-width: 95%;
-  margin: 0 auto;
 }
 
 h1,
@@ -386,7 +375,6 @@ div.header-nihongo {
 }
 
 p {
-  max-width: 75ch;
   text-wrap: pretty;
 }
 
@@ -615,6 +603,7 @@ article {
   padding: 0.5em 1.5em;
   border-radius: 1rem;
   background-color: var(--post-bg);
+  max-width: 100%;
 }
 
 article ul {
@@ -1157,7 +1146,7 @@ iframe {
 #search .pagefind-ui__search-input,
 #search .pagefind-ui__search-clear {
   background-color: var(--pagefind-input-background);
-  color: white;
+  color: var(--background);
 }
 #search .pagefind-ui__result-title,
 #search .pagefind-ui__result-link {
