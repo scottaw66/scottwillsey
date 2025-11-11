@@ -60,9 +60,6 @@ const indexPosts = allPosts.slice(0, 5);
               <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
             </time>
           </div>
-          <div class="description">
-            <p>{post.data.description}</p>
-          </div>
         </header>
       ))
     }
@@ -107,7 +104,8 @@ const indexPosts = allPosts.slice(0, 5);
     font-size: 0.8em;
   }
   .blog-post-list h2 {
-    font-size: 1.5rem;
+    font-family: var(--font-body);
+    font-size: 1.2rem;
     margin: 0.5rem 0;
   }
   div.time,
@@ -125,11 +123,9 @@ const indexPosts = allPosts.slice(0, 5);
       font-size: 1em;
     }
     .blog-post-list h2 {
-      font-size: 1.333em;
     }
     div.time,
     div.time a {
-      font-size: 1em;
     }
   }
 </style>
