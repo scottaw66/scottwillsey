@@ -319,7 +319,7 @@ body::-webkit-scrollbar-thumb {
 
 .sidebar {
   grid-area: sidebar;
-  padding: 0 0.5em;
+  padding: 1em 0.5em 0.5em;
 }
 
 .footer {
