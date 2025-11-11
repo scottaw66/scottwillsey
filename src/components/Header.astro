@@ -4,113 +4,35 @@ import Menu from "./Menu.astro";
 import av from "../assets/images/saw111.jpg";
 ---
 
-<div class="header">
-  <div class="header-left">
-    <a href="/">
-      <div class="title">
+<div
+  class="flex items-center justify-between my-4 mx-auto mb-12 text-title w-full max-w-[1000px] flex-col xl:flex-row xl:gap-8 xl:mb-2"
+>
+  <div class="relative">
+    <a href="/" class="text-title no-underline m-0 p-0 hover:text-title-hover">
+      <div
+        class="grid justify-items-center grid-cols-[fit-content(33%)_fit-content(33%)_fit-content(33%)] font-title text-[3.5rem] p-0 m-0 w-fit"
+      >
         <div>sc</div>
-        <div class="title-image">
-          <Image src={av} width={100} format={"webp"} alt="Scott avatar" />
+        <div>
+          <Image
+            src={av}
+            width={100}
+            format={"webp"}
+            alt="Scott avatar"
+            class="rounded-full border-2 border-brand w-[0.55em] h-[0.55em] -mb-[0.5em] hover:border-title-hover hover:scale-110 hover:origin-center"
+          />
         </div>
         <div>ttwillsey</div>
       </div>
     </a>
-    <div class="header-nihongo">
-      <span class="subtitle">新無料サイト!!</span>
+    <div class="absolute -bottom-[0.9em] left-[4em] m-0 p-0 xs:left-[6em]">
+      <span
+        class="rotate-[-5deg] inline-block text-text1 text-[1.2rem] font-title-nihongo"
+        >新無料サイト!!</span
+      >
     </div>
   </div>
-  <div class="menu-header">
+  <div class="p-0 m-0 xl:-mb-2 xs:m-0">
     <Menu />
   </div>
 </div>
-
-<style>
-  .header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 1rem auto 3rem;
-    color: var(--title);
-    width: 100%;
-    max-width: 1000px;
-  }
-
-  .header-left {
-    position: relative; /* Add this to contain the absolute positioned subtitle */
-  }
-
-  .header div.title {
-    display: grid;
-    justify-items: center;
-    grid-template-columns: fit-content(33%) fit-content(33%) fit-content(33%);
-    font-family: var(--font-title);
-    font-size: 3.5rem;
-    padding: 0;
-    margin: 0;
-    width: fit-content;
-  }
-
-  .header div.header-nihongo {
-    position: absolute;
-    bottom: -0.9em;
-    left: 4em;
-    margin: 0;
-    padding: 0;
-  }
-  .header div.header-nihongo .subtitle {
-    transform: rotate(-5deg);
-    display: inline-block;
-    color: var(--text1);
-    font-size: 1.2rem;
-  }
-  @media only screen and (max-width: 460px) {
-    .header div.header-nihongo {
-      left: 6em;
-    }
-    .header div.menu-header {
-      margin: 0;
-    }
-  }
-
-  .header a {
-    color: var(--title);
-    text-decoration: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .header a:hover {
-    color: var(--title-hover);
-  }
-
-  .header div.title-image img {
-    border-radius: 50%;
-    border: 2px solid var(--brand);
-    width: 0.55em;
-    height: 0.55em;
-    margin-bottom: -0.05em;
-  }
-
-  .header div.title-image img:hover {
-    border-color: var(--title-hover);
-    transform-origin: center;
-    transform: scale(1.1);
-  }
-
-  .header div.menu-header {
-    padding: 0;
-    margin: 0 0 -0.5em 0;
-  }
-
-  @media only screen and (max-width: 1160px) {
-    .header {
-      flex-direction: column;
-      align-items: center;
-      gap: 2em;
-      margin-bottom: 0.5rem;
-    }
-    .header div.menu-header {
-      margin: 0;
-    }
-  }
-</style>

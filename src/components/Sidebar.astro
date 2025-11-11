@@ -17,32 +17,32 @@ allPosts = allPosts.sort(
 const indexPosts = allPosts.slice(0, 5);
 ---
 
-<div class="blurb">
-  <h1>
-    <a href="/about"><div class="about-title">About</div></a>
+<div class="rounded-lg p-4 text-base">
+  <h1 class="text-[2rem] my-3">
+    <a href="/about"><div class="text-hyperlink">About</div></a>
   </h1>
   <p>
-    I write about <a href="/1">computing related topics</a>. You can <a
-      href="/search">search</a
-    > or <a href="/1">browse</a> this site. Most of what I write about here is
-    <AppleIcon /><a href="/tags/mac/" ">Mac</a> or web related.
-    <a href="/now">Here</a>
-    is what I'm up to <a href="/now">now</a>, and <a href="/uses">here</a> is what
-    I <a href="/uses">use</a>.
+    I write about <a href="/1" class="text-hyperlink-blurb">computing related topics</a>. You can <a
+      href="/search" class="text-hyperlink-blurb">search</a
+    > or <a href="/1" class="text-hyperlink-blurb">browse</a> this site. Most of what I write about here is
+    <AppleIcon /><a href="/tags/mac/" class="text-hyperlink-blurb">Mac</a> or web related.
+    <a href="/now" class="text-hyperlink-blurb">Here</a>
+    is what I'm up to <a href="/now" class="text-hyperlink-blurb">now</a>, and <a href="/uses" class="text-hyperlink-blurb">here</a> is what
+    I <a href="/uses" class="text-hyperlink-blurb">use</a>.
   </p>
 </div>
-<div class="search-bar">
+<div class="mt-8 mx-auto">
   <SearchBar />
 </div>
 <span data-pagefind-ignore="all">
-  <h1>
-    <a href="/1"><div class="posts-title">Latest Posts</div></a>
+  <h1 class="text-[2rem] my-3">
+    <a href="/1"><div class="text-hyperlink ml-2">Latest Posts</div></a>
   </h1>
-  <section class="blog-post-list" aria-label="Blog post list">
+  <section class="bg-surface-menu rounded-2xl py-2 px-6 text-[0.8em]" aria-label="Blog post list">
     {
       indexPosts.map((post) => (
-        <header>
-          <h2>
+        <header class="mb-5">
+          <h2 class="font-body text-[1.2rem] my-2">
             <a href={`/${post.id}`}>
               {post.data.link ? (
                 <span data-pagefind-ignore>
@@ -54,81 +54,15 @@ const indexPosts = allPosts.slice(0, 5);
               {titleCase(post.data.title)}
             </a>
           </h2>
-          <div class="time">
+          <div class="text-[0.8em] text-text1 font-bold">
             <CalendarIcon />
             <time datetime={post.data.date}>
-              <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
+              <a href={`/${post.id}`} class="text-text1">{postdate(post.data.date)}</a>
             </time>
           </div>
         </header>
       ))
     }
-    <p class="posts-link"><a href="/1">Browse all posts</a></p>
+    <p class="text-center"><a href="/1" class="text-hyperlink">Browse all posts</a></p>
   </section>
 </span>
-<style>
-  div.blurb {
-    /* background-color: var(--surface-menu); */
-    /* border-top: 1px dotted var(--brand);
-    border-bottom: 1px dotted var(--brand); */
-    /* border: 1px dotted var(--brand); */
-    border-radius: 0.5rem;
-    padding: 0 1rem;
-    font-size: 1rem;
-  }
-  div.blurb a {
-    color: var(--hyperlink-blurb);
-  }
-  div.search-bar {
-    margin: 2rem auto 0;
-  }
-  article {
-    margin-bottom: 0;
-  }
-  h1 {
-    font-size: 2rem;
-    margin: 0.75rem 0;
-  }
-  div.about-title,
-  div.posts-title {
-    color: var(--hyperlink);
-  }
-  div.posts-title {
-    margin-left: 0.5em;
-  }
-  header {
-    margin-bottom: 1.2rem;
-  }
-  .blog-post-list {
-    background-color: var(--surface-menu);
-    border-radius: 1rem;
-    padding: 0.5rem 1.5rem;
-    font-size: 0.8em;
-  }
-  .blog-post-list h2 {
-    font-family: var(--font-body);
-    font-size: 1.2rem;
-    margin: 0.5rem 0;
-  }
-  div.time,
-  div.time a {
-    font-size: 0.8em;
-    color: var(--text1);
-  }
-  p.posts-link {
-    text-align: center;
-  }
-  p.posts-link a {
-    color: var(--hyperlink);
-  }
-  @media only screen and (max-width: 460px) {
-    span.posts-title {
-      font-size: 1em;
-    }
-    .blog-post-list h2 {
-    }
-    div.time,
-    div.time a {
-    }
-  }
-</style>

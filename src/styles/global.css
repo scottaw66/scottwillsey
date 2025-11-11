@@ -1,0 +1,351 @@
+@import "tailwindcss";
+
+@theme {
+  --font-body: "Atkinson Hyperlegible", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-title: Cartridge-BoldSoft, sans-serif;
+  --font-title-nihongo: MochiyPopOne-Regular, sans-serif;
+  --font-mono: "IBM Plex Mono", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", monospace;
+
+  --color-brand: var(--brand);
+  --color-accent-blue: var(--accent-blue);
+  --color-accent-pink: var(--accent-pink);
+  --color-accent-purple: var(--accent-purple);
+  --color-accent-orange: var(--accent-orange);
+  --color-accent-orange-darker: var(--accent-orange-darker);
+  --color-accent-white: var(--accent-white);
+  --color-dates: var(--dates);
+  --color-title: var(--title);
+  --color-title-hover: var(--title-hover);
+  --color-hyperlink: var(--hyperlink);
+  --color-hyperlink-blurb: var(--hyperlink-blurb);
+  --color-text1: var(--text1);
+  --color-text3: var(--text3);
+  --color-quote: var(--quote);
+  --color-quote-bg: var(--quote-bg);
+  --color-surface-menu: var(--surface-menu);
+  --color-nav-bg: var(--nav-bg);
+  --color-nav-border: var(--nav-border);
+  --color-background: var(--background);
+  --color-post-bg: var(--post-bg);
+  --color-theme-toggle: var(--theme-toggle);
+  --color-pager-current: var(--pager-current);
+  --color-pager-current-text: var(--pager-current-text);
+  --color-pager-hover: var(--pager-hover);
+
+  --breakpoint-xs: 460px;
+  --breakpoint-xl: 1160px;
+}
+
+@layer base {
+  /* Font faces */
+  @font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2")
+      format("woff2");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: Cartridge-Regular;
+    src: url("/fonts/Cartridge/Cartridge-Regular.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: Cartridge-RegularSoft;
+    src: url("/fonts/Cartridge/Cartridge-RegularSoft.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: Cartridge-Rough;
+    src: url("/fonts/Cartridge/Cartridge-Rough.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: Cartridge-Bold;
+    src: url("/fonts/Cartridge/Cartridge-Bold.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: Cartridge-BoldRough;
+    src: url("/fonts/Cartridge/Cartridge-BoldRough.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: Cartridge-BoldSoft;
+    src: url("/fonts/Cartridge/Cartridge-BoldSoft.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: "Mochiy Pop One";
+    src: url("/fonts/Mochiy_Pop_One/MochiyPopOne-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /* CSS Variables for theming */
+  html {
+    --brand-light: #01a0ff;
+    --accent-blue-light: rgb(0, 92, 222);
+    --accent-purple-light: rgb(106, 0, 212);
+    --accent-orange-light: rgb(255, 136, 0);
+    --accent-orange-darker-light: #dd4d00;
+    --accent-white-light: rgb(48, 49, 52);
+    --accent-pink-light: rgb(253, 62, 145);
+    --dates-light: var(--accent-blue-light);
+    --title-light: var(--brand-light);
+    --title-hover-light: var(--accent-orange-light);
+    --hyperlink-light: var(--brand-light);
+    --hyperlink-blurb-light: var(--dates-light);
+    --text1-light: #2e2e2e;
+    --text3-light: white;
+    --quote-light: var(--text1-light);
+    --quote-bg-light: #fff7ca;
+    --surface-menu-light: #effaff;
+    --nav-bg-light: var(--surface-menu-light);
+    --nav-border-light: var(--brand-light);
+    --post-bg-light: var(--background-light);
+    --background-light: #fffdf8;
+    --accent-shadow-light: rgba(101, 18, 179, 0.7);
+    --footnote-link-light: #eddeff;
+    --footnote-bg-light: var(--hyperlink-light);
+    --footnote-text-light: var(--text3-light);
+    --footnote-border-light: var(--brand-light);
+    --footnote-bubble-light: var(--brand-light);
+    --pager-current-light: var(--brand-light);
+    --pager-current-text-light: var(--surface-menu-light);
+    --pager-hover-light: var(--brand-light);
+    --theme-toggle-light: var(--accent-orange-light);
+
+    --brand-dark: rgb(254, 214, 105);
+    --accent-pink-dark: rgb(255, 158, 200);
+    --accent-blue-dark: rgb(151, 226, 255);
+    --accent-purple-dark: rgb(193, 136, 249);
+    --accent-orange-darker-dark: #de9351;
+    --accent-orange-dark: #f3ca73;
+    --accent-white-dark: rgb(243, 246, 255);
+    --dates-dark: var(--accent-orange-darker-dark);
+    --title-dark: var(--brand-dark);
+    --title-hover-dark: var(--accent-blue-dark);
+    --hyperlink-dark: var(--accent-blue-dark);
+    --hyperlink-blurb-dark: var(--hyperlink-dark);
+    --text1-dark: #fef9ef;
+    --text3-dark: white;
+    --quote-bg-dark: var(--surface-menu-dark);
+    --background-dark: #2e2e2e;
+    --surface-menu-dark: #3a3a3a;
+    --nav-bg-dark: var(--surface-menu-dark);
+    --nav-border-dark: var(--surface-menu-dark);
+    --post-bg-dark: var(--background-dark);
+    --accent-shadow-dark: var(--hyperlink-dark);
+    --footnote-link-dark: rgb(0, 0, 255);
+    --footnote-bg-dark: var(--text3-dark);
+    --footnote-text-dark: blue;
+    --footnote-border-dark: var(--accent-blue-dark);
+    --footnote-bubble-dark: var(--text3-dark);
+    --pager-current-dark: var(--accent-blue-dark);
+    --pager-current-text-dark: var(--background-dark);
+    --pager-hover-dark: var(--brand-dark);
+    --theme-toggle-dark: var(--accent-orange);
+  }
+
+  [site-theme="light"] {
+    --brand: var(--brand-light);
+    --accent-blue: var(--accent-blue-light);
+    --accent-purple: var(--accent-purple-light);
+    --accent-orange-darker: var(--accent-orange-darker-light);
+    --accent-white: var(--accent-white-light);
+    --accent-pink: var(--accent-pink-light);
+    --dates: var(--dates-light);
+    --title: var(--title-light);
+    --title-hover: var(--title-hover-light);
+    --hyperlink: var(--hyperlink-light);
+    --hyperlink-blurb: var(--hyperlink-blurb-light);
+    --text1: var(--text1-light);
+    --text3: var(--text3-light);
+    --quote: var(--quote-light);
+    --quote-bg: var(--quote-bg-light);
+    --accent-shadow: var(--accent-shadow-light);
+    --footnote-link: var(--footnote-link-light);
+    --footnote-bg: var(--footnote-bg-light);
+    --footnote-text: var(--footnote-text-light);
+    --footnote-border: var(--footnote-border-light);
+    --footnote-bubble: var(--footnote-bubble-light);
+    --pager-current: var(--pager-current-light);
+    --pager-current-text: var(--pager-current-text-light);
+    --pager-hover: var(--pager-hover-light);
+    --theme-toggle: var(--theme-toggle-light);
+    --surface-menu: var(--surface-menu-light);
+    --nav-bg: var(--nav-bg-light);
+    --nav-border: var(--nav-border-light);
+    --background: var(--background-light);
+    --post-bg: var(--post-bg-light);
+    --site-name: var(--text3-light);
+  }
+
+  [site-theme="dark"] {
+    --brand: var(--brand-dark);
+    --accent-blue: var(--accent-blue-dark);
+    --accent-purple: var(--accent-purple-dark);
+    --accent-orange-darker: var(--accent-orange-darker-dark);
+    --accent-orange: var(--accent-orange-dark);
+    --accent-white: var(--accent-white-dark);
+    --accent-pink: var(--accent-pink-dark);
+    --dates: var(--dates-dark);
+    --title: var(--title-dark);
+    --title-hover: var(--title-hover-dark);
+    --hyperlink: var(--hyperlink-dark);
+    --hyperlink-blurb: var(--hyperlink-blurb-dark);
+    --text1: var(--text1-dark);
+    --text3: var(--text3-dark);
+    --quote-bg: var(--quote-bg-dark);
+    --accent-shadow: var(--accent-shadow-dark);
+    --footnote-link: var(--footnote-link-dark);
+    --footnote-bg: var(--footnote-bg-dark);
+    --footnote-text: var(--footnote-text-dark);
+    --footnote-border: var(--footnote-border-dark);
+    --footnote-bubble: var(--footnote-bubble-dark);
+    --pager-current: var(--pager-current-dark);
+    --pager-current-text: var(--pager-current-text-dark);
+    --pager-hover: var(--pager-hover-dark);
+    --theme-toggle: var(--theme-toggle-dark);
+    --surface-menu: var(--surface-menu-dark);
+    --nav-bg: var(--nav-bg-dark);
+    --nav-border: var(--nav-border-dark);
+    --background: var(--background-dark);
+    --post-bg: var(--post-bg-dark);
+    --site-name: var(--text3-dark);
+  }
+
+  /* Smooth scrolling */
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+      scroll-padding-top: 3rem;
+    }
+  }
+
+  /* Scrollbar styling */
+  body::-webkit-scrollbar {
+    width: 0.2em;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background-color: var(--accent-blue);
+    outline: 1px solid var(--background);
+  }
+
+  /* Base typography */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-title text-brand leading-tight;
+    text-wrap: balance;
+  }
+
+  h1 {
+    @apply text-5xl mt-0;
+  }
+
+  h2 {
+    @apply text-3xl;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Links */
+  a {
+    @apply no-underline text-hyperlink;
+  }
+
+  a:hover {
+    text-underline-offset: 0.2em;
+    text-decoration: underline dotted;
+    text-decoration-color: var(--brand);
+  }
+
+  p a {
+    text-underline-offset: 0.2em;
+    text-decoration: underline dotted;
+  }
+
+  p a:hover {
+    text-decoration-color: var(--brand);
+  }
+
+  h1 a,
+  h2 a,
+  h3 a,
+  h4 a,
+  h5 a,
+  h6 a {
+    @apply text-brand;
+  }
+
+  /* Articles */
+  article {
+    @apply m-0 p-6 rounded-2xl bg-post-bg max-w-full;
+  }
+
+  @media screen and (max-width: 800px) {
+    article {
+      @apply py-2 px-4;
+    }
+  }
+
+  article ul {
+    @apply max-w-[90%] mr-2 ml-2;
+  }
+
+  article ul li {
+    @apply text-[0.95em];
+  }
+
+  article img {
+    @apply flex justify-center my-8 mx-auto max-w-[95%] h-auto border border-accent-pink rounded;
+    content-visibility: auto;
+  }
+
+  /* Blockquotes */
+  blockquote {
+    @apply italic text-[0.95em] opacity-90 py-4 px-4 my-0 mx-1 rounded-lg bg-quote-bg;
+    quotes: "\201C" "\201D";
+  }
+
+  blockquote:before {
+    @apply text-quote font-title text-[5.5em] leading-[0.05em] mr-[0.2em];
+    opacity: 1;
+    content: open-quote;
+    vertical-align: -0.45em;
+  }
+
+  blockquote p {
+    @apply inline;
+  }
+
+  /* Code blocks */
+  pre.astro-code {
+    @apply py-4 px-8 rounded my-8 text-[0.8em];
+  }
+
+  pre.astro-code::-webkit-scrollbar {
+    @apply w-2 h-2;
+  }
+
+  pre.astro-code::-webkit-scrollbar-thumb {
+    background-color: var(--hyperlink);
+    outline: 1px solid var(--background);
+  }
+
+  /* Tables */
+  table,
+  th,
+  td {
+    @apply p-3 my-10 border-collapse align-top text-left;
+  }
+}

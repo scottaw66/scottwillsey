@@ -1,19 +1,17 @@
 ---
 import HomeIcon from "./icons/MenuHomeIcon.astro";
-import MenuLayoutLeft from "./icons/MenuLayoutLeft.astro";
-import MenuLayoutRight from "./icons/MenuLayoutRight.astro";
 import ModeDark from "./icons/ModeDark.astro";
 import ModeLight from "./icons/ModeLight.astro";
 ---
 
-<div class="menu">
+<div class="flex flex-wrap justify-center items-center gap-3 w-fit bg-nav-bg border border-nav-border rounded-lg py-1 px-2 text-2xl max-[600px]:text-[0.85em] max-[470px]:text-[0.8em]">
   <a href="/"><HomeIcon /></a>
   <a href="/1">blog</a>
   <a href="/links">links</a>
   <a href="/now">/now</a>
   <a href="/reviews">reviews</a>
   <a href="/about">about</a>
-  <button id="theme-toggle" aria-label="Switch to dark theme">
+  <button id="theme-toggle" aria-label="Switch to dark theme" class="cursor-pointer bg-transparent border-0 rounded-full p-0 inline-flex items-center">
     <ModeDark />
     <ModeLight />
   </button>
@@ -82,38 +80,3 @@ import ModeLight from "./icons/ModeLight.astro";
 
   document.addEventListener("astro:after-swap", setTheme);
 </script>
-<style>
-  .menu {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 0.75em;
-    width: fit-content;
-    background-color: var(--nav-bg);
-    border: 1px solid var(--nav-border);
-    border-radius: 0.5em;
-    padding: 0.25em 0.5em 0.25em 0.5em;
-    font-size: 1.5rem;
-  }
-  @media only screen and (min-width: 471px) and (max-width: 600px) {
-    .menu {
-      font-size: 0.85em;
-    }
-  }
-  @media only screen and (max-width: 470px) {
-    .menu {
-      font-size: 0.8em;
-    }
-  }
-  button#theme-toggle {
-    cursor: pointer;
-    background: 0;
-    border: 0;
-    border-radius: 50%;
-    padding: 0;
-    display: inline-flex;
-    align-items: center;
-    font-size: inherit; /* This will make em units inherit from parent instead of button defaults */
-  }
-</style>
