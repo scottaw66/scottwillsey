@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-07T11:17:03-08:00"
+date: "2025-11-11T00:53:47-08:00"
 slug: "now"
 ---
 
@@ -70,14 +70,6 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 [![../../assets/images/yt_thumbs/20251107110617_v9Rd_l6gLjU.png](../../assets/images/yt_thumbs/20251107110617_v9Rd_l6gLjU.png)](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
 [Gemini Designer is INSANE... Build Beautiful Websites in Minutes](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251107110617_n54w51y2BEo.png](../../assets/images/yt_thumbs/20251107110617_n54w51y2BEo.png)](https://www.youtube.com/watch?v=n54w51y2BEo)<div><p class="yt-video-channel">Channel – [CBS LA](https://www.youtube.com/@CBSLA)</p><p class="yt-video-title">
-[2 passenger planes nearly collide shortly after taking off from LAX](https://www.youtube.com/watch?v=n54w51y2BEo)
 </p></div>
 
 </div>

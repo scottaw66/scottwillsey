@@ -18,6 +18,9 @@ const indexPosts = allPosts.slice(0, 5);
 ---
 
 <div class="blurb">
+  <h1>
+    <a href="/about"><div class="about-title">About</div></a>
+  </h1>
   <p>
     I write about <a href="/1">computing related topics</a>. You can <a
       href="/search">search</a
@@ -33,7 +36,7 @@ const indexPosts = allPosts.slice(0, 5);
 </div>
 <span data-pagefind-ignore="all">
   <h1>
-    <a href="/1"><span class="posts-title">Latest Posts</span></a>
+    <a href="/1"><div class="posts-title">Latest Posts</div></a>
   </h1>
   <section class="blog-post-list" aria-label="Blog post list">
     {
@@ -68,11 +71,16 @@ const indexPosts = allPosts.slice(0, 5);
 </span>
 <style>
   div.blurb {
-    background-color: var(--surface-menu);
-    border: 1px solid var(--brand);
-    border-radius: 1rem;
+    /* background-color: var(--surface-menu); */
+    /* border-top: 1px dotted var(--brand);
+    border-bottom: 1px dotted var(--brand); */
+    /* border: 1px dotted var(--brand); */
+    border-radius: 0.5rem;
     padding: 0 1rem;
     font-size: 1rem;
+  }
+  div.blurb a {
+    color: var(--hyperlink-blurb);
   }
   div.search-bar {
     margin: 2rem auto 0;
@@ -80,14 +88,14 @@ const indexPosts = allPosts.slice(0, 5);
   article {
     margin-bottom: 0;
   }
-
   h1 {
-    text-align: center;
     font-size: 2rem;
-    margin: 1rem;
+    margin: 1rem 0;
   }
-  span.posts-title {
+  div.about-title,
+  div.posts-title {
     color: var(--hyperlink);
+    margin-left: 0.75em;
   }
   header {
     margin-bottom: 1.2rem;
@@ -114,10 +122,14 @@ const indexPosts = allPosts.slice(0, 5);
   }
   @media only screen and (max-width: 460px) {
     span.posts-title {
-      font-size: 0.8em;
+      font-size: 1em;
     }
     .blog-post-list h2 {
-      font-size: 0.8em;
+      font-size: 1.333em;
+    }
+    div.time,
+    div.time a {
+      font-size: 1em;
     }
   }
 </style>
