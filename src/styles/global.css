@@ -352,7 +352,7 @@
   }
 
   article img {
-    @apply flex justify-center my-8 mx-auto max-w-[95%] h-auto border border-accent-pink rounded;
+    @apply flex justify-center my-8 mx-auto max-w-[95%] max-h-[65vh] w-auto h-auto object-contain border border-accent-pink rounded;
     content-visibility: auto;
   }
 
