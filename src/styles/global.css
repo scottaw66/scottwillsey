@@ -400,3 +400,15 @@
     transform: scale(1.3);
   }
 }
+
+/* Pagefind UI customization - must be outside @layer base to override defaults */
+#search .pagefind-ui__result-title,
+#search .pagefind-ui__result-link {
+  @apply font-title text-hyperlink;
+}
+#search .pagefind-ui__result-excerpt {
+  font-family: "Atkinson Hyperlegible";
+}
+#search .pagefind-ui__result-thumb {
+  display: none;
+}

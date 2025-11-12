@@ -22,23 +22,32 @@ const indexPosts = allPosts.slice(0, 5);
     <a href="/about"><div class="text-hyperlink">About</div></a>
   </h1>
   <p>
-    I write about <a href="/1" class="text-hyperlink-blurb">computing related topics</a>. You can <a
-      href="/search" class="text-hyperlink-blurb">search</a
-    > or <a href="/1" class="text-hyperlink-blurb">browse</a> this site. Most of what I write about here is
-    <AppleIcon /><a href="/tags/mac/" class="text-hyperlink-blurb">Mac</a> or web related.
+    I write about <a href="/1" class="text-hyperlink-blurb"
+      >computing related topics</a
+    >. You can <a href="/search" class="text-hyperlink-blurb">search</a> or <a
+      href="/1"
+      class="text-hyperlink-blurb">browse</a
+    > this site. Most of what I write about here is
+    <AppleIcon /><a href="/tags/mac/" class="text-hyperlink-blurb">Mac</a> or web
+    related.
     <a href="/now" class="text-hyperlink-blurb">Here</a>
-    is what I'm up to <a href="/now" class="text-hyperlink-blurb">now</a>, and <a href="/uses" class="text-hyperlink-blurb">here</a> is what
-    I <a href="/uses" class="text-hyperlink-blurb">use</a>.
+    is what I'm up to <a href="/now" class="text-hyperlink-blurb">now</a>, and <a
+      href="/uses"
+      class="text-hyperlink-blurb">here</a
+    > is what I <a href="/uses" class="text-hyperlink-blurb">use</a>.
   </p>
 </div>
-<div class="mt-8 mx-auto">
+<div class="mt-2 mx-auto">
   <SearchBar />
 </div>
 <span data-pagefind-ignore="all">
   <h1 class="text-[2rem] my-3">
     <a href="/1"><div class="text-hyperlink ml-2">Latest Posts</div></a>
   </h1>
-  <section class="bg-surface-menu rounded-2xl py-2 px-6 text-[0.8em]" aria-label="Blog post list">
+  <section
+    class="bg-surface-menu rounded-2xl py-2 px-6 text-[0.8em]"
+    aria-label="Blog post list"
+  >
     {
       indexPosts.map((post) => (
         <header class="mb-5">
@@ -57,12 +66,16 @@ const indexPosts = allPosts.slice(0, 5);
           <div class="text-[0.8em] text-text1 font-bold">
             <CalendarIcon />
             <time datetime={post.data.date}>
-              <a href={`/${post.id}`} class="text-text1">{postdate(post.data.date)}</a>
+              <a href={`/${post.id}`} class="text-text1">
+                {postdate(post.data.date)}
+              </a>
             </time>
           </div>
         </header>
       ))
     }
-    <p class="text-center"><a href="/1" class="text-hyperlink">Browse all posts</a></p>
+    <p class="text-center">
+      <a href="/1" class="text-hyperlink">Browse all posts</a>
+    </p>
   </section>
 </span>
