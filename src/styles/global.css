@@ -96,7 +96,7 @@
     --accent-orange-darker-light: #dd4d00;
     --accent-white-light: rgb(48, 49, 52);
     --accent-pink-light: rgb(253, 62, 145);
-    --dates-light: var(--accent-blue-light);
+    --dates-light: #6c6c6c;
     --title-light: var(--brand-light);
     --title-hover-light: var(--accent-orange-light);
     --hyperlink-light: var(--brand-light);
@@ -305,22 +305,7 @@
 
   /* Links */
   a {
-    @apply no-underline text-hyperlink;
-  }
-
-  a:hover {
-    text-underline-offset: 0.2em;
-    text-decoration: underline dotted;
-    text-decoration-color: var(--brand);
-  }
-
-  p a {
-    text-underline-offset: 0.2em;
-    text-decoration: underline dotted;
-  }
-
-  p a:hover {
-    text-decoration-color: var(--brand);
+    @apply no-underline hover:[text-decoration-line:underline] hover:[text-decoration-style:dotted] hover:[text-underline-offset:0.15em] text-hyperlink;
   }
 
   h1 a,

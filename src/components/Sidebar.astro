@@ -51,8 +51,8 @@ const indexPosts = allPosts.slice(0, 5);
     {
       indexPosts.map((post) => (
         <header class="mb-5">
-          <h2 class="font-body text-[1.2rem] my-2">
-            <a href={`/${post.id}`}>
+          <h2 class="font-body text-[1.2em] my-2">
+            <a href={`/${post.id}`} class="text-hyperlink">
               {post.data.link ? (
                 <span data-pagefind-ignore>
                   <PostLinkIcon />
@@ -63,10 +63,10 @@ const indexPosts = allPosts.slice(0, 5);
               {titleCase(post.data.title)}
             </a>
           </h2>
-          <div class="text-[0.8em] text-text1 font-bold">
-            <CalendarIcon />
+          <div class="text-[0.8em] text-dates font-bold">
+            <CalendarIcon fill="var(--dates)" />
             <time datetime={post.data.date}>
-              <a href={`/${post.id}`} class="text-text1">
+              <a href={`/${post.id}`} class="text-dates">
                 {postdate(post.data.date)}
               </a>
             </time>
@@ -78,4 +78,12 @@ const indexPosts = allPosts.slice(0, 5);
       <a href="/1" class="text-hyperlink">Browse all posts</a>
     </p>
   </section>
+  <h1 class="text-[2rem] my-3">
+    <a href="/1"><div class="text-hyperlink ml-2">Recent Updates</div></a>
+  </h1>
+  <section></section>
+  <h1 class="text-[2rem] my-3">
+    <a href="/1"><div class="text-hyperlink ml-2">Useful Stuff</div></a>
+  </h1>
+  <section></section>
 </span>
