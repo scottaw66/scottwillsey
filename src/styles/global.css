@@ -1,10 +1,14 @@
 @import "tailwindcss";
 
 @theme {
-  --font-body: "Atkinson Hyperlegible", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-body:
+    "Atkinson Hyperlegible", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Helvetica, Arial, sans-serif;
   --font-title: Cartridge-BoldSoft, sans-serif;
   --font-title-nihongo: MochiyPopOne-Regular, sans-serif;
-  --font-mono: "IBM Plex Mono", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", monospace;
+  --font-mono:
+    "IBM Plex Mono", Consolas, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", monospace;
 
   --color-brand: var(--brand);
   --color-accent-blue: var(--accent-blue);
@@ -235,7 +239,7 @@
     outline: 1px solid var(--background);
   }
 
-  /* Base typography */
+  /* Base typography - using symmetric top/bottom margins for consistent spacing */
   h1,
   h2,
   h3,
@@ -247,15 +251,56 @@
   }
 
   h1 {
-    @apply text-5xl mt-0;
+    @apply text-5xl mt-4 mb-4;
   }
 
   h2 {
-    @apply text-3xl;
+    @apply text-3xl mt-6 mb-6;
+  }
+
+  h3 {
+    @apply text-2xl mt-4 mb-4;
+  }
+
+  h4 {
+    @apply text-xl mt-3 mb-3;
+  }
+
+  h5,
+  h6 {
+    @apply mt-3 mb-3;
   }
 
   p {
+    @apply mt-7 mb-7;
     text-wrap: pretty;
+  }
+
+  ul,
+  ol {
+    @apply mt-3 mb-3 ml-8;
+  }
+
+  li {
+    @apply mt-1 mb-1;
+  }
+
+  li:first-child {
+    @apply mt-0;
+  }
+
+  li:last-child {
+    @apply mb-0;
+  }
+
+  /* First child elements should have no top margin */
+  :where(h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, pre):first-child {
+    @apply mt-0;
+  }
+
+  /* Last child elements should have no bottom margin */
+  :where(h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, pre):last-child {
+    @apply mb-0;
   }
 
   /* Links */
@@ -313,7 +358,7 @@
 
   /* Blockquotes */
   blockquote {
-    @apply italic text-[0.95em] opacity-90 py-4 px-4 my-0 mx-1 rounded-lg bg-quote-bg;
+    @apply italic text-[0.95em] opacity-90 py-4 px-4 mt-3 mb-3 mx-1 rounded-lg bg-quote-bg;
     quotes: "\201C" "\201D";
   }
 
@@ -330,7 +375,7 @@
 
   /* Code blocks */
   pre.astro-code {
-    @apply py-4 px-8 rounded my-8 text-[0.8em];
+    @apply py-4 px-8 rounded mt-3 mb-3 text-[0.8em];
   }
 
   pre.astro-code::-webkit-scrollbar {
@@ -347,5 +392,11 @@
   th,
   td {
     @apply p-3 my-10 border-collapse align-top text-left;
+  }
+
+  a svg:hover,
+  button svg:hover {
+    transform-origin: center;
+    transform: scale(1.3);
   }
 }

@@ -5,7 +5,7 @@ import av from "../assets/images/saw111.jpg";
 ---
 
 <div
-  class="flex items-center justify-between my-4 mx-auto mb-12 text-title w-full max-w-[1000px] flex-col xl:flex-row xl:gap-8 xl:mb-2"
+  class="flex items-center justify-center my-4 mx-auto text-title w-full max-w-[1000px] flex-col gap-8 min-[850px]:flex-row min-[850px]:justify-between min-[850px]:mb-2 min-[850px]:px-10 min-[950px]:px-8 min-[1050px]:px-6"
 >
   <div class="relative">
     <a href="/" class="text-title no-underline m-0 p-0 hover:text-title-hover">
@@ -13,13 +13,8 @@ import av from "../assets/images/saw111.jpg";
         class="grid items-end justify-items-center grid-cols-[fit-content(33%)_fit-content(33%)_fit-content(33%)] font-title text-[3.5rem] p-0 m-0 w-fit"
       >
         <div>sc</div>
-        <div class="-mb-[0.02em] [&_img]:rounded-full [&_img]:border-2 [&_img]:border-brand [&_img]:w-[0.55em] [&_img]:h-[0.55em] [&_img:hover]:border-title-hover [&_img:hover]:scale-110 [&_img:hover]:origin-center">
-          <Image
-            src={av}
-            width={100}
-            format={"webp"}
-            alt="Scott avatar"
-          />
+        <div class="title-image">
+          <Image src={av} width={100} format={"webp"} alt="Scott avatar" />
         </div>
         <div>ttwillsey</div>
       </div>
@@ -31,7 +26,22 @@ import av from "../assets/images/saw111.jpg";
       >
     </div>
   </div>
-  <div class="p-0 m-0 xl:-mb-2 xs:m-0">
+  <div class="p-0 m-0 min-[850px]:-mb-2 xs:m-0">
     <Menu />
   </div>
 </div>
+<style>
+  div.title-image img {
+    border-radius: 50%;
+    border: 2px solid var(--brand);
+    width: 0.65em;
+    height: 0.65em;
+    margin-bottom: 0.3em;
+  }
+
+  div.title-image img:hover {
+    border-color: var(--title-hover);
+    transform-origin: center;
+    transform: scale(1.1);
+  }
+</style>

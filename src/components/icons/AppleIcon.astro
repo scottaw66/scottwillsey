@@ -1,9 +1,14 @@
+---
+const { size = "1.5rem" } = Astro.props;
+---
+
 <svg
   id="apple-icon"
   xmlns="http://www.w3.org/2000/svg"
-  width="32"
-  height="32"
+  width={size}
+  height={size}
   viewBox="0 0 72 72"
+  class="inline-block align-text-bottom -mb-0.5"
   ><g fill-rule="evenodd"
     ><g fill="#5c9e31"
       ><path

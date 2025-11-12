@@ -57,20 +57,26 @@ const { title, description } = Astro.props;
       href="https://scottwillsey.com/rss.xml"
     />
   </head>
-  <body class="font-body text-[1.5rem] leading-[1.5] bg-background text-text1 antialiased min-h-screen">
-    <div class="grid grid-cols-1 grid-rows-[auto_1fr_auto] min-h-screen mx-4 md:mx-1">
+  <body
+    class="font-body text-[1.5rem] leading-[1.5] bg-background text-text1 antialiased min-h-screen"
+  >
+    <div
+      class="grid grid-cols-1 grid-rows-[auto_1fr_auto] min-h-screen mx-4 md:mx-1"
+    >
       <header class="row-start-1">
         <Header />
       </header>
 
-      <div class="row-start-2 grid grid-cols-[1fr_3.5fr] gap-5 max-w-[1600px] w-full mt-8 mx-auto md:grid-cols-1 md:justify-items-center">
-        <aside class="py-4 px-2 md:max-w-[500px]">
-          <Sidebar />
-        </aside>
-
-        <main class="px-2 min-w-0 md:max-w-full md:w-full">
+      <div
+        class="row-start-2 grid grid-cols-1 justify-items-center gap-5 max-w-[1600px] w-full mt-8 mx-auto lg:grid-cols-[1fr_3.5fr] lg:justify-items-start"
+      >
+        <main class="px-2 min-w-0 w-full lg:max-w-full lg:order-2">
           <slot />
         </main>
+
+        <aside class="py-4 px-2 max-w-[700px] lg:max-w-none lg:order-1">
+          <Sidebar />
+        </aside>
       </div>
 
       <footer class="row-start-3 text-center">

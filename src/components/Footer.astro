@@ -7,12 +7,20 @@ import MastodonIcon from "./icons/FooterMastodonIcon.astro";
 import RssIcon from "./icons/FooterRssIcon.astro";
 ---
 
-<div class="max-w-[90ch] mx-auto my-0 p-8 flex flex-col items-center content-center justify-center">
-  <div class="footer-links">
-    <a href={site.social.bluesky}><BlueSkyIcon /></a>
-    <a href={site.social.mastodon}><MastodonIcon /></a>
-    <a href={site.social.github}><GitHubIcon /></a>
-    <a href="/rss.xml"><RssIcon /></a>
+<div
+  class="max-w-[90ch] mx-auto my-0 p-8 flex flex-col items-center content-center justify-center"
+>
+  <div class="flex flex-row gap-1 mb-1 items-center">
+    <a href={site.social.bluesky}
+      ><BlueSkyIcon size="1.8rem" fill="var(--accent-blue)" /></a
+    >
+    <a href={site.social.mastodon}
+      ><MastodonIcon size="2rem" fill="var(--accent-purple)" /></a
+    >
+    <a href={site.social.github}><GitHubIcon size="2rem" /></a>
+    <a href="/rss.xml"
+      ><RssIcon size="2.4rem" fill="var(--accent-orange-darker)" /></a
+    >
   </div>
   <div class="text-[0.6rem] font-bold p-0 m-0">
     &copy; {year}&nbsp;{site.name}

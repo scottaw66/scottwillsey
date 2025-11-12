@@ -2,20 +2,63 @@
 import HomeIcon from "./icons/MenuHomeIcon.astro";
 import ModeDark from "./icons/ModeDark.astro";
 import ModeLight from "./icons/ModeLight.astro";
+
+// Responsive icon size - starts at 2rem, scales down at breakpoints
+const iconSizes = {
+  default: "2rem",
+  small: "1.7rem",    // for 600px and below
+  smaller: "1.6rem",  // for 470px and below
+  smallest: "1.4rem", // for 425px and below
+};
 ---
 
-<div class="flex flex-wrap justify-center items-center gap-3 w-fit bg-nav-bg border border-nav-border rounded-lg py-1 px-2 text-2xl max-[600px]:text-[0.85em] max-[470px]:text-[0.8em]">
-  <a href="/"><HomeIcon /></a>
+<div
+  class="flex flex-wrap justify-center items-center gap-3 w-fit bg-nav-bg border border-nav-border rounded-lg py-1 px-2 text-2xl max-[600px]:text-[0.85em] max-[470px]:text-[0.8em] max-[425px]:text-[0.7em]"
+>
+  <a href="/" class="icon-link">
+    <HomeIcon size={iconSizes.default} fill="var(--theme-toggle)" />
+  </a>
   <a href="/1">blog</a>
   <a href="/links">links</a>
   <a href="/now">/now</a>
   <a href="/reviews">reviews</a>
   <a href="/about">about</a>
-  <button id="theme-toggle" aria-label="Switch to dark theme" class="cursor-pointer bg-transparent border-0 rounded-full p-0 inline-flex items-center">
-    <ModeDark />
-    <ModeLight />
+  <button
+    id="theme-toggle"
+    aria-label="Switch to dark theme"
+    class="cursor-pointer bg-transparent border-0 rounded-full p-0 inline-flex items-center theme-toggle-btn"
+  >
+    <ModeDark size={iconSizes.default} fill="var(--theme-toggle)" />
+    <ModeLight size={iconSizes.default} fill="var(--theme-toggle)" />
   </button>
 </div>
+
+<style>
+  /* Scale icons at breakpoints to match text scaling */
+  @media (max-width: 600px) {
+    .icon-link :global(svg),
+    .theme-toggle-btn :global(svg) {
+      width: 1.7rem;
+      height: 1.7rem;
+    }
+  }
+
+  @media (max-width: 470px) {
+    .icon-link :global(svg),
+    .theme-toggle-btn :global(svg) {
+      width: 1.6rem;
+      height: 1.6rem;
+    }
+  }
+
+  @media (max-width: 425px) {
+    .icon-link :global(svg),
+    .theme-toggle-btn :global(svg) {
+      width: 1.4rem;
+      height: 1.4rem;
+    }
+  }
+</style>
 <script is:inline>
   const setTheme = () => {
     const themeToggle = document.getElementById("theme-toggle");

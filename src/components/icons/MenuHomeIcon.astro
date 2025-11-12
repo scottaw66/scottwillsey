@@ -1,9 +1,14 @@
+---
+const { size = "2rem", fill = "var(--text1)" } = Astro.props;
+---
+
 <svg
   id="home-icon"
   xmlns="http://www.w3.org/2000/svg"
-  width="32"
-  height="32"
+  width={size}
+  height={size}
   viewBox="0 0 24 24"
+  style={`fill: ${fill}`}
   ><!-- Icon from Solar by 480 Design - https://creativecommons.org/licenses/by/4.0/ -->
   <path
     fill-rule="evenodd"

@@ -1,9 +1,14 @@
+---
+const { size = "2rem", fill = "var(--text1)" } = Astro.props;
+---
+
 <svg
   id="globe-asia-icon"
   xmlns="http://www.w3.org/2000/svg"
-  width="32"
-  height="32"
+  width={size}
+  height={size}
   viewBox="0 0 16 16"
+  style={`fill: ${fill}`}
   ><!-- Icon from Bootstrap Icons by The Bootstrap Authors - https://github.com/twbs/icons/blob/main/LICENSE.md -->
   <g
     ><path
