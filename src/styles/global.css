@@ -100,7 +100,7 @@
     --title-light: var(--brand-light);
     --title-hover-light: var(--accent-orange-light);
     --hyperlink-light: var(--brand-light);
-    --hyperlink-blurb-light: var(--dates-light);
+    --hyperlink-blurb-light: var(--hyperlink-light);
     --text1-light: #2e2e2e;
     --text3-light: white;
     --quote-light: var(--text1-light);
@@ -396,4 +396,30 @@
 }
 #search .pagefind-ui__result-thumb {
   display: none;
+}
+
+/* Pagination component styling */
+nav[aria-label="Pagination"] {
+  @apply flex justify-center items-center mx-auto w-fit bg-[var(--surface-menu)] p-2 rounded-lg;
+}
+
+nav[aria-label="Pagination"] ul {
+  @apply flex flex-row items-center gap-2 m-0 p-0 list-none;
+}
+
+nav[aria-label="Pagination"] li {
+  @apply m-0 p-0;
+}
+
+nav[aria-label="Pagination"] a,
+nav[aria-label="Pagination"] em {
+  @apply px-3 py-1 rounded-[0.25em] no-underline whitespace-nowrap;
+}
+
+nav[aria-label="Pagination"] a:hover {
+  @apply bg-[var(--pager-hover)] text-[var(--text3)];
+}
+
+nav[aria-label="Pagination"] em[aria-current="page"] {
+  @apply bg-[var(--pager-current)] text-[var(--pager-current-text)] not-italic;
 }

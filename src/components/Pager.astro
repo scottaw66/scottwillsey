@@ -5,80 +5,44 @@ const lastOffset =
   page.currentPage < page.lastPage ? page.lastPage - page.currentPage : 0;
 ---
 
-<nav id="pager">
+<nav id="pager" class="flex items-center justify-center gap-2 mx-auto w-fit bg-[var(--surface-menu)] p-2 rounded-lg">
   {
     firstOffset > 1 ? (
-      <div>
-        <a href="/1">&lt;&lt;</a>
+      <div class="px-3 py-1 rounded-[20%] hover:bg-[var(--pager-hover)] hover:font-bold">
+        <a href="/1" class="no-underline hover:text-[var(--text3)]">&lt;&lt;</a>
       </div>
     ) : null
   }
   {
     page.url.prev ? (
       <>
-        <div>
-          <a href={page.url.prev}>&lt;</a>
+        <div class="px-3 py-1 rounded-[20%] hover:bg-[var(--pager-hover)] hover:font-bold">
+          <a href={page.url.prev} class="no-underline hover:text-[var(--text3)]">&lt;</a>
         </div>
-        <div>
-          <a href={page.url.prev}>{page.currentPage - 1}</a>
+        <div class="px-3 py-1 rounded-[20%] hover:bg-[var(--pager-hover)] hover:font-bold">
+          <a href={page.url.prev} class="no-underline hover:text-[var(--text3)]">{page.currentPage - 1}</a>
         </div>
       </>
     ) : null
   }
-  <div class="current">{page.currentPage}</div>
+  <div class="px-3 py-1 rounded-[20%] bg-[var(--pager-current)] text-[var(--pager-current-text)]">{page.currentPage}</div>
   {
     page.url.next ? (
       <>
-        <div>
-          <a href={page.url.next}>{page.currentPage + 1}</a>
+        <div class="px-3 py-1 rounded-[20%] hover:bg-[var(--pager-hover)] hover:font-bold">
+          <a href={page.url.next} class="no-underline hover:text-[var(--text3)]">{page.currentPage + 1}</a>
         </div>
-        <div>
-          <a href={page.url.next}>&gt;</a>
+        <div class="px-3 py-1 rounded-[20%] hover:bg-[var(--pager-hover)] hover:font-bold">
+          <a href={page.url.next} class="no-underline hover:text-[var(--text3)]">&gt;</a>
         </div>
       </>
     ) : null
   }
   {
     lastOffset > 1 ? (
-      <div>
-        <a href={`/${page.lastPage}`}>&gt;&gt;</a>
+      <div class="px-3 py-1 rounded-[20%] hover:bg-[var(--pager-hover)] hover:font-bold">
+        <a href={`/${page.lastPage}`} class="no-underline hover:text-[var(--text3)]">&gt;&gt;</a>
       </div>
     ) : null
   }
 </nav>
-<style>
-  nav#pager {
-    display: grid;
-    grid-auto-flow: column;
-    margin: 0 auto;
-    width: fit-content;
-    align-items: center;
-    justify-items: center;
-    background: var(--surface-menu);
-    padding: 0.5em;
-    border-radius: 0.5rem;
-    gap: 0.5rem;
-  }
-  nav#pager div {
-    /* border: 1px solid var(--brand); */
-    border-radius: 20%;
-    padding: 0.25rem 0.75rem;
-  }
-  nav#pager div:hover {
-    background-color: var(--pager-hover);
-    border-color: var(--pager-hover);
-    font-weight: 700;
-  }
-  nav#pager div:hover a {
-    color: var(--text3);
-  }
-  nav#pager div a {
-    text-decoration: none;
-  }
-  nav#pager div.current {
-    border: none;
-    background-color: var(--pager-current);
-    color: var(--pager-current-text);
-    font-weight: inherit;
-  }
-</style>
