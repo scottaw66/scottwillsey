@@ -400,7 +400,7 @@
 
 /* Pagination component styling */
 nav[aria-label="Pagination"] {
-  @apply flex justify-center items-center mx-auto w-fit bg-[var(--surface-menu)] p-2 rounded-lg;
+  @apply mx-auto w-fit bg-[var(--surface-menu)] py-2 px-6 rounded-lg;
 }
 
 nav[aria-label="Pagination"] ul {
