@@ -33,7 +33,12 @@ const description = `Posts Page ${page.currentPage}`;
     }
     {
       page.lastPage > 1 && (
-        <Pagination page={page} urlPattern="/{}" firstPageUrl="/1" />
+        <Pagination
+          page={page}
+          urlPattern="/{}"
+          firstPageUrl="/1"
+          windowSize={3}
+        />
       )
     }
   </section>
