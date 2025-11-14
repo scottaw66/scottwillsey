@@ -51,10 +51,12 @@ let description = uses.data.description;
         /></a
       >
     </div>
-    <div class="time">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold">
+      <CalendarFillIcon fill="var(--dates)" />
       <time datetime={uses.data.date}>
-        <a href={`/${uses.id}`}>Last updated {modifieddate(uses.data.date)}</a>
+        <a href={`/${uses.id}`} class="text-dates"
+          >Last updated {modifieddate(uses.data.date)}</a
+        >
       </time>
     </div>
     <div class="uses">
@@ -100,16 +102,5 @@ let description = uses.data.description;
     div.uses {
       padding: 0.1em 0.5rem;
     }
-  }
-  div.time,
-  div.time a {
-    font-size: 0.8em;
-  }
-  div.time {
-    margin-top: 2.5rem;
-  }
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.75rem;
-    margin-bottom: -0.05rem;
   }
 </style>

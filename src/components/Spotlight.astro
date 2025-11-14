@@ -4,11 +4,15 @@ import spotlight from "../data/spotlight.json";
 import GlobeAsiaIcon from "./icons/GlobeAsiaIcon.astro";
 ---
 
-<div class="spotlight">
-  <h1 id="CoolSiteSpotlight">Cool Site Spotlight</h1>
-  <div class="spotlight-details">
-    <div>
-      <a class="spotlight-image" href={spotlight.Site}>
+<div
+  class="bg-[var(--surface-menu)] my-12 px-8 py-2 border border-[var(--brand)] rounded-lg max-[500px]:px-4"
+>
+  <h1 id="CoolSiteSpotlight" class="mx-1 my-10">Cool Site Spotlight</h1>
+  <div
+    class="flex flex-row items-center gap-8 max-[799px]:flex-col max-[799px]:px-2 max-[799px]:gap-0"
+  >
+    <div class="shrink-0">
+      <a href={spotlight.Site}>
         <Image
           src={import(`../assets/images/posts/${spotlight.Image}.png`)}
           width="300"
@@ -17,50 +21,26 @@ import GlobeAsiaIcon from "./icons/GlobeAsiaIcon.astro";
         />
       </a>
     </div>
-    <div>
-      <h2><a href={spotlight.Site}>{spotlight.Title}</a></h2>
+    <div class="flex-1 min-w-0 max-[500px]:text-[1rem]">
+      <h2>
+        <a href={spotlight.Site} class="text-[var(--hyperlink)]"
+          >{spotlight.Title}</a
+        >
+      </h2>
       <p>{spotlight.Description}</p>
       <p>
         <a href={spotlight.Site}><GlobeAsiaIcon fill="var(--hyperlink)" /></a>
-        <a href={spotlight.Site}>{spotlight.Site}</a>
+        <a href={spotlight.Site} class="text-[var(--hyperlink)]"
+          >{spotlight.Site}</a
+        >
       </p>
     </div>
   </div>
-  <div class="archive-link">
-    <a href="/links#cool-sites-archive">Cool Sites Archive</a>
+  <div>
+    <a
+      href="/links#cool-sites-archive"
+      class="inline-block text-[0.8em] italic text-[var(--brand)] ml-12 mb-8"
+      >Cool Sites Archive</a
+    >
   </div>
 </div>
-
-<style>
-  .spotlight {
-    background-color: var(--surface-menu);
-    margin: 3em 0;
-    padding: 0.5em 2em;
-    border: 1px solid var(--brand);
-    border-radius: 0.5rem;
-  }
-  .spotlight a {
-    color: var(--hyperlink);
-  }
-  div.spotlight-details {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 2em;
-    white-space: pre-wrap;
-  }
-  div.archive-link a {
-    display: inline-block;
-    font-size: 0.8em;
-    font-style: italic;
-    color: var(--brand);
-    margin: 0 0 2em 3em;
-  }
-  @media only screen and (max-width: 699px) {
-    div.spotlight-details {
-      flex-direction: column;
-      padding: 0 0.5rem;
-      gap: 0;
-    }
-  }
-</style>

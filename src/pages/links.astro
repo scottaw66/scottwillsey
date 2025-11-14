@@ -16,10 +16,11 @@ let description = links.data.description;
   <article>
     <h1>{title}</h1>
     <p class="now">{description}</p>
-    <div class="time">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold">
+      <CalendarFillIcon fill="var(--dates)" />
       <time datetime={links.data.date}>
-        <a href={`/${links.id}`}>Last updated {modifieddate(links.data.date)}</a
+        <a href={`/${links.id}`} class="text-dates"
+          >Last updated {modifieddate(links.data.date)}</a
         >
       </time>
     </div>
@@ -31,16 +32,3 @@ let description = links.data.description;
     </div>
   </article>
 </Base>
-
-<style>
-  h4 {
-    font-style: italic;
-  }
-  div.time,
-  div.time a {
-    font-size: 0.8em;
-  }
-  div.time {
-    margin-top: 2.5rem;
-  }
-</style>

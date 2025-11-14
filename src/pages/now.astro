@@ -27,10 +27,12 @@ let description = now.data.description;
         ></b
       >
     </p>
-    <div class="time">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      <CalendarFillIcon fill="var(--dates)" />
       <time datetime={now.data.date}>
-        <a href={`/${now.id}`}>Last updated {modifieddate(now.data.date)}</a>
+        <a href={`/${now.id}`} class="text-dates"
+          >Last updated {modifieddate(now.data.date)}</a
+        >
       </time>
     </div>
     <div class="now">
@@ -38,16 +40,3 @@ let description = now.data.description;
     </div>
   </article>
 </Base>
-
-<style>
-  h4 {
-    font-style: italic;
-  }
-  div.time,
-  div.time a {
-    font-size: 0.8em;
-  }
-  div.time {
-    margin-top: 2.5rem;
-  }
-</style>
