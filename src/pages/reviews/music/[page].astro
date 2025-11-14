@@ -28,11 +28,11 @@ let description = music.data.description;
   <article>
     <h1>{title}</h1>
     <p class="review">
-      {music.data.description}<span class="bullet">•</span><a href="/reviews"
+      {music.data.description}<span class="mx-4">•</span><a href="/reviews"
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time">
+    <div class="time mt-10">
       <CalendarFillIcon />
       <time datetime={music.data.date}>
         <a href={`/${music.id}`}>Last updated {modifieddate(music.data.date)}</a
@@ -40,21 +40,28 @@ let description = music.data.description;
       </time>
     </div>
     <div class="review">
-      <p>
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] my-10 mx-auto"
+      >
         {
           page.data.map((musicItem) => (
-            <span hidden>{`${musicItem.alttext}`}</span>
-            <a href={`/images/posts/${musicItem.review}.jpg`}>
-              <Image
-                src={
-                  import(`../../../assets/images/posts/${musicItem.review}.png`)
-                }
-                alt={`${musicItem.alttext}`}
-              />
-            </a>
+            <>
+              <span hidden>{`${musicItem.alttext}`}</span>
+              <a href={`/images/posts/${musicItem.review}.jpg`} class="block">
+                <Image
+                  src={
+                    import(
+                      `../../../assets/images/posts/${musicItem.review}.png`
+                    )
+                  }
+                  alt={`${musicItem.alttext}`}
+                  class="review-image"
+                />
+              </a>
+            </>
           ))
         }
-      </p>
+      </div>
     </div>
     {
       page.lastPage > 1 && (
@@ -80,10 +87,10 @@ let description = music.data.description;
   div.time a {
     font-size: 0.8em;
   }
-  div.time {
-    margin-top: 2.5rem;
-  }
-  .bullet {
-    margin: 0 1rem;
+  .review-image {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
   }
 </style>

@@ -20,7 +20,7 @@ let description = reviews.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{title}</h1>
-    <p class="review">
+    <p>
       Reviews of things I've watched, read, or played. Thanks to <a
         href="https://quickreviews.app">Quick Reviews</a
       > by <a href="https://isfeeling.social/@matt#.">Matt Birchler</a>! Each of
@@ -53,7 +53,9 @@ let description = reviews.data.description;
     </p>
     <div class="review">
       <h3>Random Reviews From Each Category</h3>
-      <p>
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] mt-10 mx-auto"
+      >
         {
           (() => {
             // Get a random book from the list
@@ -61,12 +63,13 @@ let description = reviews.data.description;
             const randomBook = booksList[randomIndex];
 
             return (
-              <a href="/reviews/books/1">
+              <a href="/reviews/books/1" class="block">
                 <Image
                   src={
                     import(`../../assets/images/posts/${randomBook.review}.png`)
                   }
                   alt={`${randomBook.alttext}`}
+                  class="review-image"
                 />
               </a>
             );
@@ -79,7 +82,7 @@ let description = reviews.data.description;
             const randomMovie = moviesList[randomIndex];
 
             return (
-              <a href="/reviews/movies/1">
+              <a href="/reviews/movies/1" class="block">
                 <Image
                   src={
                     import(
@@ -87,6 +90,7 @@ let description = reviews.data.description;
                     )
                   }
                   alt={`${randomMovie.alttext}`}
+                  class="review-image"
                 />
               </a>
             );
@@ -99,12 +103,13 @@ let description = reviews.data.description;
             const randomShow = tvList[randomIndex];
 
             return (
-              <a href="/reviews/tv/1">
+              <a href="/reviews/tv/1" class="block">
                 <Image
                   src={
                     import(`../../assets/images/posts/${randomShow.review}.png`)
                   }
                   alt={`${randomShow.alttext}`}
+                  class="review-image"
                 />
               </a>
             );
@@ -117,7 +122,7 @@ let description = reviews.data.description;
             const randomMusic = musicList[randomIndex];
 
             return (
-              <a href="/reviews/music/1">
+              <a href="/reviews/music/1" class="block">
                 <Image
                   src={
                     import(
@@ -125,12 +130,13 @@ let description = reviews.data.description;
                     )
                   }
                   alt={`${randomMusic.alttext}`}
+                  class="review-image"
                 />
               </a>
             );
           })()
         }
-      </p>
+      </div>
     </div>
   </article>
 </Base>
@@ -139,5 +145,12 @@ let description = reviews.data.description;
     list-style: none;
     font-size: 1.5em;
     margin: 2em 0;
+  }
+
+  .review-image {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
   }
 </style>

@@ -28,11 +28,11 @@ let description = movies.data.description;
   <article>
     <h1>{title}</h1>
     <p class="review">
-      {movies.data.description}<span class="bullet">•</span><a href="/reviews"
+      {movies.data.description}<span class="mx-4">•</span><a href="/reviews"
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time">
+    <div class="time mt-10">
       <CalendarFillIcon />
       <time datetime={movies.data.date}>
         <a href={`/${movies.id}`}
@@ -41,26 +41,33 @@ let description = movies.data.description;
       </time>
     </div>
     <div class="review">
-      <p>
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] my-10 mx-auto"
+      >
         {
           page.data.map((movie) => (
-            <span hidden>{`${movie.alttext}`}</span>
-            <a href={`/images/posts/${movie.review}.jpg`}>
-              <Image
-                src={import(`../../../assets/images/posts/${movie.review}.png`)}
-                alt={`${movie.alttext}`}
-              />
-            </a>
+            <>
+              <span hidden>{`${movie.alttext}`}</span>
+              <a href={`/images/posts/${movie.review}.jpg`} class="block">
+                <Image
+                  src={
+                    import(`../../../assets/images/posts/${movie.review}.png`)
+                  }
+                  alt={`${movie.alttext}`}
+                  class="review-image"
+                />
+              </a>
+            </>
           ))
         }
-      </p>
+      </div>
     </div>
     {
       page.lastPage > 1 && (
         <Pagination
           page={page}
           urlPattern="/reviews/movies/{}"
-          firstPageUrl="/reviews/movies/1" 
+          firstPageUrl="/reviews/movies/1"
           windowSize={3}
         />
       )
@@ -79,10 +86,10 @@ let description = movies.data.description;
   div.time a {
     font-size: 0.8em;
   }
-  div.time {
-    margin-top: 2.5rem;
-  }
-  .bullet {
-    margin: 0 1rem;
+  .review-image {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
   }
 </style>

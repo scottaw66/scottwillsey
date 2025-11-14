@@ -28,11 +28,11 @@ let description = books.data.description;
   <article>
     <h1>{title}</h1>
     <p class="review">
-      {books.data.description}<span class="bullet">•</span><a href="/reviews"
+      {books.data.description}<span class="mx-4">•</span><a href="/reviews"
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time">
+    <div class="time mt-10">
       <CalendarFillIcon />
       <time datetime={books.data.date}>
         <a href={`/${books.id}`}>Last updated {modifieddate(books.data.date)}</a
@@ -40,26 +40,33 @@ let description = books.data.description;
       </time>
     </div>
     <div class="review">
-      <p>
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] my-10 mx-auto"
+      >
         {
           page.data.map((book) => (
-            <span hidden>{`${book.alttext}`}</span>
-            <a href={`/images/posts/${book.review}.jpg`}>
-              <Image
-                src={import(`../../../assets/images/posts/${book.review}.png`)}
-                alt={`${book.alttext}`}
-              />
-            </a>
+            <>
+              <span hidden>{`${book.alttext}`}</span>
+              <a href={`/images/posts/${book.review}.jpg`} class="block">
+                <Image
+                  src={
+                    import(`../../../assets/images/posts/${book.review}.png`)
+                  }
+                  alt={`${book.alttext}`}
+                  class="review-image"
+                />
+              </a>
+            </>
           ))
         }
-      </p>
+      </div>
     </div>
     {
       page.lastPage > 1 && (
         <Pagination
           page={page}
           urlPattern="/reviews/books/{}"
-          firstPageUrl="/reviews/books/1" 
+          firstPageUrl="/reviews/books/1"
           windowSize={3}
         />
       )
@@ -78,10 +85,10 @@ let description = books.data.description;
   div.time a {
     font-size: 0.8em;
   }
-  div.time {
-    margin-top: 2.5rem;
-  }
-  .bullet {
-    margin: 0 1rem;
+  .review-image {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
   }
 </style>

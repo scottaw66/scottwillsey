@@ -28,11 +28,11 @@ let description = tvshows.data.description;
   <article>
     <h1>{title}</h1>
     <p class="review">
-      {tvshows.data.description}<span class="bullet">•</span><a href="/reviews"
+      {tvshows.data.description}<span class="mx-4">•</span><a href="/reviews"
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time">
+    <div class="time mt-10">
       <CalendarFillIcon />
       <time datetime={tvshows.data.date}>
         <a href={`/${tvshows.id}`}
@@ -41,28 +41,33 @@ let description = tvshows.data.description;
       </time>
     </div>
     <div class="review">
-      <p>
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] my-10 mx-auto"
+      >
         {
           page.data.map((tvshow) => (
-            <span hidden>{`${tvshow.alttext}`}</span>
-            <a href={`/images/posts/${tvshow.review}.jpg`}>
-              <Image
-                src={
-                  import(`../../../assets/images/posts/${tvshow.review}.png`)
-                }
-                alt={`${tvshow.alttext}`}
-              />
-            </a>
+            <>
+              <span hidden>{`${tvshow.alttext}`}</span>
+              <a href={`/images/posts/${tvshow.review}.jpg`} class="block">
+                <Image
+                  src={
+                    import(`../../../assets/images/posts/${tvshow.review}.png`)
+                  }
+                  alt={`${tvshow.alttext}`}
+                  class="review-image"
+                />
+              </a>
+            </>
           ))
         }
-      </p>
+      </div>
     </div>
     {
       page.lastPage > 1 && (
         <Pagination
           page={page}
           urlPattern="/reviews/tv/{}"
-          firstPageUrl="/reviews/tv/1" 
+          firstPageUrl="/reviews/tv/1"
           windowSize={3}
         />
       )
@@ -81,10 +86,10 @@ let description = tvshows.data.description;
   div.time a {
     font-size: 0.8em;
   }
-  div.time {
-    margin-top: 2.5rem;
-  }
-  .bullet {
-    margin: 0 1rem;
+  .review-image {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
   }
 </style>
