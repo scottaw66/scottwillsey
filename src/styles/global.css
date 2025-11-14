@@ -106,6 +106,7 @@
     --quote-light: var(--text1-light);
     --quote-bg-light: #fff7ca;
     --surface-menu-light: #effaff;
+    --surface-yt-light: #ceefff;
     --nav-bg-light: var(--surface-menu-light);
     --nav-border-light: var(--brand-light);
     --post-bg-light: var(--background-light);
@@ -138,6 +139,7 @@
     --quote-bg-dark: var(--surface-menu-dark);
     --background-dark: #2e2e2e;
     --surface-menu-dark: #3a3a3a;
+    --surface-yt-dark: #1c1c1c;
     --nav-bg-dark: var(--surface-menu-dark);
     --nav-border-dark: var(--surface-menu-dark);
     --post-bg-dark: var(--background-dark);
@@ -180,6 +182,7 @@
     --pager-hover: var(--pager-hover-light);
     --theme-toggle: var(--theme-toggle-light);
     --surface-menu: var(--surface-menu-light);
+    --background-yt: var(--surface-yt-light);
     --nav-bg: var(--nav-bg-light);
     --nav-border: var(--nav-border-light);
     --background: var(--background-light);
@@ -214,6 +217,7 @@
     --pager-hover: var(--pager-hover-dark);
     --theme-toggle: var(--theme-toggle-dark);
     --surface-menu: var(--surface-menu-dark);
+    --background-yt: var(--surface-yt-dark);
     --nav-bg: var(--nav-bg-dark);
     --nav-border: var(--nav-border-dark);
     --background: var(--background-dark);
@@ -383,6 +387,169 @@
   button svg:hover {
     transform-origin: center;
     transform: scale(1.3);
+  }
+
+  /* Some /now page sections - Podcast history and food */
+  div.podcast-episodes,
+  div.food {
+    margin: 0 2em;
+    font-size: 0.9em;
+  }
+  @media screen and (max-width: 650px) {
+    div.podcast-episodes,
+    div.food {
+      margin: 0;
+    }
+  }
+  div.podcast-episodes p,
+  div.food p {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    padding: 1em;
+    margin: 0;
+    align-items: center;
+    background-color: var(--surface-menu);
+    border-radius: 1rem;
+  }
+  div.podcast-episodes img,
+  div.podcast-episodes p a img {
+    width: 55px;
+    height: 55px;
+    margin: 2px 0;
+    border: 0;
+  }
+  @media screen and (min-width: 465px) and (max-width: 800px) {
+    div.podcast-episodes p {
+      font-size: 0.75em;
+    }
+  }
+  div.food p {
+    grid-template-columns: 125px 1fr;
+    row-gap: 10px;
+  }
+  div.food img,
+  div.food p a img {
+    width: 100px;
+    height: 100px;
+    margin: 2px 0;
+    border: 0;
+  }
+
+  /* /now page reviews sections */
+  article h3#movies + p,
+  article h3#books ~ p,
+  article h3#tv-shows + p,
+  article h3#games + p,
+  article h3#music + p,
+  article div.review p {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1em 1em 2em;
+  }
+
+  div.now p a img,
+  div.review p a img {
+    width: 100%;
+    max-width: 450px;
+    margin: 0;
+  }
+
+  /* /now page YouTube History section */
+  div.yt-history {
+    display: flex;
+    flex-direction: row;
+    row-gap: 1.5em;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: var(--background-yt);
+    padding: 1em;
+    border-radius: 1rem;
+  }
+  /* Each video - yt-video is now a grid container with vertical layout */
+  div.yt-video {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    flex: 1 1 300px;
+    max-width: 400px;
+    gap: 10px;
+  }
+
+  /* Thumbnail paragraph - at the top, centered */
+  div.yt-video > p:first-child {
+    justify-self: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Info div container (sibling to thumbnail p) - below thumbnail, left-aligned */
+  div.yt-video > div {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-self: center;
+    width: 250px;
+  }
+
+  /* Hide empty paragraphs in the info div */
+  div.yt-video > div > p:empty {
+    display: none;
+  }
+
+  /* Channel paragraph */
+  p.yt-video-channel {
+    margin: 0;
+    padding: 0;
+    order: 1;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: var(--secondary-text);
+  }
+
+  p.yt-video-channel a {
+    margin: 0;
+    padding: 0;
+    color: var(--dates);
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  p.yt-video-channel div {
+    align-items: center;
+  }
+
+  /* Title paragraph */
+  p.yt-video-title {
+    margin: 0;
+    padding: 0;
+    order: 2;
+    font-size: 0.85em;
+    line-height: 1.2em;
+  }
+
+  p.yt-video-title a {
+    text-decoration: none;
+  }
+
+  /* Mobile layout - adjust max-width for smaller screens */
+  @media (max-width: 750px) {
+    div.yt-video {
+      max-width: 100%;
+    }
+  }
+
+  div.yt-history img,
+  div.yt-video img,
+  div.yt-history p a img,
+  div.yt-video p a img {
+    width: 250px;
+    height: auto;
+    margin: 0;
   }
 }
 

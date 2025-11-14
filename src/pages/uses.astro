@@ -25,13 +25,16 @@ let description = uses.data.description;
 <Base title={title} description={description}>
   <article>
     <h1>{title}</h1>
-    <div class="use-header">
+    <div
+      class="flex flex-row flex-wrap gap-8 justify-center items-center mx-auto my-10 p-8 rounded-lg font-normal text-[1.2em] italic bg-[var(--surface-menu)] border border-[var(--brand)] max-[699px]:flex-col"
+    >
       <a href={bigmac}
         ><Image
           src={mac}
           height="150"
           densities={[2, 3]}
           alt="My computer desk with MacBook Pro and Apple Studio Display"
+          class="min-h-[150px]"
         /></a
       >
       <a href={bigkeychron}
@@ -40,6 +43,7 @@ let description = uses.data.description;
           height="150"
           densities={[2, 3]}
           alt="Keychron Q1"
+          class="min-h-[150px]"
         /></a
       >
       <a href={bigmbp}
@@ -48,10 +52,11 @@ let description = uses.data.description;
           height="150"
           densities={[2, 3]}
           alt="2021 M1 Pro MacBook Pro 14 in."
+          class="min-h-[150px]"
         /></a
       >
     </div>
-    <div class="text-[0.8em] text-dates font-bold">
+    <div class="text-[0.8em] text-dates font-bold my-12">
       <CalendarFillIcon fill="var(--dates)" />
       <time datetime={uses.data.date}>
         <a href={`/${uses.id}`} class="text-dates"
@@ -59,48 +64,10 @@ let description = uses.data.description;
         >
       </time>
     </div>
-    <div class="uses">
+    <div
+      class="uses px-8 py-1 max-[699px]:px-2 [&_img]:max-w-[350px] max-[440px]:[&_img]:max-w-[300px] [&_img]:block [&_img]:ml-2 [&_p]:text-left"
+    >
       <Content />
     </div>
   </article>
 </Base>
-
-<style>
-  div.use-header {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 2rem;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-    padding: 2rem;
-    border-radius: 10px;
-    font-weight: 400;
-    font-size: 1.2em;
-    font-style: italic;
-  }
-  div.use-header {
-    background-color: var(--surface-menu);
-    border: 1px solid var(--brand);
-  }
-  div.use-header img {
-    min-height: 150px;
-  }
-  div.uses {
-    /* background-color: var(--surface-menu); */
-    padding: 0.1em 2rem;
-    margin: 2.25em 0;
-    /* border-radius: 10px; */
-  }
-  div.item {
-    margin-bottom: 5rem;
-  }
-  @media only screen and (max-width: 699px) {
-    div.use-header {
-      flex-direction: column;
-    }
-    div.uses {
-      padding: 0.1em 0.5rem;
-    }
-  }
-</style>
