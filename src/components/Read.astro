@@ -17,10 +17,10 @@ const { Content } = await render(read);
     <h1>
       <a href={`/reads/${read.id}`}>{read.data.title}</a>
     </h1>
-    <div class="time">
-      <CalendarFillIcon />
+    <div class="time text-[0.75em]">
+      <CalendarFillIcon fill="var(--dates)" />
       <time datetime={read.data.date}>
-        <a href={`/reads/${read.id}`}>
+        <a href={`/reads/${read.id}`} class="text-dates">
           {postdate(read.data.date)}
         </a>
       </time>
