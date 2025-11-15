@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-11T00:53:47-08:00"
+date: "2025-11-14T23:01:20-08:00"
 slug: "now"
 ---
 
@@ -18,16 +18,16 @@ If you want to collaborate on any writing projects along the lines of things I w
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![WIRED Roundup: Zuckerberg’s Illegal School, Nepal’s Discord Revolution, Fandom in Politics](../../assets/images/oc_artwork/4904748007347642-19892cac-4647-4e83-bf5a-33215511ddae.png)](https://overcast.fm/+BFs16Kw1bo) [Uncanny Valley | WIRED – WIRED Roundup: Zuckerberg’s Illegal School, Nepal’s Discord Revolution, Fandom in Politics](https://overcast.fm/+BFs16Kw1bo)
-![A Massive Archiving Effort at National Parks (with Jenny McBurney and Lynda Kellam)](../../assets/images/oc_artwork/5121671690351876-84b88e65-2f04-48fb-9e74-884335ba13f2.png) The 404 Media Podcast (Premium Feed) – A Massive Archiving Effort at National Parks (with Jenny McBurney and Lynda Kellam)
-[![New Blocks On The Kids](../../assets/images/oc_artwork/5015286895208772-ecfc6e90-47e1-4070-99cf-ccd3a01266ac.png)](https://overcast.fm/+BHRYHnV6UQ) [Ctrl-Alt-Speech – New Blocks On The Kids](https://overcast.fm/+BHRYHnV6UQ)
-![In-Car Insights: Edd and Jon on a Newey-led shake-up and day one at the Brazilian GP](../../assets/images/oc_artwork/5523677521910763-9fdfe0fc-d67f-4425-b48b-c937135846cd.png) The Race F1 Podcast (Members) – In-Car Insights: Edd and Jon on a Newey-led shake-up and day one at the Brazilian GP
-![11/6/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694811898938-3c378c5e-5495-4aa4-932f-ef34580d1e40.png) David Pakman Member Feed – 11/6/25: TDPS Bonus Show
-[![664: Humanity Gets in the Way](../../assets/images/oc_artwork/5585879252778692-3e1aab85-3fa6-4f2e-a57b-0596d2a2d2e0.png)](https://overcast.fm/+BPYU9yevsQ) [Accidental Tech Podcast: Unedited Live Stream – 664: Humanity Gets in the Way](https://overcast.fm/+BPYU9yevsQ)
-[![Shut Your Payhole](../../assets/images/oc_artwork/1698966292735125-4c25b0da-85ee-4613-9bc8-6236ebe1e76e.png)](https://overcast.fm/+YJM2pdJJU) [Judge John Hodgman – Shut Your Payhole](https://overcast.fm/+YJM2pdJJU)
-![11/5/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694385485978-73ca4a9e-5c93-4277-89d9-0e1c6ccbe9f3.png) David Pakman Member Feed – 11/5/25: TDPS Bonus Show
-![Can Verstappen provide another title twist in Brazil? (ad-free)](../../assets/images/oc_artwork/5523677588864673-9e636ad8-f724-4069-b768-fcaabbd9d6d5.png) The Race F1 Podcast (Members) – Can Verstappen provide another title twist in Brazil? (ad-free)
-[![The Bulwark’s Sarah Longwell on Why Republicans Won the Attention War](../../assets/images/oc_artwork/1138929893071820-5b7de808-df04-45de-ad83-cf4ab976f0a0.png)](https://overcast.fm/+QL2cezW8w) [Channels with Peter Kafka – The Bulwark’s Sarah Longwell on Why Republicans Won the Attention War](https://overcast.fm/+QL2cezW8w)
+![11/14/25: New Dem instantly slams MAGA as evil incarnate now has power](../../assets/images/oc_artwork/5771694884186583-562b1f2d-172b-4819-be60-a0746fcaeb70.png) David Pakman Member Feed – 11/14/25: New Dem instantly slams MAGA as evil incarnate now has power
+[![WIRED Roundup: AI Romantic Affairs; Google Sues Text Scammers; DHS’s Privacy Breach](../../assets/images/oc_artwork/4904748383280691-804cc753-2a84-4e29-87ca-8c1bf2b73c11.png)](https://overcast.fm/+BFs17kZHjM) [Uncanny Valley | WIRED – WIRED Roundup: AI Romantic Affairs; Google Sues Text Scammers; DHS’s Privacy Breach](https://overcast.fm/+BFs17kZHjM)
+[![S1E3: Grenade](../../assets/images/oc_artwork/5856571496923540-321a01dd-ceac-48fd-879a-a84940243a09.png)](https://overcast.fm/+BTOhU-tAZQ) [Pluribus: The Official Podcast – S1E3: Grenade](https://overcast.fm/+BTOhU-tAZQ)
+![The Video Game Industry’s Existential Crisis (with Jason Schreier)](../../assets/images/oc_artwork/5121672221374835-4e14d1da-02de-4145-bd79-3744d7364a33.png) The 404 Media Podcast (Premium Feed) – The Video Game Industry’s Existential Crisis (with Jason Schreier)
+![📕 Book Club: F1 commentator Alex Jacques on ‘Grid To Glory - 75 Milestone Formula One Moments’](../../assets/images/oc_artwork/5523677930088911-fcb1c6ba-1d5a-449c-b89c-c8eee428b553.png) The Race F1 Podcast (Members) – 📕 Book Club: F1 commentator Alex Jacques on ‘Grid To Glory - 75 Milestone Formula One Moments’
+[![Workflows and TV: Weekend Excursions, Dictation Apps, and Pluribus](../../assets/images/oc_artwork/1847775314799473-934a0477-e42e-4b90-94a5-b4da15cde5cd.png)](https://overcast.fm/+aQirdDa3E) [MacStories Unwind – Workflows and TV: Weekend Excursions, Dictation Apps, and Pluribus](https://overcast.fm/+aQirdDa3E)
+[![792: Deep Books in a Trenchcoat](../../assets/images/oc_artwork/39795111690528-c7f9959c-e7cb-4789-a17a-8bf32e3282dd.png)](https://overcast.fm/+kMYV_ASA) [The Incomparable Mothership – 792: Deep Books in a Trenchcoat](https://overcast.fm/+kMYV_ASA)
+[![Early access! Hill and Herbert Stay On Track - Episode 2 (including your questions!)](../../assets/images/oc_artwork/5853415537092886-1e107e85-725b-4ee0-9dbb-2f88df2c9ce0.png)](https://overcast.fm/+BTLpoHPqRY) [Stay On Track with Damon Hill and Johnny Herbert – Early access! Hill and Herbert Stay On Track - Episode 2 (including your questions!)](https://overcast.fm/+BTLpoHPqRY)
+[![Deviation from the Teen](../../assets/images/oc_artwork/5015286715601035-3e379861-10bb-4d24-8d36-424bebca21ae.png)](https://overcast.fm/+BHRYG8hUIs) [Ctrl-Alt-Speech – Deviation from the Teen](https://overcast.fm/+BHRYG8hUIs)
+[![SteamOS Goes Wide: From a Cube to the Frame](../../assets/images/oc_artwork/5131277554991292-981c44b1-6400-4579-ba5c-e81a14d7b0aa.png)](https://overcast.fm/+BI63qfowLw) [NPC: Next Portable Console – SteamOS Goes Wide: From a Cube to the Frame](https://overcast.fm/+BI63qfowLw)
 
 </div>
 
