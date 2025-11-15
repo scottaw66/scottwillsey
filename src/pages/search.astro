@@ -17,11 +17,11 @@ const title = "Search " + site.title;
 ---
 
 <Base title={title} description={title}>
-  <h1>Search</h1>
-
-  <SearchBar />
-
   <article data-pagefind-ignore>
+    <h1>Search</h1>
+
+    <SearchBar />
+
     <div class="seriescloud">
       <span>Series</span>
       <div>
@@ -42,11 +42,6 @@ const title = "Search " + site.title;
       <TagCloud showCount="true" displayNumber="11" />
     </div>
   </article>
-  <style>
-    article {
-      margin: 3em 0;
-    }
-  </style>
 </Base>
 <style>
   div.seriescloud div {

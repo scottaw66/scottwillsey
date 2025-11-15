@@ -516,10 +516,11 @@
 /* Pagefind UI customization - must be outside @layer base to override defaults */
 #search .pagefind-ui__result-title,
 #search .pagefind-ui__result-link {
-  @apply font-title text-hyperlink;
+  @apply font-title text-hyperlink text-[1.5rem];
 }
 #search .pagefind-ui__result-excerpt {
   font-family: "Atkinson Hyperlegible";
+  font-size: 1.2rem;
 }
 #search .pagefind-ui__result-thumb {
   display: none;
@@ -530,14 +531,15 @@
   @apply bg-[var(--search-bg)] text-[var(--search-text)];
 }
 #search .pagefind-ui__results-area {
-  @apply bg-surface-menu p-[0.35em] rounded-[0.35em];
+  @apply bg-surface-menu p-[0.35em] rounded-[0.35em] text-[var(--text1)];
 }
 #search .pagefind-ui__message {
   color: var(--text1);
+  font-size: 1.5rem;
   margin: calc(0.5rem * 0.8) 0 calc(1.5rem * 0.8) calc(0.5rem * 0.8);
 }
 #search .pagefind-ui__button {
-  @apply text-[var(--pagefind-button-color)] bg-[var(--pagefind-button-background)];
+  @apply text-[var(--search-text)] bg-[var(--search-bg)];
 }
 
 /* Pagination component styling */
