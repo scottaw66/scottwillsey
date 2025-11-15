@@ -3,9 +3,6 @@ title: "Raycast AI Commands"
 description: One advantage of Raycast AI is its AI Commands functionality.
 date: "2024-05-19T01:00:00-08:00"
 keywords: ["mac", "raycast", "apps", "chatgpt", "ai"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-ai-commands"
 ---
 [Marc Magnin](https://mastodon.social/@marcmagnin) brought up a point I hadn’t considered when [I asked if ChatGPT desktop app might Sherlock Raycast Advanced AI for me](https://scottwillsey.com/chat-gpt-sherlock/) – [Raycast AI Commands](https://prompts.ray.so/code).

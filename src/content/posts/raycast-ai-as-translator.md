@@ -3,9 +3,6 @@ title: Raycast AI as Translator
 description: "A compelling use case for AI: a Japanese to English translator that gives me a translation, breakdown of the Chinese characters in a Japanese phrase, and the ability to ask follow-up questions."
 date: "2025-05-04T00:10:00-08:00"
 keywords: ["raycast","ai"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-ai-as-translator"
 ---
 Here’s a use case for AI that I really like: a Japanese to English translator that gives me a translation and breakdown of the kanji (Chinese characters) in a Japanese phrase or passage. The reason AI is really good for this as opposed to Japanese apps that let you paste in phrases or do text detection in images is that you get translation, the ability to specify how you want the results returned, the image text detection, AND the ability to ask follow-up questions.

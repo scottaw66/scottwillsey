@@ -3,9 +3,7 @@ title: "Cool Site Spotlight Raycast Script Command"
 description: Using Raycast script commands to automate updating my Cool Site Spotlight.
 date: "2025-02-02T05:00:00-08:00"
 keywords: ["apps", "automation", "blog", "indieweb", "mac", "programming", "raycast"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
+
 slug: "cool-site-spotlight-script-command"
 ---
 

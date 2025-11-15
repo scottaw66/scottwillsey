@@ -3,9 +3,7 @@ title: Updated Sessions Raycast Script Command, 2025 Edition
 description: An even NEWER version of my Sessions Raycast script command using Raycast window layouts, Raycast focus sessions, and Coffee for Raycast to keep the screen awake.
 date: "2025-03-27T00:10:00-08:00"
 keywords: ["apps", "mac", "automation", "programming", "raycast"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
+
 slug: "updated-sessions-raycast-script-command,-2025-edition"
 ---
 I’ve spoken a couple times about my Sessions Raycast script command, both when [I originally set it up](https://scottwillsey.com/sessions-script-command/), and then again when [I updated it to use Moom as my window manager](https://scottwillsey.com/updated-sessions-script-command/). Well, I’m back to using Raycast as my window manager, and I also use a Raycast focus mode for my podcast session. So here’s your updated Session Raycast script command, 2025 edition.

@@ -3,9 +3,6 @@ title: "ChatGPT for macOS Will Not Sherlock Raycast AI for Me"
 description: The answer to my own question about ChatGPT for macOS supplanting Raycast Advanced AI is a simple one.
 date: "2024-06-05T01:00:00-08:00"
 keywords: ["mac", "raycast", "apps", "chatgpt"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-ai-not-sherlocked"
 ---
 I’ve finally had a chance to play with the ChatGPT macOS app[^1] and I’m here to say it doesn’t swing the uppercut required to get me to stop paying for Raycast Advanced AI. Right now the one thing it has that Raycast AI does not is the ability to upload files for parsing, but that’s coming soon to Raycast AI. Raycast also keeps playing with ideas like support for local LLMs to augment their Advanced AI plan support for models like OpenAI GPT-4o, Anthropic Claude 3 Sonnet and Opus, and Perplexity Llama 3 Sonar Large.

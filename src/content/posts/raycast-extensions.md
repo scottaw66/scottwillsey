@@ -3,9 +3,6 @@ title: "Raycast Extensions I Use"
 description: Raycast has extensions, and I use some of them. Here they are!
 date: "2024-10-13T09:00:00-08:00"
 keywords: ["mac", "raycast", "apps"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-extensions"
 ---
 ## Introductionum

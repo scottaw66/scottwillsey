@@ -3,9 +3,6 @@ title: "Automating Sessions with Raycast Script Commands"
 description: Using Raycast script commands to automate workflow sessions.
 date: "2024-08-25T05:00:00-08:00"
 keywords: ["apps", "mac", "automation", "programming", "raycast"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "sessions-script-command"
 ---
 

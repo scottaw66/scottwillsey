@@ -3,9 +3,6 @@ title: "Will ChatGPT Desktop Sherlock Raycast AI for Me?"
 description: Is OpenAI trying to Sherlock Raycast AI with its new macOS desktop app? Maybe.
 date: "2024-05-18T01:00:00-08:00"
 keywords: ["mac", "raycast", "apps", "chatgpt"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "chat-gpt-sherlock"
 ---
 Interesting things are afoot at the company known as [OpenAI](https://openai.com/). Apparently they’re in the Sherlocking business now, and their target is (unintentionally?) Raycast AI. I’m talking about an AI chat triggered by keyboard shortcut, with model selection, conversation history, contextual awareness and screenshot and image analysis, and more.

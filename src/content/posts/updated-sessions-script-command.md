@@ -3,9 +3,7 @@ title: "Updated Sessions Raycast Script Command"
 description: A version of my Sessions Raycast script command using Moom layouts instead of Raycast Window Management layouts.
 date: "2024-09-15T05:00:00-08:00"
 keywords: ["apps", "mac", "automation", "programming", "raycast"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
+
 slug: "updated-sessions-script-command"
 ---
 As you may know, [I created a Raycast script command to trigger what I call “sessions”](https://scottwillsey.com/sessions-script-command/), which are really just setting up the Mac to perform different tasks, such as podcasting or “normal” general use. At the time, I was using Raycast for window management, so my script command referenced Raycast window management layouts. Now [I’m using Moom](https://scottwillsey.com/moom4/) for window management, so I needed to update it to call my Moom layouts instead.

@@ -3,9 +3,7 @@ title: /Now Page Update – Podcast Episode Artwork
 description: "I updated my /now page with podcast history episode artwork. Here's how it works."
 date: "2025-05-22T00:10:00-08:00"
 keywords: ["raycast","blog","images","programming","raycast"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
+
 slug: "now-page-update-podcast-episode-artwork"
 ---
 I made a change yesterday to my [/now](/now) page to make the Podcasts section look nicer by including podcast artwork next to the episode entries. I think it adds visual interest, and (most importantly) it was fun to update my recent podcast history script to include it.

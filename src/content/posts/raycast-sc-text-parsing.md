@@ -3,9 +3,6 @@ title: "Raycast Script Command for Text Parsing"
 description: Raycast script commands are great for all kinds of scripted tasks, and I'm increasingly using them for tasks related to my website.
 date: "2024-03-03T05:00:00-08:00"
 keywords: ["automation", "mac", "apps", "blog", "raycast", "programming", "python"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-sc-text-parsing"
 ---
 I previously wrote about [using Raycast script commands to switch default browsers](https://scottwillsey.com/default-browser/). Raycast script commands are really good for scripting all kinds of other things too. One example is a Python script command I created yesterday for the purpose of grabbing a couple values from a JSON file and formatting them into a markdown hyperlink and putting it on the clipboard.

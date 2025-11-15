@@ -3,9 +3,6 @@ title: "The Notey McNoteness of Raycast Notes"
 description: Raycast Notes is a great context-based scratchpad that verges on having slightly too many features.
 date: "2025-01-08T09:00:00-08:00"
 keywords: ["mac", "raycast", "apps"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-notes"
 ---
 

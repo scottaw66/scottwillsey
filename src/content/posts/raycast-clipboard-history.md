@@ -3,9 +3,6 @@ title: "Raycast Clipboard History"
 description: Raycast comes with a basic, easy to use, and well designed Clipboard History feature.
 date: "2023-09-15T01:00:00-08:00"
 keywords: ["mac", "raycast", "apps"]
-cover: "../../assets/images/covers/RaycastHeader.png"
-coverAlt: "Raycast"
-series: "Raycast"
 slug: "raycast-clipboard-history"
 ---
 
