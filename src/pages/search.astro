@@ -22,55 +22,9 @@ const title = "Search " + site.title;
 
     <SearchBar />
 
-    <div class="seriescloud">
-      <span>Series</span>
-      <div>
-        {
-          allSeries.map((series) => (
-            <span>
-              <a href={`/series/${slugify(series)}/`}>{series}</a>
-            </span>
-          ))
-        }
-        <span class="all-series">
-          <a href="/series">Browse all series</a>
-        </span>
-      </div>
-    </div>
-    <div class="tagcloud">
-      <span>Some Tags</span>
+    <div class="tagcloud my-10 mx-auto max-w-4xl">
+      <h3 class="text-text1 my-6">Some Tags</h3>
       <TagCloud showCount="true" displayNumber="11" />
     </div>
   </article>
 </Base>
-<style>
-  div.seriescloud div {
-    display: flex;
-    flex-direction: column;
-    margin: 0 2em;
-    padding: 0;
-  }
-  div.seriescloud div span {
-    font-weight: 300;
-    font-size: 1.1rem;
-  }
-  span.all-series a {
-    margin-top: 1em;
-    font-weight: bold;
-  }
-
-  @media only screen and (max-width: 460px) {
-    div.seriescloud,
-    div.tagcloud {
-      margin: 0 0.75em;
-      font-size: 0.75rem;
-    }
-    div.seriescloud div {
-      gap: 0.25rem;
-      margin: 0 1rem;
-    }
-    span.all-series a {
-      font-size: 0.75rem;
-    }
-  }
-</style>

@@ -12,54 +12,36 @@ const filteredPosts = posts.filter(
 );
 ---
 
-<section aria-label="Series list">
+<section aria-label="Series list" class="mb-6 last:mb-0">
   <h2><a href={`/series/${slugify(series)}/`}>{series}</a></h2>
-  <header>
+  <header class="bg-surface-menu rounded-lg p-2 px-8">
     {
       filteredPosts
         .sort((a, b) => a.data.date - b.data.date)
         .map((post) => (
           <>
-            <h4>
+            <h4
+              class="
+    my-[0.3em]"
+            >
               <a href={`/${post.id}`}>{titleCase(post.data.title)}</a>
             </h4>
             <div class="cal">
-              <CalendarIcon />
-              <time datetime={post.data.date}>
-                <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
+              <CalendarIcon size="0.75em" fill="var(--dates)" margin="0" />
+              <time
+                datetime={post.data.date}
+                class="text-dates font-bold text-[0.5em]"
+              >
+                <a href={`/${post.id}`} class="text-dates">
+                  {postdate(post.data.date)}
+                </a>
               </time>
             </div>
-            <div class="description">{post.data.description}</div>
+            <div class="description text-[0.75em] my-[0.3em] mb-[2em] last:mb-2">
+              {post.data.description}
+            </div>
           </>
         ))
     }
   </header>
 </section>
-<style>
-  header {
-    background-color: var(--surface-menu);
-    border-radius: 0.5rem;
-    padding: 0.5rem 2rem;
-    margin: 1rem 0;
-  }
-  h4 {
-    margin: 0.3em 0;
-  }
-  div.cal,
-  div.cal a {
-    font-weight: bold;
-    font-size: 0.75em;
-    color: var(--accent-orange-darker);
-  }
-  div.description {
-    font-size: 0.75em;
-    margin: 0.3em 0 2em;
-  }
-  div.description:last-child {
-    margin-bottom: 0.5em;
-  }
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.75rem;
-    margin-bottom: -0.1rem;
-  }
-</style>

@@ -2,7 +2,6 @@
 import Base from "../../layouts/Base.astro";
 import TagCloud from "../../components/TagCloud.astro";
 import site from "../../data/site.json";
-import TagIcon from "../../components/icons/TagIcon.astro";
 
 let title = "Tags - " + site.title;
 let description = "Tags used in posts on " + site.title + ".";
@@ -11,20 +10,10 @@ let description = "Tags used in posts on " + site.title + ".";
 <Base title={title} description={description}>
   <article data-pagefind-ignore>
     <span id="tag-cloud">
-      <h1><TagIcon /><a href="/tags">Tags</a></h1>
-      <div class="cloud">
+      <h1><a href="/tags">Tags</a></h1>
+      <div class="my-10 mx-auto max-w-4xl">
         <TagCloud showCount="true" displayNumber="999" />
       </div>
     </span>
   </article>
 </Base>
-
-<style>
-  div.cloud {
-    margin: 3em 1em;
-  }
-  [data-icon="uiw:tags"] {
-    font-size: 3.5rem;
-    margin: 0 0.5rem -1rem 0;
-  }
-</style>

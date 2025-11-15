@@ -3,9 +3,6 @@ title: "Warp Blocks"
 description: Warp is a modern, macOS convention-friendly terminal. One of its nicer features is Blocks, which allow for deeper work on command output.
 date: "2023-12-11T05:00:00-08:00"
 keywords: ["mac", "apps", "terminal", "warp"]
-cover: "../../assets/images/covers/WarpHeader.png"
-coverAlt: "Warp"
-series: "Warp"
 slug: "warp-blocks"
 ---
 

@@ -4,7 +4,6 @@ import Base from "../../layouts/Base.astro";
 import { postdate } from "../../components/utilities/DateFormat.js";
 import { titleCase } from "../../components/utilities/StringFormat.js";
 import CalendarFillIcon from "../../components/icons/CalendarFillIcon.astro";
-import TagIcon from "../../components/icons/TagIcon.astro";
 
 export async function getStaticPaths({}) {
   const allPosts = await getCollection("posts");
@@ -39,66 +38,30 @@ let description = "Posts with tag " + tag + ".";
 <Base title={title} description={description}>
   <article data-pagefind-ignore>
     <h1>
-      <TagIcon />
-      <a href={`/tags/${tag}`}>{title}</a>
+      <a href={`/tags/${tag}`}>#{title}</a>
     </h1>
     <section aria-label="Blog post list">
       {
         posts.map((post) => (
-          <header>
-            <h4>
+          <header class="bg-surface-menu rounded-lg px-8 py-2 my-4">
+            <h3 class="my-[0.3em]">
               <a href={`/${post.id}`}>{titleCase(post.data.title)}</a>
-            </h4>
-            <div class="cal">
-              <CalendarFillIcon />
+            </h3>
+            <div class="text-[0.6em] font-bold my-3">
+              <CalendarFillIcon size="1em" fill="var(--dates)" margin="0.25" />
               <time datetime={post.data.date}>
-                <a href={`/${post.id}`}>{postdate(post.data.date)}</a>
+                <a href={`/${post.id}`} class="text-dates">
+                  {postdate(post.data.date)}
+                </a>
               </time>
             </div>
-            <div class="description">{post.data.description}</div>
+            <div class="text-[0.75em]">{post.data.description}</div>
           </header>
         ))
       }
-      <p class="posts-link">
-        <a href="/tags"><TagIcon /> Browse all tags</a>
+      <p class="mx-6 my-[1.5em]">
+        <a href="/tags">Browse all tags</a>
       </p>
     </section>
   </article>
 </Base>
-
-<style>
-  header {
-    background-color: var(--surface-menu);
-    border-radius: 0.5rem;
-    padding: 0.5rem 2rem;
-    margin: 1rem 0;
-  }
-  h4 {
-    margin: 0.3em 0;
-  }
-  div.cal,
-  div.cal a {
-    font-weight: bold;
-    font-size: 0.75em;
-    color: var(--accent-orange-darker);
-  }
-  div.description {
-    font-size: 0.75em;
-    margin: 0.3em 0;
-  }
-  p.posts-link {
-    margin: 1.5em;
-  }
-  [data-icon="uiw:tag"] {
-    font-size: 2.5rem;
-    margin: 0 0.5rem -0.5rem 0;
-  }
-  [data-icon="bi:calendar2-week-fill"] {
-    font-size: 0.75rem;
-    margin-bottom: -0.1rem;
-  }
-  [data-icon="mdi:tag-plus"] {
-    font-size: 1.25rem;
-    margin-bottom: -0.25rem;
-  }
-</style>
