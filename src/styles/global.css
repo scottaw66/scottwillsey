@@ -6,24 +6,15 @@
     "Segoe UI", Helvetica, Arial, sans-serif;
   --font-title: Cartridge-BoldSoft, sans-serif;
   --font-title-nihongo: MochiyPopOne-Regular, sans-serif;
-  --font-mono:
-    "IBM Plex Mono", Consolas, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", monospace;
 
   --color-brand: var(--brand);
-  --color-accent-blue: var(--accent-blue);
   --color-accent-pink: var(--accent-pink);
-  --color-accent-purple: var(--accent-purple);
-  --color-accent-orange: var(--accent-orange);
-  --color-accent-orange-darker: var(--accent-orange-darker);
-  --color-accent-white: var(--accent-white);
   --color-dates: var(--dates);
   --color-title: var(--title);
   --color-title-hover: var(--title-hover);
   --color-hyperlink: var(--hyperlink);
   --color-hyperlink-blurb: var(--hyperlink-blurb);
   --color-text1: var(--text1);
-  --color-text3: var(--text3);
   --color-quote: var(--quote);
   --color-quote-bg: var(--quote-bg);
   --color-surface-menu: var(--surface-menu);
@@ -31,14 +22,6 @@
   --color-nav-border: var(--nav-border);
   --color-background: var(--background);
   --color-post-bg: var(--post-bg);
-  --color-theme-toggle: var(--theme-toggle);
-  --color-pager-current: var(--pager-current);
-  --color-pager-current-text: var(--pager-current-text);
-  --color-pager-hover: var(--pager-hover);
-  --color-search-box: var(--color-hyperlink);
-  --color-search-text: var(--text1);
-  --breakpoint-xs: 460px;
-  --breakpoint-xl: 1160px;
 }
 
 @layer base {
