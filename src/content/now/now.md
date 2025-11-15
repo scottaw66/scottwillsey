@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-14T23:01:20-08:00"
+date: "2025-11-14T23:22:03-08:00"
 slug: "now"
 ---
 
@@ -44,72 +44,72 @@ If you want to collaborate on any writing projects along the lines of things I w
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_VUyib5mR8Pg.png](../../assets/images/yt_thumbs/20251107110617_VUyib5mR8Pg.png)](https://www.youtube.com/watch?v=VUyib5mR8Pg)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Anthropic can’t help themselves…](https://www.youtube.com/watch?v=VUyib5mR8Pg)
+[![../../assets/images/yt_thumbs/20251114231625_1Wj8JVrRGAc.png](../../assets/images/yt_thumbs/20251114231625_1Wj8JVrRGAc.png)](https://www.youtube.com/watch?v=1Wj8JVrRGAc)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
+[I don't talk to my wife｜Daily Routine of Japanese｜Japan VLOG](https://www.youtube.com/watch?v=1Wj8JVrRGAc)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_a3uMv1S-1tM.png](../../assets/images/yt_thumbs/20251107110617_a3uMv1S-1tM.png)](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)<div><p class="yt-video-channel">Channel – [Ali H. Salem](https://www.youtube.com/@Ali.H.Salem1)</p><p class="yt-video-title">
-[Claude Skills Explained: Beginner to Advanced Tutorial](https://www.youtube.com/watch?v=a3uMv1S-1tM&t=208s)
+[![../../assets/images/yt_thumbs/20251114231625_FCVlXNaX1yQ.png](../../assets/images/yt_thumbs/20251114231625_FCVlXNaX1yQ.png)](https://www.youtube.com/watch?v=FCVlXNaX1yQ&t=992s)<div><p class="yt-video-channel">Channel – [LawVS](https://www.youtube.com/@LawVS)</p><p class="yt-video-title">
+[Lando Norris Replaces Max Verstappen as F1's Bad Guy](https://www.youtube.com/watch?v=FCVlXNaX1yQ&t=992s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_NHiKC96HU24.png](../../assets/images/yt_thumbs/20251107110617_NHiKC96HU24.png)](https://www.youtube.com/watch?v=NHiKC96HU24)<div><p class="yt-video-channel">Channel – [Savvy Nomad](https://www.youtube.com/@savvynomadio)</p><p class="yt-video-title">
-[Trump's 2025 Tax Law: What Expats Need to Know](https://www.youtube.com/watch?v=NHiKC96HU24)
+[![../../assets/images/yt_thumbs/20251114231625_36W0dMwQJxU.png](../../assets/images/yt_thumbs/20251114231625_36W0dMwQJxU.png)](https://www.youtube.com/watch?v=36W0dMwQJxU&t=807s)<div><p class="yt-video-channel">Channel – [Anastasi In Tech](https://www.youtube.com/@AnastasiInTech)</p><p class="yt-video-title">
+[America’s New Chip Factory –$50 Billion Disaster](https://www.youtube.com/watch?v=36W0dMwQJxU&t=807s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_v9Rd_l6gLjU.png](../../assets/images/yt_thumbs/20251107110617_v9Rd_l6gLjU.png)](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
-[Gemini Designer is INSANE... Build Beautiful Websites in Minutes](https://www.youtube.com/watch?v=v9Rd_l6gLjU&t=88s)
+[![../../assets/images/yt_thumbs/20251114231625_Tfvm0YV3kHs.png](../../assets/images/yt_thumbs/20251114231625_Tfvm0YV3kHs.png)](https://www.youtube.com/watch?v=Tfvm0YV3kHs)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
+[Trump ATTACKS Marjorie… then she BURIES HIM!](https://www.youtube.com/watch?v=Tfvm0YV3kHs)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_dSjWFlbxTLg.png](../../assets/images/yt_thumbs/20251107110617_dSjWFlbxTLg.png)](https://www.youtube.com/watch?v=dSjWFlbxTLg)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
-[Brutally Honest Truths About Buying Property in Japan](https://www.youtube.com/watch?v=dSjWFlbxTLg)
+[![../../assets/images/yt_thumbs/20251114231625_pKqYtMQA81k.png](../../assets/images/yt_thumbs/20251114231625_pKqYtMQA81k.png)](https://www.youtube.com/watch?v=pKqYtMQA81k)<div><p class="yt-video-channel">Channel – [asuka🇯🇵](https://www.youtube.com/@asuka_japan_diary)</p><p class="yt-video-title">
+[Alone in Tokyo After Work | 9pm–1am Cozy Night Routine I Stress, Beer 🍺 & Quiet Night](https://www.youtube.com/watch?v=pKqYtMQA81k)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_IwQYVQ3MohE.png](../../assets/images/yt_thumbs/20251107110617_IwQYVQ3MohE.png)](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies](https://www.youtube.com/watch?v=IwQYVQ3MohE&t=42s)
+[![../../assets/images/yt_thumbs/20251114231625_JbSFDZLhLpY.png](../../assets/images/yt_thumbs/20251114231625_JbSFDZLhLpY.png)](https://www.youtube.com/watch?v=JbSFDZLhLpY&t=603s)<div><p class="yt-video-channel">Channel – [Chani Japan](https://www.youtube.com/@ChaniJapan)</p><p class="yt-video-title">
+[At a Crossroad in Japan: The Decision I Didn't Want to Make](https://www.youtube.com/watch?v=JbSFDZLhLpY&t=603s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_JqmkB3bby8s.png](../../assets/images/yt_thumbs/20251107110617_JqmkB3bby8s.png)](https://www.youtube.com/watch?v=JqmkB3bby8s)<div><p class="yt-video-channel">Channel – [blancolirio](https://www.youtube.com/@blancolirio)</p><p class="yt-video-title">
-[UPS #2976 UPDATE 2 6 Nov 2025](https://www.youtube.com/watch?v=JqmkB3bby8s)
+[![../../assets/images/yt_thumbs/20251114231625_1piFEKA9XL0.png](../../assets/images/yt_thumbs/20251114231625_1piFEKA9XL0.png)](https://www.youtube.com/watch?v=1piFEKA9XL0)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Anthropic admits that MCP sucks](https://www.youtube.com/watch?v=1piFEKA9XL0)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_gIIjGtz-SdA.png](../../assets/images/yt_thumbs/20251107110617_gIIjGtz-SdA.png)](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Lewis Hamilton: The Ultimate Onboard Collection | Best Onboards | Qatar Airways](https://www.youtube.com/watch?v=gIIjGtz-SdA&t=1580s)
+[![../../assets/images/yt_thumbs/20251114231625_JMxlDSO9bOM.png](../../assets/images/yt_thumbs/20251114231625_JMxlDSO9bOM.png)](https://www.youtube.com/watch?v=JMxlDSO9bOM&t=6s)<div><p class="yt-video-channel">Channel – [TreeWall](https://www.youtube.com/@treewall7435)</p><p class="yt-video-title">
+[Serial experiments Lain Ep 01 LEGENDADO PT-BR](https://www.youtube.com/watch?v=JMxlDSO9bOM&t=6s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251107110617_BOy4ZMd01m8.png](../../assets/images/yt_thumbs/20251107110617_BOy4ZMd01m8.png)](https://www.youtube.com/watch?v=BOy4ZMd01m8)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[United Jet OVERRUNS Runway After Captain Ignores FO Warnings](https://www.youtube.com/watch?v=BOy4ZMd01m8)
+[![../../assets/images/yt_thumbs/20251114231625_LE5NE8MlZBI.png](../../assets/images/yt_thumbs/20251114231625_LE5NE8MlZBI.png)](https://www.youtube.com/watch?v=LE5NE8MlZBI&t=23s)<div><p class="yt-video-channel">Channel – [Parkrose Permaculture](https://www.youtube.com/@ParkrosePermaculture)</p><p class="yt-video-title">
+[ICE is keeping folks' jewelry, passports, valuables. What you need to know.](https://www.youtube.com/watch?v=LE5NE8MlZBI&t=23s)
 </p></div>
 
 </div>
