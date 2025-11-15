@@ -41,7 +41,7 @@ const indexPosts = allPosts.slice(0, 5);
   <SearchBar />
 </div>
 <span data-pagefind-ignore="all">
-  <h1 class="text-[2rem] my-3">
+  <h1 class="text-[1.5rem] my-3">
     <a href="/1"><div class="text-hyperlink ml-2">Latest Posts</div></a>
   </h1>
   <section
@@ -51,7 +51,7 @@ const indexPosts = allPosts.slice(0, 5);
     {
       indexPosts.map((post) => (
         <header class="mb-5">
-          <h2 class="font-body text-[1.2em] my-2">
+          <h2 class="font-body text-[1.1rem] my-2">
             <a href={`/${post.id}`} class="text-hyperlink">
               {post.data.link ? (
                 <span data-pagefind-ignore>
@@ -63,7 +63,7 @@ const indexPosts = allPosts.slice(0, 5);
               {titleCase(post.data.title)}
             </a>
           </h2>
-          <div class="text-[0.8em] text-dates font-bold">
+          <div class="text-[0.8rem] text-dates font-bold">
             <CalendarIcon fill="var(--dates)" />
             <time datetime={post.data.date}>
               <a href={`/${post.id}`} class="text-dates">
@@ -75,13 +75,15 @@ const indexPosts = allPosts.slice(0, 5);
       ))
     }
     <p class="text-center">
-      <a href="/1" class="text-hyperlink">Browse all posts</a>
+      <a href="/1" class="text-hyperlink text-[0.9em] font-bold"
+        >Browse all posts</a
+      >
     </p>
   </section>
-  <h1 class="text-[2rem] my-3">
+  <h1 class="text-[1.5rem] my-3">
     <a href="/1"><div class="text-hyperlink ml-2">Useful Stuff</div></a>
   </h1>
-  <section id="useful">
+  <section id="useful" class="text-[0.8em]">
     <ul>
       <li><a href="/search">Search</a></li>
       <li><a href="/links">Links</a></li>
@@ -92,10 +94,10 @@ const indexPosts = allPosts.slice(0, 5);
       <li><a href="/about">About</a></li>
     </ul>
   </section>
-  <h1 class="text-[2rem] my-3">
+  <h1 class="text-[1.5rem] my-3">
     <a href="/1"><div class="text-hyperlink ml-2">Recent Updates</div></a>
   </h1>
-  <section id="updates">
+  <section id="updates" class="text-[0.8em]">
     <ul>
       <li><a href="/now">/now</a></li>
     </ul>
