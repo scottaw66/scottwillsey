@@ -106,6 +106,10 @@
     --pager-hover-light: var(--brand-light);
     --search-bg-light: var(--brand-light);
     --search-text-light: var(--text1);
+    --tag-bg-light: var(--brand-light);
+    --tag-text-light: var(--text3-light);
+    --tag-bg-hover-light: var(--accent-orange-light);
+    --tag-text-hover-light: var(--text1-dark);
     --theme-toggle-light: var(--accent-orange-light);
 
     --brand-dark: rgb(254, 214, 105);
@@ -121,7 +125,7 @@
     --hyperlink-dark: var(--accent-blue-dark);
     --hyperlink-blurb-dark: var(--hyperlink-dark);
     --text1-dark: #fef9ef;
-    --text3-dark: white;
+    --text3-dark: #1c1c1c;
     --quote-bg-dark: var(--surface-menu-dark);
     --background-dark: #2e2e2e;
     --surface-menu-dark: #3a3a3a;
@@ -140,6 +144,10 @@
     --pager-hover-dark: var(--brand-dark);
     --search-bg-dark: var(--hyperlink-dark);
     --search-text-dark: var(--text1-light);
+    --tag-bg-dark: var(--accent-blue-dark);
+    --tag-text-dark: var(--text3-dark);
+    --tag-bg-hover-dark: var(--accent-orange-darker-dark);
+    --tag-text-hover-dark: var(--text1-dark);
     --theme-toggle-dark: var(--accent-orange);
   }
 
@@ -170,6 +178,10 @@
     --pager-hover: var(--pager-hover-light);
     --search-bg: var(--search-bg-light);
     --search-text: var(--search-text-light);
+    --tag-bg: var(--tag-bg-light);
+    --tag-text: var(--tag-text-light);
+    --tag-bg-hover: var(--tag-bg-hover-light);
+    --tag-text-hover: var(--tag-text-hover-light);
     --theme-toggle: var(--theme-toggle-light);
     --surface-menu: var(--surface-menu-light);
     --background-yt: var(--surface-yt-light);
@@ -207,6 +219,10 @@
     --pager-hover: var(--pager-hover-dark);
     --search-bg: var(--search-bg-dark);
     --search-text: var(--search-text-dark);
+    --tag-bg: var(--tag-bg-dark);
+    --tag-text: var(--tag-text-dark);
+    --tag-bg-hover: var(--tag-bg-hover-dark);
+    --tag-text-hover: var(--tag-text-hover-dark);
     --theme-toggle: var(--theme-toggle-dark);
     --surface-menu: var(--surface-menu-dark);
     --background-yt: var(--surface-yt-dark);

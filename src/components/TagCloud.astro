@@ -23,37 +23,18 @@ const processedTags = allTags.reduce((acc, tag) => {
 const { showCount, displayNumber } = Astro.props;
 ---
 
-<span class="categories">
+<span class="flex justify-center flex-wrap gap-[0.4rem]">
   {
     Object.entries(processedTags)
       .map(([key, val]) => (
-        <a class="badge" href={`/tags/${slugify(key)}/`}>
+        <a
+          class="px-2 py-1 rounded border text-base uppercase no-underline [background-color:var(--tag-bg)] [color:var(--tag-text)] [border-color:var(--hyperlink)] hover:[background-color:var(--tag-bg-hover)] hover:[color:var(--tag-text-hover)]"
+          href={`/tags/${slugify(key)}/`}
+        >
           {key} {showCount && `(${val})`}
         </a>
       ))
       .slice(0, displayNumber)
   }
-  {displayNumber < 999 ? <a href="/tags/">All Tags ...</a> : null}
+  {displayNumber < 999 ? <a class="px-2 py-1 rounded border text-base uppercase no-underline [background-color:var(--tag-bg)] [color:var(--tag-text)] [border-color:var(--hyperlink)] hover:[background-color:var(--tag-bg-hover)] hover:[color:var(--tag-text-hover)]" href="/tags/">All Tags ...</a> : null}
 </span>
-<style>
-  span.categories {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-  }
-  span.categories a {
-    background-color: var(--surface-menu);
-    color: var(--color-gray-800);
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.25rem;
-    border: 1px solid var(--brand);
-    font-size: 1rem;
-    text-transform: uppercase;
-    text-decoration: none;
-  }
-  span.categories a:hover {
-    background-color: var(--brand);
-    color: #fff;
-  }
-</style>
