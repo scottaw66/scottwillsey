@@ -15,7 +15,7 @@ let description = "About Scott Willsey";
     <h1>About Me</h1>
     <a href="/images/ScottLatest.jpg">
       <Image
-        class="about-av"
+        class="size-[200px] sm:size-[250px] block mx-auto p-0 rounded-[50%] border-(var(--hyperlink)) border-3"
         src={av}
         width={600}
         format={"webp"}
@@ -23,7 +23,7 @@ let description = "About Scott Willsey";
         quality={85}
       />
     </a>
-    <p>Hello, friend.</p>
+    <p class="font-bold text-4xl">Hello, friend.</p>
 
     <p>
       This site has lots of <a href="/links">/links</a> and my <a href="/uses"
@@ -68,9 +68,9 @@ let description = "About Scott Willsey";
     </p>
 
     <p>
-      This site is for me to talk about automation and geekiness for both Mac
-      and iOS platforms – Shortcuts, apps, secret terminal incantations, and
-      more.
+      This site is for me to talk about automation and geekiness for Mac and the
+      web – Shortcuts, apps, secret terminal incantations, Astro, Maudit, CSS,
+      and more.
     </p>
 
     <p>
@@ -84,32 +84,15 @@ let description = "About Scott Willsey";
 
     <p>
       My happiness in life is due to my wife and daughter. They are amazing. And
-      also due to my cats, much as they refuse to love each other.
+      also due to my cats, even though they refuse to love each other.
     </p>
 
-    <p>
+    <p class="italic">
       Contact me on <a rel="me" href="https://social.lol/@scottwillsey">
-        <MastodonIcon /> Mastodon</a
+        <MastodonIcon size="1.1em" fill="var(--accent-purple)" /> Mastodon</a
       > or <a href="https://bsky.app/profile/scottwillsey.com"
-        ><BlueSkyIcon /> Bluesky</a
+        ><BlueSkyIcon size="1em" fill="var(--accent-blue)" /> Bluesky</a
       > if you like.
     </p>
   </article>
 </Base>
-<style>
-  img.about-av {
-    border-radius: 50%;
-    border: 3px solid var(--hyperlink);
-    margin: 0 auto;
-    display: block;
-    width: 200px;
-    height: 200px;
-  }
-  p:first-of-type {
-    font-weight: bold;
-    font-size: 1.2em;
-  }
-  p:last-of-type {
-    font-style: italic;
-  }
-</style>

@@ -35,7 +35,8 @@
   --color-pager-current: var(--pager-current);
   --color-pager-current-text: var(--pager-current-text);
   --color-pager-hover: var(--pager-hover);
-
+  --color-search-box: var(--color-hyperlink);
+  --color-search-text: var(--text1);
   --breakpoint-xs: 460px;
   --breakpoint-xl: 1160px;
 }
@@ -120,6 +121,8 @@
     --pager-current-light: var(--brand-light);
     --pager-current-text-light: var(--surface-menu-light);
     --pager-hover-light: var(--brand-light);
+    --search-bg-light: var(--brand-light);
+    --search-text-light: var(--text1);
     --theme-toggle-light: var(--accent-orange-light);
 
     --brand-dark: rgb(254, 214, 105);
@@ -152,6 +155,8 @@
     --pager-current-dark: var(--accent-blue-dark);
     --pager-current-text-dark: var(--background-dark);
     --pager-hover-dark: var(--brand-dark);
+    --search-bg-dark: var(--hyperlink-dark);
+    --search-text-dark: var(--text1-light);
     --theme-toggle-dark: var(--accent-orange);
   }
 
@@ -180,6 +185,8 @@
     --pager-current: var(--pager-current-light);
     --pager-current-text: var(--pager-current-text-light);
     --pager-hover: var(--pager-hover-light);
+    --search-bg: var(--search-bg-light);
+    --search-text: var(--search-text-light);
     --theme-toggle: var(--theme-toggle-light);
     --surface-menu: var(--surface-menu-light);
     --background-yt: var(--surface-yt-light);
@@ -215,6 +222,8 @@
     --pager-current: var(--pager-current-dark);
     --pager-current-text: var(--pager-current-text-dark);
     --pager-hover: var(--pager-hover-dark);
+    --search-bg: var(--search-bg-dark);
+    --search-text: var(--search-text-dark);
     --theme-toggle: var(--theme-toggle-dark);
     --surface-menu: var(--surface-menu-dark);
     --background-yt: var(--surface-yt-dark);
@@ -514,6 +523,21 @@
 }
 #search .pagefind-ui__result-thumb {
   display: none;
+}
+
+#search .pagefind-ui__search-input,
+#search .pagefind-ui__search-clear {
+  @apply bg-[var(--search-bg)] text-[var(--search-text)];
+}
+#search .pagefind-ui__results-area {
+  @apply bg-surface-menu p-[0.35em] rounded-[0.35em];
+}
+#search .pagefind-ui__message {
+  color: var(--text1);
+  margin: calc(0.5rem * 0.8) 0 calc(1.5rem * 0.8) calc(0.5rem * 0.8);
+}
+#search .pagefind-ui__button {
+  @apply text-[var(--pagefind-button-color)] bg-[var(--pagefind-button-background)];
 }
 
 /* Pagination component styling */
