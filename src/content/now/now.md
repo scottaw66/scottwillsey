@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-14T23:22:03-08:00"
+date: "2025-11-16T12:59:55-08:00"
 slug: "now"
 ---
 
@@ -30,6 +30,11 @@ If you want to collaborate on any writing projects along the lines of things I w
 [![SteamOS Goes Wide: From a Cube to the Frame](../../assets/images/oc_artwork/5131277554991292-981c44b1-6400-4579-ba5c-e81a14d7b0aa.png)](https://overcast.fm/+BI63qfowLw) [NPC: Next Portable Console – SteamOS Goes Wide: From a Cube to the Frame](https://overcast.fm/+BI63qfowLw)
 
 </div>
+
+### Books
+
+[<span hidden>First Contact • 2025 • Becky Ferreira • A delightful look at the science, superstitions, stories, and suppositions behind the search for alien life throughout history. • Loved It!</span>
+![First Contact • 2025 • Becky Ferreira • A delightful look at the science, superstitions, stories, and suppositions behind the search for alien life throughout history. • Loved It!](../../assets/images/posts/png-image447c967d8c0-review-c3a0b328-23e4-4f0e-bdf2-c3320ace2a6f.png)](/images/posts/png-image447c967d8c0-review-c3a0b328-23e4-4f0e-bdf2-c3320ace2a6f.jpg)
 
 ### TV Shows
 

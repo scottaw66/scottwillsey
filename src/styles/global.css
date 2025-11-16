@@ -445,7 +445,7 @@
   article h3#games + p,
   article h3#music + p,
   article div.review p {
-    @apply flex flex-row gap-4 justify-center flex-wrap mx-4 mt-4 mb-8;
+    @apply flex flex-row gap-4 flex-wrap mx-4 mt-4 mb-8;
   }
 
   div.now p a img,
