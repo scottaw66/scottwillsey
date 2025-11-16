@@ -32,10 +32,11 @@ let description = books.data.description;
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time mt-10">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      <CalendarFillIcon fill="var(--dates)" />
       <time datetime={books.data.date}>
-        <a href={`/${books.id}`}>Last updated {modifieddate(books.data.date)}</a
+        <a href={`/${books.id}`} class="text-dates"
+          >Last updated {modifieddate(books.data.date)}</a
         >
       </time>
     </div>
@@ -78,13 +79,6 @@ let description = books.data.description;
 </Base>
 
 <style>
-  h4 {
-    font-style: italic;
-  }
-  div.time,
-  div.time a {
-    font-size: 0.8em;
-  }
   .review-image {
     width: 100% !important;
     max-width: 100% !important;
