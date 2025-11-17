@@ -32,10 +32,11 @@ let description = music.data.description;
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time mt-10">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={music.data.date}>
-        <a href={`/${music.id}`}>Last updated {modifieddate(music.data.date)}</a
+        <a href={`/${music.id}`} class="text-dates"
+          >Last updated {modifieddate(music.data.date)}</a
         >
       </time>
     </div>

@@ -26,7 +26,13 @@ const description = `Weekly Reads Page ${page.currentPage}`;
 <Base title={title} description={description}>
   <article>
     <div>
-      <p><a href="/reads/rss.xml">Weekly Reeds RSS Feed <RssIcon /></a></p>
+      <p>
+        <a href="/reads/rss.xml"
+          >Weekly Reeds RSS Feed <RssIcon
+            fill="var(--accent-orange-darker)"
+          /></a
+        >
+      </p>
     </div>
     <section aria-label="Post list" data-pagefind-ignore>
       {

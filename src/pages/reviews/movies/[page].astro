@@ -32,10 +32,10 @@ let description = movies.data.description;
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time mt-10">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={movies.data.date}>
-        <a href={`/${movies.id}`}
+        <a href={`/${movies.id}`} class="text-dates"
           >Last updated {modifieddate(movies.data.date)}</a
         >
       </time>

@@ -17,7 +17,7 @@ let description = links.data.description;
     <h1>{title}</h1>
     <p class="now">{description}</p>
     <div class="text-[0.8em] text-dates font-bold">
-      <CalendarFillIcon fill="var(--dates)" />
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={links.data.date}>
         <a href={`/${links.id}`} class="text-dates"
           >Last updated {modifieddate(links.data.date)}</a

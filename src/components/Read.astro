@@ -17,8 +17,8 @@ const { Content } = await render(read);
     <h1>
       <a href={`/reads/${read.id}`}>{read.data.title}</a>
     </h1>
-    <div class="time text-[0.75em]">
-      <CalendarFillIcon fill="var(--dates)" />
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={read.data.date}>
         <a href={`/reads/${read.id}`} class="text-dates">
           {postdate(read.data.date)}

@@ -32,10 +32,10 @@ let description = tvshows.data.description;
         >Back to Reviews Page</a
       >
     </p>
-    <div class="time mt-10">
-      <CalendarFillIcon />
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={tvshows.data.date}>
-        <a href={`/${tvshows.id}`}
+        <a href={`/${tvshows.id}`} class="text-dates"
           >Last updated {modifieddate(tvshows.data.date)}</a
         >
       </time>

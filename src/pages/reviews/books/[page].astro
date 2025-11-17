@@ -33,7 +33,7 @@ let description = books.data.description;
       >
     </p>
     <div class="text-[0.8em] text-dates font-bold mb-6">
-      <CalendarFillIcon fill="var(--dates)" />
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={books.data.date}>
         <a href={`/${books.id}`} class="text-dates"
           >Last updated {modifieddate(books.data.date)}</a

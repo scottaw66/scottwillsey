@@ -20,8 +20,8 @@ const { Content } = await render(post);
     <h1>
       <PostTitle post={post} />
     </h1>
-    <div class="time text-[0.75em]">
-      <CalendarFillIcon fill="var(--dates)" />
+    <div class="text-[0.8em] text-dates font-bold">
+      <CalendarFillIcon size="1em" fill="var(--dates)" />
       <time datetime={post.data.date}>
         <a href={`/${post.id}`} class="text-dates">
           {postdate(post.data.date)}
