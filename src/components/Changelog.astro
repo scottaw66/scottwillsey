@@ -24,7 +24,10 @@ const lastFive = entries.slice(0, 5);
           const [date, ...description] = entry.split("\n");
           let desc = description.join(" ").trim().split("\n")[0];
           // Convert markdown links [text](url) to HTML links
-          desc = desc.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+          desc = desc.replace(
+            /\[([^\]]+)\]\(([^)]+)\)/g,
+            '<a href="$2">$1</a>',
+          );
           return (
             <li>
               <strong>{date.trim()}</strong>: <span set:html={desc} />

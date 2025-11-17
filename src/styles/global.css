@@ -572,12 +572,10 @@ div.now ul,
 div.uses ul {
   @apply list-none pl-0;
 }
-
 div.now li,
 div.uses li {
   @apply pl-10 relative;
 }
-
 div.now li::before,
 div.uses li::before {
   content: "";
