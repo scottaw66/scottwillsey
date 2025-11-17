@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-02T11:24:26-08:00"
+date: "2025-11-17T00:35:20-08:00"
 slug: "links"
 ---
 
@@ -22,7 +22,9 @@ slug: "links"
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [Model Context Protocol | Warp documentation](https://docs.warp.dev/knowledge-and-collaboration/mcp)
 - [OpenAI Codex](https://openai.com/codex/)
+- [Orchard - Bridge AI Assistants to Your Apple Ecosystem](https://orchard.5km.tech/)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
+- [tommertron/anyboxMCP: An experimental MCP server for the popular Mac bookmarking app Anybox](https://github.com/tommertron/anyboxMCP)
 - [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes/)
 
@@ -412,8 +414,8 @@ A tech blog with a delightfully retro design.
 **[TechDistortion](https://techdistortion.com/)**  
 John Chidgey is an engineer first and foremost, and a podcaster and writer additionally. That's not to downplay those works – they're excellent. It's just to emphasize how based in analysis his work is.
 
-**[...tiff is typing](https://tiffwhite.me/)**  
-Tiffany White writes, does web development, has a cat, and is clearly a good person, but more than that, she's someone I can become a better person by listening to and learning from.  
+**[Journal – Tyler Sticka](https://tylersticka.com/journal/)**  
+Lots of web and computer topics on Tyler's blog.
 
 **[Waxy.org - Andy Baio lives here](https://waxy.org/)**  
 I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his blog until recently.  
@@ -539,6 +541,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Gossip’s Web](https://gossipsweb.net/)
 - [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)
 - [Hide a message in an emoji](https://emoji.paulbutler.org/?mode=decode)
+- [how to use the subway by q1](https://frogmen.itch.io/subway)
 - [html.earth: Markdown to HTML Converter & Site Generator](https://html.earth/)
 - [HTMHell](https://www.htmhell.dev)
 - [HTML for People](https://htmlforpeople.com/)
@@ -666,7 +669,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## Japan & Japanese Language
 
 - [Bunpro](https://bunpro.jp/)
+- [FUKUOKA CITY Official Tourist Guide](https://gofukuoka.jp/)
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
+- [Japan Travel Advice - What to do in Japan](https://japaninsidersecrets.com/)
 - [Japanese Study Apps That DON'T Use AI - Japanese Talk](https://jtalkonline.com/japanese-study-apps-that-dont-use-ai/)
 - [Japanese Talk Don't just study Japanese, use it!](https://jtalkonline.com/)
 - [Jisho.org: Japanese Dictionary](https://jisho.org/)
@@ -742,6 +747,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
 - [NameQuick - Rename files effortlessly on macOS](https://www.namequick.app/)
 - [Objective-See Foundation](https://objective-see.org/index.html)
+- [Orchard - Bridge AI Assistants to Your Apple Ecosystem](https://orchard.5km.tech/)
 - [Password Manager for Families, Enterprise & Business | 1Password](https://1password.com/)
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
 - [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
@@ -867,10 +873,12 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [Browser Resource Hints: preload, prefetch, and preconnect | DebugBear](https://www.debugbear.com/blog/resource-hints-rel-preload-prefetch-preconnect)
 - [Build An Audio AI Web App with Python and AssemblyAI Course](https://training.talkpython.fm/courses/build-an-audio-ai-app-with-python-and-assemblyai)
+- [Colorpeek · Simply Share Colors](https://colorpeek.com/)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project)
+- [CSS subgrid vs nested grid — are they the same? | Annalytic.com](https://www.annalytic.com/css-subgrid-vs-nested-grid.html)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 - [CodeCut | Actionable Python tips, curated for busy data pros. Skim in under 2 minutes, three times a week.](https://codecut.ai/?featured_on=talkpython)
@@ -893,6 +901,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Lesser known parts of Python standard library – Trickster Dev](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
 - [Man Reader 2](https://apps.apple.com/us/app/man-reader/id522583774?mt=12)
 - [Material Line Icons - 1021 open source icons - Iconify](https://icon-sets.iconify.design/line-md/)
+- [Methods for Overriding Styles in WordPress | CSS-Tricks](https://css-tricks.com/methods-overriding-styles-wordpress/)
 - [Miller 6.12.0 Documentation](https://miller.readthedocs.io/en/6.12.0/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
