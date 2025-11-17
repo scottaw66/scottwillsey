@@ -34,6 +34,7 @@ const indexPosts = allPosts.slice(0, postCount);
   <section
     class:list={[
       showBackground && "bg-surface-menu py-2 px-6",
+      !showBackground && "px-2",
       "rounded-2xl text-[0.8em]",
     ]}
     aria-label="Blog post list"
@@ -66,7 +67,7 @@ const indexPosts = allPosts.slice(0, postCount);
     }
     {
       showBrowseAll && (
-        <p class="text-center">
+        <p class="ml-2 my-0">
           <a href="/1" class="text-hyperlink text-[0.9em] font-bold">
             Browse all posts
           </a>

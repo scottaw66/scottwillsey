@@ -15,25 +15,21 @@ let description = site.description;
       <a href="https://scottwillsey.com/">scottwillsey</a> is a website owned by
       me, Scott Willsey. I'm throwing it back to the <a
         href="https://indieweb.org/IndieWeb">indieweb</a
-      > with a website that's just about <a href="/links">links</a>, <a
-        href="/now">things I'm doing now</a
-      >, <a href="/1">whatever Mac or web stuff I'm working on</a>, and <a
-        href="/reviews">etc</a
-      >, <a href="/reads">etc</a>.
+      > with a website that's just about Mac or web stuff <a href="/1"
+        >I'm writing about</a
+      >, <a href="/links">links</a>, <a href="/now">things I'm doing now</a>,
+      and <a href="/reviews">etc</a>, <a href="/reads">etc</a>.
     </p>
     <div
-      class="grid grid-cols-1 sm:grid-cols-3 gap-4 my-8 mx-auto lg:max-w-[90%] divide-x-3 divide-dotted divide-hyperlink"
+      class="grid grid-cols-1 md:grid-cols-3 gap-4 my-8 mx-auto lg:max-w-[90%] md:divide-x-3 md:divide-dotted md:divide-hyperlink"
     >
       <div>
-        <LatestPosts
-          showBackground={false}
-          showBrowseAll={false}
-          postCount={3}
-        />
+        <LatestPosts showBackground={false} postCount={4} />
       </div>
+      <div><Changelog /></div>
       <div>
-        <h1 class="text-[1.5rem]">
-          <a href="/1"><div class="text-hyperlink ml-2">Recent Updates</div></a>
+        <h1 class="text-[1.5rem] ml-2">
+          <a href="/1"><div class="text-hyperlink">Recent Updates</div></a>
         </h1>
         <section id="updates" class="text-[0.8em]">
           <ul>
@@ -44,10 +40,9 @@ let description = site.description;
           </ul>
         </section>
       </div>
-      <div><Changelog /></div>
     </div>
     <div
-      class="mx-auto my-16 max-w-[95%] flex justify-center gap-[2em] text-text1 text-[1.75rem] font-title-nihongo"
+      class="mx-auto my-16 sm:max-w-[85%] flex justify-center gap-[1em] sm:gap-[2em] text-text1 text-[1.25rem] sm:text-[1.75rem] font-title-nihongo"
     >
       <div class="rotate-[-3deg]">追跡なし!!</div>
       <div class="rotate-[-3deg]">隠し料金なし!!</div>

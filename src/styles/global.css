@@ -595,7 +595,7 @@ div.uses li::before {
 
 section#useful ul,
 section#updates ul {
-  @apply list-none pl-0;
+  @apply list-none pl-0 ml-1;
 }
 
 section#useful li,

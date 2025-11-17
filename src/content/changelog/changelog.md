@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-11-17
+
+I changed EVERYTHING (almost). Complete Site UI refresh with new fonts, colors, and sidebar menu!
+
 ### 2025-10-30
 
 Added thumbnails to YouTube history on [/now](/now) page.
