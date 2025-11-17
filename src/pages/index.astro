@@ -2,6 +2,7 @@
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
 import Changelog from "../components/Changelog.astro";
+import LatestPosts from "../components/LatestPosts.astro";
 
 let title = site.title;
 let description = site.description;
@@ -20,7 +21,31 @@ let description = site.description;
         href="/reviews">etc</a
       >, <a href="/reads">etc</a>.
     </p>
-    <div><Changelog /></div>
+    <div
+      class="grid grid-cols-1 sm:grid-cols-3 gap-4 my-8 mx-auto lg:max-w-[90%] divide-x-3 divide-dotted divide-hyperlink"
+    >
+      <div>
+        <LatestPosts
+          showBackground={false}
+          showBrowseAll={false}
+          postCount={3}
+        />
+      </div>
+      <div>
+        <h1 class="text-[1.5rem]">
+          <a href="/1"><div class="text-hyperlink ml-2">Recent Updates</div></a>
+        </h1>
+        <section id="updates" class="text-[0.8em]">
+          <ul>
+            <li><a href="/links">Links</a></li>
+            <li><a href="/now">/now</a></li>
+            <li><a href="/uses">/uses</a></li>
+            <li><a href="/links#CoolSiteSpotlight">Cool Site Spotlight</a></li>
+          </ul>
+        </section>
+      </div>
+      <div><Changelog /></div>
+    </div>
     <div
       class="mx-auto my-16 max-w-[95%] flex justify-center gap-[2em] text-text1 text-[1.75rem] font-title-nihongo"
     >

@@ -1,20 +1,10 @@
 ---
-import { getCollection } from "astro:content";
-import { postdate } from "./utilities/DateFormat.js";
-import { titleCase } from "./utilities/StringFormat.js";
 import SearchBar from "./Search.astro";
-import CalendarIcon from "./icons/CalendarFillIcon.astro";
-import PostLinkIcon from "./icons/PostLinkIcon.astro";
+import LatestPosts from "./LatestPosts.astro";
 import AppleIcon from "./icons/AppleIcon.astro";
 
-let allPosts = await getCollection("posts", ({ data }) => {
-  return import.meta.env.PROD ? data.draft !== true : true;
-});
-allPosts = allPosts.sort(
-  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
-);
-
-const indexPosts = allPosts.slice(0, 5);
+const { pathname } = Astro.url;
+const isHome = pathname === "/";
 ---
 
 <div class="rounded-lg p-4 pt-0 lg:pt-4 text-base">
@@ -37,49 +27,11 @@ const indexPosts = allPosts.slice(0, 5);
     > is what I <a href="/uses" class="text-hyperlink-blurb">use</a>.
   </p>
 </div>
-<div class="mt-2 mx-auto">
+<div class="mt-2 mb-4 mx-auto">
   <SearchBar />
 </div>
+{!isHome && <LatestPosts />}
 <span data-pagefind-ignore="all">
-  <h1 class="text-[1.5rem] my-3">
-    <a href="/1"><div class="text-hyperlink ml-2">Latest Posts</div></a>
-  </h1>
-  <section
-    class="bg-surface-menu rounded-2xl py-2 px-6 text-[0.8em]"
-    aria-label="Blog post list"
-  >
-    {
-      indexPosts.map((post) => (
-        <header class="mb-5">
-          <h2 class="font-body text-[1.1rem] my-2">
-            <a href={`/${post.id}`} class="text-hyperlink">
-              {post.data.link ? (
-                <span data-pagefind-ignore>
-                  <PostLinkIcon size="1em" />
-                </span>
-              ) : (
-                ""
-              )}
-              {titleCase(post.data.title)}
-            </a>
-          </h2>
-          <div class="text-[0.8rem] text-dates font-bold">
-            <CalendarIcon size="1.1em" fill="var(--dates)" margin="0.25" />
-            <time datetime={post.data.date}>
-              <a href={`/${post.id}`} class="text-dates">
-                {postdate(post.data.date)}
-              </a>
-            </time>
-          </div>
-        </header>
-      ))
-    }
-    <p class="text-center">
-      <a href="/1" class="text-hyperlink text-[0.9em] font-bold"
-        >Browse all posts</a
-      >
-    </p>
-  </section>
   <h1 class="text-[1.5rem] my-3">
     <a href="/1"><div class="text-hyperlink ml-2">Useful Stuff</div></a>
   </h1>
@@ -95,7 +47,7 @@ const indexPosts = allPosts.slice(0, 5);
       <li><a href="/tags">#tags</a></li>
     </ul>
   </section>
-  <h1 class="text-[1.5rem] my-3">
+  <h1 class="text-[1.5rem]">
     <a href="/1"><div class="text-hyperlink ml-2">Recent Updates</div></a>
   </h1>
   <section id="updates" class="text-[0.8em]">

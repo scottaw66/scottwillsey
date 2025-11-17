@@ -1,0 +1,77 @@
+---
+import { getCollection } from "astro:content";
+import { postdate } from "./utilities/DateFormat.js";
+import { titleCase } from "./utilities/StringFormat.js";
+import CalendarIcon from "./icons/CalendarFillIcon.astro";
+import PostLinkIcon from "./icons/PostLinkIcon.astro";
+
+interface Props {
+  showBackground?: boolean;
+  showBrowseAll?: boolean;
+  postCount?: number;
+}
+
+const {
+  showBackground = true,
+  showBrowseAll = true,
+  postCount = 5,
+} = Astro.props;
+
+let allPosts = await getCollection("posts", ({ data }) => {
+  return import.meta.env.PROD ? data.draft !== true : true;
+});
+allPosts = allPosts.sort(
+  (a, b) => (b.data.date?.valueOf() ?? 0) - (a.data.date?.valueOf() ?? 0),
+);
+
+const indexPosts = allPosts.slice(0, postCount);
+---
+
+<span data-pagefind-ignore="all">
+  <h1 class="text-[1.5rem]">
+    <a href="/1"><div class="text-hyperlink ml-2">Latest Posts</div></a>
+  </h1>
+  <section
+    class:list={[
+      showBackground && "bg-surface-menu py-2 px-6",
+      "rounded-2xl text-[0.8em]",
+    ]}
+    aria-label="Blog post list"
+  >
+    {
+      indexPosts.map((post) => (
+        <header class="mb-5">
+          <h2 class="font-body text-[1.1rem] my-2">
+            <a href={`/${post.id}`} class="text-hyperlink">
+              {post.data.link ? (
+                <span data-pagefind-ignore>
+                  <PostLinkIcon size="1em" />
+                </span>
+              ) : (
+                ""
+              )}
+              {titleCase(post.data.title)}
+            </a>
+          </h2>
+          <div class="text-[0.8rem] text-dates font-bold">
+            <CalendarIcon size="1.1em" fill="var(--dates)" margin="0.25" />
+            <time datetime={post.data.date}>
+              <a href={`/${post.id}`} class="text-dates">
+                {postdate(post.data.date)}
+              </a>
+            </time>
+          </div>
+        </header>
+      ))
+    }
+    {
+      showBrowseAll && (
+        <p class="text-center">
+          <a href="/1" class="text-hyperlink text-[0.9em] font-bold">
+            Browse all posts
+          </a>
+        </p>
+      )
+    }
+  </section>
+</span>
