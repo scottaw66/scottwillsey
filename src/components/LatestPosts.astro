@@ -28,9 +28,6 @@ const indexPosts = allPosts.slice(0, postCount);
 ---
 
 <span data-pagefind-ignore="all">
-  <h1 class="text-[1.5rem]">
-    <a href="/1"><div class="text-hyperlink ml-2">Latest Posts</div></a>
-  </h1>
   <section
     class:list={[
       showBackground && "bg-surface-menu py-2 px-6",
@@ -39,6 +36,9 @@ const indexPosts = allPosts.slice(0, postCount);
     ]}
     aria-label="Blog post list"
   >
+    <h1 class="text-[1.5rem]">
+      <a href="/1"><div class="text-hyperlink">Latest Posts</div></a>
+    </h1>
     {
       indexPosts.map((post) => (
         <header class="mb-5">
