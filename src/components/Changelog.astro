@@ -13,8 +13,8 @@ const lastFive = entries.slice(0, 5);
 <div>
   <h2 class="text-[1.5rem]">
     <div class="text-hyperlink ml-2">
-      <HistoryIcon size="1.25rem" fill="var(--hyperlink)" />
       <a href="/changelog" class="text-hyperlink">Code Changelog</a>
+      <HistoryIcon size="1.25rem" fill="var(--hyperlink)" />
     </div>
   </h2>
   <section class="text-[0.65em]">
@@ -23,7 +23,13 @@ const lastFive = entries.slice(0, 5);
         lastFive.map((entry) => {
           const [date, ...description] = entry.split("\n");
           let desc = description.join(" ").trim().split("\n")[0];
-          // Convert markdown links [text](url) to HTML links
+          // Remove markdown links that wrap images: [![alt](image)](url)
+          desc = desc.replace(/\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)/g, '');
+          // Remove standalone markdown image links: ![alt](image)
+          desc = desc.replace(/!\[[^\]]*\]\([^)]+\)/g, '');
+          // Remove any markdown links that point to image files
+          desc = desc.replace(/\[([^\]]+)\]\(([^)]*\.(jpg|jpeg|png|gif|webp|svg)[^)]*)\)/gi, '');
+          // Convert remaining markdown links [text](url) to HTML links
           desc = desc.replace(
             /\[([^\]]+)\]\(([^)]+)\)/g,
             '<a href="$2">$1</a>',

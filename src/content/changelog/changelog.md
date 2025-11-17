@@ -8,6 +8,22 @@ slug: "changelog"
 
 I changed EVERYTHING (almost). Complete Site UI refresh with new fonts, colors, and sidebar menu!
 
+[![Redesigned Home Page (Dark)](../../assets/images/posts/SwHomeDark-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwHomeDark-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned Home Page (Light)](../../assets/images/posts/SwHomeLight-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwHomeLight-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned Blog Post View](../../assets/images/posts/SwBlogPost-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwBlogPost-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned Reviews Page (Light)](../../assets/images/posts/SwReviews-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwReviews-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned Book Reviews](../../assets/images/posts/SwReviewsBooks-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwReviewsBooks-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned Search Page](../../assets/images/posts/SwSearch-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwSearch-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned Tags Page](../../assets/images/posts/SwTags-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwTags-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
+[![Redesigned /now Page](../../assets/images/posts/SwNow-A5EC5CA2-7151-4239-811C-7D2CC81F662C.png)](/images/posts/SwNow-A5EC5CA2-7151-4239-811C-7D2CC81F662C.jpg)
+
 ### 2025-10-30
 
 Added thumbnails to YouTube history on [/now](/now) page.
