@@ -1,5 +1,37 @@
 ---
+import { getEntry } from "astro:content";
 import HistoryIcon from "./icons/HistoryIcon.astro";
+
+const changelog = await getEntry("changelog", "changelog");
+
+// Parse the content to extract the last 5 entries
+const content = changelog?.body || "";
+const entries = content.split(/^### /m).filter((entry) => entry.trim());
+const lastFive = entries.slice(0, 5);
 ---
 
-<HistoryIcon fill="var(--accent-pink)" />
+<div>
+  <h2 class="text-[1.5rem] my-3">
+    <div class="text-hyperlink ml-2">
+      <HistoryIcon size="1.25rem" fill="var(--hyperlink)" />
+      <a href="/changelog">changelog</a>
+    </div>
+  </h2>
+  <section class="text-[0.65em]">
+    <ul>
+      {
+        lastFive.map((entry) => {
+          const [date, ...description] = entry.split("\n");
+          let desc = description.join(" ").trim().split("\n")[0];
+          // Convert markdown links [text](url) to HTML links
+          desc = desc.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+          return (
+            <li>
+              <strong>{date.trim()}</strong>: <span set:html={desc} />
+            </li>
+          );
+        })
+      }
+    </ul>
+  </section>
+</div>

@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
+import Changelog from "../components/Changelog.astro";
 
 let title = site.title;
 let description = site.description;
@@ -8,49 +9,24 @@ let description = site.description;
 
 <Base title={title} description={description}>
   <article>
-    <h1>Title Here</h1>
+    <h1>Throwing It Back</h1>
     <p>
-      Quis sunt velit consequat dolor anim mollit voluptate minim labore
-      aliquip. Id ad nostrud deserunt do enim in elit velit irure ullamco
-      excepteur officia fugiat id. Reprehenderit incididunt ea sint et ut ad.
-      Cillum voluptate commodo culpa est mollit excepteur ex nostrud cillum
-      cupidatat est nostrud adipisicing. Excepteur qui nulla anim deserunt id eu
-      deserunt mollit nulla dolor et. Fugiat ex laborum fugiat aliqua aliqua
-      aliquip.
+      <a href="https://scottwillsey.com/">scottwillsey</a> is a website owned by
+      me, Scott Willsey. I'm throwing it back to the <a
+        href="https://indieweb.org/IndieWeb">indieweb</a
+      > with a website that's just about <a href="/links">links</a>, <a
+        href="/now">things I'm doing now</a
+      >, <a href="/1">whatever Mac or web stuff I'm working on</a>, and <a
+        href="/reviews">etc</a
+      >, <a href="/reads">etc</a>.
     </p>
-    <p>
-      Consectetur esse velit est et labore laborum minim adipisicing. Dolore
-      exercitation mollit adipisicing aute minim ipsum quis magna ad consectetur
-      ullamco elit anim. Ullamco aute excepteur quis tempor dolore. Elit
-      incididunt fugiat excepteur culpa fugiat sit anim occaecat culpa proident
-      adipisicing nostrud qui.
-    </p>
-
-    <p>
-      Labore ullamco do pariatur nisi ullamco ea nulla ut ullamco laboris ipsum
-      dolore ullamco. Nostrud do nulla eiusmod amet ea cillum sit eu consectetur
-      ut. Anim enim in mollit eiusmod nostrud sunt fugiat deserunt commodo sint
-      ullamco. Reprehenderit pariatur dolore cupidatat culpa anim pariatur
-      consequat. Tempor aute cillum dolore eu fugiat amet tempor amet qui do
-      irure nisi irure do. Pariatur id occaecat reprehenderit in dolore
-      exercitation quis consectetur consequat. Do aute anim culpa ut ad ad
-      labore minim veniam.
-    </p>
-
-    <p>
-      Labore consequat eu proident anim sit cupidatat sit id irure. Velit
-      proident eu adipisicing eu est nostrud. Deserunt minim et labore excepteur
-      ea sit qui.
-    </p>
-
-    <p>
-      Nisi sunt id veniam aliqua consectetur enim elit et consectetur. Nostrud
-      occaecat magna ex culpa culpa aute dolor anim nulla ut sit eu enim. Sunt
-      laboris officia officia sunt commodo cillum eu eiusmod nulla cupidatat
-      mollit. Ea consectetur sunt reprehenderit dolore proident commodo veniam
-      esse adipisicing eiusmod. Consectetur exercitation eu eu sunt non sunt
-      esse aliquip anim cillum. Ullamco aliquip dolor non dolore sunt consequat
-      sunt sit non deserunt quis et. Aliquip tempor consequat commodo irure.
-    </p>
+    <div><Changelog /></div>
+    <div
+      class="mx-auto my-10 lg:my-20 max-w-[95%] flex justify-center gap-[2em] text-text1 text-[1.75rem] font-title-nihongo"
+    >
+      <div class="rotate-[-3deg]">追跡なし!!</div>
+      <div class="rotate-[-3deg]">隠し料金なし!!</div>
+      <div class="rotate-[-3deg]">広告なし!!</div>
+    </div>
   </article>
 </Base>
