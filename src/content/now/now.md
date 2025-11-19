@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-19T00:22:56-08:00"
+date: "2025-11-19T00:40:04-08:00"
 slug: "now"
 ---
 
@@ -18,7 +18,7 @@ Tonight I had fun working on a bash script for a linux server that was failing t
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-![BBV10s Q&A: Trulli at Ferrari, ‘flipping’ Indy 2005 and what Villeneuve *should* have done](../../assets/images/oc_artwork/5523680032256626-68f932bf-153d-4d17-8262-91d9d38bfec3.png) Bring Back V10s (Members) – BBV10s Q&A: Trulli at Ferrari, ‘flipping’ Indy 2005 and what Villeneuve *should* have done
+![BBV10s Q&A: Trulli at Ferrari, ‘flipping’ Indy 2005 and what Villeneuve *should* have done](../../assets/images/oc_artwork/5523680032256626-68f932bf-153d-4d17-8262-91d9d38bfec3.png) Bring Back V10s (Members) – BBV10s Q&A: Trulli at Ferrari, ‘flipping’ Indy 2005 and what Villeneuve should have done
 ![11/18/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694590510310-af55eaf1-11f5-449f-828a-48fcbc6847b3.png) David Pakman Member Feed – 11/18/25: TDPS Bonus Show
 ![How Williams gets old FW14Bs to run!](../../assets/images/oc_artwork/5523677912224239-0c6d36a1-9f19-4895-bc8c-9ae8d549062e.png) The Race F1 Podcast (Members) – How Williams gets old FW14Bs to run!
 [![2: The Korean Hit](../../assets/images/oc_artwork/4262159521187250-cccee68a-147c-4744-8ace-0e316d3741ae.png)](https://overcast.fm/+8kaVg8hbI) [Faceless – 2: The Korean Hit](https://overcast.fm/+8kaVg8hbI)
