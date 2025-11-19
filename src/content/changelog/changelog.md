@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-11-19
+
+Fixed the logic for the Recent Updates page list. I broke it when I decided it was part of the home page and then part of the sidebar on all other pages.
+
 ### 2025-11-17
 
 I changed EVERYTHING (almost). Complete Site UI refresh with new fonts, colors, and sidebar menu!
