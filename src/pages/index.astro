@@ -3,6 +3,7 @@ import Base from "../layouts/Base.astro";
 import site from "../data/site.json";
 import Changelog from "../components/Changelog.astro";
 import LatestPosts from "../components/LatestPosts.astro";
+import RecentUpdates from "../components/RecentUpdates.astro";
 
 let title = site.title;
 let description = site.description;
@@ -31,14 +32,7 @@ let description = site.description;
         <h1 class="text-[1.5rem] ml-2">
           <a href="/1"><div class="text-hyperlink">Recent Updates</div></a>
         </h1>
-        <section id="updates" class="text-[0.8em]">
-          <ul>
-            <li><a href="/links">Links</a></li>
-            <li><a href="/now">/now</a></li>
-            <li><a href="/uses">/uses</a></li>
-            <li><a href="/links#CoolSiteSpotlight">Cool Site Spotlight</a></li>
-          </ul>
-        </section>
+        <RecentUpdates />
       </div>
     </div>
     <div
