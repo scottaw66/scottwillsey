@@ -1,6 +1,6 @@
 ---
 title: New Face!
-description: describe
+description: "A new site look with some interesting changes!"
 date: "2025-11-19T00:10:00-08:00"
 keywords: ["design","blog"]
 slug: "new-face"
