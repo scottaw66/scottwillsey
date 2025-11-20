@@ -1,0 +1,21 @@
+---
+const { size = "1rem", fill = "var(--text1)", margin = "0.2" } = Astro.props;
+---
+
+<svg
+  id="post-separator-dots"
+  xmlns="http://www.w3.org/2000/svg"
+  width={size}
+  height={size}
+  viewBox="0 0 24 24"
+  class="inline-block align-middle"
+  style={`fill: ${fill}; margin-bottom: ${margin}em`}
+  ><!-- Icon from Solar by 480 Design - https://creativecommons.org/licenses/by/4.0/ -->
+  <g fill="none" stroke={fill} stroke-width="1.5"
+    ><path stroke-linecap="round" d="M5 14a2 2 0 1 0-2-2"></path><circle
+      cx="12"
+      cy="12"
+      r="2"></circle><path stroke-linecap="round" d="M21 12a2 2 0 1 1-2-2"
+    ></path></g
+  ></svg
+>

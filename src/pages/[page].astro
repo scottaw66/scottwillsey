@@ -3,6 +3,7 @@ import Base from "../layouts/Base.astro";
 import Post from "../components/Post.astro";
 import Pagination from "@philnash/astro-pagination";
 import { getCollection } from "astro:content";
+import PostSeparatorDots from "../components/icons/PostSeparatorDots.astro";
 import site from "../data/site.json";
 
 export async function getStaticPaths({ paginate }) {
@@ -22,14 +23,23 @@ const { page } = Astro.props;
 
 const title = site.title;
 const description = `Posts Page ${page.currentPage}`;
+const posts = page.data;
+const totalPosts = posts.length;
 ---
 
 <Base title={title} description={description}>
   <section aria-label="Post list" data-pagefind-ignore>
     {
-      page.data.map((post, index) => {
-        return <Post post={post} />;
-      })
+      posts.map((post, index) => (
+        <>
+          <Post post={post} />
+          {index < totalPosts - 1 && (
+            <div class="flex justify-center">
+              <PostSeparatorDots size="3em" fill="var(--dates)" />
+            </div>
+          )}
+        </>
+      ))
     }
     {
       page.lastPage > 1 && (
