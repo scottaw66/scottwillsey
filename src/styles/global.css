@@ -401,13 +401,13 @@
   /* Podcast history and food */
   div.podcast-episodes,
   div.food {
-    @apply mx-8 text-[0.9em] max-[650px]:mx-0;
+    @apply mx-8 text-[0.9em] max-[650px]:mx-0  rounded-2xl;
+    background-color: var(--surface-menu);
   }
 
   div.podcast-episodes p,
   div.food p {
-    @apply grid grid-cols-[70px_1fr] gap-x-[10px] gap-y-[10px] p-4 m-0 items-center rounded-2xl;
-    background-color: var(--surface-menu);
+    @apply grid grid-cols-[70px_1fr] gap-x-[10px] gap-y-[10px] p-4 m-0 items-center;
   }
 
   div.podcast-episodes img,

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-17T00:35:20-08:00"
+date: "2025-11-19T18:32:07-08:00"
 slug: "links"
 ---
 
@@ -527,6 +527,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Calculating Empires](https://calculatingempires.net/)
 - [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai/caaac)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
+- [Colorpeek Â· Simply Share Colors](https://colorpeek.com)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
