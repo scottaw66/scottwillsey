@@ -8,8 +8,8 @@ const { pathname } = Astro.url;
 const isHome = pathname === "/";
 ---
 
-<div class="rounded-lg px-2 pt-4 text-base">
-  <h1 class="text-[2rem] my-3">
+<div class="text-base lg:mt-6">
+  <h1 class="text-[2rem] mt-0 mb-3">
     <a href="/about"><div class="text-hyperlink">About</div></a>
   </h1>
   <p>
@@ -28,7 +28,7 @@ const isHome = pathname === "/";
     > is what I <a href="/uses" class="text-hyperlink-blurb">use</a>.
   </p>
 </div>
-<div class="mt-2 mb-4 mx-auto">
+<div class="mt-4 mb-4 mx-auto">
   <SearchBar />
 </div>
 {!isHome && <LatestPosts />}
