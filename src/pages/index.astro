@@ -22,13 +22,13 @@ let description = site.description;
       and <a href="/reviews">etc</a>, <a href="/reads">etc</a>.
     </p>
     <div
-      class="grid grid-cols-1 md:grid-cols-3 gap-4 my-8 mx-auto lg:max-w-[90%] md:divide-x-3 md:divide-dotted md:divide-hyperlink"
+      class="grid grid-cols-1 md:grid-cols-3 gap-4 my-8 mx-auto lg:max-w-[90%] divide-y-3 divide-dotted divide-hyperlink md:divide-y-0 md:divide-x-3"
     >
-      <div>
+      <div class="pb-4 md:pb-0">
         <LatestPosts showBackground={false} postCount={4} />
       </div>
-      <div><Changelog /></div>
-      <div>
+      <div class="pb-4 md:pb-0"><Changelog /></div>
+      <div class="pb-4 md:pb-0">
         <h1 class="text-hyperlink text-[1.5rem] ml-2">Recent Updates</h1>
         <RecentUpdates />
       </div>

@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-19T18:32:07-08:00"
+date: "2025-11-22T09:59:07-08:00"
 slug: "now"
 ---
 
@@ -20,16 +20,17 @@ Now I can say that I'm absolutely onboard with the environmental and social conc
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Why Don’t We Get Drunk and Sue LIVE at SF Sketchfest](../../assets/images/oc_artwork/1698966109816197-1fed3928-ca52-425e-b6af-6c4905ab3e9f.png)](https://overcast.fm/+YJM192BYU) [Judge John Hodgman – Why Don’t We Get Drunk and Sue LIVE at SF Sketchfest](https://overcast.fm/+YJM192BYU)
-![11/19/25: Trump loses Epstein vote as files will be released, GOP terrified](../../assets/images/oc_artwork/5771694583003923-96ed669e-2460-445c-a993-d128952f21a6.png) David Pakman Member Feed – 11/19/25: Trump loses Epstein vote as files will be released, GOP terrified
-![11/19/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694235474142-e5367c6f-ade5-4ba6-b69f-9c3b33a97d04.png) David Pakman Member Feed – 11/19/25: TDPS Bonus Show
-[![The Politics of AI Are About to Explode](../../assets/images/oc_artwork/4011399641017356-5968d307-1787-4a53-969b-137d7a84eacd.png)](https://overcast.fm/+5AWMKnrAw) [Odd Lots – The Politics of AI Are About to Explode](https://overcast.fm/+5AWMKnrAw)
-[![S1E3: Miriam Shor](../../assets/images/oc_artwork/5856571378968746-a09787d5-fcfc-4d16-87fd-be9561949c00.png)](https://overcast.fm/+BTOhUilKKo) [Pluribus: The Official Podcast – S1E3: Miriam Shor](https://overcast.fm/+BTOhUilKKo)
-![In-Car Insights: Edd and Jon look ahead to Las Vegas on their road trip from LA](../../assets/images/oc_artwork/5523677753143893-cd23fe3d-a444-4568-9670-b8b5e358ec10.png) The Race F1 Podcast (Members) – In-Car Insights: Edd and Jon look ahead to Las Vegas on their road trip from LA
-![Previewing F1’s three-race title showdown (ad-free)](../../assets/images/oc_artwork/5523677751993626-a50ce407-ea4b-488a-bde2-ab320d59939b.png) The Race F1 Podcast (Members) – Previewing F1’s three-race title showdown (ad-free)
-[![434: ‘Knee-Jerk Contrarian’, With Dan Frommer](../../assets/images/oc_artwork/135464338186897-cdbc9cf9-4ff5-4399-9773-d3277a33439e.png)](https://overcast.fm/+B7ND_B4pE) [The Talk Show With John Gruber – 434: ‘Knee-Jerk Contrarian’, With Dan Frommer](https://overcast.fm/+B7ND_B4pE)
-![BBV10s Q&A: Trulli at Ferrari, ‘flipping’ Indy 2005 and what Villeneuve *should* have done](../../assets/images/oc_artwork/5523680032256626-31b1a59a-2da2-4b52-952e-1d53d484452c.png) Bring Back V10s (Members) – BBV10s Q&A: Trulli at Ferrari, ‘flipping’ Indy 2005 and what Villeneuve *should* have done
-![11/18/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694590510310-1135561a-b670-4efa-bd82-d3eab665e29e.png) David Pakman Member Feed – 11/18/25: TDPS Bonus Show
+[![139: Ardbeg 5 Year Old ‘Wee Beastie’ Single Malt Whisky](../../assets/images/oc_artwork/5287027029717610-c0d56dd0-df71-4d80-a4f2-d3927f230d41.png)](https://overcast.fm/+BLIhegGMmo) [Whisky Whiskey – 139: Ardbeg 5 Year Old ‘Wee Beastie’ Single Malt Whisky](https://overcast.fm/+BLIhegGMmo)
+![In-Casino Insights: Edd, Jon and Las Vegas qualifying’s big talking points (spoilers!)](../../assets/images/oc_artwork/5523677683260631-ae6c7527-8366-4762-b283-3974c9226718.png) The Race F1 Podcast (Members) – In-Casino Insights: Edd, Jon and Las Vegas qualifying’s big talking points (spoilers!)
+![11/21/25: Middle class collapsing as Trump threatens everyone](../../assets/images/oc_artwork/5771694583789493-9509793d-2808-4c98-91b6-87f4544bcc79.png) David Pakman Member Feed – 11/21/25: Middle class collapsing as Trump threatens everyone
+[![Tech Nostalgia](../../assets/images/oc_artwork/1847774706155478-4f8bcc64-d082-4c94-86d8-03bd799145ac.png)](https://overcast.fm/+aQipL8P9Y) [MacStories Unwind – Tech Nostalgia](https://overcast.fm/+aQipL8P9Y)
+![11/21/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771695025923185-9f2fa6c0-00d4-4845-a3d3-3cb7a85a893a.png) David Pakman Member Feed – 11/21/25: TDPS Bonus Show
+[![WIRED Roundup: Epstein Files Fallout, NVIDIA Earnings, Gemini 3 Release](../../assets/images/oc_artwork/4904748296024274-216d6da9-3547-444a-980f-5ba89385b977.png)](https://overcast.fm/+BFs17PlsNI) [Uncanny Valley | WIRED – WIRED Roundup: Epstein Files Fallout, NVIDIA Earnings, Gemini 3 Release](https://overcast.fm/+BFs17PlsNI)
+![AI agents are invading your PC](../../assets/images/oc_artwork/5816343058573850-eb049d3f-8bd5-4f25-b889-d4ce714d42fd.png) The Vergecast: Ad-Free Edition – AI agents are invading your PC
+![Luxury Surveillance (With Chris Gilliard)](../../assets/images/oc_artwork/5121671888918089-6fac7969-fe4b-4862-95d3-615b1f971bba.png) The 404 Media Podcast (Premium Feed) – Luxury Surveillance (With Chris Gilliard)
+![In-Casino Insights: Edd and Jon debrief a disrupted night of Las Vegas practice](../../assets/images/oc_artwork/5523677351769532-f763e2aa-2379-434c-98c8-8f095a6f8866.png) The Race F1 Podcast (Members) – In-Casino Insights: Edd and Jon debrief a disrupted night of Las Vegas practice
+[![Sorry, Danielle](../../assets/images/oc_artwork/5130549745790686-104d1098-4cdb-4136-8ec5-ca3da1632ded.png)](https://overcast.fm/+BI6NTMZrt4) [Comfort Zone – Sorry, Danielle](https://overcast.fm/+BI6NTMZrt4)
+
 
 </div>
 
@@ -53,72 +54,89 @@ Now I can say that I'm absolutely onboard with the environmental and social conc
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251119182045_-RhQhl_QuJI.png](../../assets/images/yt_thumbs/20251119182045_-RhQhl_QuJI.png)](https://www.youtube.com/watch?v=-RhQhl_QuJI&t=14s)<div><p class="yt-video-channel">Channel – [MacStories](https://www.youtube.com/@MacStories09)</p><p class="yt-video-title">
+
+[![../../assets/images/yt_thumbs/20251122095004_KJfz9ChQ0A0.png](../../assets/images/yt_thumbs/20251122095004_KJfz9ChQ0A0.png) ](https://www.youtube.com/watch?v=KJfz9ChQ0A0)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[You’re all wrong](https://www.youtube.com/watch?v=KJfz9ChQ0A0)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_hjXALk8FOkk.png](../../assets/images/yt_thumbs/20251122095004_hjXALk8FOkk.png) ](https://www.youtube.com/watch?v=hjXALk8FOkk&t=1305s)<div><p class="yt-video-channel">Channel – [404 Media](https://www.youtube.com/@404Mediaco)</p><p class="yt-video-title">
+[How Big Tech Has Convinced Us to Surveil Ourselves and Each Other [SUBSCRIBERS]](https://www.youtube.com/watch?v=hjXALk8FOkk&t=1305s)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_qPcqcZBTjI8.png](../../assets/images/yt_thumbs/20251122095004_qPcqcZBTjI8.png) ](https://www.youtube.com/watch?v=qPcqcZBTjI8)<div><p class="yt-video-channel">Channel – [Racing Avenue](https://www.youtube.com/@racingavenuechannel)</p><p class="yt-video-title">
+[Bottas Claims Hamilton Criticism Is Overblown But Ferrari Underestimated Leclerc](https://www.youtube.com/watch?v=qPcqcZBTjI8)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_5VYsnngkS_U.png](../../assets/images/yt_thumbs/20251122095004_5VYsnngkS_U.png) ](https://www.youtube.com/watch?v=5VYsnngkS_U)<div><p class="yt-video-channel">Channel – [Amazon MGM Studios](https://www.youtube.com/@AmazonMGMStudios)</p><p class="yt-video-title">
+[Project Hail Mary | Official Trailer 2](https://www.youtube.com/watch?v=5VYsnngkS_U)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_oa_Z5AMAz5w.png](../../assets/images/yt_thumbs/20251122095004_oa_Z5AMAz5w.png) ](https://www.youtube.com/watch?v=oa_Z5AMAz5w)<div><p class="yt-video-channel">Channel – [World History](https://www.youtube.com/@WorldHistoryVideos)</p><p class="yt-video-title">
+[He Begged, Screamed & Shook: Execution of Belgian Nazi Collaborator](https://www.youtube.com/watch?v=oa_Z5AMAz5w)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_3-rFJ-RIFfM.png](../../assets/images/yt_thumbs/20251122095004_3-rFJ-RIFfM.png) ](https://www.youtube.com/watch?v=3-rFJ-RIFfM)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[DC-10 Planes Grounded After MD-11 Crash — FAA Issues New Emergency Order](https://www.youtube.com/watch?v=3-rFJ-RIFfM)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_VNLdyWPAz18.png](../../assets/images/yt_thumbs/20251122095004_VNLdyWPAz18.png) ](https://www.youtube.com/watch?v=VNLdyWPAz18&pp=0gcJCQsKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)</p><p class="yt-video-title">
+[So I'm in the Epstein Files](https://www.youtube.com/watch?v=VNLdyWPAz18&pp=0gcJCQsKAYcqIYzv)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_ULgLKfE6CvU.png](../../assets/images/yt_thumbs/20251122095004_ULgLKfE6CvU.png) ](https://www.youtube.com/watch?v=ULgLKfE6CvU)<div><p class="yt-video-channel">Channel – [Mentour Now!](https://www.youtube.com/@MentourNow)</p><p class="yt-video-title">
+[The LRD issue Might Be BIGGER Than We Thought!](https://www.youtube.com/watch?v=ULgLKfE6CvU)
+</p></div>
+
+</div>
+
+
+<div class="yt-video">
+
+
+[![../../assets/images/yt_thumbs/20251122095004_-RhQhl_QuJI.png](../../assets/images/yt_thumbs/20251122095004_-RhQhl_QuJI.png) ](https://www.youtube.com/watch?v=-RhQhl_QuJI&t=14s)<div><p class="yt-video-channel">Channel – [MacStories](https://www.youtube.com/@MacStories09)</p><p class="yt-video-title">
 [A MacStories Setups Update](https://www.youtube.com/watch?v=-RhQhl_QuJI&t=14s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_PFyccJhbQ6w.png](../../assets/images/yt_thumbs/20251119182045_PFyccJhbQ6w.png)](https://www.youtube.com/watch?v=PFyccJhbQ6w&t=97s)<div><p class="yt-video-channel">Channel – [Sam Witteveen](https://www.youtube.com/@samwitteveenai)</p><p class="yt-video-title">
-[Gemini 3 Pro - The Model You've Been Waiting For](https://www.youtube.com/watch?v=PFyccJhbQ6w&t=97s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_CfQQLgcsazE.png](../../assets/images/yt_thumbs/20251119182045_CfQQLgcsazE.png)](https://www.youtube.com/watch?v=CfQQLgcsazE)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[Trump Doesn't Realize What He Did](https://www.youtube.com/watch?v=CfQQLgcsazE)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_c6i5ow6ivEg.png](../../assets/images/yt_thumbs/20251119182045_c6i5ow6ivEg.png)](https://www.youtube.com/watch?v=c6i5ow6ivEg)<div><p class="yt-video-channel">Channel – [eXtreme](https://www.youtube.com/@TheExtreme-Edge)</p><p class="yt-video-title">
-[He Didn’t Film Himself. But TikTok Watched Him Die.](https://www.youtube.com/watch?v=c6i5ow6ivEg)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_YXle8hCc324.png](../../assets/images/yt_thumbs/20251119182045_YXle8hCc324.png)](https://www.youtube.com/watch?v=YXle8hCc324)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Why McLaren needs answers on Max Verstappen F1 engine change](https://www.youtube.com/watch?v=YXle8hCc324)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_8dTN4PBD2rg.png](../../assets/images/yt_thumbs/20251119182045_8dTN4PBD2rg.png)](https://www.youtube.com/watch?v=8dTN4PBD2rg&t=3s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Google just dropped their Cursor killer (FREE Gemini 3 Pro???)](https://www.youtube.com/watch?v=8dTN4PBD2rg&t=3s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_Y9Ja36XvNgg.png](../../assets/images/yt_thumbs/20251119182045_Y9Ja36XvNgg.png)](https://www.youtube.com/watch?v=Y9Ja36XvNgg)<div><p class="yt-video-channel">Channel – [Josh Johnson](https://www.youtube.com/@JoshJohnsonComedy)</p><p class="yt-video-title">
-[Epstein Files Fuel Trump vs MAGA Feud](https://www.youtube.com/watch?v=Y9Ja36XvNgg)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_aEYpbvrAh5M.png](../../assets/images/yt_thumbs/20251119182045_aEYpbvrAh5M.png)](https://www.youtube.com/watch?v=aEYpbvrAh5M&t=175s&pp=0gcJCQwKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Track Us Down!](https://www.youtube.com/@Track_Us_Down)</p><p class="yt-video-title">
-[Cost of Living 2025: Is Portugal Still the BEST Value for Expats?](https://www.youtube.com/watch?v=aEYpbvrAh5M&t=175s&pp=0gcJCQwKAYcqIYzv)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251119182045_QYWEQo1t27k.png](../../assets/images/yt_thumbs/20251119182045_QYWEQo1t27k.png)](https://www.youtube.com/watch?v=QYWEQo1t27k)<div><p class="yt-video-channel">Channel – [Scott Yu-Jan](https://www.youtube.com/@ScottYuJan)</p><p class="yt-video-title">
-[leaving Google for this](https://www.youtube.com/watch?v=QYWEQo1t27k)
 </p></div>
 
 </div>
