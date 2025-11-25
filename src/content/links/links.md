@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-25T00:18:14-08:00"
+date: "2025-11-25T11:56:31-08:00"
 slug: "links"
 ---
 
@@ -63,7 +63,6 @@ slug: "links"
 - [A brief history of Mac native file systems – The Eclectic Light Company](https://eclecticlight.co/2025/04/12/a-brief-history-of-mac-native-file-systems/)
 - [A candy engineer explains the science behind the Snickers bar - Ars Technica](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/#gsc.tab=0)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
-- [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [Browse No More | Paul Stamatiou](https://paulstamatiou.com/browse-no-more)
@@ -177,7 +176,6 @@ slug: "links"
 - [Buy Asian Beer at Sapporo | #1 Premium Japanese Lager](https://www.sapporobeer.com/)
 - [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
-- [Honey Kolsch – Rogue](https://www.rogue.com/shop/beer/core/honey-kolsch/)
 - [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
 - [KIRIN ICHIBAN](http://www.kirinichiban.com/)
 - [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
@@ -507,7 +505,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Tony's Coffee - Roast Magazine's 2021 Coffee Roaster of the Year](https://www.tonyscoffee.com/)
 - [tostado coffee roasters | arandas](https://www.tostadocoffeeroasters.com/arandas)
 - [TRAILHEAD COFFEE ROASTERS](https://www.trailheadcoffeeroasters.com/)
-- [Trailhead Esmeralda](https://www.trailheadcoffeeroasters.com/coffee/p/esmeralda)
 - [Wandering Goat Coffee Co.](https://wanderinggoat.com/)
 - [Water Avenue Coffee](https://wateravenuecoffee.com/)
 
@@ -528,7 +525,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [sed & awk](https://docstore.mik.ua/orelly/unix/sedawk/)
 - [sed](https://www.panix.com/%7Eelflord/unix/sed.html)
 - [Starship](https://starship.rs)
-- [The Complete Guide to Cron and Launchd on macOS/Linux | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41)
 - [theunixschool.com/p/awk-sed.html](https://www.theunixschool.com/p/awk-sed.html)
 - [tildeverse](https://tildeverse.org/)
 - [Understanding PAM - Linux.com](https://www.linux.com/news/understanding-pam/)
@@ -607,7 +603,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Resistbot](https://resist.bot/)
 - [Retraction Watch – Tracking retractions as a window into the scientific process](https://retractionwatch.com/)
 - [Ross Minor](https://rossminor.com)
-- [RsS iS dEaD LOL](https://rss-is-dead.lol/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
 - [SakuraPass](https://www.sakurapass.com/en/)
 - [samwho](https://samwho.dev/)
@@ -893,7 +888,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Misreading Chat – CS の論文読んで話をしよう!](https://misreading.chat/)
 - [Mystery AI Hype Theater 3000 | DAIR](https://www.dair-institute.org/maiht3k/)
 - [Not Playing with Lex and Dan - a podcast from The Incomparable](https://www.theincomparable.com/notplaying/)
-- [P1 with Matt and Tommy | Stak](https://stak.london/shows/p1-with-matt-and-tommy/)
 - [Podfeet Podcasts](https://www.podfeet.com/blog/subscribe-to-the-podcasts/)
 - [Pragmatic](https://engineered.network/pragmatic/)
 - [Programming by Stealth](https://pbs.bartificer.net/)
@@ -1005,7 +999,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Tea
 
-- [Kagoshima Tea - Japanese Green Tea - Loose / 1 lb. Bag - Harney & Sons Fine Teas](https://www.harney.com/products/kagoshima?variant=29491943302)
 - [Matcha Toasted Rice – Numi Tea](https://numitea.com/products/matcha-toasted-rice)
 
 ## YouTube
