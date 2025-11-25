@@ -1,17 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-23T11:52:36-08:00"
+date: "2025-11-25T00:18:14-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 
-I have a lot of thoughts about AI that I should write up at some point, regarding my own stance on using AI, what it's good for, what it's NOT good for, and how I can justify its use given the many valid concerns about the Silicon Valley companies making these models, the environmental effects of the "scale forever" approach to LLMs, and all the other disturbing parts of modern Silicon Valley (hint: a lot of it relates to venture capitalism and capitalism in general).
+In recent episodes of [Friends with Brews](https://friendswithbrews.com) I've been using the [Riverside](https://riverside.com) combined audio and editing it there to produce the shows, but for [ep 93](https://friendswithbrews.com/93/) I used both of our audio tracks and edited everything in Logic Pro again. The result is the best sounding episode in a long time, audio quality-wise.
 
-I know a lot of people are going to get mad immediately, and I think I alienated some people in the MacStories discord that I didn't mean to because I'm not staunchly anti-AI, but it's very hard to have these conversations in text without people seeing what they want to see in whatever you say. For the record, Federico Viticci and John Voorhees of MacStories themselves have been (in my opinion) very pragmatic and open-minded on the topic. They've denounced that "artistic" and content-creation uses of AI as well as the problems to society, while also being pragmatic about the things that it is good for. This is very much inline with my views on the topic.
-
-Anyway... my track record of accidentally alienating people online continues.
+I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/rx.html) Dialogue Isolate plugin does a really nice job. I'm pretty impressed with it.
 
 ## Stuff I've recently enjoyed
 
@@ -20,17 +18,16 @@ Anyway... my track record of accidentally alienating people online continues.
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Kevin Reilly got to the top of the TV heap. Now he’s in AI.](../../assets/images/oc_artwork/1138930460272319-42376031-356e-4c1e-8b14-f04b3db05c03.png)](https://overcast.fm/+QL2emCJr8) [Channels with Peter Kafka – Kevin Reilly got to the top of the TV heap. Now he’s in AI.](https://overcast.fm/+QL2emCJr8)
-![The DoorDash Problem: How AI browsers are a huge threat to Amazon](../../assets/images/oc_artwork/5816355975611959-468d9ed3-01b4-4d87-84ef-c29bd44ce3bf.png) Decoder: Ad-Free Edition – The DoorDash Problem: How AI browsers are a huge threat to Amazon
-[![Episode 241 – Seven Minutes to Spare](../../assets/images/oc_artwork/470841191766197-b8613268-5c26-4531-b5a4-5d31b6a68c52.png)](https://overcast.fm/+GsOkH7GLU) [Blurring The Lines Podcast – Episode 241 – Seven Minutes to Spare](https://overcast.fm/+GsOkH7GLU)
-[![Ep.124 Google 最新AIモデル Gemini 3 登場✨ 今週のテックニュース](../../assets/images/oc_artwork/4416666398310107-892d805d-214c-43a7-83ca-4f1ef76b453c.png)](https://overcast.fm/+-w70fDPts) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.124 Google 最新AIモデル Gemini 3 登場✨ 今週のテックニュース](https://overcast.fm/+-w70fDPts)
-[![435: ‘Lincoln Bio Services’, With Stephen Robles](../../assets/images/oc_artwork/135463664917078-84cb282b-e3e6-4b26-8268-320fea6514d8.png)](https://overcast.fm/+B7NBegmlY) [The Talk Show With John Gruber – 435: ‘Lincoln Bio Services’, With Stephen Robles](https://overcast.fm/+B7NBegmlY)
-[![139: Ardbeg 5 Year Old ‘Wee Beastie’ Single Malt Whisky](../../assets/images/oc_artwork/5287027029717610-c25d2425-3df2-4577-b145-06f984f1d9d9.png)](https://overcast.fm/+BLIhegGMmo) [Whisky Whiskey – 139: Ardbeg 5 Year Old ‘Wee Beastie’ Single Malt Whisky](https://overcast.fm/+BLIhegGMmo)
-![In-Casino Insights: Edd, Jon and Las Vegas qualifying’s big talking points (spoilers!)](../../assets/images/oc_artwork/5523677683260631-b16396c6-db74-4671-9ca1-3182ddf943f7.png) The Race F1 Podcast (Members) – In-Casino Insights: Edd, Jon and Las Vegas qualifying’s big talking points (spoilers!)
-![11/21/25: Middle class collapsing as Trump threatens everyone](../../assets/images/oc_artwork/5771694583789493-dcf031ab-3520-4246-ba81-af04c300f089.png) David Pakman Member Feed – 11/21/25: Middle class collapsing as Trump threatens everyone
-[![Tech Nostalgia](../../assets/images/oc_artwork/1847774706155478-a5e165d6-799d-4852-8bee-7c1dce6a7a3b.png)](https://overcast.fm/+aQipL8P9Y) [MacStories Unwind – Tech Nostalgia](https://overcast.fm/+aQipL8P9Y)
-![11/21/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771695025923185-4f18eb8f-20d6-44e5-9578-2a8c0abe3cbd.png) David Pakman Member Feed – 11/21/25: TDPS Bonus Show
-
+[![Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](../../assets/images/oc_artwork/4102723800186027-4400f45c-a433-4304-9182-240f58ce2b5a.png)](https://overcast.fm/+6TZ9K4vKs) [Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](https://overcast.fm/+6TZ9K4vKs)
+![What the climate story gets wrong](../../assets/images/oc_artwork/5816355846521674-18626b7b-3b65-4c53-ad67-7410c353524d.png) Decoder: Ad-Free Edition – What the climate story gets wrong
+[![Between Two Nerds: Telcos bad, Cloud good.](../../assets/images/oc_artwork/4031462431355773-698b5dd9-90bb-4d7d-a48f-7ccc59870b02.png)](https://overcast.fm/+5Sl_4lc30) [Risky Bulletin – Between Two Nerds: Telcos bad, Cloud good.](https://overcast.fm/+5Sl_4lc30)
+![11/24/25: MAGA civil war explodes as economic cracks widen](../../assets/images/oc_artwork/5771694381444025-c3cb0039-aaca-49b4-a40e-70cc01d8a902.png) David Pakman Member Feed – 11/24/25: MAGA civil war explodes as economic cracks widen
+![11/24/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694801979297-37669afc-2ce2-431d-94f9-6bbf57dda3a4.png) David Pakman Member Feed – 11/24/25: TDPS Bonus Show
+[![Big 50](../../assets/images/oc_artwork/4312414040373028-9ed9666d-d7a6-4a46-aa01-06944d79376e.png)](https://overcast.fm/+9SHiMANyQ) [Friends with Brews – Big 50](https://overcast.fm/+9SHiMANyQ)
+![666: We Have Nothing That Hot](../../assets/images/oc_artwork/5585875978540778-6d81bfc2-db1a-495a-afe6-c82f44f01fe6.png) Accidental Tech Podcast – 666: We Have Nothing That Hot
+[![CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](../../assets/images/oc_artwork/383182476982420-47683f4e-7e67-4c89-a7b0-2785a8969c31.png)](https://overcast.fm/+FcgJ9suJQ) [Chit Chat Across the Pond – CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](https://overcast.fm/+FcgJ9suJQ)
+![The Ever-Changing App Store](../../assets/images/oc_artwork/5561968057595421-23b82738-f13e-4d13-b8ac-1ea15c7475fb.png) AppStories+ – The Ever-Changing App Store
+![Las Vegas Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677163492803-4e66e3b8-184b-4d42-8eaa-b3f389b56bef.png) The Race F1 Podcast (Members) – Las Vegas Grand Prix review (ad-free)
 
 </div>
 
@@ -59,89 +56,72 @@ Anyway... my track record of accidentally alienating people online continues.
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_a7zJO_cj1QA.png](../../assets/images/yt_thumbs/20251123115025_a7zJO_cj1QA.png) ](https://www.youtube.com/watch?v=a7zJO_cj1QA&t=87s)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Disastrous McLaren disqualification & huge F1 title fight twist explained](https://www.youtube.com/watch?v=a7zJO_cj1QA&t=87s)
+[![../../assets/images/yt_thumbs/20251125000500_eLDq5TfIHys.png](../../assets/images/yt_thumbs/20251125000500_eLDq5TfIHys.png)](https://www.youtube.com/watch?v=eLDq5TfIHys)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
+[Claude Just Introduced a New Way To Fix Your UI](https://www.youtube.com/watch?v=eLDq5TfIHys)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_zBJeCf3zXGc.png](../../assets/images/yt_thumbs/20251123115025_zBJeCf3zXGc.png) ](https://www.youtube.com/watch?v=zBJeCf3zXGc)<div><p class="yt-video-channel">Channel – [Conor Moore Racing](https://www.youtube.com/@conormooref1)</p><p class="yt-video-title">
-[McLaren DISQUALIFIED in VEGAS F1](https://www.youtube.com/watch?v=zBJeCf3zXGc)
+[![../../assets/images/yt_thumbs/20251125000500_cHiZ-7jI0Ew.png](../../assets/images/yt_thumbs/20251125000500_cHiZ-7jI0Ew.png)](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
+[Does OpenAI expect a Government Bailout](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_Mh5LY4Mz15o.png](../../assets/images/yt_thumbs/20251123115025_Mh5LY4Mz15o.png) ](https://www.youtube.com/watch?v=Mh5LY4Mz15o&pp=0gcJCQsKAYcqIYzv)<div><p class="yt-video-channel">Channel – [bill wurtz](https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ)</p><p class="yt-video-title">
-[history of japan](https://www.youtube.com/watch?v=Mh5LY4Mz15o&pp=0gcJCQsKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20251125000500_bnYLpA5kAbo.png](../../assets/images/yt_thumbs/20251125000500_bnYLpA5kAbo.png)](https://www.youtube.com/watch?v=bnYLpA5kAbo)<div><p class="yt-video-channel">Channel – [Snazzy Labs](https://www.youtube.com/@snazzy)</p><p class="yt-video-title">
+[The iPad's Software Problem Is Permanent](https://www.youtube.com/watch?v=bnYLpA5kAbo)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_KJfz9ChQ0A0.png](../../assets/images/yt_thumbs/20251123115025_KJfz9ChQ0A0.png) ](https://www.youtube.com/watch?v=KJfz9ChQ0A0&t=35s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[You’re all wrong](https://www.youtube.com/watch?v=KJfz9ChQ0A0&t=35s)
+[![../../assets/images/yt_thumbs/20251125000500_w5xjbfyq8bA.png](../../assets/images/yt_thumbs/20251125000500_w5xjbfyq8bA.png)](https://www.youtube.com/watch?v=w5xjbfyq8bA)<div><p class="yt-video-channel">Channel – [Air Crash Investigation](https://www.youtube.com/@Aviationaccidents)</p><p class="yt-video-title">
+[The Teen in the Cockpit – The Tragedy of Aeroflot Flight 593](https://www.youtube.com/watch?v=w5xjbfyq8bA)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_cuLdd07P1II.png](../../assets/images/yt_thumbs/20251123115025_cuLdd07P1II.png) ](https://www.youtube.com/watch?v=cuLdd07P1II)<div><p class="yt-video-channel">Channel – [Techlore](https://www.youtube.com/@techlore)</p><p class="yt-video-title">
-[America's First VPN Ban: What Comes Next?](https://www.youtube.com/watch?v=cuLdd07P1II)
+[![../../assets/images/yt_thumbs/20251125000500_iGvJpBWWGOU.png](../../assets/images/yt_thumbs/20251125000500_iGvJpBWWGOU.png)](https://www.youtube.com/watch?v=iGvJpBWWGOU&t=658s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways](https://www.youtube.com/watch?v=iGvJpBWWGOU&t=658s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_v4OzI9GYag0.png](../../assets/images/yt_thumbs/20251123115025_v4OzI9GYag0.png) ](https://www.youtube.com/watch?v=v4OzI9GYag0)<div><p class="yt-video-channel">Channel – [GHOST FILM](https://www.youtube.com/@ghost_film)</p><p class="yt-video-title">
-[BBC bans Johnny Rotten in 1978 for outing Jimmy Saville](https://www.youtube.com/watch?v=v4OzI9GYag0)
+[![../../assets/images/yt_thumbs/20251125000500_DyY4AtpQLy8.png](../../assets/images/yt_thumbs/20251125000500_DyY4AtpQLy8.png)](https://www.youtube.com/watch?v=DyY4AtpQLy8)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[The Most DISTURBING Pilot I've Ever Investigated!](https://www.youtube.com/watch?v=DyY4AtpQLy8)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_NCP5JrjmYaI.png](../../assets/images/yt_thumbs/20251123115025_NCP5JrjmYaI.png) ](https://www.youtube.com/watch?v=NCP5JrjmYaI)<div><p class="yt-video-channel">Channel – [Chani Japan](https://www.youtube.com/@ChaniJapan)</p><p class="yt-video-title">
-[Japan Just Changed the Delivery Rules - Starting in March!](https://www.youtube.com/watch?v=NCP5JrjmYaI)
+[![../../assets/images/yt_thumbs/20251125000500_q66o4BriBSc.png](../../assets/images/yt_thumbs/20251125000500_q66o4BriBSc.png)](https://www.youtube.com/watch?v=q66o4BriBSc)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Aston Martin's shock move for Christian Horner explained](https://www.youtube.com/watch?v=q66o4BriBSc)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_9CxEnECKs9U.png](../../assets/images/yt_thumbs/20251123115025_9CxEnECKs9U.png) ](https://www.youtube.com/watch?v=9CxEnECKs9U)<div><p class="yt-video-channel">Channel – [Netflix](https://www.youtube.com/@Netflix)</p><p class="yt-video-title">
-[Cover-Up | Official Trailer | Netflix](https://www.youtube.com/watch?v=9CxEnECKs9U)
+[![../../assets/images/yt_thumbs/20251125000500_WhmGWavhSmE.png](../../assets/images/yt_thumbs/20251125000500_WhmGWavhSmE.png)](https://www.youtube.com/watch?v=WhmGWavhSmE)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Why Codex destroys Claude Code on AI clarity #ai #claude #claudecode #codex #llm #workwithai](https://www.youtube.com/watch?v=WhmGWavhSmE)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20251123115025_wr7IeupZYII.png](../../assets/images/yt_thumbs/20251123115025_wr7IeupZYII.png) ](https://www.youtube.com/watch?v=wr7IeupZYII&t=15s)<div><p class="yt-video-channel">Channel – [The Historian's Craft](https://www.youtube.com/@TheFallofRome)</p><p class="yt-video-title">
-[Elon Musk Doesn't Understand Why The Roman Empire Fell](https://www.youtube.com/watch?v=wr7IeupZYII&t=15s)
+[![../../assets/images/yt_thumbs/20251125000500_GB0b6KFZVq0.png](../../assets/images/yt_thumbs/20251125000500_GB0b6KFZVq0.png)](https://www.youtube.com/watch?v=GB0b6KFZVq0&t=3s&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Marques Brownlee](https://www.youtube.com/@mkbhd)</p><p class="yt-video-title">
+[AirPods Pro 3 Review: I Understand It Now!](https://www.youtube.com/watch?v=GB0b6KFZVq0&t=3s&pp=0gcJCRUKAYcqIYzv)
 </p></div>
 
 </div>
@@ -153,7 +133,5 @@ Anyway... my track record of accidentally alienating people online continues.
 <div class="food">
 
 [![Home | Long's Vietnamese Kitchen LLC](../../assets/images/food_thumbs/LongsVietnameseKitchen-1995D455-7952-4305-9594-4505E5B6E24E.png)](https://longsvietnamesekitchen.square.site) [Home | Long's Vietnamese Kitchen LLC](https://longsvietnamesekitchen.square.site)
-
-[![Decadent Creations](../../assets/images/food_thumbs/DecadentCreations-6F7FD926-1DAA-4BDD-A720-0C6D417F8B57.png)](https://decadentcreations.com) [Decadent Creations bakery in Hillsboro – Pumpkin bread](https://decadentcreations.com)
 
 </div>
