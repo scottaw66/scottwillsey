@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-25T00:18:14-08:00"
+date: "2025-11-25T13:57:25-08:00"
 slug: "now"
 ---
 
@@ -11,6 +11,8 @@ In recent episodes of [Friends with Brews](https://friendswithbrews.com) I've be
 
 I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/rx.html) Dialogue Isolate plugin does a really nice job. I'm pretty impressed with it.
 
+In site news, I created a link pruner to cautiously prune links for the [Links](/links) page. Well, Opus 4.5 made it, and I told it what to do and what not to do. This is my sum total experience with Opus 4.5 so far, and I have to say, it's impressive.
+
 ## Stuff I've recently enjoyed
 
 ### Podcasts
@@ -18,16 +20,16 @@ I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](../../assets/images/oc_artwork/4102723800186027-4400f45c-a433-4304-9182-240f58ce2b5a.png)](https://overcast.fm/+6TZ9K4vKs) [Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](https://overcast.fm/+6TZ9K4vKs)
-![What the climate story gets wrong](../../assets/images/oc_artwork/5816355846521674-18626b7b-3b65-4c53-ad67-7410c353524d.png) Decoder: Ad-Free Edition – What the climate story gets wrong
-[![Between Two Nerds: Telcos bad, Cloud good.](../../assets/images/oc_artwork/4031462431355773-698b5dd9-90bb-4d7d-a48f-7ccc59870b02.png)](https://overcast.fm/+5Sl_4lc30) [Risky Bulletin – Between Two Nerds: Telcos bad, Cloud good.](https://overcast.fm/+5Sl_4lc30)
-![11/24/25: MAGA civil war explodes as economic cracks widen](../../assets/images/oc_artwork/5771694381444025-c3cb0039-aaca-49b4-a40e-70cc01d8a902.png) David Pakman Member Feed – 11/24/25: MAGA civil war explodes as economic cracks widen
-![11/24/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694801979297-37669afc-2ce2-431d-94f9-6bbf57dda3a4.png) David Pakman Member Feed – 11/24/25: TDPS Bonus Show
-[![Big 50](../../assets/images/oc_artwork/4312414040373028-9ed9666d-d7a6-4a46-aa01-06944d79376e.png)](https://overcast.fm/+9SHiMANyQ) [Friends with Brews – Big 50](https://overcast.fm/+9SHiMANyQ)
-![666: We Have Nothing That Hot](../../assets/images/oc_artwork/5585875978540778-6d81bfc2-db1a-495a-afe6-c82f44f01fe6.png) Accidental Tech Podcast – 666: We Have Nothing That Hot
-[![CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](../../assets/images/oc_artwork/383182476982420-47683f4e-7e67-4c89-a7b0-2785a8969c31.png)](https://overcast.fm/+FcgJ9suJQ) [Chit Chat Across the Pond – CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](https://overcast.fm/+FcgJ9suJQ)
-![The Ever-Changing App Store](../../assets/images/oc_artwork/5561968057595421-23b82738-f13e-4d13-b8ac-1ea15c7475fb.png) AppStories+ – The Ever-Changing App Store
-![Las Vegas Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677163492803-4e66e3b8-184b-4d42-8eaa-b3f389b56bef.png) The Race F1 Podcast (Members) – Las Vegas Grand Prix review (ad-free)
+[![Living on the Emulation Edge with the Odin 3](../../assets/images/oc_artwork/5131276954767205-5a7ea34c-966e-475e-bc3c-1db9c7ef6afb.png)](https://overcast.fm/+BI63oQiD2U) [NPC: Next Portable Console – Living on the Emulation Edge with the Odin 3](https://overcast.fm/+BI63oQiD2U)
+[![S1E4: Zetna Fuentes](../../assets/images/oc_artwork/5856571508630041-0fccb5aa-27ef-4498-b55f-9a8451b1d13f.png)](https://overcast.fm/+BTOhVBfohk) [Pluribus: The Official Podcast – S1E4: Zetna Fuentes](https://overcast.fm/+BTOhVBfohk)
+[![Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](../../assets/images/oc_artwork/4102723800186027-c0ecd856-703f-4638-8306-86b6fe2fce9b.png)](https://overcast.fm/+6TZ9K4vKs) [Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](https://overcast.fm/+6TZ9K4vKs)
+![What the climate story gets wrong](../../assets/images/oc_artwork/5816355846521674-f8a3acdf-feb5-4ec6-981c-c51c69db1865.png) Decoder: Ad-Free Edition – What the climate story gets wrong
+[![Between Two Nerds: Telcos bad, Cloud good.](../../assets/images/oc_artwork/4031462431355773-9d125a6e-ef72-4217-a168-d7b7075d2bfc.png)](https://overcast.fm/+5Sl_4lc30) [Risky Bulletin – Between Two Nerds: Telcos bad, Cloud good.](https://overcast.fm/+5Sl_4lc30)
+![11/24/25: MAGA civil war explodes as economic cracks widen](../../assets/images/oc_artwork/5771694381444025-b554dbb1-fe7c-4f97-aef7-6c4039f28c2e.png) David Pakman Member Feed – 11/24/25: MAGA civil war explodes as economic cracks widen
+![11/24/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694801979297-a62852b4-1026-4bfc-97d0-11fe7b2fb557.png) David Pakman Member Feed – 11/24/25: TDPS Bonus Show
+[![Big 50](../../assets/images/oc_artwork/4312414040373028-fefbdfaf-0032-4024-8a82-0b92d507ebea.png)](https://overcast.fm/+9SHiMANyQ) [Friends with Brews – Big 50](https://overcast.fm/+9SHiMANyQ)
+![666: We Have Nothing That Hot](../../assets/images/oc_artwork/5585875978540778-5f54ab88-d9da-4d84-920d-8389e555888e.png) Accidental Tech Podcast – 666: We Have Nothing That Hot
+[![CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](../../assets/images/oc_artwork/383182476982420-a2af139c-4c58-4b69-9b1d-1a715409e37c.png)](https://overcast.fm/+FcgJ9suJQ) [Chit Chat Across the Pond – CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](https://overcast.fm/+FcgJ9suJQ)
 
 </div>
 
@@ -56,7 +58,39 @@ I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125000500_eLDq5TfIHys.png](../../assets/images/yt_thumbs/20251125000500_eLDq5TfIHys.png)](https://www.youtube.com/watch?v=eLDq5TfIHys)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251125120255_BL0pFxTqK-A.png](../../assets/images/yt_thumbs/20251125120255_BL0pFxTqK-A.png)](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)<div><p class="yt-video-channel">Channel – [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)</p><p class="yt-video-title">
+[Trump is Hot for Mamdani, Marjorie Taylor Greene Resigns from Congress & RFK Jr’s Explicit Poems](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251125120255_vLTjEsRoUek.png](../../assets/images/yt_thumbs/20251125120255_vLTjEsRoUek.png)](https://www.youtube.com/watch?v=vLTjEsRoUek)<div><p class="yt-video-channel">Channel – [Mick Schumacher](https://www.youtube.com/@MickSchumacher)</p><p class="yt-video-title">
+[I'M RACING INDYCAR NEXT SEASON! Behind the scenes at my first IndyCar test!](https://www.youtube.com/watch?v=vLTjEsRoUek)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251125120255_QzEsYFcaAkY.png](../../assets/images/yt_thumbs/20251125120255_QzEsYFcaAkY.png)](https://www.youtube.com/watch?v=QzEsYFcaAkY&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Anthropic won. This is my new favorite model (sorry Gemini…)](https://www.youtube.com/watch?v=QzEsYFcaAkY&pp=0gcJCRUKAYcqIYzv)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251125120255_-RhQhl_QuJI.png](../../assets/images/yt_thumbs/20251125120255_-RhQhl_QuJI.png)](https://www.youtube.com/watch?v=-RhQhl_QuJI&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [MacStories](https://www.youtube.com/@MacStories09)</p><p class="yt-video-title">
+[A MacStories Setups Update](https://www.youtube.com/watch?v=-RhQhl_QuJI&pp=0gcJCRUKAYcqIYzv)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251125120255_eLDq5TfIHys.png](../../assets/images/yt_thumbs/20251125120255_eLDq5TfIHys.png)](https://www.youtube.com/watch?v=eLDq5TfIHys)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
 [Claude Just Introduced a New Way To Fix Your UI](https://www.youtube.com/watch?v=eLDq5TfIHys)
 </p></div>
 
@@ -64,7 +98,7 @@ I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125000500_cHiZ-7jI0Ew.png](../../assets/images/yt_thumbs/20251125000500_cHiZ-7jI0Ew.png)](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251125120255_cHiZ-7jI0Ew.png](../../assets/images/yt_thumbs/20251125120255_cHiZ-7jI0Ew.png)](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
 [Does OpenAI expect a Government Bailout](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)
 </p></div>
 
@@ -72,7 +106,7 @@ I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125000500_bnYLpA5kAbo.png](../../assets/images/yt_thumbs/20251125000500_bnYLpA5kAbo.png)](https://www.youtube.com/watch?v=bnYLpA5kAbo)<div><p class="yt-video-channel">Channel – [Snazzy Labs](https://www.youtube.com/@snazzy)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251125120255_bnYLpA5kAbo.png](../../assets/images/yt_thumbs/20251125120255_bnYLpA5kAbo.png)](https://www.youtube.com/watch?v=bnYLpA5kAbo)<div><p class="yt-video-channel">Channel – [Snazzy Labs](https://www.youtube.com/@snazzy)</p><p class="yt-video-title">
 [The iPad's Software Problem Is Permanent](https://www.youtube.com/watch?v=bnYLpA5kAbo)
 </p></div>
 
@@ -80,7 +114,7 @@ I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125000500_w5xjbfyq8bA.png](../../assets/images/yt_thumbs/20251125000500_w5xjbfyq8bA.png)](https://www.youtube.com/watch?v=w5xjbfyq8bA)<div><p class="yt-video-channel">Channel – [Air Crash Investigation](https://www.youtube.com/@Aviationaccidents)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251125120255_w5xjbfyq8bA.png](../../assets/images/yt_thumbs/20251125120255_w5xjbfyq8bA.png)](https://www.youtube.com/watch?v=w5xjbfyq8bA)<div><p class="yt-video-channel">Channel – [Air Crash Investigation](https://www.youtube.com/@Aviationaccidents)</p><p class="yt-video-title">
 [The Teen in the Cockpit – The Tragedy of Aeroflot Flight 593](https://www.youtube.com/watch?v=w5xjbfyq8bA)
 </p></div>
 
@@ -88,40 +122,8 @@ I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125000500_iGvJpBWWGOU.png](../../assets/images/yt_thumbs/20251125000500_iGvJpBWWGOU.png)](https://www.youtube.com/watch?v=iGvJpBWWGOU&t=658s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways](https://www.youtube.com/watch?v=iGvJpBWWGOU&t=658s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125000500_DyY4AtpQLy8.png](../../assets/images/yt_thumbs/20251125000500_DyY4AtpQLy8.png)](https://www.youtube.com/watch?v=DyY4AtpQLy8)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
-[The Most DISTURBING Pilot I've Ever Investigated!](https://www.youtube.com/watch?v=DyY4AtpQLy8)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125000500_q66o4BriBSc.png](../../assets/images/yt_thumbs/20251125000500_q66o4BriBSc.png)](https://www.youtube.com/watch?v=q66o4BriBSc)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Aston Martin's shock move for Christian Horner explained](https://www.youtube.com/watch?v=q66o4BriBSc)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125000500_WhmGWavhSmE.png](../../assets/images/yt_thumbs/20251125000500_WhmGWavhSmE.png)](https://www.youtube.com/watch?v=WhmGWavhSmE)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Why Codex destroys Claude Code on AI clarity #ai #claude #claudecode #codex #llm #workwithai](https://www.youtube.com/watch?v=WhmGWavhSmE)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125000500_GB0b6KFZVq0.png](../../assets/images/yt_thumbs/20251125000500_GB0b6KFZVq0.png)](https://www.youtube.com/watch?v=GB0b6KFZVq0&t=3s&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Marques Brownlee](https://www.youtube.com/@mkbhd)</p><p class="yt-video-title">
-[AirPods Pro 3 Review: I Understand It Now!](https://www.youtube.com/watch?v=GB0b6KFZVq0&t=3s&pp=0gcJCRUKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20251125120255_iGvJpBWWGOU.png](../../assets/images/yt_thumbs/20251125120255_iGvJpBWWGOU.png)](https://www.youtube.com/watch?v=iGvJpBWWGOU&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways](https://www.youtube.com/watch?v=iGvJpBWWGOU&pp=0gcJCRUKAYcqIYzv)
 </p></div>
 
 </div>

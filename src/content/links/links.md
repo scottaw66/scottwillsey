@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-25T11:56:31-08:00"
+date: "2025-11-25T13:57:25-08:00"
 slug: "links"
 ---
 
@@ -33,6 +33,7 @@ slug: "links"
 - [Peter Steinberger](https://steipete.me/)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
+- [SnitchBench](https://snitchbench.t3.gg/)
 - [TestingCatalog - New and Unreleased AI features for you to explore](https://www.testingcatalog.com/)
 - [The AI Advantage](https://www.youtube.com/@aiadvantage)
 - [The Weird Turn Pro | Andy Masley | Substack](https://andymasley.substack.com/)

@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-11-25
+
+Created a link pruner to cautiously prune links from [Links page](/links/). It's not auto-running yet but I will put it in as an automatic step somewhere.
+
 ### 2025-11-19
 
 Fixed the logic for the Recent Updates page list. I broke it when I decided it was part of the home page and then part of the sidebar on all other pages.
