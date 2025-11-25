@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-25T13:57:25-08:00"
+date: "2025-11-25T14:38:32-08:00"
 slug: "links"
 ---
 
@@ -67,6 +67,7 @@ slug: "links"
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [Browse No More | Paul Stamatiou](https://paulstamatiou.com/browse-no-more)
+- [Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/)
 - [‘Cook chose poorly’: how Apple blew up its control over the App Store | The Verge](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
 - [Crossing the U.S. Border? Here’s How to Protect Yourself](https://theintercept.com/2025/03/29/customs-us-border-travel-airports-phone-searches/)
 - [Curate your own newspaper with RSS](https://www.citationneeded.news/curate-with-rss/)

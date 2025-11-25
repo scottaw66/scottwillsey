@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-25T13:57:25-08:00"
+date: "2025-11-25T14:38:32-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
+>
+> In recent episodes of [Friends with Brews](https://friendswithbrews.com) I've been using the [Riverside](https://riverside.com) combined audio and editing it there to produce the shows, but for [ep 93](https://friendswithbrews.com/93/) I used both of our audio tracks and edited everything in Logic Pro again. The result is the best sounding episode in a long time, audio quality-wise.  
 
-In recent episodes of [Friends with Brews](https://friendswithbrews.com) I've been using the [Riverside](https://riverside.com) combined audio and editing it there to produce the shows, but for [ep 93](https://friendswithbrews.com/93/) I used both of our audio tracks and edited everything in Logic Pro again. The result is the best sounding episode in a long time, audio quality-wise.
+> I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/rx.html) Dialogue Isolate plugin does a really nice job inside Logic Pro.  
 
-I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/rx.html) Dialogue Isolate plugin does a really nice job. I'm pretty impressed with it.
-
-In site news, I created a link pruner to cautiously prune links for the [Links](/links) page. Well, Opus 4.5 made it, and I told it what to do and what not to do. This is my sum total experience with Opus 4.5 so far, and I have to say, it's impressive.
+> In site news, I created a link pruner to cautiously prune links for the [Links](/links) page. Well, Opus 4.5 made it, and I told it what to do and what not to do. This is my sum total experience with Opus 4.5 so far, and I have to say, it seems really good.
 
 ## Stuff I've recently enjoyed
 
