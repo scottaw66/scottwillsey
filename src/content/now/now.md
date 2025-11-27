@@ -1,17 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-26T22:56:01-08:00"
+date: "2025-11-27T01:32:54-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> In recent episodes of [Friends with Brews](https://friendswithbrews.com) I've been using the [Riverside](https://riverside.com) combined audio and editing it there to produce the shows, but for [ep 93](https://friendswithbrews.com/93/) I used both of our audio tracks and edited everything in Logic Pro again. The result is the best sounding episode in a long time, audio quality-wise.  
-
-> I also have to say that the [Izotope RX 11](https://www.izotope.com/en/products/rx.html) Dialogue Isolate plugin does a really nice job inside Logic Pro.  
-
-> In site news, I created a link pruner to cautiously prune links for the [Links](/links) page. Well, Opus 4.5 made it, and I told it what to do and what not to do. This is my sum total experience with Opus 4.5 so far, and I have to say, it seems really good.
+> It's hard to believe it's the end of the year already. I have a lot of work related things I need to make progress on in the next 3 months just for life to be sustainable. I'm probably not being proactive enough about some of them.
 
 ## Stuff I've recently enjoyed
 
@@ -20,16 +16,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Living on the Emulation Edge with the Odin 3](../../assets/images/oc_artwork/5131276954767205-5a7ea34c-966e-475e-bc3c-1db9c7ef6afb.png)](https://overcast.fm/+BI63oQiD2U) [NPC: Next Portable Console – Living on the Emulation Edge with the Odin 3](https://overcast.fm/+BI63oQiD2U)
-[![S1E4: Zetna Fuentes](../../assets/images/oc_artwork/5856571508630041-0fccb5aa-27ef-4498-b55f-9a8451b1d13f.png)](https://overcast.fm/+BTOhVBfohk) [Pluribus: The Official Podcast – S1E4: Zetna Fuentes](https://overcast.fm/+BTOhVBfohk)
-[![Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](../../assets/images/oc_artwork/4102723800186027-c0ecd856-703f-4638-8306-86b6fe2fce9b.png)](https://overcast.fm/+6TZ9K4vKs) [Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting – Call Haptics, Photo GeoData Warnings, and Space-Saving iPhone Tricks](https://overcast.fm/+6TZ9K4vKs)
-![What the climate story gets wrong](../../assets/images/oc_artwork/5816355846521674-f8a3acdf-feb5-4ec6-981c-c51c69db1865.png) Decoder: Ad-Free Edition – What the climate story gets wrong
-[![Between Two Nerds: Telcos bad, Cloud good.](../../assets/images/oc_artwork/4031462431355773-9d125a6e-ef72-4217-a168-d7b7075d2bfc.png)](https://overcast.fm/+5Sl_4lc30) [Risky Bulletin – Between Two Nerds: Telcos bad, Cloud good.](https://overcast.fm/+5Sl_4lc30)
-![11/24/25: MAGA civil war explodes as economic cracks widen](../../assets/images/oc_artwork/5771694381444025-b554dbb1-fe7c-4f97-aef7-6c4039f28c2e.png) David Pakman Member Feed – 11/24/25: MAGA civil war explodes as economic cracks widen
-![11/24/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771694801979297-a62852b4-1026-4bfc-97d0-11fe7b2fb557.png) David Pakman Member Feed – 11/24/25: TDPS Bonus Show
-[![Big 50](../../assets/images/oc_artwork/4312414040373028-fefbdfaf-0032-4024-8a82-0b92d507ebea.png)](https://overcast.fm/+9SHiMANyQ) [Friends with Brews – Big 50](https://overcast.fm/+9SHiMANyQ)
-![666: We Have Nothing That Hot](../../assets/images/oc_artwork/5585875978540778-5f54ab88-d9da-4d84-920d-8389e555888e.png) Accidental Tech Podcast – 666: We Have Nothing That Hot
-[![CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](../../assets/images/oc_artwork/383182476982420-a2af139c-4c58-4b69-9b1d-1a715409e37c.png)](https://overcast.fm/+FcgJ9suJQ) [Chit Chat Across the Pond – CCATP #824 — Adam Engst on Can Agentic Web Browsers Count?](https://overcast.fm/+FcgJ9suJQ)
+[![Srsly Risky Biz: DeepSeek and Musk’s Grok both toe the party line](../../assets/images/oc_artwork/4031462337828031-6334fa2a-8a41-42d5-853e-3383ec541a9b.png)](https://overcast.fm/+5Sl_iSVL8) [Risky Bulletin – Srsly Risky Biz: DeepSeek and Musk’s Grok both toe the party line](https://overcast.fm/+5Sl_iSVL8)
+![Opening the Members Only Mailbag](../../assets/images/oc_artwork/1698965723778691-26cb543b-f138-486b-b5e5-53f0ccfc918f.png) Judge John Hodgman – Opening the Members Only Mailbag
+![11/26/25: Leaked call exposes Trump as approval craters, Republicans raise alarm](../../assets/images/oc_artwork/5771694687087220-6cab3b5d-d98b-4678-8d88-32772f02cceb.png) David Pakman Member Feed – 11/26/25: Leaked call exposes Trump as approval craters, Republicans raise alarm
+![11/26/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771695124957184-faa3cb13-3b16-46df-96f8-57257c4be591.png) David Pakman Member Feed – 11/26/25: TDPS Bonus Show
+![Newey to become Aston Martin team boss - but is it a good move? (ad-free)](../../assets/images/oc_artwork/5523676977604130-1bd25ea3-0101-4d16-ae9f-a3c8037d1a2b.png) The Race F1 Podcast (Members) – Newey to become Aston Martin team boss - but is it a good move? (ad-free)
+[![S1E5: Got Milk](../../assets/images/oc_artwork/5856571375031251-21571207-bda3-4d6f-b994-f1d6dc428e7e.png)](https://overcast.fm/+BTOhUhpE9M) [Pluribus: The Official Podcast – S1E5: Got Milk](https://overcast.fm/+BTOhUhpE9M)
+[![Enshittification and “Breaking Kings” (with Cory Doctorow at Web Summit)](../../assets/images/oc_artwork/5651241150337041-995e0fe5-f625-4906-ad4c-89224f55479d.png)](https://overcast.fm/+BQTxh1OUBE) [Revolution.Social – Enshittification and “Breaking Kings” (with Cory Doctorow at Web Summit)](https://overcast.fm/+BQTxh1OUBE)
+![Edd answers your questions on his Las Vegas driver rankings](../../assets/images/oc_artwork/5523677065886486-d43b614c-8cf8-49e0-a1b7-57beffefaa0d.png) The Race F1 Podcast (Members) – Edd answers your questions on his Las Vegas driver rankings
+[![What Happens To Media When The Web Goes Away, with Tony Haile](../../assets/images/oc_artwork/1138929919376285-99a002c8-e5a2-4eb5-abe7-87c53d8a35e5.png)](https://overcast.fm/+QL2clEu50) [Channels with Peter Kafka – What Happens To Media When The Web Goes Away, with Tony Haile](https://overcast.fm/+QL2clEu50)
+![A Massive Breach Reveals the Truth Behind ‘Secret Desires AI’](../../assets/images/oc_artwork/5121671409888339-6ad04d8b-2e1f-480a-8e3d-3d5000433c46.png) The 404 Media Podcast (Premium Feed) – A Massive Breach Reveals the Truth Behind ‘Secret Desires AI’
 
 </div>
 
@@ -62,7 +58,63 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125120255_BL0pFxTqK-A.png](../../assets/images/yt_thumbs/20251125120255_BL0pFxTqK-A.png)](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)<div><p class="yt-video-channel">Channel – [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251126225628_i-4uJ-dkZu8.png](../../assets/images/yt_thumbs/20251126225628_i-4uJ-dkZu8.png)](https://www.youtube.com/watch?v=i-4uJ-dkZu8&t=506s)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[The Real Reason Japan’s Homes Are So Cheap](https://www.youtube.com/watch?v=i-4uJ-dkZu8&t=506s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_UV9GqinedQ8.png](../../assets/images/yt_thumbs/20251126225628_UV9GqinedQ8.png)](https://www.youtube.com/watch?v=UV9GqinedQ8)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Google won image generation (it's not even close) NANO BANANA PRO BREAKDOWN](https://www.youtube.com/watch?v=UV9GqinedQ8)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_KJfz9ChQ0A0.png](../../assets/images/yt_thumbs/20251126225628_KJfz9ChQ0A0.png)](https://www.youtube.com/watch?v=KJfz9ChQ0A0&t=37s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[You’re all wrong](https://www.youtube.com/watch?v=KJfz9ChQ0A0&t=37s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_--wsjXaoTR4.png](../../assets/images/yt_thumbs/20251126225628_--wsjXaoTR4.png)](https://www.youtube.com/watch?v=--wsjXaoTR4)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[The model wars continue (do we even have jobs anymore??)](https://www.youtube.com/watch?v=--wsjXaoTR4)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_lznmsF4-afA.png](../../assets/images/yt_thumbs/20251126225628_lznmsF4-afA.png)](https://www.youtube.com/watch?v=lznmsF4-afA)<div><p class="yt-video-channel">Channel – [Caleb Writes Code](https://www.youtube.com/@CalebWritesCode)</p><p class="yt-video-title">
+[Claude Opus 4.5](https://www.youtube.com/watch?v=lznmsF4-afA)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_BxIpK4eKW8I.png](../../assets/images/yt_thumbs/20251126225628_BxIpK4eKW8I.png)](https://www.youtube.com/watch?v=BxIpK4eKW8I)<div><p class="yt-video-channel">Channel – [Tetsu Sensei](https://www.youtube.com/@tetsujpjp)</p><p class="yt-video-title">
+[“です” vs “ます” Explained Simply! | Japanese Grammar Made Easy](https://www.youtube.com/watch?v=BxIpK4eKW8I)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_EbZbGPi8ftA.png](../../assets/images/yt_thumbs/20251126225628_EbZbGPi8ftA.png)](https://www.youtube.com/watch?v=EbZbGPi8ftA)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Real World Testing: Opus 4.5 vs. Gemini 3 vs. ChatGPT 5.1](https://www.youtube.com/watch?v=EbZbGPi8ftA)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251126225628_BL0pFxTqK-A.png](../../assets/images/yt_thumbs/20251126225628_BL0pFxTqK-A.png)](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)<div><p class="yt-video-channel">Channel – [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)</p><p class="yt-video-title">
 [Trump is Hot for Mamdani, Marjorie Taylor Greene Resigns from Congress & RFK Jr’s Explicit Poems](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)
 </p></div>
 
@@ -70,64 +122,8 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251125120255_vLTjEsRoUek.png](../../assets/images/yt_thumbs/20251125120255_vLTjEsRoUek.png)](https://www.youtube.com/watch?v=vLTjEsRoUek)<div><p class="yt-video-channel">Channel – [Mick Schumacher](https://www.youtube.com/@MickSchumacher)</p><p class="yt-video-title">
-[I'M RACING INDYCAR NEXT SEASON! Behind the scenes at my first IndyCar test!](https://www.youtube.com/watch?v=vLTjEsRoUek)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_QzEsYFcaAkY.png](../../assets/images/yt_thumbs/20251125120255_QzEsYFcaAkY.png)](https://www.youtube.com/watch?v=QzEsYFcaAkY&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Anthropic won. This is my new favorite model (sorry Gemini…)](https://www.youtube.com/watch?v=QzEsYFcaAkY&pp=0gcJCRUKAYcqIYzv)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_-RhQhl_QuJI.png](../../assets/images/yt_thumbs/20251125120255_-RhQhl_QuJI.png)](https://www.youtube.com/watch?v=-RhQhl_QuJI&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [MacStories](https://www.youtube.com/@MacStories09)</p><p class="yt-video-title">
-[A MacStories Setups Update](https://www.youtube.com/watch?v=-RhQhl_QuJI&pp=0gcJCRUKAYcqIYzv)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_eLDq5TfIHys.png](../../assets/images/yt_thumbs/20251125120255_eLDq5TfIHys.png)](https://www.youtube.com/watch?v=eLDq5TfIHys)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
-[Claude Just Introduced a New Way To Fix Your UI](https://www.youtube.com/watch?v=eLDq5TfIHys)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_cHiZ-7jI0Ew.png](../../assets/images/yt_thumbs/20251125120255_cHiZ-7jI0Ew.png)](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
-[Does OpenAI expect a Government Bailout](https://www.youtube.com/watch?v=cHiZ-7jI0Ew&t=383s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_bnYLpA5kAbo.png](../../assets/images/yt_thumbs/20251125120255_bnYLpA5kAbo.png)](https://www.youtube.com/watch?v=bnYLpA5kAbo)<div><p class="yt-video-channel">Channel – [Snazzy Labs](https://www.youtube.com/@snazzy)</p><p class="yt-video-title">
-[The iPad's Software Problem Is Permanent](https://www.youtube.com/watch?v=bnYLpA5kAbo)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_w5xjbfyq8bA.png](../../assets/images/yt_thumbs/20251125120255_w5xjbfyq8bA.png)](https://www.youtube.com/watch?v=w5xjbfyq8bA)<div><p class="yt-video-channel">Channel – [Air Crash Investigation](https://www.youtube.com/@Aviationaccidents)</p><p class="yt-video-title">
-[The Teen in the Cockpit – The Tragedy of Aeroflot Flight 593](https://www.youtube.com/watch?v=w5xjbfyq8bA)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251125120255_iGvJpBWWGOU.png](../../assets/images/yt_thumbs/20251125120255_iGvJpBWWGOU.png)](https://www.youtube.com/watch?v=iGvJpBWWGOU&pp=0gcJCRUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways](https://www.youtube.com/watch?v=iGvJpBWWGOU&pp=0gcJCRUKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20251126225628_vLTjEsRoUek.png](../../assets/images/yt_thumbs/20251126225628_vLTjEsRoUek.png)](https://www.youtube.com/watch?v=vLTjEsRoUek&pp=0gcJCRYKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Mick Schumacher](https://www.youtube.com/@MickSchumacher)</p><p class="yt-video-title">
+[I'M RACING INDYCAR NEXT SEASON! Behind the scenes at my first IndyCar test!](https://www.youtube.com/watch?v=vLTjEsRoUek&pp=0gcJCRYKAYcqIYzv)
 </p></div>
 
 </div>
