@@ -439,6 +439,9 @@
   }
 
   /* Reviews sections */
+  article div.review-now {
+    @apply w-fit mx-auto mt-8;
+  }
   article h3#movies + p,
   article h3#books ~ p,
   article h3#tv-shows + p,
