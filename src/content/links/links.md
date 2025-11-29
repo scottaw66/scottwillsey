@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-28T16:06:45-08:00"
+date: "2025-11-29T14:12:56-08:00"
 slug: "links"
 ---
 
@@ -34,6 +34,7 @@ slug: "links"
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
 - [SnitchBench](https://snitchbench.t3.gg/)
+- [steipete/agent-rules: Rules and Knowledge to work better with agents such as Claude Code or Cursor](https://github.com/steipete/agent-rules)
 - [TestingCatalog - New and Unreleased AI features for you to explore](https://www.testingcatalog.com/)
 - [The AI Advantage](https://www.youtube.com/@aiadvantage)
 - [The Weird Turn Pro | Andy Masley | Substack](https://andymasley.substack.com/)
@@ -102,6 +103,7 @@ slug: "links"
 - [I’m a US citizen and a veteran. ICE arrested me for no reason.](https://newsletter.ofthebrave.org/p/im-a-us-citizen-and-a-veteran-ice)
 - [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
+- [Is Your Friend or Family Member Spiraling Into AI Psychosis? This Group May Be Able to Help](https://futurism.com/artificial-intelligence/group-breaking-people-out-of-ai-delusions)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Know Your Rights in Encounters with Law Enforcement and Military Troops | American Civil Liberties Union](https://www.aclu.org/news/national-security/know-your-rights-in-encounters-with-law-enforcement-and-military-troops)
@@ -897,6 +899,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Misreading Chat – CS の論文読んで話をしよう!](https://misreading.chat/)
 - [Mystery AI Hype Theater 3000 | DAIR](https://www.dair-institute.org/maiht3k/)
 - [Not Playing with Lex and Dan - a podcast from The Incomparable](https://www.theincomparable.com/notplaying/)
+- [Podcast Search](https://podcastsearch.david-smith.org/)
 - [Podfeet Podcasts](https://www.podfeet.com/blog/subscribe-to-the-podcasts/)
 - [Pragmatic](https://engineered.network/pragmatic/)
 - [Programming by Stealth](https://pbs.bartificer.net/)
@@ -974,6 +977,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 - [Shoelace: A forward-thinking library of web components.](https://shoelace.style/)
 - [SmolCSS](https://smolcss.dev/)
+- [steipete/agent-rules: Rules and Knowledge to work better with agents such as Claude Code or Cursor](https://github.com/steipete/agent-rules)
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)

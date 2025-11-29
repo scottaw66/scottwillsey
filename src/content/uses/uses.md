@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-11-17T00:35:20-08:00"
+date: "2025-11-29T14:12:56-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -10,12 +10,13 @@ slug: "uses"
 
 - 14-core CPU, 20-core GPU, 24GB RAM, 2TB SSD, Space Black
 - [Apple Studio Display](https://www.apple.com/studio-display/) (27" 5K Retina)
+- [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
+- [Insta360 Link 2 - AI 4K webcam, pro audio.](https://www.insta360.com/product/insta360-link2)
 - [Keychron Q1](https://www.keychron.com/products/keychron-q1) QMK, 84 key (75%), Gateron Pro Brown switches
 - [OWC 11-port Thunderbolt 4 Dock](https://eshop.macsales.com/shop/owc-thunderbolt-dock)
 - [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
 - [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A)
-- [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
-- [Insta360 Link 2 - AI 4K webcam, pro audio.](https://www.insta360.com/product/insta360-link2)  
+- [Wave Mic Arm LP | Mic Boom Arm for Desks | Elgato](https://www.elgato.com/us/en/p/wave-mic-arm-lp)
 
 ## Software
 
@@ -71,8 +72,6 @@ slug: "uses"
 ### Image Processing
 
 - [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
-- [Affinity Photo – Professional Image Editing Software](https://affinity.serif.com/en-us/photo/)
-- [Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/en-us/designer/)
 - [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
 - [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
 - [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
@@ -97,12 +96,12 @@ slug: "uses"
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
 - [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
 - [Forecast: Podcast MP3 Chapter Encoder — Overcast](https://overcast.fm/forecast)
+- [iZotope RX 11](https://www.izotope.com/en/products/rx.html?)
 - [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Riverside: HD Podcast & Video Software | Free Recording & Editing](https://riverside.com/)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
-- [Voice Cleaner](https://alexdenk.eu/mywork/voicecleaner.html)
 
 ### Programming, Log Analysis, Text Filtering
 
