@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-27T01:32:54-08:00"
+date: "2025-11-28T16:06:45-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> It's hard to believe it's the end of the year already. I have a lot of work related things I need to make progress on in the next 3 months just for life to be sustainable. I'm probably not being proactive enough about some of them.
+> What do you do when you have more ideas than time and energy? I don't know... not do most of them, I guess is my answer. 😢
 
 ## Stuff I've recently enjoyed
 
@@ -16,16 +16,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Srsly Risky Biz: DeepSeek and Musk’s Grok both toe the party line](../../assets/images/oc_artwork/4031462337828031-6334fa2a-8a41-42d5-853e-3383ec541a9b.png)](https://overcast.fm/+5Sl_iSVL8) [Risky Bulletin – Srsly Risky Biz: DeepSeek and Musk’s Grok both toe the party line](https://overcast.fm/+5Sl_iSVL8)
-![Opening the Members Only Mailbag](../../assets/images/oc_artwork/1698965723778691-26cb543b-f138-486b-b5e5-53f0ccfc918f.png) Judge John Hodgman – Opening the Members Only Mailbag
-![11/26/25: Leaked call exposes Trump as approval craters, Republicans raise alarm](../../assets/images/oc_artwork/5771694687087220-6cab3b5d-d98b-4678-8d88-32772f02cceb.png) David Pakman Member Feed – 11/26/25: Leaked call exposes Trump as approval craters, Republicans raise alarm
-![11/26/25: TDPS Bonus Show](../../assets/images/oc_artwork/5771695124957184-faa3cb13-3b16-46df-96f8-57257c4be591.png) David Pakman Member Feed – 11/26/25: TDPS Bonus Show
-![Newey to become Aston Martin team boss - but is it a good move? (ad-free)](../../assets/images/oc_artwork/5523676977604130-1bd25ea3-0101-4d16-ae9f-a3c8037d1a2b.png) The Race F1 Podcast (Members) – Newey to become Aston Martin team boss - but is it a good move? (ad-free)
-[![S1E5: Got Milk](../../assets/images/oc_artwork/5856571375031251-21571207-bda3-4d6f-b994-f1d6dc428e7e.png)](https://overcast.fm/+BTOhUhpE9M) [Pluribus: The Official Podcast – S1E5: Got Milk](https://overcast.fm/+BTOhUhpE9M)
-[![Enshittification and “Breaking Kings” (with Cory Doctorow at Web Summit)](../../assets/images/oc_artwork/5651241150337041-995e0fe5-f625-4906-ad4c-89224f55479d.png)](https://overcast.fm/+BQTxh1OUBE) [Revolution.Social – Enshittification and “Breaking Kings” (with Cory Doctorow at Web Summit)](https://overcast.fm/+BQTxh1OUBE)
-![Edd answers your questions on his Las Vegas driver rankings](../../assets/images/oc_artwork/5523677065886486-d43b614c-8cf8-49e0-a1b7-57beffefaa0d.png) The Race F1 Podcast (Members) – Edd answers your questions on his Las Vegas driver rankings
-[![What Happens To Media When The Web Goes Away, with Tony Haile](../../assets/images/oc_artwork/1138929919376285-99a002c8-e5a2-4eb5-abe7-87c53d8a35e5.png)](https://overcast.fm/+QL2clEu50) [Channels with Peter Kafka – What Happens To Media When The Web Goes Away, with Tony Haile](https://overcast.fm/+QL2clEu50)
-![A Massive Breach Reveals the Truth Behind ‘Secret Desires AI’](../../assets/images/oc_artwork/5121671409888339-6ad04d8b-2e1f-480a-8e3d-3d5000433c46.png) The 404 Media Podcast (Premium Feed) – A Massive Breach Reveals the Truth Behind ‘Secret Desires AI’
+[![Who Knows? Independent Researchers in a Platform Era w/ Brandi Geurkink](../../assets/images/oc_artwork/4973607747740634-2d8380ca-e601-43fc-b72c-34ab45287e3c.png)](https://overcast.fm/+BGreEsOY9o) [Computer Says Maybe – Who Knows? Independent Researchers in a Platform Era w/ Brandi Geurkink](https://overcast.fm/+BGreEsOY9o)
+[![Turkey Trots, TV Affiliates, and Holiday Watch Plans](../../assets/images/oc_artwork/1847774771613264-43d06f26-bc00-42c2-9532-ad09c7b40d80.png)](https://overcast.fm/+aQipbjDlA) [MacStories Unwind – Turkey Trots, TV Affiliates, and Holiday Watch Plans](https://overcast.fm/+aQipbjDlA)
+[![TEASER: Members Only Mailbag November 2025](../../assets/images/oc_artwork/1698965862093842-68a58456-a25d-4a36-b65e-37773d9f8b5d.png)](https://maximumfun.org/episodes/judge-john-hodgman/teaser-members-only-mailbag-november-2025/) [Judge John Hodgman – TEASER: Members Only Mailbag November 2025](https://maximumfun.org/episodes/judge-john-hodgman/teaser-members-only-mailbag-november-2025/)
+![Inside the Biggest Sting Operation Ever (with Michael Bobbitt)](../../assets/images/oc_artwork/5121672085130772-425f8883-364b-45b7-843c-91a075d5c5c1.png) The 404 Media Podcast (Premium Feed) – Inside the Biggest Sting Operation Ever (with Michael Bobbitt)
+[![It’s Charlie Chapman’s Fault](../../assets/images/oc_artwork/5130549887596410-02de18e6-6851-4ab9-a2e6-4322843f07c6.png)](https://overcast.fm/+BI6NTuNd3o) [Comfort Zone – It’s Charlie Chapman’s Fault](https://overcast.fm/+BI6NTuNd3o)
+![Data Centers Are a Climate Enemy w/ Ketan Joshi](../../assets/images/oc_artwork/5585832433132413-fde74aa1-a189-47be-8e3d-0d4dad00553b.png) Tech Won't Save Us (Premium) – Data Centers Are a Climate Enemy w/ Ketan Joshi
+![Cause of McLaren’s double DSQ + Ocon’s brake ‘problem’ - F1 Qatar GP media day takeaways with Scott](../../assets/images/oc_artwork/5523677630541915-c566c55d-2e8d-4bab-91be-99ab11077bcc.png) The Race F1 Podcast (Members) – Cause of McLaren’s double DSQ + Ocon’s brake ‘problem’ - F1 Qatar GP media day takeaways with Scott
+![Vettel’s ‘torpedo’ comment, the top team contract he never signed and more - Kvyat answers members’ questions](../../assets/images/oc_artwork/5523677895823909-d12e936f-a8f4-4320-8bb1-98a354e44924.png) The Race F1 Podcast (Members) – Vettel’s ‘torpedo’ comment, the top team contract he never signed and more - Kvyat answers members’ questions
+[![Episode 2: Outdoor Debugging](../../assets/images/oc_artwork/5151974627566933-6e96fe1a-d050-4697-b68a-2eb529457f14.png)](https://overcast.fm/+BJNsZGRZVU) [Shell Game – Episode 2: Outdoor Debugging](https://overcast.fm/+BJNsZGRZVU)
+[![Episode 6: The Future Isn’t Real](../../assets/images/oc_artwork/5151975208224319-fdcad8c9-d519-4ee9-9016-daf4c759c7de.png)](https://overcast.fm/+BJNsbQthj8) [Shell Game – Episode 6: The Future Isn’t Real](https://overcast.fm/+BJNsbQthj8)
 
 </div>
 
@@ -58,72 +58,72 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_i-4uJ-dkZu8.png](../../assets/images/yt_thumbs/20251126225628_i-4uJ-dkZu8.png)](https://www.youtube.com/watch?v=i-4uJ-dkZu8&t=506s)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
-[The Real Reason Japan’s Homes Are So Cheap](https://www.youtube.com/watch?v=i-4uJ-dkZu8&t=506s)
+[![../../assets/images/yt_thumbs/20251128155414_5U3SjwSYntk.png](../../assets/images/yt_thumbs/20251128155414_5U3SjwSYntk.png)](https://www.youtube.com/watch?v=5U3SjwSYntk)<div><p class="yt-video-channel">Channel – [Jack Cocchiarella](https://www.youtube.com/@JackCocchiarellaShow)</p><p class="yt-video-title">
+[COLLAPSING Trump Posts SLUR As TOP OFFICIAL Exposes MRI Results!](https://www.youtube.com/watch?v=5U3SjwSYntk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_UV9GqinedQ8.png](../../assets/images/yt_thumbs/20251126225628_UV9GqinedQ8.png)](https://www.youtube.com/watch?v=UV9GqinedQ8)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Google won image generation (it's not even close) NANO BANANA PRO BREAKDOWN](https://www.youtube.com/watch?v=UV9GqinedQ8)
+[![../../assets/images/yt_thumbs/20251128155414_jldxEVTniQA.png](../../assets/images/yt_thumbs/20251128155414_jldxEVTniQA.png)](https://www.youtube.com/watch?v=jldxEVTniQA&t=35s)<div><p class="yt-video-channel">Channel – [NHK WORLD-JAPAN](https://www.youtube.com/@NHKWORLDJAPAN)</p><p class="yt-video-title">
+[Curiosity Saves the Cat - Science View](https://www.youtube.com/watch?v=jldxEVTniQA&t=35s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_KJfz9ChQ0A0.png](../../assets/images/yt_thumbs/20251126225628_KJfz9ChQ0A0.png)](https://www.youtube.com/watch?v=KJfz9ChQ0A0&t=37s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[You’re all wrong](https://www.youtube.com/watch?v=KJfz9ChQ0A0&t=37s)
+[![../../assets/images/yt_thumbs/20251128155414_8COXbJPknwE.png](../../assets/images/yt_thumbs/20251128155414_8COXbJPknwE.png)](https://www.youtube.com/watch?v=8COXbJPknwE&t=8s&pp=0gcJCRYKAYcqIYzv)<div><p class="yt-video-channel">Channel – [LawVS](https://www.youtube.com/@LawVS)</p><p class="yt-video-title">
+[McLaren’s FIA Plea Betrays Formula One](https://www.youtube.com/watch?v=8COXbJPknwE&t=8s&pp=0gcJCRYKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_--wsjXaoTR4.png](../../assets/images/yt_thumbs/20251126225628_--wsjXaoTR4.png)](https://www.youtube.com/watch?v=--wsjXaoTR4)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[The model wars continue (do we even have jobs anymore??)](https://www.youtube.com/watch?v=--wsjXaoTR4)
+[![../../assets/images/yt_thumbs/20251128155414_DcnTK7E1Ayc.png](../../assets/images/yt_thumbs/20251128155414_DcnTK7E1Ayc.png)](https://www.youtube.com/watch?v=DcnTK7E1Ayc&t=11s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[I Tested 5 AI's To Figure Out Which Is Best at Black Friday Shopping—Demo + Prompts Included](https://www.youtube.com/watch?v=DcnTK7E1Ayc&t=11s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_lznmsF4-afA.png](../../assets/images/yt_thumbs/20251126225628_lznmsF4-afA.png)](https://www.youtube.com/watch?v=lznmsF4-afA)<div><p class="yt-video-channel">Channel – [Caleb Writes Code](https://www.youtube.com/@CalebWritesCode)</p><p class="yt-video-title">
-[Claude Opus 4.5](https://www.youtube.com/watch?v=lznmsF4-afA)
+[![../../assets/images/yt_thumbs/20251128155414_vmxwdQZPPOc.png](../../assets/images/yt_thumbs/20251128155414_vmxwdQZPPOc.png)](https://www.youtube.com/watch?v=vmxwdQZPPOc&t=26s)<div><p class="yt-video-channel">Channel – [Lovable](https://www.youtube.com/@lovable)</p><p class="yt-video-title">
+[Build a STUNNING Portfolio Website From Scratch with AI (No Coding!)](https://www.youtube.com/watch?v=vmxwdQZPPOc&t=26s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_BxIpK4eKW8I.png](../../assets/images/yt_thumbs/20251126225628_BxIpK4eKW8I.png)](https://www.youtube.com/watch?v=BxIpK4eKW8I)<div><p class="yt-video-channel">Channel – [Tetsu Sensei](https://www.youtube.com/@tetsujpjp)</p><p class="yt-video-title">
-[“です” vs “ます” Explained Simply! | Japanese Grammar Made Easy](https://www.youtube.com/watch?v=BxIpK4eKW8I)
+[![../../assets/images/yt_thumbs/20251128155414_a00PHpSSFGo.png](../../assets/images/yt_thumbs/20251128155414_a00PHpSSFGo.png)](https://www.youtube.com/watch?v=a00PHpSSFGo&t=7s)<div><p class="yt-video-channel">Channel – [UCCDH](https://www.youtube.com/@uccdh)</p><p class="yt-video-title">
+[The Web Revival and the Folk Life of Virtual Worlds (Daniel Murray)](https://www.youtube.com/watch?v=a00PHpSSFGo&t=7s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_EbZbGPi8ftA.png](../../assets/images/yt_thumbs/20251126225628_EbZbGPi8ftA.png)](https://www.youtube.com/watch?v=EbZbGPi8ftA)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Real World Testing: Opus 4.5 vs. Gemini 3 vs. ChatGPT 5.1](https://www.youtube.com/watch?v=EbZbGPi8ftA)
+[![../../assets/images/yt_thumbs/20251128155414_MTaeVVAvk-c.png](../../assets/images/yt_thumbs/20251128155414_MTaeVVAvk-c.png)](https://www.youtube.com/watch?v=MTaeVVAvk-c&t=5s)<div><p class="yt-video-channel">Channel – [XOXO Festival](https://www.youtube.com/@xoxofest)</p><p class="yt-video-title">
+[Molly White, Citation Needed / Web3 Is Going Just Great - XOXO Festival (2024)](https://www.youtube.com/watch?v=MTaeVVAvk-c&t=5s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_BL0pFxTqK-A.png](../../assets/images/yt_thumbs/20251126225628_BL0pFxTqK-A.png)](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)<div><p class="yt-video-channel">Channel – [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)</p><p class="yt-video-title">
-[Trump is Hot for Mamdani, Marjorie Taylor Greene Resigns from Congress & RFK Jr’s Explicit Poems](https://www.youtube.com/watch?v=BL0pFxTqK-A&t=634s)
+[![../../assets/images/yt_thumbs/20251128155414_62NJbICVWkQ.png](../../assets/images/yt_thumbs/20251128155414_62NJbICVWkQ.png)](https://www.youtube.com/watch?v=62NJbICVWkQ&t=15s)<div><p class="yt-video-channel">Channel – [angieblah](https://www.youtube.com/@angieblah245)</p><p class="yt-video-title">
+[how i made my indie website (and why you should make one too)](https://www.youtube.com/watch?v=62NJbICVWkQ&t=15s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251126225628_vLTjEsRoUek.png](../../assets/images/yt_thumbs/20251126225628_vLTjEsRoUek.png)](https://www.youtube.com/watch?v=vLTjEsRoUek&pp=0gcJCRYKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Mick Schumacher](https://www.youtube.com/@MickSchumacher)</p><p class="yt-video-title">
-[I'M RACING INDYCAR NEXT SEASON! Behind the scenes at my first IndyCar test!](https://www.youtube.com/watch?v=vLTjEsRoUek&pp=0gcJCRYKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20251128155414_2IoqhwqVI0s.png](../../assets/images/yt_thumbs/20251128155414_2IoqhwqVI0s.png)](https://www.youtube.com/watch?v=2IoqhwqVI0s)<div><p class="yt-video-channel">Channel – [Embrace The Red](https://www.youtube.com/@embracethered)</p><p class="yt-video-title">
+[Claude Pirate! Data Exfiltration with Anthropic APIs and Prompt Injection](https://www.youtube.com/watch?v=2IoqhwqVI0s)
 </p></div>
 
 </div>

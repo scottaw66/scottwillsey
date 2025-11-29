@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-25T14:38:32-08:00"
+date: "2025-11-28T16:06:45-08:00"
 slug: "links"
 ---
 
@@ -73,6 +73,7 @@ slug: "links"
 - [Curate your own newspaper with RSS](https://www.citationneeded.news/curate-with-rss/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
+- [Embracing AI While Retaining My Privacy — by Bart Busschots - Podfeet Podcasts](https://www.podfeet.com/blog/2025/11/ai-privacy-bart/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Enshittification - by William A. Finnegan - Persuasion](https://www.persuasion.community/p/enshittification)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
@@ -133,6 +134,7 @@ slug: "links"
 - [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [The Hidden Treasures of Crash Reports](https://objective-see.org/blog/blog_0x7B.html?mc_cid=cc6f2fb89f&mc_eid=aacb70004b)
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
+- [The Internet is dead. Here's how to resurrect him](https://treshautdebit.substack.com/p/coder-son-site-web-dernier-geste?r=6414h5&triedRedirect=true)
 - [The Joy of Pachinko's Opening Credits - Pachinko Theme Song](https://www.townandcountrymag.com/leisure/arts-and-culture/a39538403/pachinko-opening-credits-theme-song/)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The Next Thing You Smell Could Ruin Your Life | WIRED](https://www.wired.com/story/multiple-chemical-sensitivity-tilt-claudia-miller/)
@@ -255,6 +257,9 @@ Did I ever tell you that Andy Nicolaides was a co-host of mine on Pocket Sized P
 
 **[The Eclectic Light Company – Macs, painting, and more](https://eclecticlight.co/)**  
 I don't know about the paintings because I haven't looked that far yet, but the Mac stuff is stupendously great. Howard Oakley should be proud (but not too proud, because no one likes arrogance).
+
+**[Embrace The Red · Embrace The Red](https://embracethered.com/blog/)**  
+Super interesting security-related blog.
 
 **[Eric Bailey – Inclusive design advocate, writer, developer, and speaker](https://ericwbailey.website/)**  
 Accessibilty, design, programming, and much more!  
@@ -612,6 +617,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [sircmpwn/openring - A webring for static site generators](https://git.sr.ht/~sircmpwn/openring)
 - [SLRPNK](https://slrpnk.net)
 - [Small Seasons](https://smallseasons.guide/)
+- [SPACE TYPE GENERATOR](https://spacetypegenerator.com)
 - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [Song a Day World](https://songaday.world)
@@ -690,6 +696,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 - [slash pages](https://slashpages.net/)
+- [The Internet is dead. Here's how to resurrect him](https://treshautdebit.substack.com/p/coder-son-site-web-dernier-geste?r=6414h5&triedRedirect=true)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
 - [/uses](https://uses.tech)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
@@ -995,6 +1002,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Security
 
+- [Embrace The Red · Embrace The Red](https://embracethered.com/blog/)
 - [Locking down Signal](https://freedom.press/digisec/blog/locking-down-signal/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
 - [The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search | WIRED](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)
