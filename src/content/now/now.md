@@ -1,13 +1,15 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-11-28T16:06:45-08:00"
+date: "2025-11-30T15:12:12-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> What do you do when you have more ideas than time and energy? I don't know... not do most of them, I guess is my answer. 😢
+> This week I feel overwhelmed with all the things I need and want to get done. I could easily just sleep all day most days, and I'm not sure what that's all about, but I have goals that I want to make progress on, so I'm not taking those naps that I want so much. No. Not happening.
+>
+> I do wish I was a cat though.
 
 ## Stuff I've recently enjoyed
 
@@ -16,16 +18,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Who Knows? Independent Researchers in a Platform Era w/ Brandi Geurkink](../../assets/images/oc_artwork/4973607747740634-2d8380ca-e601-43fc-b72c-34ab45287e3c.png)](https://overcast.fm/+BGreEsOY9o) [Computer Says Maybe – Who Knows? Independent Researchers in a Platform Era w/ Brandi Geurkink](https://overcast.fm/+BGreEsOY9o)
-[![Turkey Trots, TV Affiliates, and Holiday Watch Plans](../../assets/images/oc_artwork/1847774771613264-43d06f26-bc00-42c2-9532-ad09c7b40d80.png)](https://overcast.fm/+aQipbjDlA) [MacStories Unwind – Turkey Trots, TV Affiliates, and Holiday Watch Plans](https://overcast.fm/+aQipbjDlA)
-[![TEASER: Members Only Mailbag November 2025](../../assets/images/oc_artwork/1698965862093842-68a58456-a25d-4a36-b65e-37773d9f8b5d.png)](https://maximumfun.org/episodes/judge-john-hodgman/teaser-members-only-mailbag-november-2025/) [Judge John Hodgman – TEASER: Members Only Mailbag November 2025](https://maximumfun.org/episodes/judge-john-hodgman/teaser-members-only-mailbag-november-2025/)
-![Inside the Biggest Sting Operation Ever (with Michael Bobbitt)](../../assets/images/oc_artwork/5121672085130772-425f8883-364b-45b7-843c-91a075d5c5c1.png) The 404 Media Podcast (Premium Feed) – Inside the Biggest Sting Operation Ever (with Michael Bobbitt)
-[![It’s Charlie Chapman’s Fault](../../assets/images/oc_artwork/5130549887596410-02de18e6-6851-4ab9-a2e6-4322843f07c6.png)](https://overcast.fm/+BI6NTuNd3o) [Comfort Zone – It’s Charlie Chapman’s Fault](https://overcast.fm/+BI6NTuNd3o)
-![Data Centers Are a Climate Enemy w/ Ketan Joshi](../../assets/images/oc_artwork/5585832433132413-fde74aa1-a189-47be-8e3d-0d4dad00553b.png) Tech Won't Save Us (Premium) – Data Centers Are a Climate Enemy w/ Ketan Joshi
-![Cause of McLaren’s double DSQ + Ocon’s brake ‘problem’ - F1 Qatar GP media day takeaways with Scott](../../assets/images/oc_artwork/5523677630541915-c566c55d-2e8d-4bab-91be-99ab11077bcc.png) The Race F1 Podcast (Members) – Cause of McLaren’s double DSQ + Ocon’s brake ‘problem’ - F1 Qatar GP media day takeaways with Scott
-![Vettel’s ‘torpedo’ comment, the top team contract he never signed and more - Kvyat answers members’ questions](../../assets/images/oc_artwork/5523677895823909-d12e936f-a8f4-4320-8bb1-98a354e44924.png) The Race F1 Podcast (Members) – Vettel’s ‘torpedo’ comment, the top team contract he never signed and more - Kvyat answers members’ questions
-[![Episode 2: Outdoor Debugging](../../assets/images/oc_artwork/5151974627566933-6e96fe1a-d050-4697-b68a-2eb529457f14.png)](https://overcast.fm/+BJNsZGRZVU) [Shell Game – Episode 2: Outdoor Debugging](https://overcast.fm/+BJNsZGRZVU)
-[![Episode 6: The Future Isn’t Real](../../assets/images/oc_artwork/5151975208224319-fdcad8c9-d519-4ee9-9016-daf4c759c7de.png)](https://overcast.fm/+BJNsbQthj8) [Shell Game – Episode 6: The Future Isn’t Real](https://overcast.fm/+BJNsbQthj8)
+![I just want AI to rename my photos](../../assets/images/oc_artwork/5816342619535851-ac6fb8ae-201c-4d46-b02f-dda4737d65c4.png) The Vergecast: Ad-Free Edition – I just want AI to rename my photos
+[![141: Ardbeg Uigeadail Single Malt Whisky](../../assets/images/oc_artwork/5287026750756586-604bc7b3-b1ba-44fd-938f-c09b96568e78.png)](https://overcast.fm/+BLIhddlluo) [Whisky Whiskey – 141: Ardbeg Uigeadail Single Malt Whisky](https://overcast.fm/+BLIhddlluo)
+![Designing for Liquid Glass: Outstanding Indie Apps](../../assets/images/oc_artwork/5561967948094966-0ae1d5e5-7d68-4be9-a6b7-bccc89be620a.png) AppStories+ – Designing for Liquid Glass: Outstanding Indie Apps
+[![s02e04 - W. David Marx — Blank Space: A Cultural History of the 21st Century](../../assets/images/oc_artwork/641001643787779-99751320-15d0-45cc-975d-1bb62aede589.png)](https://overcast.fm/+JG_NNHRgM) [On Margins – s02e04 - W. David Marx — Blank Space: A Cultural History of the 21st Century](https://overcast.fm/+JG_NNHRgM)
+![BBV10s 1993 Revisited: Japanese GP](../../assets/images/oc_artwork/5523680124942924-3ce5de18-e253-4ae2-9660-adca4f753e25.png) Bring Back V10s (Members) – BBV10s 1993 Revisited: Japanese GP
+[![Ep.125 折り目が見えないiPhone Fold?! 気になる噂😲 今週のテックニュース](../../assets/images/oc_artwork/4416667062094343-c4527855-64b2-4abc-b7ff-41e0d70ad418.png)](https://overcast.fm/+-w729Tygc) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.125 折り目が見えないiPhone Fold?! 気になる噂😲 今週のテックニュース](https://overcast.fm/+-w729Tygc)
+[![Portugal Digital Nomad Dream or Paperwork Nightmare](../../assets/images/oc_artwork/5894833053947067-7e8cfb55-644a-4844-8182-844875321f81.png)](https://overcast.fm/+BTxUcYw1Ls) [Leave America: Unfiltered – Portugal Digital Nomad Dream or Paperwork Nightmare](https://overcast.fm/+BTxUcYw1Ls)
+![Qatar sprint race and qualifying debrief - In-car Insights](../../assets/images/oc_artwork/5523676964971673-75ba5548-de2a-4f39-b444-9f63b3002a9f.png) The Race F1 Podcast (Members) – Qatar sprint race and qualifying debrief - In-car Insights
+[![61: West Gate Bridge](../../assets/images/oc_artwork/2220795042228122-a360d907-68b2-48e4-a8ce-354b31d321c8.png)](https://overcast.fm/+fjzSOcZ5o) [Causality – 61: West Gate Bridge](https://overcast.fm/+fjzSOcZ5o)
+![Qatar F1 sprint qualifying debrief - while hunting for a lost hire car](../../assets/images/oc_artwork/5523677522802324-0fe75b43-8f26-4025-8bf6-e24a455c6fbd.png) The Race F1 Podcast (Members) – Qatar F1 sprint qualifying debrief - while hunting for a lost hire car
 
 </div>
 
@@ -58,82 +60,74 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_5U3SjwSYntk.png](../../assets/images/yt_thumbs/20251128155414_5U3SjwSYntk.png)](https://www.youtube.com/watch?v=5U3SjwSYntk)<div><p class="yt-video-channel">Channel – [Jack Cocchiarella](https://www.youtube.com/@JackCocchiarellaShow)</p><p class="yt-video-title">
-[COLLAPSING Trump Posts SLUR As TOP OFFICIAL Exposes MRI Results!](https://www.youtube.com/watch?v=5U3SjwSYntk)
+[![../../assets/images/yt_thumbs/20251130145714_OFwoExC__MQ.png](../../assets/images/yt_thumbs/20251130145714_OFwoExC__MQ.png)](https://www.youtube.com/watch?v=OFwoExC__MQ)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[The DEADLY Truth About The Dallas Air Show Crash!](https://www.youtube.com/watch?v=OFwoExC__MQ)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_jldxEVTniQA.png](../../assets/images/yt_thumbs/20251128155414_jldxEVTniQA.png)](https://www.youtube.com/watch?v=jldxEVTniQA&t=35s)<div><p class="yt-video-channel">Channel – [NHK WORLD-JAPAN](https://www.youtube.com/@NHKWORLDJAPAN)</p><p class="yt-video-title">
-[Curiosity Saves the Cat - Science View](https://www.youtube.com/watch?v=jldxEVTniQA&t=35s)
+[![../../assets/images/yt_thumbs/20251130145714__iKKA2DoG9k.png](../../assets/images/yt_thumbs/20251130145714__iKKA2DoG9k.png)](https://www.youtube.com/watch?v=_iKKA2DoG9k&pp=0gcJCRYKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Cat Dog Diary](https://www.youtube.com/@CatDogDiary-6868)</p><p class="yt-video-title">
+[Abandoned Puppy Meets Kitten for the First Time — His Reaction Will Melt Your Heart!](https://www.youtube.com/watch?v=_iKKA2DoG9k&pp=0gcJCRYKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_8COXbJPknwE.png](../../assets/images/yt_thumbs/20251128155414_8COXbJPknwE.png)](https://www.youtube.com/watch?v=8COXbJPknwE&t=8s&pp=0gcJCRYKAYcqIYzv)<div><p class="yt-video-channel">Channel – [LawVS](https://www.youtube.com/@LawVS)</p><p class="yt-video-title">
-[McLaren’s FIA Plea Betrays Formula One](https://www.youtube.com/watch?v=8COXbJPknwE&t=8s&pp=0gcJCRYKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20251130145714_BID91xWyCnQ.png](../../assets/images/yt_thumbs/20251130145714_BID91xWyCnQ.png)](https://www.youtube.com/watch?v=BID91xWyCnQ&pp=0gcJCRYKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[Why YOU Can't Buy a House in Japan](https://www.youtube.com/watch?v=BID91xWyCnQ&pp=0gcJCRYKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_DcnTK7E1Ayc.png](../../assets/images/yt_thumbs/20251128155414_DcnTK7E1Ayc.png)](https://www.youtube.com/watch?v=DcnTK7E1Ayc&t=11s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[I Tested 5 AI's To Figure Out Which Is Best at Black Friday Shopping—Demo + Prompts Included](https://www.youtube.com/watch?v=DcnTK7E1Ayc&t=11s)
+[![../../assets/images/yt_thumbs/20251130145714_Zk0OgjTff2Q.png](../../assets/images/yt_thumbs/20251130145714_Zk0OgjTff2Q.png)](https://www.youtube.com/watch?v=Zk0OgjTff2Q&t=7s)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[How to Buy a Cheap Akiya House in Japan as a Foreigner (Step-By-Step)](https://www.youtube.com/watch?v=Zk0OgjTff2Q&t=7s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_vmxwdQZPPOc.png](../../assets/images/yt_thumbs/20251128155414_vmxwdQZPPOc.png)](https://www.youtube.com/watch?v=vmxwdQZPPOc&t=26s)<div><p class="yt-video-channel">Channel – [Lovable](https://www.youtube.com/@lovable)</p><p class="yt-video-title">
-[Build a STUNNING Portfolio Website From Scratch with AI (No Coding!)](https://www.youtube.com/watch?v=vmxwdQZPPOc&t=26s)
+[![../../assets/images/yt_thumbs/20251130145714_M0BzCHlEc2U.png](../../assets/images/yt_thumbs/20251130145714_M0BzCHlEc2U.png)](https://www.youtube.com/watch?v=M0BzCHlEc2U)<div><p class="yt-video-channel">Channel – [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)</p><p class="yt-video-title">
+[Should YOU rent or buy your home in Japan?](https://www.youtube.com/watch?v=M0BzCHlEc2U)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_a00PHpSSFGo.png](../../assets/images/yt_thumbs/20251128155414_a00PHpSSFGo.png)](https://www.youtube.com/watch?v=a00PHpSSFGo&t=7s)<div><p class="yt-video-channel">Channel – [UCCDH](https://www.youtube.com/@uccdh)</p><p class="yt-video-title">
-[The Web Revival and the Folk Life of Virtual Worlds (Daniel Murray)](https://www.youtube.com/watch?v=a00PHpSSFGo&t=7s)
+[![../../assets/images/yt_thumbs/20251130145714_-9d7aGO6L7o.png](../../assets/images/yt_thumbs/20251130145714_-9d7aGO6L7o.png)](https://www.youtube.com/watch?v=-9d7aGO6L7o)<div><p class="yt-video-channel">Channel – [Matt Guy](https://www.youtube.com/@im.mattguy)</p><p class="yt-video-title">
+[Japan Might Ban Foreigners From Buying Homes: What’s Happening?](https://www.youtube.com/watch?v=-9d7aGO6L7o)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_MTaeVVAvk-c.png](../../assets/images/yt_thumbs/20251128155414_MTaeVVAvk-c.png)](https://www.youtube.com/watch?v=MTaeVVAvk-c&t=5s)<div><p class="yt-video-channel">Channel – [XOXO Festival](https://www.youtube.com/@xoxofest)</p><p class="yt-video-title">
-[Molly White, Citation Needed / Web3 Is Going Just Great - XOXO Festival (2024)](https://www.youtube.com/watch?v=MTaeVVAvk-c&t=5s)
+[![../../assets/images/yt_thumbs/20251130145714__leTSEOBvxE.png](../../assets/images/yt_thumbs/20251130145714__leTSEOBvxE.png)](https://www.youtube.com/watch?v=_leTSEOBvxE)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[“If You Want To Live…” – Newark ATC Breakdown | Captain Steeeve Reacts](https://www.youtube.com/watch?v=_leTSEOBvxE)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_62NJbICVWkQ.png](../../assets/images/yt_thumbs/20251128155414_62NJbICVWkQ.png)](https://www.youtube.com/watch?v=62NJbICVWkQ&t=15s)<div><p class="yt-video-channel">Channel – [angieblah](https://www.youtube.com/@angieblah245)</p><p class="yt-video-title">
-[how i made my indie website (and why you should make one too)](https://www.youtube.com/watch?v=62NJbICVWkQ&t=15s)
+[![../../assets/images/yt_thumbs/20251130145714_-77L1oq0X9M.png](../../assets/images/yt_thumbs/20251130145714_-77L1oq0X9M.png)](https://www.youtube.com/watch?v=-77L1oq0X9M&t=38s)<div><p class="yt-video-channel">Channel – THE RACE and The Race Podcasts</p><p class="yt-video-title">
+[NEW Damon Hill F1 show! - The evolution of F1 team bosses | The Undercut E1](https://www.youtube.com/watch?v=-77L1oq0X9M&t=38s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251128155414_2IoqhwqVI0s.png](../../assets/images/yt_thumbs/20251128155414_2IoqhwqVI0s.png)](https://www.youtube.com/watch?v=2IoqhwqVI0s)<div><p class="yt-video-channel">Channel – [Embrace The Red](https://www.youtube.com/@embracethered)</p><p class="yt-video-title">
-[Claude Pirate! Data Exfiltration with Anthropic APIs and Prompt Injection](https://www.youtube.com/watch?v=2IoqhwqVI0s)
+[![../../assets/images/yt_thumbs/20251130145714_AY18c0X4uWg.png](../../assets/images/yt_thumbs/20251130145714_AY18c0X4uWg.png)](https://www.youtube.com/watch?v=AY18c0X4uWg)<div><p class="yt-video-channel">Channel – [PeriscopeFilm](https://www.youtube.com/@PeriscopeFilm)</p><p class="yt-video-title">
+[1962 NEW YORK AIRWAYS HELICOPTER SERVICE TO MANHATTAN  PROMOTIONAL FILM 34204](https://www.youtube.com/watch?v=AY18c0X4uWg)
 </p></div>
 
 </div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![Home | Long's Vietnamese Kitchen LLC](../../assets/images/food_thumbs/LongsVietnameseKitchen-1995D455-7952-4305-9594-4505E5B6E24E.png)](https://longsvietnamesekitchen.square.site) [Home | Long's Vietnamese Kitchen LLC](https://longsvietnamesekitchen.square.site)
 
 </div>

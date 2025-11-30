@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-29T14:12:56-08:00"
+date: "2025-11-30T15:12:12-08:00"
 slug: "links"
 ---
 
@@ -877,6 +877,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 - [3x2 Photocast](<https://3x2.pics/>)
 - [Accidental Tech Podcast](https://atp.fm/)
+- [AppStories](https://appstories.net/)
 - [Blurring the Lines Podcast](https://blurringthelinespodcast.com/)
 - [Causality](https://engineered.network/causality/)
 - [Clear+Vivid with Alan Alda](https://clear-vivid-with-alan-alda.simplecast.com/)
@@ -893,12 +894,16 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
 - [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
 - [Keeping your Rust toolchain and binaries up-to-date, the easy way | Eduard's Blog](https://www.edu4rdshl.dev/posts/keeping-your-rust-toolchain-and-binaries-up-to-date-the-easy-way/)
+- [kill switch | iHeart](https://www.iheart.com/podcast/105-kill-switch-30880104/)
+- [Lazy Fluency - Japanese Podcast | 英会話 - YouTube](https://www.youtube.com/@lazyfluencypodcast/videos)
 - [Mac Admins Podcast – A podcast for Mac admins by Mac admins.](https://podcast.macadmins.org/)
 - [Mac Geek Gab Podcast](https://www.macgeekgab.com/)
+- [MacStories Unwind and Unwind+ - MacStories](https://www.macstories.net/unwind/)
 - [Malicious Life | Cybersecurity History Podcast](https://malicious.life/)
 - [Misreading Chat – CS の論文読んで話をしよう!](https://misreading.chat/)
 - [Mystery AI Hype Theater 3000 | DAIR](https://www.dair-institute.org/maiht3k/)
-- [Not Playing with Lex and Dan - a podcast from The Incomparable](https://www.theincomparable.com/notplaying/)
+- [On Margins — A podcast about making books — by Craig Mod](https://craigmod.com/onmargins/)
+- [Podcast by Yuka Studio 🎙 ユカスタポッドキャスト - YouTube](https://www.youtube.com/playlist?list=PLQh_X7U4VnXObPsnsA22MJnigvjQcHKEr)
 - [Podcast Search](https://podcastsearch.david-smith.org/)
 - [Podfeet Podcasts](https://www.podfeet.com/blog/subscribe-to-the-podcasts/)
 - [Pragmatic](https://engineered.network/pragmatic/)
@@ -907,19 +912,18 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Really Specific Stories](https://www.rsspod.net/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
 - [Risky Business - Risky Business](https://risky.biz/netcasts/risky-business/)
-- [Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren](https://sixcolors.com/)
 - [Smashing Security - News and views from the world of cybersecurity, hacking, and internet threats](https://www.smashingsecurity.com/)
 - [SYSTEM CRASH – A tech news podcast](https://systemcrash.info/)
+- [Talk Python To Me Podcast](https://talkpython.fm/)
 - [Techdirt Podcast Editions | Techdirt](https://www.techdirt.com/edition/podcast/)
 - [Tech Won’t Save Us](https://www.techwontsave.us/)
 - [The 404 Media Podcast](https://www.404media.co/the-404-media-podcast/)
-- [The Incomparable - Smart, funny pop culture podcasts](https://www.theincomparable.com/)
 - [The Race Podcasts](https://www.the-race.com/podcasts/)
-- [The Rebound: A tech podcast](https://reboundcast.com/)
 - [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/)
 - [The Vergecast Podcast | The Verge](https://www.theverge.com/the-vergecast)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
 - [Trashfuture](https://trashfuture.co.uk/)
+- [Unclear and Present Danger — Jamelle Bouie](https://jamellebouie.net/unclear-and-present-danger)
 - [Whisky Whiskey - YouTube](https://www.youtube.com/playlist?list=PLLNhKy4yME6d6FYOBRUIRwhLxLt-89i2n)
 
 ## Programming and Web Dev
