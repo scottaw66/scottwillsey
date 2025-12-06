@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-11-30T15:12:12-08:00"
+date: "2025-12-05T21:01:19-08:00"
 slug: "links"
 ---
 
@@ -594,6 +594,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
 - [Moon Phase Tracker | Rendered in ASCII Art](https://asciimoon.com/)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
+- [News from Stonking](https://news.stonking.com/news)
 - [noclip](https://noclip.website/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
