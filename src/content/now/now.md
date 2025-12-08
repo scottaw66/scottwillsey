@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-07T18:01:24-08:00"
+date: "2025-12-08T15:56:53-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Every now and then I prove to myself that I still have weak spots in my approach to life and other humans. Well, you can't have opportunity for growth without "opportunity". 😄 On the plus side, I have a nice little Sophos XGS 88 to play with at home now for testing and configuring Sophos FW with.
+> I haven't set up the Sophos FW yet as I have been sleeping inordinate amounts due to being under the weather. It's really getting tiring! ... Get it? Feeling under the weather is ... really ... tiring??
 
 ## Stuff I've recently enjoyed
 
@@ -16,16 +16,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-![Abu Dhabi Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677305851561-d033aa29-8d46-45bd-bf41-b3fd030dc6da.png) The Race F1 Podcast (Members) – Abu Dhabi Grand Prix review (ad-free)
-![In-Car Insights: The final race dilemmas facing each of F1’s title trio](../../assets/images/oc_artwork/5523677752684264-d3b0b6a3-c3dd-4b6e-877c-97cb11012cfe.png) The Race F1 Podcast (Members) – In-Car Insights: The final race dilemmas facing each of F1’s title trio
-[![The Lone Ranger - Caravan Of Garbage](../../assets/images/oc_artwork/3737328253936084-f876c9a8-0e47-4761-aa47-803cea7ead8c.png)](https://overcast.fm/+1HFIr8IdQ) [The Weekly Planet – The Lone Ranger - Caravan Of Garbage](https://overcast.fm/+1HFIr8IdQ)
-![It’s code red for ChatGPT](../../assets/images/oc_artwork/5816343347808496-c4805288-eceb-4c01-b406-26a9e66436a3.png) The Vergecast: Ad-Free Edition – It’s code red for ChatGPT
-![The tiny team trying to keep AI from destroying everything](../../assets/images/oc_artwork/5816356249993773-311b74b0-621d-4d8b-b926-0010a7828ce3.png) Decoder: Ad-Free Edition – The tiny team trying to keep AI from destroying everything
-[![S1E6: HDP](../../assets/images/oc_artwork/5856571867270328-180ee34e-dbdb-4057-84af-5a3a56fdef0b.png)](https://overcast.fm/+BTOhWXADLg) [Pluribus: The Official Podcast – S1E6: HDP](https://overcast.fm/+BTOhWXADLg)
-[![143: Kilkerran Heavily Peated Batch 11 Single Malt Whisky](../../assets/images/oc_artwork/5287026452544440-4b5aa3ac-c5ec-4d8b-90c1-51ea4031ef0a.png)](https://overcast.fm/+BLIhcWfO7g) [Whisky Whiskey – 143: Kilkerran Heavily Peated Batch 11 Single Malt Whisky](https://overcast.fm/+BLIhcWfO7g)
-[![The Best TV Shows and Movies of 2025](../../assets/images/oc_artwork/5891752389257233-d40790eb-5ad1-4d1a-88a4-78c577d8c7fc.png)](https://overcast.fm/+BTuhIBEKBE) [MacStories Unwind – The Best TV Shows and Movies of 2025](https://overcast.fm/+BTuhIBEKBE)
-![In-Car Insights: Practice pointers from the F1 decider](../../assets/images/oc_artwork/5523677308149550-e79bf028-02f9-4509-8ded-5ce020e8acd0.png) The Race F1 Podcast (Members) – In-Car Insights: Practice pointers from the F1 decider
-[![Entering My Dad Era](../../assets/images/oc_artwork/5130548925131018-ad0c74aa-c3a1-44c5-a6a9-3075694e2394.png)](https://overcast.fm/+BI6NQIvaQo) [Comfort Zone – Entering My Dad Era](https://overcast.fm/+BI6NQIvaQo)
+![In-Aquarium (?) Insights: Post-race plans and bird feud](../../assets/images/oc_artwork/5523677348951638-019563cd-924d-49df-996d-69c877e4d1d0.png) The Race F1 Podcast (Members) – In-Aquarium (?) Insights: Post-race plans and bird feud
+![Square’s product chief on the death of the penny and the future of money](../../assets/images/oc_artwork/5816356262015964-8aed4f4c-684b-4689-b22d-6393ae6ce153.png) Decoder: Ad-Free Edition – Square’s product chief on the death of the penny and the future of money
+[![604 The Netflix Warner Bros Deal](../../assets/images/oc_artwork/3737328255033896-4169dc82-8af8-44fe-a674-40e3c7a5ffea.png)](https://overcast.fm/+1HFIsM4ig) [The Weekly Planet – 604 The Netflix Warner Bros Deal](https://overcast.fm/+1HFIsM4ig)
+![Vibe Coding Your Own Productivity Tools](../../assets/images/oc_artwork/5561968540060147-cdbc8917-3f7b-4447-b6a7-5f12d7940b3e.png) AppStories+ – Vibe Coding Your Own Productivity Tools
+![Abu Dhabi Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677305851561-8560acb9-a2b4-4ff9-b870-45819fce9785.png) The Race F1 Podcast (Members) – Abu Dhabi Grand Prix review (ad-free)
+![In-Car Insights: The final race dilemmas facing each of F1’s title trio](../../assets/images/oc_artwork/5523677752684264-d55b801c-63dd-4415-a58e-e333a960a511.png) The Race F1 Podcast (Members) – In-Car Insights: The final race dilemmas facing each of F1’s title trio
+[![The Lone Ranger - Caravan Of Garbage](../../assets/images/oc_artwork/3737328253936084-fce5f28e-c8d9-4ac1-9cd7-32452285ad91.png)](https://overcast.fm/+1HFIr8IdQ) [The Weekly Planet – The Lone Ranger - Caravan Of Garbage](https://overcast.fm/+1HFIr8IdQ)
+![It’s code red for ChatGPT](../../assets/images/oc_artwork/5816343347808496-106dad79-156c-42a2-af96-da345468b657.png) The Vergecast: Ad-Free Edition – It’s code red for ChatGPT
+![The tiny team trying to keep AI from destroying everything](../../assets/images/oc_artwork/5816356249993773-e1b40bea-27b4-460b-8fb3-175087498ceb.png) Decoder: Ad-Free Edition – The tiny team trying to keep AI from destroying everything
+[![S1E6: HDP](../../assets/images/oc_artwork/5856571867270328-e53dd86b-2af4-4d54-85fe-e3c742156e04.png)](https://overcast.fm/+BTOhWXADLg) [Pluribus: The Official Podcast – S1E6: HDP](https://overcast.fm/+BTOhWXADLg)
 
 </div>
 
@@ -56,7 +56,63 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251207174534_99XwgLb7zlM.png](../../assets/images/yt_thumbs/20251207174534_99XwgLb7zlM.png)](https://www.youtube.com/watch?v=99XwgLb7zlM)<div><p class="yt-video-channel">Channel – [Adrian Pandev](https://www.youtube.com/@adrianpandev)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251208155327_MQN6ZMegwJA.png](../../assets/images/yt_thumbs/20251208155327_MQN6ZMegwJA.png)](https://www.youtube.com/watch?v=MQN6ZMegwJA)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
+[Things are about to get REALLY AWESOME](https://www.youtube.com/watch?v=MQN6ZMegwJA)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327_YliVzVtq4xw.png](../../assets/images/yt_thumbs/20251208155327_YliVzVtq4xw.png)](https://www.youtube.com/watch?v=YliVzVtq4xw)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Drivers React To The Race | 2025 Abu Dhabi Grand Prix](https://www.youtube.com/watch?v=YliVzVtq4xw)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327_s8vJUAU0Efw.png](../../assets/images/yt_thumbs/20251208155327_s8vJUAU0Efw.png)](https://www.youtube.com/watch?v=s8vJUAU0Efw)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Lando Norris' First Interview As World Drivers' Champion](https://www.youtube.com/watch?v=s8vJUAU0Efw)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327_xrcM1Y5utKA.png](../../assets/images/yt_thumbs/20251208155327_xrcM1Y5utKA.png)](https://www.youtube.com/watch?v=xrcM1Y5utKA)<div><p class="yt-video-channel">Channel – [ESPN F1](https://www.youtube.com/@ESPNFormula1)</p><p class="yt-video-title">
+[Lando Norris on winning his FIRST WDC 🏆 + REACTIONS from Carlos Sainz & Lando's mom! 🥹 | ESPN F1](https://www.youtube.com/watch?v=xrcM1Y5utKA)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327_kQSmNM2GhmQ.png](../../assets/images/yt_thumbs/20251208155327_kQSmNM2GhmQ.png)](https://www.youtube.com/watch?v=kQSmNM2GhmQ)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[The Pilot Mistakes That Doomed UPS Flight 1354!](https://www.youtube.com/watch?v=kQSmNM2GhmQ)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327__vBX_Ed5bfQ.png](../../assets/images/yt_thumbs/20251208155327__vBX_Ed5bfQ.png)](https://www.youtube.com/watch?v=_vBX_Ed5bfQ)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Why Verstappen didn't play games to steal F1 title from Norris](https://www.youtube.com/watch?v=_vBX_Ed5bfQ)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327_5-Y8s_NNX0E.png](../../assets/images/yt_thumbs/20251208155327_5-Y8s_NNX0E.png)](https://www.youtube.com/watch?v=5-Y8s_NNX0E&pp=0gcJCSgKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Conor Moore Racing](https://www.youtube.com/@conormooref1)</p><p class="yt-video-title">
+[Lando Norris is F1 WORLD Champion (IMPRESSIONS)](https://www.youtube.com/watch?v=5-Y8s_NNX0E&pp=0gcJCSgKAYcqIYzv)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251208155327_99XwgLb7zlM.png](../../assets/images/yt_thumbs/20251208155327_99XwgLb7zlM.png)](https://www.youtube.com/watch?v=99XwgLb7zlM)<div><p class="yt-video-channel">Channel – [Adrian Pandev](https://www.youtube.com/@adrianpandev)</p><p class="yt-video-title">
 [DUAL CITIZENS: You Could LOSE Your Passport! Will US Ban Dual Citizenship?](https://www.youtube.com/watch?v=99XwgLb7zlM)
 </p></div>
 
@@ -64,74 +120,10 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251207174534_57Ul0qSQgeA.png](../../assets/images/yt_thumbs/20251207174534_57Ul0qSQgeA.png)](https://www.youtube.com/watch?v=57Ul0qSQgeA)<div><p class="yt-video-channel">Channel – [Jim Carrey](https://www.youtube.com/@JimCarrey1992)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251208155327_57Ul0qSQgeA.png](../../assets/images/yt_thumbs/20251208155327_57Ul0qSQgeA.png)](https://www.youtube.com/watch?v=57Ul0qSQgeA)<div><p class="yt-video-channel">Channel – [Jim Carrey](https://www.youtube.com/@JimCarrey1992)</p><p class="yt-video-title">
 [Liar Liar: It Was Me](https://www.youtube.com/watch?v=57Ul0qSQgeA)
 </p></div>
 
 </div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_xWs6Qij112Y.png](../../assets/images/yt_thumbs/20251207174534_xWs6Qij112Y.png)](https://www.youtube.com/watch?v=xWs6Qij112Y&t=221s)<div><p class="yt-video-channel">Channel – [Daily Dose Of Internet](https://www.youtube.com/@DailyDoseOfInternet)</p><p class="yt-video-title">
-[The Dumbest Drivers Ever](https://www.youtube.com/watch?v=xWs6Qij112Y&t=221s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_wJXMVy0wO9c.png](../../assets/images/yt_thumbs/20251207174534_wJXMVy0wO9c.png)](https://www.youtube.com/watch?v=wJXMVy0wO9c)<div><p class="yt-video-channel">Channel – [FutonBedsFromJapan.com](https://www.youtube.com/@Futonbedsfromjapan1)</p><p class="yt-video-title">
-[Futon Beds | What to Expect When You Order a Futon from Us](https://www.youtube.com/watch?v=wJXMVy0wO9c)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_1K_rqtnm4ww.png](../../assets/images/yt_thumbs/20251207174534_1K_rqtnm4ww.png)](https://www.youtube.com/watch?v=1K_rqtnm4ww&t=2s)<div><p class="yt-video-channel">Channel – [Exjapter](https://www.youtube.com/@Exjapter)</p><p class="yt-video-title">
-[Retire in Japan? Obstacles and Advice on Healthcare, Pension, Investments. [Reupload] #japanese](https://www.youtube.com/watch?v=1K_rqtnm4ww&t=2s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_P3iK_0pQKmU.png](../../assets/images/yt_thumbs/20251207174534_P3iK_0pQKmU.png)](https://www.youtube.com/watch?v=P3iK_0pQKmU)<div><p class="yt-video-channel">Channel – [Epic Lines](https://www.youtube.com/@EpicLinesClips)</p><p class="yt-video-title">
-[Jim Carrey’s FUNNIEST Kung Fu Sketch Ever 😂🥋 | In Living Color Classic](https://www.youtube.com/watch?v=P3iK_0pQKmU)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_SLFTGOCqj6k.png](../../assets/images/yt_thumbs/20251207174534_SLFTGOCqj6k.png)](https://www.youtube.com/watch?v=SLFTGOCqj6k)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[What’s really going on with wild McLaren claims at F1’s title showdown](https://www.youtube.com/watch?v=SLFTGOCqj6k)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_xWs6Qij112Y.png](../../assets/images/yt_thumbs/20251207174534_xWs6Qij112Y.png)](https://www.youtube.com/watch?v=xWs6Qij112Y&t=221s&pp=0gcJCSUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Daily Dose Of Internet](https://www.youtube.com/@DailyDoseOfInternet)</p><p class="yt-video-title">
-[The Dumbest Drivers Ever](https://www.youtube.com/watch?v=xWs6Qij112Y&t=221s&pp=0gcJCSUKAYcqIYzv)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251207174534_eAjyhFCEjT4.png](../../assets/images/yt_thumbs/20251207174534_eAjyhFCEjT4.png)](https://www.youtube.com/watch?v=eAjyhFCEjT4&pp=0gcJCSUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Conor Moore Racing](https://www.youtube.com/@conormooref1)</p><p class="yt-video-title">
-[F1 ABU DHABI grand prix preview | DTS](https://www.youtube.com/watch?v=eAjyhFCEjT4&pp=0gcJCSUKAYcqIYzv)
-</p></div>
-
-</div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![Home | ramen-ryoma](../../assets/images/food_thumbs/RamenRyoma-CE1F94FE-1148-4A26-A844-DD1B23CEBAF0.png)](https://www.ramenryoma.net) [Home | ramen-ryoma](https://www.ramenryoma.net)
 
 </div>

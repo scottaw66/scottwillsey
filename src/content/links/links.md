@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-05T21:01:19-08:00"
+date: "2025-12-08T15:56:53-08:00"
 slug: "links"
 ---
 
@@ -643,6 +643,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Video Game History Foundation Library | Video Game History Foundation Library](https://library.gamehistory.org/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes)
+- [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev)
 - [White Noise](https://whitenoise.tiff.ws/)
 - [WikiTok](https://wikitok.vercel.app/)
 - [Wreckage/Salvage](https://www.wrecka.ge)
