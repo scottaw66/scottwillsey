@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-12T11:07:42-08:00"
+date: "2025-12-12T11:30:33-08:00"
 slug: "links"
 ---
 
@@ -1059,7 +1059,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [Craft Docs](https://www.youtube.com/@craftdocs)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo](https://www.youtube.com/@cultrepo)
+- [CultRepo ](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [Cybernews](https://www.youtube.com/@cybernews)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1071,7 +1071,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Driver61](https://www.youtube.com/@Driver61)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [eXtreme](https://www.youtube.com/@TheExtreme-Edge)
@@ -1124,7 +1124,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
-- [Lingopie](https://www.youtube.com/@LingopieTV)
+- [Lingopie ](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
 - [MacStories](https://www.youtube.com/@MacStories09)
@@ -1165,7 +1165,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [PromptorGTFO](https://www.youtube.com/@PromptorGTFO)
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
 - [Rick Mulready](https://www.youtube.com/@RickMulready)
