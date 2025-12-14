@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-12T11:30:33-08:00"
+date: "2025-12-14T11:53:35-08:00"
 slug: "links"
 ---
 
@@ -550,6 +550,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Are you a bot?](https://www.invisiclues.org/)
+- [A Webring Kit | Max Böck](https://mxb.dev/blog/webring-kit/)
 - [A Webring List](https://brisray.com/web/webring-list.htm)
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
@@ -1078,6 +1079,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Fabio Bergmann](https://www.youtube.com/@fabio-bergmann)
 - [fern](https://www.youtube.com/@fern-tv)
 - [Finding Gina Marie – Travel the World](https://www.youtube.com/@FindingGinaMarie)
+- [for nomads.](https://www.youtube.com/@fornomads.global)
 - [FORMULA 1](https://www.youtube.com/@Formula1)
 - [Free Will Photos](https://www.youtube.com/@FreeWillPhotos)
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
@@ -1147,12 +1149,14 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [More Perfect Union](https://www.youtube.com/@moreperfectunion)
 - [Myck Bambalan](https://www.youtube.com/@myckbam)
 - [NekoAshi Japan](https://www.youtube.com/@NekoAshiJapan)
+- [Nippon Television News Japan](https://www.youtube.com/@NipponTVNews24Japan)
 - [Oliver J Hughes](https://www.youtube.com/@OliverJHughes)
 - [OpenAI](https://www.youtube.com/@OpenAI)
 - [Oregon Zoo](https://www.youtube.com/@oregonzoo)
 - [Osa The Cat](https://www.youtube.com/@OsaTheCat)
 - [pal2tech](https://www.youtube.com/@pal2tech)
 - [Paolo fromTOKYO](https://www.youtube.com/@PaolofromTOKYO)
+- [Paste](https://www.youtube.com/@pasteapp)
 - [Patrick Boyle](https://www.youtube.com/@PBoyle)
 - [Patrick Ellis](https://www.youtube.com/@PatrickOakleyEllis)
 - [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)
@@ -1223,9 +1227,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
 - [Unpacking Japan Shorts](https://www.youtube.com/@unpackingjapanshorts)
 - [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
+- [WAIT! WHERE ARE WE GOING, JAPAN?](https://www.youtube.com/@WaitWhereAreWeGoingJapan)
 - [WAKU WAKU JAPANESE](https://www.youtube.com/@wakuwakujapanese)
 - [Wanderloots](https://www.youtube.com/@Wanderloots)
 - [WIRED](https://www.youtube.com/@WIRED)
+- [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)
 - [Yifan - Beyond the Hype](https://www.youtube.com/@YifanBTH)
 - [Your Average Tech Bro](https://www.youtube.com/@YourAverageTechBro)
 - [Yuge Office Japan VISA TV](https://www.youtube.com/@JapanVisaTv)

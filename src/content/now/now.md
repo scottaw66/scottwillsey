@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-12T11:07:42-08:00"
+date: "2025-12-14T11:53:35-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I started setting up the Sophos XGS 88 but it didn't go super well. Simple Setup never finished correctly and I'm going to wind up manually configuring everything. On top of it, although it seemed to be doling out IP addresses to my devices, none of them could reach the internet. For the sake of other humans in my house, I called it a day and put everything back to normal until everyone's out of the house except me sometime.
+> HEY!! I got the Sophos XGS 88 Firewall installed as my gateway router, so now I can do what it's intended for and start playing with and learning more about current Sophos Firewall SFOS builds.
 
 ## Stuff I've recently enjoyed
 
@@ -16,16 +16,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![S1E7: The Gap](../../assets/images/oc_artwork/5856572190214760-af9c060a-4762-436b-a396-b71ae76781c3.png)](https://overcast.fm/+BTOhXj_ymg) [Pluribus: The Official Podcast – S1E7: The Gap](https://overcast.fm/+BTOhXj_ymg)
-[![S1E6: Jennifer Bryan](../../assets/images/oc_artwork/5856571757713860-e0f5799d-3b40-47b9-a76d-4d1e22508c8c.png)](https://overcast.fm/+BTOhV84WcQ) [Pluribus: The Official Podcast – S1E6: Jennifer Bryan](https://overcast.fm/+BTOhV84WcQ)
-[![I Got a Flu From This Keyboard](../../assets/images/oc_artwork/5130548918718805-d08e2e48-b7f9-4905-86ce-38d249b7f763.png)](https://overcast.fm/+BI6NQHNkVU) [Comfort Zone – I Got a Flu From This Keyboard](https://overcast.fm/+BI6NQHNkVU)
-![669: Ternus, Take the Wheel](../../assets/images/oc_artwork/5585875564467659-62dd9620-18d7-41eb-92ca-5aac8d439bfe.png) Accidental Tech Podcast – 669: Ternus, Take the Wheel
-[![7: Facing the Truth](../../assets/images/oc_artwork/4262159341699369-04c2f539-e246-4ecf-b479-16a1132d34c0.png)](https://overcast.fm/+8kaU2JwSk) [Faceless – 7: Facing the Truth](https://overcast.fm/+8kaU2JwSk)
-[![6: Young Blood](../../assets/images/oc_artwork/4262159509520904-2832abdf-84ba-4da6-83d5-2c86e4b54279.png)](https://overcast.fm/+8kaVeKggg) [Faceless – 6: Young Blood](https://overcast.fm/+8kaVeKggg)
-[![5: Grains of Truth](../../assets/images/oc_artwork/4262159143154048-d0f64075-92a3-43e9-aebf-e39851c2be5e.png)](https://overcast.fm/+8kaUG0MYA) [Faceless – 5: Grains of Truth](https://overcast.fm/+8kaUG0MYA)
-[![4: Four Wheels](../../assets/images/oc_artwork/4262159430711581-b76ba0fa-2dce-4032-b5a8-7e3072c74860.png)](https://overcast.fm/+8kaVLX-R0) [Faceless – 4: Four Wheels](https://overcast.fm/+8kaVLX-R0)
-[![3: Goldilocks](../../assets/images/oc_artwork/4262160078242123-0e38f88f-a44b-4552-8f64-25bf16db5e1c.png)](https://overcast.fm/+8kaXlwgUs) [Faceless – 3: Goldilocks](https://overcast.fm/+8kaXlwgUs)
-![The geek’s guide to running faster](../../assets/images/oc_artwork/5816343130349290-b52b1eb2-dd48-4075-abe0-1980ce5892ec.png) The Vergecast: Ad-Free Edition – The geek’s guide to running faster
+[![145: Glen Scotia Victoriana Single Malt Whisky](../../assets/images/oc_artwork/5287026655632209-e60678e5-5bfc-48a8-86cf-ff04fbb61cd3.png)](https://overcast.fm/+BLIhdG6G1E) [Whisky Whiskey – 145: Glen Scotia Victoriana Single Malt Whisky](https://overcast.fm/+BLIhdG6G1E)
+[![Best Videogames of 2025](../../assets/images/oc_artwork/5891753375767716-0dc2356e-90d8-46b2-a054-3d9b7171bee5.png)](https://overcast.fm/+BTuhLsRHKQ) [MacStories Unwind – Best Videogames of 2025](https://overcast.fm/+BTuhLsRHKQ)
+![Stack Overflow users don’t trust AI. They’re using it anyway](../../assets/images/oc_artwork/5816356322255680-5c8c4012-43dd-4aa1-aa6f-8dc10c3f4976.png) Decoder: Ad-Free Edition – Stack Overflow users don’t trust AI. They’re using it anyway
+[![Episode 243 - Cold Runs, Warm Beaches, and Better Wi-Fi](../../assets/images/oc_artwork/470841211640981-f9efb7bb-dcd0-42a3-9173-cd602da3737f.png)](https://overcast.fm/+GsOkMqXJU) [Blurring The Lines Podcast – Episode 243 - Cold Runs, Warm Beaches, and Better Wi-Fi](https://overcast.fm/+GsOkMqXJU)
+[![#19 スプーンとスープと日本人の関係](../../assets/images/oc_artwork/4950411121612633-9411e361-fad8-40f9-a0ff-78c4531d53d4.png)](https://overcast.fm/+BGWX2hlV1k) [ゆかのにほんごカフェ – #19 スプーンとスープと日本人の関係](https://overcast.fm/+BGWX2hlV1k)
+![Why Are We Obsessed With Aliens? (With Becky Ferreira)](../../assets/images/oc_artwork/5121672089515231-09f12e6e-c94c-42f6-b0df-af75cdeb8022.png) The 404 Media Podcast (Premium Feed) – Why Are We Obsessed With Aliens? (With Becky Ferreira)
+[![S1E7: The Gap](../../assets/images/oc_artwork/5856572190214760-5b1db0b6-156b-4f06-9846-9f63b6a7b562.png)](https://overcast.fm/+BTOhXj_ymg) [Pluribus: The Official Podcast – S1E7: The Gap](https://overcast.fm/+BTOhXj_ymg)
+[![S1E6: Jennifer Bryan](../../assets/images/oc_artwork/5856571757713860-9e66cfee-4898-45c5-906a-5a61022facac.png)](https://overcast.fm/+BTOhV84WcQ) [Pluribus: The Official Podcast – S1E6: Jennifer Bryan](https://overcast.fm/+BTOhV84WcQ)
+[![I Got a Flu From This Keyboard](../../assets/images/oc_artwork/5130548918718805-69d5c0c5-ac38-4b11-a473-84fa0aeb9856.png)](https://overcast.fm/+BI6NQHNkVU) [Comfort Zone – I Got a Flu From This Keyboard](https://overcast.fm/+BI6NQHNkVU)
+![669: Ternus, Take the Wheel](../../assets/images/oc_artwork/5585875564467659-222f8f14-a9cd-46fa-bced-9cb2bbc4b14b.png) Accidental Tech Podcast – 669: Ternus, Take the Wheel
 
 </div>
 
@@ -45,8 +45,8 @@ slug: "now"
 
 ### TV Shows
 
-[<span hidden>Pluribus • 2025 • In progress. I honestly didn't know what to think of this for about 1 and a half episodes, but wow, has it got me hooked now. Rhea Seehorn is always amazing and Karolina Wydra is perfect in her unsettling role as Zosia. • Loved It!</span>
-![Pluribus • 2025 • In progress. I honestly didn't know what to think of this for about 1 and a half episodes, but wow, has it got me hooked now. Rhea Seehorn is always amazing and Karolina Wydra is perfect in her unsettling role as Zosia. • Loved It!](../../assets/images/posts/png-image434192b3d00-review-d7b6f915-5eba-4de8-bb96-62f51502c240.png)](/images/posts/png-image434192b3d00-review-d7b6f915-5eba-4de8-bb96-62f51502c240.jpg)
+[<span hidden>Sean Combs: The Reckoning • 2025 • I kind of watched this like you'd watch any train wreck, but truly it is interesting. 50 Cent should be given props for deciding to go all in on showing what a terrible human being Combs is. • Liked It</span>
+![Sean Combs: The Reckoning • 2025 • I kind of watched this like you'd watch any train wreck, but truly it is interesting. 50 Cent should be given props for deciding to go all in on showing what a terrible human being Combs is. • Liked It](../../assets/images/posts/png-image44e3b47b3e0-review-25cc21a6-cab8-41ae-8928-efa829be2123.png)](/images/posts/png-image44e3b47b3e0-review-25cc21a6-cab8-41ae-8928-efa829be2123.jpg)
 
 </div>
 
@@ -56,72 +56,72 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_5DeqL844pH0.png](../../assets/images/yt_thumbs/20251212110416_5DeqL844pH0.png)](https://www.youtube.com/watch?v=5DeqL844pH0)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Anthropic gave MCP to the Linux Foundation](https://www.youtube.com/watch?v=5DeqL844pH0)
+[![../../assets/images/yt_thumbs/20251214111158_Uzca7fdhL7s.png](../../assets/images/yt_thumbs/20251214111158_Uzca7fdhL7s.png)](https://www.youtube.com/watch?v=Uzca7fdhL7s)<div><p class="yt-video-channel">Channel – General Motors and Cadillac</p><p class="yt-video-title">
+[Inside Cadillac Formula 1 Team’s First Race Simulation](https://www.youtube.com/watch?v=Uzca7fdhL7s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_CaFHHscC-co.png](../../assets/images/yt_thumbs/20251212110416_CaFHHscC-co.png)](https://www.youtube.com/watch?v=CaFHHscC-co)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[We got him.](https://www.youtube.com/watch?v=CaFHHscC-co)
+[![../../assets/images/yt_thumbs/20251214111158_BIXwG8aWPG0.png](../../assets/images/yt_thumbs/20251214111158_BIXwG8aWPG0.png)](https://www.youtube.com/watch?v=BIXwG8aWPG0&t=413s)<div><p class="yt-video-channel">Channel – [A Micro Apartment Life](https://www.youtube.com/@usui503)</p><p class="yt-video-title">
+[Micro Apartment Tour in Tokyo with a Spacious Balcony! 🏠🪴 (Ep. 95)](https://www.youtube.com/watch?v=BIXwG8aWPG0&t=413s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_FgRE5Bp8QP4.png](../../assets/images/yt_thumbs/20251212110416_FgRE5Bp8QP4.png)](https://www.youtube.com/watch?v=FgRE5Bp8QP4)<div><p class="yt-video-channel">Channel – [Epic Lines](https://www.youtube.com/@EpicLinesClips)</p><p class="yt-video-title">
-[Jim Carrey’s HILARIOUS Old Captain Kirk Parody](https://www.youtube.com/watch?v=FgRE5Bp8QP4)
+[![../../assets/images/yt_thumbs/20251214111158_FmXZaByjyCI.png](../../assets/images/yt_thumbs/20251214111158_FmXZaByjyCI.png)](https://www.youtube.com/watch?v=FmXZaByjyCI)<div><p class="yt-video-channel">Channel – [Yaron Been](https://www.youtube.com/@YaronBeen)</p><p class="yt-video-title">
+[CLAUDE CODE NEW UPDATE](https://www.youtube.com/watch?v=FmXZaByjyCI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_vhlDhnRtn1U.png](../../assets/images/yt_thumbs/20251212110416_vhlDhnRtn1U.png)](https://www.youtube.com/watch?v=vhlDhnRtn1U)<div><p class="yt-video-channel">Channel – [Racing Avenue](https://www.youtube.com/@racingavenuechannel)</p><p class="yt-video-title">
-[Ex-Ferrari Mechanic Says Hamilton Could Be Next Schumacher But Team Risks Vicious Circle](https://www.youtube.com/watch?v=vhlDhnRtn1U)
+[![../../assets/images/yt_thumbs/20251214111158_7OlfVFT5zV4.png](../../assets/images/yt_thumbs/20251214111158_7OlfVFT5zV4.png)](https://www.youtube.com/watch?v=7OlfVFT5zV4)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[I'm not liking 5.2 that much...](https://www.youtube.com/watch?v=7OlfVFT5zV4)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_10S_vbRQVE8.png](../../assets/images/yt_thumbs/20251212110416_10S_vbRQVE8.png)](https://www.youtube.com/watch?v=10S_vbRQVE8)<div><p class="yt-video-channel">Channel – [BM Tech Tutorials](https://www.youtube.com/@BMTechTutorials)</p><p class="yt-video-title">
-[How to Use Cloudflare DNS [2025 Guide]](https://www.youtube.com/watch?v=10S_vbRQVE8)
+[![../../assets/images/yt_thumbs/20251214111158_USDun-QF4tI.png](../../assets/images/yt_thumbs/20251214111158_USDun-QF4tI.png)](https://www.youtube.com/watch?v=USDun-QF4tI)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[NTSB Releases Delta 56 Turbulence Report – Captain Steeeve Reacts](https://www.youtube.com/watch?v=USDun-QF4tI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_FI5ba4RRE8U.png](../../assets/images/yt_thumbs/20251212110416_FI5ba4RRE8U.png)](https://www.youtube.com/watch?v=FI5ba4RRE8U)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Software Sucks Now](https://www.youtube.com/watch?v=FI5ba4RRE8U)
+[![../../assets/images/yt_thumbs/20251214111158_JqT2El5H1KA.png](../../assets/images/yt_thumbs/20251214111158_JqT2El5H1KA.png)](https://www.youtube.com/watch?v=JqT2El5H1KA&pp=0gcJCSkKAYcqIYzv)<div><p class="yt-video-channel">Channel – [DRIVE](https://www.youtube.com/@prodbydrive)</p><p class="yt-video-title">
+[Why There Will NEVER Be Another Kimi Raikkonen](https://www.youtube.com/watch?v=JqT2El5H1KA&pp=0gcJCSkKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_UiCEejcV5N4.png](../../assets/images/yt_thumbs/20251212110416_UiCEejcV5N4.png)](https://www.youtube.com/watch?v=UiCEejcV5N4&t=907s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[React got hacked. It's really, really bad.](https://www.youtube.com/watch?v=UiCEejcV5N4&t=907s)
+[![../../assets/images/yt_thumbs/20251214111158_w2rTwEdhDyk.png](../../assets/images/yt_thumbs/20251214111158_w2rTwEdhDyk.png)](https://www.youtube.com/watch?v=w2rTwEdhDyk)<div><p class="yt-video-channel">Channel – [for nomads.](https://www.youtube.com/@fornomads.global)</p><p class="yt-video-title">
+[Why He Left USA for Japan (Inside His $400 MONTH Apartment)](https://www.youtube.com/watch?v=w2rTwEdhDyk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_kAVziUsENbE.png](../../assets/images/yt_thumbs/20251212110416_kAVziUsENbE.png)](https://www.youtube.com/watch?v=kAVziUsENbE&t=50s)<div><p class="yt-video-channel">Channel – [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)</p><p class="yt-video-title">
-[A New Housing Boom In America](https://www.youtube.com/watch?v=kAVziUsENbE&t=50s)
+[![../../assets/images/yt_thumbs/20251214111158_hFMQ5LkkS98.png](../../assets/images/yt_thumbs/20251214111158_hFMQ5LkkS98.png)](https://www.youtube.com/watch?v=hFMQ5LkkS98&pp=0gcJCSkKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Claude Code's latest update is really cool (when it works...)](https://www.youtube.com/watch?v=hFMQ5LkkS98&pp=0gcJCSkKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251212110416_fhsrkvEY55s.png](../../assets/images/yt_thumbs/20251212110416_fhsrkvEY55s.png)](https://www.youtube.com/watch?v=fhsrkvEY55s&t=1348s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
-[The Infinite Money Glitch is Broken!](https://www.youtube.com/watch?v=fhsrkvEY55s&t=1348s)
+[![../../assets/images/yt_thumbs/20251214111158_umS8iR-AzRE.png](../../assets/images/yt_thumbs/20251214111158_umS8iR-AzRE.png)](https://www.youtube.com/watch?v=umS8iR-AzRE)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
+[What $820 Gets You in Japan | Apartment Tour Fukuoka](https://www.youtube.com/watch?v=umS8iR-AzRE)
 </p></div>
 
 </div>
