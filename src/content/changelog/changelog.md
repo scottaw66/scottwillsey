@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-12-16
+
+Another "technically not site code" addition is a script for pulling all my current YouTube subscriptions and updating the [YouTube section](/links/#youtube) of the [Links page](/links/). I love scripts that just rip stuff out of a page and dump in new stuff.
+
 ### 2025-11-25
 
 Created a link pruner to cautiously prune links from [Links page](/links/). It's not auto-running yet but I will put it in as an automatic step somewhere.
