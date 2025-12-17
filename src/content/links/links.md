@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-14T11:53:35-08:00"
+date: "2025-12-16T18:47:06-08:00"
 slug: "links"
 ---
 
@@ -706,13 +706,18 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Japan & Japanese Language
 
+- [Apartments for Rent - GaijinPot Apartments](https://apartments.gaijinpot.com/en/rent)
+- [Apartments For Sale in Japan - GaijinPot Apartments](https://apartments.gaijinpot.com/en/forsale)
 - [asuka🇯🇵](https://www.youtube.com/@asuka_japan_diary)
 - [BradyStudiesJapanese](https://www.youtube.com/@BradyStudiesJapanese)
 - [Bunpro](https://bunpro.jp/)
 - [DIY Japan](https://www.youtube.com/@DIYJapan)
 - [FUKUOKA CITY Official Tourist Guide](https://gofukuoka.jp/)
+- [Fukuoka Guide | Japan Cheapo](https://japancheapo.com/locations/fukuoka/)
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
 - [Harupaka Japanese](https://www.youtube.com/@harupakajapanese84)
+- [How to Move to Japan: Visas, Requirements and Everything You Need to Know in 2026 - GaijinPot](https://blog.gaijinpot.com/how-to-move-to-japan-visas-requirements-and-everything-you-need-to-know-in-2026/)
+- [Japan Cheapo | The ultimate guide to Japan travel](https://japancheapo.com/)
 - [Japan Eat](https://www.youtube.com/@japaneat)
 - [Japan Get](https://www.youtube.com/@JapanGet)
 - [Japan Property Post](https://www.youtube.com/@JapanPropertyPost)
@@ -730,6 +735,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [News On Japan](https://newsonjapan.com/)
 - [NihongoDekita with Sayaka - YouTube](https://www.youtube.com/@NihongoDekita)
 - [Nippon.com | Your Doorway to Japan](https://www.nippon.com/en/)
+- [Own a Home in Japan - In 90 Days or Less | AkiyaHub](https://akiyahub.com/)
 - [renshuu.org](https://www.renshuu.org/)
 - [Savvy Tokyo - The Essential Guide for International Women and Families in Tokyo](https://savvytokyo.com/)
 - [Sayuri Saying](https://sayurisaying.com/)
@@ -1017,7 +1023,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Tea
 
+- [Hojicha – Numi Tea](https://numitea.com/collections/organic-green-tea-bags/products/hojicha)
 - [Matcha Toasted Rice – Numi Tea](https://numitea.com/products/matcha-toasted-rice)
+
+## TV
+
+- [Lumon Industries](https://lumon.industries/)
+- [Welcome · Severance Wiki](https://www.severance.wiki/)
 
 ## YouTube
 
@@ -1060,7 +1072,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [Craft Docs](https://www.youtube.com/@craftdocs)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo ](https://www.youtube.com/@cultrepo)
+- [CultRepo](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [Cybernews](https://www.youtube.com/@cybernews)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1072,7 +1084,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Driver61](https://www.youtube.com/@Driver61)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [eXtreme](https://www.youtube.com/@TheExtreme-Edge)
@@ -1126,7 +1138,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
-- [Lingopie ](https://www.youtube.com/@LingopieTV)
+- [Lingopie](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
 - [MacStories](https://www.youtube.com/@MacStories09)
@@ -1169,7 +1181,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [PromptorGTFO](https://www.youtube.com/@PromptorGTFO)
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
 - [Rick Mulready](https://www.youtube.com/@RickMulready)
