@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-16T18:47:06-08:00"
+date: "2025-12-20T11:32:02-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> This is a point in my life where what I need to do requires me to ignore and or overcome all sense of imposter syndrome and just get it done. The exciting thing is, if I can do it, I can make a living situation goal come true for us. There is incentive and it is exciting!
+> AI is a tool and I don't understand how people become obsessed with their AI "friend". I don't even like it when I ask a question about a couple Python modules and it answers and then follows up with "What are you building?" Hey, if you need to know, I will tell you, ok?
 
 ## Stuff I've recently enjoyed
 
@@ -16,16 +16,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-![Is Wiping a Phone a Crime?](../../assets/images/oc_artwork/5121672170835076-1228492c-0dd3-44c0-875f-0c6858fecbe4.png) The 404 Media Podcast (Premium Feed) – Is Wiping a Phone a Crime?
-![ATP Movie Club: WarGames](../../assets/images/oc_artwork/5585873164430594-37647f78-7313-462f-8761-ec1ed1b9ebef.png) Accidental Tech Podcast: Specials – ATP Movie Club: WarGames
-![Everything is gambling now](../../assets/images/oc_artwork/5816343009838290-a6d66389-b194-4aae-8890-b6bd2063cd22.png) The Vergecast: Ad-Free Edition – Everything is gambling now
-[![146: 2025 Whisky Year in Review](../../assets/images/oc_artwork/5287027327479626-e9aa3ad0-3b10-4722-adba-a8577c67e6b8.png)](https://overcast.fm/+BLIhfnFr0o) [Whisky Whiskey – 146: 2025 Whisky Year in Review](https://overcast.fm/+BLIhfnFr0o)
-[![Creating Buyer Urgency: The Difference Between Important and Urgent](../../assets/images/oc_artwork/1682926788744818-d9202e89-e338-46fc-bb67-433f99f2bf15.png)](https://overcast.fm/+X6nO1tFnI) [Sales Logic - Selling Strategies That Work – Creating Buyer Urgency: The Difference Between Important and Urgent](https://overcast.fm/+X6nO1tFnI)
-[![Sponsored: Sublime can save a s**t tonne of time](../../assets/images/oc_artwork/4031461466378100-85b4d8ea-0d49-490c-9d4b-1e082de8ca44.png)](https://overcast.fm/+5Sl8ShD3Q) [Risky Bulletin – Sponsored: Sublime can save a s**t tonne of time](https://overcast.fm/+5Sl8ShD3Q)
-![Europe’s Subservience to the United States w/ Ben Wray](../../assets/images/oc_artwork/5585831859486413-c1d9fe63-59ee-4505-8004-79d57af846ed.png) Tech Won't Save Us (Premium) – Europe’s Subservience to the United States w/ Ben Wray
-[![Between Three Nerds: The evolution of Iranian cyber espionage](../../assets/images/oc_artwork/4031461883359957-fc8c0f44-679f-48cc-a2f6-e6c01886a506.png)](https://overcast.fm/+5Sl917stU) [Risky Bulletin – Between Three Nerds: The evolution of Iranian cyber espionage](https://overcast.fm/+5Sl917stU)
-![Sen. Ed Markey wants media companies to fight for the First Amendment](../../assets/images/oc_artwork/5816355578697738-3759d84b-99e1-4ea2-941f-5ed60f1e4293.png) Decoder: Ad-Free Edition – Sen. Ed Markey wants media companies to fight for the First Amendment
-![Debating our Top 10 drivers of F1 2025 (ad-free)](../../assets/images/oc_artwork/5523677520016716-1b0ed363-26e7-4f60-a8e3-0b9ecfc50693.png) The Race F1 Podcast (Members) – Debating our Top 10 drivers of F1 2025 (ad-free)
+[![S1E8: Charm Offensive](../../assets/images/oc_artwork/5856571976367957-d230b064-a070-4076-b2b8-954e48f8ebda.png)](https://overcast.fm/+BTOhWxAv1U) [Pluribus: The Official Podcast – S1E8: Charm Offensive](https://overcast.fm/+BTOhWxAv1U)
+[![Episode 244 - Small Decisions, Big Consequences](../../assets/images/oc_artwork/470841802029750-c7e85559-6071-4c69-8873-68a24de1c738.png)](https://overcast.fm/+GsOmZa-rY) [Blurring The Lines Podcast – Episode 244 - Small Decisions, Big Consequences](https://overcast.fm/+GsOmZa-rY)
+![Landing Big Scoops as an Indie Journalist (with Marisa Kabas)](../../assets/images/oc_artwork/5121671830845629-0acc7d85-bb3e-4d85-b8a0-89e3113b7358.png) The 404 Media Podcast (Premium Feed) – Landing Big Scoops as an Indie Journalist (with Marisa Kabas)
+[![The Best Music of 2025](../../assets/images/oc_artwork/5891753342218714-435c59ab-73ce-47fa-b130-45c6b4d19653.png)](https://overcast.fm/+BTuhLkRMdo) [MacStories Unwind – The Best Music of 2025](https://overcast.fm/+BTuhLkRMdo)
+![Scott and Glenn debate your F1 ‘overtake of the year’ picks - and make their choices…](../../assets/images/oc_artwork/5523677446650894-50d5eca4-ad3e-4da8-84f0-20802ea97fc7.png) The Race F1 Podcast (Members) – Scott and Glenn debate your F1 ‘overtake of the year’ picks - and make their choices…
+![670: Institutionally Inescapable](../../assets/images/oc_artwork/5585876584987714-06e09d55-f4ca-41b6-98f9-d1af8bdf1203.png) Accidental Tech Podcast – 670: Institutionally Inescapable
+![The company at the heart of the AI bubble](../../assets/images/oc_artwork/5816355708185101-6903efbf-cd26-409b-84a8-ec6e40043265.png) Decoder: Ad-Free Edition – The company at the heart of the AI bubble
+![“All chaos and panic”: Nilay answers your burning Decoder questions](../../assets/images/oc_artwork/5816355734386889-57549e8e-9a44-4c48-937b-9f3c1dc0f6da.png) Decoder: Ad-Free Edition – “All chaos and panic”: Nilay answers your burning Decoder questions
+[![My Pink Booties](../../assets/images/oc_artwork/5130549318199268-8bae7dba-f019-49b8-9314-5ddd9678d103.png)](https://overcast.fm/+BI6NRmdJ-Q) [Comfort Zone – My Pink Booties](https://overcast.fm/+BI6NRmdJ-Q)
+![Subscriber Comment Show: CPUs Do Die](../../assets/images/oc_artwork/5121671732011320-ac214262-3b89-4c9d-94bc-d8182174ec5e.png) The 404 Media Podcast (Premium Feed) – Subscriber Comment Show: CPUs Do Die
 
 </div>
 
@@ -61,72 +61,72 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_JOoqwj3zx5U.png](../../assets/images/yt_thumbs/20251216183054_JOoqwj3zx5U.png)](https://www.youtube.com/watch?v=JOoqwj3zx5U)<div><p class="yt-video-channel">Channel – [Paste](https://www.youtube.com/@pasteapp)</p><p class="yt-video-title">
-[Paste Power Search: Your Clipboard, Instantly Searchable](https://www.youtube.com/watch?v=JOoqwj3zx5U)
+[![../../assets/images/yt_thumbs/20251220112544_xeHP_oVyyfc.png](../../assets/images/yt_thumbs/20251220112544_xeHP_oVyyfc.png)](https://www.youtube.com/watch?v=xeHP_oVyyfc&t=264s)<div><p class="yt-video-channel">Channel – [Lisa and Josh](https://www.youtube.com/@LisaAndJosh)</p><p class="yt-video-title">
+[7 Day Bullet Train Adventure in Japan on a Budget](https://www.youtube.com/watch?v=xeHP_oVyyfc&t=264s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_nBxT9QFSBro.png](../../assets/images/yt_thumbs/20251216183054_nBxT9QFSBro.png)](https://www.youtube.com/watch?v=nBxT9QFSBro&t=1127s)<div><p class="yt-video-channel">Channel – [gala studio](https://www.youtube.com/@galastudio9)</p><p class="yt-video-title">
-[Home Office Complete Makeover! Mid-century modern aesthetic, ergonomic & functional simplicity](https://www.youtube.com/watch?v=nBxT9QFSBro&t=1127s)
+[![../../assets/images/yt_thumbs/20251220112544_oOvl_htqhy8.png](../../assets/images/yt_thumbs/20251220112544_oOvl_htqhy8.png)](https://www.youtube.com/watch?v=oOvl_htqhy8&t=10s)<div><p class="yt-video-channel">Channel – [Brian Jenney](https://www.youtube.com/@brianjenney)</p><p class="yt-video-title">
+[I Quit an AI Startup After 6 Months - Here's What I learned](https://www.youtube.com/watch?v=oOvl_htqhy8&t=10s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_zamKzMi63Ng.png](../../assets/images/yt_thumbs/20251216183054_zamKzMi63Ng.png)](https://www.youtube.com/watch?v=zamKzMi63Ng&t=168s)<div><p class="yt-video-channel">Channel – [9 Lives To Live](https://www.youtube.com/@9LivesToLive)</p><p class="yt-video-title">
-[DIY Cat Shelf: Walkway Much Better Than a Cat Tree](https://www.youtube.com/watch?v=zamKzMi63Ng&t=168s)
+[![../../assets/images/yt_thumbs/20251220112544_7QFhtVjVFBY.png](../../assets/images/yt_thumbs/20251220112544_7QFhtVjVFBY.png)](https://www.youtube.com/watch?v=7QFhtVjVFBY)<div><p class="yt-video-channel">Channel – [Jenny Tian](https://www.youtube.com/@nomnomjenny)</p><p class="yt-video-title">
+[Ultimate frisbee is the best! #crowdwork #ultimatefrisbee #ultimate #standupcomedy](https://www.youtube.com/watch?v=7QFhtVjVFBY)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_05yfDk_eYJA.png](../../assets/images/yt_thumbs/20251216183054_05yfDk_eYJA.png)](https://www.youtube.com/watch?v=05yfDk_eYJA)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[$1500 Japanese Apartment Tour | Fukuoka](https://www.youtube.com/watch?v=05yfDk_eYJA)
+[![../../assets/images/yt_thumbs/20251220112544_28V7vptdFGQ.png](../../assets/images/yt_thumbs/20251220112544_28V7vptdFGQ.png)](https://www.youtube.com/watch?v=28V7vptdFGQ&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Maximilian Schwarzmüller](https://www.youtube.com/@maximilian-schwarzmueller)</p><p class="yt-video-title">
+[Udemy is getting bought](https://www.youtube.com/watch?v=28V7vptdFGQ&pp=0gcJCU8KAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_X_mN8-XQTxk.png](../../assets/images/yt_thumbs/20251216183054_X_mN8-XQTxk.png)](https://www.youtube.com/watch?v=X_mN8-XQTxk&t=699s)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[$1925 Japanese Apartment Tour | Fukuoka](https://www.youtube.com/watch?v=X_mN8-XQTxk&t=699s)
+[![../../assets/images/yt_thumbs/20251220112544_hHAkR44Wc-I.png](../../assets/images/yt_thumbs/20251220112544_hHAkR44Wc-I.png)](https://www.youtube.com/watch?v=hHAkR44Wc-I)<div><p class="yt-video-channel">Channel – [Zach Sang Show](https://www.youtube.com/@zachsangshow)</p><p class="yt-video-title">
+[John Oates says Hall & Oates will never perform together again](https://www.youtube.com/watch?v=hHAkR44Wc-I)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_ETOQGrT048c.png](../../assets/images/yt_thumbs/20251216183054_ETOQGrT048c.png)](https://www.youtube.com/watch?v=ETOQGrT048c&pp=0gcJCTwKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[Apartment Comparison: $1750 vs $1840 | Fukuoka Japan](https://www.youtube.com/watch?v=ETOQGrT048c&pp=0gcJCTwKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20251220112544_D8GOeCFFby4.png](../../assets/images/yt_thumbs/20251220112544_D8GOeCFFby4.png)](https://www.youtube.com/watch?v=D8GOeCFFby4&t=1s&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Welch Labs](https://www.youtube.com/@WelchLabsVideo)</p><p class="yt-video-title">
+[The most complex model we actually understand](https://www.youtube.com/watch?v=D8GOeCFFby4&t=1s&pp=0gcJCU8KAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_INjE9_jn9Do.png](../../assets/images/yt_thumbs/20251216183054_INjE9_jn9Do.png)](https://www.youtube.com/watch?v=INjE9_jn9Do)<div><p class="yt-video-channel">Channel – [Rachel & Jun's Adventures!](https://www.youtube.com/@RachelandJunAdventures)</p><p class="yt-video-title">
-[I made the best litter box ever for my cats](https://www.youtube.com/watch?v=INjE9_jn9Do)
+[![../../assets/images/yt_thumbs/20251220112544_rddX4GEeyvE.png](../../assets/images/yt_thumbs/20251220112544_rddX4GEeyvE.png)](https://www.youtube.com/watch?v=rddX4GEeyvE)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Gemini Flash 3 is my new favorite model (yes really)](https://www.youtube.com/watch?v=rddX4GEeyvE)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_O-r4odnwJqM.png](../../assets/images/yt_thumbs/20251216183054_O-r4odnwJqM.png)](https://www.youtube.com/watch?v=O-r4odnwJqM)<div><p class="yt-video-channel">Channel – [ThioJoe](https://www.youtube.com/@ThioJoe)</p><p class="yt-video-title">
-[Scammers Have a New Trick to Steal Apple Accounts](https://www.youtube.com/watch?v=O-r4odnwJqM)
+[![../../assets/images/yt_thumbs/20251220112544_aU0-DPqLKRE.png](../../assets/images/yt_thumbs/20251220112544_aU0-DPqLKRE.png)](https://www.youtube.com/watch?v=aU0-DPqLKRE)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Two F1 manufacturers in 2026 engine loophole controversy](https://www.youtube.com/watch?v=aU0-DPqLKRE)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251216183054_D42N0e3Ih1I.png](../../assets/images/yt_thumbs/20251216183054_D42N0e3Ih1I.png)](https://www.youtube.com/watch?v=D42N0e3Ih1I)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[What $1040 Gets You in Japan | Apartment Tour Fukuoka](https://www.youtube.com/watch?v=D42N0e3Ih1I)
+[![../../assets/images/yt_thumbs/20251220112544_gFFfmtG75_Q.png](../../assets/images/yt_thumbs/20251220112544_gFFfmtG75_Q.png)](https://www.youtube.com/watch?v=gFFfmtG75_Q)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[These Fukuoka Homes Are Shockingly Cheap Compared to Tokyo](https://www.youtube.com/watch?v=gFFfmtG75_Q)
 </p></div>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-16T18:47:06-08:00"
+date: "2025-12-20T11:32:02-08:00"
 slug: "links"
 ---
 
@@ -100,6 +100,7 @@ slug: "links"
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
 - [I’m a US citizen and a veteran. ICE arrested me for no reason.](https://newsletter.ofthebrave.org/p/im-a-us-citizen-and-a-veteran-ice)
+- [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet - Ars Technica](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
 - [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Is Your Friend or Family Member Spiraling Into AI Psychosis? This Group May Be Able to Help](https://futurism.com/artificial-intelligence/group-breaking-people-out-of-ai-delusions)
@@ -642,6 +643,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Video Game History Foundation Library | Video Game History Foundation Library](https://library.gamehistory.org/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes)
+- [Webring History](https://brisray.com/web/webring-history.htm)
 - [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev)
 - [White Noise](https://whitenoise.tiff.ws/)
 - [WikiTok](https://wikitok.vercel.app/)
@@ -704,7 +706,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [/uses](https://uses.tech)
 - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
-## Japan & Japanese Language
+## Japan
 
 - [Apartments for Rent - GaijinPot Apartments](https://apartments.gaijinpot.com/en/rent)
 - [Apartments For Sale in Japan - GaijinPot Apartments](https://apartments.gaijinpot.com/en/forsale)
@@ -717,6 +719,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
 - [Harupaka Japanese](https://www.youtube.com/@harupakajapanese84)
 - [How to Move to Japan: Visas, Requirements and Everything You Need to Know in 2026 - GaijinPot](https://blog.gaijinpot.com/how-to-move-to-japan-visas-requirements-and-everything-you-need-to-know-in-2026/)
+- [How To Use the "Platt Kodama" Pass To Save on the Bullet Train | Tokyo Cheapo](https://tokyocheapo.com/travel/platt-kodama-discount-shinkansen/)
 - [Japan Cheapo | The ultimate guide to Japan travel](https://japancheapo.com/)
 - [Japan Eat](https://www.youtube.com/@japaneat)
 - [Japan Get](https://www.youtube.com/@JapanGet)
@@ -738,14 +741,17 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Own a Home in Japan - In 90 Days or Less | AkiyaHub](https://akiyahub.com/)
 - [renshuu.org](https://www.renshuu.org/)
 - [Savvy Tokyo - The Essential Guide for International Women and Families in Tokyo](https://savvytokyo.com/)
-- [Sayuri Saying](https://sayurisaying.com/)
 - [Sayuri Saying – YouTube](https://www.youtube.com/@SayuriSaying)
+- [Sayuri Saying](https://sayurisaying.com/)
+- [Shinkansen Luggage Rules in Japan: What To Know | Tokyo Cheapo](https://tokyocheapo.com/travel/transport/new-shinkansen-luggage-rules/)
+- [Should I Book My Japan Trip Through Klook? | Tokyo Cheapo](https://tokyocheapo.com/travel/holidays/should-i-book-my-japan-trip-through-klook/)
 - [Spoon & Tamago | japanese art, design and culture](https://www.spoon-tamago.com/)
 - [TAKASHii](https://www.youtube.com/@takashiifromjapan)
 - [Tetsu Sensei](https://www.youtube.com/@tetsujpjp)
 - [The Ultimate Guide To Finding a Creative Job in Japan | Tokyo Cheapo](https://tokyocheapo.com/editorial/finding-creative-jobs-japan/)
 - [Tokyo Cheapo | The Ultimate Guide To Tokyo](https://tokyocheapo.com/)
 - [WaniKani / Dashboard](https://www.wanikani.com/)
+- [Where to Buy Shinkansen Tickets: Online and Machines | Tokyo Cheapo](https://tokyocheapo.com/travel/where-to-buy-shinkansen-tickets-online-machines/)
 - [Yuka Ohishi](https://www.youtube.com/@YukaOhishi)
 - [Yuko Sensei - YouTube](https://www.youtube.com/@YukoSensei)
 
@@ -758,6 +764,18 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [So you've decided to get into mechanical keyboards - localghost](https://localghost.dev/blog/so-you-ve-decided-to-get-into-mechanical-keyboards/)
 - [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
 - [qmk/qmk_toolbox: A Toolbox companion for QMK Firmware](https://github.com/qmk/qmk_toolbox)
+
+## Korea
+
+- [10원 Tips](https://10wontips.blogspot.com/)
+- [Hankyoreh : English Edition](https://english.hani.co.kr/)
+- [K-POP, Music & Podcasts, 영어라디오 - RADIO | Arirang TV](https://www.arirang.com/radio?lang=en)
+- [Life In South Korea | Flip Korea](https://www.flipkorea.com/)
+- [NAVER](https://www.naver.com/)
+- [Papago](https://papago.naver.com/)
+- [Talk To Me In korean](https://brand.talktomeinkorean.com/)
+- [The Korea Herald](https://www.koreaherald.com/)
+- [하이코리아](https://www.hikorea.go.kr/Main.pt)
 
 ## Mac
 
@@ -1050,6 +1068,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Angel Poon](https://www.youtube.com/@angelpoon)
 - [Anthony Morganti](https://www.youtube.com/@AnthonyMorganti)
 - [Anthropic](https://www.youtube.com/@anthropic-ai)
+- [Asian Boss](https://www.youtube.com/@AsianBoss)
 - [Asianometry](https://www.youtube.com/@Asianometry)
 - [Astro](https://www.youtube.com/@astrodotbuild)
 - [asuka🇯🇵](https://www.youtube.com/@asuka_japan_diary)
@@ -1061,6 +1080,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Breaking Points](https://www.youtube.com/@breakingpoints)
 - [Bright Data](https://www.youtube.com/@BrightData)
 - [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
+- [cari cakes](https://www.youtube.com/@caricakes)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
@@ -1072,7 +1092,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [Craft Docs](https://www.youtube.com/@craftdocs)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo](https://www.youtube.com/@cultrepo)
+- [CultRepo ](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [Cybernews](https://www.youtube.com/@cybernews)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1084,7 +1104,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Driver61](https://www.youtube.com/@Driver61)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [eXtreme](https://www.youtube.com/@TheExtreme-Edge)
@@ -1115,9 +1135,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Japan Eat](https://www.youtube.com/@japaneat)
 - [Japan Get](https://www.youtube.com/@JapanGet)
 - [Japan Property Post](https://www.youtube.com/@JapanPropertyPost)
+- [Japan with Nao](https://www.youtube.com/@JapanwithNao)
 - [Japanese Food Craftsman](https://www.youtube.com/@Japanesefoodcraftsman)
 - [Japanese Food Noodles](https://www.youtube.com/@Japanese_Food_Noodles)
 - [Japanese who Yuta](https://www.youtube.com/@JapanesewhoYuta)
+- [Jenny Tian](https://www.youtube.com/@nomnomjenny)
 - [JeredBlu](https://www.youtube.com/@JeredBlu)
 - [JHMedium](https://www.youtube.com/@JHMedium)
 - [Joe Scott](https://www.youtube.com/@joescott)
@@ -1138,8 +1160,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
-- [Lingopie](https://www.youtube.com/@LingopieTV)
+- [Lingopie ](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
+- [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
 - [MacStories](https://www.youtube.com/@MacStories09)
 - [maigomika](https://www.youtube.com/@maigomika)
@@ -1178,10 +1201,12 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [PlantbasedBrandon](https://www.youtube.com/@plantbasedbrandon1)
 - [Pok Pok — Calm Learning Videos for Kids](https://www.youtube.com/@studiopokpok)
 - [Portugalist](https://www.youtube.com/@portugalistdotcom)
+- [ProfessorViral](https://www.youtube.com/@ProfessorViral)
 - [PromptorGTFO](https://www.youtube.com/@PromptorGTFO)
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [Ralph & Sam](https://www.youtube.com/@RalphSam)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
 - [Rick Mulready](https://www.youtube.com/@RickMulready)
@@ -1239,9 +1264,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
 - [Unpacking Japan Shorts](https://www.youtube.com/@unpackingjapanshorts)
 - [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
+- [Vickie Ip](https://www.youtube.com/@VickieIp)
 - [WAIT! WHERE ARE WE GOING, JAPAN?](https://www.youtube.com/@WaitWhereAreWeGoingJapan)
 - [WAKU WAKU JAPANESE](https://www.youtube.com/@wakuwakujapanese)
 - [Wanderloots](https://www.youtube.com/@Wanderloots)
+- [Welch Labs](https://www.youtube.com/@WelchLabsVideo)
 - [WIRED](https://www.youtube.com/@WIRED)
 - [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)
 - [Yifan - Beyond the Hype](https://www.youtube.com/@YifanBTH)
@@ -1253,6 +1280,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [あかね的日本語教室](https://www.youtube.com/@Akane-JapaneseClass)
 - [おにぎりんの日本語 Onigirin Japanese Language](https://www.youtube.com/@OnigirinJapaneseLanguage)
 - [ながらAI - usutaku&gomichan](https://www.youtube.com/@nagaraAI)
+- [성시경 SUNG SI KYUNG](https://www.youtube.com/@sungsikyung)
 
 ## It's All About Me
 
