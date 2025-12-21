@@ -456,12 +456,13 @@
   article h3#games + p,
   article h3#music + p,
   article div.review p {
-    @apply flex flex-row gap-4 flex-wrap mx-4 mt-4 mb-8;
+    @apply flex flex-row gap-4 flex-wrap justify-start mx-4 mt-4 mb-8;
   }
 
   div.now p a img,
   div.review p a img {
     @apply w-full max-w-[450px] m-0;
+    content-visibility: visible;
   }
 
   /* YouTube History section */
