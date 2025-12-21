@@ -1,13 +1,19 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-20T11:32:02-08:00"
+date: "2025-12-20T23:49:12-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
 > AI is a tool and I don't understand how people become obsessed with their AI "friend". I don't even like it when I ask a question about a couple Python modules and it answers and then follows up with "What are you building?" Hey, if you need to know, I will tell you, ok?
+
+## Current Projects
+
+- Learning Korean
+- Expanding our client base
+- Working on steps to making my family's life better by achieving some family life goals
 
 ## Stuff I've recently enjoyed
 
@@ -45,6 +51,8 @@ slug: "now"
 
 ### TV Shows
 
+[<span hidden>UNTAMED • First Time Watch • 2025 • I wish I could rate this higher. It started off great. The premise was good. The acting was pretty good. There were some slightly unbelievable plot points and twists, but overall I still recommend it. • Liked It</span>
+![UNTAMED • First Time Watch • 2025 • I wish I could rate this higher. It started off great. The premise was good. The acting was pretty good. There were some slightly unbelievable plot points and twists, but overall I still recommend it. • Liked It](../../assets/images/posts/png-image42abbc3f4f0-review-4677620a-9875-4737-8694-315fd092b752.png)](/images/posts/png-image42abbc3f4f0-review-4677620a-9875-4737-8694-315fd092b752.jpg)
 [<span hidden>Sean Combs: The Reckoning • 2025 • I kind of watched this like you'd watch any train wreck, but truly it is interesting. 50 Cent should be given props for deciding to go all in on showing what a terrible human being Combs is. • Liked It</span>
 ![Sean Combs: The Reckoning • 2025 • I kind of watched this like you'd watch any train wreck, but truly it is interesting. 50 Cent should be given props for deciding to go all in on showing what a terrible human being Combs is. • Liked It](../../assets/images/posts/png-image44e3b47b3e0-review-25cc21a6-cab8-41ae-8928-efa829be2123.png)](/images/posts/png-image44e3b47b3e0-review-25cc21a6-cab8-41ae-8928-efa829be2123.jpg)
 
@@ -61,23 +69,15 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_xeHP_oVyyfc.png](../../assets/images/yt_thumbs/20251220112544_xeHP_oVyyfc.png)](https://www.youtube.com/watch?v=xeHP_oVyyfc&t=264s)<div><p class="yt-video-channel">Channel – [Lisa and Josh](https://www.youtube.com/@LisaAndJosh)</p><p class="yt-video-title">
-[7 Day Bullet Train Adventure in Japan on a Budget](https://www.youtube.com/watch?v=xeHP_oVyyfc&t=264s)
+[![../../assets/images/yt_thumbs/20251220234353_xeHP_oVyyfc.png](../../assets/images/yt_thumbs/20251220234353_xeHP_oVyyfc.png)](https://www.youtube.com/watch?v=xeHP_oVyyfc&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Lisa and Josh](https://www.youtube.com/@LisaAndJosh)</p><p class="yt-video-title">
+[7 Day Bullet Train Adventure in Japan on a Budget](https://www.youtube.com/watch?v=xeHP_oVyyfc&pp=0gcJCU8KAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_oOvl_htqhy8.png](../../assets/images/yt_thumbs/20251220112544_oOvl_htqhy8.png)](https://www.youtube.com/watch?v=oOvl_htqhy8&t=10s)<div><p class="yt-video-channel">Channel – [Brian Jenney](https://www.youtube.com/@brianjenney)</p><p class="yt-video-title">
-[I Quit an AI Startup After 6 Months - Here's What I learned](https://www.youtube.com/watch?v=oOvl_htqhy8&t=10s)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251220112544_7QFhtVjVFBY.png](../../assets/images/yt_thumbs/20251220112544_7QFhtVjVFBY.png)](https://www.youtube.com/watch?v=7QFhtVjVFBY)<div><p class="yt-video-channel">Channel – [Jenny Tian](https://www.youtube.com/@nomnomjenny)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251220234353_7QFhtVjVFBY.png](../../assets/images/yt_thumbs/20251220234353_7QFhtVjVFBY.png)](https://www.youtube.com/watch?v=7QFhtVjVFBY)<div><p class="yt-video-channel">Channel – [Jenny Tian](https://www.youtube.com/@nomnomjenny)</p><p class="yt-video-title">
 [Ultimate frisbee is the best! #crowdwork #ultimatefrisbee #ultimate #standupcomedy](https://www.youtube.com/watch?v=7QFhtVjVFBY)
 </p></div>
 
@@ -85,7 +85,7 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_28V7vptdFGQ.png](../../assets/images/yt_thumbs/20251220112544_28V7vptdFGQ.png)](https://www.youtube.com/watch?v=28V7vptdFGQ&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Maximilian Schwarzmüller](https://www.youtube.com/@maximilian-schwarzmueller)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251220234353_28V7vptdFGQ.png](../../assets/images/yt_thumbs/20251220234353_28V7vptdFGQ.png)](https://www.youtube.com/watch?v=28V7vptdFGQ&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Maximilian Schwarzmüller](https://www.youtube.com/@maximilian-schwarzmueller)</p><p class="yt-video-title">
 [Udemy is getting bought](https://www.youtube.com/watch?v=28V7vptdFGQ&pp=0gcJCU8KAYcqIYzv)
 </p></div>
 
@@ -93,23 +93,15 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_hHAkR44Wc-I.png](../../assets/images/yt_thumbs/20251220112544_hHAkR44Wc-I.png)](https://www.youtube.com/watch?v=hHAkR44Wc-I)<div><p class="yt-video-channel">Channel – [Zach Sang Show](https://www.youtube.com/@zachsangshow)</p><p class="yt-video-title">
-[John Oates says Hall & Oates will never perform together again](https://www.youtube.com/watch?v=hHAkR44Wc-I)
+[![../../assets/images/yt_thumbs/20251220234353_D8GOeCFFby4.png](../../assets/images/yt_thumbs/20251220234353_D8GOeCFFby4.png)](https://www.youtube.com/watch?v=D8GOeCFFby4&t=1s)<div><p class="yt-video-channel">Channel – [Welch Labs](https://www.youtube.com/@WelchLabsVideo)</p><p class="yt-video-title">
+[The most complex model we actually understand](https://www.youtube.com/watch?v=D8GOeCFFby4&t=1s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_D8GOeCFFby4.png](../../assets/images/yt_thumbs/20251220112544_D8GOeCFFby4.png)](https://www.youtube.com/watch?v=D8GOeCFFby4&t=1s&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Welch Labs](https://www.youtube.com/@WelchLabsVideo)</p><p class="yt-video-title">
-[The most complex model we actually understand](https://www.youtube.com/watch?v=D8GOeCFFby4&t=1s&pp=0gcJCU8KAYcqIYzv)
-</p></div>
-
-</div>
-
-<div class="yt-video">
-
-[![../../assets/images/yt_thumbs/20251220112544_rddX4GEeyvE.png](../../assets/images/yt_thumbs/20251220112544_rddX4GEeyvE.png)](https://www.youtube.com/watch?v=rddX4GEeyvE)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251220234353_rddX4GEeyvE.png](../../assets/images/yt_thumbs/20251220234353_rddX4GEeyvE.png)](https://www.youtube.com/watch?v=rddX4GEeyvE)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
 [Gemini Flash 3 is my new favorite model (yes really)](https://www.youtube.com/watch?v=rddX4GEeyvE)
 </p></div>
 
@@ -117,7 +109,7 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_aU0-DPqLKRE.png](../../assets/images/yt_thumbs/20251220112544_aU0-DPqLKRE.png)](https://www.youtube.com/watch?v=aU0-DPqLKRE)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251220234353_aU0-DPqLKRE.png](../../assets/images/yt_thumbs/20251220234353_aU0-DPqLKRE.png)](https://www.youtube.com/watch?v=aU0-DPqLKRE)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
 [Two F1 manufacturers in 2026 engine loophole controversy](https://www.youtube.com/watch?v=aU0-DPqLKRE)
 </p></div>
 
@@ -125,8 +117,24 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251220112544_gFFfmtG75_Q.png](../../assets/images/yt_thumbs/20251220112544_gFFfmtG75_Q.png)](https://www.youtube.com/watch?v=gFFfmtG75_Q)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20251220234353_gFFfmtG75_Q.png](../../assets/images/yt_thumbs/20251220234353_gFFfmtG75_Q.png)](https://www.youtube.com/watch?v=gFFfmtG75_Q)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
 [These Fukuoka Homes Are Shockingly Cheap Compared to Tokyo](https://www.youtube.com/watch?v=gFFfmtG75_Q)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251220234353_l1Ro0RUzr6A.png](../../assets/images/yt_thumbs/20251220234353_l1Ro0RUzr6A.png)](https://www.youtube.com/watch?v=l1Ro0RUzr6A)<div><p class="yt-video-channel">Channel – [Flora and Note](https://www.youtube.com/@FloraandNote)</p><p class="yt-video-title">
+[Why You'll Fall In Love With BUSAN, KOREA 🇰🇷](https://www.youtube.com/watch?v=l1Ro0RUzr6A)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20251220234353_HxE6FkFuJBs.png](../../assets/images/yt_thumbs/20251220234353_HxE6FkFuJBs.png)](https://www.youtube.com/watch?v=HxE6FkFuJBs)<div><p class="yt-video-channel">Channel – [Lisa and Josh](https://www.youtube.com/@LisaAndJosh)</p><p class="yt-video-title">
+[3 Days in Busan on a Budget](https://www.youtube.com/watch?v=HxE6FkFuJBs)
 </p></div>
 
 </div>
