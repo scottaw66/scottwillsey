@@ -27,7 +27,7 @@ import GlobeAsiaIcon from "./icons/GlobeAsiaIcon.astro";
           >{spotlight.Title}</a
         >
       </h2>
-      <p>{spotlight.Description}</p>
+      <p set:html={spotlight.Description.replaceAll("\n", "<br />")} />
       <p>
         <a href={spotlight.Site}><GlobeAsiaIcon fill="var(--hyperlink)" /></a>
         <a href={spotlight.Site} class="text-[var(--hyperlink)]"

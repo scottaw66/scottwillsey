@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-20T11:32:02-08:00"
+date: "2025-12-24T15:20:32-08:00"
 slug: "links"
 ---
 
@@ -593,6 +593,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Making A Plan](https://millionexperiments.com/zines/making-a-plan)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
 - [Moon Phase Tracker | Rendered in ASCII Art](https://asciimoon.com/)
+- [mttaggart/ringspace: The Ringspace trusted webring description and specification - Codeberg.org](https://codeberg.org/mttaggart/ringspace)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
 - [News from Stonking](https://news.stonking.com/news)
 - [noclip](https://noclip.website/)
@@ -1092,9 +1093,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [Craft Docs](https://www.youtube.com/@craftdocs)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo ](https://www.youtube.com/@cultrepo)
+- [CultRepo](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [Cybernews](https://www.youtube.com/@cybernews)
+- [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
 - [Data Science Simplified](https://www.youtube.com/@datasciencesimplified)
 - [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
@@ -1104,7 +1106,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Driver61](https://www.youtube.com/@Driver61)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [eXtreme](https://www.youtube.com/@TheExtreme-Edge)
@@ -1160,7 +1162,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
-- [Lingopie ](https://www.youtube.com/@LingopieTV)
+- [Lingopie](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1206,7 +1208,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
 - [Rick Mulready](https://www.youtube.com/@RickMulready)
