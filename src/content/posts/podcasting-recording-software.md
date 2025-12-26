@@ -3,9 +3,6 @@ title: "My Podcasting Setup - Recording Software"
 description: Part 2 of a series on podcasting setups and workflows. This is the software I use for recording podcasts.
 date: "2023-08-04T09:00:00-08:00"
 keywords: ["mac", "apps", "podcast"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "podcasting-recording-software"
 ---
 

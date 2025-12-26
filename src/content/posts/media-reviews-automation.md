@@ -3,9 +3,6 @@ title: "Automation Workflow for Media Reviews"
 description: My automation workflow chain for getting quick reviews of media onto my website.
 date: "2025-03-22T05:00:00-08:00"
 keywords: ["automation", "blog", "reviews", "python", "retrobatch", "hazel", "mac"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "media-reviews-automation"
 ---
 

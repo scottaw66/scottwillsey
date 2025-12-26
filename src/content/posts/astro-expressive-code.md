@@ -3,9 +3,6 @@ title: "Expressive Code Blocks in Astro"
 description: "Create more compelling code blocks and syntax highlighting in Astro with Expressive Code and astro-expressive-code."
 date: "2023-08-09T00:09:00-08:00"
 keywords: ["blog", "astro", "design"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-expressive-code"
 ---
 

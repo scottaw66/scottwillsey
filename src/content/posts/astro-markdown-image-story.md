@@ -3,9 +3,6 @@ title: "Astro Markdown Image Story"
 description: "Astro's in a good place - native markdown image optimization is coming, and there is already an excellent third-party option for those who need it now."
 date: "2023-03-13T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-markdown-image-story"
 ---
 

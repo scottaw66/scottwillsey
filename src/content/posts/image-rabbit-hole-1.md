@@ -3,9 +3,6 @@ title: "Reponsive Image Rabbit Hole – Part 1"
 description: I learned about responsive images the hard way, by misunderstanding how they worked.
 date: "2022-09-28T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "image-rabbit-hole-1"
 ---
 

@@ -3,9 +3,6 @@ title: "Podcast Episode Image Script"
 description: The optimized image generation step in my podcast show notes image workflow.
 date: "2023-01-09T05:00:00-08:00"
 keywords: ["blog", "rss", "astro", "podcast", "images", "responsive"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "episode-image-script"
 ---
 

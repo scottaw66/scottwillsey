@@ -3,9 +3,6 @@ title: "SSH Connections in Visual Studio Code"
 description: Use alternate ssh configs to execute remote commands for ssh connections in Visual Studio Code.
 date: "2025-01-26T05:00:00-08:00"
 keywords: ["apps", "mac", "programming", "terminal"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "vscode-ssh"
 ---
 Recently I needed to work on some script files on a server and wanted to edit them in Visual Studio Code. Visual Studio Code supports remote connections, including ssh connections. Unfortunately, some of these files require root privileges, and I can’t and don’t want to be able to ssh into this server as root.

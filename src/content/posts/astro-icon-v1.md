@@ -3,9 +3,6 @@ title: "Astro Icon 1.x Upgrade"
 description: "Upgrading to Astro Icon 1.x from older versions."
 date: "2024-01-14T05:00:00-08:00"
 keywords: ["blog", "astro", "component"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-icon-v1"
 ---
 

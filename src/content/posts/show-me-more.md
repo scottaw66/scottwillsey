@@ -3,9 +3,6 @@ title: "Show Me More, but Let Me Read It"
 description: I'm genuinely baffled by Apple's approach to font size with respect to screen resolution.
 date: "2024-06-01T05:00:00-08:00"
 keywords: ["mac", "accessibility"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "show-me-more"
 ---
 Mac display settings are weird. I have a 5k Apple Studio Display. Until recently, I’ve been using the default resolution , which is 2560 x 1440. Then I started using the Studio Display for my work laptop as well, which is a Lenovo laptop, and I noticed by default it just uses the full resolution of 5120 x 2880.

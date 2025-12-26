@@ -3,9 +3,6 @@ title: "BBEdit for Log Analysis"
 description: BBEdit is not my choice of code editor or writing app, but for logfile analysis, it's the best.
 date: "2024-12-19T12:00:00-08:00"
 keywords: ["apps", "mac","data"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "bbedit-logfiles"
 ---
 Long-time Mac users will undoubtedly have heard of [BBEdit](https://www.barebones.com/products/bbedit/index.html). BBEdit is the favorite Mac text editor of many old Mac users[^1] for various types of writing, including programming, notes, articles, and basically any type of writing Mac nerds can do.

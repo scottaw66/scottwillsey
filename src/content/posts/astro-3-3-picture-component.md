@@ -3,9 +3,6 @@ title: "Astro 3.3 Picture Component"
 description: "Astro 3.3 dramatically improves the Astro image optimization story once again."
 date: "2023-11-12T05:00:00-08:00"
 keywords: ["blog", "images", "responsive", "astro", "component"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-3-3-picture-component"
 ---
 The [last time I wrote about image optimization and responsive images in Astro](https://scottwillsey.com/astro-3-responsive-images/), there were some compromises to be made in order to use [astro:assets image optimization](https://docs.astro.build/en/guides/images/#images-in-astro-files).

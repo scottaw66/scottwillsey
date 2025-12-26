@@ -3,9 +3,6 @@ title: Spotomation, Part 1 – Spotlighting
 description: "macOS 26 brings with it a more powerful Spotlight, and with it, a challenge – can it replace Raycast?"
 date: "2025-08-23T00:10:00-08:00"
 keywords: ["mac","raycast","spotlight"]
-cover: "../../assets/images/covers/SpotlightHeader.png"
-coverAlt: "Spotlight"
-series: "Spotlight"
 slug: "spotomation-part-1"
 ---
 ## Spotlight Is Not Dead, It Was Just Resting

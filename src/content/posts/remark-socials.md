@@ -3,9 +3,6 @@ title: "Remarking the Socials"
 description: How I learned to paste links into my blog and have them magically converted into amazing embeds.
 date: "2024-07-04T05:00:00-08:00"
 keywords: ["blog", "astro", "markdown","remark"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "remark-socials"
 ---
 ## Contents

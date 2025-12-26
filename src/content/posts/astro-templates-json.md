@@ -3,9 +3,6 @@ title: "Astro Templates for JSON Data"
 description: "Using a JSON data file and rendering it in Astro page templates."
 date: "2024-02-02T00:09:00-08:00"
 keywords: ["blog", "astro", "data", "programming"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-templates-json"
 ---
 Web frameworks like [Astro](https://astro.build) often allow the use of Markdown for blog post “content”, that is, the actual blog post, and then the page design and programming is in a page template which takes the Markdown and renders its contents in the appropriate place for a fully rendered HTML page. This is convenient and allows excellent separation of written words (“content”) and site rendering mechanisms.

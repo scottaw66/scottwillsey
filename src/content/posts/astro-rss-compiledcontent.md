@@ -3,9 +3,6 @@ title: "Astro RSS Compiled Content"
 description: Astro RSS now supports full content RSS feed items.
 date: "2022-12-13T05:00:00-08:00"
 keywords: ["blog", "rss", "astro"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-rss-compiledcontent"
 ---
 

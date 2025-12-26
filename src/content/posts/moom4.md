@@ -3,9 +3,6 @@ title: "Moom 4"
 description: Mac window management tools are a dime a dozen, but Moom 4 stands out for its versatility and for being fun to use.
 date: "2024-09-09T05:00:00-08:00"
 keywords: ["apps", "mac", "moom", "finder"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "moom4"
 ---
 You may have noticed, as you’ve wandered the site, that I’m a bit of a [Raycast](https://scottwillsey.com/series/raycast/) fan. You may, therefore, imagine that I use the [Raycast window management tools](https://manual.raycast.com/window-management) to move and arrange windows . And it’s true. Well, it was true. Then [Many Tricks](https://manytricks.com) released [Moom 4](https://manytricks.com/moom/), the update to their popular Moom window manager app.

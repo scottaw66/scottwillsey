@@ -3,9 +3,6 @@ title: Spotomation, Part 3 – Snippety Snippets
 description: Replacing Raycast inherently means finding a really good alternative snippet and text expander app. Here's mine.
 date: "2025-11-01T00:10:00-08:00"
 keywords: ["mac","raycast","spotlight"]
-cover: "../../assets/images/covers/SpotlightHeader.png"
-coverAlt: "Spotlight"
-series: "Spotlight"
 slug: "spotomation-part-3"
 ---
 ## Contents

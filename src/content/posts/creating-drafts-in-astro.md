@@ -3,9 +3,6 @@ title: Creating Drafts in Astro 5
 description: I did something I should have done a long time ago and added draft functionality to this website.
 date: "2025-03-25T00:10:00-08:00"
 keywords: ["astro", "blog"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "creating-drafts-in-astro"
 ---
 Last week or so, I started writing a blog post as I sometimes do, this one pertaining to my [Automation Workflow for Media Reviews](https://scottwillsey.com/media-reviews-automation/). Unfortunately, I wanted to preview it as I went along, so I copied it in progress to my git main branch of the local copy of the website.

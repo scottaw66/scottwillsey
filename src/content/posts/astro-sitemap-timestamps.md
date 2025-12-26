@@ -3,9 +3,6 @@ title: "Astro Sitemap Page Modified Timestamps"
 description: "I was asked a question on Threads about how to apply my Last Modified Dates using Git pre-commit to Astro's Sitemap integration."
 date: "2024-06-18T05:00:00-08:00"
 keywords: ["blog", "astro", "git"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-sitemap-timestamps"
 ---
 Threads generally makes me sad by being social media, so I don’t look at it often. Imagine my surprise today when I was wading through some hostile replies to my thoughts about an F1 related topic and I stumbled across a comment to me about my post on [Using Git Hooks for Displaying Last Modified Dates](http://localhost:4321/git-pre-commit/) and how to apply it to [Astro Sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/).

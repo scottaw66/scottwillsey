@@ -3,9 +3,6 @@ title: "Mac 40"
 description: I don’t know if you’ve heard, but the Mac turned 40. And what a glorious 40 it is.
 date: "2024-01-25T09:00:00-08:00"
 keywords: ["mac", "anniversary"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "mac-40"
 ---
 

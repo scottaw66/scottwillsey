@@ -3,9 +3,6 @@ title: "Astro-Pagefind"
 description: "Pagefind is a great find for static site search (thanks to Bryce Wray for that line) and Astro-Pagefind integrates it beautifully into Astro."
 date: "2023-06-12T09:00:00-08:00"
 keywords: ["search", "pagefind", "astro", "hugo", "eleventy"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro-pagefind"
 ---
 I thought I'd talked about [Pagefind](https://pagefind.app) and [Astro-Pagefind](https://github.com/shishkin/astro-pagefind) here before, but [my very own site search](https://scottwillsey.com/search/) which itself is built using Astro-Pagefind says otherwise.

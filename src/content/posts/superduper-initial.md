@@ -3,9 +3,6 @@ title: "Initial SuperDuper Copy"
 description: A tip for making your first SuperDuper! drive copy.
 date: "2024-10-28T05:00:00-08:00"
 keywords: ["apps", "mac", "superduper"]
-cover: "../../assets/images/covers/MacHeader.png"
-coverAlt: "Mac"
-series: "Mac"
 slug: "superduper-initial"
 ---
 Last night I [mentioned](https://scottwillsey.com/superduper-invisible/) setting up [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) to clone my Mac’s internal SSD to an external SSD daily. One thing about the initial copy you should know that doesn’t pertain to subsequent incremental copies is don’t let your Mac sleep during the initial copy.

@@ -3,9 +3,6 @@ title: "Astro 5 Upgrade"
 description: "Astro 5 is out with a number of changes from Astro 4. The good news is I was able to upgrade instantly with no modifications (but there are some to come later)."
 date: "2024-12-10T01:00:00-08:00"
 keywords: ["blog", "astro", "programming"]
-cover: "../../assets/images/covers/AstroHeader.png"
-coverAlt: "Astro"
-series: "Astro"
 slug: "astro5"
 ---
 [Astro 5](https://astro.build/blog/astro-5/) is out, and it has a number of changes from Astro 4. The good news is, I was able to upgrade this site to it without making any changes at all. That doesn’t mean I don’t have any to make – I need to [convert my Content Collections](https://docs.astro.build/en/guides/upgrade-to/v5/#updating-existing-collections) to the new [Content Layer API](https://astro.build/blog/content-layer-deep-dive/) at the very least, for example.
