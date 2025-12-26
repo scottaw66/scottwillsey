@@ -1,6 +1,6 @@
 ---
 title: 2026 and the Search for Meaning
-description: describe
+description: Figuring out what to write about in 2026
 date: "2025-12-26T00:10:00-08:00"
 keywords: ["keyword"]
 slug: "2026-and-the-search-for-meaning"
