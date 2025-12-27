@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-24T15:20:32-08:00"
+date: "2025-12-26T17:51:24-08:00"
 slug: "links"
 ---
 
@@ -84,6 +84,7 @@ slug: "links"
 - [Here’s some cool stuff you can do with Bluesky - The Verge](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to?ref=hiro.report)
 - [Here’s the paper no one read before declaring the demise of modern cryptography - Ars Technica](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/#gsc.tab=0)
 - [Honda’s on a Roll Reviving Retro Mini-Motorcycle Designs](https://www.thedrive.com/news/hondas-on-a-roll-reviving-retro-mini-motorcycle-designs)
+- [How AI coding agents work—and what to remember if you use them - Ars Technica](https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/)
 - [How an Atkinson Cycle Engine Works | HowStuffWorks](https://auto.howstuffworks.com/atkinson-cycle-engine.htm)
 - [How Does the Milky Way Compare to Other Galaxies? - Universe Today](https://www.universetoday.com/168742/how-does-the-milky-way-compare-to-other-galaxies/)
 - [How macOS opens a file in the correct app – The Eclectic Light Company](https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/)
@@ -111,6 +112,7 @@ slug: "links"
 - [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [My first months in cyberspace (Phil Gyford’s website)](https://www.gyford.com/phil/writing/2025/10/15/1995-internet/)
+- [Open Social — overreacted](https://overreacted.io/open-social/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [Overtourism in Japan, and How it Hurts Small Businesses — Ridgeline issue 210](https://craigmod.com/ridgeline/210/)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
@@ -163,6 +165,7 @@ slug: "links"
 - [Why Modern Engines Still Measure Power Output In Horsepower?](https://www.jalopnik.com/2029564/why-engines-still-use-horsepower/)
 - [Wi-Fi is one of the great backward compatibility success stories | The Verge](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
 - [You no longer need JavaScript Ʊ lyra's epic blog](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+- [You’re Thinking About AI and Water All Wrong | WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/)
 
 ## Astro
 

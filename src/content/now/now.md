@@ -1,18 +1,19 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-24T15:20:32-08:00"
+date: "2025-12-26T17:51:24-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Be kind to people during the holidays by not bludgeoning them over the head with the holidays. Being happy and cheerful during the holidays in 2025 is a priviledge, not a given.
+> I have a mountain ahead that I have no choice to climb, so I'm f**king climbing it. 😄
 
 ## Current Projects
 
 - Learning Korean
-- Expanding our client base
+- Expanding Paradigm's client base and launching its vulnerabilty management service
+- Building up my running distance again
 
 ## Stuff I've recently enjoyed
 
@@ -21,16 +22,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![148: The Macallan 18 Year Sherry Oak 2017 vs 2024](../../assets/images/oc_artwork/5287027312121512-02bfc731-759f-4453-b424-32517ee97c22.png)](https://overcast.fm/+BLIhfjbVqg) [Whisky Whiskey – 148: The Macallan 18 Year Sherry Oak 2017 vs 2024](https://overcast.fm/+BLIhfjbVqg)
-![The Year in Tech w/ Jathan Sadowski & Brian Merchant](../../assets/images/oc_artwork/5585832498351729-ae857ae7-56fe-4c06-95bb-d3a87804ace2.png) Tech Won't Save Us (Premium) – The Year in Tech w/ Jathan Sadowski & Brian Merchant
-[![Snack Judgment with Michael Ian Black & Tom Cavanagh](../../assets/images/oc_artwork/1698966037145373-60f874bd-39c6-42d1-8953-e5803a47bf84.png)](https://overcast.fm/+YJM1shJx0) [Judge John Hodgman – Snack Judgment with Michael Ian Black & Tom Cavanagh](https://overcast.fm/+YJM1shJx0)
-![671: Even Apple Can’t Beat the Sun](../../assets/images/oc_artwork/5585875555929384-83e3ffe5-9b5c-4a92-add9-1bc0760f825a.png) Accidental Tech Podcast – 671: Even Apple Can’t Beat the Sun
-![The Vergecast RAM Holiday Spec-Tacular](../../assets/images/oc_artwork/5816343175113424-2e94e075-9747-4f05-a2fd-2d3c281672e6.png) The Vergecast: Ad-Free Edition – The Vergecast RAM Holiday Spec-Tacular
-![We Tracked Ourselves with Exposed Flock Cameras](../../assets/images/oc_artwork/5121671718459071-c0782189-a368-4119-bbe6-29c40f886196.png) The 404 Media Podcast (Premium Feed) – We Tracked Ourselves with Exposed Flock Cameras
-[![S1E9: La Chica o El Mundo](../../assets/images/oc_artwork/5856572306898470-6d6608c3-7a35-4bda-bee6-939e80d416ce.png)](https://overcast.fm/+BTOhX_0PiY) [Pluribus: The Official Podcast – S1E9: La Chica o El Mundo](https://overcast.fm/+BTOhX_0PiY)
-![Book Club: Marcus Ericsson’s tales about his Brawn F1 test, Indy 500 win …and ghosting the king of Sweden](../../assets/images/oc_artwork/5523677210782516-f144a274-2e07-4534-ae93-8ebc392f6578.png) The Race F1 Podcast (Members) – Book Club: Marcus Ericsson’s tales about his Brawn F1 test, Indy 500 win …and ghosting the king of Sweden
-![Explaining the 2026 engine loophole controversy (ad-free)](../../assets/images/oc_artwork/5523677598798744-824d8617-3c0d-4ba8-849c-a6228dfafc42.png) The Race F1 Podcast (Members) – Explaining the 2026 engine loophole controversy (ad-free)
-![What’s next for Netflix and Paramount in the Warner Bros. battle](../../assets/images/oc_artwork/5816355397880730-740f96b6-582b-49a9-8647-62a466a7e461.png) Decoder: Ad-Free Edition – What’s next for Netflix and Paramount in the Warner Bros. battle
+[![Clash of the Titans - Caravan Of Garbage](../../assets/images/oc_artwork/3737328147539238-d56dd382-43aa-48d0-a08f-076ba3d1481b.png)](https://overcast.fm/+1HFISkpSY) [The Weekly Planet – Clash of the Titans - Caravan Of Garbage](https://overcast.fm/+1HFISkpSY)
+[![Risky Bulletin: Belarus deploys spyware on journalists’ phones](../../assets/images/oc_artwork/4031461405016688-3fa14e9a-c453-45ad-ae51-903b8886cfd4.png)](https://overcast.fm/+5Sl8D4wnA) [Risky Bulletin – Risky Bulletin: Belarus deploys spyware on journalists’ phones](https://overcast.fm/+5Sl8D4wnA)
+[![147: The Macallan 18 Year Sherry Oak 2024 Single Malt Whisky](../../assets/images/oc_artwork/5287026434918557-ce2284af-1694-41b6-97a4-fa8e3c6478bb.png)](https://overcast.fm/+BLIhcSSSJ0) [Whisky Whiskey – 147: The Macallan 18 Year Sherry Oak 2024 Single Malt Whisky](https://overcast.fm/+BLIhcSSSJ0)
+![TEASER: Members Only Mailbag December 2025](../../assets/images/oc_artwork/1698966313964825-d280fb2c-93da-4ded-9731-f398221b4536.png) Judge John Hodgman – TEASER: Members Only Mailbag December 2025
+[![606 Avatar: Fire & Ash](../../assets/images/oc_artwork/3737328357357325-36a288aa-a216-464b-af35-507bb3e78aba.png)](https://overcast.fm/+1HFJEmNw0) [The Weekly Planet – 606 Avatar: Fire & Ash](https://overcast.fm/+1HFJEmNw0)
+[![A Few Good Men](../../assets/images/oc_artwork/3716926733483648-5b4f8cb6-a20b-4bc7-836c-1dccdd80eb5a.png)](https://overcast.fm/+00hnGa_oA) [Unclear and Present Danger – A Few Good Men](https://overcast.fm/+00hnGa_oA)
+[![Wrath of the Titans - Caravan Of Garbage](../../assets/images/oc_artwork/3737328682053863-5b8ed2b4-9a5e-4d03-835b-f66f823f1d59.png)](https://overcast.fm/+1HFKSAsOc) [The Weekly Planet – Wrath of the Titans - Caravan Of Garbage](https://overcast.fm/+1HFKSAsOc)
+![The Shifting World of OSINT (with Craig Silverman)](../../assets/images/oc_artwork/5121671360845462-7e376c15-f3f3-41ef-b8cc-987d908d4831.png) The 404 Media Podcast (Premium Feed) – The Shifting World of OSINT (with Craig Silverman)
+[![Chapter 2: The Smoking Gun](../../assets/images/oc_artwork/5934349236296546-eb109758-a28f-4bfe-a120-b7fe58ef7fbe.png)](https://overcast.fm/+BUVQloz22I) [Killer In The Code – Chapter 2: The Smoking Gun](https://overcast.fm/+BUVQloz22I)
+[![Chapter 1: The Hidden Beneath The Hidden](../../assets/images/oc_artwork/5934348844591267-802b8ee7-9c71-4b3e-a6dd-b069beac97dd.png)](https://overcast.fm/+BUVQkLa6KM) [Killer In The Code – Chapter 1: The Hidden Beneath The Hidden](https://overcast.fm/+BUVQkLa6KM)
 
 </div>
 
@@ -52,10 +53,10 @@ slug: "now"
 
 ### TV Shows
 
+[<span hidden>Plur1bus 1 • First Time Watch • 2025 • l've seen complaints about the slow pacing, but the people saying this must have never watched anything from Vince Gilligan before. He is NOT afraid to build a story. Season 1 was weird and compelling. Recommend! • Loved It!</span>
+![Plur1bus 1 • First Time Watch • 2025 • l've seen complaints about the slow pacing, but the people saying this must have never watched anything from Vince Gilligan before. He is NOT afraid to build a story. Season 1 was weird and compelling. Recommend! • Loved It!](../../assets/images/posts/png-image4af1b3adda0-review-8a0fdb3c-07a2-4fde-8c58-981674a73262.png)](/images/posts/png-image4af1b3adda0-review-8a0fdb3c-07a2-4fde-8c58-981674a73262.jpg)
 [<span hidden>UNTAMED • First Time Watch • 2025 • I wish I could rate this higher. It started off great. The premise was good. The acting was pretty good. There were some slightly unbelievable plot points and twists, but overall I still recommend it. • Liked It</span>
 ![UNTAMED • First Time Watch • 2025 • I wish I could rate this higher. It started off great. The premise was good. The acting was pretty good. There were some slightly unbelievable plot points and twists, but overall I still recommend it. • Liked It](../../assets/images/posts/png-image42abbc3f4f0-review-4677620a-9875-4737-8694-315fd092b752.png)](/images/posts/png-image42abbc3f4f0-review-4677620a-9875-4737-8694-315fd092b752.jpg)
-[<span hidden>Sean Combs: The Reckoning • 2025 • I kind of watched this like you'd watch any train wreck, but truly it is interesting. 50 Cent should be given props for deciding to go all in on showing what a terrible human being Combs is. • Liked It</span>
-![Sean Combs: The Reckoning • 2025 • I kind of watched this like you'd watch any train wreck, but truly it is interesting. 50 Cent should be given props for deciding to go all in on showing what a terrible human being Combs is. • Liked It](../../assets/images/posts/png-image44e3b47b3e0-review-25cc21a6-cab8-41ae-8928-efa829be2123.png)](/images/posts/png-image44e3b47b3e0-review-25cc21a6-cab8-41ae-8928-efa829be2123.jpg)
 
 ### Music
 
@@ -70,74 +71,82 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_w6WmWJx4M7I.png](../../assets/images/yt_thumbs/20251224150813_w6WmWJx4M7I.png)](https://www.youtube.com/watch?v=w6WmWJx4M7I)<div><p class="yt-video-channel">Channel – [lisha](https://www.youtube.com/@lisha_aaa)</p><p class="yt-video-title">
-[He'd be a swimwear model! 🩳🤣 " We asked the @f1 red carpet "If they weren't an F1 Driver...](https://www.youtube.com/watch?v=w6WmWJx4M7I)
+[![../../assets/images/yt_thumbs/20251226173606_7XG_n9WYeuU.png](../../assets/images/yt_thumbs/20251226173606_7XG_n9WYeuU.png)](https://www.youtube.com/watch?v=7XG_n9WYeuU)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[Swiss A330 Declares PAN-PAN After Lightning Strike | Captain Steeeve Explains](https://www.youtube.com/watch?v=7XG_n9WYeuU)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_znteK0wopqU.png](../../assets/images/yt_thumbs/20251224150813_znteK0wopqU.png)](https://www.youtube.com/watch?v=znteK0wopqU)<div><p class="yt-video-channel">Channel – [The Dodo](https://www.youtube.com/@TheDodo)</p><p class="yt-video-title">
-[Black Cat Decides Not To Be A Stray One Day.. | The Dodo](https://www.youtube.com/watch?v=znteK0wopqU)
+[![../../assets/images/yt_thumbs/20251226173606_Jh9pFp1oM7E.png](../../assets/images/yt_thumbs/20251226173606_Jh9pFp1oM7E.png)](https://www.youtube.com/watch?v=Jh9pFp1oM7E&t=12s)<div><p class="yt-video-channel">Channel – Marques Brownlee and Epic Spaceman</p><p class="yt-video-title">
+[I shrunk down into an M5 chip](https://www.youtube.com/watch?v=Jh9pFp1oM7E&t=12s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_vU1-uiUlHTo.png](../../assets/images/yt_thumbs/20251224150813_vU1-uiUlHTo.png)](https://www.youtube.com/watch?v=vU1-uiUlHTo&t=41s)<div><p class="yt-video-channel">Channel – Benn Jordan and 404 Media</p><p class="yt-video-title">
-[This Flock Camera Leak is like Netflix For Stalkers](https://www.youtube.com/watch?v=vU1-uiUlHTo&t=41s)
+[![../../assets/images/yt_thumbs/20251226173606_H_c6MWk7PQc.png](../../assets/images/yt_thumbs/20251226173606_H_c6MWk7PQc.png)](https://www.youtube.com/watch?v=H_c6MWk7PQc&t=20s)<div><p class="yt-video-channel">Channel – [Hank Green](https://www.youtube.com/@hankschannel)</p><p class="yt-video-title">
+[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc&t=20s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_HNy8BtG9OKs.png](../../assets/images/yt_thumbs/20251224150813_HNy8BtG9OKs.png)](https://www.youtube.com/watch?v=HNy8BtG9OKs)<div><p class="yt-video-channel">Channel – [Snazzy Labs](https://www.youtube.com/@snazzy)</p><p class="yt-video-title">
-[Why Apple’s Great Year Doesn’t Feel Great](https://www.youtube.com/watch?v=HNy8BtG9OKs)
+[![../../assets/images/yt_thumbs/20251226173606_lffYEu5MhSQ.png](../../assets/images/yt_thumbs/20251226173606_lffYEu5MhSQ.png)](https://www.youtube.com/watch?v=lffYEu5MhSQ)<div><p class="yt-video-channel">Channel – [Zen van Riel](https://www.youtube.com/@zenvanriel)</p><p class="yt-video-title">
+[Claude Code Just Got The Ultimate Dev Shortcut (LSP Explained)](https://www.youtube.com/watch?v=lffYEu5MhSQ)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_JdWETI-UkEY.png](../../assets/images/yt_thumbs/20251224150813_JdWETI-UkEY.png)](https://www.youtube.com/watch?v=JdWETI-UkEY&t=713s)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
-[Republicans WALK OUT as Trump cards crumble](https://www.youtube.com/watch?v=JdWETI-UkEY&t=713s)
+[![../../assets/images/yt_thumbs/20251226173606_NrI1gt6YfE8.png](../../assets/images/yt_thumbs/20251226173606_NrI1gt6YfE8.png)](https://www.youtube.com/watch?v=NrI1gt6YfE8&t=285s)<div><p class="yt-video-channel">Channel – [Snippety App](https://www.youtube.com/@AppSnippety)</p><p class="yt-video-title">
+[Snippety - productivity application for macOS, iOS, and iPadOS - Introduction](https://www.youtube.com/watch?v=NrI1gt6YfE8&t=285s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_8BctMbuG1U4.png](../../assets/images/yt_thumbs/20251224150813_8BctMbuG1U4.png)](https://www.youtube.com/watch?v=8BctMbuG1U4)<div><p class="yt-video-channel">Channel – [Lisa and Josh](https://www.youtube.com/@LisaAndJosh)</p><p class="yt-video-title">
-[Quit Your Job, Travel The World, Start A YouTube Channel](https://www.youtube.com/watch?v=8BctMbuG1U4)
+[![../../assets/images/yt_thumbs/20251226173606_7Gmrdz4eTLc.png](../../assets/images/yt_thumbs/20251226173606_7Gmrdz4eTLc.png)](https://www.youtube.com/watch?v=7Gmrdz4eTLc)<div><p class="yt-video-channel">Channel – [JakeSimRacing](https://www.youtube.com/@JakeSimRacing)</p><p class="yt-video-title">
+[The Forgotten Le Mans Tragedy: The Demise of Sébastien Enjolras (1997)](https://www.youtube.com/watch?v=7Gmrdz4eTLc)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_WY3YX6UDlfw.png](../../assets/images/yt_thumbs/20251224150813_WY3YX6UDlfw.png)](https://www.youtube.com/watch?v=WY3YX6UDlfw)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Greg Biffle Crash Update | What We Know So Far](https://www.youtube.com/watch?v=WY3YX6UDlfw)
+[![../../assets/images/yt_thumbs/20251226173606_AzOJ9QLgfIk.png](../../assets/images/yt_thumbs/20251226173606_AzOJ9QLgfIk.png)](https://www.youtube.com/watch?v=AzOJ9QLgfIk)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You](https://www.youtube.com/watch?v=AzOJ9QLgfIk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_LQnxMfFjma0.png](../../assets/images/yt_thumbs/20251224150813_LQnxMfFjma0.png)](https://www.youtube.com/watch?v=LQnxMfFjma0)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
-[What do Japanese people think about Immigrants?｜Life in Japan](https://www.youtube.com/watch?v=LQnxMfFjma0)
+[![../../assets/images/yt_thumbs/20251226173606_6b03ZXJvSGw.png](../../assets/images/yt_thumbs/20251226173606_6b03ZXJvSGw.png)](https://www.youtube.com/watch?v=6b03ZXJvSGw)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
+[Elon Musk Tesla CRASHING worse than I thought](https://www.youtube.com/watch?v=6b03ZXJvSGw)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251224150813_e1E-yfcKdUw.png](../../assets/images/yt_thumbs/20251224150813_e1E-yfcKdUw.png)](https://www.youtube.com/watch?v=e1E-yfcKdUw)<div><p class="yt-video-channel">Channel – [Snazzy Labs](https://www.youtube.com/@snazzy)</p><p class="yt-video-title">
-[Apple Is Falling Apart (On Purpose)](https://www.youtube.com/watch?v=e1E-yfcKdUw)
+[![../../assets/images/yt_thumbs/20251226173606_VR3JID6VVtM.png](../../assets/images/yt_thumbs/20251226173606_VR3JID6VVtM.png)](https://www.youtube.com/watch?v=VR3JID6VVtM)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Best Team Radio Moments Of 2025 | Paramount+](https://www.youtube.com/watch?v=VR3JID6VVtM)
 </p></div>
 
 </div>
+
+</div>
+
+### Food
+
+<div class="food">
+
+[![ROYCE' CHOCOLATE](../../assets/images/food_thumbs/RoyceChocolate-B6C20520-45FB-4D68-8E75-DFE02BA78331.png)](https://roycechocolate.com) [ROYCE' CHOCOLATE](https://roycechocolate.com)
 
 </div>
