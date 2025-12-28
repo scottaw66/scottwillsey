@@ -7,7 +7,7 @@ const changelog = await getEntry("changelog", "changelog");
 // Parse the content to extract the last 5 entries
 const content = changelog?.body || "";
 const entries = content.split(/^### /m).filter((entry) => entry.trim());
-const lastFive = entries.slice(0, 5);
+const lastFive = entries.slice(0, 3);
 ---
 
 <div>
@@ -24,11 +24,14 @@ const lastFive = entries.slice(0, 5);
           const [date, ...description] = entry.split("\n");
           let desc = description.join(" ").trim().split("\n")[0];
           // Remove markdown links that wrap images: [![alt](image)](url)
-          desc = desc.replace(/\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)/g, '');
+          desc = desc.replace(/\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)/g, "");
           // Remove standalone markdown image links: ![alt](image)
-          desc = desc.replace(/!\[[^\]]*\]\([^)]+\)/g, '');
+          desc = desc.replace(/!\[[^\]]*\]\([^)]+\)/g, "");
           // Remove any markdown links that point to image files
-          desc = desc.replace(/\[([^\]]+)\]\(([^)]*\.(jpg|jpeg|png|gif|webp|svg)[^)]*)\)/gi, '');
+          desc = desc.replace(
+            /\[([^\]]+)\]\(([^)]*\.(jpg|jpeg|png|gif|webp|svg)[^)]*)\)/gi,
+            "",
+          );
           // Convert remaining markdown links [text](url) to HTML links
           desc = desc.replace(
             /\[([^\]]+)\]\(([^)]+)\)/g,
