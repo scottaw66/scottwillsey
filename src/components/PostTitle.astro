@@ -5,15 +5,15 @@ import PostLinkIcon from "./icons/PostLinkIcon.astro";
 const { post } = Astro.props;
 ---
 
-<a href={post.data.link ? post.data.link : `/${post.id}`}>
-  {
-    post.data.link ? (
-      <span data-pagefind-ignore>
-        <PostLinkIcon size="1.2em" />
+{
+  post.data.link ? (
+    <span class="inline-flex items-center">
+      <span data-pagefind-ignore class="mr-[0.3em] ml-[-0.1em]">
+        <PostLinkIcon size="1.3em" />
       </span>
-    ) : (
-      ""
-    )
-  }
-  {titleCase(post.data.title)}
-</a>
+      <a href={post.data.link}>{titleCase(post.data.title)}</a>
+    </span>
+  ) : (
+    <a href={`/${post.id}`}>{titleCase(post.data.title)}</a>
+  )
+}

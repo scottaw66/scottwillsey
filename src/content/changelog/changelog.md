@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2025-12-28
+
+Added auto-creation of link posts to my new blog post scripts, fixes link post indicator icons.
+
 ### 2025-12-26
 
 Fixed footnotes (oops - broken since the big site update in November). Removed the concept of a "series" from the site. There are no organized series anymore.
