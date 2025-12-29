@@ -6,7 +6,7 @@ slug: "changelog"
 ---
 ### 2025-12-28
 
-Added auto-creation of link posts to my new blog post scripts, fixes link post indicator icons.
+Added auto-creation of link posts to my new blog post scripts, grabbing hashtags from the bottom of the post to use in the frontmatter keywords field (called tags on the website), and fixed link post indicator icons.
 
 ### 2025-12-26
 

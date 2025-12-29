@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-26T17:51:24-08:00"
+date: "2025-12-28T19:00:41-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I have a mountain ahead that I have no choice to climb, so I'm f**king climbing it. 😄
+> I've completely automated every aspect of creating a blog post in Astro just by writing a post in Obsidian and running a script. It handles images, link posts, keywords (tags), and more. It's so great.
 
 ## Current Projects
 
@@ -22,16 +22,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Clash of the Titans - Caravan Of Garbage](../../assets/images/oc_artwork/3737328147539238-d56dd382-43aa-48d0-a08f-076ba3d1481b.png)](https://overcast.fm/+1HFISkpSY) [The Weekly Planet – Clash of the Titans - Caravan Of Garbage](https://overcast.fm/+1HFISkpSY)
-[![Risky Bulletin: Belarus deploys spyware on journalists’ phones](../../assets/images/oc_artwork/4031461405016688-3fa14e9a-c453-45ad-ae51-903b8886cfd4.png)](https://overcast.fm/+5Sl8D4wnA) [Risky Bulletin – Risky Bulletin: Belarus deploys spyware on journalists’ phones](https://overcast.fm/+5Sl8D4wnA)
-[![147: The Macallan 18 Year Sherry Oak 2024 Single Malt Whisky](../../assets/images/oc_artwork/5287026434918557-ce2284af-1694-41b6-97a4-fa8e3c6478bb.png)](https://overcast.fm/+BLIhcSSSJ0) [Whisky Whiskey – 147: The Macallan 18 Year Sherry Oak 2024 Single Malt Whisky](https://overcast.fm/+BLIhcSSSJ0)
-![TEASER: Members Only Mailbag December 2025](../../assets/images/oc_artwork/1698966313964825-d280fb2c-93da-4ded-9731-f398221b4536.png) Judge John Hodgman – TEASER: Members Only Mailbag December 2025
-[![606 Avatar: Fire & Ash](../../assets/images/oc_artwork/3737328357357325-36a288aa-a216-464b-af35-507bb3e78aba.png)](https://overcast.fm/+1HFJEmNw0) [The Weekly Planet – 606 Avatar: Fire & Ash](https://overcast.fm/+1HFJEmNw0)
-[![A Few Good Men](../../assets/images/oc_artwork/3716926733483648-5b4f8cb6-a20b-4bc7-836c-1dccdd80eb5a.png)](https://overcast.fm/+00hnGa_oA) [Unclear and Present Danger – A Few Good Men](https://overcast.fm/+00hnGa_oA)
-[![Wrath of the Titans - Caravan Of Garbage](../../assets/images/oc_artwork/3737328682053863-5b8ed2b4-9a5e-4d03-835b-f66f823f1d59.png)](https://overcast.fm/+1HFKSAsOc) [The Weekly Planet – Wrath of the Titans - Caravan Of Garbage](https://overcast.fm/+1HFKSAsOc)
-![The Shifting World of OSINT (with Craig Silverman)](../../assets/images/oc_artwork/5121671360845462-7e376c15-f3f3-41ef-b8cc-987d908d4831.png) The 404 Media Podcast (Premium Feed) – The Shifting World of OSINT (with Craig Silverman)
-[![Chapter 2: The Smoking Gun](../../assets/images/oc_artwork/5934349236296546-eb109758-a28f-4bfe-a120-b7fe58ef7fbe.png)](https://overcast.fm/+BUVQloz22I) [Killer In The Code – Chapter 2: The Smoking Gun](https://overcast.fm/+BUVQloz22I)
-[![Chapter 1: The Hidden Beneath The Hidden](../../assets/images/oc_artwork/5934348844591267-802b8ee7-9c71-4b3e-a6dd-b069beac97dd.png)](https://overcast.fm/+BUVQkLa6KM) [Killer In The Code – Chapter 1: The Hidden Beneath The Hidden](https://overcast.fm/+BUVQkLa6KM)
+[![126: Wilson’s 21 Year Old Blended Whisky](../../assets/images/oc_artwork/5287026380071339-7b92c8bf-e2d8-475d-bf0b-5288bbe19777.png)](https://overcast.fm/+BLIhcFNYas) [Whisky Whiskey – 126: Wilson’s 21 Year Old Blended Whisky](https://overcast.fm/+BLIhcFNYas)
+[![131: Tamdhu Batch Strength 007 Single Malt Whisky](../../assets/images/oc_artwork/5287026807439353-1ac1e27e-c9b1-4994-b6cd-953fdc01da71.png)](https://overcast.fm/+BLIhdrGf_k) [Whisky Whiskey – 131: Tamdhu Batch Strength 007 Single Malt Whisky](https://overcast.fm/+BLIhdrGf_k)
+[![150: Amber Lane Silk Lane Single Malt Whisky](../../assets/images/oc_artwork/5287026768271486-d443b5f9-9321-42a1-af77-5c8c3d852dd1.png)](https://overcast.fm/+BLIhdhw2H4) [Whisky Whiskey – 150: Amber Lane Silk Lane Single Malt Whisky](https://overcast.fm/+BLIhdhw2H4)
+![Version History: iPhone 4](../../assets/images/oc_artwork/5816343396393298-edcbdc5f-6d6f-444d-9062-ed7ce6863886.png) The Vergecast: Ad-Free Edition – Version History: iPhone 4
+[![Sponsored: Why you’re probably doing Zero Trust wrong](../../assets/images/oc_artwork/4031462314769011-2effbf90-44e2-4a2a-bc27-48b21e6ba410.png)](https://overcast.fm/+5Sl_cyenM) [Risky Bulletin – Sponsored: Why you’re probably doing Zero Trust wrong](https://overcast.fm/+5Sl_cyenM)
+[![Sponsored: Prowler uses AI how AI works best](../../assets/images/oc_artwork/4031461486277664-734c735e-4920-44fd-93fd-656b0ba2a1f4.png)](https://overcast.fm/+5Sl8XQtCA) [Risky Bulletin – Sponsored: Prowler uses AI how AI works best](https://overcast.fm/+5Sl8XQtCA)
+[![600 Predator: Badlands & Pluribus](../../assets/images/oc_artwork/3737328804400914-251b348a-4522-4e76-a6ff-e9f79989819f.png)](https://overcast.fm/+1HFKvLjxI) [The Weekly Planet – 600 Predator: Badlands & Pluribus](https://overcast.fm/+1HFKvLjxI)
+[![138: Laphroaig 18 Year Old Single Malt Whisky](../../assets/images/oc_artwork/5287026756159543-112b6f5b-12f8-40f2-821e-36ae4a53ef96.png)](https://overcast.fm/+BLIhde4CDc) [Whisky Whiskey – 138: Laphroaig 18 Year Old Single Malt Whisky](https://overcast.fm/+BLIhde4CDc)
+[![149: Amber Lane Equinox Single Malt Whisky Re-review](../../assets/images/oc_artwork/5287027373334089-b2639d3c-d650-4282-bd07-56bccacf0d7a.png)](https://overcast.fm/+BLIhfyBXkk) [Whisky Whiskey – 149: Amber Lane Equinox Single Malt Whisky Re-review](https://overcast.fm/+BLIhfyBXkk)
+[![418: Just Figure Out What’s Next (hak)](../../assets/images/oc_artwork/660943142064-b8b116a9-a93e-4d24-b262-b2332ac86cc5.png)](https://overcast.fm/+meNH_LA) [Rebuild – 418: Just Figure Out What’s Next (hak)](https://overcast.fm/+meNH_LA)
 
 </div>
 
@@ -71,82 +71,74 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_7XG_n9WYeuU.png](../../assets/images/yt_thumbs/20251226173606_7XG_n9WYeuU.png)](https://www.youtube.com/watch?v=7XG_n9WYeuU)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Swiss A330 Declares PAN-PAN After Lightning Strike | Captain Steeeve Explains](https://www.youtube.com/watch?v=7XG_n9WYeuU)
+[![../../assets/images/yt_thumbs/20251228185448_490wbrkh8v4.png](../../assets/images/yt_thumbs/20251228185448_490wbrkh8v4.png)](https://www.youtube.com/watch?v=490wbrkh8v4)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
+[Trump ushers bankruptcy tsunami](https://www.youtube.com/watch?v=490wbrkh8v4)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_Jh9pFp1oM7E.png](../../assets/images/yt_thumbs/20251226173606_Jh9pFp1oM7E.png)](https://www.youtube.com/watch?v=Jh9pFp1oM7E&t=12s)<div><p class="yt-video-channel">Channel – Marques Brownlee and Epic Spaceman</p><p class="yt-video-title">
-[I shrunk down into an M5 chip](https://www.youtube.com/watch?v=Jh9pFp1oM7E&t=12s)
+[![../../assets/images/yt_thumbs/20251228185448_lzBsojSeX5A.png](../../assets/images/yt_thumbs/20251228185448_lzBsojSeX5A.png)](https://www.youtube.com/watch?v=lzBsojSeX5A)<div><p class="yt-video-channel">Channel – [9 News Australia](https://www.youtube.com/@9NewsAUS)</p><p class="yt-video-title">
+[One dead and 26 others injured in a massive crash in Japan | 9 News Australia](https://www.youtube.com/watch?v=lzBsojSeX5A)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_H_c6MWk7PQc.png](../../assets/images/yt_thumbs/20251226173606_H_c6MWk7PQc.png)](https://www.youtube.com/watch?v=H_c6MWk7PQc&t=20s)<div><p class="yt-video-channel">Channel – [Hank Green](https://www.youtube.com/@hankschannel)</p><p class="yt-video-title">
-[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc&t=20s)
+[![../../assets/images/yt_thumbs/20251228185448_2aeI-Q1TH7M.png](../../assets/images/yt_thumbs/20251228185448_2aeI-Q1TH7M.png)](https://www.youtube.com/watch?v=2aeI-Q1TH7M&t=1s)<div><p class="yt-video-channel">Channel – [UndeadHumor](https://www.youtube.com/@TheUndeadHumor)</p><p class="yt-video-title">
+[Santa's Powers Are STUPID](https://www.youtube.com/watch?v=2aeI-Q1TH7M&t=1s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_lffYEu5MhSQ.png](../../assets/images/yt_thumbs/20251226173606_lffYEu5MhSQ.png)](https://www.youtube.com/watch?v=lffYEu5MhSQ)<div><p class="yt-video-channel">Channel – [Zen van Riel](https://www.youtube.com/@zenvanriel)</p><p class="yt-video-title">
-[Claude Code Just Got The Ultimate Dev Shortcut (LSP Explained)](https://www.youtube.com/watch?v=lffYEu5MhSQ)
+[![../../assets/images/yt_thumbs/20251228185448_-KxQIEhsFQk.png](../../assets/images/yt_thumbs/20251228185448_-KxQIEhsFQk.png)](https://www.youtube.com/watch?v=-KxQIEhsFQk)<div><p class="yt-video-channel">Channel – [Mixed Signals](https://www.youtube.com/@arbitersofsound)</p><p class="yt-video-title">
+[The fascinating world of Japanese train melodies](https://www.youtube.com/watch?v=-KxQIEhsFQk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_NrI1gt6YfE8.png](../../assets/images/yt_thumbs/20251226173606_NrI1gt6YfE8.png)](https://www.youtube.com/watch?v=NrI1gt6YfE8&t=285s)<div><p class="yt-video-channel">Channel – [Snippety App](https://www.youtube.com/@AppSnippety)</p><p class="yt-video-title">
-[Snippety - productivity application for macOS, iOS, and iPadOS - Introduction](https://www.youtube.com/watch?v=NrI1gt6YfE8&t=285s)
+[![../../assets/images/yt_thumbs/20251228185448_RFKCzGlAU6Q.png](../../assets/images/yt_thumbs/20251228185448_RFKCzGlAU6Q.png)](https://www.youtube.com/watch?v=RFKCzGlAU6Q)<div><p class="yt-video-channel">Channel – [AI Engineer](https://www.youtube.com/@aiDotEngineer)</p><p class="yt-video-title">
+[How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_7Gmrdz4eTLc.png](../../assets/images/yt_thumbs/20251226173606_7Gmrdz4eTLc.png)](https://www.youtube.com/watch?v=7Gmrdz4eTLc)<div><p class="yt-video-channel">Channel – [JakeSimRacing](https://www.youtube.com/@JakeSimRacing)</p><p class="yt-video-title">
-[The Forgotten Le Mans Tragedy: The Demise of Sébastien Enjolras (1997)](https://www.youtube.com/watch?v=7Gmrdz4eTLc)
+[![../../assets/images/yt_thumbs/20251228185448_0jSE0NABcY8.png](../../assets/images/yt_thumbs/20251228185448_0jSE0NABcY8.png)](https://www.youtube.com/watch?v=0jSE0NABcY8)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Claude Code Snuck in 7 Updates in 2 Weeks—Here's What You Need to Know in 10 Minutes](https://www.youtube.com/watch?v=0jSE0NABcY8)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_AzOJ9QLgfIk.png](../../assets/images/yt_thumbs/20251226173606_AzOJ9QLgfIk.png)](https://www.youtube.com/watch?v=AzOJ9QLgfIk)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You](https://www.youtube.com/watch?v=AzOJ9QLgfIk)
+[![../../assets/images/yt_thumbs/20251228185448_WP2MsDuwnx0.png](../../assets/images/yt_thumbs/20251228185448_WP2MsDuwnx0.png)](https://www.youtube.com/watch?v=WP2MsDuwnx0)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[This Changes Things — New Cockpit Audio from the Greg Biffle Crash](https://www.youtube.com/watch?v=WP2MsDuwnx0)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_6b03ZXJvSGw.png](../../assets/images/yt_thumbs/20251226173606_6b03ZXJvSGw.png)](https://www.youtube.com/watch?v=6b03ZXJvSGw)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
-[Elon Musk Tesla CRASHING worse than I thought](https://www.youtube.com/watch?v=6b03ZXJvSGw)
+[![../../assets/images/yt_thumbs/20251228185448_CEvIs9y1uog.png](../../assets/images/yt_thumbs/20251228185448_CEvIs9y1uog.png)](https://www.youtube.com/watch?v=CEvIs9y1uog)<div><p class="yt-video-channel">Channel – [AI Engineer](https://www.youtube.com/@aiDotEngineer)</p><p class="yt-video-title">
+[Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic](https://www.youtube.com/watch?v=CEvIs9y1uog)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251226173606_VR3JID6VVtM.png](../../assets/images/yt_thumbs/20251226173606_VR3JID6VVtM.png)](https://www.youtube.com/watch?v=VR3JID6VVtM)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Best Team Radio Moments Of 2025 | Paramount+](https://www.youtube.com/watch?v=VR3JID6VVtM)
+[![../../assets/images/yt_thumbs/20251228185448_WvYBYbdGk8I.png](../../assets/images/yt_thumbs/20251228185448_WvYBYbdGk8I.png)](https://www.youtube.com/watch?v=WvYBYbdGk8I)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
+[Trump just f*cked up bad…](https://www.youtube.com/watch?v=WvYBYbdGk8I)
 </p></div>
 
 </div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![ROYCE' CHOCOLATE](../../assets/images/food_thumbs/RoyceChocolate-B6C20520-45FB-4D68-8E75-DFE02BA78331.png)](https://roycechocolate.com) [ROYCE' CHOCOLATE](https://roycechocolate.com)
 
 </div>
