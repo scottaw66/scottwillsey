@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-26T17:51:24-08:00"
+date: "2025-12-30T12:47:17-08:00"
 slug: "links"
 ---
 
@@ -65,6 +65,7 @@ slug: "links"
 - [A candy engineer explains the science behind the Snickers bar - Ars Technica](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/#gsc.tab=0)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
+- [Are We Ready to Be Governed by Artificial Intelligence? - Schneier on Security](https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
 - [Browse No More | Paul Stamatiou](https://paulstamatiou.com/browse-no-more)
 - [Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/)
@@ -99,6 +100,7 @@ slug: "links"
 - [How to leak to a journalist | Nieman Journalism Lab](https://www.niemanlab.org/2025/04/how-to-leak-to-a-journalist/)
 - [Hypercritical: Apple Turnover](https://hypercritical.co/2025/05/09/apple-turnover)
 - [I got dysentery so you don’t have to | Eukaryote Writes Blog](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
+- [I ignored every rule of photographic composition that I teach. The world did not end! | Digital Camera World](https://www.digitalcameraworld.com/photography/composition/i-ignored-every-rule-of-photographic-composition-that-i-teach-the-world-did-not-end)
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
 - [I’m a US citizen and a veteran. ICE arrested me for no reason.](https://newsletter.ofthebrave.org/p/im-a-us-citizen-and-a-veteran-ice)
 - [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet - Ars Technica](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
@@ -114,6 +116,7 @@ slug: "links"
 - [My first months in cyberspace (Phil Gyford’s website)](https://www.gyford.com/phil/writing/2025/10/15/1995-internet/)
 - [Open Social — overreacted](https://overreacted.io/open-social/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
+- [Opinion | One of America’s Most Successful Experiments Is Coming to a Shuddering Halt - The New York Times](https://www.nytimes.com/2025/12/29/opinion/indian-americans-trump.html?unlocked_article_code=1.AVA.XBjd.HPIvXmntEZja)
 - [Overtourism in Japan, and How it Hurts Small Businesses — Ridgeline issue 210](https://craigmod.com/ridgeline/210/)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
@@ -592,6 +595,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Lex's Games by Lex Friedman](https://lex.games/)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
+- [Lumon Industries](https://lumon.industries)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [Making A Plan](https://millionexperiments.com/zines/making-a-plan)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
@@ -895,6 +899,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
 - [Have Camera Will Travel](https://havecamerawilltravel.com/)
 - [Hyperfocal Distance Explained](https://photographylife.com/hyperfocal-distance-explained)
+- [I ignored every rule of photographic composition that I teach. The world did not end! | Digital Camera World](https://www.digitalcameraworld.com/photography/composition/i-ignored-every-rule-of-photographic-composition-that-i-teach-the-world-did-not-end)
 - [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
 - [The Phoblographers Guide to Buying Fujifilm GF Lenses](https://www.thephoblographer.com/2019/10/09/the-phoblographers-guide-to-buying-fujifilm-gf-lenses/)
 - [Photons to Photos](https://www.photonstophotos.net/)
