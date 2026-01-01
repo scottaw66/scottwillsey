@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2025-12-30T12:47:17-08:00"
+date: "2026-01-01T09:13:12-08:00"
 slug: "now"
 ---
 
@@ -22,16 +22,17 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![ESSAY | The Snail](../../assets/images/oc_artwork/5440478661218783-59fb8f65-e1ed-4658-bed7-e4c19d570f8d.png)](https://overcast.fm/+BNUFiYCkd8) [Signal Hill – ESSAY | The Snail](https://overcast.fm/+BNUFiYCkd8)
-[![FEATURE | The Learning Play](../../assets/images/oc_artwork/5440478455883441-2b564847-a168-4482-8a92-ce0bbc7be17a.png)](https://overcast.fm/+BNUFhnFZrE) [Signal Hill – FEATURE | The Learning Play](https://overcast.fm/+BNUFhnFZrE)
-[![CALL-IN | On the Family Group Chat](../../assets/images/oc_artwork/5440478586382758-487a4dba-65d5-4e0b-811a-43f48af6d1ef.png)](https://overcast.fm/+BNUFiGMqaY) [Signal Hill – CALL-IN | On the Family Group Chat](https://overcast.fm/+BNUFiGMqaY)
-[![Level 1 Lesson 2](../../assets/images/oc_artwork/4149800327414849-61ac8aa4-5d6e-4022-8b34-db5c57c2d80a.png)](https://overcast.fm/+6-OK5nhEE) [Talk To Me In Korean – Level 1 Lesson 2](https://overcast.fm/+6-OK5nhEE)
-[![Level 1 Lesson 1](../../assets/images/oc_artwork/4149800517530888-50f5809c-8d2f-49b1-88f7-002cd5556233.png)](https://overcast.fm/+6-OLm8dQg) [Talk To Me In Korean – Level 1 Lesson 1](https://overcast.fm/+6-OLm8dQg)
-[![Learn Korean Language Episode No 01](../../assets/images/oc_artwork/5722225681600833-b63ef0b8-e131-4029-8ba3-7092c5064143.png)](https://overcast.fm/+BRUVX0TkUE) [Learn Korean Language – Learn Korean Language Episode No 01](https://overcast.fm/+BRUVX0TkUE)
-[![The Most Important Sales Trends of 2026](../../assets/images/oc_artwork/1682926835959087-ea275565-2e99-48cd-8be7-bf4c6050d47b.png)](https://overcast.fm/+X6nPA9hS8) [Sales Logic - Selling Strategies That Work – The Most Important Sales Trends of 2026](https://overcast.fm/+X6nPA9hS8)
-[![151: Amber Lane Liquid Amber Single Malt Whisky](../../assets/images/oc_artwork/5287026804694953-554517de-21e5-45a4-9cb5-2c13857f5d83.png)](https://overcast.fm/+BLIhdqcn6k) [Whisky Whiskey – 151: Amber Lane Liquid Amber Single Malt Whisky](https://overcast.fm/+BLIhdqcn6k)
-[![#532: 2025 Python Year in Review](../../assets/images/oc_artwork/413708953245306-512e511c-ccf1-499b-867a-1ea11ac2ef81.png)](https://overcast.fm/+F4RB8y1no) [Talk Python To Me – #532: 2025 Python Year in Review](https://overcast.fm/+F4RB8y1no)
-[![607 The Best & Worst of 2025 Awards](../../assets/images/oc_artwork/3737329045153172-2cfdd5c8-6729-423b-8e0c-6ef3149ef241.png)](https://overcast.fm/+1HFLolJZQ) [The Weekly Planet – 607 The Best & Worst of 2025 Awards](https://overcast.fm/+1HFLolJZQ)
+![672: Wi Hyphen Fi](../../assets/images/oc_artwork/5585879806579807-5b94454f-cef6-4698-85a1-db83b9f0d173.png) Accidental Tech Podcast: Unedited Live Stream – 672: Wi Hyphen Fi
+[![Level 1 Lesson 2](../../assets/images/oc_artwork/4149800327414849-e0dd9039-e27b-464e-81db-6520f24fb465.png)](https://overcast.fm/+6-OK5nhEE) [Talk To Me In Korean – Level 1 Lesson 2](https://overcast.fm/+6-OK5nhEE)
+[![Level 1 Lesson 1](../../assets/images/oc_artwork/4149800517530888-aa7fd7bd-0fd5-48d5-b89b-bc78f62853af.png)](https://overcast.fm/+6-OLm8dQg) [Talk To Me In Korean – Level 1 Lesson 1](https://overcast.fm/+6-OLm8dQg)
+[![Learn Korean Language Episode No 01](../../assets/images/oc_artwork/5722225681600833-9b5ec1d4-bb2c-4757-8cb8-7ec971ccede9.png)](https://overcast.fm/+BRUVX0TkUE) [Learn Korean Language – Learn Korean Language Episode No 01](https://overcast.fm/+BRUVX0TkUE)
+[![The Most Important Sales Trends of 2026](../../assets/images/oc_artwork/1682926835959087-27f0c728-7874-462d-9282-ce5bb3dfee87.png)](https://overcast.fm/+X6nPA9hS8) [Sales Logic - Selling Strategies That Work – The Most Important Sales Trends of 2026](https://overcast.fm/+X6nPA9hS8)
+[![151: Amber Lane Liquid Amber Single Malt Whisky](../../assets/images/oc_artwork/5287026804694953-55692aec-3d78-43e9-8320-a667bfc80902.png)](https://overcast.fm/+BLIhdqcn6k) [Whisky Whiskey – 151: Amber Lane Liquid Amber Single Malt Whisky](https://overcast.fm/+BLIhdqcn6k)
+[![#532: 2025 Python Year in Review](../../assets/images/oc_artwork/413708953245306-b6bac662-63c1-4939-a541-192e09a226de.png)](https://overcast.fm/+F4RB8y1no) [Talk Python To Me – #532: 2025 Python Year in Review](https://overcast.fm/+F4RB8y1no)
+[![607 The Best & Worst of 2025 Awards](../../assets/images/oc_artwork/3737329045153172-2d929313-cd81-4f27-a5de-7506d4ead8f0.png)](https://overcast.fm/+1HFLolJZQ) [The Weekly Planet – 607 The Best & Worst of 2025 Awards](https://overcast.fm/+1HFLolJZQ)
+[![#22 初恋](../../assets/images/oc_artwork/4950411130116740-8e74f407-4e1d-4b53-b2ce-e8c7d3f7c6e8.png)](https://overcast.fm/+BGWX2jnGoQ) [ゆかのにほんごカフェ – #22 初恋](https://overcast.fm/+BGWX2jnGoQ)
+[![#21 利き手](../../assets/images/oc_artwork/4950410780985471-0c75fe0a-e131-4155-8324-ff51dbdedcbc.png)](https://overcast.fm/+BGWX1QXyH8) [ゆかのにほんごカフェ – #21 利き手](https://overcast.fm/+BGWX1QXyH8)
+
 
 </div>
 
@@ -48,10 +49,10 @@ slug: "now"
 
 ### Movies
 
+[<span hidden>The Perfect Neighbor • First Time Watch • 2025 • Geeta Gandbhir • You kind of have to be into crime documentaries to like this, but the real takeaway here is how stupid Stand Your Ground laws and the people who think they're a good idea are. Also, this lady was whack. • Liked It</span>
+![The Perfect Neighbor • First Time Watch • 2025 • Geeta Gandbhir • You kind of have to be into crime documentaries to like this, but the real takeaway here is how stupid Stand Your Ground laws and the people who think they're a good idea are. Also, this lady was whack. • Liked It](../../assets/images/posts/png-image4c91b6db330-review-a705ca39-8f1d-429b-a3bd-f461b37a31ea.png)](/images/posts/png-image4c91b6db330-review-a705ca39-8f1d-429b-a3bd-f461b37a31ea.jpg)
 [<span hidden>Tinker Tailor Soldier Spy • 2011 • Tomas Alfredson • They don't make many movies like this anymore. Both intelligently written and yet not overly- wrought with twists and surprises, it's a subtly played movie staring Gary Oldman at his best, but with a stellar cast in general. Highly recommended. • Loved It!</span>
 ![Tinker Tailor Soldier Spy • 2011 • Tomas Alfredson • They don't make many movies like this anymore. Both intelligently written and yet not overly- wrought with twists and surprises, it's a subtly played movie staring Gary Oldman at his best, but with a stellar cast in general. Highly recommended. • Loved It!](../../assets/images/posts/png-image48638ea78c0-review-3aedf0b6-0108-41da-a3e3-2096c4e6cd7e.png)](/images/posts/png-image48638ea78c0-review-3aedf0b6-0108-41da-a3e3-2096c4e6cd7e.jpg)
-[<span hidden>Wick Is Pain • 2025 • Jeffrey Doe • A fun look behind the scenes and lives of the people who made the John Wick movies. Really only these people could have made these movies. • Loved It!</span>
-![Wick Is Pain • 2025 • Jeffrey Doe • A fun look behind the scenes and lives of the people who made the John Wick movies. Really only these people could have made these movies. • Loved It!](../../assets/images/posts/png-image48b090780c0-review-9b121a86-9efa-44ef-94d0-3484b4c3a18b.png)](/images/posts/png-image48b090780c0-review-9b121a86-9efa-44ef-94d0-3484b4c3a18b.jpg)
 
 ### TV Shows
 
@@ -66,72 +67,89 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_8psoB8EFdc8.png](../../assets/images/yt_thumbs/20251230123951_8psoB8EFdc8.png)](https://www.youtube.com/watch?v=8psoB8EFdc8&t=828s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Make $500-$5K/mo with ChatGPT—Steal my Side-Gig System and Build Your Hustle with AI!](https://www.youtube.com/watch?v=8psoB8EFdc8&t=828s)
+
+[![../../assets/images/yt_thumbs/20260101091022_ClnFFaBCGtE.png](../../assets/images/yt_thumbs/20260101091022_ClnFFaBCGtE.png) ](https://www.youtube.com/watch?v=ClnFFaBCGtE)<div><p class="yt-video-channel">Channel – [Casual Geographic](https://www.youtube.com/@mndiaye_97)</p><p class="yt-video-title">
+[The Most Generational Rivalries in the Animal Kingdom](https://www.youtube.com/watch?v=ClnFFaBCGtE)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_I85SWB-D5R8.png](../../assets/images/yt_thumbs/20251230123951_I85SWB-D5R8.png)](https://www.youtube.com/watch?v=I85SWB-D5R8)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
-[They finally admitted it's all fake](https://www.youtube.com/watch?v=I85SWB-D5R8)
+
+[![../../assets/images/yt_thumbs/20260101091022_f5MKMshPTbY.png](../../assets/images/yt_thumbs/20260101091022_f5MKMshPTbY.png) ](https://www.youtube.com/watch?v=f5MKMshPTbY)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[Pilot Calls ATC an Idiot at LaGuardia – Captain Explains](https://www.youtube.com/watch?v=f5MKMshPTbY)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_4_tjA-_BxN4.png](../../assets/images/yt_thumbs/20251230123951_4_tjA-_BxN4.png)](https://www.youtube.com/watch?v=4_tjA-_BxN4&pp=0gcJCU0KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Emergency Landing in Hawaii Turns Tense After ATC Response | Captain Steeeve Reacts](https://www.youtube.com/watch?v=4_tjA-_BxN4&pp=0gcJCU0KAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260101091022_ZsApbhG2cRY.png](../../assets/images/yt_thumbs/20260101091022_ZsApbhG2cRY.png) ](https://www.youtube.com/watch?v=ZsApbhG2cRY)<div><p class="yt-video-channel">Channel – The Daily Show and Josh Johnson</p><p class="yt-video-title">
+[Josh Johnson on Trump's Epstein Scandal, MAGA Meltdowns & Hopes for Heaven in 2025 | The Daily Show](https://www.youtube.com/watch?v=ZsApbhG2cRY)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_cHiZ-7jI0Ew.png](../../assets/images/yt_thumbs/20251230123951_cHiZ-7jI0Ew.png)](https://www.youtube.com/watch?v=cHiZ-7jI0Ew)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
-[Does OpenAI expect a Government Bailout?](https://www.youtube.com/watch?v=cHiZ-7jI0Ew)
+
+[![../../assets/images/yt_thumbs/20260101091022_8pBk4IUEMOk.png](../../assets/images/yt_thumbs/20260101091022_8pBk4IUEMOk.png) ](https://www.youtube.com/watch?v=8pBk4IUEMOk)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[The Best Battles Of The 2025 Season!](https://www.youtube.com/watch?v=8pBk4IUEMOk)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_X_EJi6yCuTM.png](../../assets/images/yt_thumbs/20251230123951_X_EJi6yCuTM.png)](https://www.youtube.com/watch?v=X_EJi6yCuTM)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Anthropic's New Benchmark Changes Everything—Most People Will Miss Why](https://www.youtube.com/watch?v=X_EJi6yCuTM)
+
+[![../../assets/images/yt_thumbs/20260101091022_Xw8MzOtnm7U.png](../../assets/images/yt_thumbs/20260101091022_Xw8MzOtnm7U.png) ](https://www.youtube.com/watch?v=Xw8MzOtnm7U)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[“Pay Attention!” ATC Warns Spirit Airlines Near Air Force One](https://www.youtube.com/watch?v=Xw8MzOtnm7U)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_whYH36kb75o.png](../../assets/images/yt_thumbs/20251230123951_whYH36kb75o.png)](https://www.youtube.com/watch?v=whYH36kb75o)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[$770 Apartment Tour | Fukuoka, Japan](https://www.youtube.com/watch?v=whYH36kb75o)
+
+[![../../assets/images/yt_thumbs/20260101091022_MiUHjLxm3V0.png](../../assets/images/yt_thumbs/20260101091022_MiUHjLxm3V0.png) ](https://www.youtube.com/watch?v=MiUHjLxm3V0)<div><p class="yt-video-channel">Channel – [Veritasium](https://www.youtube.com/@veritasium)</p><p class="yt-video-title">
+[The Ridiculous Engineering Of The World's Most Important Machine](https://www.youtube.com/watch?v=MiUHjLxm3V0)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_03HoQCOtRaY.png](../../assets/images/yt_thumbs/20251230123951_03HoQCOtRaY.png)](https://www.youtube.com/watch?v=03HoQCOtRaY)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[The best worst team F1’s ever had](https://www.youtube.com/watch?v=03HoQCOtRaY)
+
+[![../../assets/images/yt_thumbs/20260101091022_xwfFS8OiEhI.png](../../assets/images/yt_thumbs/20260101091022_xwfFS8OiEhI.png) ](https://www.youtube.com/watch?v=xwfFS8OiEhI&pp=0gcJCU0KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Samurai Daddy](https://www.youtube.com/@samurai-daddy)</p><p class="yt-video-title">
+[The Japanese are actually suffering.｜Salaryman in Tokyo, Japan](https://www.youtube.com/watch?v=xwfFS8OiEhI&pp=0gcJCU0KAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951__nxbZgZysT4.png](../../assets/images/yt_thumbs/20251230123951__nxbZgZysT4.png)](https://www.youtube.com/watch?v=_nxbZgZysT4)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[OpenAI: Trapped in 2nd place](https://www.youtube.com/watch?v=_nxbZgZysT4)
+
+[![../../assets/images/yt_thumbs/20260101091022_584MPPWS_IA.png](../../assets/images/yt_thumbs/20260101091022_584MPPWS_IA.png) ](https://www.youtube.com/watch?v=584MPPWS_IA)<div><p class="yt-video-channel">Channel – [Ecamm Live](https://www.youtube.com/@EcammLive)</p><p class="yt-video-title">
+[Ecamm Live Standard vs Pro Plans: Which Should You Choose?](https://www.youtube.com/watch?v=584MPPWS_IA)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20251230123951_8QI5tZ14W64.png](../../assets/images/yt_thumbs/20251230123951_8QI5tZ14W64.png)](https://www.youtube.com/watch?v=8QI5tZ14W64&t=322s)<div><p class="yt-video-channel">Channel – [Casual Geographic](https://www.youtube.com/@mndiaye_97)</p><p class="yt-video-title">
-[The Depressing Reality of Being a "Small Cat"](https://www.youtube.com/watch?v=8QI5tZ14W64&t=322s)
+
+[![../../assets/images/yt_thumbs/20260101091022_pAK5kV927Kw.png](../../assets/images/yt_thumbs/20260101091022_pAK5kV927Kw.png) ](https://www.youtube.com/watch?v=pAK5kV927Kw)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Nico Hulkenberg: The Ultimate Onboard Collection | Best Onboards | Qatar Airways](https://www.youtube.com/watch?v=pAK5kV927Kw)
 </p></div>
 
 </div>
