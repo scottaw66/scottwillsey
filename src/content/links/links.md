@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2025-12-30T12:47:17-08:00"
+date: "2026-01-01T09:37:03-08:00"
 slug: "links"
 ---
 
@@ -1077,6 +1077,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Angel Poon](https://www.youtube.com/@angelpoon)
 - [Anthony Morganti](https://www.youtube.com/@AnthonyMorganti)
 - [Anthropic](https://www.youtube.com/@anthropic-ai)
+- [Anton Petrov](https://www.youtube.com/@whatdamath)
 - [Asian Boss](https://www.youtube.com/@AsianBoss)
 - [Asianometry](https://www.youtube.com/@Asianometry)
 - [Astro](https://www.youtube.com/@astrodotbuild)
@@ -1090,6 +1091,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Bright Data](https://www.youtube.com/@BrightData)
 - [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
 - [cari cakes](https://www.youtube.com/@caricakes)
+- [Casual Geographic](https://www.youtube.com/@mndiaye_97)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
@@ -1101,7 +1103,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [Craft Docs](https://www.youtube.com/@craftdocs)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo](https://www.youtube.com/@cultrepo)
+- [CultRepo ](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [Cybernews](https://www.youtube.com/@cybernews)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
@@ -1113,9 +1115,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DIY Japan](https://www.youtube.com/@DIYJapan)
 - [Driver61](https://www.youtube.com/@Driver61)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
+- [Ecamm Live](https://www.youtube.com/@EcammLive)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
+- [Epic Spaceman](https://www.youtube.com/@EpicSpaceman)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [eXtreme](https://www.youtube.com/@TheExtreme-Edge)
 - [Fabio Bergmann](https://www.youtube.com/@fabio-bergmann)
@@ -1170,7 +1174,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
-- [Lingopie](https://www.youtube.com/@LingopieTV)
+- [Lingopie ](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1216,7 +1220,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
 - [Rick Mulready](https://www.youtube.com/@RickMulready)
@@ -1245,6 +1249,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [StarTalk Plus](https://www.youtube.com/@StarTalkPlus)
 - [Stephen Robles](https://www.youtube.com/@beardfm)
 - [Steve Shives](https://www.youtube.com/@SteveShives)
+- [Strict Scrutiny](https://www.youtube.com/@strictscrutinypodcast)
 - [Sunny in Japan](https://www.youtube.com/@Sunny_in_Japan)
 - [Tailscale](https://www.youtube.com/@Tailscale)
 - [Takashi](https://www.youtube.com/@Takashi_teaches_Japanese)
@@ -1274,6 +1279,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
 - [Unpacking Japan Shorts](https://www.youtube.com/@unpackingjapanshorts)
 - [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
+- [Veritasium](https://www.youtube.com/@veritasium)
 - [Vickie Ip](https://www.youtube.com/@VickieIp)
 - [WAIT! WHERE ARE WE GOING, JAPAN?](https://www.youtube.com/@WaitWhereAreWeGoingJapan)
 - [WAKU WAKU JAPANESE](https://www.youtube.com/@wakuwakujapanese)
