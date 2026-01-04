@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-01-03T08:09:02-08:00"
+date: "2026-01-03T20:08:59-08:00"
 slug: "now"
 ---
 
@@ -14,6 +14,7 @@ slug: "now"
 - Learning Korean
 - Expanding Paradigm's client base and launching its vulnerabilty management service
 - Building up my running distance again
+- Completely reexamining how I use the Yubikey
 
 ## Stuff I've recently enjoyed
 
@@ -22,16 +23,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![Episode 245 - Choosing Better Lines](../../assets/images/oc_artwork/470842161090776-4005da3d-c1c7-4449-ace8-0c7e9e94e17a.png)](https://overcast.fm/+GsOnvB0Ng) [Blurring The Lines Podcast – Episode 245 - Choosing Better Lines](https://overcast.fm/+GsOnvB0Ng)
-![672: Wi Hyphen Fi](../../assets/images/oc_artwork/5585875748646573-0e25e01c-5a92-4417-8ed7-2bf8f9bee6e1.png) Accidental Tech Podcast – 672: Wi Hyphen Fi
-[![155: Amber Lane Earth Single Malt Whisky](../../assets/images/oc_artwork/5287026887319864-1fee7583-346d-4a14-9bee-15ee5d8b3044.png)](https://overcast.fm/+BLIhd-JYTg) [Whisky Whiskey – 155: Amber Lane Earth Single Malt Whisky](https://overcast.fm/+BLIhd-JYTg)
-[![438: ‘2025 Year in Review’, With Rene Ritchie](../../assets/images/oc_artwork/135463845661257-2068ed0f-28b6-44c2-a1a2-bfe4f6bef893.png)](https://overcast.fm/+B7NCJmikk) [The Talk Show With John Gruber – 438: ‘2025 Year in Review’, With Rene Ritchie](https://overcast.fm/+B7NCJmikk)
-![F1 2026: The big stories to watch for (ad-free)](../../assets/images/oc_artwork/5523677882120520-e24c46cc-20d6-4cd1-81ee-94849ed0c651.png) The Race F1 Podcast (Members) – F1 2026: The big stories to watch for (ad-free)
-![672: Wi Hyphen Fi](../../assets/images/oc_artwork/5585879806579807-f66583b4-a324-4b6d-bc46-e802d0ab4998.png) Accidental Tech Podcast: Unedited Live Stream – 672: Wi Hyphen Fi
-[![Level 1 Lesson 2](../../assets/images/oc_artwork/4149800327414849-388548c4-66b6-4879-b4cf-d113a95fbd94.png)](https://overcast.fm/+6-OK5nhEE) [Talk To Me In Korean – Level 1 Lesson 2](https://overcast.fm/+6-OK5nhEE)
-[![Level 1 Lesson 1](../../assets/images/oc_artwork/4149800517530888-3a157aa8-0fb9-4da3-8205-e21364a7d0f2.png)](https://overcast.fm/+6-OLm8dQg) [Talk To Me In Korean – Level 1 Lesson 1](https://overcast.fm/+6-OLm8dQg)
-[![Learn Korean Language Episode No 01](../../assets/images/oc_artwork/5722225681600833-5fa7126e-34a6-4ae0-93b0-8d077aa48c13.png)](https://overcast.fm/+BRUVX0TkUE) [Learn Korean Language – Learn Korean Language Episode No 01](https://overcast.fm/+BRUVX0TkUE)
-[![The Most Important Sales Trends of 2026](../../assets/images/oc_artwork/1682926835959087-a352f576-15aa-4756-b455-3ef59201b1be.png)](https://overcast.fm/+X6nPA9hS8) [Sales Logic - Selling Strategies That Work – The Most Important Sales Trends of 2026](https://overcast.fm/+X6nPA9hS8)
+[![S1E9: Alison Tatlock & Darinka Arones](../../assets/images/oc_artwork/5856572281342479-b9024ba9-eb88-4de9-a87d-03084c66066d.png)](https://overcast.fm/+BTOhX5uSg8) [Pluribus: The Official Podcast – S1E9: Alison Tatlock & Darinka Arones](https://overcast.fm/+BTOhX5uSg8)
+[![154: Amber Lane Air Single Malt Whisky](../../assets/images/oc_artwork/5287027194445103-b1ac389e-c313-4b53-bb44-465d6ffbf85b.png)](https://overcast.fm/+BLIhfHXvS8) [Whisky Whiskey – 154: Amber Lane Air Single Malt Whisky](https://overcast.fm/+BLIhfHXvS8)
+[![Our 2026 Tech Predictions](../../assets/images/oc_artwork/5130549761683479-a359e227-cc89-499a-a400-819c50509e6a.png)](https://overcast.fm/+BI6NTQMMBc) [Comfort Zone – Our 2026 Tech Predictions](https://overcast.fm/+BI6NTQMMBc)
+[![156: Amber Lane Fire Single Malt Whisky](../../assets/images/oc_artwork/5287026726908033-3ee886ac-05c5-418f-98d8-2086c433d870.png)](https://overcast.fm/+BLIhdX5sIE) [Whisky Whiskey – 156: Amber Lane Fire Single Malt Whisky](https://overcast.fm/+BLIhdX5sIE)
+[![NC #1078 Unite Tutorial, George from Tulsa from Christmases Past, Grammar in a Fiction Editing Pipeline by Eddie Tonkoi, Bart Busschots on Email Sender Validation](../../assets/images/oc_artwork/5142864778660882-321d6eb4-4007-40f8-bc28-72955499ade6.png)](https://overcast.fm/+BJFaIRCjBI) [NosillaCast Apple Podcast – NC #1078 Unite Tutorial, George from Tulsa from Christmases Past, Grammar in a Fiction Editing Pipeline by Eddie Tonkoi, Bart Busschots on Email Sender Validation](https://overcast.fm/+BJFaIRCjBI)
+[![Episode 245 - Choosing Better Lines](../../assets/images/oc_artwork/470842161090776-c70815e1-afe1-4f88-a6d9-746c34e3b387.png)](https://overcast.fm/+GsOnvB0Ng) [Blurring The Lines Podcast – Episode 245 - Choosing Better Lines](https://overcast.fm/+GsOnvB0Ng)
+![672: Wi Hyphen Fi](../../assets/images/oc_artwork/5585875748646573-6518b60a-3486-41d8-87bd-77b687fd2285.png) Accidental Tech Podcast – 672: Wi Hyphen Fi
+[![155: Amber Lane Earth Single Malt Whisky](../../assets/images/oc_artwork/5287026887319864-a8a9140d-76e4-44fa-845d-37b73676f979.png)](https://overcast.fm/+BLIhd-JYTg) [Whisky Whiskey – 155: Amber Lane Earth Single Malt Whisky](https://overcast.fm/+BLIhd-JYTg)
+[![438: ‘2025 Year in Review’, With Rene Ritchie](../../assets/images/oc_artwork/135463845661257-9b2073ad-0ece-4f97-bbe0-96df0ab4ce49.png)](https://overcast.fm/+B7NCJmikk) [The Talk Show With John Gruber – 438: ‘2025 Year in Review’, With Rene Ritchie](https://overcast.fm/+B7NCJmikk)
+![F1 2026: The big stories to watch for (ad-free)](../../assets/images/oc_artwork/5523677882120520-15783fe3-c6ed-405e-a6a9-b5df0b1a9d41.png) The Race F1 Podcast (Members) – F1 2026: The big stories to watch for (ad-free)
 
 </div>
 
@@ -66,74 +67,82 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_hwbE5ks7dFg.png](../../assets/images/yt_thumbs/20260103075947_hwbE5ks7dFg.png)](https://www.youtube.com/watch?v=hwbE5ks7dFg&t=952s)<div><p class="yt-video-channel">Channel – [Business Reform](https://www.youtube.com/@businessreform)</p><p class="yt-video-title">
-[Flock Safety Loses Another City After CEO’s Email Backfires](https://www.youtube.com/watch?v=hwbE5ks7dFg&t=952s)
+[![../../assets/images/yt_thumbs/20260103195836_ea0Y_83xmUA.png](../../assets/images/yt_thumbs/20260103195836_ea0Y_83xmUA.png)](https://www.youtube.com/watch?v=ea0Y_83xmUA)<div><p class="yt-video-channel">Channel – [ABS-CBN News](https://www.youtube.com/@abscbnnews)</p><p class="yt-video-title">
+[Witness to Swiss blaze 'shocked for life' after seeing victims burning | ABC-CBN News](https://www.youtube.com/watch?v=ea0Y_83xmUA)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_884x72G-XQ4.png](../../assets/images/yt_thumbs/20260103075947_884x72G-XQ4.png)](https://www.youtube.com/watch?v=884x72G-XQ4)<div><p class="yt-video-channel">Channel – [Tripwebcam](https://www.youtube.com/@tripwebcam)</p><p class="yt-video-title">
-[Japan Live Cam - Rolling Tour | Tokyo, Cities, Beaches & Landscapes](https://www.youtube.com/watch?v=884x72G-XQ4)
+[![../../assets/images/yt_thumbs/20260103195836_rOjl2vFHLAY.png](../../assets/images/yt_thumbs/20260103195836_rOjl2vFHLAY.png)](https://www.youtube.com/watch?v=rOjl2vFHLAY)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
+[There is no f**king way he meant to say that..](https://www.youtube.com/watch?v=rOjl2vFHLAY)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_gNaeCslk6ac.png](../../assets/images/yt_thumbs/20260103075947_gNaeCslk6ac.png)](https://www.youtube.com/watch?v=gNaeCslk6ac&t=21s)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[One Hour of Tokyo Apartments](https://www.youtube.com/watch?v=gNaeCslk6ac&t=21s)
+[![../../assets/images/yt_thumbs/20260103195836_VAFEmFSMfTg.png](../../assets/images/yt_thumbs/20260103195836_VAFEmFSMfTg.png)](https://www.youtube.com/watch?v=VAFEmFSMfTg)<div><p class="yt-video-channel">Channel – [StarTalk Plus](https://www.youtube.com/@StarTalkPlus)</p><p class="yt-video-title">
+[Will AI Ever Be Conscious?](https://www.youtube.com/watch?v=VAFEmFSMfTg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_QH4z_x3UXag.png](../../assets/images/yt_thumbs/20260103075947_QH4z_x3UXag.png)](https://www.youtube.com/watch?v=QH4z_x3UXag&pp=0gcJCU0KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
-[Trump kidnaps Maduro in Venezuela strike](https://www.youtube.com/watch?v=QH4z_x3UXag&pp=0gcJCU0KAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260103195836_pDJ78giOUik.png](../../assets/images/yt_thumbs/20260103195836_pDJ78giOUik.png)](https://www.youtube.com/watch?v=pDJ78giOUik)<div><p class="yt-video-channel">Channel – [APT](https://www.youtube.com/@APT_NEWS)</p><p class="yt-video-title">
+["I Couldn’t Breathe!" Hero Risked Life Twice to Save Friends in Deadly Swiss Fire | APT](https://www.youtube.com/watch?v=pDJ78giOUik)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_LkFWMIfV9G0.png](../../assets/images/yt_thumbs/20260103075947_LkFWMIfV9G0.png)](https://www.youtube.com/watch?v=LkFWMIfV9G0)<div><p class="yt-video-channel">Channel – [Disaster Breakdown](https://www.youtube.com/@DisasterBreakdown)</p><p class="yt-video-title">
-[Turbulence So Bad It Broke The Plane (BOAC Flight 911) - DISASTER BREAKDOWN](https://www.youtube.com/watch?v=LkFWMIfV9G0)
+[![../../assets/images/yt_thumbs/20260103195836_oz7agKrhkps.png](../../assets/images/yt_thumbs/20260103195836_oz7agKrhkps.png)](https://www.youtube.com/watch?v=oz7agKrhkps)<div><p class="yt-video-channel">Channel – [jeffostroff](https://www.youtube.com/@jeffostroff)</p><p class="yt-video-title">
+[Seconds to Escape: Why Switzerland’s Deadly Flashover Fire Spread FAST](https://www.youtube.com/watch?v=oz7agKrhkps)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_wNbIG4mH5hY.png](../../assets/images/yt_thumbs/20260103075947_wNbIG4mH5hY.png)](https://www.youtube.com/watch?v=wNbIG4mH5hY)<div><p class="yt-video-channel">Channel – [Animamille🐰🐱 Travel to meet animals.](https://www.youtube.com/@animamille)</p><p class="yt-video-title">
-[Cat Paradise 💕🐱 A Japanese Retro Inn Where 13 Cats Come to Your Room. | Shoraku Ryokan in Ozu | 松楽旅館](https://www.youtube.com/watch?v=wNbIG4mH5hY)
+[![../../assets/images/yt_thumbs/20260103195836_1kA8Xj_0jqA.png](../../assets/images/yt_thumbs/20260103195836_1kA8Xj_0jqA.png)](https://www.youtube.com/watch?v=1kA8Xj_0jqA)<div><p class="yt-video-channel">Channel – [CBS News](https://www.youtube.com/@CBSNews)</p><p class="yt-video-title">
+[Swiss ski resort bar was packed with teens as deadly fire spread](https://www.youtube.com/watch?v=1kA8Xj_0jqA)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_nAvwVhsSBmw.png](../../assets/images/yt_thumbs/20260103075947_nAvwVhsSBmw.png)](https://www.youtube.com/watch?v=nAvwVhsSBmw)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[$1180 Japanese Apartment Tour | Fukuoka](https://www.youtube.com/watch?v=nAvwVhsSBmw)
+[![../../assets/images/yt_thumbs/20260103195836_wBdVTpSXrV8.png](../../assets/images/yt_thumbs/20260103195836_wBdVTpSXrV8.png)](https://www.youtube.com/watch?v=wBdVTpSXrV8&t=72s)<div><p class="yt-video-channel">Channel – [Erin Talks Money](https://www.youtube.com/@ErinTalksMoney)</p><p class="yt-video-title">
+[STOP Contributing to Your 401(k)? The Truth No One Is Telling You](https://www.youtube.com/watch?v=wBdVTpSXrV8&t=72s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_OyZUZJb3zGk.png](../../assets/images/yt_thumbs/20260103075947_OyZUZJb3zGk.png)](https://www.youtube.com/watch?v=OyZUZJb3zGk)<div><p class="yt-video-channel">Channel – [Muxedotask](https://www.youtube.com/@muxedo)</p><p class="yt-video-title">
-[Why JAPAN Let CITY POP Artists DIE: A LOST Generation](https://www.youtube.com/watch?v=OyZUZJb3zGk)
+[![../../assets/images/yt_thumbs/20260103195836_Igc2vsBppwA.png](../../assets/images/yt_thumbs/20260103195836_Igc2vsBppwA.png)](https://www.youtube.com/watch?v=Igc2vsBppwA)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[Gulf Air Aircraft Enters Active Runway as Plane Is Landing | Captain Steeeve Reacts](https://www.youtube.com/watch?v=Igc2vsBppwA)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103075947_n38NpAOuo8I.png](../../assets/images/yt_thumbs/20260103075947_n38NpAOuo8I.png)](https://www.youtube.com/watch?v=n38NpAOuo8I)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Why Mercedes went from F1 dominator to four years of failure](https://www.youtube.com/watch?v=n38NpAOuo8I)
+[![../../assets/images/yt_thumbs/20260103195836_PXsERGUtSPo.png](../../assets/images/yt_thumbs/20260103195836_PXsERGUtSPo.png)](https://www.youtube.com/watch?v=PXsERGUtSPo)<div><p class="yt-video-channel">Channel – [Dad, the engineer](https://www.youtube.com/@Dad-The-Engineer)</p><p class="yt-video-title">
+[Your TV is spying on you - Find out how, and turn it off!](https://www.youtube.com/watch?v=PXsERGUtSPo)
 </p></div>
 
 </div>
+
+</div>
+
+### Food
+
+<div class="food">
+
+[![KACHKA  - EAT. CLINK. DRINK. REPEAT.](../../assets/images/food_thumbs/Kachka-9BE330F1-3CFD-485A-8AC9-A964A387B4E4.png)](https://www.kachkapdx.com) [KACHKA  - EAT. CLINK. DRINK. REPEAT.](https://www.kachkapdx.com)
 
 </div>

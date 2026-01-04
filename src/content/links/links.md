@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-01-03T08:09:02-08:00"
+date: "2026-01-03T20:08:59-08:00"
 slug: "links"
 ---
 
@@ -143,6 +143,7 @@ slug: "links"
 - [The ingenious design of Morocco's 500-year-old 'banks'](https://www.bbc.com/travel/article/20241017-the-ingenious-design-of-moroccos-500-year-old-banks)
 - [The Internet is dead. Here's how to resurrect him](https://treshautdebit.substack.com/p/coder-son-site-web-dernier-geste?r=6414h5&triedRedirect=true)
 - [The Joy of Pachinko's Opening Credits - Pachinko Theme Song](https://www.townandcountrymag.com/leisure/arts-and-culture/a39538403/pachinko-opening-credits-theme-song/)
+- [The Kimwolf Botnet is Stalking Your Local Network – Krebs on Security](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [The next decade of the web | James' Coffee Blog](https://jamesg.blog/2024/05/19/next-web-decade/)
 - [The Next Thing You Smell Could Ruin Your Life | WIRED](https://www.wired.com/story/multiple-chemical-sensitivity-tilt-claudia-miller/)
 - [The Quantum Apocalypse Is Coming. Be Very Afraid | WIRED](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/)
@@ -675,8 +676,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [BroderPDX | Valkommen](https://www.broderpdx.com/)
 - [BUBBLE N TEA | Best Bubble Tea Cafe in Beaverton Portland | Beaverton, OR, USA](https://www.bubblenteas.com/)
 - [Burgerville Oregon Marionberry Shake](https://www.burgerville.com/menu/)  
+- [HANSIK TOWN | korean food beaverton | 20537 Southwest Tualatin Valley Highway, Beaverton, OR, USA](https://www.hansiktown.com/)
 - [Hapa Pizza](https://www.hapapizza.com/)
 - [JCD BBQ](https://www.jcdbbq.com/)
+- [KACHKA  - EAT. CLINK. DRINK. REPEAT.](https://www.kachkapdx.com)
 - [KOREANA RESTAURANT](https://www.yelp.com/biz/koreana-restaurant-beaverton)
 - [LOVELY’S FIFTY FIFTY](https://www.lovelys5050.com/)
 - [NAK WON KOREAN RESTAURANTpub - Yelp](https://www.yelp.com/biz/nak-won-korean-restaurant-beaverton-2)
@@ -966,6 +969,8 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Find Nearby ALPRs | DeFlock](https://deflock.me/)
 - [Locking down Signal](https://freedom.press/digisec/blog/locking-down-signal/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
+- [Synthient](https://synthient.com/check)
+- [The Kimwolf Botnet is Stalking Your Local Network – Krebs on Security](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search | WIRED](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)
 
 ## Programming and Web Dev
