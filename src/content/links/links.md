@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-01-03T20:08:59-08:00"
+date: "2026-01-13T10:25:38-08:00"
 slug: "links"
 ---
 
@@ -1054,6 +1054,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Tapestry • Your favorite blogs, social media, and more in a unified and chronological timeline](https://usetapestry.com/)
+
+## Smarthome
+
+- [Home | ECHONET](https://echonet.jp/english/)
 
 ## Tea
 

@@ -1,20 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-01-03T20:08:59-08:00"
+date: "2026-01-13T10:25:38-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> This is a good look at Flock and the damage they're doing to our civil liberties. We seem to have an abundance of self-appointed sheriff wanna-bes who just happen to be getting rich by subjecting us all to mass surveillance. I don't know who raised these kids, but they failed. [Flock Safety Loses Another City After CEO’s Email Backfires - YouTube](https://www.youtube.com/watch?v=hwbE5ks7dFg&t=952s)
+> I'm not a huge fan of what the US is becoming. You should not have to occupy your own cities unless you're afraid of something that you yourself have caused. Have the courage to allow people to be free again.
 
 ## Current Projects
 
-- Learning Korean
-- Expanding Paradigm's client base and launching its vulnerabilty management service
-- Building up my running distance again
-- Completely reexamining how I use the Yubikey
+- Japanese and Korean study (somewhat proficient in J, complete newb to K)
 
 ## Stuff I've recently enjoyed
 
@@ -23,16 +20,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![S1E9: Alison Tatlock & Darinka Arones](../../assets/images/oc_artwork/5856572281342479-b9024ba9-eb88-4de9-a87d-03084c66066d.png)](https://overcast.fm/+BTOhX5uSg8) [Pluribus: The Official Podcast – S1E9: Alison Tatlock & Darinka Arones](https://overcast.fm/+BTOhX5uSg8)
-[![154: Amber Lane Air Single Malt Whisky](../../assets/images/oc_artwork/5287027194445103-b1ac389e-c313-4b53-bb44-465d6ffbf85b.png)](https://overcast.fm/+BLIhfHXvS8) [Whisky Whiskey – 154: Amber Lane Air Single Malt Whisky](https://overcast.fm/+BLIhfHXvS8)
-[![Our 2026 Tech Predictions](../../assets/images/oc_artwork/5130549761683479-a359e227-cc89-499a-a400-819c50509e6a.png)](https://overcast.fm/+BI6NTQMMBc) [Comfort Zone – Our 2026 Tech Predictions](https://overcast.fm/+BI6NTQMMBc)
-[![156: Amber Lane Fire Single Malt Whisky](../../assets/images/oc_artwork/5287026726908033-3ee886ac-05c5-418f-98d8-2086c433d870.png)](https://overcast.fm/+BLIhdX5sIE) [Whisky Whiskey – 156: Amber Lane Fire Single Malt Whisky](https://overcast.fm/+BLIhdX5sIE)
-[![NC #1078 Unite Tutorial, George from Tulsa from Christmases Past, Grammar in a Fiction Editing Pipeline by Eddie Tonkoi, Bart Busschots on Email Sender Validation](../../assets/images/oc_artwork/5142864778660882-321d6eb4-4007-40f8-bc28-72955499ade6.png)](https://overcast.fm/+BJFaIRCjBI) [NosillaCast Apple Podcast – NC #1078 Unite Tutorial, George from Tulsa from Christmases Past, Grammar in a Fiction Editing Pipeline by Eddie Tonkoi, Bart Busschots on Email Sender Validation](https://overcast.fm/+BJFaIRCjBI)
-[![Episode 245 - Choosing Better Lines](../../assets/images/oc_artwork/470842161090776-c70815e1-afe1-4f88-a6d9-746c34e3b387.png)](https://overcast.fm/+GsOnvB0Ng) [Blurring The Lines Podcast – Episode 245 - Choosing Better Lines](https://overcast.fm/+GsOnvB0Ng)
-![672: Wi Hyphen Fi](../../assets/images/oc_artwork/5585875748646573-6518b60a-3486-41d8-87bd-77b687fd2285.png) Accidental Tech Podcast – 672: Wi Hyphen Fi
-[![155: Amber Lane Earth Single Malt Whisky](../../assets/images/oc_artwork/5287026887319864-a8a9140d-76e4-44fa-845d-37b73676f979.png)](https://overcast.fm/+BLIhd-JYTg) [Whisky Whiskey – 155: Amber Lane Earth Single Malt Whisky](https://overcast.fm/+BLIhd-JYTg)
-[![438: ‘2025 Year in Review’, With Rene Ritchie](../../assets/images/oc_artwork/135463845661257-9b2073ad-0ece-4f97-bbe0-96df0ab4ce49.png)](https://overcast.fm/+B7NCJmikk) [The Talk Show With John Gruber – 438: ‘2025 Year in Review’, With Rene Ritchie](https://overcast.fm/+B7NCJmikk)
-![F1 2026: The big stories to watch for (ad-free)](../../assets/images/oc_artwork/5523677882120520-15783fe3-c6ed-405e-a6a9-b5df0b1a9d41.png) The Race F1 Podcast (Members) – F1 2026: The big stories to watch for (ad-free)
+[![159: Penderyn Madeira Finish Single Malt Whisky](../../assets/images/oc_artwork/5287027167928086-4b10da97-ffb0-4e4b-bf81-640055952679.png)](https://overcast.fm/+BLIhfBDHxY) [Whisky Whiskey – 159: Penderyn Madeira Finish Single Malt Whisky](https://overcast.fm/+BLIhfBDHxY)
+[![Best of The Weekly Planet 2025](../../assets/images/oc_artwork/3737328801511821-cb9114a2-7750-4e01-9a79-3602087c09a1.png)](https://overcast.fm/+1HFKufeY0) [The Weekly Planet – Best of The Weekly Planet 2025](https://overcast.fm/+1HFKufeY0)
+[![Ep.129 【CES 2026】初参加🔥現地体験をもとに振り返り＆注目トレンド✨](../../assets/images/oc_artwork/4416667024458839-0fb8a06f-02f1-4841-924b-eb445dbe7166.png)](https://overcast.fm/+-w720VhFc) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.129 【CES 2026】初参加🔥現地体験をもとに振り返り＆注目トレンド✨](https://overcast.fm/+-w720VhFc)
+[![Between Two Nerds: Lights out!](../../assets/images/oc_artwork/4031461981326358-bdf9edbd-7e81-45e4-94a6-cf9e93ab62b6.png)](https://overcast.fm/+5Sl-NSjBY) [Risky Bulletin – Between Two Nerds: Lights out!](https://overcast.fm/+5Sl-NSjBY)
+![CEO Sam Reich on the business of subscription comedy](../../assets/images/oc_artwork/5816356079362690-a3a15d79-ba19-4cbc-8371-79ab2f00b3bc.png) Decoder: Ad-Free Edition – CEO Sam Reich on the business of subscription comedy
+[![NC #1079 Happy AppleCare Stories, iMazing Preserves Memories, Moen Smart Water Monitor, Donut Lab’s Solid State Battery](../../assets/images/oc_artwork/5142864888423579-eb1dd0c4-4815-4898-86b2-4d63c0f3eee3.png)](https://overcast.fm/+BJFaIrNZJs) [NosillaCast Apple Podcast – NC #1079 Happy AppleCare Stories, iMazing Preserves Memories, Moen Smart Water Monitor, Donut Lab’s Solid State Battery](https://overcast.fm/+BJFaIrNZJs)
+[![PBS Tidbit 16 — How Podfeet.com Works](../../assets/images/oc_artwork/640362552238830-bd778b61-1d42-4635-bb81-c9bda21818df.png)](https://overcast.fm/+JGaAZ0Iu4) [Programming By Stealth – PBS Tidbit 16 — How Podfeet.com Works](https://overcast.fm/+JGaAZ0Iu4)
+[![Sponsored: What AI workloads mean for Cloud security](../../assets/images/oc_artwork/4031461717828560-e2b390b2-cff2-4625-bc8b-9ee56d0f8c40.png)](https://overcast.fm/+5Sl9Od49A) [Risky Bulletin – Sponsored: What AI workloads mean for Cloud security](https://overcast.fm/+5Sl9Od49A)
+![A Very Nerdy Holiday Break](../../assets/images/oc_artwork/5561968626242983-caaa125e-dc28-41c7-9b8d-52541f7e7635.png) AppStories+ – A Very Nerdy Holiday Break
+![Who will be 2026 F1 champion? Hill and Herbert’s verdict | Stay On Track E3 [ad-free]](../../assets/images/oc_artwork/5853415787771139-c28fbe62-14b9-4159-9b04-f745023eaf97.png) Stay On Track with Damon Hill and Johnny Herbert – Who will be 2026 F1 champion? Hill and Herbert’s verdict | Stay On Track E3 [ad-free]
 
 </div>
 
@@ -44,20 +41,11 @@ slug: "now"
 ![The Convenience Store by the Sea • First Time Read • 2020 • Sonoko Machida • I didn't know what to think of this book initially. It felt slightly stilted, whether due to translation or not, I'm not sure. But I kept reading. And it started drawing me in by brilliantly building intertwined moments of social interactions and vignettes of character development. • Loved It!](../../assets/images/posts/png-image458cbadfd70-review-68981979-9b1f-4d9e-9ae9-1c29c838e7c5.png)](/images/posts/png-image458cbadfd70-review-68981979-9b1f-4d9e-9ae9-1c29c838e7c5.jpg)
 [<span hidden>Grid to Glory • 2025 • Alex Jacques • Alex Jacques is one of my favorite F1 commentators. His personality shines, and he's clearly a hard worker who knows what he's doing. The stories he's chosen for this book are compelling, but the writing style pulls me out of them. He uses sentence fragments instead of commas, and sometimes the background explanations are slightly muddled. Good, not great. • Decent</span>
 ![Grid to Glory • 2025 • Alex Jacques • Alex Jacques is one of my favorite F1 commentators. His personality shines, and he's clearly a hard worker who knows what he's doing. The stories he's chosen for this book are compelling, but the writing style pulls me out of them. He uses sentence fragments instead of commas, and sometimes the background explanations are slightly muddled. Good, not great. • Decent](../../assets/images/posts/png-image4dd09994160-review-c50952a1-62fd-4f67-a41d-85082a7e6f69.png)](/images/posts/png-image4dd09994160-review-c50952a1-62fd-4f67-a41d-85082a7e6f69.jpg)
-[<span hidden>First Contact • 2025 • Becky Ferreira • A delightful look at the science, superstitions, stories, and suppositions behind the search for alien life throughout history. • Loved It!</span>
-![First Contact • 2025 • Becky Ferreira • A delightful look at the science, superstitions, stories, and suppositions behind the search for alien life throughout history. • Loved It!](../../assets/images/posts/png-image447c967d8c0-review-c3a0b328-23e4-4f0e-bdf2-c3320ace2a6f.png)](/images/posts/png-image447c967d8c0-review-c3a0b328-23e4-4f0e-bdf2-c3320ace2a6f.jpg)
 
 ### Movies
 
 [<span hidden>The Perfect Neighbor • First Time Watch • 2025 • Geeta Gandbhir • You kind of have to be into crime documentaries to like this, but the real takeaway here is how stupid Stand Your Ground laws and the people who think they're a good idea are. Also, this lady was whack. • Liked It</span>
 ![The Perfect Neighbor • First Time Watch • 2025 • Geeta Gandbhir • You kind of have to be into crime documentaries to like this, but the real takeaway here is how stupid Stand Your Ground laws and the people who think they're a good idea are. Also, this lady was whack. • Liked It](../../assets/images/posts/png-image4c91b6db330-review-a705ca39-8f1d-429b-a3bd-f461b37a31ea.png)](/images/posts/png-image4c91b6db330-review-a705ca39-8f1d-429b-a3bd-f461b37a31ea.jpg)
-[<span hidden>Tinker Tailor Soldier Spy • 2011 • Tomas Alfredson • They don't make many movies like this anymore. Both intelligently written and yet not overly- wrought with twists and surprises, it's a subtly played movie staring Gary Oldman at his best, but with a stellar cast in general. Highly recommended. • Loved It!</span>
-![Tinker Tailor Soldier Spy • 2011 • Tomas Alfredson • They don't make many movies like this anymore. Both intelligently written and yet not overly- wrought with twists and surprises, it's a subtly played movie staring Gary Oldman at his best, but with a stellar cast in general. Highly recommended. • Loved It!](../../assets/images/posts/png-image48638ea78c0-review-3aedf0b6-0108-41da-a3e3-2096c4e6cd7e.png)](/images/posts/png-image48638ea78c0-review-3aedf0b6-0108-41da-a3e3-2096c4e6cd7e.jpg)
-
-### TV Shows
-
-[<span hidden>Plur1bus 1 • First Time Watch • 2025 • l've seen complaints about the slow pacing, but the people saying this must have never watched anything from Vince Gilligan before. He is NOT afraid to build a story. Season 1 was weird and compelling. Recommend! • Loved It!</span>
-![Plur1bus 1 • First Time Watch • 2025 • l've seen complaints about the slow pacing, but the people saying this must have never watched anything from Vince Gilligan before. He is NOT afraid to build a story. Season 1 was weird and compelling. Recommend! • Loved It!](../../assets/images/posts/png-image4af1b3adda0-review-8a0fdb3c-07a2-4fde-8c58-981674a73262.png)](/images/posts/png-image4af1b3adda0-review-8a0fdb3c-07a2-4fde-8c58-981674a73262.jpg)
 
 </div>
 
@@ -67,72 +55,72 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_ea0Y_83xmUA.png](../../assets/images/yt_thumbs/20260103195836_ea0Y_83xmUA.png)](https://www.youtube.com/watch?v=ea0Y_83xmUA)<div><p class="yt-video-channel">Channel – [ABS-CBN News](https://www.youtube.com/@abscbnnews)</p><p class="yt-video-title">
-[Witness to Swiss blaze 'shocked for life' after seeing victims burning | ABC-CBN News](https://www.youtube.com/watch?v=ea0Y_83xmUA)
+[![../../assets/images/yt_thumbs/20260113100501_SlXL7hEk3ZU.png](../../assets/images/yt_thumbs/20260113100501_SlXL7hEk3ZU.png)](https://www.youtube.com/watch?v=SlXL7hEk3ZU&t=2s)<div><p class="yt-video-channel">Channel – [Animamille🐰🐱 Travel to meet animals.](https://www.youtube.com/@animamille)</p><p class="yt-video-title">
+[8 Cats Welcomed Me to This Secret Guesthouse in Japan 🐱✨| Nostalgic Ryokan with Cats | Nekotamaru](https://www.youtube.com/watch?v=SlXL7hEk3ZU&t=2s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_rOjl2vFHLAY.png](../../assets/images/yt_thumbs/20260103195836_rOjl2vFHLAY.png)](https://www.youtube.com/watch?v=rOjl2vFHLAY)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
-[There is no f**king way he meant to say that..](https://www.youtube.com/watch?v=rOjl2vFHLAY)
+[![../../assets/images/yt_thumbs/20260113100501_Ns40tLYbtok.png](../../assets/images/yt_thumbs/20260113100501_Ns40tLYbtok.png)](https://www.youtube.com/watch?v=Ns40tLYbtok&t=1s)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
+[Minnesota Drops Bombshell that ROCKS Trump](https://www.youtube.com/watch?v=Ns40tLYbtok&t=1s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_VAFEmFSMfTg.png](../../assets/images/yt_thumbs/20260103195836_VAFEmFSMfTg.png)](https://www.youtube.com/watch?v=VAFEmFSMfTg)<div><p class="yt-video-channel">Channel – [StarTalk Plus](https://www.youtube.com/@StarTalkPlus)</p><p class="yt-video-title">
-[Will AI Ever Be Conscious?](https://www.youtube.com/watch?v=VAFEmFSMfTg)
+[![../../assets/images/yt_thumbs/20260113100501_Y2rPujI3HOc.png](../../assets/images/yt_thumbs/20260113100501_Y2rPujI3HOc.png)](https://www.youtube.com/watch?v=Y2rPujI3HOc&t=8s)<div><p class="yt-video-channel">Channel – [Steve Shives](https://www.youtube.com/@SteveShives)</p><p class="yt-video-title">
+[Can A.I. Predict Which Country Trump Will Invade Next?](https://www.youtube.com/watch?v=Y2rPujI3HOc&t=8s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_pDJ78giOUik.png](../../assets/images/yt_thumbs/20260103195836_pDJ78giOUik.png)](https://www.youtube.com/watch?v=pDJ78giOUik)<div><p class="yt-video-channel">Channel – [APT](https://www.youtube.com/@APT_NEWS)</p><p class="yt-video-title">
-["I Couldn’t Breathe!" Hero Risked Life Twice to Save Friends in Deadly Swiss Fire | APT](https://www.youtube.com/watch?v=pDJ78giOUik)
+[![../../assets/images/yt_thumbs/20260113100501_5Idb_D4Tdu8.png](../../assets/images/yt_thumbs/20260113100501_5Idb_D4Tdu8.png)](https://www.youtube.com/watch?v=5Idb_D4Tdu8&t=1593s)<div><p class="yt-video-channel">Channel – [GNCA - GamersNexus Consumer Advocacy](https://www.youtube.com/@GNCAInvestigates)</p><p class="yt-video-title">
+[Palantir Crashes Out in Response to GN](https://www.youtube.com/watch?v=5Idb_D4Tdu8&t=1593s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_oz7agKrhkps.png](../../assets/images/yt_thumbs/20260103195836_oz7agKrhkps.png)](https://www.youtube.com/watch?v=oz7agKrhkps)<div><p class="yt-video-channel">Channel – [jeffostroff](https://www.youtube.com/@jeffostroff)</p><p class="yt-video-title">
-[Seconds to Escape: Why Switzerland’s Deadly Flashover Fire Spread FAST](https://www.youtube.com/watch?v=oz7agKrhkps)
+[![../../assets/images/yt_thumbs/20260113100501_M9TJizOxNFk.png](../../assets/images/yt_thumbs/20260113100501_M9TJizOxNFk.png)](https://www.youtube.com/watch?v=M9TJizOxNFk)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](https://www.youtube.com/watch?v=M9TJizOxNFk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_1kA8Xj_0jqA.png](../../assets/images/yt_thumbs/20260103195836_1kA8Xj_0jqA.png)](https://www.youtube.com/watch?v=1kA8Xj_0jqA)<div><p class="yt-video-channel">Channel – [CBS News](https://www.youtube.com/@CBSNews)</p><p class="yt-video-title">
-[Swiss ski resort bar was packed with teens as deadly fire spread](https://www.youtube.com/watch?v=1kA8Xj_0jqA)
+[![../../assets/images/yt_thumbs/20260113100501_xV8_Xz285xg.png](../../assets/images/yt_thumbs/20260113100501_xV8_Xz285xg.png)](https://www.youtube.com/watch?v=xV8_Xz285xg)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[A321 Turns Back Shortly After Takeoff on Alaska AS923 | Captain Steeeve](https://www.youtube.com/watch?v=xV8_Xz285xg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_wBdVTpSXrV8.png](../../assets/images/yt_thumbs/20260103195836_wBdVTpSXrV8.png)](https://www.youtube.com/watch?v=wBdVTpSXrV8&t=72s)<div><p class="yt-video-channel">Channel – [Erin Talks Money](https://www.youtube.com/@ErinTalksMoney)</p><p class="yt-video-title">
-[STOP Contributing to Your 401(k)? The Truth No One Is Telling You](https://www.youtube.com/watch?v=wBdVTpSXrV8&t=72s)
+[![../../assets/images/yt_thumbs/20260113100501_-TP3h3zfy8Y.png](../../assets/images/yt_thumbs/20260113100501_-TP3h3zfy8Y.png)](https://www.youtube.com/watch?v=-TP3h3zfy8Y)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Every 2026 F1 driver line-up ranked from worst to best](https://www.youtube.com/watch?v=-TP3h3zfy8Y)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_Igc2vsBppwA.png](../../assets/images/yt_thumbs/20260103195836_Igc2vsBppwA.png)](https://www.youtube.com/watch?v=Igc2vsBppwA)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Gulf Air Aircraft Enters Active Runway as Plane Is Landing | Captain Steeeve Reacts](https://www.youtube.com/watch?v=Igc2vsBppwA)
+[![../../assets/images/yt_thumbs/20260113100501_0ANECpNdt-4.png](../../assets/images/yt_thumbs/20260113100501_0ANECpNdt-4.png)](https://www.youtube.com/watch?v=0ANECpNdt-4&t=31s)<div><p class="yt-video-channel">Channel – [media.ccc.de](https://www.youtube.com/@mediacccde)</p><p class="yt-video-title">
+[39C3 - AI Agent, AI Spy](https://www.youtube.com/watch?v=0ANECpNdt-4&t=31s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260103195836_PXsERGUtSPo.png](../../assets/images/yt_thumbs/20260103195836_PXsERGUtSPo.png)](https://www.youtube.com/watch?v=PXsERGUtSPo)<div><p class="yt-video-channel">Channel – [Dad, the engineer](https://www.youtube.com/@Dad-The-Engineer)</p><p class="yt-video-title">
-[Your TV is spying on you - Find out how, and turn it off!](https://www.youtube.com/watch?v=PXsERGUtSPo)
+[![../../assets/images/yt_thumbs/20260113100501_cXXdP9gTu9I.png](../../assets/images/yt_thumbs/20260113100501_cXXdP9gTu9I.png)](https://www.youtube.com/watch?v=cXXdP9gTu9I)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[A Different Kind of Tokyo House 🏠 #AkiyaHub #JapaneseHouse #VacationHome #Tokyo #Japan](https://www.youtube.com/watch?v=cXXdP9gTu9I)
 </p></div>
 
 </div>
