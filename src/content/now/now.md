@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-01-13T10:25:38-08:00"
+date: "2026-01-15T00:48:37-08:00"
 slug: "now"
 ---
 
@@ -55,72 +55,89 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_SlXL7hEk3ZU.png](../../assets/images/yt_thumbs/20260113100501_SlXL7hEk3ZU.png)](https://www.youtube.com/watch?v=SlXL7hEk3ZU&t=2s)<div><p class="yt-video-channel">Channel – [Animamille🐰🐱 Travel to meet animals.](https://www.youtube.com/@animamille)</p><p class="yt-video-title">
-[8 Cats Welcomed Me to This Secret Guesthouse in Japan 🐱✨| Nostalgic Ryokan with Cats | Nekotamaru](https://www.youtube.com/watch?v=SlXL7hEk3ZU&t=2s)
+
+[![../../assets/images/yt_thumbs/20260115004444_h7dbkDcb3hA.png](../../assets/images/yt_thumbs/20260115004444_h7dbkDcb3hA.png) ](https://www.youtube.com/watch?v=h7dbkDcb3hA)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](https://www.youtube.com/watch?v=h7dbkDcb3hA)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_Ns40tLYbtok.png](../../assets/images/yt_thumbs/20260113100501_Ns40tLYbtok.png)](https://www.youtube.com/watch?v=Ns40tLYbtok&t=1s)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[Minnesota Drops Bombshell that ROCKS Trump](https://www.youtube.com/watch?v=Ns40tLYbtok&t=1s)
+
+[![../../assets/images/yt_thumbs/20260115004444_5vp9ypOUgMw.png](../../assets/images/yt_thumbs/20260115004444_5vp9ypOUgMw.png) ](https://www.youtube.com/watch?v=5vp9ypOUgMw)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Even Linus is vibe coding now....](https://www.youtube.com/watch?v=5vp9ypOUgMw)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_Y2rPujI3HOc.png](../../assets/images/yt_thumbs/20260113100501_Y2rPujI3HOc.png)](https://www.youtube.com/watch?v=Y2rPujI3HOc&t=8s)<div><p class="yt-video-channel">Channel – [Steve Shives](https://www.youtube.com/@SteveShives)</p><p class="yt-video-title">
-[Can A.I. Predict Which Country Trump Will Invade Next?](https://www.youtube.com/watch?v=Y2rPujI3HOc&t=8s)
+
+[![../../assets/images/yt_thumbs/20260115004444_BWAr7gTkll8.png](../../assets/images/yt_thumbs/20260115004444_BWAr7gTkll8.png) ](https://www.youtube.com/watch?v=BWAr7gTkll8)<div><p class="yt-video-channel">Channel – [The AI Advantage](https://www.youtube.com/@aiadvantage)</p><p class="yt-video-title">
+[Claude Cowork is Here! Full Breakdown + Testing](https://www.youtube.com/watch?v=BWAr7gTkll8)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_5Idb_D4Tdu8.png](../../assets/images/yt_thumbs/20260113100501_5Idb_D4Tdu8.png)](https://www.youtube.com/watch?v=5Idb_D4Tdu8&t=1593s)<div><p class="yt-video-channel">Channel – [GNCA - GamersNexus Consumer Advocacy](https://www.youtube.com/@GNCAInvestigates)</p><p class="yt-video-title">
-[Palantir Crashes Out in Response to GN](https://www.youtube.com/watch?v=5Idb_D4Tdu8&t=1593s)
+
+[![../../assets/images/yt_thumbs/20260115004444_WIzdno4QhXc.png](../../assets/images/yt_thumbs/20260115004444_WIzdno4QhXc.png) ](https://www.youtube.com/watch?v=WIzdno4QhXc)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
+[BREAKING: ICE has shot ANOTHER person in Minneapolis](https://www.youtube.com/watch?v=WIzdno4QhXc)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_M9TJizOxNFk.png](../../assets/images/yt_thumbs/20260113100501_M9TJizOxNFk.png)](https://www.youtube.com/watch?v=M9TJizOxNFk)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](https://www.youtube.com/watch?v=M9TJizOxNFk)
+
+[![../../assets/images/yt_thumbs/20260115004444_F7WFQYGaL3A.png](../../assets/images/yt_thumbs/20260115004444_F7WFQYGaL3A.png) ](https://www.youtube.com/watch?v=F7WFQYGaL3A&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Ron](https://www.youtube.com/@Ron-RisingSunProperties)</p><p class="yt-video-title">
+[Remodeled Akiya in South Osaka - 45KUSD - Japan Home Tour](https://www.youtube.com/watch?v=F7WFQYGaL3A&pp=0gcJCU8KAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_xV8_Xz285xg.png](../../assets/images/yt_thumbs/20260113100501_xV8_Xz285xg.png)](https://www.youtube.com/watch?v=xV8_Xz285xg)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[A321 Turns Back Shortly After Takeoff on Alaska AS923 | Captain Steeeve](https://www.youtube.com/watch?v=xV8_Xz285xg)
+
+[![../../assets/images/yt_thumbs/20260115004444_ohLKvvTfYF4.png](../../assets/images/yt_thumbs/20260115004444_ohLKvvTfYF4.png) ](https://www.youtube.com/watch?v=ohLKvvTfYF4)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[Southwest Pilots Tried to Take Off on a Taxiway?! | What Happens After a Major Mistake](https://www.youtube.com/watch?v=ohLKvvTfYF4)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_-TP3h3zfy8Y.png](../../assets/images/yt_thumbs/20260113100501_-TP3h3zfy8Y.png)](https://www.youtube.com/watch?v=-TP3h3zfy8Y)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Every 2026 F1 driver line-up ranked from worst to best](https://www.youtube.com/watch?v=-TP3h3zfy8Y)
+
+[![../../assets/images/yt_thumbs/20260115004444_OqGnRXed1wM.png](../../assets/images/yt_thumbs/20260115004444_OqGnRXed1wM.png) ](https://www.youtube.com/watch?v=OqGnRXed1wM)<div><p class="yt-video-channel">Channel – [Kazuki Yuda](https://www.youtube.com/@kazukiyuda_touch_english)</p><p class="yt-video-title">
+[Japan Immigration Law Revision: Expanded Permanent Resident Cancellation Grounds & 3 Key Cases](https://www.youtube.com/watch?v=OqGnRXed1wM)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_0ANECpNdt-4.png](../../assets/images/yt_thumbs/20260113100501_0ANECpNdt-4.png)](https://www.youtube.com/watch?v=0ANECpNdt-4&t=31s)<div><p class="yt-video-channel">Channel – [media.ccc.de](https://www.youtube.com/@mediacccde)</p><p class="yt-video-title">
-[39C3 - AI Agent, AI Spy](https://www.youtube.com/watch?v=0ANECpNdt-4&t=31s)
+
+[![../../assets/images/yt_thumbs/20260115004444_fRnZWvJmKfk.png](../../assets/images/yt_thumbs/20260115004444_fRnZWvJmKfk.png) ](https://www.youtube.com/watch?v=fRnZWvJmKfk)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[Pilot Asks “Any Feds There?” Before Landing on a CLOSED Runway](https://www.youtube.com/watch?v=fRnZWvJmKfk)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260113100501_cXXdP9gTu9I.png](../../assets/images/yt_thumbs/20260113100501_cXXdP9gTu9I.png)](https://www.youtube.com/watch?v=cXXdP9gTu9I)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
-[A Different Kind of Tokyo House 🏠 #AkiyaHub #JapaneseHouse #VacationHome #Tokyo #Japan](https://www.youtube.com/watch?v=cXXdP9gTu9I)
+
+[![../../assets/images/yt_thumbs/20260115004444_6WvllRKPrx0.png](../../assets/images/yt_thumbs/20260115004444_6WvllRKPrx0.png) ](https://www.youtube.com/watch?v=6WvllRKPrx0)<div><p class="yt-video-channel">Channel – [JakeSimRacing](https://www.youtube.com/@JakeSimRacing)</p><p class="yt-video-title">
+[Racing's Most Brutal Accident: Takashi Yokoyama, Fuji 1997](https://www.youtube.com/watch?v=6WvllRKPrx0)
 </p></div>
 
 </div>
