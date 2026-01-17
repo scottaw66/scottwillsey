@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-01-15T00:48:37-08:00"
+date: "2026-01-17T14:39:55-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I'm not a huge fan of what the US is becoming. You should not have to occupy your own cities unless you're afraid of something that you yourself have caused. Have the courage to allow people to be free again.
+> Took some time off today to do some website script related refactoring and adding some niceties. Also working on my Claude and Claude Code workflows, integrating their new capabilities a bit better.
 
 ## Current Projects
 
@@ -20,16 +20,16 @@ slug: "now"
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
 <div class="podcast-episodes">
 
-[![159: Penderyn Madeira Finish Single Malt Whisky](../../assets/images/oc_artwork/5287027167928086-4b10da97-ffb0-4e4b-bf81-640055952679.png)](https://overcast.fm/+BLIhfBDHxY) [Whisky Whiskey – 159: Penderyn Madeira Finish Single Malt Whisky](https://overcast.fm/+BLIhfBDHxY)
-[![Best of The Weekly Planet 2025](../../assets/images/oc_artwork/3737328801511821-cb9114a2-7750-4e01-9a79-3602087c09a1.png)](https://overcast.fm/+1HFKufeY0) [The Weekly Planet – Best of The Weekly Planet 2025](https://overcast.fm/+1HFKufeY0)
-[![Ep.129 【CES 2026】初参加🔥現地体験をもとに振り返り＆注目トレンド✨](../../assets/images/oc_artwork/4416667024458839-0fb8a06f-02f1-4841-924b-eb445dbe7166.png)](https://overcast.fm/+-w720VhFc) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.129 【CES 2026】初参加🔥現地体験をもとに振り返り＆注目トレンド✨](https://overcast.fm/+-w720VhFc)
-[![Between Two Nerds: Lights out!](../../assets/images/oc_artwork/4031461981326358-bdf9edbd-7e81-45e4-94a6-cf9e93ab62b6.png)](https://overcast.fm/+5Sl-NSjBY) [Risky Bulletin – Between Two Nerds: Lights out!](https://overcast.fm/+5Sl-NSjBY)
-![CEO Sam Reich on the business of subscription comedy](../../assets/images/oc_artwork/5816356079362690-a3a15d79-ba19-4cbc-8371-79ab2f00b3bc.png) Decoder: Ad-Free Edition – CEO Sam Reich on the business of subscription comedy
-[![NC #1079 Happy AppleCare Stories, iMazing Preserves Memories, Moen Smart Water Monitor, Donut Lab’s Solid State Battery](../../assets/images/oc_artwork/5142864888423579-eb1dd0c4-4815-4898-86b2-4d63c0f3eee3.png)](https://overcast.fm/+BJFaIrNZJs) [NosillaCast Apple Podcast – NC #1079 Happy AppleCare Stories, iMazing Preserves Memories, Moen Smart Water Monitor, Donut Lab’s Solid State Battery](https://overcast.fm/+BJFaIrNZJs)
-[![PBS Tidbit 16 — How Podfeet.com Works](../../assets/images/oc_artwork/640362552238830-bd778b61-1d42-4635-bb81-c9bda21818df.png)](https://overcast.fm/+JGaAZ0Iu4) [Programming By Stealth – PBS Tidbit 16 — How Podfeet.com Works](https://overcast.fm/+JGaAZ0Iu4)
-[![Sponsored: What AI workloads mean for Cloud security](../../assets/images/oc_artwork/4031461717828560-e2b390b2-cff2-4625-bc8b-9ee56d0f8c40.png)](https://overcast.fm/+5Sl9Od49A) [Risky Bulletin – Sponsored: What AI workloads mean for Cloud security](https://overcast.fm/+5Sl9Od49A)
-![A Very Nerdy Holiday Break](../../assets/images/oc_artwork/5561968626242983-caaa125e-dc28-41c7-9b8d-52541f7e7635.png) AppStories+ – A Very Nerdy Holiday Break
-![Who will be 2026 F1 champion? Hill and Herbert’s verdict | Stay On Track E3 [ad-free]](../../assets/images/oc_artwork/5853415787771139-c28fbe62-14b9-4159-9b04-f745023eaf97.png) Stay On Track with Damon Hill and Johnny Herbert – Who will be 2026 F1 champion? Hill and Herbert’s verdict | Stay On Track E3 [ad-free]
+[![160: Arran 23 Year Old Drumadoon Point Single Malt Whisky](../../assets/images/oc_artwork/5287026770402833-0d3b6685-fcbf-448f-bf4f-0794e9e458d0.png)](https://overcast.fm/+BLIhdiRXhE) [Whisky Whiskey – 160: Arran 23 Year Old Drumadoon Point Single Malt Whisky](https://overcast.fm/+BLIhdiRXhE)
+[![Clawdbot, Animal Crossing, and Mark Wahlberg](../../assets/images/oc_artwork/5891753348151588-7ba7314a-c216-4f35-ad0c-958f9de59fd7.png)](https://overcast.fm/+BTuhLlruSQ) [MacStories Unwind – Clawdbot, Animal Crossing, and Mark Wahlberg](https://overcast.fm/+BTuhLlruSQ)
+[![674: A Reliable, Boring Partner](../../assets/images/oc_artwork/5585875974237813-4cc31428-ae08-47d9-be01-fdb9cce986e6.png)](https://atp.fm/674) [Accidental Tech Podcast – 674: A Reliable, Boring Partner](https://atp.fm/674)
+[![40 Years of Phrack](../../assets/images/oc_artwork/1107267050430183-31aabafc-31cb-4180-8647-7861054fb140.png)](https://overcast.fm/+PvDbM2Xuc) [Firewalls Don't Stop Dragons Podcast – 40 Years of Phrack](https://overcast.fm/+PvDbM2Xuc)
+![Red Bull and Verstappen kick-off F1 launch season - but what did we learn? (ad-free)](../../assets/images/oc_artwork/5523677736304192-080ba787-f454-463c-9314-af6fb0348070.png) The Race F1 Podcast (Members) – Red Bull and Verstappen kick-off F1 launch season - but what did we learn? (ad-free)
+![How we covered an awkward Red Bull and Ford 2026 launch](../../assets/images/oc_artwork/5523677882650712-068f71f4-a992-4f48-8832-52b998fc0c10.png) The Race F1 Podcast (Members) – How we covered an awkward Red Bull and Ford 2026 launch
+[![Risky Bulletin: China bans Israeli and US cybersecurity products](../../assets/images/oc_artwork/4031462374049768-c5993789-7511-4a85-b812-d1b509d000d3.png)](https://overcast.fm/+5Sl_q7B-g) [Risky Bulletin – Risky Bulletin: China bans Israeli and US cybersecurity products](https://overcast.fm/+5Sl_q7B-g)
+[![Are You Predicting Doom?](../../assets/images/oc_artwork/5130549017653013-f8e4b84f-eb97-4bf9-9a16-5db053766206.png)](https://overcast.fm/+BI6NQezLxU) [Comfort Zone – Are You Predicting Doom?](https://overcast.fm/+BI6NQezLxU)
+![F1 Extra: Will the new regs lead to more accidents? Your questions answered](../../assets/images/oc_artwork/5523677162251349-85e308a2-1e19-4bd4-8e9e-24b96ff7304a.png) The Race F1 Podcast (Members) – F1 Extra: Will the new regs lead to more accidents? Your questions answered
+[![Chapter 5: The Zodiac Motel](../../assets/images/oc_artwork/5934349594551705-81e36a6e-ebee-4c05-839d-bff456809885.png)](https://overcast.fm/+BUVQm-OZZk) [Killer In The Code – Chapter 5: The Zodiac Motel](https://overcast.fm/+BUVQm-OZZk)
 
 </div>
 
@@ -55,99 +55,74 @@ slug: "now"
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_h7dbkDcb3hA.png](../../assets/images/yt_thumbs/20260115004444_h7dbkDcb3hA.png) ](https://www.youtube.com/watch?v=h7dbkDcb3hA)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](https://www.youtube.com/watch?v=h7dbkDcb3hA)
+[![../../assets/images/yt_thumbs/20260117142344_Czv9RvVlb7c.png](../../assets/images/yt_thumbs/20260117142344_Czv9RvVlb7c.png)](https://www.youtube.com/watch?v=Czv9RvVlb7c&t=460s)<div><p class="yt-video-channel">Channel – [Andy Chats F1](https://www.youtube.com/@andychatsf1)</p><p class="yt-video-title">
+[The Day Alain Prost Had No Fuel & Still HUMILIATED His Rivals](https://www.youtube.com/watch?v=Czv9RvVlb7c&t=460s)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_5vp9ypOUgMw.png](../../assets/images/yt_thumbs/20260115004444_5vp9ypOUgMw.png) ](https://www.youtube.com/watch?v=5vp9ypOUgMw)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Even Linus is vibe coding now....](https://www.youtube.com/watch?v=5vp9ypOUgMw)
+[![../../assets/images/yt_thumbs/20260117142344_vPPAhTYoCdA.png](../../assets/images/yt_thumbs/20260117142344_vPPAhTYoCdA.png)](https://www.youtube.com/watch?v=vPPAhTYoCdA&t=178s)<div><p class="yt-video-channel">Channel – [Eric Tech](https://www.youtube.com/@EricWTech)</p><p class="yt-video-title">
+[Claude Code Just Got Way Better | Auto Claude Kanban Boards](https://www.youtube.com/watch?v=vPPAhTYoCdA&t=178s)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_BWAr7gTkll8.png](../../assets/images/yt_thumbs/20260115004444_BWAr7gTkll8.png) ](https://www.youtube.com/watch?v=BWAr7gTkll8)<div><p class="yt-video-channel">Channel – [The AI Advantage](https://www.youtube.com/@aiadvantage)</p><p class="yt-video-title">
-[Claude Cowork is Here! Full Breakdown + Testing](https://www.youtube.com/watch?v=BWAr7gTkll8)
+[![../../assets/images/yt_thumbs/20260117142344_qtWFowQIaRc.png](../../assets/images/yt_thumbs/20260117142344_qtWFowQIaRc.png)](https://www.youtube.com/watch?v=qtWFowQIaRc)<div><p class="yt-video-channel">Channel – [eXtreme](https://www.youtube.com/@TheExtreme-Edge)</p><p class="yt-video-title">
+[The Terrifying Last Minutes of Todd Skinner](https://www.youtube.com/watch?v=qtWFowQIaRc)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_WIzdno4QhXc.png](../../assets/images/yt_thumbs/20260115004444_WIzdno4QhXc.png) ](https://www.youtube.com/watch?v=WIzdno4QhXc)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
-[BREAKING: ICE has shot ANOTHER person in Minneapolis](https://www.youtube.com/watch?v=WIzdno4QhXc)
+[![../../assets/images/yt_thumbs/20260117142344_Yr9O6KFwbW4.png](../../assets/images/yt_thumbs/20260117142344_Yr9O6KFwbW4.png)](https://www.youtube.com/watch?v=Yr9O6KFwbW4)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[We need to talk about Ralph](https://www.youtube.com/watch?v=Yr9O6KFwbW4)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_F7WFQYGaL3A.png](../../assets/images/yt_thumbs/20260115004444_F7WFQYGaL3A.png) ](https://www.youtube.com/watch?v=F7WFQYGaL3A&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Ron](https://www.youtube.com/@Ron-RisingSunProperties)</p><p class="yt-video-title">
-[Remodeled Akiya in South Osaka - 45KUSD - Japan Home Tour](https://www.youtube.com/watch?v=F7WFQYGaL3A&pp=0gcJCU8KAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260117142344_h5ZulhWZADI.png](../../assets/images/yt_thumbs/20260117142344_h5ZulhWZADI.png)](https://www.youtube.com/watch?v=h5ZulhWZADI)<div><p class="yt-video-channel">Channel – [C.W. Lemoine](https://www.youtube.com/@CWLemoine)</p><p class="yt-video-title">
+[Jeju Air 737 Crash Update - Cockpit Communications Analyzed](https://www.youtube.com/watch?v=h5ZulhWZADI)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_ohLKvvTfYF4.png](../../assets/images/yt_thumbs/20260115004444_ohLKvvTfYF4.png) ](https://www.youtube.com/watch?v=ohLKvvTfYF4)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Southwest Pilots Tried to Take Off on a Taxiway?! | What Happens After a Major Mistake](https://www.youtube.com/watch?v=ohLKvvTfYF4)
+[![../../assets/images/yt_thumbs/20260117142344_KQlAz19tzY4.png](../../assets/images/yt_thumbs/20260117142344_KQlAz19tzY4.png)](https://www.youtube.com/watch?v=KQlAz19tzY4)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[How Esteban Ocon Spends Time Away From Racing | Off The Grid](https://www.youtube.com/watch?v=KQlAz19tzY4)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_OqGnRXed1wM.png](../../assets/images/yt_thumbs/20260115004444_OqGnRXed1wM.png) ](https://www.youtube.com/watch?v=OqGnRXed1wM)<div><p class="yt-video-channel">Channel – [Kazuki Yuda](https://www.youtube.com/@kazukiyuda_touch_english)</p><p class="yt-video-title">
-[Japan Immigration Law Revision: Expanded Permanent Resident Cancellation Grounds & 3 Key Cases](https://www.youtube.com/watch?v=OqGnRXed1wM)
+[![../../assets/images/yt_thumbs/20260117142344_-eymH7PIh2c.png](../../assets/images/yt_thumbs/20260117142344_-eymH7PIh2c.png)](https://www.youtube.com/watch?v=-eymH7PIh2c)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[New NTSB Findings Raise Serious Questions About UPS Crash](https://www.youtube.com/watch?v=-eymH7PIh2c)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_fRnZWvJmKfk.png](../../assets/images/yt_thumbs/20260115004444_fRnZWvJmKfk.png) ](https://www.youtube.com/watch?v=fRnZWvJmKfk)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Pilot Asks “Any Feds There?” Before Landing on a CLOSED Runway](https://www.youtube.com/watch?v=fRnZWvJmKfk)
+[![../../assets/images/yt_thumbs/20260117142344_aCaUE0HBjNM.png](../../assets/images/yt_thumbs/20260117142344_aCaUE0HBjNM.png)](https://www.youtube.com/watch?v=aCaUE0HBjNM&t=453s)<div><p class="yt-video-channel">Channel – [Japan Animal Travels](https://www.youtube.com/@JapanAnimalTravels)</p><p class="yt-video-title">
+[80 Cats!? Inside Japan’s Dreamiest Cat Hotel!🐈🏨](https://www.youtube.com/watch?v=aCaUE0HBjNM&t=453s)
 </p></div>
 
 </div>
-
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260115004444_6WvllRKPrx0.png](../../assets/images/yt_thumbs/20260115004444_6WvllRKPrx0.png) ](https://www.youtube.com/watch?v=6WvllRKPrx0)<div><p class="yt-video-channel">Channel – [JakeSimRacing](https://www.youtube.com/@JakeSimRacing)</p><p class="yt-video-title">
-[Racing's Most Brutal Accident: Takashi Yokoyama, Fuji 1997](https://www.youtube.com/watch?v=6WvllRKPrx0)
+[![../../assets/images/yt_thumbs/20260117142344_yKKqxLLJCm4.png](../../assets/images/yt_thumbs/20260117142344_yKKqxLLJCm4.png)](https://www.youtube.com/watch?v=yKKqxLLJCm4&pp=0gcJCU8KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Matt Maher](https://www.youtube.com/@MetalSole)</p><p class="yt-video-title">
+[Claude Code's Chrome Extension Does Way More Than You Think](https://www.youtube.com/watch?v=yKKqxLLJCm4&pp=0gcJCU8KAYcqIYzv)
 </p></div>
 
 </div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![KACHKA  - EAT. CLINK. DRINK. REPEAT.](../../assets/images/food_thumbs/Kachka-9BE330F1-3CFD-485A-8AC9-A964A387B4E4.png)](https://www.kachkapdx.com) [KACHKA  - EAT. CLINK. DRINK. REPEAT.](https://www.kachkapdx.com)
 
 </div>
