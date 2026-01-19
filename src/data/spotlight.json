@@ -1,6 +1,6 @@
 {
-  "Site": "https://clocks.brianmoore.com",
-  "Title": "AI World Clocks",
-  "Description": "The current time as rendered by 9 different AI models. By Brian Moore.\n\nThis may be the single funniest website I've ever seen.",
-  "Image": "AIWorldClocks-E8F7CC33-1EC4-405A-AADC-52545B8D825B"
+    "Site": "https://loggingsucks.com",
+    "Title": "Logging Sucks - Your Logs Are Lying To You",
+    "Description": "Why traditional logging fails and how wide events can fix your observability",
+    "Image": "LoggingSucks-3F5D5CC7-DA2D-4DC0-A0FA-79480BDBC270"
 }

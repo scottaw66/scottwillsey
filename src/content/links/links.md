@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-01-13T10:25:38-08:00"
+date: "2026-01-18T19:44:13-08:00"
 slug: "links"
 ---
 
@@ -556,6 +556,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [1Crossword: crosswords for your password manager · eieio.games](https://eieio.games/blog/1Crossword/)
 - [88x31 Web Button Maker](https://hekate2.github.io/buttonmaker/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
+- [AI World Clocks](https://clocks.brianmoore.com)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [Are you a bot?](https://www.invisiclues.org/)
 - [A Webring Kit | Max Böck](https://mxb.dev/blog/webring-kit/)
@@ -817,6 +818,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Folder Peek — Sindre Sorhus](https://sindresorhus.com/folder-peek)
 - [FoodNoms Nutrition Tracker | Simple, Privacy-Friendly MyFitnessPal Alternative](https://www.foodnoms.com/)
 - [Framecap - A CLI Screen Recorder for macOS](https://framecap.app/)
+- [Free Software Menu – The Eclectic Light Company](https://eclecticlight.co/free-software-menu/)
 - [Git Diff and Merge Tool and Text Comparison | Kaleidoscope](https://kaleidoscope.app/)
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
 - [HomeCam for HomeKit](https://homecam.app/)
@@ -988,6 +990,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
 - [CSS Generators — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-generators/)
+- [CSS min() All The Things — Smashing Magazine](https://www.smashingmagazine.com/2024/10/css-min-all-the-things/)
 - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project)
 - [CSS subgrid vs nested grid — are they the same? | Annalytic.com](https://www.annalytic.com/css-subgrid-vs-nested-grid.html)
 - [CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
@@ -1010,6 +1013,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Lens \- Check your meta tags, icons, and rss feeds](https://lens.rknight.me/)
 - [Lesser known parts of Python standard library – Trickster Dev](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
+- [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)
 - [Man Reader 2](https://apps.apple.com/us/app/man-reader/id522583774?mt=12)
 - [Material Line Icons - 1021 open source icons - Iconify](https://icon-sets.iconify.design/line-md/)
 - [Methods for Overriding Styles in WordPress | CSS-Tricks](https://css-tricks.com/methods-overriding-styles-wordpress/)
