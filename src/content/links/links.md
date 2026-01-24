@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-01-18T19:44:13-08:00"
+date: "2026-01-24T10:26:47-08:00"
 slug: "links"
 ---
 
@@ -597,6 +597,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Lex's Games by Lex Friedman](https://lex.games/)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
+- [Logging Sucks – Your Logs Are Lying To You](https://loggingsucks.com/)
 - [Lumon Industries](https://lumon.industries)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [Making A Plan](https://millionexperiments.com/zines/making-a-plan)

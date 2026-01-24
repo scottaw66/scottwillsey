@@ -1,6 +1,6 @@
 {
-    "Site": "https://loggingsucks.com",
-    "Title": "Logging Sucks - Your Logs Are Lying To You",
-    "Description": "Why traditional logging fails and how wide events can fix your observability",
-    "Image": "LoggingSucks-3F5D5CC7-DA2D-4DC0-A0FA-79480BDBC270"
+  "Site": "https://tools.simonwillison.net/terminal-to-html",
+  "Title": "Terminal to HTML",
+  "Description": "Convert terminal output into shareable HTML documents with support for colored text formatting. Paste terminal output in RTF, HTML, or plain text format, and the tool instantly generates clean HTML code ready for preview or export. Save your conversions as GitHub Gists for easy sharing and collaboration.",
+  "Image": "TerminalToHTML-71CD1962-0FFE-4B4B-8795-ED13437FB33A"
 }
