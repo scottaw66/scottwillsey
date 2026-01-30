@@ -1,6 +1,6 @@
 {
-  "Site": "https://tools.simonwillison.net/terminal-to-html",
-  "Title": "Terminal to HTML",
-  "Description": "Convert terminal output into shareable HTML documents with support for colored text formatting. Paste terminal output in RTF, HTML, or plain text format, and the tool instantly generates clean HTML code ready for preview or export. Save your conversions as GitHub Gists for easy sharing and collaboration.",
-  "Image": "TerminalToHTML-71CD1962-0FFE-4B4B-8795-ED13437FB33A"
+  "Site": "https://quickstuff.app",
+  "Title": "Quick Stuff - Handy Lil' Tools",
+  "Description": "A few handy lil' tools to make your life a bit easier",
+  "Image": "QuickStuff-B9560905-6446-488F-89E2-0A6606528074"
 }

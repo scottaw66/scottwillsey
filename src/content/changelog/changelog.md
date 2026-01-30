@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2026-01-30
+
+Created a cli dashboard for running all my site related scripts from in one place.
+
 ### 2025-12-28
 
 Added auto-creation of link posts to my new blog post scripts, grabbing hashtags from the bottom of the post to use in the frontmatter keywords field (called tags on the website), and fixed link post indicator icons.

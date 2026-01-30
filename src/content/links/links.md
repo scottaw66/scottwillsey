@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-01-24T10:46:59-08:00"
+date: "2026-01-30T11:25:37-08:00"
 slug: "links"
 ---
 
@@ -25,9 +25,11 @@ slug: "links"
 - [Interconnects | Nathan Lambert | Substack](https://www.interconnects.ai/)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
+- [Nanobot - Open Source MCP Agent Framework](https://www.nanobot.ai/)
 - [Nate’s Substack | Substack](https://natesnewsletter.substack.com/)
 - [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)
 - [OpenAI Codex](https://openai.com/codex/)
+- [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
 - [Orchard - Bridge AI Assistants to Your Apple Ecosystem](https://orchard.5km.tech/)
 - [Peter Steinberger](https://steipete.me/)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
@@ -105,11 +107,13 @@ slug: "links"
 - [I’m a US citizen and a veteran. ICE arrested me for no reason.](https://newsletter.ofthebrave.org/p/im-a-us-citizen-and-a-veteran-ice)
 - [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet - Ars Technica](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
 - [Infinite Mac OS X | persistent.info](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+- [Internet est mort. Voici comment le ressusciter](https://treshautdebit.substack.com/p/coder-son-site-web-dernier-geste?r=6414h5&triedRedirect=true)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Is Your Friend or Family Member Spiraling Into AI Psychosis? This Group May Be Able to Help](https://futurism.com/artificial-intelligence/group-breaking-people-out-of-ai-delusions)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Know Your Rights in Encounters with Law Enforcement and Military Troops | American Civil Liberties Union](https://www.aclu.org/news/national-security/know-your-rights-in-encounters-with-law-enforcement-and-military-troops)
+- [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)
 - [Lumon Industries WoeMeter | make3](https://make3.co/work/woemeter)
 - [Manifesto for a Humane Web](https://humanewebmanifesto.com/)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
@@ -638,6 +642,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/)
 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 - [Terminal of Woe](https://codea.io/woe/)
+- [Terminal to HTML](https://tools.simonwillison.net/terminal-to-html)
 - [Terrible Captchas](https://terrible-captchas.vercel.app/)
 - [The Authoritarian Stack](https://www.authoritarian-stack.info)
 - [The Internet Used to Be Fun](https://projects.kwon.nyc/internet-is-fun/)
@@ -1119,7 +1124,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Codesmith](https://www.youtube.com/@Codesmith)
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo ](https://www.youtube.com/@cultrepo)
+- [CultRepo](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [Cybernews](https://www.youtube.com/@cybernews)
 - [Dad, the engineer](https://www.youtube.com/@Dad-The-Engineer)
@@ -1135,7 +1140,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Ecamm Live](https://www.youtube.com/@EcammLive)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Epic Spaceman](https://www.youtube.com/@EpicSpaceman)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
@@ -1189,7 +1194,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
-- [Lingopie ](https://www.youtube.com/@LingopieTV)
+- [Lingopie](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1234,7 +1239,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
 - [Rick Mulready](https://www.youtube.com/@RickMulready)

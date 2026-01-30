@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-01-24T10:26:47-08:00"
+date: "2026-01-30T11:25:37-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Created a cli dashboard for my website related utility scripts, which is nice - one place to run them all that does not depend on Shortcuts for anything.
+> I have been playing with Clawdbot/Moltbot/[OpenClaw](https://openclaw.ai/), and there are some fascinating things about it, and some utterly enraging things about it, and some quite dangerous things about it. I'm not a person that likes huge fanaticism around things, and it's definitely getting that. But there are some aspects of it that do seem like the future of AI agents.
 
 ## Current Projects
 
@@ -18,18 +18,19 @@ slug: "now"
 ### Podcasts
 
 *Podcast episodes without links are members-only but I think are interesting enough to post in case you want to investigate them.*
+
 <div class="podcast-episodes">
 
-![Alpine unveils new livery on cruise ship - but will the team sink or swim in 2026? (ad-free)](../../assets/images/oc_artwork/5523677093033362-8f2b32e4-99f9-4dbb-b5cc-3d61db2f2c3a.png) The Race F1 Podcast (Members) – Alpine unveils new livery on cruise ship - but will the team sink or swim in 2026? (ad-free)
-![Exposing the People Behind Deepfake Porn Sites with Bellingcat Investigator Kolina Koltai](../../assets/images/oc_artwork/5121671585969039-84d34a1f-125c-44db-902f-78df296f82d9.png) The 404 Media Podcast (Premium Feed) – Exposing the People Behind Deepfake Porn Sites with Bellingcat Investigator Kolina Koltai
-![Ferrari launches new car + Why Williams are missing crucial first test (ad-free)](../../assets/images/oc_artwork/5523677063447543-dba3395d-1c56-4354-9ec3-f91ea948d37d.png) The Race F1 Podcast (Members) – Ferrari launches new car + Why Williams are missing crucial first test (ad-free)
-[![Snowmageddon, Billionaire Blackmail, and Water Beds](../../assets/images/oc_artwork/5891752930630526-b06cf6f5-268f-4d28-b184-b6727cd61bb8.png)](https://overcast.fm/+BTuhKCI234) [MacStories Unwind – Snowmageddon, Billionaire Blackmail, and Water Beds](https://overcast.fm/+BTuhKCI234)
-[![801: Chekhov’s Chunga Palm](../../assets/images/oc_artwork/39796062784499-cd926a77-70c8-43b8-be45-edff0b40694d.png)](https://overcast.fm/+kMb4vi_M) [The Incomparable Mothership – 801: Chekhov’s Chunga Palm](https://overcast.fm/+kMb4vi_M)
-![Tech collides with civilization](../../assets/images/oc_artwork/5971575575553699-4de862b3-d817-420a-9fe8-dc6679b9d2b3.png) Six Colors+ — Private – Tech collides with civilization
-![Our thoughts on Mercedes’ F1 car reveal and McLaren’s ‘clever’ upgrade strategy (ad-free)](../../assets/images/oc_artwork/5523677656912913-8b38b944-dcaf-427a-b460-57694ef41119.png) The Race F1 Podcast (Members) – Our thoughts on Mercedes’ F1 car reveal and McLaren’s ‘clever’ upgrade strategy (ad-free)
-[![Post-Holiday Leftovers](../../assets/images/oc_artwork/1698965895582653-550382f1-6cf2-4c8d-b21e-ae6e4aa0ddd8.png)](https://overcast.fm/+YJM1KxE70) [Judge John Hodgman – Post-Holiday Leftovers](https://overcast.fm/+YJM1KxE70)
-[![#231 - Claude Cowork, Anthropic $10B, Deep Delta Learning](../../assets/images/oc_artwork/5785591854453735-a9813218-5cc2-4b81-8f1f-c4b699843e5c.png)](https://overcast.fm/+BSN9xNM0-c) [Last Week in AI – #231 - Claude Cowork, Anthropic $10B, Deep Delta Learning](https://overcast.fm/+BSN9xNM0-c)
-[![Episode 8: Launch](../../assets/images/oc_artwork/5151974796863956-15fec410-3fd6-4eee-8962-6bc090f9f1f8.png)](https://overcast.fm/+BJNsZuoqdQ) [Shell Game – Episode 8: Launch](https://overcast.fm/+BJNsZuoqdQ)
+![How Identity Literally Changes What You See (with Samuel Bagg)](../../assets/images/oc_artwork/5121671518701209-28041fe3-697d-48fa-bc21-f1b583d08b78.png) The 404 Media Podcast (Premium Feed) – How Identity Literally Changes What You See (with Samuel Bagg)
+![Apple results and immersive dogs](../../assets/images/oc_artwork/5971576248977519-69f295b4-f1bb-4ac0-8317-e1788838638c.png) Six Colors+ — Private – Apple results and immersive dogs
+[![Chapter 6: A Mind For Murder](../../assets/images/oc_artwork/5934349620288195-8d7f3382-5793-4ab1-a890-6bb28bb99e43.png)](https://overcast.fm/+BUVQnEXGsM) [Killer In The Code – Chapter 6: A Mind For Murder](https://overcast.fm/+BUVQnEXGsM)
+[![What is This, 1995?](../../assets/images/oc_artwork/5130549847746369-69d8515e-8b15-4d00-a841-246c30c91445.png)](https://overcast.fm/+BI6NTktZ0E) [Comfort Zone – What is This, 1995?](https://overcast.fm/+BI6NTktZ0E)
+![Terminal Tips and Claude Code Workflows](../../assets/images/oc_artwork/5991025329526908-e2c06fff-0816-42d7-9afe-6d1ea17431a8.png) AppStories+ – Terminal Tips and Claude Code Workflows
+![Snowmageddon, Billionaire Blackmail, and Water Beds](../../assets/images/oc_artwork/4973305481784220-c6b99821-bc8d-43bc-b108-676fc0935ecc.png) MacStories Unwind+ – Snowmageddon, Billionaire Blackmail, and Water Beds
+[![676: A Sternly Worded Instruction](../../assets/images/oc_artwork/5585879315843988-47b04df7-09f5-46ce-8cb2-5950e51120ca.png)](https://atp.fm/676) [Accidental Tech Podcast: Unedited Live Stream – 676: A Sternly Worded Instruction](https://atp.fm/676)
+![Mercedes’ ominous form, McLaren’s debut, and more on Williams’ shakedown absence (ad-free)](../../assets/images/oc_artwork/5523677606334029-9955d37b-394f-45e6-bf59-6a9b9e097458.png) The Race F1 Podcast (Members) – Mercedes’ ominous form, McLaren’s debut, and more on Williams’ shakedown absence (ad-free)
+[![Where is Everybody?](../../assets/images/oc_artwork/5130549329303474-b650d005-11da-40d2-a0f8-7293a4fb23ca.png)](https://overcast.fm/+BI6NRpGl7I) [Comfort Zone – Where is Everybody?](https://overcast.fm/+BI6NRpGl7I)
+[![No Running Backsies](../../assets/images/oc_artwork/1698966510681123-54ff99eb-ce96-4779-b642-7a96d7f92430.png)](https://overcast.fm/+YJM3davCM) [Judge John Hodgman – No Running Backsies](https://overcast.fm/+YJM3davCM)
 
 </div>
 
@@ -37,15 +38,20 @@ slug: "now"
 
 ### Books
 
+[<span hidden>The Best Science Fiction and Fantasy of the Year Volume 2 • Jonathan Strahan • Mar 1, 2008 • This is a really good and varied compilation of stories. The thing these books do well is introduce you to stories and authors you wouldn't have found yourself, and that are certainly interesting and thought-proving. *****</span>
+![The Best Science Fiction and Fantasy of the Year Volume 2 • Jonathan Strahan • Mar 1, 2008 • This is a really good and varied compilation of stories. The thing these books do well is introduce you to stories and authors you wouldn't have found yourself, and that are certainly interesting and thought-proving. *****](../../assets/images/posts/png-image477b8a8df50-review-085d7f25-50b9-400e-a578-287471d5d87e.png)](/images/posts/png-image477b8a8df50-review-085d7f25-50b9-400e-a578-287471d5d87e.jpg)
 [<span hidden>The Convenience Store by the Sea • First Time Read • 2020 • Sonoko Machida • I didn't know what to think of this book initially. It felt slightly stilted, whether due to translation or not, I'm not sure. But I kept reading. And it started drawing me in by brilliantly building intertwined moments of social interactions and vignettes of character development. • Loved It!</span>
 ![The Convenience Store by the Sea • First Time Read • 2020 • Sonoko Machida • I didn't know what to think of this book initially. It felt slightly stilted, whether due to translation or not, I'm not sure. But I kept reading. And it started drawing me in by brilliantly building intertwined moments of social interactions and vignettes of character development. • Loved It!](../../assets/images/posts/png-image458cbadfd70-review-68981979-9b1f-4d9e-9ae9-1c29c838e7c5.png)](/images/posts/png-image458cbadfd70-review-68981979-9b1f-4d9e-9ae9-1c29c838e7c5.jpg)
-[<span hidden>Grid to Glory • 2025 • Alex Jacques • Alex Jacques is one of my favorite F1 commentators. His personality shines, and he's clearly a hard worker who knows what he's doing. The stories he's chosen for this book are compelling, but the writing style pulls me out of them. He uses sentence fragments instead of commas, and sometimes the background explanations are slightly muddled. Good, not great. • Decent</span>
-![Grid to Glory • 2025 • Alex Jacques • Alex Jacques is one of my favorite F1 commentators. His personality shines, and he's clearly a hard worker who knows what he's doing. The stories he's chosen for this book are compelling, but the writing style pulls me out of them. He uses sentence fragments instead of commas, and sometimes the background explanations are slightly muddled. Good, not great. • Decent](../../assets/images/posts/png-image4dd09994160-review-c50952a1-62fd-4f67-a41d-85082a7e6f69.png)](/images/posts/png-image4dd09994160-review-c50952a1-62fd-4f67-a41d-85082a7e6f69.jpg)
 
 ### Movies
 
 [<span hidden>THE RIP • First Time Viewing • 2026 • Joe Carnahan • The implausibilities and obvious impossibilities are largely overcome by the plot premise and the likability of some of the characters. Have a Kirin and watch and you'll enjoy it. ***</span>
 ![THE RIP • First Time Viewing • 2026 • Joe Carnahan • The implausibilities and obvious impossibilities are largely overcome by the plot premise and the likability of some of the characters. Have a Kirin and watch and you'll enjoy it. ***](../../assets/images/posts/png-image47ce83965e0-review-0f62fa43-92c4-4650-8ff9-7a7bc650d6d0.png)](/images/posts/png-image47ce83965e0-review-0f62fa43-92c4-4650-8ff9-7a7bc650d6d0.jpg)
+
+### TV Shows
+
+[<span hidden>Shrinking • S3E1 • I still have mixed feelings about this show. Everyone is still snarky in the same way that big groups of friends/acquaintences actually aren't, and it does ruin the genuinely good overall story. ***</span>
+![Shrinking • S3E1 • I still have mixed feelings about this show. Everyone is still snarky in the same way that big groups of friends/acquaintences actually aren't, and it does ruin the genuinely good overall story. ***](../../assets/images/posts/png-image4272a21ca80-review-c8b45daa-b69f-4487-8382-ad44e00b4b16.png)](/images/posts/png-image4272a21ca80-review-c8b45daa-b69f-4487-8382-ad44e00b4b16.jpg)
 
 </div>
 
@@ -55,96 +61,96 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_Jcuig8vhmx4.png](../../assets/images/yt_thumbs/20260124101214_Jcuig8vhmx4.png)](https://www.youtube.com/watch?v=Jcuig8vhmx4&pp=2AakCQ%3D%3D)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[AI mistakes you're probably making](https://www.youtube.com/watch?v=Jcuig8vhmx4&pp=2AakCQ%3D%3D)
+[![../../assets/images/yt_thumbs/20260130103441_IxUXjmqlarw.png](../../assets/images/yt_thumbs/20260130103441_IxUXjmqlarw.png)](https://www.youtube.com/watch?v=IxUXjmqlarw)<div><p class="yt-video-channel">Channel – [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)</p><p class="yt-video-title">
+[Scott Adams: Too Dumb to Live](https://www.youtube.com/watch?v=IxUXjmqlarw)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_KzxvaX0vfJw.png](../../assets/images/yt_thumbs/20260124101214_KzxvaX0vfJw.png)](https://www.youtube.com/watch?v=KzxvaX0vfJw)<div><p class="yt-video-channel">Channel – [Japanese Food Noodles](https://www.youtube.com/@Japanese_Food_Noodles)</p><p class="yt-video-title">
-[The Master of 240 Bowls: Non-Stop Japanese Ramen & Fried Rice Service](https://www.youtube.com/watch?v=KzxvaX0vfJw)
+[![../../assets/images/yt_thumbs/20260130103441_GHBhI1nm2ec.png](../../assets/images/yt_thumbs/20260130103441_GHBhI1nm2ec.png)](https://www.youtube.com/watch?v=GHBhI1nm2ec)<div><p class="yt-video-channel">Channel – [Atlassian Williams F1 Team](https://www.youtube.com/@WilliamsF1TV)</p><p class="yt-video-title">
+[“We are ready for Bahrain!” | James Vowles Team Update](https://www.youtube.com/watch?v=GHBhI1nm2ec)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_jmo0JyGOC3M.png](../../assets/images/yt_thumbs/20260124101214_jmo0JyGOC3M.png)](https://www.youtube.com/watch?v=jmo0JyGOC3M)<div><p class="yt-video-channel">Channel – [NASA Space News](https://www.youtube.com/@NSpaceNews)</p><p class="yt-video-title">
-[NASA’s Voyager Just Crossed the Edge of the Solar System — and Found Something Wild](https://www.youtube.com/watch?v=jmo0JyGOC3M)
+[![../../assets/images/yt_thumbs/20260130103441_i0W90tlKfYg.png](../../assets/images/yt_thumbs/20260130103441_i0W90tlKfYg.png)](https://www.youtube.com/watch?v=i0W90tlKfYg)<div><p class="yt-video-channel">Channel – [Better Stack](https://www.youtube.com/@betterstack)</p><p class="yt-video-title">
+[Skills Had ONE Job (They Failed)](https://www.youtube.com/watch?v=i0W90tlKfYg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_VojwImd-RHs.png](../../assets/images/yt_thumbs/20260124101214_VojwImd-RHs.png)](https://www.youtube.com/watch?v=VojwImd-RHs)<div><p class="yt-video-channel">Channel – [AXS TV](https://www.youtube.com/@AXSTV)</p><p class="yt-video-title">
-[Ringo Starr Gets Candid About The Beatles Not Getting Along](https://www.youtube.com/watch?v=VojwImd-RHs)
+[![../../assets/images/yt_thumbs/20260130103441_CB6Ysb_BLcM.png](../../assets/images/yt_thumbs/20260130103441_CB6Ysb_BLcM.png)](https://www.youtube.com/watch?v=CB6Ysb_BLcM&pp=2AasAtIHCQmRCgGHKiGM7w%3D%3D)<div><p class="yt-video-channel">Channel – [Better Stack](https://www.youtube.com/@betterstack)</p><p class="yt-video-title">
+[Why I'm DELETING Clawdbot (Moltbot) After This](https://www.youtube.com/watch?v=CB6Ysb_BLcM&pp=2AasAtIHCQmRCgGHKiGM7w%3D%3D)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_7GuRZ8WEuBs.png](../../assets/images/yt_thumbs/20260124101214_7GuRZ8WEuBs.png)](https://www.youtube.com/watch?v=7GuRZ8WEuBs&pp=0gcJCYcKAYcqIYzv)<div><p class="yt-video-channel">Channel – [PC Security Channel](https://www.youtube.com/@pcsecuritychannel)</p><p class="yt-video-title">
-[How hackers use Discord to control your computer](https://www.youtube.com/watch?v=7GuRZ8WEuBs&pp=0gcJCYcKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260130103441_esXXuejofgk.png](../../assets/images/yt_thumbs/20260130103441_esXXuejofgk.png)](https://www.youtube.com/watch?v=esXXuejofgk)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Clawdbot Sucks, Actually](https://www.youtube.com/watch?v=esXXuejofgk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_FqRiLbyMX4g.png](../../assets/images/yt_thumbs/20260124101214_FqRiLbyMX4g.png)](https://www.youtube.com/watch?v=FqRiLbyMX4g)<div><p class="yt-video-channel">Channel – [Fade To Black](https://www.youtube.com/@FadeToBlack-cinema)</p><p class="yt-video-title">
-[What Really Happened To James Woods?](https://www.youtube.com/watch?v=FqRiLbyMX4g)
+[![../../assets/images/yt_thumbs/20260130103441_rPAKq2oQVBs.png](../../assets/images/yt_thumbs/20260130103441_rPAKq2oQVBs.png)](https://www.youtube.com/watch?v=rPAKq2oQVBs)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[It Got Worse (Clawdbot)](https://www.youtube.com/watch?v=rPAKq2oQVBs)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_OB3CZ2EXURo.png](../../assets/images/yt_thumbs/20260124101214_OB3CZ2EXURo.png)](https://www.youtube.com/watch?v=OB3CZ2EXURo)<div><p class="yt-video-channel">Channel – [RaceMastery](https://www.youtube.com/@RaceMasteryy)</p><p class="yt-video-title">
-[At 77, Keke Rosberg Finally Revealed the 4 People He Hated the Most](https://www.youtube.com/watch?v=OB3CZ2EXURo)
+[![../../assets/images/yt_thumbs/20260130103441_JS5W8QOhym8.png](../../assets/images/yt_thumbs/20260130103441_JS5W8QOhym8.png)](https://www.youtube.com/watch?v=JS5W8QOhym8&pp=2AbdAg%3D%3D)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
+[Holy sh*t! Trump is giving up](https://www.youtube.com/watch?v=JS5W8QOhym8&pp=2AbdAg%3D%3D)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_qWvx1jCazjo.png](../../assets/images/yt_thumbs/20260124101214_qWvx1jCazjo.png)](https://www.youtube.com/watch?v=qWvx1jCazjo)<div><p class="yt-video-channel">Channel – [JASON ARNOLD - SNAKE HANDLER](https://www.youtube.com/@jasonarnold-snakeman)</p><p class="yt-video-title">
-[Crazy Close Black Mamba encounter!](https://www.youtube.com/watch?v=qWvx1jCazjo)
+[![../../assets/images/yt_thumbs/20260130103441_CBNbcbMs_Lc.png](../../assets/images/yt_thumbs/20260130103441_CBNbcbMs_Lc.png)](https://www.youtube.com/watch?v=CBNbcbMs_Lc&pp=2Ab1Ag%3D%3D)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
+[100 Hours Testing Clawdbot vs Claude Code (honest results)](https://www.youtube.com/watch?v=CBNbcbMs_Lc&pp=2Ab1Ag%3D%3D)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_Uo_XhTSZUAs.png](../../assets/images/yt_thumbs/20260124101214_Uo_XhTSZUAs.png)](https://www.youtube.com/watch?v=Uo_XhTSZUAs)<div><p class="yt-video-channel">Channel – [pal2tech](https://www.youtube.com/@pal2tech)</p><p class="yt-video-title">
-[Fujifilm, we need to talk...](https://www.youtube.com/watch?v=Uo_XhTSZUAs)
+[![../../assets/images/yt_thumbs/20260130103441_mdYDG34YP4w.png](../../assets/images/yt_thumbs/20260130103441_mdYDG34YP4w.png)](https://www.youtube.com/watch?v=mdYDG34YP4w)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
+[bro wtf...](https://www.youtube.com/watch?v=mdYDG34YP4w)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_8287BxATgHk.png](../../assets/images/yt_thumbs/20260124101214_8287BxATgHk.png)](https://www.youtube.com/watch?v=8287BxATgHk)<div><p class="yt-video-channel">Channel – [JASON ARNOLD - SNAKE HANDLER](https://www.youtube.com/@jasonarnold-snakeman)</p><p class="yt-video-title">
-[BLACK MAMBA CAPTURE - As dangerous as it gets!!](https://www.youtube.com/watch?v=8287BxATgHk)
+[![../../assets/images/yt_thumbs/20260130103441_wGN6Y0IMr7c.png](../../assets/images/yt_thumbs/20260130103441_wGN6Y0IMr7c.png)](https://www.youtube.com/watch?v=wGN6Y0IMr7c)<div><p class="yt-video-channel">Channel – [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)</p><p class="yt-video-title">
+[Enough is enough. Not one more dime for ICE.](https://www.youtube.com/watch?v=wGN6Y0IMr7c)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_WCYWNlNcDPA.png](../../assets/images/yt_thumbs/20260124101214_WCYWNlNcDPA.png)](https://www.youtube.com/watch?v=WCYWNlNcDPA)<div><p class="yt-video-channel">Channel – [JASON ARNOLD - SNAKE HANDLER](https://www.youtube.com/@jasonarnold-snakeman)</p><p class="yt-video-title">
-[HOW MANY Black Mambas are ACTUALLY in this roof !!??](https://www.youtube.com/watch?v=WCYWNlNcDPA)
+[![../../assets/images/yt_thumbs/20260130103441_ZjiNaKv_FHs.png](../../assets/images/yt_thumbs/20260130103441_ZjiNaKv_FHs.png)](https://www.youtube.com/watch?v=ZjiNaKv_FHs&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [ACUITY Instruments](https://www.youtube.com/@ACUiTYinstruments)</p><p class="yt-video-title">
+[(WARNING: Crash Footage) Will Au-Yeung's Drive Up Pikes Peak 2022](https://www.youtube.com/watch?v=ZjiNaKv_FHs&pp=0gcJCZEKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260124101214_IiL6HFTe_qE.png](../../assets/images/yt_thumbs/20260124101214_IiL6HFTe_qE.png)](https://www.youtube.com/watch?v=IiL6HFTe_qE)<div><p class="yt-video-channel">Channel – [Popcorn Picks](https://www.youtube.com/@PopcornPicksYT)</p><p class="yt-video-title">
-[Sosa Kills the Informant (Al Pacino, Paul Shenar) (Full Scene) | Scarface 4k HDR](https://www.youtube.com/watch?v=IiL6HFTe_qE)
+[![../../assets/images/yt_thumbs/20260130103441_l6yv_oNNlb8.png](../../assets/images/yt_thumbs/20260130103441_l6yv_oNNlb8.png)](https://www.youtube.com/watch?v=l6yv_oNNlb8)<div><p class="yt-video-channel">Channel – [Allec Joshua Ibay](https://www.youtube.com/@AllecJoshuaIbay)</p><p class="yt-video-title">
+[Focused On Failure | United Airlines Flight 173](https://www.youtube.com/watch?v=l6yv_oNNlb8)
 </p></div>
 
 </div>
@@ -155,6 +161,6 @@ slug: "now"
 
 <div class="food">
 
-[![GyroHouse Mediterranean Grill | Authentic Mediterranean Cuisine in Oregon](../../assets/images/food_thumbs/GyroHouseMediterraneanGrill-20C8FE5F-1CA9-4270-879B-D2078974FE82.png)](https://thegyrohouse.com) [GyroHouse Mediterranean Grill | Authentic Mediterranean Cuisine in Oregon](https://thegyrohouse.com)
+[![LONG'S VIETNAMESE KITCHEN (@longs_vietnamesekitchen) • Instagram photos and videos](../../assets/images/food_thumbs/LongsVietnameseKitchen-2304E693-0953-4C00-8A0F-9D5BAF7AABD2.png)](https://www.instagram.com/longs_vietnamesekitchen/?hl=en) [LONG'S VIETNAMESE KITCHEN (@longs_vietnamesekitchen) • Instagram photos and videos](https://www.instagram.com/longs_vietnamesekitchen/?hl=en)
 
 </div>
