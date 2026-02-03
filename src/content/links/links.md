@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-02-03T07:46:07-08:00"
+date: "2026-02-03T13:57:52-08:00"
 slug: "links"
 ---
 
@@ -121,6 +121,7 @@ slug: "links"
 - [Open Social — overreacted](https://overreacted.io/open-social/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [Opinion | One of America’s Most Successful Experiments Is Coming to a Shuddering Halt - The New York Times](https://www.nytimes.com/2025/12/29/opinion/indian-americans-trump.html?unlocked_article_code=1.AVA.XBjd.HPIvXmntEZja)
+- [Our Zine About ICE Surveillance Is Here](https://www.404media.co/icezine/)
 - [Overtourism in Japan, and How it Hurts Small Businesses — Ridgeline issue 210](https://craigmod.com/ridgeline/210/)
 - [People Hate the Idea of Car-Free Cities—Until They Live in One | WIRED](https://www.wired.com/story/car-free-cities-opposition/)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
@@ -793,6 +794,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [NAVER](https://www.naver.com/)
 - [Papago](https://papago.naver.com/)
 - [Talk To Me In korean](https://brand.talktomeinkorean.com/)
+- [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/)
 - [The Korea Herald](https://www.koreaherald.com/)
 - [하이코리아](https://www.hikorea.go.kr/Main.pt)
 
@@ -976,6 +978,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Embrace The Red · Embrace The Red](https://embracethered.com/blog/)
 - [Find Nearby ALPRs | DeFlock](https://deflock.me/)
 - [Locking down Signal](https://freedom.press/digisec/blog/locking-down-signal/)
+- [Our Zine About ICE Surveillance Is Here](https://www.404media.co/icezine/)
 - [Safe Sisters – Safe Sisters](https://safesisters.org/)
 - [Synthient](https://synthient.com/check)
 - [The Kimwolf Botnet is Stalking Your Local Network – Krebs on Security](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
@@ -1125,7 +1128,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Codesmith](https://www.youtube.com/@Codesmith)
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo ](https://www.youtube.com/@cultrepo)
+- [CultRepo](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)
 - [Cybernews](https://www.youtube.com/@cybernews)
@@ -1142,7 +1145,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Ecamm Live](https://www.youtube.com/@EcammLive)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Epic Spaceman](https://www.youtube.com/@EpicSpaceman)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
@@ -1201,7 +1204,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
-- [Lingopie ](https://www.youtube.com/@LingopieTV)
+- [Lingopie](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1248,7 +1251,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
