@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-01-30T11:25:37-08:00"
+date: "2026-02-03T07:46:07-08:00"
 slug: "now"
 ---
 
@@ -21,16 +21,17 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-![How Identity Literally Changes What You See (with Samuel Bagg)](../../assets/images/oc_artwork/5121671518701209-28041fe3-697d-48fa-bc21-f1b583d08b78.png) The 404 Media Podcast (Premium Feed) – How Identity Literally Changes What You See (with Samuel Bagg)
-![Apple results and immersive dogs](../../assets/images/oc_artwork/5971576248977519-69f295b4-f1bb-4ac0-8317-e1788838638c.png) Six Colors+ — Private – Apple results and immersive dogs
-[![Chapter 6: A Mind For Murder](../../assets/images/oc_artwork/5934349620288195-8d7f3382-5793-4ab1-a890-6bb28bb99e43.png)](https://overcast.fm/+BUVQnEXGsM) [Killer In The Code – Chapter 6: A Mind For Murder](https://overcast.fm/+BUVQnEXGsM)
-[![What is This, 1995?](../../assets/images/oc_artwork/5130549847746369-69d8515e-8b15-4d00-a841-246c30c91445.png)](https://overcast.fm/+BI6NTktZ0E) [Comfort Zone – What is This, 1995?](https://overcast.fm/+BI6NTktZ0E)
-![Terminal Tips and Claude Code Workflows](../../assets/images/oc_artwork/5991025329526908-e2c06fff-0816-42d7-9afe-6d1ea17431a8.png) AppStories+ – Terminal Tips and Claude Code Workflows
-![Snowmageddon, Billionaire Blackmail, and Water Beds](../../assets/images/oc_artwork/4973305481784220-c6b99821-bc8d-43bc-b108-676fc0935ecc.png) MacStories Unwind+ – Snowmageddon, Billionaire Blackmail, and Water Beds
-[![676: A Sternly Worded Instruction](../../assets/images/oc_artwork/5585879315843988-47b04df7-09f5-46ce-8cb2-5950e51120ca.png)](https://atp.fm/676) [Accidental Tech Podcast: Unedited Live Stream – 676: A Sternly Worded Instruction](https://atp.fm/676)
-![Mercedes’ ominous form, McLaren’s debut, and more on Williams’ shakedown absence (ad-free)](../../assets/images/oc_artwork/5523677606334029-9955d37b-394f-45e6-bf59-6a9b9e097458.png) The Race F1 Podcast (Members) – Mercedes’ ominous form, McLaren’s debut, and more on Williams’ shakedown absence (ad-free)
-[![Where is Everybody?](../../assets/images/oc_artwork/5130549329303474-b650d005-11da-40d2-a0f8-7293a4fb23ca.png)](https://overcast.fm/+BI6NRpGl7I) [Comfort Zone – Where is Everybody?](https://overcast.fm/+BI6NRpGl7I)
-[![No Running Backsies](../../assets/images/oc_artwork/1698966510681123-54ff99eb-ce96-4779-b642-7a96d7f92430.png)](https://overcast.fm/+YJM3davCM) [Judge John Hodgman – No Running Backsies](https://overcast.fm/+YJM3davCM)
+[![Debunking Hacklore](../../assets/images/oc_artwork/1107267134247080-435fd139-800d-4c92-ba1e-f6a473d85ad3.png)](https://overcast.fm/+PvDbg1UKg) [Firewalls Don't Stop Dragons Podcast – Debunking Hacklore](https://overcast.fm/+PvDbg1UKg)
+[![62: OceanGate Titan](../../assets/images/oc_artwork/2220795136463592-385b4c54-2da8-4817-86a2-1f98fa4d5638.png)](https://overcast.fm/+fjzSk6Uug) [Causality – 62: OceanGate Titan](https://overcast.fm/+fjzSk6Uug)
+![The key tech trends of F1’s 2026 cars (ad-free)](../../assets/images/oc_artwork/5523677946216897-e26afd37-268d-42e1-89bb-2ed97ed993ce.png) The Race F1 Podcast (Members) – The key tech trends of F1’s 2026 cars (ad-free)
+[![Best of 2025!](../../assets/images/oc_artwork/1107266404087838-ff9f39bd-6d50-43f9-97c8-3c13f0c44bd5.png)](https://overcast.fm/+PvDYyv-B4) [Firewalls Don't Stop Dragons Podcast – Best of 2025!](https://overcast.fm/+PvDYyv-B4)
+![The Future of Apps in an AI-Coded World](../../assets/images/oc_artwork/5991025695785159-ad994308-b21d-4328-99ee-70868e706d80.png) AppStories+ – The Future of Apps in an AI-Coded World
+[![440: ‘Flush a Radar’, With Brent Simmons](../../assets/images/oc_artwork/135464096535956-07c7e998-7f2a-4a1c-8bc9-b3d99d3abb74.png)](https://overcast.fm/+B7NDFalZQ) [The Talk Show With John Gruber – 440: ‘Flush a Radar’, With Brent Simmons](https://overcast.fm/+B7NDFalZQ)
+![Elon Musk Profits Off Non-Consensual Deepfakes w/ Kat Tenbarge](../../assets/images/oc_artwork/5585832441984913-35c7945a-8490-4277-b83c-47b52c9c47e1.png) Tech Won't Save Us (Premium) – Elon Musk Profits Off Non-Consensual Deepfakes w/ Kat Tenbarge
+[![Level 1 Lesson 3](../../assets/images/oc_artwork/4149800048345321-1dabea7c-122e-4ba9-9eeb-e773a8f401ac.png)](https://overcast.fm/+6-OJ3FQOk) [Talk To Me In Korean – Level 1 Lesson 3](https://overcast.fm/+6-OJ3FQOk)
+[![Level 1 Lesson 2](../../assets/images/oc_artwork/4149800327414849-5c5b0c7d-c140-4c68-a18a-5c5aa42225f5.png)](https://overcast.fm/+6-OK5nhEE) [Talk To Me In Korean – Level 1 Lesson 2](https://overcast.fm/+6-OK5nhEE)
+[![Level 1 Lesson 1](../../assets/images/oc_artwork/4149800517530888-cac0468f-48ae-4c2a-88c7-1560d69e1417.png)](https://overcast.fm/+6-OLm8dQg) [Talk To Me In Korean – Level 1 Lesson 1](https://overcast.fm/+6-OLm8dQg)
+
 
 </div>
 
@@ -61,96 +62,119 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_IxUXjmqlarw.png](../../assets/images/yt_thumbs/20260130103441_IxUXjmqlarw.png)](https://www.youtube.com/watch?v=IxUXjmqlarw)<div><p class="yt-video-channel">Channel – [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)</p><p class="yt-video-title">
-[Scott Adams: Too Dumb to Live](https://www.youtube.com/watch?v=IxUXjmqlarw)
+
+[![../../assets/images/yt_thumbs/20260203074437_fM5LcS7VeL0.png](../../assets/images/yt_thumbs/20260203074437_fM5LcS7VeL0.png) ](https://www.youtube.com/watch?v=fM5LcS7VeL0)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Moltbook Is Stupid](https://www.youtube.com/watch?v=fM5LcS7VeL0)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_GHBhI1nm2ec.png](../../assets/images/yt_thumbs/20260130103441_GHBhI1nm2ec.png)](https://www.youtube.com/watch?v=GHBhI1nm2ec)<div><p class="yt-video-channel">Channel – [Atlassian Williams F1 Team](https://www.youtube.com/@WilliamsF1TV)</p><p class="yt-video-title">
-[“We are ready for Bahrain!” | James Vowles Team Update](https://www.youtube.com/watch?v=GHBhI1nm2ec)
+
+[![../../assets/images/yt_thumbs/20260203074437_OI1HxoqASfQ.png](../../assets/images/yt_thumbs/20260203074437_OI1HxoqASfQ.png) ](https://www.youtube.com/watch?v=OI1HxoqASfQ&pp=2AYT)<div><p class="yt-video-channel">Channel – [A FUSCO - Classic TV](https://www.youtube.com/@AFuscoClassicTV-df3iz)</p><p class="yt-video-title">
+[Happy Days - "Fonzie Fights Racism at a Southern Diner" - The Fonz](https://www.youtube.com/watch?v=OI1HxoqASfQ&pp=2AYT)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_i0W90tlKfYg.png](../../assets/images/yt_thumbs/20260130103441_i0W90tlKfYg.png)](https://www.youtube.com/watch?v=i0W90tlKfYg)<div><p class="yt-video-channel">Channel – [Better Stack](https://www.youtube.com/@betterstack)</p><p class="yt-video-title">
-[Skills Had ONE Job (They Failed)](https://www.youtube.com/watch?v=i0W90tlKfYg)
+
+[![../../assets/images/yt_thumbs/20260203074437_jRuFxyuWF1Y.png](../../assets/images/yt_thumbs/20260203074437_jRuFxyuWF1Y.png) ](https://www.youtube.com/watch?v=jRuFxyuWF1Y&pp=2AaqAg%3D%3D)<div><p class="yt-video-channel">Channel – [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)</p><p class="yt-video-title">
+[Is Proton Leaving Switzerland? (No Longer Secure)](https://www.youtube.com/watch?v=jRuFxyuWF1Y&pp=2AaqAg%3D%3D)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_CB6Ysb_BLcM.png](../../assets/images/yt_thumbs/20260130103441_CB6Ysb_BLcM.png)](https://www.youtube.com/watch?v=CB6Ysb_BLcM&pp=2AasAtIHCQmRCgGHKiGM7w%3D%3D)<div><p class="yt-video-channel">Channel – [Better Stack](https://www.youtube.com/@betterstack)</p><p class="yt-video-title">
-[Why I'm DELETING Clawdbot (Moltbot) After This](https://www.youtube.com/watch?v=CB6Ysb_BLcM&pp=2AasAtIHCQmRCgGHKiGM7w%3D%3D)
+
+[![../../assets/images/yt_thumbs/20260203074437_Fe002CWL09k.png](../../assets/images/yt_thumbs/20260203074437_Fe002CWL09k.png) ](https://www.youtube.com/watch?v=Fe002CWL09k)<div><p class="yt-video-channel">Channel – [Aldas](https://www.youtube.com/@Aldas001)</p><p class="yt-video-title">
+[All 11 F1 Teams Ranked After Barcelona Testing](https://www.youtube.com/watch?v=Fe002CWL09k)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_esXXuejofgk.png](../../assets/images/yt_thumbs/20260130103441_esXXuejofgk.png)](https://www.youtube.com/watch?v=esXXuejofgk)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
-[Clawdbot Sucks, Actually](https://www.youtube.com/watch?v=esXXuejofgk)
+
+[![../../assets/images/yt_thumbs/20260203074437_p9acrso71KU.png](../../assets/images/yt_thumbs/20260203074437_p9acrso71KU.png) ](https://www.youtube.com/watch?v=p9acrso71KU)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)](https://www.youtube.com/watch?v=p9acrso71KU)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_rPAKq2oQVBs.png](../../assets/images/yt_thumbs/20260130103441_rPAKq2oQVBs.png)](https://www.youtube.com/watch?v=rPAKq2oQVBs)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
-[It Got Worse (Clawdbot)](https://www.youtube.com/watch?v=rPAKq2oQVBs)
+
+[![../../assets/images/yt_thumbs/20260203074437_EX_VFdPRom0.png](../../assets/images/yt_thumbs/20260203074437_EX_VFdPRom0.png) ](https://www.youtube.com/watch?v=EX_VFdPRom0&pp=2AYX)<div><p class="yt-video-channel">Channel – [Brenna Perez](https://www.youtube.com/@perezbrenna)</p><p class="yt-video-title">
+[The Uncomfortable Truth: Jesus Ochoa and Raymundo Gutierrez](https://www.youtube.com/watch?v=EX_VFdPRom0&pp=2AYX)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_JS5W8QOhym8.png](../../assets/images/yt_thumbs/20260130103441_JS5W8QOhym8.png)](https://www.youtube.com/watch?v=JS5W8QOhym8&pp=2AbdAg%3D%3D)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
-[Holy sh*t! Trump is giving up](https://www.youtube.com/watch?v=JS5W8QOhym8&pp=2AbdAg%3D%3D)
+
+[![../../assets/images/yt_thumbs/20260203074437_OEqpoBfzV3M.png](../../assets/images/yt_thumbs/20260203074437_OEqpoBfzV3M.png) ](https://www.youtube.com/watch?v=OEqpoBfzV3M&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
+[They just NUKED TRUMP](https://www.youtube.com/watch?v=OEqpoBfzV3M&pp=0gcJCZEKAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_CBNbcbMs_Lc.png](../../assets/images/yt_thumbs/20260130103441_CBNbcbMs_Lc.png)](https://www.youtube.com/watch?v=CBNbcbMs_Lc&pp=2Ab1Ag%3D%3D)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[100 Hours Testing Clawdbot vs Claude Code (honest results)](https://www.youtube.com/watch?v=CBNbcbMs_Lc&pp=2Ab1Ag%3D%3D)
+
+[![../../assets/images/yt_thumbs/20260203074437_Q0KOzvzilFc.png](../../assets/images/yt_thumbs/20260203074437_Q0KOzvzilFc.png) ](https://www.youtube.com/watch?v=Q0KOzvzilFc&pp=2AaUBA%3D%3D)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
+[$190 Apartment Tour | Fukuoka, Japan](https://www.youtube.com/watch?v=Q0KOzvzilFc&pp=2AaUBA%3D%3D)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_mdYDG34YP4w.png](../../assets/images/yt_thumbs/20260130103441_mdYDG34YP4w.png)](https://www.youtube.com/watch?v=mdYDG34YP4w)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
-[bro wtf...](https://www.youtube.com/watch?v=mdYDG34YP4w)
+
+[![../../assets/images/yt_thumbs/20260203074437_ovb5Nd85vds.png](../../assets/images/yt_thumbs/20260203074437_ovb5Nd85vds.png) ](https://www.youtube.com/watch?v=ovb5Nd85vds)<div><p class="yt-video-channel">Channel – [Joey Josselson](https://www.youtube.com/@Callmethelamp)</p><p class="yt-video-title">
+[I bought the ugliest snake on the planet.](https://www.youtube.com/watch?v=ovb5Nd85vds)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_wGN6Y0IMr7c.png](../../assets/images/yt_thumbs/20260130103441_wGN6Y0IMr7c.png)](https://www.youtube.com/watch?v=wGN6Y0IMr7c)<div><p class="yt-video-channel">Channel – [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)</p><p class="yt-video-title">
-[Enough is enough. Not one more dime for ICE.](https://www.youtube.com/watch?v=wGN6Y0IMr7c)
+
+[![../../assets/images/yt_thumbs/20260203074437_DIGkHnDnXe0.png](../../assets/images/yt_thumbs/20260203074437_DIGkHnDnXe0.png) ](https://www.youtube.com/watch?v=DIGkHnDnXe0&pp=2AYT)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
+[We found out who they are](https://www.youtube.com/watch?v=DIGkHnDnXe0&pp=2AYT)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_ZjiNaKv_FHs.png](../../assets/images/yt_thumbs/20260130103441_ZjiNaKv_FHs.png)](https://www.youtube.com/watch?v=ZjiNaKv_FHs&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [ACUITY Instruments](https://www.youtube.com/@ACUiTYinstruments)</p><p class="yt-video-title">
-[(WARNING: Crash Footage) Will Au-Yeung's Drive Up Pikes Peak 2022](https://www.youtube.com/watch?v=ZjiNaKv_FHs&pp=0gcJCZEKAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260203074437_b5w9yO4A6Ws.png](../../assets/images/yt_thumbs/20260203074437_b5w9yO4A6Ws.png) ](https://www.youtube.com/watch?v=b5w9yO4A6Ws&pp=2AY0)<div><p class="yt-video-channel">Channel – [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)</p><p class="yt-video-title">
+[When You Retire With $1M, Tell No One, Here's Why...](https://www.youtube.com/watch?v=b5w9yO4A6Ws&pp=2AY0)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260130103441_l6yv_oNNlb8.png](../../assets/images/yt_thumbs/20260130103441_l6yv_oNNlb8.png)](https://www.youtube.com/watch?v=l6yv_oNNlb8)<div><p class="yt-video-channel">Channel – [Allec Joshua Ibay](https://www.youtube.com/@AllecJoshuaIbay)</p><p class="yt-video-title">
-[Focused On Failure | United Airlines Flight 173](https://www.youtube.com/watch?v=l6yv_oNNlb8)
+
+[![../../assets/images/yt_thumbs/20260203074437_ikeVMa8wcFo.png](../../assets/images/yt_thumbs/20260203074437_ikeVMa8wcFo.png) ](https://www.youtube.com/watch?v=ikeVMa8wcFo&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Japanize me!](https://www.youtube.com/@JapanizeMe1)</p><p class="yt-video-title">
+[How to Say “If” in Japanese: Easy Guide to ば(ba), たら(tara), andなら(nara)](https://www.youtube.com/watch?v=ikeVMa8wcFo&pp=0gcJCZEKAYcqIYzv)
 </p></div>
 
 </div>
