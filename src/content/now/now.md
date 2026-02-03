@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-02-03T07:46:07-08:00"
+date: "2026-02-03T14:09:44-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I have been playing with Clawdbot/Moltbot/[OpenClaw](https://openclaw.ai/), and there are some fascinating things about it, and some utterly enraging things about it, and some quite dangerous things about it. I'm not a person that likes huge fanaticism around things, and it's definitely getting that. But there are some aspects of it that do seem like the future of AI agents.
+> Now is a good time to have a finely tuned BS detector when it comes to tech. Too good to be true IS too good to be true. It's also a good time to have a high social BS detector. Too authoritarian IS too authoritarian.
 
 ## Current Projects
 
-- Japanese and Korean study (somewhat proficient in J, complete newb to K)
+- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/).
 
 ## Stuff I've recently enjoyed
 
@@ -31,7 +31,6 @@ slug: "now"
 [![Level 1 Lesson 3](../../assets/images/oc_artwork/4149800048345321-1dabea7c-122e-4ba9-9eeb-e773a8f401ac.png)](https://overcast.fm/+6-OJ3FQOk) [Talk To Me In Korean – Level 1 Lesson 3](https://overcast.fm/+6-OJ3FQOk)
 [![Level 1 Lesson 2](../../assets/images/oc_artwork/4149800327414849-5c5b0c7d-c140-4c68-a18a-5c5aa42225f5.png)](https://overcast.fm/+6-OK5nhEE) [Talk To Me In Korean – Level 1 Lesson 2](https://overcast.fm/+6-OK5nhEE)
 [![Level 1 Lesson 1](../../assets/images/oc_artwork/4149800517530888-cac0468f-48ae-4c2a-88c7-1560d69e1417.png)](https://overcast.fm/+6-OLm8dQg) [Talk To Me In Korean – Level 1 Lesson 1](https://overcast.fm/+6-OLm8dQg)
-
 
 </div>
 
@@ -62,129 +61,98 @@ slug: "now"
 
 <div class="yt-video">
 
+[![../../assets/images/yt_thumbs/20260203140137_XTIxgbEeJ84.png](../../assets/images/yt_thumbs/20260203140137_XTIxgbEeJ84.png)](https://www.youtube.com/watch?v=XTIxgbEeJ84)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[What another late F1 car has exposed about Williams](https://www.youtube.com/watch?v=XTIxgbEeJ84)
+</p></div>
 
-[![../../assets/images/yt_thumbs/20260203074437_fM5LcS7VeL0.png](../../assets/images/yt_thumbs/20260203074437_fM5LcS7VeL0.png) ](https://www.youtube.com/watch?v=fM5LcS7VeL0)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20260203140137_C8wKomo4Wds.png](../../assets/images/yt_thumbs/20260203140137_C8wKomo4Wds.png)](https://www.youtube.com/watch?v=C8wKomo4Wds&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
+[they got notepad++](https://www.youtube.com/watch?v=C8wKomo4Wds&pp=0gcJCZEKAYcqIYzv)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20260203140137_8ag6gSzsGbc.png](../../assets/images/yt_thumbs/20260203140137_8ag6gSzsGbc.png)](https://www.youtube.com/watch?v=8ag6gSzsGbc)<div><p class="yt-video-channel">Channel – [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder)</p><p class="yt-video-title">
+[We are Much Closer to Kessler Syndrome Than We Thought](https://www.youtube.com/watch?v=8ag6gSzsGbc)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20260203140137_y5B9XQ7_ubc.png](../../assets/images/yt_thumbs/20260203140137_y5B9XQ7_ubc.png)](https://www.youtube.com/watch?v=y5B9XQ7_ubc)<div><p class="yt-video-channel">Channel – [Scott Hanselman](https://www.youtube.com/@shanselman)</p><p class="yt-video-title">
+[AI and OpenClaw (née Clawdbot) and tools like Claude Code and GitHub Copilot for non-technical folks](https://www.youtube.com/watch?v=y5B9XQ7_ubc)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20260203140137_7Cf4n-DSYCo.png](../../assets/images/yt_thumbs/20260203140137_7Cf4n-DSYCo.png)](https://www.youtube.com/watch?v=7Cf4n-DSYCo&t=7s&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [TRT World](https://www.youtube.com/@trtworld)</p><p class="yt-video-title">
+[Why are passports of American citizens flagged by the government?](https://www.youtube.com/watch?v=7Cf4n-DSYCo&t=7s&pp=0gcJCZEKAYcqIYzv)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20260203140137_WEEKBlQfGt8.png](../../assets/images/yt_thumbs/20260203140137_WEEKBlQfGt8.png)](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=218s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real.](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=218s)
+</p></div>
+
+</div>
+
+<div class="yt-video">
+
+[![../../assets/images/yt_thumbs/20260203140137_fM5LcS7VeL0.png](../../assets/images/yt_thumbs/20260203140137_fM5LcS7VeL0.png)](https://www.youtube.com/watch?v=fM5LcS7VeL0)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
 [Moltbook Is Stupid](https://www.youtube.com/watch?v=fM5LcS7VeL0)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260203074437_OI1HxoqASfQ.png](../../assets/images/yt_thumbs/20260203074437_OI1HxoqASfQ.png) ](https://www.youtube.com/watch?v=OI1HxoqASfQ&pp=2AYT)<div><p class="yt-video-channel">Channel – [A FUSCO - Classic TV](https://www.youtube.com/@AFuscoClassicTV-df3iz)</p><p class="yt-video-title">
-[Happy Days - "Fonzie Fights Racism at a Southern Diner" - The Fonz](https://www.youtube.com/watch?v=OI1HxoqASfQ&pp=2AYT)
+[![../../assets/images/yt_thumbs/20260203140137_jRuFxyuWF1Y.png](../../assets/images/yt_thumbs/20260203140137_jRuFxyuWF1Y.png)](https://www.youtube.com/watch?v=jRuFxyuWF1Y&t=298s)<div><p class="yt-video-channel">Channel – [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)</p><p class="yt-video-title">
+[Is Proton Leaving Switzerland? (No Longer Secure)](https://www.youtube.com/watch?v=jRuFxyuWF1Y&t=298s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260203074437_jRuFxyuWF1Y.png](../../assets/images/yt_thumbs/20260203074437_jRuFxyuWF1Y.png) ](https://www.youtube.com/watch?v=jRuFxyuWF1Y&pp=2AaqAg%3D%3D)<div><p class="yt-video-channel">Channel – [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)</p><p class="yt-video-title">
-[Is Proton Leaving Switzerland? (No Longer Secure)](https://www.youtube.com/watch?v=jRuFxyuWF1Y&pp=2AaqAg%3D%3D)
-</p></div>
-
-</div>
-
-
-<div class="yt-video">
-
-
-[![../../assets/images/yt_thumbs/20260203074437_Fe002CWL09k.png](../../assets/images/yt_thumbs/20260203074437_Fe002CWL09k.png) ](https://www.youtube.com/watch?v=Fe002CWL09k)<div><p class="yt-video-channel">Channel – [Aldas](https://www.youtube.com/@Aldas001)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20260203140137_Fe002CWL09k.png](../../assets/images/yt_thumbs/20260203140137_Fe002CWL09k.png)](https://www.youtube.com/watch?v=Fe002CWL09k)<div><p class="yt-video-channel">Channel – [Aldas](https://www.youtube.com/@Aldas001)</p><p class="yt-video-title">
 [All 11 F1 Teams Ranked After Barcelona Testing](https://www.youtube.com/watch?v=Fe002CWL09k)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260203074437_p9acrso71KU.png](../../assets/images/yt_thumbs/20260203074437_p9acrso71KU.png) ](https://www.youtube.com/watch?v=p9acrso71KU)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[![../../assets/images/yt_thumbs/20260203140137_p9acrso71KU.png](../../assets/images/yt_thumbs/20260203140137_p9acrso71KU.png)](https://www.youtube.com/watch?v=p9acrso71KU)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
 [Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)](https://www.youtube.com/watch?v=p9acrso71KU)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260203074437_EX_VFdPRom0.png](../../assets/images/yt_thumbs/20260203074437_EX_VFdPRom0.png) ](https://www.youtube.com/watch?v=EX_VFdPRom0&pp=2AYX)<div><p class="yt-video-channel">Channel – [Brenna Perez](https://www.youtube.com/@perezbrenna)</p><p class="yt-video-title">
-[The Uncomfortable Truth: Jesus Ochoa and Raymundo Gutierrez](https://www.youtube.com/watch?v=EX_VFdPRom0&pp=2AYX)
+[![../../assets/images/yt_thumbs/20260203140137_EX_VFdPRom0.png](../../assets/images/yt_thumbs/20260203140137_EX_VFdPRom0.png)](https://www.youtube.com/watch?v=EX_VFdPRom0&t=23s)<div><p class="yt-video-channel">Channel – [Brenna Perez](https://www.youtube.com/@perezbrenna)</p><p class="yt-video-title">
+[The Uncomfortable Truth: Jesus Ochoa and Raymundo Gutierrez](https://www.youtube.com/watch?v=EX_VFdPRom0&t=23s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260203074437_OEqpoBfzV3M.png](../../assets/images/yt_thumbs/20260203074437_OEqpoBfzV3M.png) ](https://www.youtube.com/watch?v=OEqpoBfzV3M&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
-[They just NUKED TRUMP](https://www.youtube.com/watch?v=OEqpoBfzV3M&pp=0gcJCZEKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260203140137_OEqpoBfzV3M.png](../../assets/images/yt_thumbs/20260203140137_OEqpoBfzV3M.png)](https://www.youtube.com/watch?v=OEqpoBfzV3M)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
+[They just NUKED TRUMP](https://www.youtube.com/watch?v=OEqpoBfzV3M)
 </p></div>
 
 </div>
-
-
-<div class="yt-video">
-
-
-[![../../assets/images/yt_thumbs/20260203074437_Q0KOzvzilFc.png](../../assets/images/yt_thumbs/20260203074437_Q0KOzvzilFc.png) ](https://www.youtube.com/watch?v=Q0KOzvzilFc&pp=2AaUBA%3D%3D)<div><p class="yt-video-channel">Channel – [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)</p><p class="yt-video-title">
-[$190 Apartment Tour | Fukuoka, Japan](https://www.youtube.com/watch?v=Q0KOzvzilFc&pp=2AaUBA%3D%3D)
-</p></div>
-
-</div>
-
-
-<div class="yt-video">
-
-
-[![../../assets/images/yt_thumbs/20260203074437_ovb5Nd85vds.png](../../assets/images/yt_thumbs/20260203074437_ovb5Nd85vds.png) ](https://www.youtube.com/watch?v=ovb5Nd85vds)<div><p class="yt-video-channel">Channel – [Joey Josselson](https://www.youtube.com/@Callmethelamp)</p><p class="yt-video-title">
-[I bought the ugliest snake on the planet.](https://www.youtube.com/watch?v=ovb5Nd85vds)
-</p></div>
-
-</div>
-
-
-<div class="yt-video">
-
-
-[![../../assets/images/yt_thumbs/20260203074437_DIGkHnDnXe0.png](../../assets/images/yt_thumbs/20260203074437_DIGkHnDnXe0.png) ](https://www.youtube.com/watch?v=DIGkHnDnXe0&pp=2AYT)<div><p class="yt-video-channel">Channel – [Chris Norlund](https://www.youtube.com/@realchris)</p><p class="yt-video-title">
-[We found out who they are](https://www.youtube.com/watch?v=DIGkHnDnXe0&pp=2AYT)
-</p></div>
-
-</div>
-
-
-<div class="yt-video">
-
-
-[![../../assets/images/yt_thumbs/20260203074437_b5w9yO4A6Ws.png](../../assets/images/yt_thumbs/20260203074437_b5w9yO4A6Ws.png) ](https://www.youtube.com/watch?v=b5w9yO4A6Ws&pp=2AY0)<div><p class="yt-video-channel">Channel – [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)</p><p class="yt-video-title">
-[When You Retire With $1M, Tell No One, Here's Why...](https://www.youtube.com/watch?v=b5w9yO4A6Ws&pp=2AY0)
-</p></div>
-
-</div>
-
-
-<div class="yt-video">
-
-
-[![../../assets/images/yt_thumbs/20260203074437_ikeVMa8wcFo.png](../../assets/images/yt_thumbs/20260203074437_ikeVMa8wcFo.png) ](https://www.youtube.com/watch?v=ikeVMa8wcFo&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Japanize me!](https://www.youtube.com/@JapanizeMe1)</p><p class="yt-video-title">
-[How to Say “If” in Japanese: Easy Guide to ば(ba), たら(tara), andなら(nara)](https://www.youtube.com/watch?v=ikeVMa8wcFo&pp=0gcJCZEKAYcqIYzv)
-</p></div>
-
-</div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![LONG'S VIETNAMESE KITCHEN (@longs_vietnamesekitchen) • Instagram photos and videos](../../assets/images/food_thumbs/LongsVietnameseKitchen-2304E693-0953-4C00-8A0F-9D5BAF7AABD2.png)](https://www.instagram.com/longs_vietnamesekitchen/?hl=en) [LONG'S VIETNAMESE KITCHEN (@longs_vietnamesekitchen) • Instagram photos and videos](https://www.instagram.com/longs_vietnamesekitchen/?hl=en)
 
 </div>

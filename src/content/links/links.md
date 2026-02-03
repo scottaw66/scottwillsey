@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-02-03T13:57:52-08:00"
+date: "2026-02-03T14:09:44-08:00"
 slug: "links"
 ---
 
@@ -625,6 +625,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Photos and Words](https://photos.scottwillsey.com/)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
+- [Quick Stuff - Handy Lil' Tools](https://quickstuff.app)
 - [Rainglow, a demo of Eleventy Serverless](https://rainglow.zachleat.dev/3b5f3b/)
 - [Resistbot](https://resist.bot/)
 - [Retraction Watch – Tracking retractions as a window into the scientific process](https://retractionwatch.com/)
@@ -1128,7 +1129,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Codesmith](https://www.youtube.com/@Codesmith)
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo](https://www.youtube.com/@cultrepo)
+- [CultRepo ](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)
 - [Cybernews](https://www.youtube.com/@cybernews)
@@ -1145,7 +1146,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Ecamm Live](https://www.youtube.com/@EcammLive)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Epic Spaceman](https://www.youtube.com/@EpicSpaceman)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
@@ -1181,6 +1182,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Japanese Food Craftsman](https://www.youtube.com/@Japanesefoodcraftsman)
 - [Japanese Food Noodles](https://www.youtube.com/@Japanese_Food_Noodles)
 - [Japanese who Yuta](https://www.youtube.com/@JapanesewhoYuta)
+- [Japanese with Mako](https://www.youtube.com/@JapanesewithMako)
 - [Jenny Tian](https://www.youtube.com/@nomnomjenny)
 - [JeredBlu](https://www.youtube.com/@JeredBlu)
 - [JHMedium](https://www.youtube.com/@JHMedium)
@@ -1204,7 +1206,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
-- [Lingopie](https://www.youtube.com/@LingopieTV)
+- [Lingopie ](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1251,7 +1253,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
@@ -1267,6 +1269,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Samurai Daddy](https://www.youtube.com/@samurai-daddy)
 - [Savvy Nomad](https://www.youtube.com/@savvynomadio)
 - [Sayuri Saying](https://www.youtube.com/@SayuriSaying)
+- [Scott Hanselman](https://www.youtube.com/@shanselman)
 - [Scott MacFarlane Reports](https://www.youtube.com/@ScottMacFarlaneNews)
 - [Scott Yu-Jan](https://www.youtube.com/@ScottYuJan)
 - [Sean Dalton](https://www.youtube.com/@seandalt)
