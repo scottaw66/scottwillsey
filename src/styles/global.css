@@ -112,43 +112,43 @@
     --tag-text-hover-light: var(--text1-dark);
     --theme-toggle-light: var(--accent-orange-light);
 
-    --brand-dark: rgb(254, 214, 105);
-    --accent-pink-dark: rgb(255, 158, 200);
-    --accent-blue-dark: rgb(151, 226, 255);
-    --accent-purple-dark: rgb(193, 136, 249);
-    --accent-orange-darker-dark: #de9351;
-    --accent-orange-dark: #f3ca73;
-    --accent-white-dark: rgb(243, 246, 255);
-    --dates-dark: var(--accent-orange-darker-dark);
+    --brand-dark: #ffd500;
+    --accent-pink-dark: #ff6b00;
+    --accent-blue-dark: #ffaa00;
+    --accent-purple-dark: #c4a574;
+    --accent-orange-darker-dark: #ff6b00;
+    --accent-orange-dark: #ffaa00;
+    --accent-white-dark: #e0d5c5;
+    --dates-dark: #c4a574;
     --title-dark: var(--brand-dark);
-    --title-hover-dark: var(--accent-blue-dark);
-    --hyperlink-dark: var(--accent-blue-dark);
-    --hyperlink-blurb-dark: var(--hyperlink-dark);
-    --text1-dark: #fef9ef;
-    --text3-dark: #1c1c1c;
-    --quote-bg-dark: var(--surface-menu-dark);
-    --background-dark: #2e2e2e;
-    --surface-menu-dark: #3a3a3a;
-    --surface-yt-dark: #1c1c1c;
-    --nav-bg-dark: var(--surface-menu-dark);
-    --nav-border-dark: var(--surface-menu-dark);
-    --post-bg-dark: var(--background-dark);
-    --accent-shadow-dark: var(--hyperlink-dark);
-    --footnote-link-dark: var(--accent-blue-dark);
-    --footnote-bg-dark: var(--brand-dark);
-    --footnote-text-dark: var(--text3-dark);
-    --footnote-border-dark: var(--accent-blue-dark);
-    --footnote-bubble-dark: var(--brand-dark);
-    --pager-current-dark: var(--accent-blue-dark);
-    --pager-current-text-dark: var(--background-dark);
-    --pager-hover-dark: var(--brand-dark);
-    --search-bg-dark: var(--hyperlink-dark);
-    --search-text-dark: var(--text1-light);
-    --tag-bg-dark: var(--accent-blue-dark);
-    --tag-text-dark: var(--text3-dark);
-    --tag-bg-hover-dark: var(--accent-orange-darker-dark);
-    --tag-text-hover-dark: var(--text1-dark);
-    --theme-toggle-dark: var(--accent-orange);
+    --title-hover-dark: #ffaa00;
+    --hyperlink-dark: #ffaa00;
+    --hyperlink-blurb-dark: #c4a574;
+    --text1-dark: #e0d5c5;
+    --text3-dark: #1a1a1a;
+    --quote-bg-dark: #3d2f24;
+    --background-dark: #1a1a1a;
+    --surface-menu-dark: #2d221a;
+    --surface-yt-dark: #1a1a1a;
+    --nav-bg-dark: #2a2a2a;
+    --nav-border-dark: #5c4033;
+    --post-bg-dark: #2d221a;
+    --accent-shadow-dark: #ffd500;
+    --footnote-link-dark: #ffaa00;
+    --footnote-bg-dark: #ffd500;
+    --footnote-text-dark: #1a1a1a;
+    --footnote-border-dark: #5c4033;
+    --footnote-bubble-dark: #ffd500;
+    --pager-current-dark: #ff6b00;
+    --pager-current-text-dark: #1a1a1a;
+    --pager-hover-dark: #ffd500;
+    --search-bg-dark: #5c4033;
+    --search-text-dark: #e0d5c5;
+    --tag-bg-dark: #5c4033;
+    --tag-text-dark: #ffd500;
+    --tag-bg-hover-dark: #ff6b00;
+    --tag-text-hover-dark: #1a1a1a;
+    --theme-toggle-dark: #ffaa00;
   }
 
   [site-theme="light"] {
@@ -522,6 +522,65 @@
     @apply w-[250px] h-auto m-0;
   }
   /* End /now page section */
+}
+
+/* Atari stripe decorations (dark theme only) */
+[site-theme="dark"] body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background: linear-gradient(
+    to right,
+    #ff6b00 0% 33%,
+    #ffaa00 33% 66%,
+    #ffd500 66% 100%
+  );
+  z-index: 1000;
+  pointer-events: none;
+}
+
+[site-theme="dark"] :is(h1, h2, h3)::after {
+  content: "";
+  display: block;
+  height: 3px;
+  margin-top: 0.15em;
+  background: linear-gradient(
+    to right,
+    #ff6b00 0% 33%,
+    #ffaa00 33% 66%,
+    #ffd500 66% 100%
+  );
+  border-radius: 1.5px;
+}
+
+[site-theme="dark"] article h2::after,
+[site-theme="dark"] #CoolSiteSpotlight::after {
+  display: none;
+}
+
+[site-theme="dark"] article {
+  @apply border border-[#5c4033] rounded-xl;
+}
+
+[site-theme="dark"] section[aria-label="Blog post list"] h2::after {
+  display: none;
+}
+
+[site-theme="dark"] section[aria-label="Blog post list"] header:not(:first-of-type)::before {
+  content: "";
+  display: block;
+  height: 3px;
+  margin-bottom: 0.6em;
+  background: linear-gradient(
+    to right,
+    #ff6b00 0% 33%,
+    #ffaa00 33% 66%,
+    #ffd500 66% 100%
+  );
+  border-radius: 1.5px;
 }
 
 /* Barefoot footnote styles */
