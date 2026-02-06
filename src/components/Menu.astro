@@ -62,60 +62,23 @@ const iconSizes = {
 <script is:inline>
   const setTheme = () => {
     const themeToggle = document.getElementById("theme-toggle");
-
     let currentTheme = localStorage.getItem("theme");
-    switch (currentTheme) {
-      case "light":
-        enableLightTheme();
-        break;
-      case "hypercritical":
-        enableHypercriticalTheme();
-        break;
-      case "dark":
-        enableDarkTheme();
-        break;
-      default:
-        enableDarkTheme();
-        break;
-    }
+    if (currentTheme !== "light" && currentTheme !== "dark") currentTheme = "dark";
+    applyTheme(currentTheme);
 
     themeToggle.addEventListener("click", () => {
       if (document.documentElement.hasAttribute("site-theme")) {
         currentTheme = document.documentElement.getAttribute("site-theme");
       }
-      toggleTheme(currentTheme);
+      applyTheme(currentTheme === "dark" ? "light" : "dark");
     });
 
-    function enableDarkTheme() {
-      document.documentElement.setAttribute("site-theme", "dark");
-      localStorage.setItem("theme", "dark");
-      document.getElementById("mode-light-icon").style.display = "none";
-      document.getElementById("mode-dark-icon").style.display = "inline";
-    }
-
-    function enableLightTheme() {
-      document.documentElement.setAttribute("site-theme", "light");
-      localStorage.setItem("theme", "light");
-      document.getElementById("mode-light-icon").style.display = "inline";
-      document.getElementById("mode-dark-icon").style.display = "none";
-    }
-
-    function toggleTheme(currentTheme) {
-      if (currentTheme) {
-        switch (currentTheme) {
-          case "light":
-            enableDarkTheme();
-            break;
-          case "dark":
-            enableLightTheme();
-            break;
-          default:
-            enableLightTheme();
-            break;
-        }
-      } else {
-        enableLightTheme();
-      }
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("site-theme", theme);
+      localStorage.setItem("theme", theme);
+      const isLight = theme !== "dark";
+      document.getElementById("mode-light-icon").style.display = isLight ? "inline" : "none";
+      document.getElementById("mode-dark-icon").style.display = isLight ? "none" : "inline";
     }
   };
 
