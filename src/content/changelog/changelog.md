@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2026-02-05
+
+Atari themes
+
 ### 2026-01-30
 
 Created a cli dashboard for running all my site related scripts from in one place.
