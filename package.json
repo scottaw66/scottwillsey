@@ -1,6 +1,6 @@
 {
   "name": "scottwillsey3.0",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "Astro 3 version of ScottWillsey.com",
   "scripts": {
     "dev": "export NODE_ENV=development && astro dev",
