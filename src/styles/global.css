@@ -91,7 +91,7 @@
     --quote-bg-light: #e6dfd6;
     --surface-menu-light: #e6dfd6;
     --surface-yt-light: #e6dfd6;
-    --nav-bg-light: transparent;
+    --nav-bg-light: #faf8f5;
     --nav-border-light: #c8b8a4;
     --post-bg-light: #faf8f5;
     --background-light: #f0ebe4;
@@ -106,6 +106,7 @@
     --pager-hover-light: #d02840;
     --search-bg-light: #d6cfc6;
     --search-text-light: #2a2420;
+    --search-border-light: #a09888;
     --tag-bg-light: #1a6aa0;
     --tag-text-light: #faf8f5;
     --tag-bg-hover-light: #b81c30;
@@ -144,6 +145,7 @@
     --pager-hover-dark: #ff7860;
     --search-bg-dark: #35354a;
     --search-text-dark: #ece8e4;
+    --search-border-dark: #eeeeee;
     --tag-bg-dark: #35354a;
     --tag-text-dark: #3cb8c8;
     --tag-bg-hover-dark: #ff5c42;
@@ -169,7 +171,7 @@
     --quote-bg-light: #dfe0e4;
     --surface-menu-light: #dfe0e4;
     --surface-yt-light: #dfe0e4;
-    --nav-bg-light: transparent;
+    --nav-bg-light: #f9f9fa;
     --nav-border-light: #c0c1c8;
     --post-bg-light: #f9f9fa;
     --background-light: #eff0f2;
@@ -184,6 +186,7 @@
     --pager-hover-light: #8848c8;
     --search-bg-light: #d0d1d6;
     --search-text-light: #1e1e22;
+    --search-border-light: #9898a8;
     --tag-bg-light: #2898a8;
     --tag-text-light: #f9f9fa;
     --tag-bg-hover-light: #7038b0;
@@ -222,6 +225,7 @@
     --pager-hover: var(--pager-hover-light);
     --search-bg: var(--search-bg-light);
     --search-text: var(--search-text-light);
+    --search-border: var(--search-border-light);
     --tag-bg: var(--tag-bg-light);
     --tag-text: var(--tag-text-light);
     --tag-bg-hover: var(--tag-bg-hover-light);
@@ -266,6 +270,7 @@
     --pager-hover: var(--pager-hover-dark);
     --search-bg: var(--search-bg-dark);
     --search-text: var(--search-text-dark);
+    --search-border: var(--search-border-dark);
     --tag-bg: var(--tag-bg-dark);
     --tag-text: var(--tag-text-dark);
     --tag-bg-hover: var(--tag-bg-hover-dark);
@@ -770,6 +775,9 @@ section[aria-label="Blog post list"] header:not(:first-of-type)::before {
   display: none;
 }
 
+#search {
+  --pagefind-ui-border: var(--search-border);
+}
 #search .pagefind-ui__search-input,
 #search .pagefind-ui__search-clear {
   @apply bg-[var(--search-bg)] text-[var(--search-text)];
