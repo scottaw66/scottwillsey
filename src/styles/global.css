@@ -73,44 +73,44 @@
 
   /* CSS Variables for theming */
   html {
-    --brand-light: #1a40a0;
-    --accent-blue-light: #1a60d0;
-    --accent-purple-light: #6a10c0;
-    --accent-orange-light: #1a60d0;
-    --accent-orange-darker-light: #4a08a0;
-    --accent-white-light: #1c1c2e;
-    --accent-pink-light: #9040d0;
-    --dates-light: #7a68a8;
+    --brand-light: #b81c30;
+    --accent-blue-light: #1a6aa0;
+    --accent-purple-light: #7a30a0;
+    --accent-orange-light: #d06020;
+    --accent-orange-darker-light: #b81c30;
+    --accent-white-light: #2a2420;
+    --accent-pink-light: #b81c30;
+    --dates-light: #887868;
     --title-light: var(--brand-light);
-    --title-hover-light: #1a60d0;
-    --hyperlink-light: #1a60d0;
-    --hyperlink-blurb-light: #1a60d0;
-    --text1-light: #1c1c2e;
-    --text3-light: white;
+    --title-hover-light: #d02840;
+    --hyperlink-light: #1a6aa0;
+    --hyperlink-blurb-light: #1a6aa0;
+    --text1-light: #2a2420;
+    --text3-light: #faf8f5;
     --quote-light: var(--text1-light);
-    --quote-bg-light: #eeeaff;
-    --surface-menu-light: #eeeaff;
-    --surface-yt-light: #e4e0f8;
+    --quote-bg-light: #e6dfd6;
+    --surface-menu-light: #e6dfd6;
+    --surface-yt-light: #e6dfd6;
     --nav-bg-light: transparent;
-    --nav-border-light: #a090d0;
-    --post-bg-light: #f8f6ff;
-    --background-light: white;
-    --accent-shadow-light: #6a10c0;
-    --footnote-link-light: white;
-    --footnote-bg-light: #6a10c0;
-    --footnote-text-light: white;
-    --footnote-border-light: #a090d0;
-    --footnote-bubble-light: #6a10c0;
-    --pager-current-light: #1a60d0;
-    --pager-current-text-light: white;
-    --pager-hover-light: #6a10c0;
-    --search-bg-light: #a090d0;
-    --search-text-light: #1c1c2e;
-    --tag-bg-light: #a090d0;
-    --tag-text-light: #1c1c2e;
-    --tag-bg-hover-light: #6a10c0;
-    --tag-text-hover-light: white;
-    --theme-toggle-light: #6a10c0;
+    --nav-border-light: #c8b8a4;
+    --post-bg-light: #faf8f5;
+    --background-light: #f0ebe4;
+    --accent-shadow-light: #b81c30;
+    --footnote-link-light: #faf8f5;
+    --footnote-bg-light: #b81c30;
+    --footnote-text-light: #faf8f5;
+    --footnote-border-light: #c8b8a4;
+    --footnote-bubble-light: #b81c30;
+    --pager-current-light: #b81c30;
+    --pager-current-text-light: #faf8f5;
+    --pager-hover-light: #d02840;
+    --search-bg-light: #d6cfc6;
+    --search-text-light: #2a2420;
+    --tag-bg-light: #1a6aa0;
+    --tag-text-light: #faf8f5;
+    --tag-bg-hover-light: #b81c30;
+    --tag-text-hover-light: #faf8f5;
+    --theme-toggle-light: #b81c30;
 
     --brand-dark: #ffd500;
     --accent-pink-dark: #ff6b00;
@@ -152,13 +152,14 @@
   }
 
   [site-theme="light"] {
-    --stripe-left: #6a10c0;
-    --stripe-mid: #4040e0;
-    --stripe-right: #60a0ff;
+    --stripe-left: #b81c30;
+    --stripe-mid: #d06020;
+    --stripe-right: #f0a030;
     --brand: var(--brand-light);
     --accent-blue: var(--accent-blue-light);
     --accent-purple: var(--accent-purple-light);
     --accent-orange-darker: var(--accent-orange-darker-light);
+    --accent-orange: var(--accent-orange-light);
     --accent-white: var(--accent-white-light);
     --accent-pink: var(--accent-pink-light);
     --dates: var(--dates-light);
