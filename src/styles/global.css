@@ -571,7 +571,11 @@ article {
   @apply border border-nav-border rounded-xl;
 }
 
-section[aria-label="Blog post list"] h2::after {
+article article {
+  @apply border-0;
+}
+
+section[aria-label="Blog post list"] :is(h2, h3)::after {
   display: none;
 }
 
