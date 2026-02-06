@@ -73,44 +73,44 @@
 
   /* CSS Variables for theming */
   html {
-    --brand-light: #01a0ff;
-    --accent-blue-light: rgb(0, 92, 222);
-    --accent-purple-light: rgb(106, 0, 212);
-    --accent-orange-light: rgb(255, 136, 0);
-    --accent-orange-darker-light: #dd4d00;
-    --accent-white-light: rgb(48, 49, 52);
-    --accent-pink-light: rgb(253, 62, 145);
-    --dates-light: #6c6c6c;
+    --brand-light: #1a40a0;
+    --accent-blue-light: #1a60d0;
+    --accent-purple-light: #6a10c0;
+    --accent-orange-light: #1a60d0;
+    --accent-orange-darker-light: #4a08a0;
+    --accent-white-light: #1c1c2e;
+    --accent-pink-light: #9040d0;
+    --dates-light: #7a68a8;
     --title-light: var(--brand-light);
-    --title-hover-light: var(--accent-orange-light);
-    --hyperlink-light: var(--brand-light);
-    --hyperlink-blurb-light: var(--hyperlink-light);
-    --text1-light: #2e2e2e;
+    --title-hover-light: #1a60d0;
+    --hyperlink-light: #1a60d0;
+    --hyperlink-blurb-light: #1a60d0;
+    --text1-light: #1c1c2e;
     --text3-light: white;
     --quote-light: var(--text1-light);
-    --quote-bg-light: #fff7ca;
-    --surface-menu-light: #effaff;
-    --surface-yt-light: #ceefff;
-    --nav-bg-light: var(--surface-menu-light);
-    --nav-border-light: var(--brand-light);
-    --post-bg-light: var(--background-light);
-    --background-light: #fffdf8;
-    --accent-shadow-light: rgba(101, 18, 179, 0.7);
-    --footnote-link-light: var(--text3-light);
-    --footnote-bg-light: var(--brand-light);
-    --footnote-text-light: var(--text3-light);
-    --footnote-border-light: var(--brand-light);
-    --footnote-bubble-light: var(--brand-light);
-    --pager-current-light: var(--brand-light);
-    --pager-current-text-light: var(--surface-menu-light);
-    --pager-hover-light: var(--brand-light);
-    --search-bg-light: var(--brand-light);
-    --search-text-light: var(--text1);
-    --tag-bg-light: var(--brand-light);
-    --tag-text-light: var(--text3-light);
-    --tag-bg-hover-light: var(--accent-orange-light);
-    --tag-text-hover-light: var(--text1-dark);
-    --theme-toggle-light: var(--accent-orange-light);
+    --quote-bg-light: #eeeaff;
+    --surface-menu-light: #eeeaff;
+    --surface-yt-light: #e4e0f8;
+    --nav-bg-light: transparent;
+    --nav-border-light: #a090d0;
+    --post-bg-light: #f8f6ff;
+    --background-light: white;
+    --accent-shadow-light: #6a10c0;
+    --footnote-link-light: white;
+    --footnote-bg-light: #6a10c0;
+    --footnote-text-light: white;
+    --footnote-border-light: #a090d0;
+    --footnote-bubble-light: #6a10c0;
+    --pager-current-light: #1a60d0;
+    --pager-current-text-light: white;
+    --pager-hover-light: #6a10c0;
+    --search-bg-light: #a090d0;
+    --search-text-light: #1c1c2e;
+    --tag-bg-light: #a090d0;
+    --tag-text-light: #1c1c2e;
+    --tag-bg-hover-light: #6a10c0;
+    --tag-text-hover-light: white;
+    --theme-toggle-light: #6a10c0;
 
     --brand-dark: #ffd500;
     --accent-pink-dark: #ff6b00;
@@ -152,6 +152,9 @@
   }
 
   [site-theme="light"] {
+    --stripe-left: #6a10c0;
+    --stripe-mid: #4040e0;
+    --stripe-right: #60a0ff;
     --brand: var(--brand-light);
     --accent-blue: var(--accent-blue-light);
     --accent-purple: var(--accent-purple-light);
@@ -193,6 +196,9 @@
   }
 
   [site-theme="dark"] {
+    --stripe-left: #ff6b00;
+    --stripe-mid: #ffaa00;
+    --stripe-right: #ffd500;
     --brand: var(--brand-dark);
     --accent-blue: var(--accent-blue-dark);
     --accent-purple: var(--accent-purple-dark);
@@ -524,8 +530,8 @@
   /* End /now page section */
 }
 
-/* Atari stripe decorations (dark theme only) */
-[site-theme="dark"] body::before {
+/* Atari stripe decorations */
+body::before {
   content: "";
   position: fixed;
   top: 0;
@@ -534,51 +540,51 @@
   height: 8px;
   background: linear-gradient(
     to right,
-    #ff6b00 0% 33%,
-    #ffaa00 33% 66%,
-    #ffd500 66% 100%
+    var(--stripe-left) 0% 33%,
+    var(--stripe-mid) 33% 66%,
+    var(--stripe-right) 66% 100%
   );
   z-index: 1000;
   pointer-events: none;
 }
 
-[site-theme="dark"] :is(h1, h2, h3)::after {
+:is(h1, h2, h3)::after {
   content: "";
   display: block;
   height: 3px;
   margin-top: 0.15em;
   background: linear-gradient(
     to right,
-    #ff6b00 0% 33%,
-    #ffaa00 33% 66%,
-    #ffd500 66% 100%
+    var(--stripe-left) 0% 33%,
+    var(--stripe-mid) 33% 66%,
+    var(--stripe-right) 66% 100%
   );
   border-radius: 1.5px;
 }
 
-[site-theme="dark"] article h2::after,
-[site-theme="dark"] #CoolSiteSpotlight::after {
+article h2::after,
+#CoolSiteSpotlight::after {
   display: none;
 }
 
-[site-theme="dark"] article {
-  @apply border border-[#5c4033] rounded-xl;
+article {
+  @apply border border-nav-border rounded-xl;
 }
 
-[site-theme="dark"] section[aria-label="Blog post list"] h2::after {
+section[aria-label="Blog post list"] h2::after {
   display: none;
 }
 
-[site-theme="dark"] section[aria-label="Blog post list"] header:not(:first-of-type)::before {
+section[aria-label="Blog post list"] header:not(:first-of-type)::before {
   content: "";
   display: block;
   height: 3px;
   margin-bottom: 0.6em;
   background: linear-gradient(
     to right,
-    #ff6b00 0% 33%,
-    #ffaa00 33% 66%,
-    #ffd500 66% 100%
+    var(--stripe-left) 0% 33%,
+    var(--stripe-mid) 33% 66%,
+    var(--stripe-right) 66% 100%
   );
   border-radius: 1.5px;
 }
