@@ -1,13 +1,13 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-02-03T14:09:44-08:00"
+date: "2026-02-10T09:28:51-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Now is a good time to have a finely tuned BS detector when it comes to tech. Too good to be true IS too good to be true. It's also a good time to have a high social BS detector. Too authoritarian IS too authoritarian.
+> You may notice new colors and section breaks in both dark and light modes. These started out as Atari colored themes and then changed slightly, but either way, I think the site is more visually interesting now. Dark mode definitely looks better... suggestions for light mode happily accepted.
 
 ## Current Projects
 
@@ -21,16 +21,16 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![Debunking Hacklore](../../assets/images/oc_artwork/1107267134247080-435fd139-800d-4c92-ba1e-f6a473d85ad3.png)](https://overcast.fm/+PvDbg1UKg) [Firewalls Don't Stop Dragons Podcast – Debunking Hacklore](https://overcast.fm/+PvDbg1UKg)
-[![62: OceanGate Titan](../../assets/images/oc_artwork/2220795136463592-385b4c54-2da8-4817-86a2-1f98fa4d5638.png)](https://overcast.fm/+fjzSk6Uug) [Causality – 62: OceanGate Titan](https://overcast.fm/+fjzSk6Uug)
-![The key tech trends of F1’s 2026 cars (ad-free)](../../assets/images/oc_artwork/5523677946216897-e26afd37-268d-42e1-89bb-2ed97ed993ce.png) The Race F1 Podcast (Members) – The key tech trends of F1’s 2026 cars (ad-free)
-[![Best of 2025!](../../assets/images/oc_artwork/1107266404087838-ff9f39bd-6d50-43f9-97c8-3c13f0c44bd5.png)](https://overcast.fm/+PvDYyv-B4) [Firewalls Don't Stop Dragons Podcast – Best of 2025!](https://overcast.fm/+PvDYyv-B4)
-![The Future of Apps in an AI-Coded World](../../assets/images/oc_artwork/5991025695785159-ad994308-b21d-4328-99ee-70868e706d80.png) AppStories+ – The Future of Apps in an AI-Coded World
-[![440: ‘Flush a Radar’, With Brent Simmons](../../assets/images/oc_artwork/135464096535956-07c7e998-7f2a-4a1c-8bc9-b3d99d3abb74.png)](https://overcast.fm/+B7NDFalZQ) [The Talk Show With John Gruber – 440: ‘Flush a Radar’, With Brent Simmons](https://overcast.fm/+B7NDFalZQ)
-![Elon Musk Profits Off Non-Consensual Deepfakes w/ Kat Tenbarge](../../assets/images/oc_artwork/5585832441984913-35c7945a-8490-4277-b83c-47b52c9c47e1.png) Tech Won't Save Us (Premium) – Elon Musk Profits Off Non-Consensual Deepfakes w/ Kat Tenbarge
-[![Level 1 Lesson 3](../../assets/images/oc_artwork/4149800048345321-1dabea7c-122e-4ba9-9eeb-e773a8f401ac.png)](https://overcast.fm/+6-OJ3FQOk) [Talk To Me In Korean – Level 1 Lesson 3](https://overcast.fm/+6-OJ3FQOk)
-[![Level 1 Lesson 2](../../assets/images/oc_artwork/4149800327414849-5c5b0c7d-c140-4c68-a18a-5c5aa42225f5.png)](https://overcast.fm/+6-OK5nhEE) [Talk To Me In Korean – Level 1 Lesson 2](https://overcast.fm/+6-OK5nhEE)
-[![Level 1 Lesson 1](../../assets/images/oc_artwork/4149800517530888-cac0468f-48ae-4c2a-88c7-1560d69e1417.png)](https://overcast.fm/+6-OLm8dQg) [Talk To Me In Korean – Level 1 Lesson 1](https://overcast.fm/+6-OLm8dQg)
+[![Chapter 8: The Round Table Part 2](../../assets/images/oc_artwork/5934349808270776-694e8020-ca21-419e-bd92-ef781675ad85.png)](https://overcast.fm/+BUVQnxLfbg) [Killer In The Code – Chapter 8: The Round Table Part 2](https://overcast.fm/+BUVQnxLfbg)
+[![Chapter 7: The Round Table Part 1](../../assets/images/oc_artwork/5934349115606337-6ce382ed-a432-4c3a-b35f-8ec6d3fac123.png)](https://overcast.fm/+BUVQlMCRUE) [Killer In The Code – Chapter 7: The Round Table Part 1](https://overcast.fm/+BUVQlMCRUE)
+![From Bahrain to Saudi and back: Jon’s day at Aston Martin’s 2026 launch](../../assets/images/oc_artwork/5523677877203090-d3096889-e12c-4aa2-9477-ca088298c2e3.png) The Race F1 Podcast (Members) – From Bahrain to Saudi and back: Jon’s day at Aston Martin’s 2026 launch
+![Siemens CEO’s mission to automate everything](../../assets/images/oc_artwork/5816355601616829-355f3fe0-4498-48eb-b221-4cb9ec9dbb2d.png) Decoder: Ad-Free Edition – Siemens CEO’s mission to automate everything
+![Why Aston Martin hinted it’ll start 2026 behind rivals (ad-free)](../../assets/images/oc_artwork/5523677816849368-e2529374-83d6-4a07-aa3d-7c41f7e07891.png) The Race F1 Podcast (Members) – Why Aston Martin hinted it’ll start 2026 behind rivals (ad-free)
+[![Operationalizing Threat Intelligence with Recorded Future](../../assets/images/oc_artwork/5476005287598874-a4e381ed-ca55-458a-9c66-560f6e34e3e8.png)](https://overcast.fm/+BN0ZdX0mxo) [Security You Should Know – Operationalizing Threat Intelligence with Recorded Future](https://overcast.fm/+BN0ZdX0mxo)
+[![609 Super Bowl Trailers & Most Anticipated Movies 2026](../../assets/images/oc_artwork/3737328223712336-24875947-4a17-41b2-80cd-23af87036724.png)](https://overcast.fm/+1HFIku9FA) [The Weekly Planet – 609 Super Bowl Trailers & Most Anticipated Movies 2026](https://overcast.fm/+1HFIku9FA)
+[![Agents of Misfortune](../../assets/images/oc_artwork/1107266930237039-4ce5953c-1cd1-4b3f-b053-b0d7aa0bc07d.png)](https://overcast.fm/+PvDawMXm8) [Firewalls Don't Stop Dragons Podcast – Agents of Misfortune](https://overcast.fm/+PvDawMXm8)
+![One Notion: Two Approaches](../../assets/images/oc_artwork/5991026120231572-148919ca-42a3-4dcb-a0ba-dbbf4446ae88.png) AppStories+ – One Notion: Two Approaches
+![Reality is losing the deepfake war](../../assets/images/oc_artwork/5816355717988822-16b04bee-ed0a-4687-a065-e27e5ace101f.png) Decoder: Ad-Free Edition – Reality is losing the deepfake war
 
 </div>
 
@@ -38,6 +38,8 @@ slug: "now"
 
 ### Books
 
+[<span hidden>Falling Free (Vorkosigan Saga) • 2015 • Lois McMaster Bujold I'm giving this a 3 star here because I can't give it a 2.5, but please understand this book has an average 4.0 rating. It definitely didn't quite sell me. I didn't really like Leo, and his romance with Silver at the end seemed forced. ****</span>
+![Falling Free (Vorkosigan Saga) • 2015 • Lois McMaster Bujold I'm giving this a 3 star here because I can't give it a 2.5, but please understand this book has an average 4.0 rating. It definitely didn't quite sell me. I didn't really like Leo, and his romance with Silver at the end seemed forced. ****](../../assets/images/posts/png-image489eb5250e0-review-132bc5fe-2a88-4ba0-9153-481fbd57bf93.png)](/images/posts/png-image489eb5250e0-review-132bc5fe-2a88-4ba0-9153-481fbd57bf93.jpg)
 [<span hidden>The Best Science Fiction and Fantasy of the Year Volume 2 • Jonathan Strahan • Mar 1, 2008 • This is a really good and varied compilation of stories. The thing these books do well is introduce you to stories and authors you wouldn't have found yourself, and that are certainly interesting and thought-proving. *****</span>
 ![The Best Science Fiction and Fantasy of the Year Volume 2 • Jonathan Strahan • Mar 1, 2008 • This is a really good and varied compilation of stories. The thing these books do well is introduce you to stories and authors you wouldn't have found yourself, and that are certainly interesting and thought-proving. *****](../../assets/images/posts/png-image477b8a8df50-review-085d7f25-50b9-400e-a578-287471d5d87e.png)](/images/posts/png-image477b8a8df50-review-085d7f25-50b9-400e-a578-287471d5d87e.jpg)
 [<span hidden>The Convenience Store by the Sea • First Time Read • 2020 • Sonoko Machida • I didn't know what to think of this book initially. It felt slightly stilted, whether due to translation or not, I'm not sure. But I kept reading. And it started drawing me in by brilliantly building intertwined moments of social interactions and vignettes of character development. • Loved It!</span>
@@ -61,96 +63,96 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_XTIxgbEeJ84.png](../../assets/images/yt_thumbs/20260203140137_XTIxgbEeJ84.png)](https://www.youtube.com/watch?v=XTIxgbEeJ84)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[What another late F1 car has exposed about Williams](https://www.youtube.com/watch?v=XTIxgbEeJ84)
+[![../../assets/images/yt_thumbs/20260210082053_baAW62HvbJA.png](../../assets/images/yt_thumbs/20260210082053_baAW62HvbJA.png)](https://www.youtube.com/watch?v=baAW62HvbJA&pp=0gcJCZQKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Jenny Tian](https://www.youtube.com/@nomnomjenny)</p><p class="yt-video-title">
+[Jenny Tian: Chinese Australian | FULL SPECIAL](https://www.youtube.com/watch?v=baAW62HvbJA&pp=0gcJCZQKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_C8wKomo4Wds.png](../../assets/images/yt_thumbs/20260203140137_C8wKomo4Wds.png)](https://www.youtube.com/watch?v=C8wKomo4Wds&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
-[they got notepad++](https://www.youtube.com/watch?v=C8wKomo4Wds&pp=0gcJCZEKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260210082053_33gJqcKTx-Y.png](../../assets/images/yt_thumbs/20260210082053_33gJqcKTx-Y.png)](https://www.youtube.com/watch?v=33gJqcKTx-Y)<div><p class="yt-video-channel">Channel – [KOTSUMET](https://www.youtube.com/@KOTARO_OTTER)</p><p class="yt-video-title">
+[Otters Super Excited for Giant Tuna!](https://www.youtube.com/watch?v=33gJqcKTx-Y)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_8ag6gSzsGbc.png](../../assets/images/yt_thumbs/20260203140137_8ag6gSzsGbc.png)](https://www.youtube.com/watch?v=8ag6gSzsGbc)<div><p class="yt-video-channel">Channel – [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder)</p><p class="yt-video-title">
-[We are Much Closer to Kessler Syndrome Than We Thought](https://www.youtube.com/watch?v=8ag6gSzsGbc)
+[![../../assets/images/yt_thumbs/20260210082053_tb-VKsZXI7k.png](../../assets/images/yt_thumbs/20260210082053_tb-VKsZXI7k.png)](https://www.youtube.com/watch?v=tb-VKsZXI7k)<div><p class="yt-video-channel">Channel – [Kevin Ulett - Snake Handler](https://www.youtube.com/@KevinUlett)</p><p class="yt-video-title">
+[Cape Cobra tries to EAT a Deadly Boomslang!](https://www.youtube.com/watch?v=tb-VKsZXI7k)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_y5B9XQ7_ubc.png](../../assets/images/yt_thumbs/20260203140137_y5B9XQ7_ubc.png)](https://www.youtube.com/watch?v=y5B9XQ7_ubc)<div><p class="yt-video-channel">Channel – [Scott Hanselman](https://www.youtube.com/@shanselman)</p><p class="yt-video-title">
-[AI and OpenClaw (née Clawdbot) and tools like Claude Code and GitHub Copilot for non-technical folks](https://www.youtube.com/watch?v=y5B9XQ7_ubc)
+[![../../assets/images/yt_thumbs/20260210082053_7-oUwgNuv4E.png](../../assets/images/yt_thumbs/20260210082053_7-oUwgNuv4E.png)](https://www.youtube.com/watch?v=7-oUwgNuv4E&t=762s)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[Japan Is Revising Its Property Rules — Here’s What’s Changing](https://www.youtube.com/watch?v=7-oUwgNuv4E&t=762s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_7Cf4n-DSYCo.png](../../assets/images/yt_thumbs/20260203140137_7Cf4n-DSYCo.png)](https://www.youtube.com/watch?v=7Cf4n-DSYCo&t=7s&pp=0gcJCZEKAYcqIYzv)<div><p class="yt-video-channel">Channel – [TRT World](https://www.youtube.com/@trtworld)</p><p class="yt-video-title">
-[Why are passports of American citizens flagged by the government?](https://www.youtube.com/watch?v=7Cf4n-DSYCo&t=7s&pp=0gcJCZEKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260210082053_qnOmUWd-OII.png](../../assets/images/yt_thumbs/20260210082053_qnOmUWd-OII.png)](https://www.youtube.com/watch?v=qnOmUWd-OII)<div><p class="yt-video-channel">Channel – [More Perfect Union](https://www.youtube.com/@moreperfectunion)</p><p class="yt-video-title">
+[OpenAl Showed Up At My Door. Here’s Why They’re Targeting People Like Me](https://www.youtube.com/watch?v=qnOmUWd-OII)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_WEEKBlQfGt8.png](../../assets/images/yt_thumbs/20260203140137_WEEKBlQfGt8.png)](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=218s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real.](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=218s)
+[![../../assets/images/yt_thumbs/20260210082053_RJhqGDZbqBI.png](../../assets/images/yt_thumbs/20260210082053_RJhqGDZbqBI.png)](https://www.youtube.com/watch?v=RJhqGDZbqBI&t=7s)<div><p class="yt-video-channel">Channel – [Novara Media](https://www.youtube.com/@NovaraMedia)</p><p class="yt-video-title">
+[The Epstein Mossad Connections Have Gone Mainstream](https://www.youtube.com/watch?v=RJhqGDZbqBI&t=7s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_fM5LcS7VeL0.png](../../assets/images/yt_thumbs/20260203140137_fM5LcS7VeL0.png)](https://www.youtube.com/watch?v=fM5LcS7VeL0)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
-[Moltbook Is Stupid](https://www.youtube.com/watch?v=fM5LcS7VeL0)
+[![../../assets/images/yt_thumbs/20260210082053_5rMfYlthm4U.png](../../assets/images/yt_thumbs/20260210082053_5rMfYlthm4U.png)](https://www.youtube.com/watch?v=5rMfYlthm4U&pp=0gcJCZQKAYcqIYzv)<div><p class="yt-video-channel">Channel – [毎日甘いもの食べたい](https://www.youtube.com/@yuuuuto38)</p><p class="yt-video-title">
+[Fruits Souffle pancakes / Japanese Street Food](https://www.youtube.com/watch?v=5rMfYlthm4U&pp=0gcJCZQKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_jRuFxyuWF1Y.png](../../assets/images/yt_thumbs/20260203140137_jRuFxyuWF1Y.png)](https://www.youtube.com/watch?v=jRuFxyuWF1Y&t=298s)<div><p class="yt-video-channel">Channel – [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)</p><p class="yt-video-title">
-[Is Proton Leaving Switzerland? (No Longer Secure)](https://www.youtube.com/watch?v=jRuFxyuWF1Y&t=298s)
+[![../../assets/images/yt_thumbs/20260210082053_oe_6iB-2H1M.png](../../assets/images/yt_thumbs/20260210082053_oe_6iB-2H1M.png)](https://www.youtube.com/watch?v=oe_6iB-2H1M&t=939s)<div><p class="yt-video-channel">Channel – [Japanese Food Noodles](https://www.youtube.com/@Japanese_Food_Noodles)</p><p class="yt-video-title">
+[How This Old Man Runs the Last Soba Shop in a Ghost Town.](https://www.youtube.com/watch?v=oe_6iB-2H1M&t=939s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_Fe002CWL09k.png](../../assets/images/yt_thumbs/20260203140137_Fe002CWL09k.png)](https://www.youtube.com/watch?v=Fe002CWL09k)<div><p class="yt-video-channel">Channel – [Aldas](https://www.youtube.com/@Aldas001)</p><p class="yt-video-title">
-[All 11 F1 Teams Ranked After Barcelona Testing](https://www.youtube.com/watch?v=Fe002CWL09k)
+[![../../assets/images/yt_thumbs/20260210082053_Deh5tR1fTk8.png](../../assets/images/yt_thumbs/20260210082053_Deh5tR1fTk8.png)](https://www.youtube.com/watch?v=Deh5tR1fTk8&t=797s)<div><p class="yt-video-channel">Channel – [MS NOW](https://www.youtube.com/@msnow)</p><p class="yt-video-title">
+[LIVE: Reps. Khanna and Massie speak after reviewing unredacted Epstein files](https://www.youtube.com/watch?v=Deh5tR1fTk8&t=797s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_p9acrso71KU.png](../../assets/images/yt_thumbs/20260203140137_p9acrso71KU.png)](https://www.youtube.com/watch?v=p9acrso71KU)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)](https://www.youtube.com/watch?v=p9acrso71KU)
+[![../../assets/images/yt_thumbs/20260210082053_9NKNX7TSv64.png](../../assets/images/yt_thumbs/20260210082053_9NKNX7TSv64.png)](https://www.youtube.com/watch?v=9NKNX7TSv64)<div><p class="yt-video-channel">Channel – [MS NOW](https://www.youtube.com/@msnow)</p><p class="yt-video-title">
+[Rep. Raskin: ‘Puzzling, mysterious redactions’ in Epstein files](https://www.youtube.com/watch?v=9NKNX7TSv64)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_EX_VFdPRom0.png](../../assets/images/yt_thumbs/20260203140137_EX_VFdPRom0.png)](https://www.youtube.com/watch?v=EX_VFdPRom0&t=23s)<div><p class="yt-video-channel">Channel – [Brenna Perez](https://www.youtube.com/@perezbrenna)</p><p class="yt-video-title">
-[The Uncomfortable Truth: Jesus Ochoa and Raymundo Gutierrez](https://www.youtube.com/watch?v=EX_VFdPRom0&t=23s)
+[![../../assets/images/yt_thumbs/20260210082053_2d1jRdRpf8I.png](../../assets/images/yt_thumbs/20260210082053_2d1jRdRpf8I.png)](https://www.youtube.com/watch?v=2d1jRdRpf8I&pp=0gcJCZQKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Ron](https://www.youtube.com/@Ron-RisingSunProperties)</p><p class="yt-video-title">
+[26K Condo For Sale - Nagoya, Japan](https://www.youtube.com/watch?v=2d1jRdRpf8I&pp=0gcJCZQKAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260203140137_OEqpoBfzV3M.png](../../assets/images/yt_thumbs/20260203140137_OEqpoBfzV3M.png)](https://www.youtube.com/watch?v=OEqpoBfzV3M)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
-[They just NUKED TRUMP](https://www.youtube.com/watch?v=OEqpoBfzV3M)
+[![../../assets/images/yt_thumbs/20260210082053_fLVDj7C7ZtM.png](../../assets/images/yt_thumbs/20260210082053_fLVDj7C7ZtM.png)](https://www.youtube.com/watch?v=fLVDj7C7ZtM)<div><p class="yt-video-channel">Channel – [Katie Phang](https://www.youtube.com/@katiephangnews)</p><p class="yt-video-title">
+[Maxwell TAKES THE FIFTH as Epstein COVER-UP IMPLODES](https://www.youtube.com/watch?v=fLVDj7C7ZtM)
 </p></div>
 
 </div>
