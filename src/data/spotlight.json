@@ -1,6 +1,6 @@
 {
-  "Site": "https://outerspaceinstitute.ca/crashclock/",
-  "Title": "CRASH Clock \u2013 Outer Space Institute",
-  "Description": "The CRASH Clock is an environmental indicator for assessing the collision risk in low Earth orbit (LEO).\n\nThe Crash Clock asks, What is the expected time for a potential collision in LEO between tracked artificial objects — including satellites, debris, and abandoned rocket bodies — if all manoeuvres were to stop? While this is a hypothetical situation, it reflects the degree to which humanity is dependent on errorless operations in orbit. The CRASH Clock also does not consider non-trackable objects.",
-  "Image": "CrashClock-46D42907-F87A-4B95-80C3-7F68517AFFBE"
+  "Site": "https://datasette.io",
+  "Title": "Datasette: An open source multi-tool for exploring and publishing data",
+  "Description": "Datasette is a tool for exploring and publishing data. It helps people take data of any shape, analyze and explore it, and publish it as an interactive website and accompanying API. Datasette is aimed at data journalists, museum curators, archivists, local governments, scientists, researchers and anyone else who has data that they wish to share with the world.",
+  "Image": "Datasette-84DB2A7C-8426-44B3-8E92-0ABB48AE15B0"
 }

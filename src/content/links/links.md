@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-02-10T09:28:51-08:00"
+date: "2026-03-01T18:13:55-08:00"
 slug: "links"
 ---
 
@@ -575,6 +575,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [Colorpeek Â· Simply Share Colors](https://colorpeek.com)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com)
+- [CRASH Clock – Outer Space Institute](https://outerspaceinstitute.ca/crashclock/)
 - [CSS Logo | chriskirknielsen](https://chriskirknielsen.com/css-logo/)
 - [CSS Zen Garden](https://csszengarden.com)
 - [Decarbonize your life](https://heatmap.news/decarbonize-your-life)

@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2025-11-29T14:12:56-08:00"
+date: "2026-03-01T18:13:55-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -29,6 +29,7 @@ slug: "uses"
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [OpenAI Codex](https://openai.com/codex/)
 - [Orchard - Bridge AI Assistants to Your Apple Ecosystem](https://orchard.5km.tech/)
+- [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
 
 ### Automation and Utilities
 
@@ -50,15 +51,16 @@ slug: "uses"
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Starship](https://starship.rs)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
+- [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [vim-plug](https://github.com/junegunn/vim-plug)
-- [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+- [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
 
 ### Browsers and Bookmarks
 
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Google Chrome - The Fast & Secure Web Browser Built to be Yours](https://www.google.com/chrome/) *I use this for certain types of work related use cases.*
-- [Safari - Apple](https://www.apple.com/safari/) *I use this for most of my browsing and all personal use.*
+- [Orion Browser by Kagi](https://orionbrowser.com/) *I use this for most of my browsing and all personal use. I used to use Safari for personal use, but it just makes the 1Password extension unusable. Orion doesn't.* 🤷
 
 ### Documentation and Notes
 
