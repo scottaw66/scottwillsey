@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-03-01T18:13:55-08:00"
+date: "2026-03-09T07:20:42-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I have had a cold for about a week and a half, and... no, I'm sorry, it's almost two weeks, and I am just wiped out.
+> Thinking about making [Friends with Brews](https://friendswithbrews.com/) either wholly or primarily a YouTube channel. It fits the video medium better.
 
 ## Current Projects
 
-- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/).
+- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Currently doing the Hangeul 7 day challenge just to make myself get to work.
 
 ## Stuff I've recently enjoyed
 
@@ -21,16 +21,16 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![NC #1086 Broken Femur, Rescue Retriever, Audiobook Recording V3 Part 1 Eddie Tonki, Security Bits](../../assets/images/oc_artwork/5142865156504398-5e61bede-fb77-4fd1-9a1f-4ab5f1cfadd8.png)](https://overcast.fm/+BJFaJrH-04) [NosillaCast Apple Podcast – NC #1086 Broken Femur, Rescue Retriever, Audiobook Recording V3 Part 1 Eddie Tonki, Security Bits](https://overcast.fm/+BJFaJrH-04)
-![Greetings from Melbourne! Jon’s welcome message after making it to Australia](../../assets/images/oc_artwork/5523677071444946-d37311fd-da22-49be-8c82-d8e0c255ad07.png) The Race F1 Podcast (Members) – Greetings from Melbourne! Jon’s welcome message after making it to Australia
-[![Greg Is a Reindeer](../../assets/images/oc_artwork/4312414250493878-04b049f1-731a-40c1-a05c-53de306966ab.png)](https://overcast.fm/+9SHi-GZ7Y) [Friends with Brews – Greg Is a Reindeer](https://overcast.fm/+9SHi-GZ7Y)
-![Our Apple Hardware Wish List for 2026](../../assets/images/oc_artwork/5991025848271280-644c4c8f-6127-422a-ac3d-79a34922caee.png) AppStories+ – Our Apple Hardware Wish List for 2026
-[![442: ‘Bad Dates’, With Jason Snell](../../assets/images/oc_artwork/135463461045851-b4fe008c-8b44-495a-b750-944325abdb4f.png)](https://overcast.fm/+B7NAt5xls) [The Talk Show With John Gruber – 442: ‘Bad Dates’, With Jason Snell](https://overcast.fm/+B7NAt5xls)
-[![Early Access: Is Verstappen right about F1 2026? Hill and Herbert’s verdict | Stay On Track Ep.5](../../assets/images/oc_artwork/5853415953104204-84b04cde-6158-42f1-a7c6-c22006e13ae5.png)](https://overcast.fm/+BTLppqbfUw) [Stay On Track with Damon Hill and Johnny Herbert – Early Access: Is Verstappen right about F1 2026? Hill and Herbert’s verdict | Stay On Track Ep.5](https://overcast.fm/+BTLppqbfUw)
-[![680: A Lot of Holes in That Cheese](../../assets/images/oc_artwork/5585876272133847-ea8fca53-8dd3-4074-8bc7-8037805bb7f5.png)](https://atp.fm/680) [Accidental Tech Podcast – 680: A Lot of Holes in That Cheese](https://atp.fm/680)
-![Report cards, Formula One, and Netflix](../../assets/images/oc_artwork/5971576161922000-6b3aa966-08c7-417a-a846-cc66e22a7998.png) Six Colors+ — Private – Report cards, Formula One, and Netflix
-![Cartridges, Vinyl, and Italian Rocky](../../assets/images/oc_artwork/4973305110334724-66182594-55d0-4652-8cae-aa28e4ed3811.png) MacStories Unwind+ – Cartridges, Vinyl, and Italian Rocky
-![How to Detect Phone Spying Tech (with Cooper Quintin)](../../assets/images/oc_artwork/5121671725111179-4beef3f3-2013-468d-a90b-c0d5457b44f1.png) The 404 Media Podcast (Premium Feed) – How to Detect Phone Spying Tech (with Cooper Quintin)
+[![FBI network breach, GitHub distributes stealer, Hackers abuse .arpa](../../assets/images/oc_artwork/5857777778865364-d202ce56-937d-4c25-a22d-b7ea6e9514cd.png)](https://overcast.fm/+BTPniuutNQ) [Cybersecurity Headlines – FBI network breach, GitHub distributes stealer, Hackers abuse .arpa](https://overcast.fm/+BTPniuutNQ)
+![Apple’s Big Neo Week](../../assets/images/oc_artwork/5991025449884843-d0ee0008-4bd6-436d-8b1e-16e64c1fe576.png) AppStories+ – Apple’s Big Neo Week
+[![The Winners & Losers from Trumps New Tariffs](../../assets/images/oc_artwork/2821379617000466-6b0cdb5c-644c-4d3f-8fdb-97ac8a643dc6.png)](https://overcast.fm/+oGB6HZDBI) [Patrick Boyle On Finance – The Winners & Losers from Trumps New Tariffs](https://overcast.fm/+oGB6HZDBI)
+![Australian Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677188010873-2a99127e-bd6c-4ae0-a673-4d264d7de26b.png) The Race F1 Podcast (Members) – Australian Grand Prix review (ad-free)
+[![U.S. Marshals](../../assets/images/oc_artwork/3716926353262459-6ded10a8-eda7-414f-b1ac-9c9e48b4f54b.png)](https://overcast.fm/+00hlrxR3s) [Unclear and Present Danger – U.S. Marshals](https://overcast.fm/+00hlrxR3s)
+[![681: The Price of Your Nightmares](../../assets/images/oc_artwork/5585876433847253-3825c95f-8155-40b5-bd4e-f5e77dae0d3a.png)](https://atp.fm/681) [Accidental Tech Podcast – 681: The Price of Your Nightmares](https://atp.fm/681)
+[![807: Assassin As a Service](../../assets/images/oc_artwork/39795360113235-ce7f235b-7fae-44ae-ab0d-806e202f771e.png)](https://overcast.fm/+kMZRNolM) [The Incomparable Mothership – 807: Assassin As a Service](https://overcast.fm/+kMZRNolM)
+![Jon’s take on a rollercoaster first F1 qualifying day of 2026](../../assets/images/oc_artwork/5523677083018718-40e5b558-b5c0-425e-bc49-f301a849ac68.png) The Race F1 Podcast (Members) – Jon’s take on a rollercoaster first F1 qualifying day of 2026
+![Studio Displays and, oh yeah, the MacBook Neo](../../assets/images/oc_artwork/5971576200122168-11f035b7-2d65-4c8a-bcdf-f46950cfe7da.png) Six Colors+ — Private – Studio Displays and, oh yeah, the MacBook Neo
+![From Press Releases to Pokopia](../../assets/images/oc_artwork/4973305484950452-05da6dad-f98f-4bba-a45c-6daeb9168787.png) MacStories Unwind+ – From Press Releases to Pokopia
 
 </div>
 
@@ -48,6 +48,8 @@ slug: "now"
 
 ### TV Shows
 
+[<span hidden>HIS & HERS • 2026 • Parts of this were extremely good. I guess that's what made the ending even more disappointing, because I did not buy the main character's reaction to it. **</span>
+![HIS & HERS • 2026 • Parts of this were extremely good. I guess that's what made the ending even more disappointing, because I did not buy the main character's reaction to it. **](../../assets/images/posts/png-image46188fe7dc0-review-aaab3e16-7f1e-4aa0-8d70-8161bf0b4445.png)](/images/posts/png-image46188fe7dc0-review-aaab3e16-7f1e-4aa0-8d70-8161bf0b4445.jpg)
 [<span hidden>Formula 1: Drive to Survive • Season 8 review. Once again Drive to Survive is very painful for long- time and knowledgeable Formula One fans. They continue to manufacture story lines that don't quite exist and they continue to give Christian Horner more attention than that guy deserves. And now they've added Flavio Briatore to the attention they don't deserve category. The last couple of episodes were pretty good though. **</span>
 ![Formula 1: Drive to Survive • Season 8 review. Once again Drive to Survive is very painful for long- time and knowledgeable Formula One fans. They continue to manufacture story lines that don't quite exist and they continue to give Christian Horner more attention than that guy deserves. And now they've added Flavio Briatore to the attention they don't deserve category. The last couple of episodes were pretty good though. **](../../assets/images/posts/png-image40aeb107b10-review-d8edf9cb-be78-4ff9-bd06-6638478149b9.png)](/images/posts/png-image40aeb107b10-review-d8edf9cb-be78-4ff9-bd06-6638478149b9.jpg)
 [<span hidden>The Night Manager • 2016 • Season 2 review • Tom Hiddleston continues to be super compelling in this role. The supporting cast here is very good - Diego Calva as Teddy Dos Santos and Camila Morrone as Roxana Bolaños are expecially good. Paul Chahidi (Basil) and Hayley Squires (Sally) are also great. *****</span>
@@ -61,98 +63,106 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_J8WVXqi-W28.png](../../assets/images/yt_thumbs/20260301174543_J8WVXqi-W28.png)](https://www.youtube.com/watch?v=J8WVXqi-W28)<div><p class="yt-video-channel">Channel – [Rick'sF1Addiction](https://www.youtube.com/@RicksF1Addiction)</p><p class="yt-video-title">
-[F1 and the Epstein List](https://www.youtube.com/watch?v=J8WVXqi-W28)
+[![../../assets/images/yt_thumbs/20260309065840_Ie-KCHHSUo4.png](../../assets/images/yt_thumbs/20260309065840_Ie-KCHHSUo4.png)](https://www.youtube.com/watch?v=Ie-KCHHSUo4&t=586s)<div><p class="yt-video-channel">Channel – [WIRED](https://www.youtube.com/@WIRED)</p><p class="yt-video-title">
+[F1 Chief Mechanic Answers F1 Car Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=Ie-KCHHSUo4&t=586s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_22N1KYcybX0.png](../../assets/images/yt_thumbs/20260301174543_22N1KYcybX0.png)](https://www.youtube.com/watch?v=22N1KYcybX0)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[What we’ve learned about Honda’s disastrous F1 engine problems](https://www.youtube.com/watch?v=22N1KYcybX0)
+[![../../assets/images/yt_thumbs/20260309065840_opZpIN8g_6M.png](../../assets/images/yt_thumbs/20260309065840_opZpIN8g_6M.png)](https://www.youtube.com/watch?v=opZpIN8g_6M&t=14s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
+[Claude Just Solved Their Biggest Problem](https://www.youtube.com/watch?v=opZpIN8g_6M&t=14s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_JjEXlAZ-1bQ.png](../../assets/images/yt_thumbs/20260301174543_JjEXlAZ-1bQ.png)](https://www.youtube.com/watch?v=JjEXlAZ-1bQ)<div><p class="yt-video-channel">Channel – [Takes™ by Jamelle Bouie](https://www.youtube.com/@jamelle-bouie)</p><p class="yt-video-title">
-[next time don't invite him](https://www.youtube.com/watch?v=JjEXlAZ-1bQ)
+[![../../assets/images/yt_thumbs/20260309065840_yRV8fSw6HaE.png](../../assets/images/yt_thumbs/20260309065840_yRV8fSw6HaE.png)](https://www.youtube.com/watch?v=yRV8fSw6HaE&t=161s&pp=0gcJCa4KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Cortical Labs](https://www.youtube.com/@corticallabs-yt)</p><p class="yt-video-title">
+[Living Human Brain Cells Play DOOM on a CL1](https://www.youtube.com/watch?v=yRV8fSw6HaE&t=161s&pp=0gcJCa4KAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_ChdQciz1gns.png](../../assets/images/yt_thumbs/20260301174543_ChdQciz1gns.png)](https://www.youtube.com/watch?v=ChdQciz1gns)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
-[How a Small Wine Importer Smashed Trump’s Tariffs](https://www.youtube.com/watch?v=ChdQciz1gns)
+[![../../assets/images/yt_thumbs/20260309065840__XRjoR5VLos.png](../../assets/images/yt_thumbs/20260309065840__XRjoR5VLos.png)](https://www.youtube.com/watch?v=_XRjoR5VLos&t=25s)<div><p class="yt-video-channel">Channel – [Hysteria](https://www.youtube.com/@hysteriapodcast)</p><p class="yt-video-title">
+[Sam Altman: Everything You Didn't Know About His Sh*tty Past](https://www.youtube.com/watch?v=_XRjoR5VLos&t=25s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_fzo2WiWeVV4.png](../../assets/images/yt_thumbs/20260301174543_fzo2WiWeVV4.png)](https://www.youtube.com/watch?v=fzo2WiWeVV4)<div><p class="yt-video-channel">Channel – [CBC News](https://www.youtube.com/@CBCNews)</p><p class="yt-video-title">
-[The ‘Big One’ just got more complicated](https://www.youtube.com/watch?v=fzo2WiWeVV4)
+[![../../assets/images/yt_thumbs/20260309065840_cvR8Q4LN2yU.png](../../assets/images/yt_thumbs/20260309065840_cvR8Q4LN2yU.png)](https://www.youtube.com/watch?v=cvR8Q4LN2yU)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
+[Peter Drinks High Brew Nitro Cold Brew Coffee](https://www.youtube.com/watch?v=cvR8Q4LN2yU)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_OIDTI6VL9wE.png](../../assets/images/yt_thumbs/20260301174543_OIDTI6VL9wE.png)](https://www.youtube.com/watch?v=OIDTI6VL9wE)<div><p class="yt-video-channel">Channel – [Vincent Langevin](https://www.youtube.com/channel/UCSOJL9INAMkkp8EE6xQXoaA)</p><p class="yt-video-title">
-[Jim Carrey Stuns France While Speaking French At The Ceasar Awards](https://www.youtube.com/watch?v=OIDTI6VL9wE)
+[![../../assets/images/yt_thumbs/20260309065840_iGhefWbVSOk.png](../../assets/images/yt_thumbs/20260309065840_iGhefWbVSOk.png)](https://www.youtube.com/watch?v=iGhefWbVSOk)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[Chilling Audio Reveals Pilot's Fatal Mistake!](https://www.youtube.com/watch?v=iGhefWbVSOk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543__pd9OlmDmiU.png](../../assets/images/yt_thumbs/20260301174543__pd9OlmDmiU.png)](https://www.youtube.com/watch?v=_pd9OlmDmiU)<div><p class="yt-video-channel">Channel – [Kevin Ulett - Snake Handler](https://www.youtube.com/@KevinUlett)</p><p class="yt-video-title">
-[Catching a Huge, Venomous Boomslang! It was hiding under the Postbox!](https://www.youtube.com/watch?v=_pd9OlmDmiU)
+[![../../assets/images/yt_thumbs/20260309065840_Dhch92iPJ4s.png](../../assets/images/yt_thumbs/20260309065840_Dhch92iPJ4s.png)](https://www.youtube.com/watch?v=Dhch92iPJ4s&t=258s)<div><p class="yt-video-channel">Channel – [The Hot Lap](https://www.youtube.com/@thehotlapshow)</p><p class="yt-video-title">
+[MICK Schumachers INSANE Qualifying](https://www.youtube.com/watch?v=Dhch92iPJ4s&t=258s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_bfqtPe1A7EA.png](../../assets/images/yt_thumbs/20260301174543_bfqtPe1A7EA.png)](https://www.youtube.com/watch?v=bfqtPe1A7EA)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
-[Trump thought no one was recording..](https://www.youtube.com/watch?v=bfqtPe1A7EA)
+[![../../assets/images/yt_thumbs/20260309065840_FCZsrwmqQDM.png](../../assets/images/yt_thumbs/20260309065840_FCZsrwmqQDM.png)](https://www.youtube.com/watch?v=FCZsrwmqQDM&pp=0gcJCa4KAYcqIYzv)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Drivers React To Qualifying | 2026 Australian Grand Prix](https://www.youtube.com/watch?v=FCZsrwmqQDM&pp=0gcJCa4KAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_OvBXGDf1ZcI.png](../../assets/images/yt_thumbs/20260301174543_OvBXGDf1ZcI.png)](https://www.youtube.com/watch?v=OvBXGDf1ZcI)<div><p class="yt-video-channel">Channel – [Conor Moore Racing](https://www.youtube.com/@conormooref1)</p><p class="yt-video-title">
-[F1 Drive to Survive Episode 1 Parody!](https://www.youtube.com/watch?v=OvBXGDf1ZcI)
+[![../../assets/images/yt_thumbs/20260309065840_sr3AbxESSro.png](../../assets/images/yt_thumbs/20260309065840_sr3AbxESSro.png)](https://www.youtube.com/watch?v=sr3AbxESSro)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
+[Final NTSB Report: TNFlygirl Crash Breakdown](https://www.youtube.com/watch?v=sr3AbxESSro)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_2zFPDh4IjVk.png](../../assets/images/yt_thumbs/20260301174543_2zFPDh4IjVk.png)](https://www.youtube.com/watch?v=2zFPDh4IjVk&t=231s)<div><p class="yt-video-channel">Channel – [Horizon3 AI](https://www.youtube.com/@horizon3ai)</p><p class="yt-video-title">
-[Fireside Chat: Horizon3.ai and Quantum Marine Engineering](https://www.youtube.com/watch?v=2zFPDh4IjVk&t=231s)
+[![../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png](../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png)](https://www.youtube.com/watch?v=4dz2Tk8nScs)<div><p class="yt-video-channel">Channel – [High Performance](https://www.youtube.com/@HighPerformancePodcast)</p><p class="yt-video-title">
+[Ollie Bearman on Max vs Lewis, Mental Struggles & Ferrari Return?](https://www.youtube.com/watch?v=4dz2Tk8nScs)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_Vm0UFC2S39k.png](../../assets/images/yt_thumbs/20260301174543_Vm0UFC2S39k.png)](https://www.youtube.com/watch?v=Vm0UFC2S39k&t=110s)<div><p class="yt-video-channel">Channel – [Loving The 80s](https://www.youtube.com/@Lovingthe80s)</p><p class="yt-video-title">
-[Is To Live and Die in L.A. REALLY the Most Dangerous 80s Crime Film?](https://www.youtube.com/watch?v=Vm0UFC2S39k&t=110s)
+[![../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png](../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png)](https://www.youtube.com/watch?v=4dz2Tk8nScs&pp=0gcJCa4KAYcqIYzv)<div><p class="yt-video-channel">Channel – [High Performance](https://www.youtube.com/@HighPerformancePodcast)</p><p class="yt-video-title">
+[Ollie Bearman on Max vs Lewis, Mental Struggles & Ferrari Return?](https://www.youtube.com/watch?v=4dz2Tk8nScs&pp=0gcJCa4KAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260301174543_y4DiIoq4Gg0.png](../../assets/images/yt_thumbs/20260301174543_y4DiIoq4Gg0.png)](https://www.youtube.com/watch?v=y4DiIoq4Gg0)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
-[Epstein file BOMB explodes](https://www.youtube.com/watch?v=y4DiIoq4Gg0)
+[![../../assets/images/yt_thumbs/20260309065840_ssKnAUOsLzE.png](../../assets/images/yt_thumbs/20260309065840_ssKnAUOsLzE.png)](https://www.youtube.com/watch?v=ssKnAUOsLzE)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[Prime Kyoto Living by the River #AkiyaHub #JapaneseHouse #VacationHome #Japan #Kyoto](https://www.youtube.com/watch?v=ssKnAUOsLzE)
 </p></div>
 
 </div>
+
+</div>
+
+### Food
+
+<div class="food">
+
+[![Hapa Pizza Home](../../assets/images/food_thumbs/Hapa-PDX-705E1A8A-8A64-469F-A440-636C680DE5DC.png)](https://www.hapapizza.com) [Hapa Pizza Home](https://www.hapapizza.com)
 
 </div>
