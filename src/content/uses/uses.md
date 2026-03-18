@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2026-03-01T18:13:55-08:00"
+date: "2026-03-17T22:26:07-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -17,6 +17,11 @@ slug: "uses"
 - [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
 - [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A)
 - [Wave Mic Arm LP | Mic Boom Arm for Desks | Elgato](https://www.elgato.com/us/en/p/wave-mic-arm-lp)
+
+### 2020 M1 Mac mini
+
+- 8-core CPU, 8-core GPU, 8GB RAM, 256GB SSD
+- Headless, mounted on the bottom of my computer desk
 
 ## Software
 
@@ -47,10 +52,12 @@ slug: "uses"
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
 - [Rectangle Pro](https://rectangleapp.com/pro)
+- [Screens - Seemlessly Control your Computers from your iPhone, iPad, Mac, or Vision Pro - Edovia](https://edovia.com/en/screens)
 - [Shortcutie — Sindre Sorhus](https://sindresorhus.com/shortcutie)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Starship](https://starship.rs)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
+- [Superkey](https://superkey.app/)
 - [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
 - [vim-plug](https://github.com/junegunn/vim-plug)

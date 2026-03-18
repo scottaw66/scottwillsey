@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-03-09T07:20:42-08:00"
+date: "2026-03-17T22:26:07-08:00"
 slug: "links"
 ---
 
@@ -666,6 +666,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [/uses](https://uses.tech)
 - [Video Game History Foundation Library | Video Game History Foundation Library](https://library.gamehistory.org/)
 - [VKC.sh | Veronica Explains – Veronica explains even more](https://vkc.sh/)
+- [-=:[ WarGames Terminal Fonts ]:=-](https://mw.rat.bz/wgterm/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes)
 - [Webring History](https://brisray.com/web/webring-history.htm)
 - [Welcome to Astro tips! | Astro Tips](https://astro-tips.dev)
@@ -676,6 +677,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Fonts
 
+- [Atkinson Hyperlegible Font - Braille Institute](https://www.brailleinstitute.org/freefont/)
 - [Departure Mono](https://departuremono.com/)
 - [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
 - [How to Download and Optimize Google Fonts | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/downloading-and-optimizing-google-fonts/)
@@ -870,12 +872,14 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 - [Rogue Amoeba | SoundSource: A Superior Sound Control](https://rogueamoeba.com/soundsource/)
 - [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
+- [Screens - Seemlessly Control your Computers from your iPhone, iPad, Mac, or Vision Pro - Edovia](https://edovia.com/en/screens)
 - [Secure ShellFish – SSH Client for iOS and Mac](https://shellfishapp.com/)
 - [Sequel](https://www.getsequel.app)
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+- [Superkey](https://superkey.app/)
 - [System Color Picker — Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Transmit 5](https://www.panic.com/transmit/)
@@ -906,7 +910,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Hiro Report](https://subscribe.hiro.report/)
 - [The Race - The Race](https://www.the-race.com/)
 - [The Weird Turn Pro | Andy Masley | Substack](https://andymasley.substack.com/)
-- [this week in security](https://this.weekinsecurity.com/)
+- [This week in security](https://this.weekinsecurity.com/)
 - [Today in Librarian Tabs by Jessamyn West](https://tinyletter.com/jessamyn)
 
 ## Notion
@@ -1139,8 +1143,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Cmd+AI](https://www.youtube.com/@cmdAIshow)
 - [Codesmith](https://www.youtube.com/@Codesmith)
 - [Coding in Public](https://www.youtube.com/@CodinginPublic)
+- [Computer History Museum](https://www.youtube.com/@ComputerHistory)
 - [CS50](https://www.youtube.com/@cs50)
-- [CultRepo ](https://www.youtube.com/@cultrepo)
+- [CultRepo](https://www.youtube.com/@cultrepo)
 - [Currently Hannah](https://www.youtube.com/@CurrentlyHannah)
 - [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)
 - [Cybernews](https://www.youtube.com/@cybernews)
@@ -1158,7 +1163,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Ecamm Live](https://www.youtube.com/@EcammLive)
 - [Edna Jonsson](https://www.youtube.com/@EdnaJonsson)
-- [Eisuke Kiuchi ](https://www.youtube.com/@eisukekiuchi)
+- [Eisuke Kiuchi](https://www.youtube.com/@eisukekiuchi)
 - [Embrace The Red](https://www.youtube.com/@embracethered)
 - [Epic Spaceman](https://www.youtube.com/@EpicSpaceman)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
@@ -1187,6 +1192,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Hysteria](https://www.youtube.com/@hysteriapodcast)
 - [I've Had It](https://www.youtube.com/@ivehaditpodcast)
 - [Ian Worth](https://www.youtube.com/@ian_worth)
+- [iZotope, Inc.](https://www.youtube.com/@iZotopeOfficial)
 - [jakkuh](https://www.youtube.com/@jakkuh_t)
 - [Japan Animal Travels](https://www.youtube.com/@JapanAnimalTravels)
 - [Japan Eat](https://www.youtube.com/@japaneat)
@@ -1199,6 +1205,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Japanese with Mako](https://www.youtube.com/@JapanesewithMako)
 - [Jenny Tian](https://www.youtube.com/@nomnomjenny)
 - [JeredBlu](https://www.youtube.com/@JeredBlu)
+- [Jesse Duffield](https://www.youtube.com/@jesseduffield9516)
 - [JHMedium](https://www.youtube.com/@JHMedium)
 - [Joe Scott](https://www.youtube.com/@joescott)
 - [Joey Josselson](https://www.youtube.com/@Callmethelamp)
@@ -1215,12 +1222,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Keith D](https://www.youtube.com/@theinneroperator)
 - [Keith Edwards](https://www.youtube.com/@keithedwards)
 - [Kensho Quest](https://www.youtube.com/@KenshoQuest)
+- [Kevin Jeppesen - The Operator Vault](https://www.youtube.com/@kevin-jeppesen)
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Lazy Fluency - Japanese Podcast | 英会話](https://www.youtube.com/@lazyfluencypodcast)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
-- [Lingopie ](https://www.youtube.com/@LingopieTV)
+- [Lingopie](https://www.youtube.com/@LingopieTV)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1269,7 +1277,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Raging Moderates](https://www.youtube.com/@RagingModerates)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
@@ -1314,7 +1322,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Tastes Seoul Good테이스트서울굿](https://www.youtube.com/@TastesSEOULGood)
 - [Tech Tangents](https://www.youtube.com/@TechTangents)
 - [Techlore](https://www.youtube.com/@techlore)
-- [Tetsu Sensei](https://www.youtube.com/@tetsujpjp)
+- [Tetsu Sensei](https://www.youtube.com/@tetsusenseidesuyo)
 - [The AI Advantage](https://www.youtube.com/@aiadvantage)
 - [The AI Daily Brief: Artificial Intelligence News](https://www.youtube.com/@AIDailyBrief)
 - [The Bitchuation Room (with Francesca Fiorentini)](https://www.youtube.com/@franifio)

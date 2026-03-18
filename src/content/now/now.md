@@ -1,17 +1,19 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-03-09T07:20:42-08:00"
+date: "2026-03-17T22:26:07-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Thinking about making [Friends with Brews](https://friendswithbrews.com/) either wholly or primarily a YouTube channel. It fits the video medium better.
+> Lots of fun with hand therapy exercises after my finger surgery.
 
 ## Current Projects
 
 - Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Currently doing the Hangeul 7 day challenge just to make myself get to work.
+
+- Finger therapy (post-surgery)
 
 ## Stuff I've recently enjoyed
 
@@ -21,16 +23,16 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![FBI network breach, GitHub distributes stealer, Hackers abuse .arpa](../../assets/images/oc_artwork/5857777778865364-d202ce56-937d-4c25-a22d-b7ea6e9514cd.png)](https://overcast.fm/+BTPniuutNQ) [Cybersecurity Headlines – FBI network breach, GitHub distributes stealer, Hackers abuse .arpa](https://overcast.fm/+BTPniuutNQ)
-![Apple’s Big Neo Week](../../assets/images/oc_artwork/5991025449884843-d0ee0008-4bd6-436d-8b1e-16e64c1fe576.png) AppStories+ – Apple’s Big Neo Week
-[![The Winners & Losers from Trumps New Tariffs](../../assets/images/oc_artwork/2821379617000466-6b0cdb5c-644c-4d3f-8fdb-97ac8a643dc6.png)](https://overcast.fm/+oGB6HZDBI) [Patrick Boyle On Finance – The Winners & Losers from Trumps New Tariffs](https://overcast.fm/+oGB6HZDBI)
-![Australian Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677188010873-2a99127e-bd6c-4ae0-a673-4d264d7de26b.png) The Race F1 Podcast (Members) – Australian Grand Prix review (ad-free)
-[![U.S. Marshals](../../assets/images/oc_artwork/3716926353262459-6ded10a8-eda7-414f-b1ac-9c9e48b4f54b.png)](https://overcast.fm/+00hlrxR3s) [Unclear and Present Danger – U.S. Marshals](https://overcast.fm/+00hlrxR3s)
-[![681: The Price of Your Nightmares](../../assets/images/oc_artwork/5585876433847253-3825c95f-8155-40b5-bd4e-f5e77dae0d3a.png)](https://atp.fm/681) [Accidental Tech Podcast – 681: The Price of Your Nightmares](https://atp.fm/681)
-[![807: Assassin As a Service](../../assets/images/oc_artwork/39795360113235-ce7f235b-7fae-44ae-ab0d-806e202f771e.png)](https://overcast.fm/+kMZRNolM) [The Incomparable Mothership – 807: Assassin As a Service](https://overcast.fm/+kMZRNolM)
-![Jon’s take on a rollercoaster first F1 qualifying day of 2026](../../assets/images/oc_artwork/5523677083018718-40e5b558-b5c0-425e-bc49-f301a849ac68.png) The Race F1 Podcast (Members) – Jon’s take on a rollercoaster first F1 qualifying day of 2026
-![Studio Displays and, oh yeah, the MacBook Neo](../../assets/images/oc_artwork/5971576200122168-11f035b7-2d65-4c8a-bcdf-f46950cfe7da.png) Six Colors+ — Private – Studio Displays and, oh yeah, the MacBook Neo
-![From Press Releases to Pokopia](../../assets/images/oc_artwork/4973305484950452-05da6dad-f98f-4bba-a45c-6daeb9168787.png) MacStories Unwind+ – From Press Releases to Pokopia
+[![How to Know if You Have What it Takes to Make It in Sales](../../assets/images/oc_artwork/1682926922793993-a37a84a2-4492-4a41-901d-aaec201471a2.png)](https://overcast.fm/+X6nPVqhAk) [Sales Logic - Selling Strategies That Work – How to Know if You Have What it Takes to Make It in Sales](https://overcast.fm/+X6nPVqhAk)
+[![614 How to Make a Killing & Supergirl First Reactions](../../assets/images/oc_artwork/3737328463114096-42b1c7a1-cc0e-428f-bd3e-c23b558dc825.png)](https://overcast.fm/+1HFJdz73A) [The Weekly Planet – 614 How to Make a Killing & Supergirl First Reactions](https://overcast.fm/+1HFJdz73A)
+[![Transitioning to Quantum-Safe Encryption with enQase](../../assets/images/oc_artwork/5476005606801684-c4aa99bf-9071-4f05-aa4c-a7e7d759ff4e.png)](https://overcast.fm/+BN0Zej7QRQ) [Security You Should Know – Transitioning to Quantum-Safe Encryption with enQase](https://overcast.fm/+BN0Zej7QRQ)
+[![Surveillance Pricing](../../assets/images/oc_artwork/1107266745932106-a1b6b6ee-3966-4c6b-a506-0cec4fd84080.png)](https://overcast.fm/+PvDaEQGUo) [Firewalls Don't Stop Dragons Podcast – Surveillance Pricing](https://overcast.fm/+PvDaEQGUo)
+![Yahoo CEO Jim Lanzone on reviving the web’s homepage](../../assets/images/oc_artwork/5816356214526233-c44f8f9c-1500-4457-b629-359e73873c30.png) Decoder: Ad-Free Edition – Yahoo CEO Jim Lanzone on reviving the web’s homepage
+[![Episode 248 - From Polynesian Voyages to French Press](../../assets/images/oc_artwork/470842157550747-9f2946f6-5deb-44c4-85b4-0937a7b8ec89.png)](https://overcast.fm/+GsOnuLzJs) [Blurring The Lines Podcast – Episode 248 - From Polynesian Voyages to French Press](https://overcast.fm/+GsOnuLzJs)
+[![PBS Tidbit 18 — A Real-World Jekyll Example](../../assets/images/oc_artwork/640362627650646-04fdb91a-2593-4b1e-883a-58d273cf8512.png)](https://overcast.fm/+JGaAry1FY) [Programming By Stealth – PBS Tidbit 18 — A Real-World Jekyll Example](https://overcast.fm/+JGaAry1FY)
+[![SpaceX IPO Scandal](../../assets/images/oc_artwork/2821379447007236-6bbd4ad2-50bc-471a-adc8-c2058b6ddf19.png)](https://overcast.fm/+oGB5e3KAQ) [Patrick Boyle On Finance – SpaceX IPO Scandal](https://overcast.fm/+oGB5e3KAQ)
+![The Fractal Fragmentation of AI Tools](../../assets/images/oc_artwork/5991025661620611-4e09a7e3-2409-4250-a7bd-1d51bad22804.png) AppStories+ – The Fractal Fragmentation of AI Tools
+![Chinese Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677932678138-27119db1-d734-4678-a204-eb792d0538ff.png) The Race F1 Podcast (Members) – Chinese Grand Prix review (ad-free)
 
 </div>
 
@@ -63,96 +65,119 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_Ie-KCHHSUo4.png](../../assets/images/yt_thumbs/20260309065840_Ie-KCHHSUo4.png)](https://www.youtube.com/watch?v=Ie-KCHHSUo4&t=586s)<div><p class="yt-video-channel">Channel – [WIRED](https://www.youtube.com/@WIRED)</p><p class="yt-video-title">
-[F1 Chief Mechanic Answers F1 Car Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=Ie-KCHHSUo4&t=586s)
+
+[![../../assets/images/yt_thumbs/20260317222417__wrzIikMR5A.png](../../assets/images/yt_thumbs/20260317222417__wrzIikMR5A.png) ](https://www.youtube.com/watch?v=_wrzIikMR5A)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
+[Netanyahu Misses 7 Straight Meetings #politics #fyp #new](https://www.youtube.com/watch?v=_wrzIikMR5A)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_opZpIN8g_6M.png](../../assets/images/yt_thumbs/20260309065840_opZpIN8g_6M.png)](https://www.youtube.com/watch?v=opZpIN8g_6M&t=14s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
-[Claude Just Solved Their Biggest Problem](https://www.youtube.com/watch?v=opZpIN8g_6M&t=14s)
+
+[![../../assets/images/yt_thumbs/20260317222417_q8K5O7m0KgU.png](../../assets/images/yt_thumbs/20260317222417_q8K5O7m0KgU.png) ](https://www.youtube.com/watch?v=q8K5O7m0KgU)<div><p class="yt-video-channel">Channel – [Dan Ackerman](https://www.youtube.com/@DanAckerman)</p><p class="yt-video-title">
+[M4 Mac Mini: 256GB to 2TB in Minutes](https://www.youtube.com/watch?v=q8K5O7m0KgU)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_yRV8fSw6HaE.png](../../assets/images/yt_thumbs/20260309065840_yRV8fSw6HaE.png)](https://www.youtube.com/watch?v=yRV8fSw6HaE&t=161s&pp=0gcJCa4KAYcqIYzv)<div><p class="yt-video-channel">Channel – [Cortical Labs](https://www.youtube.com/@corticallabs-yt)</p><p class="yt-video-title">
-[Living Human Brain Cells Play DOOM on a CL1](https://www.youtube.com/watch?v=yRV8fSw6HaE&t=161s&pp=0gcJCa4KAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260317222417_vkm-ZFlivyI.png](../../assets/images/yt_thumbs/20260317222417_vkm-ZFlivyI.png) ](https://www.youtube.com/watch?v=vkm-ZFlivyI)<div><p class="yt-video-channel">Channel – [Mikkel Malmberg](https://www.youtube.com/@MikkelMalmberg)</p><p class="yt-video-title">
+[Meet Tuna: a brand new, modern, modal launcher for macOS](https://www.youtube.com/watch?v=vkm-ZFlivyI)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840__XRjoR5VLos.png](../../assets/images/yt_thumbs/20260309065840__XRjoR5VLos.png)](https://www.youtube.com/watch?v=_XRjoR5VLos&t=25s)<div><p class="yt-video-channel">Channel – [Hysteria](https://www.youtube.com/@hysteriapodcast)</p><p class="yt-video-title">
-[Sam Altman: Everything You Didn't Know About His Sh*tty Past](https://www.youtube.com/watch?v=_XRjoR5VLos&t=25s)
+
+[![../../assets/images/yt_thumbs/20260317222417_QT7W_uHjqWE.png](../../assets/images/yt_thumbs/20260317222417_QT7W_uHjqWE.png) ](https://www.youtube.com/watch?v=QT7W_uHjqWE&t=314s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Anthropic Didn't Build a New Browser. They Did Something Smarter.](https://www.youtube.com/watch?v=QT7W_uHjqWE&t=314s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_cvR8Q4LN2yU.png](../../assets/images/yt_thumbs/20260309065840_cvR8Q4LN2yU.png)](https://www.youtube.com/watch?v=cvR8Q4LN2yU)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
-[Peter Drinks High Brew Nitro Cold Brew Coffee](https://www.youtube.com/watch?v=cvR8Q4LN2yU)
+
+[![../../assets/images/yt_thumbs/20260317222417_ZbKNpn0woDY.png](../../assets/images/yt_thumbs/20260317222417_ZbKNpn0woDY.png) ](https://www.youtube.com/watch?v=ZbKNpn0woDY)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Claude Code's New Upgrade: /btw](https://www.youtube.com/watch?v=ZbKNpn0woDY)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_iGhefWbVSOk.png](../../assets/images/yt_thumbs/20260309065840_iGhefWbVSOk.png)](https://www.youtube.com/watch?v=iGhefWbVSOk)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
-[Chilling Audio Reveals Pilot's Fatal Mistake!](https://www.youtube.com/watch?v=iGhefWbVSOk)
+
+[![../../assets/images/yt_thumbs/20260317222417_4Cb_l2LJAW8.png](../../assets/images/yt_thumbs/20260317222417_4Cb_l2LJAW8.png) ](https://www.youtube.com/watch?v=4Cb_l2LJAW8&pp=0gcJCcUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Claude Code + Karpathy's Autoresearch = The New Meta](https://www.youtube.com/watch?v=4Cb_l2LJAW8&pp=0gcJCcUKAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_Dhch92iPJ4s.png](../../assets/images/yt_thumbs/20260309065840_Dhch92iPJ4s.png)](https://www.youtube.com/watch?v=Dhch92iPJ4s&t=258s)<div><p class="yt-video-channel">Channel – [The Hot Lap](https://www.youtube.com/@thehotlapshow)</p><p class="yt-video-title">
-[MICK Schumachers INSANE Qualifying](https://www.youtube.com/watch?v=Dhch92iPJ4s&t=258s)
+
+[![../../assets/images/yt_thumbs/20260317222417_feI5TAdwemc.png](../../assets/images/yt_thumbs/20260317222417_feI5TAdwemc.png) ](https://www.youtube.com/watch?v=feI5TAdwemc)<div><p class="yt-video-channel">Channel – [Conor Moore Racing](https://www.youtube.com/@conormooref1)</p><p class="yt-video-title">
+[Kimi Antonelli WINS the China Grand Prix F1](https://www.youtube.com/watch?v=feI5TAdwemc)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_FCZsrwmqQDM.png](../../assets/images/yt_thumbs/20260309065840_FCZsrwmqQDM.png)](https://www.youtube.com/watch?v=FCZsrwmqQDM&pp=0gcJCa4KAYcqIYzv)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Drivers React To Qualifying | 2026 Australian Grand Prix](https://www.youtube.com/watch?v=FCZsrwmqQDM&pp=0gcJCa4KAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260317222417_JKbVk6bIXvA.png](../../assets/images/yt_thumbs/20260317222417_JKbVk6bIXvA.png) ](https://www.youtube.com/watch?v=JKbVk6bIXvA&t=72s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[I did not expect this...](https://www.youtube.com/watch?v=JKbVk6bIXvA&t=72s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_sr3AbxESSro.png](../../assets/images/yt_thumbs/20260309065840_sr3AbxESSro.png)](https://www.youtube.com/watch?v=sr3AbxESSro)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Final NTSB Report: TNFlygirl Crash Breakdown](https://www.youtube.com/watch?v=sr3AbxESSro)
+
+[![../../assets/images/yt_thumbs/20260317222417_RCHhAEjEjKw.png](../../assets/images/yt_thumbs/20260317222417_RCHhAEjEjKw.png) ](https://www.youtube.com/watch?v=RCHhAEjEjKw)<div><p class="yt-video-channel">Channel – [CodeSource](https://www.youtube.com/@CodeSource)</p><p class="yt-video-title">
+[Why Perl Quietly Disappeared](https://www.youtube.com/watch?v=RCHhAEjEjKw)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png](../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png)](https://www.youtube.com/watch?v=4dz2Tk8nScs)<div><p class="yt-video-channel">Channel – [High Performance](https://www.youtube.com/@HighPerformancePodcast)</p><p class="yt-video-title">
-[Ollie Bearman on Max vs Lewis, Mental Struggles & Ferrari Return?](https://www.youtube.com/watch?v=4dz2Tk8nScs)
+
+[![../../assets/images/yt_thumbs/20260317222417_S68BvDAtIL8.png](../../assets/images/yt_thumbs/20260317222417_S68BvDAtIL8.png) ](https://www.youtube.com/watch?v=S68BvDAtIL8&pp=0gcJCcUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [TAKASHii](https://www.youtube.com/@takashiifromjapan)</p><p class="yt-video-title">
+[Japanese teacher explains how to learn Japanese faster 🇯🇵](https://www.youtube.com/watch?v=S68BvDAtIL8&pp=0gcJCcUKAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png](../../assets/images/yt_thumbs/20260309065840_4dz2Tk8nScs.png)](https://www.youtube.com/watch?v=4dz2Tk8nScs&pp=0gcJCa4KAYcqIYzv)<div><p class="yt-video-channel">Channel – [High Performance](https://www.youtube.com/@HighPerformancePodcast)</p><p class="yt-video-title">
-[Ollie Bearman on Max vs Lewis, Mental Struggles & Ferrari Return?](https://www.youtube.com/watch?v=4dz2Tk8nScs&pp=0gcJCa4KAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260317222417_ZxYSWEsv9tc.png](../../assets/images/yt_thumbs/20260317222417_ZxYSWEsv9tc.png) ](https://www.youtube.com/watch?v=ZxYSWEsv9tc&t=5s)<div><p class="yt-video-channel">Channel – [Thomas Boykin](https://www.youtube.com/@ThomasBoykin)</p><p class="yt-video-title">
+[iZotope RX Advanced: Five Tips for Dialogue Noise Reduction](https://www.youtube.com/watch?v=ZxYSWEsv9tc&t=5s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260309065840_ssKnAUOsLzE.png](../../assets/images/yt_thumbs/20260309065840_ssKnAUOsLzE.png)](https://www.youtube.com/watch?v=ssKnAUOsLzE)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
-[Prime Kyoto Living by the River #AkiyaHub #JapaneseHouse #VacationHome #Japan #Kyoto](https://www.youtube.com/watch?v=ssKnAUOsLzE)
+
+[![../../assets/images/yt_thumbs/20260317222417_FPPeChcgytU.png](../../assets/images/yt_thumbs/20260317222417_FPPeChcgytU.png) ](https://www.youtube.com/watch?v=FPPeChcgytU)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Radio Rewind | 2026 Chinese Grand Prix](https://www.youtube.com/watch?v=FPPeChcgytU)
 </p></div>
 
 </div>
@@ -163,6 +188,6 @@ slug: "now"
 
 <div class="food">
 
-[![Hapa Pizza Home](../../assets/images/food_thumbs/Hapa-PDX-705E1A8A-8A64-469F-A440-636C680DE5DC.png)](https://www.hapapizza.com) [Hapa Pizza Home](https://www.hapapizza.com)
+[![Spielman Bagels and Coffee Roasters | Best Bagels in Beaverton, OR | Bagels near me](../../assets/images/food_thumbs/SpielmanBagels-30E2C196-69CE-4549-8083-527FAE43C2B6.png)](https://spielmanbagels.co/spielmanbeaverton) [Spielman Bagels and Coffee Roasters | Best Bagels in Beaverton, OR | Bagels near me](https://spielmanbagels.co/spielmanbeaverton)
 
 </div>

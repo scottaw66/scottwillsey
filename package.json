@@ -33,7 +33,7 @@
     "@expressive-code/plugin-line-numbers": "^0.41.7",
     "@philnash/astro-pagination": "^0.5.0",
     "@tailwindcss/vite": "^4.2.1",
-    "astro": "^6.0.4",
+    "astro": "^6.0.5",
     "astro-expressive-code": "^0.41.7",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^1.8.5",
