@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-03-17T22:26:07-08:00"
+date: "2026-03-21T11:02:25-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Lots of fun with hand therapy exercises after my finger surgery.
+> Hangeul turns out to be a little weirder than I thought - there are a couple weird rules. However, compared to learning kanji... haha! Not even in the same universe of complexity.
 
 ## Current Projects
 
-- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Currently doing the Hangeul 7 day challenge just to make myself get to work.
+- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Finished the Hangeul 7 day challenge.
 
 - Finger therapy (post-surgery)
 
@@ -23,16 +23,16 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![How to Know if You Have What it Takes to Make It in Sales](../../assets/images/oc_artwork/1682926922793993-a37a84a2-4492-4a41-901d-aaec201471a2.png)](https://overcast.fm/+X6nPVqhAk) [Sales Logic - Selling Strategies That Work – How to Know if You Have What it Takes to Make It in Sales](https://overcast.fm/+X6nPVqhAk)
-[![614 How to Make a Killing & Supergirl First Reactions](../../assets/images/oc_artwork/3737328463114096-42b1c7a1-cc0e-428f-bd3e-c23b558dc825.png)](https://overcast.fm/+1HFJdz73A) [The Weekly Planet – 614 How to Make a Killing & Supergirl First Reactions](https://overcast.fm/+1HFJdz73A)
-[![Transitioning to Quantum-Safe Encryption with enQase](../../assets/images/oc_artwork/5476005606801684-c4aa99bf-9071-4f05-aa4c-a7e7d759ff4e.png)](https://overcast.fm/+BN0Zej7QRQ) [Security You Should Know – Transitioning to Quantum-Safe Encryption with enQase](https://overcast.fm/+BN0Zej7QRQ)
-[![Surveillance Pricing](../../assets/images/oc_artwork/1107266745932106-a1b6b6ee-3966-4c6b-a506-0cec4fd84080.png)](https://overcast.fm/+PvDaEQGUo) [Firewalls Don't Stop Dragons Podcast – Surveillance Pricing](https://overcast.fm/+PvDaEQGUo)
-![Yahoo CEO Jim Lanzone on reviving the web’s homepage](../../assets/images/oc_artwork/5816356214526233-c44f8f9c-1500-4457-b629-359e73873c30.png) Decoder: Ad-Free Edition – Yahoo CEO Jim Lanzone on reviving the web’s homepage
-[![Episode 248 - From Polynesian Voyages to French Press](../../assets/images/oc_artwork/470842157550747-9f2946f6-5deb-44c4-85b4-0937a7b8ec89.png)](https://overcast.fm/+GsOnuLzJs) [Blurring The Lines Podcast – Episode 248 - From Polynesian Voyages to French Press](https://overcast.fm/+GsOnuLzJs)
-[![PBS Tidbit 18 — A Real-World Jekyll Example](../../assets/images/oc_artwork/640362627650646-04fdb91a-2593-4b1e-883a-58d273cf8512.png)](https://overcast.fm/+JGaAry1FY) [Programming By Stealth – PBS Tidbit 18 — A Real-World Jekyll Example](https://overcast.fm/+JGaAry1FY)
-[![SpaceX IPO Scandal](../../assets/images/oc_artwork/2821379447007236-6bbd4ad2-50bc-471a-adc8-c2058b6ddf19.png)](https://overcast.fm/+oGB5e3KAQ) [Patrick Boyle On Finance – SpaceX IPO Scandal](https://overcast.fm/+oGB5e3KAQ)
-![The Fractal Fragmentation of AI Tools](../../assets/images/oc_artwork/5991025661620611-4e09a7e3-2409-4250-a7bd-1d51bad22804.png) AppStories+ – The Fractal Fragmentation of AI Tools
-![Chinese Grand Prix review (ad-free)](../../assets/images/oc_artwork/5523677932678138-27119db1-d734-4678-a204-eb792d0538ff.png) The Race F1 Podcast (Members) – Chinese Grand Prix review (ad-free)
+![Why people really hate AI](../../assets/images/oc_artwork/5816342675381859-e53e491d-b588-4f54-be49-3a301bef9508.png) The Vergecast: Ad-Free Edition – Why people really hate AI
+![Jeopardy, AirPods Max, and MacBook Neo’s market](../../assets/images/oc_artwork/5971575724020440-faabfe0c-8a26-4db6-8bf1-e39c074c90dc.png) Six Colors+ — Private – Jeopardy, AirPods Max, and MacBook Neo’s market
+![Audi’s loss, Aston’s gain? How a Wheatley move would help Newey (ad-free)](../../assets/images/oc_artwork/5523677474055249-31019622-7dc1-458a-9045-ec8ee9a316d7.png) The Race F1 Podcast (Members) – Audi’s loss, Aston’s gain? How a Wheatley move would help Newey (ad-free)
+![Xcode for Mobile: It’s Time](../../assets/images/oc_artwork/4973305428199371-c9558794-7b86-4144-83f2-591c36566330.png) MacStories Unwind+ – Xcode for Mobile: It’s Time
+[![809: Triple J on ‘Jeopardy!’ with Jennings](../../assets/images/oc_artwork/39796008272546-7759f7a2-c393-4df6-bf7c-e466e4508f3d.png)](https://overcast.fm/+kMbrvwqI) [The Incomparable Mothership – 809: Triple J on ‘Jeopardy!’ with Jennings](https://overcast.fm/+kMbrvwqI)
+![Jon explains the Leclerc anomaly that exposes a massive F1 2026 complexity](../../assets/images/oc_artwork/5523677463411622-c8b05c17-26e8-4cf2-93dc-1cb17560e2de.png) The Race F1 Podcast (Members) – Jon explains the Leclerc anomaly that exposes a massive F1 2026 complexity
+![Paramount’s $110 billion Warner Bros. gamble](../../assets/images/oc_artwork/5816355349278622-b443bef9-5e83-454d-934e-c036a3702e93.png) Decoder: Ad-Free Edition – Paramount’s $110 billion Warner Bros. gamble
+[![#541: Monty - Python in Rust for AI](../../assets/images/oc_artwork/413708539983223-30d4169a-6362-4732-b83e-aa0eb9258fe8.png)](https://overcast.fm/+F4RAaQ9Xc) [Talk Python To Me – #541: Monty - Python in Rust for AI](https://overcast.fm/+F4RAaQ9Xc)
+[![683: I Didn’t Want to Melt My Rug](../../assets/images/oc_artwork/5585875926224206-a5c297e3-073a-4bb4-838b-4514b28b8b32.png)](https://atp.fm/683) [Accidental Tech Podcast – 683: I Didn’t Want to Melt My Rug](https://atp.fm/683)
+[![Gamer - Caravan Of Garbage](../../assets/images/oc_artwork/3737329050269317-1dfacd59-cfe7-45c2-a769-e1fbe38784ae.png)](https://overcast.fm/+1HFLpzNoU) [The Weekly Planet – Gamer - Caravan Of Garbage](https://overcast.fm/+1HFLpzNoU)
 
 </div>
 
@@ -45,8 +45,8 @@ slug: "now"
 
 ### Movies
 
-[<span hidden>THE RIP • First Time Viewing • 2026 • Joe Carnahan • The implausibilities and obvious impossibilities are largely overcome by the plot premise and the likability of some of the characters. Have a Kirin and watch and you'll enjoy it. ***</span>
-![THE RIP • First Time Viewing • 2026 • Joe Carnahan • The implausibilities and obvious impossibilities are largely overcome by the plot premise and the likability of some of the characters. Have a Kirin and watch and you'll enjoy it. ***](../../assets/images/posts/png-image47ce83965e0-review-0f62fa43-92c4-4650-8ff9-7a7bc650d6d0.png)](/images/posts/png-image47ce83965e0-review-0f62fa43-92c4-4650-8ff9-7a7bc650d6d0.jpg)
+[<span hidden>Fountain of Youth • 2025 • Guy Ritchie • This movie is silly and unbelievable in a lot of the same ways that Indiana Jones-style action movies often are, but it likes its characters very much and as a result, you like them as well. It's a really fun watch because of the characters and their interactions. I did not expect to like this as much as I did. *****</span>
+![Fountain of Youth • 2025 • Guy Ritchie • This movie is silly and unbelievable in a lot of the same ways that Indiana Jones-style action movies often are, but it likes its characters very much and as a result, you like them as well. It's a really fun watch because of the characters and their interactions. I did not expect to like this as much as I did. *****](../../assets/images/posts/png-image47ac813f860-review-ea8e1091-be2e-4d42-ba2c-758f69f839da.png)](/images/posts/png-image47ac813f860-review-ea8e1091-be2e-4d42-ba2c-758f69f839da.jpg)
 
 ### TV Shows
 
@@ -54,8 +54,6 @@ slug: "now"
 ![HIS & HERS • 2026 • Parts of this were extremely good. I guess that's what made the ending even more disappointing, because I did not buy the main character's reaction to it. **](../../assets/images/posts/png-image46188fe7dc0-review-aaab3e16-7f1e-4aa0-8d70-8161bf0b4445.png)](/images/posts/png-image46188fe7dc0-review-aaab3e16-7f1e-4aa0-8d70-8161bf0b4445.jpg)
 [<span hidden>Formula 1: Drive to Survive • Season 8 review. Once again Drive to Survive is very painful for long- time and knowledgeable Formula One fans. They continue to manufacture story lines that don't quite exist and they continue to give Christian Horner more attention than that guy deserves. And now they've added Flavio Briatore to the attention they don't deserve category. The last couple of episodes were pretty good though. **</span>
 ![Formula 1: Drive to Survive • Season 8 review. Once again Drive to Survive is very painful for long- time and knowledgeable Formula One fans. They continue to manufacture story lines that don't quite exist and they continue to give Christian Horner more attention than that guy deserves. And now they've added Flavio Briatore to the attention they don't deserve category. The last couple of episodes were pretty good though. **](../../assets/images/posts/png-image40aeb107b10-review-d8edf9cb-be78-4ff9-bd06-6638478149b9.png)](/images/posts/png-image40aeb107b10-review-d8edf9cb-be78-4ff9-bd06-6638478149b9.jpg)
-[<span hidden>The Night Manager • 2016 • Season 2 review • Tom Hiddleston continues to be super compelling in this role. The supporting cast here is very good - Diego Calva as Teddy Dos Santos and Camila Morrone as Roxana Bolaños are expecially good. Paul Chahidi (Basil) and Hayley Squires (Sally) are also great. *****</span>
-![The Night Manager • 2016 • Season 2 review • Tom Hiddleston continues to be super compelling in this role. The supporting cast here is very good - Diego Calva as Teddy Dos Santos and Camila Morrone as Roxana Bolaños are expecially good. Paul Chahidi (Basil) and Hayley Squires (Sally) are also great. *****](../../assets/images/posts/png-image461184dd2c0-review-d49dd5f8-0c11-429a-9832-4d8c4f8173cf.png)](/images/posts/png-image461184dd2c0-review-d49dd5f8-0c11-429a-9832-4d8c4f8173cf.jpg)
 
 </div>
 
@@ -65,119 +63,96 @@ slug: "now"
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417__wrzIikMR5A.png](../../assets/images/yt_thumbs/20260317222417__wrzIikMR5A.png) ](https://www.youtube.com/watch?v=_wrzIikMR5A)<div><p class="yt-video-channel">Channel – [Adam Mockler](https://www.youtube.com/@adammockler)</p><p class="yt-video-title">
-[Netanyahu Misses 7 Straight Meetings #politics #fyp #new](https://www.youtube.com/watch?v=_wrzIikMR5A)
+[![../../assets/images/yt_thumbs/20260321103206_8rwzlrV_Mx4.png](../../assets/images/yt_thumbs/20260321103206_8rwzlrV_Mx4.png)](https://www.youtube.com/watch?v=8rwzlrV_Mx4&t=36s)<div><p class="yt-video-channel">Channel – [Nürburgring Langstrecken-Serie](https://www.youtube.com/@VLNOFFICIAL)</p><p class="yt-video-title">
+[Race 2 ADAC RAVENOL Nürburgring Langstrecken-Serie (NLS), 2026 season](https://www.youtube.com/watch?v=8rwzlrV_Mx4&t=36s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_q8K5O7m0KgU.png](../../assets/images/yt_thumbs/20260317222417_q8K5O7m0KgU.png) ](https://www.youtube.com/watch?v=q8K5O7m0KgU)<div><p class="yt-video-channel">Channel – [Dan Ackerman](https://www.youtube.com/@DanAckerman)</p><p class="yt-video-title">
-[M4 Mac Mini: 256GB to 2TB in Minutes](https://www.youtube.com/watch?v=q8K5O7m0KgU)
+[![../../assets/images/yt_thumbs/20260321103206_vqnAOV8NMZ4.png](../../assets/images/yt_thumbs/20260321103206_vqnAOV8NMZ4.png)](https://www.youtube.com/watch?v=vqnAOV8NMZ4&t=1458s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
+[Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](https://www.youtube.com/watch?v=vqnAOV8NMZ4&t=1458s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_vkm-ZFlivyI.png](../../assets/images/yt_thumbs/20260317222417_vkm-ZFlivyI.png) ](https://www.youtube.com/watch?v=vkm-ZFlivyI)<div><p class="yt-video-channel">Channel – [Mikkel Malmberg](https://www.youtube.com/@MikkelMalmberg)</p><p class="yt-video-title">
-[Meet Tuna: a brand new, modern, modal launcher for macOS](https://www.youtube.com/watch?v=vkm-ZFlivyI)
+[![../../assets/images/yt_thumbs/20260321103206_ot3NM5OVFmc.png](../../assets/images/yt_thumbs/20260321103206_ot3NM5OVFmc.png)](https://www.youtube.com/watch?v=ot3NM5OVFmc)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Claude Channels Just Dropped, And It Kills OpenClaw (Again)](https://www.youtube.com/watch?v=ot3NM5OVFmc)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_QT7W_uHjqWE.png](../../assets/images/yt_thumbs/20260317222417_QT7W_uHjqWE.png) ](https://www.youtube.com/watch?v=QT7W_uHjqWE&t=314s)<div><p class="yt-video-channel">Channel – [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)</p><p class="yt-video-title">
-[Anthropic Didn't Build a New Browser. They Did Something Smarter.](https://www.youtube.com/watch?v=QT7W_uHjqWE&t=314s)
+[![../../assets/images/yt_thumbs/20260321103206_7JKTLLW856I.png](../../assets/images/yt_thumbs/20260321103206_7JKTLLW856I.png)](https://www.youtube.com/watch?v=7JKTLLW856I&t=79s)<div><p class="yt-video-channel">Channel – [Leon van Zyl](https://www.youtube.com/@leonvanzyl)</p><p class="yt-video-title">
+[Claude Code /loop Does the Work Nobody Wants to Do](https://www.youtube.com/watch?v=7JKTLLW856I&t=79s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_ZbKNpn0woDY.png](../../assets/images/yt_thumbs/20260317222417_ZbKNpn0woDY.png) ](https://www.youtube.com/watch?v=ZbKNpn0woDY)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
-[Claude Code's New Upgrade: /btw](https://www.youtube.com/watch?v=ZbKNpn0woDY)
+[![../../assets/images/yt_thumbs/20260321103206_Corqql0QGHE.png](../../assets/images/yt_thumbs/20260321103206_Corqql0QGHE.png)](https://www.youtube.com/watch?v=Corqql0QGHE&t=619s)<div><p class="yt-video-channel">Channel – [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)</p><p class="yt-video-title">
+[Inside Hugh Jackman's Weird Cult](https://www.youtube.com/watch?v=Corqql0QGHE&t=619s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_4Cb_l2LJAW8.png](../../assets/images/yt_thumbs/20260317222417_4Cb_l2LJAW8.png) ](https://www.youtube.com/watch?v=4Cb_l2LJAW8&pp=0gcJCcUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
-[Claude Code + Karpathy's Autoresearch = The New Meta](https://www.youtube.com/watch?v=4Cb_l2LJAW8&pp=0gcJCcUKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260321103206_1KLkS-qofdM.png](../../assets/images/yt_thumbs/20260321103206_1KLkS-qofdM.png)](https://www.youtube.com/watch?v=1KLkS-qofdM&t=1093s)<div><p class="yt-video-channel">Channel – [Peter Windsor](https://www.youtube.com/@peterwindsor)</p><p class="yt-video-title">
+[Newey/Aston/Honda: what went wrong? By Peter Windsor with Cameron](https://www.youtube.com/watch?v=1KLkS-qofdM&t=1093s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_feI5TAdwemc.png](../../assets/images/yt_thumbs/20260317222417_feI5TAdwemc.png) ](https://www.youtube.com/watch?v=feI5TAdwemc)<div><p class="yt-video-channel">Channel – [Conor Moore Racing](https://www.youtube.com/@conormooref1)</p><p class="yt-video-title">
-[Kimi Antonelli WINS the China Grand Prix F1](https://www.youtube.com/watch?v=feI5TAdwemc)
+[![../../assets/images/yt_thumbs/20260321103206_h3AtWdeu_G0.png](../../assets/images/yt_thumbs/20260321103206_h3AtWdeu_G0.png)](https://www.youtube.com/watch?v=h3AtWdeu_G0)<div><p class="yt-video-channel">Channel – [Senator Bernie Sanders](https://www.youtube.com/@SenatorSanders)</p><p class="yt-video-title">
+[Bernie vs. Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_JKbVk6bIXvA.png](../../assets/images/yt_thumbs/20260317222417_JKbVk6bIXvA.png) ](https://www.youtube.com/watch?v=JKbVk6bIXvA&t=72s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[I did not expect this...](https://www.youtube.com/watch?v=JKbVk6bIXvA&t=72s)
+[![../../assets/images/yt_thumbs/20260321103206_fFV9LNN3Aks.png](../../assets/images/yt_thumbs/20260321103206_fFV9LNN3Aks.png)](https://www.youtube.com/watch?v=fFV9LNN3Aks)<div><p class="yt-video-channel">Channel – [KOTSUMET](https://www.youtube.com/@KOTARO_OTTER)</p><p class="yt-video-title">
+[Curious Otters Witness Hatching of Mystery Egg](https://www.youtube.com/watch?v=fFV9LNN3Aks)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_RCHhAEjEjKw.png](../../assets/images/yt_thumbs/20260317222417_RCHhAEjEjKw.png) ](https://www.youtube.com/watch?v=RCHhAEjEjKw)<div><p class="yt-video-channel">Channel – [CodeSource](https://www.youtube.com/@CodeSource)</p><p class="yt-video-title">
-[Why Perl Quietly Disappeared](https://www.youtube.com/watch?v=RCHhAEjEjKw)
+[![../../assets/images/yt_thumbs/20260321103206_R4Guh6cLftI.png](../../assets/images/yt_thumbs/20260321103206_R4Guh6cLftI.png)](https://www.youtube.com/watch?v=R4Guh6cLftI&pp=0gcJCcUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Brian Tyler Cohen](https://www.youtube.com/@briantylercohen)</p><p class="yt-video-title">
+[MUST-SEE: Tulsi Gabbard makes BOMBSHELL CONFESSION at Senate hearing](https://www.youtube.com/watch?v=R4Guh6cLftI&pp=0gcJCcUKAYcqIYzv)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_S68BvDAtIL8.png](../../assets/images/yt_thumbs/20260317222417_S68BvDAtIL8.png) ](https://www.youtube.com/watch?v=S68BvDAtIL8&pp=0gcJCcUKAYcqIYzv)<div><p class="yt-video-channel">Channel – [TAKASHii](https://www.youtube.com/@takashiifromjapan)</p><p class="yt-video-title">
-[Japanese teacher explains how to learn Japanese faster 🇯🇵](https://www.youtube.com/watch?v=S68BvDAtIL8&pp=0gcJCcUKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260321103206_le1CSHfS4jA.png](../../assets/images/yt_thumbs/20260321103206_le1CSHfS4jA.png)](https://www.youtube.com/watch?v=le1CSHfS4jA&t=335s)<div><p class="yt-video-channel">Channel – Cars & Money Breakdowns and Cars & Money</p><p class="yt-video-title">
+[David Coulthard Opens Up About Senna's Fatal Crash](https://www.youtube.com/watch?v=le1CSHfS4jA&t=335s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_ZxYSWEsv9tc.png](../../assets/images/yt_thumbs/20260317222417_ZxYSWEsv9tc.png) ](https://www.youtube.com/watch?v=ZxYSWEsv9tc&t=5s)<div><p class="yt-video-channel">Channel – [Thomas Boykin](https://www.youtube.com/@ThomasBoykin)</p><p class="yt-video-title">
-[iZotope RX Advanced: Five Tips for Dialogue Noise Reduction](https://www.youtube.com/watch?v=ZxYSWEsv9tc&t=5s)
+[![../../assets/images/yt_thumbs/20260321103206_C5VyeOO3LYQ.png](../../assets/images/yt_thumbs/20260321103206_C5VyeOO3LYQ.png)](https://www.youtube.com/watch?v=C5VyeOO3LYQ&t=31s)<div><p class="yt-video-channel">Channel – [Jasmine DiLucci, JD, CPA, EA](https://www.youtube.com/@taxleverage)</p><p class="yt-video-title">
+[IRS Cracking Down on Self-Employment Income (Avoid These Mistakes!)](https://www.youtube.com/watch?v=C5VyeOO3LYQ&t=31s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260317222417_FPPeChcgytU.png](../../assets/images/yt_thumbs/20260317222417_FPPeChcgytU.png) ](https://www.youtube.com/watch?v=FPPeChcgytU)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Radio Rewind | 2026 Chinese Grand Prix](https://www.youtube.com/watch?v=FPPeChcgytU)
+[![../../assets/images/yt_thumbs/20260321103206_S0UGxZm6PF8.png](../../assets/images/yt_thumbs/20260321103206_S0UGxZm6PF8.png)](https://www.youtube.com/watch?v=S0UGxZm6PF8)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[How Jacques Villeneuve Shook Up F1 | F1 Beyond The Grid Podcast](https://www.youtube.com/watch?v=S0UGxZm6PF8)
 </p></div>
 
 </div>

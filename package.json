@@ -32,8 +32,8 @@
     "@astrojs/sitemap": "^3.7.1",
     "@expressive-code/plugin-line-numbers": "^0.41.7",
     "@philnash/astro-pagination": "^0.5.0",
-    "@tailwindcss/vite": "^4.2.1",
-    "astro": "^6.0.5",
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.0.8",
     "astro-expressive-code": "^0.41.7",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^1.8.5",
@@ -42,10 +42,10 @@
     "normalize.css": "^8.0.1",
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
-    "sanitize-html": "^2.17.1",
-    "tailwindcss": "^4.2.1",
+    "sanitize-html": "^2.17.2",
+    "tailwindcss": "^4.2.2",
     "unist-util-visit": "^5.1.0",
-    "vite": "^8.0.0"
+    "vite": "^8.0.1"
   },
   "devDependencies": {
     "prettier": "^3.8.1",

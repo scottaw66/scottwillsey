@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-03-17T22:26:07-08:00"
+date: "2026-03-21T11:02:25-08:00"
 slug: "links"
 ---
 
@@ -23,25 +23,25 @@ slug: "links"
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [HyperContext](https://hypercontext.eu/)
 - [Interconnects | Nathan Lambert | Substack](https://www.interconnects.ai/)
+- [karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
+- [kepano/obsidian-skills: Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.](https://github.com/kepano/obsidian-skills)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [Nanobot - Open Source MCP Agent Framework](https://www.nanobot.ai/)
 - [Nate’s Substack | Substack](https://natesnewsletter.substack.com/)
+- [Nick Saraev - YouTube](https://www.youtube.com/@nicksaraev)
+- [obra/superpowers: An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
 - [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)
 - [OpenAI Codex](https://openai.com/codex/)
 - [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
-- [Orchard - Bridge AI Assistants to Your Apple Ecosystem](https://orchard.5km.tech/)
-- [Peter Steinberger](https://steipete.me/)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
 - [SnitchBench](https://snitchbench.t3.gg/)
-- [steipete/agent-rules: Rules and Knowledge to work better with agents such as Claude Code or Cursor](https://github.com/steipete/agent-rules)
 - [TestingCatalog - New and Unreleased AI features for you to explore](https://www.testingcatalog.com/)
 - [The AI Advantage](https://www.youtube.com/@aiadvantage)
 - [The Weird Turn Pro | Andy Masley | Substack](https://andymasley.substack.com/)
 - [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
 - [tommertron/anyboxMCP: An experimental MCP server for the popular Mac bookmarking app Anybox](https://github.com/tommertron/anyboxMCP)
-- [Transcriptionist](https://www.wooji-juice.com/products/transcriptionist/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes/)
 - [ながらAI - usutaku&gomichan](https://www.youtube.com/@nagaraAI)
 
@@ -466,6 +466,9 @@ John Chidgey is an engineer first and foremost, and a podcaster and writer addit
 
 **[Journal – Tyler Sticka](https://tylersticka.com/journal/)**  
 Lots of web and computer topics on Tyler's blog.
+
+**[Unsung](https://unsung.aresluna.org/)**  
+Just a fun little blog about software.
 
 **[Waxy.org - Andy Baio lives here](https://waxy.org/)**  
 I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his blog until recently.  
@@ -1245,6 +1248,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [MeidasTouch](https://www.youtube.com/@MeidasTouch)
 - [Mentour Pilot](https://www.youtube.com/@MentourPilot)
 - [Michi NekoMichi](https://www.youtube.com/@NekoMichi)
+- [Mikkel Malmberg](https://www.youtube.com/@MikkelMalmberg)
 - [Miku Real Japanese](https://www.youtube.com/@mikurealjapanese)
 - [Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
 - [Monte Mader](https://www.youtube.com/@MonteMader)
