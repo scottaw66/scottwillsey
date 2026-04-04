@@ -28,15 +28,15 @@
   },
   "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
   "dependencies": {
-    "@astrojs/rss": "^4.0.17",
-    "@astrojs/sitemap": "^3.7.1",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
     "@expressive-code/plugin-line-numbers": "^0.41.7",
     "@philnash/astro-pagination": "^0.6.0",
     "@tailwindcss/vite": "^4.2.2",
-    "astro": "^6.0.8",
+    "astro": "^6.1.3",
     "astro-expressive-code": "^0.41.7",
     "astro-font": "^1.1.0",
-    "astro-pagefind": "^1.8.5",
+    "astro-pagefind": "^1.8.6",
     "date-fns": "^4.1.0",
     "markdown-it": "^14.1.1",
     "normalize.css": "^8.0.1",
@@ -45,7 +45,7 @@
     "sanitize-html": "^2.17.2",
     "tailwindcss": "^4.2.2",
     "unist-util-visit": "^5.1.0",
-    "vite": "^8.0.2"
+    "vite": "^8.0.3"
   },
   "overrides": {
     "sanitize-html": {
