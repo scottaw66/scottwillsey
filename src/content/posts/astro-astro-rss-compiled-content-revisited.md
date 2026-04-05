@@ -7,20 +7,7 @@ slug: "astro-astro-rss-compiled-content-revisited"
 ---
 In the past I wrote about [full-text RSS in Astro](https://scottwillsey.com/astro-rss-compiledcontent/), and using sanitize-html on the blog post content to escape and filter html tags. This is or was the [recommended procedure when creating full-text RSS feeds according to Astro's documentation on RSS feeds](https://docs.astro.build/en/recipes/rss/), and worked fine until recently.
 
-At some point, sanitize-html started breaking when [htmlparser2](https://feedic.com/htmlparser2/) was updated (and sanitize-html apparently wasn’t). I started getting the following compilation error:
-
-```
-
-  11:58:17 [ERROR] [build] Caught error rendering /reads/rss.xml: TypeError: this.buffers[0].slice is not a function
-  this.buffers[0].slice is not a function
-    Stack trace:
-      at Parser.getSlice (/Users/scott/Sites/scottwillsey/node_modules/htmlparser2/dist/commonjs/Parser.js:444:37)
-      at Tokenizer.handleTrailingData (/Users/scott/Sites/scottwillsey/node_modules/htmlparser2/dist/commonjs/Tokenizer.js:781:22)
-      at Tokenizer.end (/Users/scott/Sites/scottwillsey/node_modules/htmlparser2/dist/commonjs/Tokenizer.js:153:18)
-      at sanitizeHtml (/Users/scott/Sites/scottwillsey/node_modules/sanitize-html/index.js:675:10)
-      at Array.map (<anonymous>)
-
-```
+At some point, sanitize-html started breaking when [htmlparser2](https://feedic.com/htmlparser2/) was updated (and sanitize-html apparently wasn’t). I started getting the following compilation error.
 
 My temporary solution was to pin htmlparser2 to version 8, which I didn't love, especially since I have multiple Astro sites, and since it would be hard to know when an update would fix the issue.
 
