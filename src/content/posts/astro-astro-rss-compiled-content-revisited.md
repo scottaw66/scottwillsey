@@ -15,13 +15,87 @@ However, after this problem persisted for awhile, I started wondering what was g
 
 First off, he mentioned that instead of sanitize-html, he himself uses [ultrahtml](https://npmx.dev/package/ultrahtml) to handle the html cleanup and parsing. He even provided an example of it in use for me: [astro-blog-full-text-rss/src/pages/rss.xml.ts at latest · delucis/astro-blog-full-text-rss](https://github.com/delucis/astro-blog-full-text-rss/blob/latest/src/pages/rss.xml.ts).
 
-He went on to test my issue and pointed out that my code was calling the async function `post.compiledContent()` without `await`, and this was breaking htmlparser2 as it received a Promise object from sanitize-html, which was passing it on after receiving it from me.
+He went on to test my issue and pointed out that my code was calling the async function `post.compiledContent()` without `await`, and this was breaking htmlparser2 as it received a Promise object from sanitize-html, which was passing it on after receiving it from me:
+
+```javascript
+
+content: globalImageUrls(
+    site.url,
+    sanitizeHtml(post.compiledContent(), {
+    allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
+}),
+
+```
 
 I'm not 100% sure why this wasn't breaking in htmlparser2 8.0 and prior, but in fact it WAS resulting in the expected content not being output at all. Instead, where the full-text content should have been for each post in the RSS feed, was an empty `<content:encoded />` tag. So the fact that I was not awaiting the return result of the async `post.compiledContent()` already WAS causing me issues, and I hadn't even noticed.
 
 At any rate, by the time he informed me of how stupid I was (he didn't phrase it that way, but I am), I'd already implemented ultrahtml and moved on.
 
-[![RssXmlJs](../../assets/images/posts/RssXmlJs-2b634ca1-02d4-4a5e-968e-70b09da00710.png)](/images/posts/RssXmlJs-2b634ca1-02d4-4a5e-968e-70b09da00710.jpg)
+```javascript title="src/pages/rss.xml.js" {4,5,26-39}
+import rss from "@astrojs/rss";
+import { experimental_AstroContainer as AstroContainer } from "astro/container";
+import { getCollection, render } from "astro:content";
+import { transform, walk } from "ultrahtml";
+import sanitize from "ultrahtml/transformers/sanitize";
+import { rfc2822 } from "../components/utilities/DateFormat";
+import site from "../data/site.json";
+
+export async function GET(context) {
+  let baseUrl = site.url;
+  if (baseUrl.at(-1) === "/") baseUrl = baseUrl.slice(0, -1);
+
+  const container = await AstroContainer.create();
+
+  const posts = (await getCollection("posts"))
+    .filter((post) => post.data.draft !== true)
+    .sort(
+      (a, b) =>
+        new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
+    );
+
+  const items = [];
+  for (const post of posts) {
+    const { Content } = await render(post);
+    const rawContent = await container.renderToString(Content);
+    const content = await transform(rawContent.replace(/^<!DOCTYPE html>/, ""), [
+      async (node) => {
+        await walk(node, (node) => {
+          if (node.name === "a" && node.attributes.href?.startsWith("/")) {
+            node.attributes.href = baseUrl + node.attributes.href;
+          }
+          if (node.name === "img" && node.attributes.src?.startsWith("/")) {
+            node.attributes.src = baseUrl + node.attributes.src;
+          }
+        });
+        return node;
+      },
+      sanitize({ dropElements: ["script", "style"] }),
+    ]);
+    items.push({
+      title: post.data.title,
+      link: `${baseUrl}/${post.id}`,
+      pubDate: rfc2822(post.data.date),
+      description: post.data.description,
+      customData: `<summary>${post.data.description}</summary>`,
+      content,
+    });
+  }
+
+  return rss({
+    title: site.title,
+    description: site.description,
+    site: context.site,
+    xmlns: {
+      atom: "http://www.w3.org/2005/Atom/",
+      dc: "http://purl.org/dc/elements/1.1/",
+      content: "http://purl.org/rss/1.0/modules/content/",
+    },
+    items,
+  });
+}
+
+
+```
 
 You can see the full source for it [here](https://github.com/scottaw66/scottwillsey/blob/main/src/pages/rss.xml.js).
 
