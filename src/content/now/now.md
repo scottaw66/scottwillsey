@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-04-05T00:13:16-08:00"
+date: "2026-04-05T00:21:40-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Hangeul turns out to be a little weirder than I thought - there are a couple weird rules. However, compared to learning kanji... haha! Not even in the same universe of complexity.
+> Working on transitioning [Friends with Brews](https://friendswithbrews.com) from an audio podcast to a [YouTube channel](https://www.youtube.com/@FriendswithBrewsPodcast).
 
 ## Current Projects
 
-- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Finished the Hangeul 7 day challenge.
+- Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Currently taking Beginner Bootcamp course.
 
 - Finger therapy (post-surgery)
 
@@ -47,8 +47,6 @@ slug: "now"
 
 [<span hidden>Fountain of Youth • 2025 • Guy Ritchie • This movie is silly and unbelievable in a lot of the same ways that Indiana Jones-style action movies often are, but it likes its characters very much and as a result, you like them as well. It's a really fun watch because of the characters and their interactions. I did not expect to like this as much as I did. *****</span>
 ![Fountain of Youth • 2025 • Guy Ritchie • This movie is silly and unbelievable in a lot of the same ways that Indiana Jones-style action movies often are, but it likes its characters very much and as a result, you like them as well. It's a really fun watch because of the characters and their interactions. I did not expect to like this as much as I did. *****](../../assets/images/posts/png-image47ac813f860-review-ea8e1091-be2e-4d42-ba2c-758f69f839da.png)](/images/posts/png-image47ac813f860-review-ea8e1091-be2e-4d42-ba2c-758f69f839da.jpg)
-[<span hidden>AMETORA HOW JAPAN SAVED AMERICAN STYLE • W. David Marx • 2023 • Basic Books • It may sound odd that a history of American fashion as repurposed by the Japanese into something uniquely their own could be as fascinating as this book is, but it is indeed an enjoyable and informative read. *****</span>
-![AMETORA HOW JAPAN SAVED AMERICAN STYLE • W. David Marx • 2023 • Basic Books • It may sound odd that a history of American fashion as repurposed by the Japanese into something uniquely their own could be as fascinating as this book is, but it is indeed an enjoyable and informative read. *****](../../assets/images/posts/png-image4844b187210-review-a8aefcaf-a9c1-4ad4-9dcd-a1c1776c0aee.png)](/images/posts/png-image4844b187210-review-a8aefcaf-a9c1-4ad4-9dcd-a1c1776c0aee.jpg)
 
 </div>
 
