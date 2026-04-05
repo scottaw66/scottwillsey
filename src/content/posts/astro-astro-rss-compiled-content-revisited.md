@@ -1,6 +1,6 @@
 ---
 title: Astro RSS Compiled Content Revisited
-description: describe
+description: In which I learn that I'm doing things wrong, and I start trying to do them right again.
 date: "2026-04-04T00:10:00-08:00"
 keywords: ["keyword"]
 slug: "astro-astro-rss-compiled-content-revisited"
