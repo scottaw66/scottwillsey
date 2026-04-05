@@ -1,5 +1,5 @@
 ---
-title: Astro Astro RSS Compiled Content Revisited
+title: Astro RSS Compiled Content Revisited
 description: describe
 date: "2026-04-04T00:10:00-08:00"
 keywords: ["keyword"]
