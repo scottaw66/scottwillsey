@@ -7,7 +7,9 @@ slug: "astro-astro-rss-compiled-content-revisited"
 ---
 In the past I wrote about [full-text RSS in Astro](https://scottwillsey.com/astro-rss-compiledcontent/), and using sanitize-html on the blog post content to escape and filter html tags. This is or was the [recommended procedure when creating full-text RSS feeds according to Astro's documentation on RSS feeds](https://docs.astro.build/en/recipes/rss/), and worked fine until recently.
 
-At some point, sanitize-html started breaking when [htmlparser2](https://feedic.com/htmlparser2/) was updated (and sanitize-html apparently wasn’t). I started getting the following compilation error.
+At some point, sanitize-html started breaking when [htmlparser2](https://feedic.com/htmlparser2/) was updated (and sanitize-html apparently wasn’t). I started getting the following compilation error:
+
+[![SanitizeErrorMessage](../../assets/images/posts/SanitizeErrorMessage-08223da8-ee82-4562-8c91-390fdfeae6f4.png)](/images/posts/SanitizeErrorMessage-08223da8-ee82-4562-8c91-390fdfeae6f4.jpg)
 
 My temporary solution was to pin htmlparser2 to version 8, which I didn't love, especially since I have multiple Astro sites, and since it would be hard to know when an update would fix the issue.
 
@@ -96,7 +98,5 @@ export async function GET(context) {
 
 
 ```
-
-You can see the full source for it [here](https://github.com/scottaw66/scottwillsey/blob/main/src/pages/rss.xml.js).
 
 The bottom line is, if you are doing full-text RSS feeds in Astro and you do use sanitize-html or ultrahtml, don't be like me and send a Promise to things that want the Promise's returned object instead.
