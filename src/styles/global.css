@@ -500,15 +500,15 @@
 
   /* Reviews sections */
   article div.review-now {
-    @apply w-fit mx-auto mt-8;
+    @apply w-full mt-8;
   }
-  article h3#movies + p,
-  article h3#books ~ p,
-  article h3#tv-shows + p,
-  article h3#games + p,
-  article h3#music + p,
+  article div.review-now > p {
+    @apply grid gap-8 mt-4 mb-8 mx-auto px-4;
+    grid-template-columns: repeat(auto-fill, minmax(min(450px, 100%), max-content));
+    justify-content: center;
+  }
   article div.review p {
-    @apply flex flex-row gap-4 flex-wrap justify-start mx-4 mt-4 mb-8;
+    @apply flex flex-row gap-4 flex-wrap justify-center mx-4 mt-4 mb-8;
   }
 
   div.now p a img,
