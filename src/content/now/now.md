@@ -1,19 +1,19 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-04-05T00:21:40-08:00"
+date: "2026-04-09T15:09:50-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Working on transitioning [Friends with Brews](https://friendswithbrews.com) from an audio podcast to a [YouTube channel](https://www.youtube.com/@FriendswithBrewsPodcast).
+> Right this second I'm drinking green tea, and it's all that really matters.
 
 ## Current Projects
 
 - Japanese and Korean study (somewhat proficient in J, complete newb to K). Using [Talk To Me In Korean Courses](https://courses.talktomeinkorean.com/). Currently taking Beginner Bootcamp course.
 
-- Finger therapy (post-surgery)
+- [Friends with Brews](https://friendswithbrews.com) [YouTube channel](https://www.youtube.com/@FriendswithBrewsPodcast)
 
 ## Stuff I've recently enjoyed
 
@@ -23,30 +23,25 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-![Why Iran is Attacking Data Centers w/ Sam Biddle](../../assets/images/oc_artwork/5585831885571003-62dbc55e-b721-40b6-b9c4-cbb567e3e025.png) Tech Won't Save Us (Premium) – Why Iran is Attacking Data Centers w/ Sam Biddle
-![A jury says Meta and Google hurt a kid. What now?](../../assets/images/oc_artwork/5816355510768488-3b2308cd-a52f-47ae-a26d-0c3719a061b9.png) Decoder: Ad-Free Edition – A jury says Meta and Google hurt a kid. What now?
-[![How the World Got Owned Episode 2: The 1990s, Part One](../../assets/images/oc_artwork/613329980531333-629e745a-ac9e-41ff-a616-105744ce2518.png)](https://overcast.fm/+It0gOeooU) [Risky Business – How the World Got Owned Episode 2: The 1990s, Part One](https://overcast.fm/+It0gOeooU)
-[![811: Have You Considered More Voiceovers?](../../assets/images/oc_artwork/39795527207202-fab4d64c-dec0-4a0d-a6db-e3f95a6df524.png)](https://overcast.fm/+kMZ5DSSI) [The Incomparable Mothership – 811: Have You Considered More Voiceovers?](https://overcast.fm/+kMZ5DSSI)
-[![423: Stylish Magazine Like Brutus (kyuukanba)](../../assets/images/oc_artwork/661174473249-a5d378c4-0e72-41b7-8853-40209b87b699.png)](https://overcast.fm/+mfER0iE) [Rebuild – 423: Stylish Magazine Like Brutus (kyuukanba)](https://overcast.fm/+mfER0iE)
-![Apple’s best product ever](../../assets/images/oc_artwork/5816342789113432-1ece888b-4969-45ae-b4ce-97f777eeb0bf.png) The Vergecast: Ad-Free Edition – Apple’s best product ever
-[![Why Adrian Newey’s F1 projects end in triumph or disaster | The Undercut episode 4](../../assets/images/oc_artwork/5904936763791443-841ba5fc-ed2a-4e6d-b760-2a234f5df545.png)](https://overcast.fm/+BT6gjo6GFM) [The Undercut with Damon Hill and Mark Hughes – Why Adrian Newey’s F1 projects end in triumph or disaster | The Undercut episode 4](https://overcast.fm/+BT6gjo6GFM)
-![The fun way we uncovered F1’s new engine trick](../../assets/images/oc_artwork/5523677570226584-bad510ea-e68e-462c-829e-18051b78991b.png) The Race F1 Podcast (Members) – The fun way we uncovered F1’s new engine trick
-[![Ep.138 Mac ProとAI動画アプリ「Sora」の終了、その背景👀 今週のテックニュース](../../assets/images/oc_artwork/4416666778249507-2cf85f31-2b6c-4404-8fee-f460201087ea.png)](https://overcast.fm/+-w715oqSM) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.138 Mac ProとAI動画アプリ「Sora」の終了、その背景👀 今週のテックニュース](https://overcast.fm/+-w715oqSM)
-![Moonshots, Time Machines, and Workflows](../../assets/images/oc_artwork/4973305548827196-ff1e8d61-4fe4-40b3-9f44-33dd8fcbc490.png) MacStories Unwind+ – Moonshots, Time Machines, and Workflows
+![The AI industry’s existential race for profits](../../assets/images/oc_artwork/5816355789676623-2bd8e58b-e0f5-4c6a-8b97-1707332dfe98.png) Decoder: Ad-Free Edition – The AI industry’s existential race for profits
+[![It’s Five O’Clock Somewhere](../../assets/images/oc_artwork/5130549127744753-3d23096c-8de6-4546-b19f-56c60b5e2bcd.png)](https://overcast.fm/+BI6NQ5DDPE) [Comfort Zone – It’s Five O’Clock Somewhere](https://overcast.fm/+BI6NQ5DDPE)
+[![The War of the Worlds (1953) - Caravan Of Garbage](../../assets/images/oc_artwork/3737328339063698-4baa668e-0ad1-4adf-b2b2-c38ad9b09bfb.png)](https://overcast.fm/+1HFJAPE5I) [The Weekly Planet – The War of the Worlds (1953) - Caravan Of Garbage](https://overcast.fm/+1HFJAPE5I)
+![Driving Style Secrets is returning! Find out the drivers we’re analysing in Season 3…](../../assets/images/oc_artwork/5523677433791529-0feb00f1-3558-463e-8d10-0ffec82444c2.png) The Race F1 Podcast (Members) – Driving Style Secrets is returning! Find out the drivers we’re analysing in Season 3…
+![What the latest high-profile exit means for Red Bull - and Verstappen (ad-free)](../../assets/images/oc_artwork/5523677168397845-bf3b81e2-a87a-4912-926d-418125d87ca8.png) The Race F1 Podcast (Members) – What the latest high-profile exit means for Red Bull - and Verstappen (ad-free)
+[![686: Write Two Letters](../../assets/images/oc_artwork/5585879339996048-8d412ca2-5f4d-4946-988b-02ee886067f3.png)](https://atp.fm/686) [Accidental Tech Podcast: Unedited Live Stream – 686: Write Two Letters](https://atp.fm/686)
+[![Risky Business #832 — Anthropic unveils magical 0day computer God](../../assets/images/oc_artwork/613330006548914-eb6c4cd9-313a-42e0-b22b-89fdb5b297f8.png)](https://overcast.fm/+It0gUrobI) [Risky Business – Risky Business #832 — Anthropic unveils magical 0day computer God](https://overcast.fm/+It0gUrobI)
+[![How License Plate Readers Are Normalizing Mass Surveillance](../../assets/images/oc_artwork/6072098718794692-1db089dd-efc1-4f96-ab2f-b67fbaba2542.png)](https://overcast.fm/+BWSiqcsw8Q) [EFFector – How License Plate Readers Are Normalizing Mass Surveillance](https://overcast.fm/+BWSiqcsw8Q)
+[![Canada is a Warning to the Rest of the World!](../../assets/images/oc_artwork/2821379273428024-995eef6d-cdfb-4f76-8e88-d1b468e3602f.png)](https://overcast.fm/+oGB41ejDg) [Patrick Boyle On Finance – Canada is a Warning to the Rest of the World!](https://overcast.fm/+oGB41ejDg)
+[![Requesting an Immediate Hinge Junction](../../assets/images/oc_artwork/1698966537678685-9cbc4e58-cc00-477b-84ec-e4c803e60bac.png)](https://overcast.fm/+YJM3j2r10) [Judge John Hodgman – Requesting an Immediate Hinge Junction](https://overcast.fm/+YJM3j2r10)
 
 </div>
 
 <div class="review-now">
 
-### Books
+### TV Shows
 
-[<span hidden>AMETORA HOW JAPAN SAVED AMERICAN STYLE • W. David Marx • 2023 • Basic Books • It may sound odd that a history of American fashion as repurposed by the Japanese into something uniquely their own could be as fascinating as this book is, but it is indeed an enjoyable and informative read. *****</span>
-![AMETORA HOW JAPAN SAVED AMERICAN STYLE • W. David Marx • 2023 • Basic Books • It may sound odd that a history of American fashion as repurposed by the Japanese into something uniquely their own could be as fascinating as this book is, but it is indeed an enjoyable and informative read. *****](../../assets/images/posts/png-image4844b187210-review-a8aefcaf-a9c1-4ad4-9dcd-a1c1776c0aee.png)](/images/posts/png-image4844b187210-review-a8aefcaf-a9c1-4ad4-9dcd-a1c1776c0aee.jpg)
-
-### Movies
-
-[<span hidden>Fountain of Youth • 2025 • Guy Ritchie • This movie is silly and unbelievable in a lot of the same ways that Indiana Jones-style action movies often are, but it likes its characters very much and as a result, you like them as well. It's a really fun watch because of the characters and their interactions. I did not expect to like this as much as I did. *****</span>
-![Fountain of Youth • 2025 • Guy Ritchie • This movie is silly and unbelievable in a lot of the same ways that Indiana Jones-style action movies often are, but it likes its characters very much and as a result, you like them as well. It's a really fun watch because of the characters and their interactions. I did not expect to like this as much as I did. *****](../../assets/images/posts/png-image47ac813f860-review-ea8e1091-be2e-4d42-ba2c-758f69f839da.png)](/images/posts/png-image47ac813f860-review-ea8e1091-be2e-4d42-ba2c-758f69f839da.jpg)
+[<span hidden>Mob War: First Time Philadelphia vs. the Mafia • 2025 • This was entertaining enough. I didn't love it, but I wasn't super mad that I watched it. ***</span>
+![Mob War: First Time Philadelphia vs. the Mafia • 2025 • This was entertaining enough. I didn't love it, but I wasn't super mad that I watched it. ***](../../assets/images/posts/png-image4654a011540-review-701b50ac-9de7-42db-8d22-27f950cb4b04.png)](/images/posts/png-image4654a011540-review-701b50ac-9de7-42db-8d22-27f950cb4b04.jpg)
 
 </div>
 
@@ -56,106 +51,98 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_9XdBltWIe-4.png](../../assets/images/yt_thumbs/20260404193922_9XdBltWIe-4.png)](https://www.youtube.com/watch?v=9XdBltWIe-4&t=37s)<div><p class="yt-video-channel">Channel – [Cybernews](https://www.youtube.com/@cybernews)</p><p class="yt-video-title">
-[The Most Secret US Hacking Operation: Eligible Receiver 97](https://www.youtube.com/watch?v=9XdBltWIe-4&t=37s)
+[![../../assets/images/yt_thumbs/20260409145858_aFcVKzfkJPk.png](../../assets/images/yt_thumbs/20260409145858_aFcVKzfkJPk.png)](https://www.youtube.com/watch?v=aFcVKzfkJPk&t=119s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Claude Mythos and the end of software](https://www.youtube.com/watch?v=aFcVKzfkJPk&t=119s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_1dKXUTA1xzk.png](../../assets/images/yt_thumbs/20260404193922_1dKXUTA1xzk.png)](https://www.youtube.com/watch?v=1dKXUTA1xzk)<div><p class="yt-video-channel">Channel – [Lawyer Oyer](https://www.youtube.com/@Lawyer_Oyer)</p><p class="yt-video-title">
-[Blanche’s first interview as Acting AG—tldr: shameless lies](https://www.youtube.com/watch?v=1dKXUTA1xzk)
+[![../../assets/images/yt_thumbs/20260409145858_5k1DHYHmI24.png](../../assets/images/yt_thumbs/20260409145858_5k1DHYHmI24.png)](https://www.youtube.com/watch?v=5k1DHYHmI24)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Why McLaren's taking Max Verstappen's F1 race engineer](https://www.youtube.com/watch?v=5k1DHYHmI24)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_ZoEZ7oHA7Gg.png](../../assets/images/yt_thumbs/20260404193922_ZoEZ7oHA7Gg.png)](https://www.youtube.com/watch?v=ZoEZ7oHA7Gg&t=152s&pp=0gcJCdkKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Tailscale](https://www.youtube.com/@Tailscale)</p><p class="yt-video-title">
-[We got self-hosted apps for days with ScaleTail](https://www.youtube.com/watch?v=ZoEZ7oHA7Gg&t=152s&pp=0gcJCdkKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260409145858_Ob5Vu-gD3mo.png](../../assets/images/yt_thumbs/20260409145858_Ob5Vu-gD3mo.png)](https://www.youtube.com/watch?v=Ob5Vu-gD3mo)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Claude Managed Agents Just Dropped, And It Kills No-Code](https://www.youtube.com/watch?v=Ob5Vu-gD3mo)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_wc8FBhQtdsA.png](../../assets/images/yt_thumbs/20260404193922_wc8FBhQtdsA.png)](https://www.youtube.com/watch?v=wc8FBhQtdsA&t=2638s)<div><p class="yt-video-channel">Channel – [Lenny's Podcast](https://www.youtube.com/@LennysPodcast)</p><p class="yt-video-title">
-[An AI state of the union: We’ve passed the inflection point & dark factories are coming](https://www.youtube.com/watch?v=wc8FBhQtdsA&t=2638s)
+[![../../assets/images/yt_thumbs/20260409145858_Q7pgDmR-pWg.png](../../assets/images/yt_thumbs/20260409145858_Q7pgDmR-pWg.png)](https://www.youtube.com/watch?v=Q7pgDmR-pWg)<div><p class="yt-video-channel">Channel – [fern](https://www.youtube.com/@fern-tv)</p><p class="yt-video-title">
+[Disneyland’s Most Preventable Tragedy](https://www.youtube.com/watch?v=Q7pgDmR-pWg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_08NqrRQArNw.png](../../assets/images/yt_thumbs/20260404193922_08NqrRQArNw.png)](https://www.youtube.com/watch?v=08NqrRQArNw&pp=0gcJCdkKAYcqIYzv)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[I’m serious.](https://www.youtube.com/watch?v=08NqrRQArNw&pp=0gcJCdkKAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260409145858_Eq6ATHhBezw.png](../../assets/images/yt_thumbs/20260409145858_Eq6ATHhBezw.png)](https://www.youtube.com/watch?v=Eq6ATHhBezw)<div><p class="yt-video-channel">Channel – [Cybernews](https://www.youtube.com/@cybernews)</p><p class="yt-video-title">
+[The Biggest Hack in US History: SolarWinds Hack](https://www.youtube.com/watch?v=Eq6ATHhBezw)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_UNGgOgWi6E8.png](../../assets/images/yt_thumbs/20260404193922_UNGgOgWi6E8.png)](https://www.youtube.com/watch?v=UNGgOgWi6E8&t=2215s)<div><p class="yt-video-channel">Channel – THE RACE and The Race Podcasts</p><p class="yt-video-title">
-[Why Adrian Newey's F1 projects only end in triumph or disaster](https://www.youtube.com/watch?v=UNGgOgWi6E8&t=2215s)
+[![../../assets/images/yt_thumbs/20260409145858_IkD1Qd_iP3k.png](../../assets/images/yt_thumbs/20260409145858_IkD1Qd_iP3k.png)](https://www.youtube.com/watch?v=IkD1Qd_iP3k)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Why Newey’s Aston Martin is as flawed as Honda’s F1 engine](https://www.youtube.com/watch?v=IkD1Qd_iP3k)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_GCl5wUtwEYw.png](../../assets/images/yt_thumbs/20260404193922_GCl5wUtwEYw.png)](https://www.youtube.com/watch?v=GCl5wUtwEYw)<div><p class="yt-video-channel">Channel – [Jim Farley](https://www.youtube.com/@Jim.Farley)</p><p class="yt-video-title">
-[Daniel Ricciardo on Winning in F1, Knowing When to Retire, and Why “Fun” Matters](https://www.youtube.com/watch?v=GCl5wUtwEYw)
+[![../../assets/images/yt_thumbs/20260409145858_oCuttuCQmZg.png](../../assets/images/yt_thumbs/20260409145858_oCuttuCQmZg.png)](https://www.youtube.com/watch?v=oCuttuCQmZg)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Claude Mythos Preview Just Dropped, And Wow...](https://www.youtube.com/watch?v=oCuttuCQmZg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_MlD2h0BP0Jc.png](../../assets/images/yt_thumbs/20260404193922_MlD2h0BP0Jc.png)](https://www.youtube.com/watch?v=MlD2h0BP0Jc)<div><p class="yt-video-channel">Channel – [Cybernews](https://www.youtube.com/@cybernews)</p><p class="yt-video-title">
-[The Day China Hacked Google: Operation Aurora](https://www.youtube.com/watch?v=MlD2h0BP0Jc)
+[![../../assets/images/yt_thumbs/20260409145858_4r3gVYsLwfc.png](../../assets/images/yt_thumbs/20260409145858_4r3gVYsLwfc.png)](https://www.youtube.com/watch?v=4r3gVYsLwfc)<div><p class="yt-video-channel">Channel – [Aaron Datu Films](https://www.youtube.com/@AaronDatuFilms)</p><p class="yt-video-title">
+[2x Playback Speed for Editing!](https://www.youtube.com/watch?v=4r3gVYsLwfc)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_a1FGZRtNndE.png](../../assets/images/yt_thumbs/20260404193922_a1FGZRtNndE.png)](https://www.youtube.com/watch?v=a1FGZRtNndE)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[F1's plan for six 2026 rules fixes revealed](https://www.youtube.com/watch?v=a1FGZRtNndE)
+[![../../assets/images/yt_thumbs/20260409145858_0GxYpxtyuoY.png](../../assets/images/yt_thumbs/20260409145858_0GxYpxtyuoY.png)](https://www.youtube.com/watch?v=0GxYpxtyuoY)<div><p class="yt-video-channel">Channel – [Serge Morgotch](https://www.youtube.com/@serge.morgotch)</p><p class="yt-video-title">
+[How Loud Should Your YouTube Videos Be? | Loudness Normalizing for YouTube](https://www.youtube.com/watch?v=0GxYpxtyuoY)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_49V-5Ock8LU.png](../../assets/images/yt_thumbs/20260404193922_49V-5Ock8LU.png)](https://www.youtube.com/watch?v=49V-5Ock8LU&t=314s)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[18 Claude Code Token Hacks in 18 Minutes](https://www.youtube.com/watch?v=49V-5Ock8LU&t=314s)
+[![../../assets/images/yt_thumbs/20260409145858_P5uCLAL5T-M.png](../../assets/images/yt_thumbs/20260409145858_P5uCLAL5T-M.png)](https://www.youtube.com/watch?v=P5uCLAL5T-M&t=62s)<div><p class="yt-video-channel">Channel – [Larry Jordan](https://www.youtube.com/@LarryJordanFCP)</p><p class="yt-video-title">
+[How to Use Generators as Visual Backgrounds in Final Cut Pro 11](https://www.youtube.com/watch?v=P5uCLAL5T-M&t=62s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_j_kJNYLI6Tw.png](../../assets/images/yt_thumbs/20260404193922_j_kJNYLI6Tw.png)](https://www.youtube.com/watch?v=j_kJNYLI6Tw)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[We need to talk about the Claude Code rate limits](https://www.youtube.com/watch?v=j_kJNYLI6Tw)
+[![../../assets/images/yt_thumbs/20260409145858_keGP2efgz0E.png](../../assets/images/yt_thumbs/20260409145858_keGP2efgz0E.png)](https://www.youtube.com/watch?v=keGP2efgz0E)<div><p class="yt-video-channel">Channel – [The Final Ideas](https://www.youtube.com/@thefinalideas)</p><p class="yt-video-title">
+[Creating Dynamic Animated Backgrounds in Apple Motion for Final Cut Pro | The Final Ideas](https://www.youtube.com/watch?v=keGP2efgz0E)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260404193922_9hgvOy9GaOE.png](../../assets/images/yt_thumbs/20260404193922_9hgvOy9GaOE.png)](https://www.youtube.com/watch?v=9hgvOy9GaOE&t=70s)<div><p class="yt-video-channel">Channel – [Brian Tyler Cohen](https://www.youtube.com/@briantylercohen)</p><p class="yt-video-title">
-[BREAKING: Bondi gets MORE BAD NEWS after firing](https://www.youtube.com/watch?v=9hgvOy9GaOE&t=70s)
+[![../../assets/images/yt_thumbs/20260409145858_wc8FBhQtdsA.png](../../assets/images/yt_thumbs/20260409145858_wc8FBhQtdsA.png)](https://www.youtube.com/watch?v=wc8FBhQtdsA&t=4512s)<div><p class="yt-video-channel">Channel – [Lenny's Podcast](https://www.youtube.com/@LennysPodcast)</p><p class="yt-video-title">
+[An AI state of the union: We’ve passed the inflection point & dark factories are coming](https://www.youtube.com/watch?v=wc8FBhQtdsA&t=4512s)
 </p></div>
 
 </div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![Toshi Restaurant](../../assets/images/food_thumbs/ToshiRestaurant-7C8CA528-3143-4FE2-8191-889846FCAE35.png)](https://toshirestaurant.wixsite.com/beaverton) [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
 
 </div>

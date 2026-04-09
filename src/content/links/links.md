@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-04-04T19:40:44-08:00"
+date: "2026-04-09T15:09:50-08:00"
 slug: "links"
 ---
 
@@ -577,6 +577,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Calculating Empires](https://calculatingempires.net/)
+- [Calendar](https://www.neatnik.net/calendar/)
 - [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai/caaac)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 - [Colorpeek Â· Simply Share Colors](https://colorpeek.com)
@@ -1162,6 +1163,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Japanese Food Noodles](https://www.youtube.com/@Japanese_Food_Noodles)
 - [Japanese who Yuta](https://www.youtube.com/@JapanesewhoYuta)
 - [Japanese with Mako](https://www.youtube.com/@JapanesewithMako)
+- [Jenn Jager Pro Tutorials](https://www.youtube.com/@JennJagerPro)
 - [Jenny Tian](https://www.youtube.com/@nomnomjenny)
 - [JeredBlu](https://www.youtube.com/@JeredBlu)
 - [JHMedium](https://www.youtube.com/@JHMedium)
@@ -1235,6 +1237,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Sean Dalton](https://www.youtube.com/@seandalt)
 - [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)
 - [Seoul Walker](https://www.youtube.com/@SeoulWalker)
+- [Serge Morgotch](https://www.youtube.com/@serge.morgotch)
 - [SG Dad in Japan](https://www.youtube.com/@SGDadJP)
 - [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)
 - [Snazzy Labs](https://www.youtube.com/@snazzy)
