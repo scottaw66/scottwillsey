@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-04-09T15:09:50-08:00"
+date: "2026-04-30T20:54:25-08:00"
 slug: "links"
 ---
 
@@ -166,6 +166,7 @@ slug: "links"
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [Walking the Great Kantō Quake of 1923 — Ridgeline issue 193](https://craigmod.com/ridgeline/193/)
+- [Was Bitcoin Created by This International Drug Dealer? Maybe! | WIRED](https://www.wired.com/story/was-bitcoin-created-by-this-international-drug-dealer-maybe/)
 - [We only learnt of our son’s secret online life after he died at 25](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
 - [Weighing in on "Man or Bear" - BIKEPACKING.com](https://bikepacking.com/plog/man-or-bear-debate/)
 - [What Came Before the Big Bang? | WIRED](https://www.wired.com/story/what-came-before-the-big-bang/)
@@ -623,6 +624,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [News from Stonking](https://news.stonking.com/news)
 - [noclip](https://noclip.website/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
+- [Off-Grid Communication For Everyone | Meshtastic](https://meshtastic.org)
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/)
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/)
 - [ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
@@ -1132,10 +1134,12 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
 - [DaveTrippin](https://www.youtube.com/@DaveTrippin)
 - [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
+- [DevSec Station](https://www.youtube.com/@DevSecStation)
 - [DIY Japan](https://www.youtube.com/@DIYJapan)
 - [Driver61](https://www.youtube.com/@Driver61)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Dylan Davis](https://www.youtube.com/@dylandavisAI)
+- [Dylan John](https://www.youtube.com/@DylanJohnYT)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [Erin Talks Money](https://www.youtube.com/@ErinTalksMoney)
 - [Finding Gina Marie – Travel the World](https://www.youtube.com/@FindingGinaMarie)
@@ -1217,7 +1221,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
@@ -1254,6 +1258,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Tastes Seoul Good테이스트서울굿](https://www.youtube.com/@TastesSEOULGood)
 - [Tetsu Sensei](https://www.youtube.com/@tetsusenseidesuyo)
 - [The Bitchuation Room (with Francesca Fiorentini)](https://www.youtube.com/@franifio)
+- [The Daily Beast](https://www.youtube.com/@TheDailyBeast)
 - [THE RACE](https://www.youtube.com/@WeAreTheRace)
 - [The Race Podcasts](https://www.youtube.com/@TheRacePodcasts)
 - [The Unretirees](https://www.youtube.com/@TheUnretirees)
