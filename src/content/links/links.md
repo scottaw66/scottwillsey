@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-04-30T20:54:25-08:00"
+date: "2026-05-07T23:40:11-08:00"
 slug: "links"
 ---
 
@@ -618,6 +618,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [Making A Plan](https://millionexperiments.com/zines/making-a-plan)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)
+- [Modern Font Stacks](https://modernfontstacks.com)
 - [Moon Phase Tracker | Rendered in ASCII Art](https://asciimoon.com/)
 - [mttaggart/ringspace: The Ringspace trusted webring description and specification - Codeberg.org](https://codeberg.org/mttaggart/ringspace)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
@@ -1155,6 +1156,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Harupaka Japanese](https://www.youtube.com/@harupakajapanese)
 - [Honkology](https://www.youtube.com/@Honkology)
 - [Horizon3ai](https://www.youtube.com/@horizon3ai)
+- [How I AI](https://www.youtube.com/@howiaipodcast)
 - [Hunter Creates Things](https://www.youtube.com/@huntercreatesthings)
 - [Hysteria](https://www.youtube.com/@hysteriapodcast)
 - [I've Had It](https://www.youtube.com/@ivehaditpodcast)
@@ -1210,6 +1212,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Oregon Zoo](https://www.youtube.com/@oregonzoo)
 - [Osa The Cat](https://www.youtube.com/@OsaTheCat)
 - [pal2tech](https://www.youtube.com/@pal2tech)
+- [Papermancy](https://www.youtube.com/@papermancy)
 - [Parkrose Permaculture](https://www.youtube.com/@ParkrosePermaculture)
 - [Paste](https://www.youtube.com/@pasteapp)
 - [Patrick Boyle](https://www.youtube.com/@PBoyle)

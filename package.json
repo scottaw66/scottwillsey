@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "export NODE_ENV=development && astro dev",
     "start": "npm run dev",
-    "build": "export NODE_ENV=production && astro build && /Users/scott/Scripts/Sites/scottwillsey/update-site/update-site.sh",
+    "build": "export NODE_ENV=production && astro build && /Users/scott/Scripts/Sites/scottwillsey/update-site/update-site-full.sh",
+    "buildd": "export NODE_ENV=production && astro build && /Users/scott/Scripts/Sites/scottwillsey/update-site/update-site.sh",
     "buildonly": "export NODE_ENV=production && astro build",
     "buildo": "npm run buildonly",
     "buildp": "npm run buildonly && npm run preview",
@@ -30,11 +31,11 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
-    "@expressive-code/plugin-line-numbers": "^0.41.7",
+    "@expressive-code/plugin-line-numbers": "^0.42.0",
     "@philnash/astro-pagination": "^0.6.0",
     "@tailwindcss/vite": "^4.2.4",
-    "astro": "^6.2.1",
-    "astro-expressive-code": "^0.41.7",
+    "astro": "^6.3.1",
+    "astro-expressive-code": "^0.42.0",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^1.8.6",
     "date-fns": "^4.1.0",
@@ -49,8 +50,5 @@
   "devDependencies": {
     "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1"
-  },
-  "overrides": {
-    "vite": "^7"
   }
 }

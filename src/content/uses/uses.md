@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2026-03-17T22:26:07-08:00"
+date: "2026-05-07T23:40:11-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -27,28 +27,26 @@ slug: "uses"
 
 ### AI - Programming, research, dictation, transcribing
 
-- [ChatGPT](https://chatgpt.com/)
-- [ChatGPT Atlas | OpenAI](https://openai.com/index/introducing-chatgpt-atlas/)
 - [Claude](https://claude.ai/new)
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
-- [OpenAI Codex](https://openai.com/codex/)
-- [Orchard - Bridge AI Assistants to Your Apple Ecosystem](https://orchard.5km.tech/)
-- [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
+- [Superwhisper — AI Voice to Text for macOS, Windows & iOS | Superwhisper](https://superwhisper.com/)
 
 ### Automation and Utilities
 
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Batteries for Mac | Track all your devices' batteries from your Mac. Get notified when they need recharging.](https://www.fadel.io/batteries)
+- [Claude Usage Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
 - [CleanShot X for Mac](https://cleanshot.com/)
+- [cmux — The terminal built for multitasking](https://cmux.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
 - [FastScripts 3](https://redsweater.com/fastscripts/)
 - [Front and Center](https://apps.apple.com/us/app/front-and-center/id1493996622?mt=12)
-- [Ghostty](https://ghostty.org/)
 - [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
+- [LaunchBar 6](https://www.obdev.at/products/launchbar/index.html)
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
 - [Paste – Clipboard Manager for Mac, iPhone, and iPad](https://pasteapp.io/)
 - [Rectangle Pro](https://rectangleapp.com/pro)
@@ -60,21 +58,20 @@ slug: "uses"
 - [Superkey](https://superkey.app/)
 - [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
-- [vim-plug](https://github.com/junegunn/vim-plug)
-- [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
+- [Superwhisper — AI Voice to Text for macOS, Windows & iOS | Superwhisper](https://superwhisper.com/)
 
 ### Browsers and Bookmarks
 
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
 - [Google Chrome - The Fast & Secure Web Browser Built to be Yours](https://www.google.com/chrome/) *I use this for certain types of work related use cases.*
-- [Orion Browser by Kagi](https://orionbrowser.com/) *I use this for most of my browsing and all personal use. I used to use Safari for personal use, but it just makes the 1Password extension unusable. Orion doesn't.* 🤷
+- [Safari](https://www.apple.com/safari/) *I use this for most of my browsing and all personal use.*
 
 ### Documentation and Notes
 
 - Apple Notes
+- [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
-- [Plain Text Editor — Sindre Sorhus](https://sindresorhus.com/plain-text-editor)
 - [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 
@@ -93,18 +90,19 @@ slug: "uses"
 - Apple Reminders
 - [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
 - [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
+- [Dot — Menu Bar Calendar for Mac with Meeting Reminders](https://www.trydot.app/)
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
 - [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
-- [Timery for Toggl: Toggl API Token](https://www.timeryapp.com/token.html)
-- [Zones: Time Zone Conversion](https://squircleapps.com/zones/)
+- [Timing Automatic Mac Time Tracker – Manual Timers Optional](https://timingapp.com/?lang=en)
 
-### Podcasting/Recording
+### Podcasting/Recording/Video
 
 - [Audio Hijack: Record Any Audio on MacOS | Rogue Amoeba](https://rogueamoeba.com/audiohijack/)
+- [ChapterPod](https://apps.apple.com/us/app/chapterpod/id6757309769?ref=birchtree.me)
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
+- [Final Cut Pro - Apple](https://www.apple.com/final-cut-pro/)
 - [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
-- [Forecast: Podcast MP3 Chapter Encoder — Overcast](https://overcast.fm/forecast)
 - [iZotope RX 11](https://www.izotope.com/en/products/rx.html?)
 - [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
