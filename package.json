@@ -33,7 +33,7 @@
     "@astrojs/sitemap": "^3.7.2",
     "@expressive-code/plugin-line-numbers": "^0.42.0",
     "@philnash/astro-pagination": "^0.6.0",
-    "@tailwindcss/vite": "^4.2.4",
+    "@tailwindcss/vite": "^4.3.0",
     "astro": "^6.3.1",
     "astro-expressive-code": "^0.42.0",
     "astro-font": "^1.1.0",
@@ -43,7 +43,7 @@
     "normalize.css": "^8.0.1",
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
-    "tailwindcss": "^4.2.4",
+    "tailwindcss": "^4.3.0",
     "ultrahtml": "^1.6.0",
     "unist-util-visit": "^5.1.0"
   },

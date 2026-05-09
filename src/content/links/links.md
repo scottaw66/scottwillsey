@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-05-07T23:40:11-08:00"
+date: "2026-05-08T23:21:25-08:00"
 slug: "links"
 ---
 
@@ -194,9 +194,9 @@ slug: "links"
 
 - [Baerlic Beer Co](https://www.baerlicbrewing.com/) Downlow Czech Dark Lager
 - [BinaryBrewing.co](https://binarybrewing.co/beers)
-- [Blueberry Boyfriend | Prairie Artisan Ales](https://prairieales.com/beer/blueberry-boyfriend/)
 - [Buy Asian Beer at Sapporo | #1 Premium Japanese Lager](https://www.sapporobeer.com/)
 - [Cactus Wins The Lottery | Ex Novo Brewing Company](https://exnovobrew.com/beer/cactus-wins-the-lottery/)
+- [Everybody's Brewing](https://everybodysbrewing.com/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
 - [KIRIN ICHIBAN](http://www.kirinichiban.com/)
@@ -1130,6 +1130,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Chris Norlund](https://www.youtube.com/@realchris)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1224,7 +1225,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
