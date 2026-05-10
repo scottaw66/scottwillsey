@@ -1,6 +1,6 @@
 ---
 title: MikanRemote — an iPhone remote control for my Mac
-description: describe
+description: I needed a remote for video on my Mac, so I made one!
 date: "2026-05-09T00:10:00-08:00"
 keywords: ["keyword"]
 slug: "mikanremote-an-iphone-remote-control-for-my-mac"
