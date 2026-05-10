@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-05-08T23:21:25-08:00"
+date: "2026-05-09T22:54:52-08:00"
 slug: "links"
 ---
 
@@ -1248,12 +1248,14 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Serge Morgotch](https://www.youtube.com/@serge.morgotch)
 - [SG Dad in Japan](https://www.youtube.com/@SGDadJP)
 - [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)
+- [Simon Scrapes](https://www.youtube.com/@simonscrapes)
 - [Snazzy Labs](https://www.youtube.com/@snazzy)
 - [Snippety App](https://www.youtube.com/@AppSnippety)
 - [Sol Life](https://www.youtube.com/@SolLife_)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
 - [StarTalk Plus](https://www.youtube.com/@StarTalkPlus)
 - [Sunny in Japan](https://www.youtube.com/@Sunny_in_Japan)
+- [Superwhisper](https://www.youtube.com/@superwhisper)
 - [Tailscale](https://www.youtube.com/@Tailscale)
 - [Takashi](https://www.youtube.com/@Takashi_teaches_Japanese)
 - [Take Better Photos](https://www.youtube.com/@takebetterphotos8132)
