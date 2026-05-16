@@ -762,36 +762,41 @@ section[aria-label="Blog post list"] header:not(:first-of-type)::before {
   padding-bottom: 0;
 }
 
-/* Pagefind UI customization - must be outside @layer base to override defaults */
-#search .pagefind-ui__result-title,
-#search .pagefind-ui__result-link {
-  @apply font-title text-hyperlink text-[1.5rem];
+/* Pagefind v2 searchbox customization via exposed --pf-* custom properties */
+pagefind-searchbox.pagefind-ui {
+  --pf-background: var(--search-bg);
+  --pf-text: var(--search-text);
+  --pf-text-secondary: var(--search-text);
+  --pf-text-muted: var(--search-text);
+  --pf-border: var(--search-border);
+  --pf-border-focus: var(--search-border);
+  --pf-border-radius: 0.5em;
+  --pf-input-height: 3rem;
+  --pf-input-font-size: 1.5rem;
+  --pf-hover: var(--surface-menu);
+  --pf-result-title-font-size: 1.5rem;
+  --pf-result-excerpt-font-size: 1.2rem;
 }
-#search .pagefind-ui__result-excerpt {
+pagefind-searchbox.pagefind-ui .pf-searchbox-result-title {
+  @apply font-title text-hyperlink;
+}
+pagefind-searchbox.pagefind-ui .pf-searchbox-result-excerpt {
   font-family: "Atkinson Hyperlegible";
-  font-size: 1.2rem;
 }
-#search .pagefind-ui__result-thumb {
-  display: none;
+pagefind-searchbox.pagefind-ui .pf-searchbox-results {
+  scrollbar-width: thin;
+  scrollbar-color: var(--search-text) transparent;
 }
-
-#search {
-  --pagefind-ui-border: var(--search-border);
+pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar {
+  width: 10px;
 }
-#search .pagefind-ui__search-input,
-#search .pagefind-ui__search-clear {
-  @apply bg-[var(--search-bg)] text-[var(--search-text)];
+pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar-track {
+  background: transparent;
 }
-#search .pagefind-ui__results-area {
-  @apply bg-surface-menu p-[0.35em] rounded-[0.35em] text-[var(--text1)];
-}
-#search .pagefind-ui__message {
-  color: var(--text1);
-  font-size: 1.5rem;
-  margin: calc(0.5rem * 0.8) 0 calc(1.5rem * 0.8) calc(0.5rem * 0.8);
-}
-#search .pagefind-ui__button {
-  @apply text-[var(--search-text)] bg-[var(--search-bg)];
+pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar-thumb {
+  background-color: var(--search-text);
+  border-radius: 5px;
+  border: 2px solid var(--search-bg);
 }
 
 /* Pagination component styling */
