@@ -776,6 +776,7 @@ pagefind-searchbox.pagefind-ui {
   --pf-hover: var(--surface-menu);
   --pf-result-title-font-size: 1.5rem;
   --pf-result-excerpt-font-size: 1.2rem;
+  --pf-searchbox-max-width: 100%;
 }
 pagefind-searchbox.pagefind-ui .pf-searchbox-result-title {
   @apply font-title text-hyperlink;
