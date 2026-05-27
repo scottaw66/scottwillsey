@@ -1,15 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-05-15T21:44:35-08:00"
+date: "2026-05-27T00:57:07-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I made a fun update to [MikanRemote](/mikanremote-an-iphone-remote-control-for-my-mac) that I need to write about. I added some special controls for YouTube but they also seem to work in Netflix, etc.
+> I added some [fun utilities](/mikanremote-utilities) to [MikanRemote](/mikanremote-an-iphone-remote-control-for-my-mac), so [check 'em out](https://github.com/scottaw66/mikan-remote). Other than that, lots of work. LOTS. Of. Work.
 
 ## Current Projects
+
+- I've started vibecoding a time zone app for Mac and iOS, name TBD. Stay tuned. Or stay zoned, maybe?
 
 - I need to get back to studying Korean. I got derailed by my trip east and work since.
 
@@ -28,16 +30,16 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![The Unanchored Central Banker: Manoj Pradhan on Inflation, Demographics, and Why AI Won’t Save Us](../../assets/images/oc_artwork/2821380059559398-bde2b8c4-31fe-4b6a-a90d-1ee772835584.png)](https://overcast.fm/+oGB7w59eY) [Patrick Boyle On Finance – The Unanchored Central Banker: Manoj Pradhan on Inflation, Demographics, and Why AI Won’t Save Us](https://overcast.fm/+oGB7w59eY)
-![Is It the Shoes?](../../assets/images/oc_artwork/4973305323601353-2708e303-d59c-4d2f-8792-a2f061c6f4d2.png) MacStories Unwind+ – Is It the Shoes?
-![Verstappen at the Nurburgring 24: Josh’s bold prediction and day two recap](../../assets/images/oc_artwork/5523677927164165-07b3c95b-9c85-4067-9386-e72254434200.png) The Race F1 Podcast (Members) – Verstappen at the Nurburgring 24: Josh’s bold prediction and day two recap
-![Vibe-coded apps and missed Mac opportunities](../../assets/images/oc_artwork/5971576012743519-9302c6dd-f12f-4842-95f7-0dd3b12b16fe.png) Six Colors+ — Private – Vibe-coded apps and missed Mac opportunities
-![The UK Government’s AI Obsession is a Big Risk w/ Will Dunn](../../assets/images/oc_artwork/5585831886105688-656d3b99-92e3-48de-864b-e55cd50315d2.png) Tech Won't Save Us (Premium) – The UK Government’s AI Obsession is a Big Risk w/ Will Dunn
-[![Soap Box: Where does AI fit into cloud security?](../../assets/images/oc_artwork/613330122901901-4d7781f3-1ebd-4638-9a67-b1620d3a224f.png)](https://overcast.fm/+It0gwbCY0) [Risky Business – Soap Box: Where does AI fit into cloud security?](https://overcast.fm/+It0gwbCY0)
-![🔍 Driving Style Secrets S3 E3: The hidden technique behind Jenson Button’s smooth style](../../assets/images/oc_artwork/5523677969980904-ee7033be-cf7c-495b-a0c5-654d65d88317.png) The Race F1 Podcast (Members) – 🔍 Driving Style Secrets S3 E3: The hidden technique behind Jenson Button’s smooth style
-[![Total Recall - Caravan Of Garbage](../../assets/images/oc_artwork/3737328477076639-42c36a5d-6ab3-411a-8da2-b4a7a60d55bb.png)](https://overcast.fm/+1HFJhI_J8) [The Weekly Planet – Total Recall - Caravan Of Garbage](https://overcast.fm/+1HFJhI_J8)
-[![From History Daily: John S. Pemberton Sells the First Glass of Coca-Cola](../../assets/images/oc_artwork/5798099704573913-2baf0dc3-1ccd-415e-876d-58d97d34506d.png)](https://overcast.fm/+BSZV0lDb9k) [Business History – From History Daily: John S. Pemberton Sells the First Glass of Coca-Cola](https://overcast.fm/+BSZV0lDb9k)
-[![691: A Menlo Phase](../../assets/images/oc_artwork/5585875745632160-44f5baa0-2c69-435b-ac85-b2610d662dc5.png)](https://atp.fm/691) [Accidental Tech Podcast – 691: A Menlo Phase](https://atp.fm/691)
+![Edd answers your questions about his Canadian GP driver rankings in our new-look podcast!](../../assets/images/oc_artwork/5523677098332443-4a30a1e8-0bb2-4f25-ba97-a95c68712382.png) The Race F1 Podcast (Members) – Edd answers your questions about his Canadian GP driver rankings in our new-look podcast!
+[![2026年5月24日: Codex進化で遠隔操作！AIトークン使用量に戦慄？流行りプロンプト雑談](../../assets/images/oc_artwork/5451521731125621-0467ae48-b1c3-4eee-b5e4-fe72c7986573.png)](https://overcast.fm/+BNeIVBE4XU) [ながらAIラジオ – 2026年5月24日: Codex進化で遠隔操作！AIトークン使用量に戦慄？流行りプロンプト雑談](https://overcast.fm/+BNeIVBE4XU)
+![How Sundar Pichai is rethinking Google for the AI era](../../assets/images/oc_artwork/5816355465436787-09ab5293-771e-40c7-83be-75e74fe3a5db.png) Decoder: Ad-Free Edition – How Sundar Pichai is rethinking Google for the AI era
+[![How to Stay Motivated When the Pipeline Thins](../../assets/images/oc_artwork/1682926637030481-63a1081b-f598-4b32-9e84-cc35b63d7e9a.png)](https://overcast.fm/+X6nORiHFE) [Sales Logic - Selling Strategies That Work – How to Stay Motivated When the Pipeline Thins](https://overcast.fm/+X6nORiHFE)
+![How clips ate the internet](../../assets/images/oc_artwork/5816343167142326-48c52665-0bc4-4e94-a71d-77fdbe53e007.png) The Vergecast: Ad-Free Edition – How clips ate the internet
+[![#549: Great Docs](../../assets/images/oc_artwork/413709364293520-d7a2b5a0-93db-4f6e-83af-ba830496065a.png)](https://overcast.fm/+F4RDey75A) [Talk Python To Me – #549: Great Docs](https://overcast.fm/+F4RDey75A)
+[![NC #1098 Wireless Power Consortium Qi2 25W and Ki, MindSpace, Security Bits](../../assets/images/oc_artwork/5142865195492391-346864c1-72f2-41e7-a477-f7404b036de4.png)](https://overcast.fm/+BJFaJ0a5Cc) [NosillaCast Apple Podcast – NC #1098 Wireless Power Consortium Qi2 25W and Ki, MindSpace, Security Bits](https://overcast.fm/+BJFaJ0a5Cc)
+[![Bossware & Boundaries](../../assets/images/oc_artwork/1107266932950995-919f9317-c4dc-4fbf-96be-205bb2fdf8b3.png)](https://overcast.fm/+PvDaw1x9M) [Firewalls Don't Stop Dragons Podcast – Bossware & Boundaries](https://overcast.fm/+PvDaw1x9M)
+[![624 The Mandalorian vs Groglet & The Boys Series Finale](../../assets/images/oc_artwork/3737328172294619-2bae0c40-99ba-4720-b234-d589d2ce1a17.png)](https://overcast.fm/+1HFIYeYds) [The Weekly Planet – 624 The Mandalorian vs Groglet & The Boys Series Finale](https://overcast.fm/+1HFIYeYds)
+![Canadian Grand Prix review (ad free)](../../assets/images/oc_artwork/5523677391423453-7ed16309-1400-4df9-a622-fa7fb89b88da.png) The Race F1 Podcast (Members) – Canadian Grand Prix review (ad free)
 
 </div>
 
@@ -58,106 +60,98 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_M_HxHr7du5M.png](../../assets/images/yt_thumbs/20260515213624_M_HxHr7du5M.png)](https://www.youtube.com/watch?v=M_HxHr7du5M&t=1149s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Everything is pwn’d now](https://www.youtube.com/watch?v=M_HxHr7du5M&t=1149s)
+[![../../assets/images/yt_thumbs/20260527002623_cEHK3kDMSX0.png](../../assets/images/yt_thumbs/20260527002623_cEHK3kDMSX0.png)](https://www.youtube.com/watch?v=cEHK3kDMSX0&pp=0gcJCQkLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)</p><p class="yt-video-title">
+[Doriane Pin on the F1 Academy, Americans Eating Burgers for Breakfast & Racing at 9 Years Old](https://www.youtube.com/watch?v=cEHK3kDMSX0&pp=0gcJCQkLAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_rWWdSJZXhio.png](../../assets/images/yt_thumbs/20260515213624_rWWdSJZXhio.png)](https://www.youtube.com/watch?v=rWWdSJZXhio)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Max Verstappen Reacts To 10 Races From His 10 Years At Red Bull](https://www.youtube.com/watch?v=rWWdSJZXhio)
+[![../../assets/images/yt_thumbs/20260527002623_RLjaUES9P8A.png](../../assets/images/yt_thumbs/20260527002623_RLjaUES9P8A.png)](https://www.youtube.com/watch?v=RLjaUES9P8A)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
+[100 Hours Testing Claude Code vs ChatGPT Codex (honest results)](https://www.youtube.com/watch?v=RLjaUES9P8A)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_xJ5oz63mIec.png](../../assets/images/yt_thumbs/20260515213624_xJ5oz63mIec.png)](https://www.youtube.com/watch?v=xJ5oz63mIec&t=208s)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[3 Easy Ways to Deploy Your Claude Agents & Skills](https://www.youtube.com/watch?v=xJ5oz63mIec&t=208s)
+[![../../assets/images/yt_thumbs/20260527002623_j60Y3AD3BRI.png](../../assets/images/yt_thumbs/20260527002623_j60Y3AD3BRI.png)](https://www.youtube.com/watch?v=j60Y3AD3BRI)<div><p class="yt-video-channel">Channel – [Kevin Ulett - Snake Handler](https://www.youtube.com/@KevinUlett)</p><p class="yt-video-title">
+[Deadly Golden Cobra in Their Home!](https://www.youtube.com/watch?v=j60Y3AD3BRI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_6iaR3WO71j4.png](../../assets/images/yt_thumbs/20260515213624_6iaR3WO71j4.png)](https://www.youtube.com/watch?v=6iaR3WO71j4)<div><p class="yt-video-channel">Channel – [boybblue](https://www.youtube.com/@boybblue)</p><p class="yt-video-title">
-[JOHNNY RIVERS - Secret Agent  Man 1966](https://www.youtube.com/watch?v=6iaR3WO71j4)
+[![../../assets/images/yt_thumbs/20260527002623_OSpd5rV4evo.png](../../assets/images/yt_thumbs/20260527002623_OSpd5rV4evo.png)](https://www.youtube.com/watch?v=OSpd5rV4evo)<div><p class="yt-video-channel">Channel – [Adam Savage’s Tested](https://www.youtube.com/@tested)</p><p class="yt-video-title">
+[The Thought That Shifted Adam Savage's Relationship With Jamie Forever](https://www.youtube.com/watch?v=OSpd5rV4evo)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_mGQNl25zjho.png](../../assets/images/yt_thumbs/20260515213624_mGQNl25zjho.png)](https://www.youtube.com/watch?v=mGQNl25zjho)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Why McLaren is escalating its attack on F1 team alliances](https://www.youtube.com/watch?v=mGQNl25zjho)
+[![../../assets/images/yt_thumbs/20260527002623_YwREnYhlSxE.png](../../assets/images/yt_thumbs/20260527002623_YwREnYhlSxE.png)](https://www.youtube.com/watch?v=YwREnYhlSxE)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
+[Peter (and Scott - the Friends with Brews) drink Illy Classico Cold Brew and Laurel's Matcha Latte](https://www.youtube.com/watch?v=YwREnYhlSxE)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_UQhHpmMZIms.png](../../assets/images/yt_thumbs/20260515213624_UQhHpmMZIms.png)](https://www.youtube.com/watch?v=UQhHpmMZIms)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
-[what the hell is even happening](https://www.youtube.com/watch?v=UQhHpmMZIms)
+[![../../assets/images/yt_thumbs/20260527002623_Oq0W9IjfKrY.png](../../assets/images/yt_thumbs/20260527002623_Oq0W9IjfKrY.png)](https://www.youtube.com/watch?v=Oq0W9IjfKrY)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[90-Year-Old Legendary Astronaut Makes Fatal Mistake!](https://www.youtube.com/watch?v=Oq0W9IjfKrY)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_0rZ91DvwrxQ.png](../../assets/images/yt_thumbs/20260515213624_0rZ91DvwrxQ.png)](https://www.youtube.com/watch?v=0rZ91DvwrxQ)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[🔴 LIVE Top Qualifying 3 - 24h Nürburgring 2026](https://www.youtube.com/watch?v=0rZ91DvwrxQ)
+[![../../assets/images/yt_thumbs/20260527002623_6RzRMLUB_DI.png](../../assets/images/yt_thumbs/20260527002623_6RzRMLUB_DI.png)](https://www.youtube.com/watch?v=6RzRMLUB_DI)<div><p class="yt-video-channel">Channel – [NTT INDYCAR SERIES](https://www.youtube.com/@indycar)</p><p class="yt-video-title">
+[Race Highlights | 2026 Indianapolis 500](https://www.youtube.com/watch?v=6RzRMLUB_DI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_K5US2IiSkjI.png](../../assets/images/yt_thumbs/20260515213624_K5US2IiSkjI.png)](https://www.youtube.com/watch?v=K5US2IiSkjI&t=16s)<div><p class="yt-video-channel">Channel – [Ron](https://www.youtube.com/@Ron-RisingSunProperties)</p><p class="yt-video-title">
-[Beautiful 150K USD Home in Gifu, Japan](https://www.youtube.com/watch?v=K5US2IiSkjI&t=16s)
+[![../../assets/images/yt_thumbs/20260527002623_eZVN0HT8WbI.png](../../assets/images/yt_thumbs/20260527002623_eZVN0HT8WbI.png)](https://www.youtube.com/watch?v=eZVN0HT8WbI&t=117s)<div><p class="yt-video-channel">Channel – [Lon.TV](https://www.youtube.com/@LonSeidman)</p><p class="yt-video-title">
+[Taildrop: Simple Worldwide File Transfers via Tailscale - No Cloud Required!](https://www.youtube.com/watch?v=eZVN0HT8WbI&t=117s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_SDF4NUTCcnU.png](../../assets/images/yt_thumbs/20260515213624_SDF4NUTCcnU.png)](https://www.youtube.com/watch?v=SDF4NUTCcnU)<div><p class="yt-video-channel">Channel – [Grooved Slick](https://www.youtube.com/@GroovedSlick)</p><p class="yt-video-title">
-[Pure Driving: Verstappen Very WET and DARK Lap of Nürburgring (Qualifying 2 N24 2026) No commentary](https://www.youtube.com/watch?v=SDF4NUTCcnU)
+[![../../assets/images/yt_thumbs/20260527002623_ib74sLgjIBM.png](../../assets/images/yt_thumbs/20260527002623_ib74sLgjIBM.png)](https://www.youtube.com/watch?v=ib74sLgjIBM&t=368s&pp=0gcJCQkLAYcqIYzv)<div><p class="yt-video-channel">Channel – Systems Made Better and Better Creating</p><p class="yt-video-title">
+[Build A Claude Knowledge Base That Self-Improves!](https://www.youtube.com/watch?v=ib74sLgjIBM&t=368s&pp=0gcJCQkLAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_WX0mK0R7FpE.png](../../assets/images/yt_thumbs/20260515213624_WX0mK0R7FpE.png)](https://www.youtube.com/watch?v=WX0mK0R7FpE)<div><p class="yt-video-channel">Channel – [Circuit Stories](https://www.youtube.com/@CircuitStoriesss)</p><p class="yt-video-title">
-[Jackie Stewart Was Right About Gilles Villeneuve… But Nobody Listened](https://www.youtube.com/watch?v=WX0mK0R7FpE)
+[![../../assets/images/yt_thumbs/20260527002623_Pi-m8R068r4.png](../../assets/images/yt_thumbs/20260527002623_Pi-m8R068r4.png)](https://www.youtube.com/watch?v=Pi-m8R068r4)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
+[The AI Offer You Can Sell Tomorrow Morning](https://www.youtube.com/watch?v=Pi-m8R068r4)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_4_SguHHLSzk.png](../../assets/images/yt_thumbs/20260515213624_4_SguHHLSzk.png)](https://www.youtube.com/watch?v=4_SguHHLSzk)<div><p class="yt-video-channel">Channel – [nürburgringtv](https://www.youtube.com/@nuerburgringtv)</p><p class="yt-video-title">
-[HAASE vs. VERSTAPPEN: The Rematch | Dual Onboards | Nürburgring 24h Qualifiers](https://www.youtube.com/watch?v=4_SguHHLSzk)
+[![../../assets/images/yt_thumbs/20260527002623_H4xvz4ueqKU.png](../../assets/images/yt_thumbs/20260527002623_H4xvz4ueqKU.png)](https://www.youtube.com/watch?v=H4xvz4ueqKU)<div><p class="yt-video-channel">Channel – [Mini Air Crash Investigation](https://www.youtube.com/@MiniAirCrashInvestigation)</p><p class="yt-video-title">
+[Good Intentions, Deadly Consequences | Royal Australian Airforce 707 Crash](https://www.youtube.com/watch?v=H4xvz4ueqKU)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260515213624_131yAOjxHHQ.png](../../assets/images/yt_thumbs/20260515213624_131yAOjxHHQ.png)](https://www.youtube.com/watch?v=131yAOjxHHQ&pp=0gcJCQQLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[I’m done.](https://www.youtube.com/watch?v=131yAOjxHHQ&pp=0gcJCQQLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260527002623_dtAJ2dOd3ko.png](../../assets/images/yt_thumbs/20260527002623_dtAJ2dOd3ko.png)](https://www.youtube.com/watch?v=dtAJ2dOd3ko&t=53s)<div><p class="yt-video-channel">Channel – [Matt Pocock](https://www.youtube.com/@mattpocockuk)</p><p class="yt-video-title">
+[/handoff is my new favourite skill](https://www.youtube.com/watch?v=dtAJ2dOd3ko&t=53s)
 </p></div>
 
 </div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[![Toshi Restaurant](../../assets/images/food_thumbs/Toshi-FAF7DE2E-8090-4BF8-A65C-B22343F7BE79.png)](https://toshirestaurant.wixsite.com/beaverton) [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
 
 </div>

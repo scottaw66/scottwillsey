@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-05-09T22:54:52-08:00"
+date: "2026-05-27T00:57:07-08:00"
 slug: "links"
 ---
 
@@ -28,12 +28,12 @@ slug: "links"
 - [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [Nanobot - Open Source MCP Agent Framework](https://www.nanobot.ai/)
+- [Nate Herk | AI Automation - YouTube](https://www.youtube.com/@nateherk)
 - [Nate’s Substack | Substack](https://natesnewsletter.substack.com/)
 - [Nick Saraev - YouTube](https://www.youtube.com/@nicksaraev)
 - [obra/superpowers: An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
 - [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)
-- [OpenAI Codex](https://openai.com/codex/)
-- [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
+- [Printing Press — agent-native CLIs from a single prompt](https://printingpress.dev/)
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
 - [SnitchBench](https://snitchbench.t3.gg/)
@@ -635,6 +635,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Paint Toys](https://paint.toys/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
 - [People and Blogs](https://peopleandblogs.com/)
+- [Peter Drinks Coffee](https://peterdrinkscoffee.com)
 - [Photos and Words](https://photos.scottwillsey.com/)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
@@ -1124,13 +1125,14 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Astro](https://www.youtube.com/@astrodotbuild)
 - [asuka🇯🇵](https://www.youtube.com/@asuka_japan_diary)
 - [Atlassian Williams F1 Team](https://www.youtube.com/@WilliamsF1TV)
+- [Better Creating](https://www.youtube.com/@BetterCreating)
 - [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Chris Norlund](https://www.youtube.com/@realchris)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
 - [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1204,6 +1206,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mentour Pilot](https://www.youtube.com/@MentourPilot)
 - [Miku Real Japanese](https://www.youtube.com/@mikurealjapanese)
 - [Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
+- [Mrs Eats](https://www.youtube.com/@MrsEats)
 - [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)
 - [NekoAshi Japan](https://www.youtube.com/@NekoAshiJapan)
 - [Nick Saraev](https://www.youtube.com/@nicksaraev)
@@ -1225,7 +1228,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
 - [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
@@ -1256,6 +1259,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [StarTalk Plus](https://www.youtube.com/@StarTalkPlus)
 - [Sunny in Japan](https://www.youtube.com/@Sunny_in_Japan)
 - [Superwhisper](https://www.youtube.com/@superwhisper)
+- [Systems Made Better](https://www.youtube.com/@SystemsMadeBetter)
 - [Tailscale](https://www.youtube.com/@Tailscale)
 - [Takashi](https://www.youtube.com/@Takashi_teaches_Japanese)
 - [Take Better Photos](https://www.youtube.com/@takebetterphotos8132)
