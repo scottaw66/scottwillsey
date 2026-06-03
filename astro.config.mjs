@@ -1,4 +1,5 @@
 import { defineConfig } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import expressiveCode from "astro-expressive-code";
 import pagefind from "astro-pagefind";
 import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
@@ -20,8 +21,10 @@ export default defineConfig({
   integrations: [expressiveCode(astroExpressiveCodeOptions), pagefind()],
 
   markdown: {
-    remarkPlugins: [[remarkToc, { heading: "contents" }], remarkSocialLinks],
-    rehypePlugins: [rehypeAccessibleEmojis],
+    processor: unified({
+      remarkPlugins: [[remarkToc, { heading: "contents" }], remarkSocialLinks],
+      rehypePlugins: [rehypeAccessibleEmojis],
+    }),
   },
 
   vite: {

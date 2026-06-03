@@ -1,28 +1,19 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-05-27T00:57:07-08:00"
+date: "2026-06-03T11:46:21-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I added some [fun utilities](/mikanremote-utilities) to [MikanRemote](/mikanremote-an-iphone-remote-control-for-my-mac), so [check 'em out](https://github.com/scottaw66/mikan-remote). Other than that, lots of work. LOTS. Of. Work.
+> I'm starting to understand why apps like Bartender, Thaw, and other apps designed to handle the notch/menubar problem are so shitty. It's a HARD problem to solve!
 
 ## Current Projects
 
-- I've started vibecoding a time zone app for Mac and iOS, name TBD. Stay tuned. Or stay zoned, maybe?
-
-- I need to get back to studying Korean. I got derailed by my trip east and work since.
-
-- [Friends with Brews](https://friendswithbrews.com) [YouTube channel](https://www.youtube.com/@FriendswithBrewsPodcast)
+- Work. Focusing on work. Focusing on financial goals for the sole purpose of creating some life flexibility for our family.
 
 ## Stuff I've recently enjoyed
-
-### TV Shows
-
-[<span hidden>Legends • 2026 • The actors make this one. I loved them all. Well, most of them. This is when I was able to just sit back and enjoy and really relish the people. *****</span>
-![Legends • 2026 • The actors make this one. I loved them all. Well, most of them. This is when I was able to just sit back and enjoy and really relish the people. *****](../../assets/images/posts/png-image4dbb97ecf20-review-015b4382-d62f-46d3-b37c-e6252cd0c5e5.png)](/images/posts/png-image4dbb97ecf20-review-015b4382-d62f-46d3-b37c-e6252cd0c5e5.jpg)
 
 ### Podcasts
 
@@ -30,27 +21,30 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-![Edd answers your questions about his Canadian GP driver rankings in our new-look podcast!](../../assets/images/oc_artwork/5523677098332443-4a30a1e8-0bb2-4f25-ba97-a95c68712382.png) The Race F1 Podcast (Members) – Edd answers your questions about his Canadian GP driver rankings in our new-look podcast!
-[![2026年5月24日: Codex進化で遠隔操作！AIトークン使用量に戦慄？流行りプロンプト雑談](../../assets/images/oc_artwork/5451521731125621-0467ae48-b1c3-4eee-b5e4-fe72c7986573.png)](https://overcast.fm/+BNeIVBE4XU) [ながらAIラジオ – 2026年5月24日: Codex進化で遠隔操作！AIトークン使用量に戦慄？流行りプロンプト雑談](https://overcast.fm/+BNeIVBE4XU)
-![How Sundar Pichai is rethinking Google for the AI era](../../assets/images/oc_artwork/5816355465436787-09ab5293-771e-40c7-83be-75e74fe3a5db.png) Decoder: Ad-Free Edition – How Sundar Pichai is rethinking Google for the AI era
-[![How to Stay Motivated When the Pipeline Thins](../../assets/images/oc_artwork/1682926637030481-63a1081b-f598-4b32-9e84-cc35b63d7e9a.png)](https://overcast.fm/+X6nORiHFE) [Sales Logic - Selling Strategies That Work – How to Stay Motivated When the Pipeline Thins](https://overcast.fm/+X6nORiHFE)
-![How clips ate the internet](../../assets/images/oc_artwork/5816343167142326-48c52665-0bc4-4e94-a71d-77fdbe53e007.png) The Vergecast: Ad-Free Edition – How clips ate the internet
-[![#549: Great Docs](../../assets/images/oc_artwork/413709364293520-d7a2b5a0-93db-4f6e-83af-ba830496065a.png)](https://overcast.fm/+F4RDey75A) [Talk Python To Me – #549: Great Docs](https://overcast.fm/+F4RDey75A)
-[![NC #1098 Wireless Power Consortium Qi2 25W and Ki, MindSpace, Security Bits](../../assets/images/oc_artwork/5142865195492391-346864c1-72f2-41e7-a477-f7404b036de4.png)](https://overcast.fm/+BJFaJ0a5Cc) [NosillaCast Apple Podcast – NC #1098 Wireless Power Consortium Qi2 25W and Ki, MindSpace, Security Bits](https://overcast.fm/+BJFaJ0a5Cc)
-[![Bossware & Boundaries](../../assets/images/oc_artwork/1107266932950995-919f9317-c4dc-4fbf-96be-205bb2fdf8b3.png)](https://overcast.fm/+PvDaw1x9M) [Firewalls Don't Stop Dragons Podcast – Bossware & Boundaries](https://overcast.fm/+PvDaw1x9M)
-[![624 The Mandalorian vs Groglet & The Boys Series Finale](../../assets/images/oc_artwork/3737328172294619-2bae0c40-99ba-4720-b234-d589d2ce1a17.png)](https://overcast.fm/+1HFIYeYds) [The Weekly Planet – 624 The Mandalorian vs Groglet & The Boys Series Finale](https://overcast.fm/+1HFIYeYds)
-![Canadian Grand Prix review (ad free)](../../assets/images/oc_artwork/5523677391423453-7ed16309-1400-4df9-a622-fa7fb89b88da.png) The Race F1 Podcast (Members) – Canadian Grand Prix review (ad free)
+[![Lawn and Hors D’oeuvres Live in Los Angeles](../../assets/images/oc_artwork/1698966634569724-bc5fc9ac-308e-4209-8f1a-82eb607f91e2.png)](https://overcast.fm/+YJM369H_w) [Judge John Hodgman – Lawn and Hors D’oeuvres Live in Los Angeles](https://overcast.fm/+YJM369H_w)
+![Why F1 teams are so convinced of an upset in Monaco (ad free)](../../assets/images/oc_artwork/5523677928788892-7ca2c6c8-0fcd-458c-8e4f-001129610a5f.png) The Race F1 Podcast (Members) – Why F1 teams are so convinced of an upset in Monaco (ad free)
+![Jon’s take on Leclerc’s surprising new Ferrari deal](../../assets/images/oc_artwork/5523677560198339-548872a8-2c6b-463f-abd0-95e976d35c54.png) The Race F1 Podcast (Members) – Jon’s take on Leclerc’s surprising new Ferrari deal
+[![693: Negative Bonus Points](../../assets/images/oc_artwork/5585876027725597-bcbd3282-8ddd-4637-9c28-9cf312452b9f.png)](https://atp.fm/693) [Accidental Tech Podcast – 693: Negative Bonus Points](https://atp.fm/693)
+![Hackers Asked Meta AI To Let Them In. It Worked](../../assets/images/oc_artwork/5121672118483152-3366702d-d2f4-43b6-8a5d-bebc118228a5.png) The 404 Media Podcast (Premium Feed) – Hackers Asked Meta AI To Let Them In. It Worked
+![Nvidia just started a new chip war](../../assets/images/oc_artwork/5816342990419279-fbdb98a1-849d-4b5e-b71f-b063363ce65e.png) The Vergecast: Ad-Free Edition – Nvidia just started a new chip war
+[![Selling Through the Summer Slow Down](../../assets/images/oc_artwork/1682926895552642-4647063b-9124-4603-9fa7-206587ffbfae.png)](https://overcast.fm/+X6nPPK2II) [Sales Logic - Selling Strategies That Work – Selling Through the Summer Slow Down](https://overcast.fm/+X6nPPK2II)
+![Jony Ive’s funky Ferrari](../../assets/images/oc_artwork/5816343051802514-b0e2b532-9efb-41d7-b4e1-356ba3e762be.png) The Vergecast: Ad-Free Edition – Jony Ive’s funky Ferrari
+[![Automating Offensive Security with XBOW](../../assets/images/oc_artwork/5476005910284383-3e8813a4-3461-47f7-a5d0-b4af21260c72.png)](https://overcast.fm/+BN0ZfsSCF8) [Security You Should Know – Automating Offensive Security with XBOW](https://overcast.fm/+BN0ZfsSCF8)
+[![448: ‘Twins Named John’, With Stephen Hackett](../../assets/images/oc_artwork/135463919651963-ab3f2032-4f46-4c62-ada8-3ec091c27a9b.png)](https://overcast.fm/+B7NCbPjHs) [The Talk Show With John Gruber – 448: ‘Twins Named John’, With Stephen Hackett](https://overcast.fm/+B7NCbPjHs)
 
 </div>
 
 <div class="review-now">
 
+### TV Shows
+
+[<span hidden>Legends • 2026 • The actors make this one. I loved them all. Well, most of them. This is when I was able to just sit back and enjoy and really relish the people. *****</span>
+![Legends • 2026 • The actors make this one. I loved them all. Well, most of them. This is when I was able to just sit back and enjoy and really relish the people. *****](../../assets/images/posts/png-image4dbb97ecf20-review-015b4382-d62f-46d3-b37c-e6252cd0c5e5.png)](/images/posts/png-image4dbb97ecf20-review-015b4382-d62f-46d3-b37c-e6252cd0c5e5.jpg)
+
 ### Books
 
-[<span hidden>Exhalation • 2019 • Ted Chiang • A fun and thought-provoking collection of short sci-fi stories. Some of these are centered around completely novel concepts, others less so, but they're all explorations in their own way of what it means to be human. *****</span>
-![Exhalation • 2019 • Ted Chiang • A fun and thought-provoking collection of short sci-fi stories. Some of these are centered around completely novel concepts, others less so, but they're all explorations in their own way of what it means to be human. *****](../../assets/images/posts/png-image46f28d750e0-review-a0f8e609-880b-4163-bda8-037d74d23c80.png)](/images/posts/png-image46f28d750e0-review-a0f8e609-880b-4163-bda8-037d74d23c80.jpg)
-[<span hidden>The Mastermind • Evan Ratliff • 2019 • Crime is fun, at least for the reader of good journalistic documentations of it, and Evan Ratliff is nothing if not a dogged and interested journalist. I read most of this online at some point, but the book is still incredibly fascinating. Paul Le Roux is quite a character. You won't be able to put this down. *****</span>
-![The Mastermind • Evan Ratliff • 2019 • Crime is fun, at least for the reader of good journalistic documentations of it, and Evan Ratliff is nothing if not a dogged and interested journalist. I read most of this online at some point, but the book is still incredibly fascinating. Paul Le Roux is quite a character. You won't be able to put this down. *****](../../assets/images/posts/png-image44fcb606ac0-review-a25b8a5c-1425-41be-9d10-77e987cd396a.png)](/images/posts/png-image44fcb606ac0-review-a25b8a5c-1425-41be-9d10-77e987cd396a.jpg)
+[<span hidden>Steve Jobs in Exile • 2026 • Geoffrey Cain • Steve Jobs in Exile is one of the better books about Steve Jobs I've read, because it's not trying to mythologize him or do anything other than document an under-represented part of his development story. Without failure, he never could have become the CEO who saved Apple. *****</span>
+![Steve Jobs in Exile • 2026 • Geoffrey Cain • Steve Jobs in Exile is one of the better books about Steve Jobs I've read, because it's not trying to mythologize him or do anything other than document an under-represented part of his development story. Without failure, he never could have become the CEO who saved Apple. *****](../../assets/images/posts/png-image43a9b3f12c0-review-d0962a09-70d1-4fb1-af49-a79ae8d2fc5f.png)](/images/posts/png-image43a9b3f12c0-review-d0962a09-70d1-4fb1-af49-a79ae8d2fc5f.jpg)
 
 </div>
 
@@ -60,96 +54,96 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_cEHK3kDMSX0.png](../../assets/images/yt_thumbs/20260527002623_cEHK3kDMSX0.png)](https://www.youtube.com/watch?v=cEHK3kDMSX0&pp=0gcJCQkLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)</p><p class="yt-video-title">
-[Doriane Pin on the F1 Academy, Americans Eating Burgers for Breakfast & Racing at 9 Years Old](https://www.youtube.com/watch?v=cEHK3kDMSX0&pp=0gcJCQkLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260603111727_7XShCjpe-vw.png](../../assets/images/yt_thumbs/20260603111727_7XShCjpe-vw.png)](https://www.youtube.com/watch?v=7XShCjpe-vw&t=1060s)<div><p class="yt-video-channel">Channel – [Erin Talks Money](https://www.youtube.com/@ErinTalksMoney)</p><p class="yt-video-title">
+[The Retirement Math Is Getting Worse… Most People Haven’t Realized It Yet](https://www.youtube.com/watch?v=7XShCjpe-vw&t=1060s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_RLjaUES9P8A.png](../../assets/images/yt_thumbs/20260527002623_RLjaUES9P8A.png)](https://www.youtube.com/watch?v=RLjaUES9P8A)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[100 Hours Testing Claude Code vs ChatGPT Codex (honest results)](https://www.youtube.com/watch?v=RLjaUES9P8A)
+[![../../assets/images/yt_thumbs/20260603111727_jDRpj9DhPrk.png](../../assets/images/yt_thumbs/20260603111727_jDRpj9DhPrk.png)](https://www.youtube.com/watch?v=jDRpj9DhPrk)<div><p class="yt-video-channel">Channel – [GeoBeats Animals](https://www.youtube.com/@GeoBeatsAnimals)</p><p class="yt-video-title">
+[Rescue cat does the sweetest thing for dad every night](https://www.youtube.com/watch?v=jDRpj9DhPrk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_j60Y3AD3BRI.png](../../assets/images/yt_thumbs/20260527002623_j60Y3AD3BRI.png)](https://www.youtube.com/watch?v=j60Y3AD3BRI)<div><p class="yt-video-channel">Channel – [Kevin Ulett - Snake Handler](https://www.youtube.com/@KevinUlett)</p><p class="yt-video-title">
-[Deadly Golden Cobra in Their Home!](https://www.youtube.com/watch?v=j60Y3AD3BRI)
+[![../../assets/images/yt_thumbs/20260603111727_MmSbHQ5hURs.png](../../assets/images/yt_thumbs/20260603111727_MmSbHQ5hURs.png)](https://www.youtube.com/watch?v=MmSbHQ5hURs)<div><p class="yt-video-channel">Channel – [Jet Li](https://www.youtube.com/@Jet_Li)</p><p class="yt-video-title">
+[A message from Jet Li](https://www.youtube.com/watch?v=MmSbHQ5hURs)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_OSpd5rV4evo.png](../../assets/images/yt_thumbs/20260527002623_OSpd5rV4evo.png)](https://www.youtube.com/watch?v=OSpd5rV4evo)<div><p class="yt-video-channel">Channel – [Adam Savage’s Tested](https://www.youtube.com/@tested)</p><p class="yt-video-title">
-[The Thought That Shifted Adam Savage's Relationship With Jamie Forever](https://www.youtube.com/watch?v=OSpd5rV4evo)
+[![../../assets/images/yt_thumbs/20260603111727_677kTin0ojI.png](../../assets/images/yt_thumbs/20260603111727_677kTin0ojI.png)](https://www.youtube.com/watch?v=677kTin0ojI)<div><p class="yt-video-channel">Channel – [NBC News](https://www.youtube.com/@NBCNews)</p><p class="yt-video-title">
+[Sonic booms heard around the U.S.](https://www.youtube.com/watch?v=677kTin0ojI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_YwREnYhlSxE.png](../../assets/images/yt_thumbs/20260527002623_YwREnYhlSxE.png)](https://www.youtube.com/watch?v=YwREnYhlSxE)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
-[Peter (and Scott - the Friends with Brews) drink Illy Classico Cold Brew and Laurel's Matcha Latte](https://www.youtube.com/watch?v=YwREnYhlSxE)
+[![../../assets/images/yt_thumbs/20260603111727_CxbHw93oWP0.png](../../assets/images/yt_thumbs/20260603111727_CxbHw93oWP0.png)](https://www.youtube.com/watch?v=CxbHw93oWP0&t=2811s)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[$2.4M of Prompt Engineering Hacks in 53 Mins (GPT, Claude)](https://www.youtube.com/watch?v=CxbHw93oWP0&t=2811s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_Oq0W9IjfKrY.png](../../assets/images/yt_thumbs/20260527002623_Oq0W9IjfKrY.png)](https://www.youtube.com/watch?v=Oq0W9IjfKrY)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
-[90-Year-Old Legendary Astronaut Makes Fatal Mistake!](https://www.youtube.com/watch?v=Oq0W9IjfKrY)
+[![../../assets/images/yt_thumbs/20260603111727_WnBx1Vi7M6w.png](../../assets/images/yt_thumbs/20260603111727_WnBx1Vi7M6w.png)](https://www.youtube.com/watch?v=WnBx1Vi7M6w&t=47s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Your prompts are tech debt.](https://www.youtube.com/watch?v=WnBx1Vi7M6w&t=47s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_6RzRMLUB_DI.png](../../assets/images/yt_thumbs/20260527002623_6RzRMLUB_DI.png)](https://www.youtube.com/watch?v=6RzRMLUB_DI)<div><p class="yt-video-channel">Channel – [NTT INDYCAR SERIES](https://www.youtube.com/@indycar)</p><p class="yt-video-title">
-[Race Highlights | 2026 Indianapolis 500](https://www.youtube.com/watch?v=6RzRMLUB_DI)
+[![../../assets/images/yt_thumbs/20260603111727_3xa_pQuhHzU.png](../../assets/images/yt_thumbs/20260603111727_3xa_pQuhHzU.png)](https://www.youtube.com/watch?v=3xa_pQuhHzU)<div><p class="yt-video-channel">Channel – [IGN](https://www.youtube.com/@IGN)</p><p class="yt-video-title">
+[Stuntman: Hollywood - Official Reveal Trailer | State of Play 2026](https://www.youtube.com/watch?v=3xa_pQuhHzU)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_eZVN0HT8WbI.png](../../assets/images/yt_thumbs/20260527002623_eZVN0HT8WbI.png)](https://www.youtube.com/watch?v=eZVN0HT8WbI&t=117s)<div><p class="yt-video-channel">Channel – [Lon.TV](https://www.youtube.com/@LonSeidman)</p><p class="yt-video-title">
-[Taildrop: Simple Worldwide File Transfers via Tailscale - No Cloud Required!](https://www.youtube.com/watch?v=eZVN0HT8WbI&t=117s)
+[![../../assets/images/yt_thumbs/20260603111727_R6Jrt1ECJ98.png](../../assets/images/yt_thumbs/20260603111727_R6Jrt1ECJ98.png)](https://www.youtube.com/watch?v=R6Jrt1ECJ98&t=774s)<div><p class="yt-video-channel">Channel – [Sunny in Japan](https://www.youtube.com/@Sunny_in_Japan)</p><p class="yt-video-title">
+[36 hours in Fukuoka | Japan Travel Vlog | 🍜 Ramen, Cafe Hopping, Dazaifu Shrine](https://www.youtube.com/watch?v=R6Jrt1ECJ98&t=774s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_ib74sLgjIBM.png](../../assets/images/yt_thumbs/20260527002623_ib74sLgjIBM.png)](https://www.youtube.com/watch?v=ib74sLgjIBM&t=368s&pp=0gcJCQkLAYcqIYzv)<div><p class="yt-video-channel">Channel – Systems Made Better and Better Creating</p><p class="yt-video-title">
-[Build A Claude Knowledge Base That Self-Improves!](https://www.youtube.com/watch?v=ib74sLgjIBM&t=368s&pp=0gcJCQkLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260603111727_CPOjTvK_Bmw.png](../../assets/images/yt_thumbs/20260603111727_CPOjTvK_Bmw.png)](https://www.youtube.com/watch?v=CPOjTvK_Bmw)<div><p class="yt-video-channel">Channel – [Torry Travel](https://www.youtube.com/@torrytravel)</p><p class="yt-video-title">
+[First Time in Fukuoka 🍜🍓 Must-Try Food, Cafés & Shrines 🇯🇵 Japan Travel VLOG 📸](https://www.youtube.com/watch?v=CPOjTvK_Bmw)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_Pi-m8R068r4.png](../../assets/images/yt_thumbs/20260527002623_Pi-m8R068r4.png)](https://www.youtube.com/watch?v=Pi-m8R068r4)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[The AI Offer You Can Sell Tomorrow Morning](https://www.youtube.com/watch?v=Pi-m8R068r4)
+[![../../assets/images/yt_thumbs/20260603111727_x1XEaSQfezg.png](../../assets/images/yt_thumbs/20260603111727_x1XEaSQfezg.png)](https://www.youtube.com/watch?v=x1XEaSQfezg&t=14s&pp=0gcJCSgLAYcqIYzv)<div><p class="yt-video-channel">Channel – [A Ryu Life Story](https://www.youtube.com/@aryulifestory)</p><p class="yt-video-title">
+[10 Days in Fukuoka & other Kyushu cities | JAPAN Travel Vlog 🇯🇵](https://www.youtube.com/watch?v=x1XEaSQfezg&t=14s&pp=0gcJCSgLAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_H4xvz4ueqKU.png](../../assets/images/yt_thumbs/20260527002623_H4xvz4ueqKU.png)](https://www.youtube.com/watch?v=H4xvz4ueqKU)<div><p class="yt-video-channel">Channel – [Mini Air Crash Investigation](https://www.youtube.com/@MiniAirCrashInvestigation)</p><p class="yt-video-title">
-[Good Intentions, Deadly Consequences | Royal Australian Airforce 707 Crash](https://www.youtube.com/watch?v=H4xvz4ueqKU)
+[![../../assets/images/yt_thumbs/20260603111727_gFFfmtG75_Q.png](../../assets/images/yt_thumbs/20260603111727_gFFfmtG75_Q.png)](https://www.youtube.com/watch?v=gFFfmtG75_Q&t=965s)<div><p class="yt-video-channel">Channel – [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)</p><p class="yt-video-title">
+[These Fukuoka Homes Are Shockingly Cheap Compared to Tokyo](https://www.youtube.com/watch?v=gFFfmtG75_Q&t=965s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260527002623_dtAJ2dOd3ko.png](../../assets/images/yt_thumbs/20260527002623_dtAJ2dOd3ko.png)](https://www.youtube.com/watch?v=dtAJ2dOd3ko&t=53s)<div><p class="yt-video-channel">Channel – [Matt Pocock](https://www.youtube.com/@mattpocockuk)</p><p class="yt-video-title">
-[/handoff is my new favourite skill](https://www.youtube.com/watch?v=dtAJ2dOd3ko&t=53s)
+[![../../assets/images/yt_thumbs/20260603111727_j2vs1xFpG90.png](../../assets/images/yt_thumbs/20260603111727_j2vs1xFpG90.png)](https://www.youtube.com/watch?v=j2vs1xFpG90&t=11s)<div><p class="yt-video-channel">Channel – [JAPAN LOVEWalker](https://www.youtube.com/@JAPANLOVEWalker)</p><p class="yt-video-title">
+[Generations of Timeless Unagi: Family Owned Restaurant Aims for 100 Years of Operation](https://www.youtube.com/watch?v=j2vs1xFpG90&t=11s)
 </p></div>
 
 </div>
