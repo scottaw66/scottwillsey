@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-06-03T11:46:21-08:00"
+date: "2026-06-07T14:09:36-08:00"
 slug: "links"
 ---
 
@@ -1128,11 +1128,12 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Better Creating](https://www.youtube.com/@BetterCreating)
 - [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
+- [Charlie Hills](https://www.youtube.com/@CharlieHillsAI)
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Chris Norlund](https://www.youtube.com/@realchris)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [CyberInsider](https://www.youtube.com/@CyberInsiderHQ)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1206,7 +1207,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
 - [Mrs Eats](https://www.youtube.com/@MrsEats)
 - [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)
-- [NekoAshi Japan](https://www.youtube.com/@NekoAshiJapan)
 
 ## It's All About Me
 
