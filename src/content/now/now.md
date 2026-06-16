@@ -1,15 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-06-07T14:09:36-08:00"
+date: "2026-06-15T18:13:51-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I'm here to say that depression is real and that it can be crippling. I found myself fighting this for the past week. Now it's time to take steps to get back on track and get to work again.
+> This week I discovered the world of getting Claude Code to edit video, and I'm never going back! I've built up a pretty good system. It'll be interesting once I get to episodes with separate recordings per host for it to compile.
 
 ## Current Projects
+
+- [Friends with Brews Podcast YouTube Channel](https://www.youtube.com/@FriendswithBrewsPodcast)
 
 - Work. Focusing on work. Focusing on financial goals for the sole purpose of creating some life flexibility for our family.
 
@@ -21,26 +23,20 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-![A Repairable, No-Tech Tractor](../../assets/images/oc_artwork/5121671854500090-5b825800-b0b0-49b8-9b24-e7224a44a739.png) The 404 Media Podcast (Premium Feed) – A Repairable, No-Tech Tractor
-![‘In Pizzeria Insights’: Monaco Grand Prix qualifying day](../../assets/images/oc_artwork/5523677193516226-2e6beba9-988e-41cb-8089-1b93809d9286.png) The Race F1 Podcast (Members) – ‘In Pizzeria Insights’: Monaco Grand Prix qualifying day
-[![They’re Putting AI in the Mice](../../assets/images/oc_artwork/5130549001870663-37b3eace-ef94-4b5b-b228-92e513a00b81.png)](https://overcast.fm/+BI6NQbCXUc) [Comfort Zone – They’re Putting AI in the Mice](https://overcast.fm/+BI6NQbCXUc)
-[![Soap Box: Detection and response in the AI age](../../assets/images/oc_artwork/613330598800666-4886196a-81b2-4008-9755-264ea42b7bea.png)](https://overcast.fm/+It0ih4rRo) [Risky Business – Soap Box: Detection and response in the AI age](https://overcast.fm/+It0ih4rRo)
-![Microsoft’s plan to catch up in AI](../../assets/images/oc_artwork/5816343014646783-16800281-aaaf-455c-b8eb-5042ad3a4eeb.png) The Vergecast: Ad-Free Edition – Microsoft’s plan to catch up in AI
-[![Ep.146 WWDC 2026 直前大予測！👀 今週のテックニュース](../../assets/images/oc_artwork/4416666814802083-6199f483-2020-4244-aa26-d9b523016d34.png)](https://overcast.fm/+-w72CWaKM) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.146 WWDC 2026 直前大予測！👀 今週のテックニュース](https://overcast.fm/+-w72CWaKM)
-![Kebab Shop Insights: Scott and Jon’s Monaco Friday night debrief](../../assets/images/oc_artwork/5523677254173507-23dfda44-101d-4f04-89da-c8644f688dd5.png) The Race F1 Podcast (Members) – Kebab Shop Insights: Scott and Jon’s Monaco Friday night debrief
-![McLaren’s weird rules breach and Monaco GP form so far [ad-free video]](../../assets/images/oc_artwork/5523677104465174-2591eefe-555d-4771-8545-8bd09d7b3cee.png) The Race F1 Podcast (Members) – McLaren’s weird rules breach and Monaco GP form so far [ad-free video]
-![This is your laptop… on AI](../../assets/images/oc_artwork/5816343044322723-3b2afe79-d8e2-4a89-8763-8145be318290.png) The Vergecast: Ad-Free Edition – This is your laptop… on AI
-![Feature thoughts on WWDC eve](../../assets/images/oc_artwork/5971575749684557-97cffdf9-4e8d-41cd-a0b5-fdf4dba5e53c.png) Six Colors+ — Private – Feature thoughts on WWDC eve
-
+![# The **epic** story of Markdown](../../assets/images/oc_artwork/5816342804437555-0bbad4a6-2494-48b0-a3c7-84aa00334cb0.png) The Vergecast: Ad-Free Edition – The epic story of Markdown
+![Barcelona Grand Prix review (ad free)](../../assets/images/oc_artwork/5523677794695616-083839c1-29e3-4fdb-b0ae-5902e19c963b.png) The Race F1 Podcast (Members) – Barcelona Grand Prix review (ad free)
+[![What SpaceX, Anthropic and OpenAI’s IPOs mean for investors](../../assets/images/oc_artwork/2821379123291090-8433e128-18d5-469a-bb98-f7061b272a16.png)](https://overcast.fm/+oGB4Rro9I) [Patrick Boyle On Finance – What SpaceX, Anthropic and OpenAI’s IPOs mean for investors](https://overcast.fm/+oGB4Rro9I)
+![Microsoft AI chief thinks superintelligence is near, but won’t take your job](../../assets/images/oc_artwork/5816356007250552-51bac89b-cbcb-4577-acee-94e151c60ff4.png) Decoder: Ad-Free Edition – Microsoft AI chief thinks superintelligence is near, but won’t take your job
+![In-Car Insights: Edd and Jon on Barcelona qualifying day’s big talking points](../../assets/images/oc_artwork/5523677452881663-5dc29859-1740-4c2b-943d-f35d489e070b.png) The Race F1 Podcast (Members) – In-Car Insights: Edd and Jon on Barcelona qualifying day’s big talking points
+[![695: The Crystal Pepsi of Aqua](../../assets/images/oc_artwork/5585875962641957-db0ee9f6-9c21-46c8-9397-d02f2f76c2dd.png)](https://atp.fm/695) [Accidental Tech Podcast – 695: The Crystal Pepsi of Aqua](https://atp.fm/695)
+![Siri AI, Screen Time, and the rest of WWDC 2026: The Vergecast Livestream](../../assets/images/oc_artwork/5816342818164539-916ef1f2-2a8a-447d-a62c-7a376737a21f.png) The Vergecast: Ad-Free Edition – Siri AI, Screen Time, and the rest of WWDC 2026: The Vergecast Livestream
+[![What’s Wrong with My Pipeline?](../../assets/images/oc_artwork/1682926580710001-88b99cfd-bab2-4bf3-8221-abc02c88a9bd.png)](https://overcast.fm/+X6nOEGunE) [Sales Logic - Selling Strategies That Work – What’s Wrong with My Pipeline?](https://overcast.fm/+X6nOEGunE)
+![How Steve Jobs became Steve Jobs](../../assets/images/oc_artwork/5816343446916959-b5b5f77f-d67d-44c9-b1ee-0765264d90e7.png) The Vergecast: Ad-Free Edition – How Steve Jobs became Steve Jobs
+[![Ida Tarbell: The “Muckraker” Who Beat John D Rockefeller and Big Oil](../../assets/images/oc_artwork/5798100193260606-a5711c67-7ce5-4396-b602-4f2f9eaaa790.png)](https://overcast.fm/+BSZV2ZkND4) [Business History – Ida Tarbell: The “Muckraker” Who Beat John D Rockefeller and Big Oil](https://overcast.fm/+BSZV2ZkND4)
 
 </div>
 
 <div class="review-now">
-
-### TV Shows
-
-[<span hidden>Legends • 2026 • The actors make this one. I loved them all. Well, most of them. This is when I was able to just sit back and enjoy and really relish the people. *****</span>
-![Legends • 2026 • The actors make this one. I loved them all. Well, most of them. This is when I was able to just sit back and enjoy and really relish the people. *****](../../assets/images/posts/png-image4dbb97ecf20-review-015b4382-d62f-46d3-b37c-e6252cd0c5e5.png)](/images/posts/png-image4dbb97ecf20-review-015b4382-d62f-46d3-b37c-e6252cd0c5e5.jpg)
 
 ### Books
 
@@ -55,119 +51,96 @@ slug: "now"
 
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_2HqW0jvzrUY.png](../../assets/images/yt_thumbs/20260607140728_2HqW0jvzrUY.png)](https://www.youtube.com/watch?v=2HqW0jvzrUY&t=155s)<div><p class="yt-video-channel">Channel – [patrick 2masso](https://www.youtube.com/@sloppysteaks)</p><p class="yt-video-title">
-[How they filmed BACKROOMS for real](https://www.youtube.com/watch?v=2HqW0jvzrUY&t=155s)
+[![../../assets/images/yt_thumbs/20260615180926_pK_670-OtC0.png](../../assets/images/yt_thumbs/20260615180926_pK_670-OtC0.png)](https://www.youtube.com/watch?v=pK_670-OtC0&t=50s&pp=0gcJCT4LAYcqIYzv)<div><p class="yt-video-channel">Channel – [Better Creating](https://www.youtube.com/@BetterCreating)</p><p class="yt-video-title">
+[Siri AI Is Late… but Great. Apple’s New AI Disruptor](https://www.youtube.com/watch?v=pK_670-OtC0&t=50s&pp=0gcJCT4LAYcqIYzv)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_h-5NNATBOgA.png](../../assets/images/yt_thumbs/20260607140728_h-5NNATBOgA.png)](https://www.youtube.com/watch?v=h-5NNATBOgA)<div><p class="yt-video-channel">Channel – [Ice711](https://www.youtube.com/@ice711real)</p><p class="yt-video-title">
-[The Mysterious YouTube Channel of the MH370 Captain](https://www.youtube.com/watch?v=h-5NNATBOgA)
+[![../../assets/images/yt_thumbs/20260615180926_8sOXYTaFXQ8.png](../../assets/images/yt_thumbs/20260615180926_8sOXYTaFXQ8.png)](https://www.youtube.com/watch?v=8sOXYTaFXQ8)<div><p class="yt-video-channel">Channel – [Chris and Yeji](https://www.youtube.com/@chrisandyeji)</p><p class="yt-video-title">
+[Back to Busan life](https://www.youtube.com/watch?v=8sOXYTaFXQ8)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_Ir9do-YQoC8.png](../../assets/images/yt_thumbs/20260607140728_Ir9do-YQoC8.png)](https://www.youtube.com/watch?v=Ir9do-YQoC8)<div><p class="yt-video-channel">Channel – [Storied](https://www.youtube.com/@pbsstoried)</p><p class="yt-video-title">
-[The Mythology of the Backrooms Explained](https://www.youtube.com/watch?v=Ir9do-YQoC8)
+[![../../assets/images/yt_thumbs/20260615180926_ZBrHRwCDTy0.png](../../assets/images/yt_thumbs/20260615180926_ZBrHRwCDTy0.png)](https://www.youtube.com/watch?v=ZBrHRwCDTy0&t=133s)<div><p class="yt-video-channel">Channel – [Mochi Real Japanese](https://www.youtube.com/@mochirealjapanese3430)</p><p class="yt-video-title">
+[34. If you understand this, you are JLPT N5 level!](https://www.youtube.com/watch?v=ZBrHRwCDTy0&t=133s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_ChskqGovoHg.png](../../assets/images/yt_thumbs/20260607140728_ChskqGovoHg.png)](https://www.youtube.com/watch?v=ChskqGovoHg&t=93s)<div><p class="yt-video-channel">Channel – [Chase AI](https://www.youtube.com/@Chase-H-AI)</p><p class="yt-video-title">
-[This Open Source Repo Just Solved Claude Code's #1 Problem](https://www.youtube.com/watch?v=ChskqGovoHg&t=93s)
+[![../../assets/images/yt_thumbs/20260615180926_859_TTVdfn4.png](../../assets/images/yt_thumbs/20260615180926_859_TTVdfn4.png)](https://www.youtube.com/watch?v=859_TTVdfn4)<div><p class="yt-video-channel">Channel – [Nischa](https://www.youtube.com/@nischa)</p><p class="yt-video-title">
+[Accountant explains: You might be richer than you think](https://www.youtube.com/watch?v=859_TTVdfn4)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_jCA1AvhIxZE.png](../../assets/images/yt_thumbs/20260607140728_jCA1AvhIxZE.png)](https://www.youtube.com/watch?v=jCA1AvhIxZE)<div><p class="yt-video-channel">Channel – [Mentour Pilot](https://www.youtube.com/@MentourPilot)</p><p class="yt-video-title">
-[There's a REASON They Make You Open Your Window Blinds!](https://www.youtube.com/watch?v=jCA1AvhIxZE)
+[![../../assets/images/yt_thumbs/20260615180926_3XIGcM7VICc.png](../../assets/images/yt_thumbs/20260615180926_3XIGcM7VICc.png)](https://www.youtube.com/watch?v=3XIGcM7VICc&t=800s)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
+[Learn These 6 AI Skills Now (Before AI Replaces You)](https://www.youtube.com/watch?v=3XIGcM7VICc&t=800s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_lkR6mvqQQlk.png](../../assets/images/yt_thumbs/20260607140728_lkR6mvqQQlk.png)](https://www.youtube.com/watch?v=lkR6mvqQQlk)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[Is Claude Mythos Coming?](https://www.youtube.com/watch?v=lkR6mvqQQlk)
+[![../../assets/images/yt_thumbs/20260615180926_gDpuFDCLvBc.png](../../assets/images/yt_thumbs/20260615180926_gDpuFDCLvBc.png)](https://www.youtube.com/watch?v=gDpuFDCLvBc)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
+[The First Domino Has Fallen...](https://www.youtube.com/watch?v=gDpuFDCLvBc)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_gkSe7UF1Xf0.png](../../assets/images/yt_thumbs/20260607140728_gkSe7UF1Xf0.png)](https://www.youtube.com/watch?v=gkSe7UF1Xf0&t=8s)<div><p class="yt-video-channel">Channel – [Tech Enthusiast](https://www.youtube.com/@TechEnthusiastOfficial)</p><p class="yt-video-title">
-[Mac's Best Window Manager](https://www.youtube.com/watch?v=gkSe7UF1Xf0&t=8s)
+[![../../assets/images/yt_thumbs/20260615180926_fkw7CgjKSRM.png](../../assets/images/yt_thumbs/20260615180926_fkw7CgjKSRM.png)](https://www.youtube.com/watch?v=fkw7CgjKSRM)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[What brutal Barcelona exposed about every F1 team](https://www.youtube.com/watch?v=fkw7CgjKSRM)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_uakHtSxl6cA.png](../../assets/images/yt_thumbs/20260607140728_uakHtSxl6cA.png)](https://www.youtube.com/watch?v=uakHtSxl6cA)<div><p class="yt-video-channel">Channel – [Mac Square](https://www.youtube.com/@MacSquareVideos)</p><p class="yt-video-title">
-[The BEST Window Snapping Tool for Mac!](https://www.youtube.com/watch?v=uakHtSxl6cA)
+[![../../assets/images/yt_thumbs/20260615180926_DBn36F117pE.png](../../assets/images/yt_thumbs/20260615180926_DBn36F117pE.png)](https://www.youtube.com/watch?v=DBn36F117pE)<div><p class="yt-video-channel">Channel – [Throttle Talk](https://www.youtube.com/@ThrottleTalkTV)</p><p class="yt-video-title">
+[The Worst F1 Debuts of All Time...](https://www.youtube.com/watch?v=DBn36F117pE)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_Qhk-vj-850I.png](../../assets/images/yt_thumbs/20260607140728_Qhk-vj-850I.png)](https://www.youtube.com/watch?v=Qhk-vj-850I&t=199s)<div><p class="yt-video-channel">Channel – [Dailytekk](https://www.youtube.com/@Dailytekk)</p><p class="yt-video-title">
-[Unbelievably Useful Mac Productivity Apps](https://www.youtube.com/watch?v=Qhk-vj-850I&t=199s)
+[![../../assets/images/yt_thumbs/20260615180926_IkrlJ3iFQjs.png](../../assets/images/yt_thumbs/20260615180926_IkrlJ3iFQjs.png)](https://www.youtube.com/watch?v=IkrlJ3iFQjs)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
+[Peter Drinks a *Third* Cup Downeast Dark Roast #coffee](https://www.youtube.com/watch?v=IkrlJ3iFQjs)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_656xoyj4kIw.png](../../assets/images/yt_thumbs/20260607140728_656xoyj4kIw.png)](https://www.youtube.com/watch?v=656xoyj4kIw&t=724s)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Lufthansa 787 COLLAPSES at the Gate! - Pilot Reacts](https://www.youtube.com/watch?v=656xoyj4kIw&t=724s)
+[![../../assets/images/yt_thumbs/20260615180926_242jVjH7Uk4.png](../../assets/images/yt_thumbs/20260615180926_242jVjH7Uk4.png)](https://www.youtube.com/watch?v=242jVjH7Uk4&t=91s)<div><p class="yt-video-channel">Channel – [F1 Chequered Flag](https://www.youtube.com/@F1ChequeredFlag)</p><p class="yt-video-title">
+[Max Verstappen & every F1 Driver congratulating Lewis Hamilton after Win in Spain | Wholesome scenes](https://www.youtube.com/watch?v=242jVjH7Uk4&t=91s)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_RTZQ55o7TZY.png](../../assets/images/yt_thumbs/20260607140728_RTZQ55o7TZY.png)](https://www.youtube.com/watch?v=RTZQ55o7TZY)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Drivers React To Qualifying | 2026 Monaco Grand Prix](https://www.youtube.com/watch?v=RTZQ55o7TZY)
+[![../../assets/images/yt_thumbs/20260615180926_IDPdPXzUgOE.png](../../assets/images/yt_thumbs/20260615180926_IDPdPXzUgOE.png)](https://www.youtube.com/watch?v=IDPdPXzUgOE)<div><p class="yt-video-channel">Channel – [The Debrief Zone](https://www.youtube.com/@TheDebriefZone3)</p><p class="yt-video-title">
+[Fred Vasseur Praises Hamilton’s Race Management | Barcelona-Catalunya GP Race 2026](https://www.youtube.com/watch?v=IDPdPXzUgOE)
 </p></div>
 
 </div>
 
-
 <div class="yt-video">
 
-
-[![../../assets/images/yt_thumbs/20260607140728_xByc_UCEr-8.png](../../assets/images/yt_thumbs/20260607140728_xByc_UCEr-8.png)](https://www.youtube.com/watch?v=xByc_UCEr-8&t=56s)<div><p class="yt-video-channel">Channel – [Charlie Hills](https://www.youtube.com/@CharlieHillsAI)</p><p class="yt-video-title">
-[Did Claude Code Just Replace Video Editors?](https://www.youtube.com/watch?v=xByc_UCEr-8&t=56s)
+[![../../assets/images/yt_thumbs/20260615180926_HNVg81nA2J8.png](../../assets/images/yt_thumbs/20260615180926_HNVg81nA2J8.png)](https://www.youtube.com/watch?v=HNVg81nA2J8)<div><p class="yt-video-channel">Channel – [Nischa](https://www.youtube.com/@nischa)</p><p class="yt-video-title">
+[Accountant Explains: I'm Changing How I Invest (Before It's Too Late)](https://www.youtube.com/watch?v=HNVg81nA2J8)
 </p></div>
 
 </div>

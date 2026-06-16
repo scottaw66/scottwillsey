@@ -31,11 +31,11 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.3",
-    "@expressive-code/plugin-line-numbers": "^0.42.0",
+    "@expressive-code/plugin-line-numbers": "^0.43.1",
     "@philnash/astro-pagination": "^0.6.0",
-    "@tailwindcss/vite": "^4.3.0",
-    "astro": "^6.4.4",
-    "astro-expressive-code": "^0.42.0",
+    "@tailwindcss/vite": "^4.3.1",
+    "astro": "^6.4.7",
+    "astro-expressive-code": "^0.43.1",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^2.0.0",
     "date-fns": "^4.4.0",
@@ -43,12 +43,12 @@
     "normalize.css": "^8.0.1",
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
-    "tailwindcss": "^4.3.0",
+    "tailwindcss": "^4.3.1",
     "ultrahtml": "^1.6.0",
     "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
-    "prettier": "^3.8.3",
+    "prettier": "^3.8.4",
     "prettier-plugin-astro": "^0.14.1"
   }
 }
