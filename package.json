@@ -29,13 +29,14 @@
   },
   "homepage": "https://github.com/scottaw66/scottwillsey3.0#readme",
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.2.1",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.3",
-    "@expressive-code/plugin-line-numbers": "^0.43.1",
-    "@philnash/astro-pagination": "^0.6.0",
+    "@expressive-code/plugin-line-numbers": "^0.44.0",
+    "@philnash/astro-pagination": "^0.7.0",
     "@tailwindcss/vite": "^4.3.1",
-    "astro": "^6.4.7",
-    "astro-expressive-code": "^0.43.1",
+    "astro": "^7.0.6",
+    "astro-expressive-code": "^0.44.0",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^2.0.0",
     "date-fns": "^4.4.0",
@@ -50,5 +51,10 @@
   "devDependencies": {
     "prettier": "^3.8.4",
     "prettier-plugin-astro": "^0.14.1"
+  },
+  "overrides": {
+    "astro-pagefind": {
+      "astro": "$astro"
+    }
   }
 }
