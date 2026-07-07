@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-07-02T22:42:06-08:00"
+date: "2026-07-07T07:42:51-08:00"
 slug: "now"
 ---
 
@@ -23,25 +23,26 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-![Edd answers your questions about his Austrian GP driver rankings (ad free)](../../assets/images/oc_artwork/5523677100798634-64b30648-2844-4e17-bead-d6f4eb7fdf2d.png) The Race F1 Podcast (Members) – Edd answers your questions about his Austrian GP driver rankings (ad free)
-![Rivian’s last chance to take on Tesla](../../assets/images/oc_artwork/5816342537485188-beb89784-7ff8-46f7-91c8-fffb77f87814.png) The Vergecast: Ad-Free Edition – Rivian’s last chance to take on Tesla
-![Verstappen + Antonelli? Our take on F1’s next big driver moves (ad free)](../../assets/images/oc_artwork/5523677315672421-f2221fbd-12df-4e2d-809e-41c7a7f20d80.png) The Race F1 Podcast (Members) – Verstappen + Antonelli? Our take on F1’s next big driver moves (ad free)
-![Edd reacts to your Austria driver rankings!](../../assets/images/oc_artwork/5523677550128296-bf4bfed8-7601-47c8-b2a9-6305176fa856.png) The Race F1 Podcast (Members) – Edd reacts to your Austria driver rankings!
-[![Crime and Bunishment and Mailbags](../../assets/images/oc_artwork/1698966047383797-d1f986e7-16e6-4faa-8d08-9c54e4c2dbc9.png)](https://overcast.fm/+YJM1u9YPU) [Judge John Hodgman – Crime and Bunishment and Mailbags](https://overcast.fm/+YJM1u9YPU)
-[![451: ‘Taking Drugs to Get Fat’, With John Moltz](../../assets/images/oc_artwork/135463816579326-da1a7aad-d1b6-4032-a43e-4d473334ac3b.png)](https://overcast.fm/+B7NCCqyP4) [The Talk Show With John Gruber – 451: ‘Taking Drugs to Get Fat’, With John Moltz](https://overcast.fm/+B7NCCqyP4)
-[![698: And Do What?](../../assets/images/oc_artwork/5585876598545105-b9e76d91-797d-41ce-93a8-c5b177c3deb8.png)](https://atp.fm/698) [Accidental Tech Podcast – 698: And Do What?](https://atp.fm/698)
-[![698: And Do What?](../../assets/images/oc_artwork/5585879229778644-5f0d3462-0b2f-4916-813f-ca3f4c09c43a.png)](https://atp.fm/698) [Accidental Tech Podcast: Unedited Live Stream – 698: And Do What?](https://atp.fm/698)
-[![629 Supergirl!](../../assets/images/oc_artwork/3737328713293826-a7b372b6-0b0e-48bb-bde9-f39259a44c91.png)](https://overcast.fm/+1HFKZdYAI) [The Weekly Planet – 629 Supergirl!](https://overcast.fm/+1HFKZdYAI)
-![Our vibe coded projects that actually work](../../assets/images/oc_artwork/5816343178604103-12d0200c-a2d9-4fc7-91e4-5a4854c539b5.png) The Vergecast: Ad-Free Edition – Our vibe coded projects that actually work
+[![Mythos on your desk? Using local LLMs for code reviews](../../assets/images/oc_artwork/6020850014661589-d536ed26-5fa3-4d75-8aa7-7e2f750ed41a.png)](https://overcast.fm/+BVj7mJeq9U) [Risky Business Features – Mythos on your desk? Using local LLMs for code reviews](https://overcast.fm/+BVj7mJeq9U)
+![British Grand Prix review (ad free)](../../assets/images/oc_artwork/5523677093838269-fe1ef528-e02c-4ccd-b408-943ddc6197f0.png) The Race F1 Podcast (Members) – British Grand Prix review (ad free)
+[![The Year of Our Lord, Zork](../../assets/images/oc_artwork/5130549831468816-63c80345-783d-49e5-a7be-0ff8aff1cfd5.png)](https://overcast.fm/+BI6NTg1BxA) [Comfort Zone – The Year of Our Lord, Zork](https://overcast.fm/+BI6NTg1BxA)
+[![Jason and the Argonauts - Caravan Of Garbage](../../assets/images/oc_artwork/3737328291439877-a0f7c804-8ea9-4e51-9b6d-eb1c3fd0d4b2.png)](https://overcast.fm/+1HFI04ZQU) [The Weekly Planet – Jason and the Argonauts - Caravan Of Garbage](https://overcast.fm/+1HFI04ZQU)
+![Email Survival Guide](../../assets/images/oc_artwork/5991025971982388-77c47cd3-d1a7-4cf4-a193-10001b20cc39.png) AppStories+ (private members feed) – Email Survival Guide
+[![The Real Reason European Cars Can’t Compete](../../assets/images/oc_artwork/2821379798964555-f58bea15-0922-4ff9-b188-f15f8179bcc1.png)](https://overcast.fm/+oGB6yxmUs) [Patrick Boyle On Finance – The Real Reason European Cars Can’t Compete](https://overcast.fm/+oGB6yxmUs)
+[![Ep.149 AI生成画像を見抜く6つのポイント🧐 今週のテックニュース](../../assets/images/oc_artwork/4416666977299449-b32fae73-8e17-4445-93b4-3cca18e171ad.png)](https://overcast.fm/+-w72pF6_k) [Podcast by Yuka Studio // ユカスタポッドキャスト – Ep.149 AI生成画像を見抜く6つのポイント🧐 今週のテックニュース](https://overcast.fm/+-w72pF6_k)
+![The CMO is a dying role, says Digitas’ Amy Lanzi](../../assets/images/oc_artwork/5816356106496833-92381d53-8148-48ee-af91-4fef7668267f.png) Decoder: Ad-Free Edition – The CMO is a dying role, says Digitas’ Amy Lanzi
+![The video game disc is dead](../../assets/images/oc_artwork/5816342995185725-bc8f77de-a057-4d4a-af54-5dba66746b12.png) The Vergecast: Ad-Free Edition – The video game disc is dead
+[![Godzilla (1998)](../../assets/images/oc_artwork/3716926674142765-604e8eb6-ad9b-40de-882f-f0ebedbcfc8e.png)](https://overcast.fm/+00hm4Rhi0) [Unclear and Present Danger – Godzilla (1998)](https://overcast.fm/+00hm4Rhi0)
+
 
 </div>
 
 <div class="review-now">
 
-### Books
+### Movies
 
-[<span hidden>Steve Jobs in Exile • 2026 • Geoffrey Cain • Steve Jobs in Exile is one of the better books about Steve Jobs I've read, because it's not trying to mythologize him or do anything other than document an under-represented part of his development story. Without failure, he never could have become the CEO who saved Apple. *****</span>
-![Steve Jobs in Exile • 2026 • Geoffrey Cain • Steve Jobs in Exile is one of the better books about Steve Jobs I've read, because it's not trying to mythologize him or do anything other than document an under-represented part of his development story. Without failure, he never could have become the CEO who saved Apple. *****](../../assets/images/posts/png-image43a9b3f12c0-review-d0962a09-70d1-4fb1-af49-a79ae8d2fc5f.png)](/images/posts/png-image43a9b3f12c0-review-d0962a09-70d1-4fb1-af49-a79ae8d2fc5f.jpg)
+[<span hidden>Nobody 2 • 2025 • Timo Tjahjanto • I wanted to at least enjoy this as a piece of mindless entertainment. The problem is it's too dumb to be mindless. This is probably the stupidest movie I've ever seen, and I've seen some stupid movies. *</span>
+![Nobody 2 • 2025 • Timo Tjahjanto • I wanted to at least enjoy this as a piece of mindless entertainment. The problem is it's too dumb to be mindless. This is probably the stupidest movie I've ever seen, and I've seen some stupid movies. *](../../assets/images/posts/png-image4725917c6f0-review-84793152-5b89-41bf-bf96-14141079d676.png)](/images/posts/png-image4725917c6f0-review-84793152-5b89-41bf-bf96-14141079d676.jpg)
 
 ### TV Shows
 
@@ -56,96 +57,119 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_3X76Z02a1rk.png](../../assets/images/yt_thumbs/20260702221643_3X76Z02a1rk.png)](https://www.youtube.com/watch?v=3X76Z02a1rk)<div><p class="yt-video-channel">Channel – [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
-[UPDATE: Is Mitch McConnell DEAD?](https://www.youtube.com/watch?v=3X76Z02a1rk)
+
+[![../../assets/images/yt_thumbs/20260706224028_ok_LPAP6J94.png](../../assets/images/yt_thumbs/20260706224028_ok_LPAP6J94.png)](https://www.youtube.com/watch?v=ok_LPAP6J94&t=3231s)<div><p class="yt-video-channel">Channel – [MacStories](https://www.youtube.com/@MacStories09)</p><p class="yt-video-title">
+[Comfort Zone, Episode 107: The Year of Our Lord, Zork](https://www.youtube.com/watch?v=ok_LPAP6J94&t=3231s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_vcU85OrwuV0.png](../../assets/images/yt_thumbs/20260702221643_vcU85OrwuV0.png)](https://www.youtube.com/watch?v=vcU85OrwuV0&pp=0gcJCUwLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[6 Simple Rules That Change How Fable 5 Works](https://www.youtube.com/watch?v=vcU85OrwuV0&pp=0gcJCUwLAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260706224028_hpKXcDc6ftY.png](../../assets/images/yt_thumbs/20260706224028_hpKXcDc6ftY.png)](https://www.youtube.com/watch?v=hpKXcDc6ftY&t=2416s)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[5 Times Pilot Mistakes Got Celebrities Killed!](https://www.youtube.com/watch?v=hpKXcDc6ftY&t=2416s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_IHjQlGJqoSI.png](../../assets/images/yt_thumbs/20260702221643_IHjQlGJqoSI.png)](https://www.youtube.com/watch?v=IHjQlGJqoSI)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[Why Silverstone will bring out the worst of F1 2026](https://www.youtube.com/watch?v=IHjQlGJqoSI)
+
+[![../../assets/images/yt_thumbs/20260706224028_f6FRIDG8TPY.png](../../assets/images/yt_thumbs/20260706224028_f6FRIDG8TPY.png)](https://www.youtube.com/watch?v=f6FRIDG8TPY)<div><p class="yt-video-channel">Channel – [fern](https://www.youtube.com/@fern-tv)</p><p class="yt-video-title">
+[ANØM: The Most Genius FBI Operation](https://www.youtube.com/watch?v=f6FRIDG8TPY)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_bAJi5EQunQs.png](../../assets/images/yt_thumbs/20260702221643_bAJi5EQunQs.png)](https://www.youtube.com/watch?v=bAJi5EQunQs)<div><p class="yt-video-channel">Channel – [Mini Air Crash Investigation](https://www.youtube.com/@MiniAirCrashInvestigation)</p><p class="yt-video-title">
-[The Bet That Killed 70 People | Aeroflot Flight 6502](https://www.youtube.com/watch?v=bAJi5EQunQs)
+
+[![../../assets/images/yt_thumbs/20260706224028_siIij7W8bAY.png](../../assets/images/yt_thumbs/20260706224028_siIij7W8bAY.png)](https://www.youtube.com/watch?v=siIij7W8bAY)<div><p class="yt-video-channel">Channel – [CBC News: The National](https://www.youtube.com/@CBCTheNational)</p><p class="yt-video-title">
+[War arrives on Putin’s doorstep](https://www.youtube.com/watch?v=siIij7W8bAY)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_cYkUME8YtD4.png](../../assets/images/yt_thumbs/20260702221643_cYkUME8YtD4.png)](https://www.youtube.com/watch?v=cYkUME8YtD4)<div><p class="yt-video-channel">Channel – [CCN Ballet de Lorraine](https://www.youtube.com/@ccnballetdelorraine7924)</p><p class="yt-video-title">
-[Discofoot - Centre Pompidou](https://www.youtube.com/watch?v=cYkUME8YtD4)
+
+[![../../assets/images/yt_thumbs/20260706224028_mJ5zuuDN7A4.png](../../assets/images/yt_thumbs/20260706224028_mJ5zuuDN7A4.png)](https://www.youtube.com/watch?v=mJ5zuuDN7A4)<div><p class="yt-video-channel">Channel – [Mentour Pilot](https://www.youtube.com/@MentourPilot)</p><p class="yt-video-title">
+[Desperate: The Crash that Changed Aviation Forever](https://www.youtube.com/watch?v=mJ5zuuDN7A4)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_BY9Ud_W7en0.png](../../assets/images/yt_thumbs/20260702221643_BY9Ud_W7en0.png)](https://www.youtube.com/watch?v=BY9Ud_W7en0)<div><p class="yt-video-channel">Channel – [Jannis Moore](https://www.youtube.com/@jannismoore)</p><p class="yt-video-title">
-[How to Get Started with Trigger.dev](https://www.youtube.com/watch?v=BY9Ud_W7en0)
+
+[![../../assets/images/yt_thumbs/20260706224028_hVl4paLvLzw.png](../../assets/images/yt_thumbs/20260706224028_hVl4paLvLzw.png)](https://www.youtube.com/watch?v=hVl4paLvLzw&pp=0gcJCUwLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Mentour Pilot](https://www.youtube.com/@MentourPilot)</p><p class="yt-video-title">
+[Were They CONSCIOUS.. After it Hit?!](https://www.youtube.com/watch?v=hVl4paLvLzw&pp=0gcJCUwLAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_5Zfye7KDj7o.png](../../assets/images/yt_thumbs/20260702221643_5Zfye7KDj7o.png)](https://www.youtube.com/watch?v=5Zfye7KDj7o)<div><p class="yt-video-channel">Channel – [Lauren the Mortician](https://www.youtube.com/@Laurenthemortician)</p><p class="yt-video-title">
-[Mortician Explains: Oliver Tree Crash & What "Carbonized" Really Means](https://www.youtube.com/watch?v=5Zfye7KDj7o)
+
+[![../../assets/images/yt_thumbs/20260706224028_THz33AhikiI.png](../../assets/images/yt_thumbs/20260706224028_THz33AhikiI.png)](https://www.youtube.com/watch?v=THz33AhikiI)<div><p class="yt-video-channel">Channel – [Shane Hummus](https://www.youtube.com/@ShaneHummus)</p><p class="yt-video-title">
+[The Fastest Claude AI Side Hustle to Your First $1,000](https://www.youtube.com/watch?v=THz33AhikiI)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_z7Hwxl6YUTc.png](../../assets/images/yt_thumbs/20260702221643_z7Hwxl6YUTc.png)](https://www.youtube.com/watch?v=z7Hwxl6YUTc)<div><p class="yt-video-channel">Channel – [Tommo](https://www.youtube.com/@TommoMcCluskey)</p><p class="yt-video-title">
-[What Really Happened Between Lawson & Lindblad?](https://www.youtube.com/watch?v=z7Hwxl6YUTc)
+
+[![../../assets/images/yt_thumbs/20260706224028_hQvwMj7IJe4.png](../../assets/images/yt_thumbs/20260706224028_hQvwMj7IJe4.png)](https://www.youtube.com/watch?v=hQvwMj7IJe4)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
+[How to Give Fable 5 Infinite Memory (Karpathy Wiki)](https://www.youtube.com/watch?v=hQvwMj7IJe4)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_aELkysa7i9Q.png](../../assets/images/yt_thumbs/20260702221643_aELkysa7i9Q.png)](https://www.youtube.com/watch?v=aELkysa7i9Q)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[What Newey has revealed about the extent of Aston Martin's 2026 F1 disaster](https://www.youtube.com/watch?v=aELkysa7i9Q)
+
+[![../../assets/images/yt_thumbs/20260706224028_5LqC6qdVAwU.png](../../assets/images/yt_thumbs/20260706224028_5LqC6qdVAwU.png)](https://www.youtube.com/watch?v=5LqC6qdVAwU&t=1209s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[You were lied to about Fable](https://www.youtube.com/watch?v=5LqC6qdVAwU&t=1209s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_KSV-7ywHxeU.png](../../assets/images/yt_thumbs/20260702221643_KSV-7ywHxeU.png)](https://www.youtube.com/watch?v=KSV-7ywHxeU)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[FABLE IS BACK! (And Sonnet 5 is here too)](https://www.youtube.com/watch?v=KSV-7ywHxeU)
+
+[![../../assets/images/yt_thumbs/20260706224028_aif87UYCxOo.png](../../assets/images/yt_thumbs/20260706224028_aif87UYCxOo.png)](https://www.youtube.com/watch?v=aif87UYCxOo)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[I spent $1,486 on Fable tokens so you don't have to](https://www.youtube.com/watch?v=aif87UYCxOo)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_UGIZnh6HNLc.png](../../assets/images/yt_thumbs/20260702221643_UGIZnh6HNLc.png)](https://www.youtube.com/watch?v=UGIZnh6HNLc)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
-[The EASIEST Way to Host Your Claude Code Agents](https://www.youtube.com/watch?v=UGIZnh6HNLc)
+
+[![../../assets/images/yt_thumbs/20260706224028_RZiE9Nd4GAs.png](../../assets/images/yt_thumbs/20260706224028_RZiE9Nd4GAs.png)](https://www.youtube.com/watch?v=RZiE9Nd4GAs)<div><p class="yt-video-channel">Channel – [Road Racing Empire](https://www.youtube.com/@RoadRacingEmpire)</p><p class="yt-video-title">
+[Isle of Man TT | Every Clip is Absolute Madness](https://www.youtube.com/watch?v=RZiE9Nd4GAs)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260702221643_-y0dhayVtWY.png](../../assets/images/yt_thumbs/20260702221643_-y0dhayVtWY.png)](https://www.youtube.com/watch?v=-y0dhayVtWY)<div><p class="yt-video-channel">Channel – [Mentour Pilot](https://www.youtube.com/@MentourPilot)</p><p class="yt-video-title">
-[Aeroflot Jet crash update! Why did the FO jump out the window??](https://www.youtube.com/watch?v=-y0dhayVtWY)
+
+[![../../assets/images/yt_thumbs/20260706224028_ptPzMAf3U-s.png](../../assets/images/yt_thumbs/20260706224028_ptPzMAf3U-s.png)](https://www.youtube.com/watch?v=ptPzMAf3U-s)<div><p class="yt-video-channel">Channel – [Secondhand Movie Co](https://www.youtube.com/@SecondhandMovieCo)</p><p class="yt-video-title">
+[Star Wars But We Only Had $12](https://www.youtube.com/watch?v=ptPzMAf3U-s)
 </p></div>
 
 </div>
