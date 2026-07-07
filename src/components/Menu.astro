@@ -1,7 +1,5 @@
 ---
 import HomeIcon from "./icons/MenuHomeIcon.astro";
-import ModeDark from "./icons/ModeDark.astro";
-import ModeLight from "./icons/ModeLight.astro";
 
 // Responsive icon size - starts at 2rem, scales down at breakpoints
 const iconSizes = {
@@ -23,66 +21,28 @@ const iconSizes = {
   <a href="/now">/now</a>
   <a href="/reviews">reviews</a>
   <a href="/about">about</a>
-  <button
-    id="theme-toggle"
-    aria-label="Switch to dark theme"
-    class="cursor-pointer bg-transparent border-0 rounded-full p-0 inline-flex items-center theme-toggle-btn"
-  >
-    <ModeDark size={iconSizes.default} fill="var(--theme-toggle)" />
-    <ModeLight size={iconSizes.default} fill="var(--theme-toggle)" />
-  </button>
 </div>
 
 <style>
   /* Scale icons at breakpoints to match text scaling */
   @media (max-width: 600px) {
-    .icon-link :global(svg),
-    .theme-toggle-btn :global(svg) {
+    .icon-link :global(svg) {
       width: 1.7rem;
       height: 1.7rem;
     }
   }
 
   @media (max-width: 470px) {
-    .icon-link :global(svg),
-    .theme-toggle-btn :global(svg) {
+    .icon-link :global(svg) {
       width: 1.6rem;
       height: 1.6rem;
     }
   }
 
   @media (max-width: 425px) {
-    .icon-link :global(svg),
-    .theme-toggle-btn :global(svg) {
+    .icon-link :global(svg) {
       width: 1.4rem;
       height: 1.4rem;
     }
   }
 </style>
-<script is:inline>
-  const setTheme = () => {
-    const themeToggle = document.getElementById("theme-toggle");
-    let currentTheme = localStorage.getItem("theme");
-    if (currentTheme !== "light" && currentTheme !== "dark") currentTheme = "dark";
-    applyTheme(currentTheme);
-
-    themeToggle.addEventListener("click", () => {
-      if (document.documentElement.hasAttribute("site-theme")) {
-        currentTheme = document.documentElement.getAttribute("site-theme");
-      }
-      applyTheme(currentTheme === "dark" ? "light" : "dark");
-    });
-
-    function applyTheme(theme) {
-      document.documentElement.setAttribute("site-theme", theme);
-      localStorage.setItem("theme", theme);
-      const isLight = theme !== "dark";
-      document.getElementById("mode-light-icon").style.display = isLight ? "inline" : "none";
-      document.getElementById("mode-dark-icon").style.display = isLight ? "none" : "inline";
-    }
-  };
-
-  setTheme();
-
-  document.addEventListener("astro:after-swap", setTheme);
-</script>
