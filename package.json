@@ -34,7 +34,7 @@
     "@expressive-code/plugin-line-numbers": "^0.44.0",
     "@philnash/astro-pagination": "^0.7.0",
     "@tailwindcss/vite": "^4.3.2",
-    "astro": "^7.0.6",
+    "astro": "^7.0.7",
     "astro-expressive-code": "^0.44.0",
     "astro-font": "^1.1.0",
     "astro-pagefind": "^2.0.1",
@@ -44,11 +44,16 @@
     "rehype-accessible-emojis": "^0.3.2",
     "remark-toc": "^9.0.0",
     "tailwindcss": "^4.3.2",
-    "ultrahtml": "^1.6.0",
+    "ultrahtml": "^1.7.0",
     "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
-    "prettier": "^3.9.4",
+    "prettier": "^3.9.5",
     "prettier-plugin-astro": "^0.14.1"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true,
+    "sharp@0.34.5": true,
+    "esbuild@0.28.1": true
   }
 }

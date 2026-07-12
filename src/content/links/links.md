@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-07-07T07:42:51-08:00"
+date: "2026-07-11T21:58:43-08:00"
 slug: "links"
 ---
 
@@ -17,6 +17,7 @@ slug: "links"
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 - [Customize Claude Code with plugins \ Anthropic](https://www.anthropic.com/news/claude-code-plugins)
+- [Dicklesworthstone/destructive_command_guard: The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.](https://github.com/Dicklesworthstone/destructive_command_guard)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 - [HyperContext](https://hypercontext.eu/)
@@ -603,6 +604,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [LMNT](https://lmnt.me)
 - [Logging Sucks – Your Logs Are Lying To You](https://loggingsucks.com/)
 - [Lumon Industries](https://lumon.industries)
+- [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/)
 - [Mac problem-solving – The Eclectic Light Company](https://eclecticlight.co/mac-problem-solving/)
 - [Making A Plan](https://millionexperiments.com/zines/making-a-plan)
 - [Mapped: The Most and Least Green Cities in America](https://www.visualcapitalist.com/mapped-the-most-and-least-green-cities-in-america/)

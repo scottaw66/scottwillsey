@@ -309,10 +309,17 @@
   }
 
   /* Tables */
-  table,
+  table {
+    @apply my-10 max-w-full border-collapse border border-dates/50;
+  }
+
   th,
   td {
-    @apply p-3 my-10 border-collapse align-top text-left;
+    @apply p-3 align-top text-left border border-dates/50;
+  }
+
+  th {
+    @apply border-b-2;
   }
 
   a svg:hover,
