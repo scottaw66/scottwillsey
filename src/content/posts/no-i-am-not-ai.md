@@ -9,7 +9,7 @@ Apparently a bunch of [people on Hacker News think](https://news.ycombinator.com
 
 I guess I should have expected it, considering it IS a post about using AI to do things I don't want to do, like futz around with Xcode itself. But I gotta say... does this site really look AI generated? Any of it?
 
-The thing is, that I'm very clear with people about what I use AI for and what I don't use it for. I do use it to write utilities and apps. I do use it to do research for me, for all kinds of things ranging from work to personal interests. I do use it to create me reports of information and summarize things for me. I do use it for, honestly, a lot of my website coding now (the plumbing of this site). I just throw it at Claude Code. What interests me is the stuff ON my site, and that's what I write.
+The thing is, I'm very clear with people about what I use AI for and what I don't use it for. I do use it to write utilities and apps. I do use it to do research for me, for all kinds of things ranging from work to personal interests. I do use it to create me reports of information and summarize things for me. I do use it for, honestly, a lot of my website coding now (the plumbing of this site). I just throw it at Claude Code. What interests me is the stuff ON my site, and that's what I write.
 
 Oh yeah, I even use Claude Code to [edit videos](https://www.youtube.com/@FriendswithBrewsPodcast) for me now. I don't use AI to **create** the videos, but I do have it edit them and generate show notes for them, with heavy direction from me on both.
 
