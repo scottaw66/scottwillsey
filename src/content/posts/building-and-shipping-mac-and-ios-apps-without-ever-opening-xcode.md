@@ -29,7 +29,7 @@ Once Xcode is installed, make sure it's the selected command line toolchain, and
 /Applications/Xcode.app/Contents/Developer
 ```
 
-If it DOES return the path for the standalone CommandLineTools instead, point it to Xcode intead.
+If it DOES return the path for the standalone CommandLineTools instead, point it to Xcode.
 
 ```bash
 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
