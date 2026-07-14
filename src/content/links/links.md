@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-07-11T21:58:43-08:00"
+date: "2026-07-14T07:15:15-08:00"
 slug: "links"
 ---
 
@@ -1124,7 +1124,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Chris Norlund](https://www.youtube.com/@realchris)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
 - [DaveTrippin](https://www.youtube.com/@DaveTrippin)

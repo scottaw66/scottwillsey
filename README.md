@@ -1,8 +1,8 @@
 # Scott Willsey
 
-This is version 6.0.0 of my website, [scottwillsey.com](https://scottwillsey.com). This version is a UI refresh, a (mostly) switch to Tailwind CSS, and some other little utilities and additions.
+This is version 6.1.0 of my website, [scottwillsey.com](https://scottwillsey.com). This version is a UI refresh, a (mostly) switch to Tailwind CSS, and some other little utilities and additions.
 
-Recently I've added some pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/) page, a [links](https://scottwillsey.com/links/) page, a [uses](https://scottwillsey.com/uses/) page.
+Recently I've added some pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/) page, a [links](https://scottwillsey.com/links/) page, a [uses](https://scottwillsey.com/uses/) page, and [reviews](https://scottwillsey.com/reviews/) of books, movies, tv shows, and music.
 
 Astro is the fastest web development framework I've ever used, primarily because it's so well thought out and so easy to understand and write for.
 
@@ -27,4 +27,4 @@ Astro is the fastest web development framework I've ever used, primarily because
 
 🪮 [Tailwind CSS](https://tailwindcss.com/) for MUCH easier handling of responsive views and quick UI and styling changes.
 
-_All content &copy; 2025 by Scott Willsey_
+_All content &copy; 2026 by Scott Willsey_
