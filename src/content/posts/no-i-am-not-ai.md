@@ -15,7 +15,7 @@ Oh yeah, I even use Claude Code to [edit videos](https://www.youtube.com/@Friend
 
 I am extremely transparent about all of this.
 
-But still, AI did not write this post, or the previous post, or any of the posts on this website, because I did. I'm a literate man who's been around a long time and I have my own thoughts on how to write thins, and one thing Claude does NOT do well is capture my tone. And even if it did, it doesn't actually know what I'm thinking.
+But still, AI did not write this post, or the previous post, or any of the posts on this website, because I did. I'm a literate man who's been around a long time and I have my own thoughts on how to write, and one thing Claude does NOT do well is capture my tone. And even if it did, it doesn't actually know what I'm thinking.
 
 Anyway, my guess is the only reason my blog post was noticed at all was thanks to [John Voorhees](https://mastodon.macstories.net/@johnvoorhees) of [MacStories](https://www.macstories.net) boosting it for me. Thanks, John! Also thanks, John, for not accusing me of having AI write the post! 😄
 
