@@ -1,8 +1,8 @@
 ---
 title: No, I Am Not AI
-description: describe
+description: Some people on Hacker News think I am an AI
 date: "2026-07-14T00:10:00-08:00"
-keywords: ["keyword"]
+keywords: ["ai,writing,website"]
 slug: "no-i-am-not-ai"
 ---
 Apparently a bunch of [people on Hacker News think](https://news.ycombinator.com/item?id=48896665) my [post about vibe-coding Mac and iOS apps](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) was itself vibe-coded.
