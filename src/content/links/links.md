@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-07-14T07:15:15-08:00"
+date: "2026-07-15T23:58:02-08:00"
 slug: "links"
 ---
 
@@ -764,6 +764,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Jinbōchō Through the Years: The Story of Tokyo’s Secondhand Book District | Nippon.com](https://www.nippon.com/en/japan-topics/b11002/)
 - [Jisho.org: Japanese Dictionary](https://jisho.org/)
 - [Jozen - YouTube](https://www.youtube.com/@jozendesu)
+- [Kumano Kodo – Tanabe City Kumano Tourism Bureau](https://www.tb-kumano.jp/en/kumano-kodo/)
 - [Miku Real Japanese - YouTube](https://www.youtube.com/@mikurealjapanese)
 - [Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
 - [NEW ホームページ - Miku Real Japanese](https://www.mikurealjapanese.com/)
@@ -1124,7 +1125,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Chris Norlund](https://www.youtube.com/@realchris)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
 - [DaveTrippin](https://www.youtube.com/@DaveTrippin)
