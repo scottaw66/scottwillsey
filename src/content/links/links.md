@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-07-15T23:58:02-08:00"
+date: "2026-07-23T23:22:46-08:00"
 slug: "links"
 ---
 
@@ -119,7 +119,6 @@ slug: "links"
 - [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
 - [Ron Deibert Warns Cybersecurity Industry About U.S. Authoritarian Descent - The Citizen Lab](https://citizenlab.ca/2025/08/ron-deibert-warns-cybersecurity-industry-about-u-s-authoritarian-descent-techcrunch/)
-- [Sharing links via RSS, sharing links via APIs](https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/)
 - [Shot by His Father and Left Blind—Now He's a Hardcore Gamer | WIRED](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
 - [Sierra made the games of my childhood. Are they still fun to play? - Ars Technica](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
@@ -149,7 +148,6 @@ slug: "links"
 - [The WIRED Guide to Protecting Yourself From Government Surveillance | WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 - [This Ancient Technology Is Helping Millions Stay Cool | WIRED](https://www.wired.com/story/evaporative-cooling-devices-coolant-clay-matka-mitticool-india-heat-wave/)
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
-- [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [Walking the Great Kantō Quake of 1923 — Ridgeline issue 193](https://craigmod.com/ridgeline/193/)
 - [Was Bitcoin Created by This International Drug Dealer? Maybe! | WIRED](https://www.wired.com/story/was-bitcoin-created-by-this-international-drug-dealer-maybe/)
@@ -188,7 +186,6 @@ slug: "links"
 - [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
 - [KIRIN ICHIBAN](http://www.kirinichiban.com/)
 - [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
-- [Peanut Butter Milk Stout – Belching Beaver Landing - Beer](https://belchingbeaver.com/san-diego-belching-beaver-landing-beer)
 - [Salted Caramel Porter – Beers — Cascade Lakes](https://www.cascadelakes.com/beers)
 - [Sapporo | #1 Premium Japanese Lager](https://www.sapporobeer.com/)
 - [Wayfinder Beer](https://www.wayfinder.beer/)
@@ -242,9 +239,6 @@ Habib Cham is one of the nicest people you'll meet on the socials, and he's alwa
 
 **[Colin Devroe - Photographer. Blogger. Reverse Engineer.](https://cdevroe.com/)**  
 Colin Devroe is a photographer and blogger with some fun ideas about what a blog can be.  
-
-**[Cory Dransfeldt](https://coryd.dev/)**  
-Software developer and personal blogger.  
 
 **[Craig Mod — Writer + Photographer](https://craigmod.com/)**  
 Craig Mod is a writer and photographer and *really* thoughtful guy. The fact that he lives in and walks all over Japan, where I lived as a boy, makes him even more interesting to me.  
@@ -564,6 +558,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/)
 - [Bike Index - Bike registration that works](https://bikeindex.org/)
 - [Blog of the .Day: Explore the (indie) web, one blog at a time.](https://blogofthe.day/)
+- [BORED - Fun, interesting & cool websites to explore when bored](https://www.bored.com)
 - [Byte Cellar - The Vintage Computing Weblog](https://bytecellar.com/)
 - [Calculating Empires](https://calculatingempires.net/)
 - [Calendar](https://www.neatnik.net/calendar/)
@@ -596,7 +591,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
 - [IS IT DNS?](https://isitdns.com/)
 - [Just a moment...](https://neal.fun/not-a-robot/)
-- [Kill the Newsletter!](https://kill-the-newsletter.com)
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Lens - Check your meta tags, icons, and rss feeds](https://lens.rknight.me/)
 - [Lex's Games by Lex Friedman](https://lex.games/)
@@ -612,7 +606,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Moon Phase Tracker | Rendered in ASCII Art](https://asciimoon.com/)
 - [mttaggart/ringspace: The Ringspace trusted webring description and specification - Codeberg.org](https://codeberg.org/mttaggart/ringspace)
 - [Network Tools by YouGetSignal.com](https://www.yougetsignal.com/)
-- [News from Stonking](https://news.stonking.com/news)
 - [noclip](https://noclip.website/)
 - [NO WEB WITHOUT WOMEN](https://nowebwithoutwomen.com)
 - [Off-Grid Communication For Everyone | Meshtastic](https://meshtastic.org)
@@ -708,7 +701,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Salt & Straw | Craft Made, Curiously Delicious Ice Cream](https://saltandstraw.com/)
 - [Syun Izakaya](https://www.syunhillsboro.com/)
 - [Tanaka](https://tanakakatsusando.com/)
-- [Toshi Restaurant](https://toshirestaurant.wixsite.com/beaverton)
 
 ## Games
 
@@ -749,7 +741,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [FUKUOKA CITY Official Tourist Guide](https://gofukuoka.jp/)
 - [Fukuoka Guide | Japan Cheapo](https://japancheapo.com/locations/fukuoka/)
 - [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
-- [Harupaka Japanese](https://www.youtube.com/@harupakajapanese84)
 - [How to Move to Japan: Visas, Requirements and Everything You Need to Know in 2026 - GaijinPot](https://blog.gaijinpot.com/how-to-move-to-japan-visas-requirements-and-everything-you-need-to-know-in-2026/)
 - [How To Use the "Platt Kodama" Pass To Save on the Bullet Train | Tokyo Cheapo](https://tokyocheapo.com/travel/platt-kodama-discount-shinkansen/)
 - [Japan Cheapo | The ultimate guide to Japan travel](https://japancheapo.com/)
@@ -780,7 +771,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Should I Book My Japan Trip Through Klook? | Tokyo Cheapo](https://tokyocheapo.com/travel/holidays/should-i-book-my-japan-trip-through-klook/)
 - [Spoon & Tamago | japanese art, design and culture](https://www.spoon-tamago.com/)
 - [TAKASHii](https://www.youtube.com/@takashiifromjapan)
-- [Tetsu Sensei](https://www.youtube.com/@tetsujpjp)
 - [THE NEW JAPAN](https://thenewjapan.com/en)
 - [The Ultimate Guide To Finding a Creative Job in Japan | Tokyo Cheapo](https://tokyocheapo.com/editorial/finding-creative-jobs-japan/)
 - [Tokyo Cheapo | The Ultimate Guide To Tokyo](https://tokyocheapo.com/)
@@ -793,7 +783,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 - [Customizing the Keychron Q1 with QMK Configurator and Toolbox - YouTube](https://www.youtube.com/watch?v=hHPcejmgty0)
 - [Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/)
-- [Keychron Q1 User Manual – Keychron | Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/pages/keychron-q1-user-manual)
 - [QMK Configurator](https://config.qmk.fm/#/matthewdias/minim/LAYOUT)
 - [So you've decided to get into mechanical keyboards - localghost](https://localghost.dev/blog/so-you-ve-decided-to-get-into-mechanical-keyboards/)
 - [qmk/qmk_configurator: The QMK Configurator](https://github.com/qmk/qmk_configurator)
@@ -1092,7 +1081,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## Tea
 
-- [Hojicha – Numi Tea](https://numitea.com/collections/organic-green-tea-bags/products/hojicha)
 - [Matcha Toasted Rice – Numi Tea](https://numitea.com/products/matcha-toasted-rice)
 
 ## TV
@@ -1129,6 +1117,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
 - [DaveTrippin](https://www.youtube.com/@DaveTrippin)
+- [David Hartley](https://www.youtube.com/@davidhartley94)
 - [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
 - [DIY Japan](https://www.youtube.com/@DIYJapan)
 - [Driver61](https://www.youtube.com/@Driver61)
@@ -1179,6 +1168,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [KOTSUMET](https://www.youtube.com/@KOTARO_OTTER)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
+- [Lilit (nomad)](https://www.youtube.com/@lilit_nomad)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
@@ -1191,6 +1181,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Miku Real Japanese](https://www.youtube.com/@mikurealjapanese)
 - [Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
 - [Mrs Eats](https://www.youtube.com/@MrsEats)
+- [Music Mongoose](https://www.youtube.com/@MusicMongoose)
 - [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)
 - [NekoAshi Japan](https://www.youtube.com/@NekoAshiJapan)
 - [Nick Saraev](https://www.youtube.com/@nicksaraev)
@@ -1201,16 +1192,90 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [pal2tech](https://www.youtube.com/@pal2tech)
 - [Papermancy](https://www.youtube.com/@papermancy)
 - [Parkrose Permaculture](https://www.youtube.com/@ParkrosePermaculture)
-- [pdofak](https://www.youtube.com/@pdofak)
-- [Performance Bicycle](https://www.youtube.com/@performancebike)
-- [Pixar](https://www.youtube.com/@pixar)
-- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
-- [raven67854](https://www.youtube.com/@raven67854)
-- [swallowAyrtonSenna](https://www.youtube.com/@swallowAyrtonSenna)
+- [Paste](https://www.youtube.com/@pasteapp)
+- [Pat Kay](https://www.youtube.com/@patkay)
+- [Patrick Boyle](https://www.youtube.com/@PBoyle)
+- [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)
+- [Peter Yang](https://www.youtube.com/@PeterYangYT)
+- [Photography Life](https://www.youtube.com/@PhotographyLifeChannel)
+- [Pit Haupert](https://www.youtube.com/@pithaupert)
+- [Plan B / mariko](https://www.youtube.com/@planb.mariko)
+- [Prince Louie & Todd](https://www.youtube.com/@louieandtodd)
+- [ProfessorViral](https://www.youtube.com/@ProfessorViral)
+- [Pull My Focus](https://www.youtube.com/@PullMyFocus)
+- [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
+- [Ralph & Sam](https://www.youtube.com/@RalphSam)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
+- [Renée Shaw](https://www.youtube.com/@pollyfockit)
+- [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
+- [RetireJapan – Personal Finance in Japan](https://www.youtube.com/@RetireJapan_OG)
+- [Rin Life in Japan (Takarazuka)](https://www.youtube.com/@Rin-Takarazuka-inJapan)
+- [Riri Travels](https://www.youtube.com/@ririRegine)
+- [Riverside](https://www.youtube.com/@Riversidefm)
+- [Robin Whalley](https://www.youtube.com/@RobinWhalley)
+- [Ron](https://www.youtube.com/@Ron-RisingSunProperties)
+- [Sam and Victor](https://www.youtube.com/@SamandVictor)
+- [Samurai Daddy](https://www.youtube.com/@samurai-daddy)
+- [Sayuri Saying](https://www.youtube.com/@SayuriSaying)
+- [Scott Yu-Jan](https://www.youtube.com/@ScottYuJan)
+- [Sean Dalton](https://www.youtube.com/@seandalt)
+- [Secondhand Movie Co](https://www.youtube.com/@SecondhandMovieCo)
+- [Sen. Adam Schiff](https://www.youtube.com/@senadamschiff)
+- [Seoul Walker](https://www.youtube.com/@SeoulWalker)
+- [Serge Morgotch](https://www.youtube.com/@serge.morgotch)
+- [SG Dad in Japan](https://www.youtube.com/@SGDadJP)
+- [shia seoul vlog【Korea Travel Gourmet & Cafe】](https://www.youtube.com/@shia_seoulvlog)
+- [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)
+- [Simon Scrapes](https://www.youtube.com/@simonscrapes)
+- [sky](https://www.youtube.com/@i.sky10)
+- [Slow Japan Days](https://www.youtube.com/@SlowJapanDays)
+- [Snazzy Labs](https://www.youtube.com/@snazzy)
+- [Snippety App](https://www.youtube.com/@AppSnippety)
+- [Softgirlnocode](https://www.youtube.com/@Softgirlnocode)
+- [Sol Life](https://www.youtube.com/@SolLife_)
+- [Speak About Digital](https://www.youtube.com/@SpeakAboutDigital)
+- [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
+- [Steve | Call to Leap](https://www.youtube.com/@CalltoLeap)
+- [Sunny in Japan](https://www.youtube.com/@Sunny_in_Japan)
+- [Systems Made Better](https://www.youtube.com/@SystemsMadeBetter)
 - [Tailscale](https://www.youtube.com/@Tailscale)
-- [Terry Lee White](https://www.youtube.com/@TerryLeeWhite)
-- [The Taggart Institute](https://www.youtube.com/@TheTaggartInstitute)
-- [Top Gear](https://www.youtube.com/@TopGear)
+- [Takashi](https://www.youtube.com/@Takashi_teaches_Japanese)
+- [Take Better Photos](https://www.youtube.com/@takebetterphotos8132)
+- [Takes™ by Jamelle Bouie](https://www.youtube.com/@jamelle-bouie)
+- [Talk Python](https://www.youtube.com/@talkpython)
+- [Tastes Seoul Good테이스트서울굿](https://www.youtube.com/@TastesSEOULGood)
+- [Tetsu Sensei](https://www.youtube.com/@tetsusenseidesuyo)
+- [The Bitchuation Room (with Francesca Fiorentini)](https://www.youtube.com/@franifio)
+- [THE RACE](https://www.youtube.com/@WeAreTheRace)
+- [The Race Podcasts](https://www.youtube.com/@TheRacePodcasts)
+- [The Unretirees](https://www.youtube.com/@TheUnretirees)
+- [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
+- [thesecretsofcats](https://www.youtube.com/@thesecretsofcats)
+- [Timing for Mac](https://www.youtube.com/@timingapp)
+- [TK-42Greg](https://www.youtube.com/@TK42Greg.Outpost)
+- [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
+- [Tokyo Cheapo](https://www.youtube.com/@tokyocheapo)
+- [Traveling with Kristin](https://www.youtube.com/@TravelingwithKristin)
+- [Trenton](https://www.youtube.com/@%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%B3)
+- [Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
+- [Vickie Ip](https://www.youtube.com/@VickieIp)
+- [WAKU WAKU JAPANESE](https://www.youtube.com/@wakuwakujapanese)
+- [Walking Alice](https://www.youtube.com/@WalkingAlice)
+- [Wanderloots](https://www.youtube.com/@Wanderloots)
+- [wrongdog reckons](https://www.youtube.com/@wrongdog_reckons)
+- [Yamada Anthony](https://www.youtube.com/@Anchaninjapan)
+- [Yuge Office Japan VISA TV](https://www.youtube.com/@JapanVisaTv)
+- [Yuka Ohishi](https://www.youtube.com/@YukaOhishi)
+- [Yuka Ohishi](https://www.youtube.com/@yuka)
+- [Yuko Sensei](https://www.youtube.com/@YukoSensei)
+- [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+- [おにぎりんの日本語 Onigirin Japanese Language](https://www.youtube.com/@OnigirinJapaneseLanguage)
+- [ながらAI - usutaku&gomichan](https://www.youtube.com/@nagaraAI)
+- [ほのぼの Honobono Japanese Podcast](https://www.youtube.com/@JapaneseHonobonopodcast)
+- [ガジェットモ](https://www.youtube.com/@gadgetomo)
+- [マメ](https://www.youtube.com/@jetdaizu)
+- [성시경 SUNG SI KYUNG](https://www.youtube.com/@sungsikyung)
 
 ## It's All About Me
 
