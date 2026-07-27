@@ -1,7 +1,7 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-07-27T08:27:20-08:00"
+date: "2026-07-27T08:30:54-08:00"
 slug: "now"
 ---
 
@@ -39,7 +39,7 @@ slug: "now"
 ### Movies
 
 [<span hidden>The Odyssey • 2026 • Christopher Nolan • A story of loyalty, courage, cowardice, greed, selflessness, and ultimately the ending you all know and love. This was so well done. Throw your Matt Damon preconceptions out the window. Tom Holland and Anne Hathaway were also brilliant. *****</span>
-![The Odyssey • 2026 • Christopher Nolan • A story of loyalty, courage, cowardice, greed, selflessness, and ultimately the ending you all know and love. This was so well done. Throw your Matt Damon preconceptions out the window. Tom Holland and Anne Hathaway were also brilliant. *****](../../assets/images/posts/png-image4793ae8df80-review-868efa55-3add-424c-8f87-fc621528be8f.png)](/images/posts/png-image4793ae8df80-review-868efa55-3add-424c-8f87-fc621528be8f.jpg)
+![The Odyssey • 2026 • Christopher Nolan • A story of loyalty, courage, cowardice, greed, selflessness, and ultimately the ending you all know and love. This was so well done. Throw your Matt Damon preconceptions out the window. Tom Holland and Anne Hathaway were also brilliant. *****](../../assets/images/posts/png-image4d96b34db30-review-ff2c3832-0348-44a3-894e-87ba21e2a550.png)](/images/posts/png-image4d96b34db30-review-ff2c3832-0348-44a3-894e-87ba21e2a550.jpg)
 
 ### TV Shows
 
