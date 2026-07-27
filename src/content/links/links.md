@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-07-23T23:22:46-08:00"
+date: "2026-07-27T08:27:20-08:00"
 slug: "links"
 ---
 
@@ -580,6 +580,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Fruit Specs: Searchable Apple Products Features Database](https://fruitspecs.com/)
 - [Game Dad Club](https://gamedad.club/)
 - [Gossip’s Web](https://gossipsweb.net/)
+- [Guide Fari](https://guidefari.com)
 - [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)
 - [Hide a message in an emoji](https://emoji.paulbutler.org/?mode=decode)
 - [how to use the subway by q1](https://frogmen.itch.io/subway)

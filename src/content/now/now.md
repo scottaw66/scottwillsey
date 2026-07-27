@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-07-23T23:22:46-08:00"
+date: "2026-07-27T08:27:20-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> I'm starting to enjoy the laughably slow runs I've been doing lately. I'm no Peter, but hey... it's a nice change of pace for the cardio part of my fitness routine, and I'm doing it!
+> Watched the Odyssey in 70mm at Hollywood Theater in Portland. Review below!
 
 ## Current Projects
 
-- Working on a software venture with Peter (mostly for fun, but also for beer money).
+- Multiple apps coming. Multiple sites coming. Multiple things I'm way too far behind on, personally and professionally!
 
 ## Stuff I've recently enjoyed
 
@@ -21,16 +21,16 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![Who Framed Roger Rabbit - Caravan Of Garbage](../../assets/images/oc_artwork/3737328420593699-ad0f9c6c-c1f9-40c9-a1dd-5ef9fac65033.png)](https://overcast.fm/+1HFJTrICM) [The Weekly Planet – Who Framed Roger Rabbit - Caravan Of Garbage](https://overcast.fm/+1HFJTrICM)
-![In-Car Insights: Upgrades, ‘deep code’ and calendar changes on Hungary day one](../../assets/images/oc_artwork/5523677608860735-767b26a7-8ff0-4c75-8101-70e67004e854.png) The Race F1 Podcast (Members) – In-Car Insights: Upgrades, ‘deep code’ and calendar changes on Hungary day one
-![🍿 Film Club: Did ‘Red 5’ change Matt’s mind on Nigel Mansell?](../../assets/images/oc_artwork/5523677432148923-4f6807bf-9e58-41b2-b305-2f7fc7847887.png) The Race F1 Podcast (Members) – 🍿 Film Club: Did ‘Red 5’ change Matt’s mind on Nigel Mansell?
-[![701: I Improved My Town](../../assets/images/oc_artwork/5585879133255523-a4d36ae7-f9ee-4ad9-bbeb-ecff28d946bf.png)](https://atp.fm/701) [Accidental Tech Podcast: Unedited Live Stream – 701: I Improved My Town](https://atp.fm/701)
-[![The Robberiest Robber Baron: The Villainy of Jay Gould](../../assets/images/oc_artwork/5798099764259637-bf73a209-a619-4c5b-bdb0-739d0025429c.png)](https://overcast.fm/+BSZV0zSKzU) [Business History – The Robberiest Robber Baron: The Villainy of Jay Gould](https://overcast.fm/+BSZV0zSKzU)
-[![Risky Business #845 — OpenAI’s Skynet moment](../../assets/images/oc_artwork/613330824281488-986e3010-8e2b-4d7a-8a63-91780117de84.png)](https://overcast.fm/+It0jXpPZA) [Risky Business – Risky Business #845 — OpenAI’s Skynet moment](https://overcast.fm/+It0jXpPZA)
-![Why Hungary weekend is make or break for Alonso (ad free)](../../assets/images/oc_artwork/5523677556881501-ca90a652-5814-404f-b3e6-fafb11b6e64a.png) The Race F1 Podcast (Members) – Why Hungary weekend is make or break for Alonso (ad free)
-![Flock is Tracking People, Not Just Cars](../../assets/images/oc_artwork/5121672190647258-915e2966-2745-46cf-ac9f-261560f6601a.png) The 404 Media Podcast (Premium Feed) – Flock is Tracking People, Not Just Cars
-[![2026年7月20日: Kimi k3、Gemini Spark、Codex Micro発表！AIハードウェアも登場](../../assets/images/oc_artwork/5451521698803008-42aadd65-7b61-4726-9632-998feb9756f5.png)](https://overcast.fm/+BNeIU5XrUA) [ながらAIラジオ – 2026年7月20日: Kimi k3、Gemini Spark、Codex Micro発表！AIハードウェアも登場](https://overcast.fm/+BNeIU5XrUA)
-[![How to Manage Your Sales Manager](../../assets/images/oc_artwork/1682926971290727-bca9f6c7-9c1a-41f7-814c-33e3731f4192.png)](https://overcast.fm/+X6nPhOhGc) [Sales Logic - Selling Strategies That Work – How to Manage Your Sales Manager](https://overcast.fm/+X6nPhOhGc)
+[![Update All the Things](../../assets/images/oc_artwork/1107266887628897-637d951e-c1f6-4faf-8326-b053422d1b52.png)](https://overcast.fm/+PvDamCOGE) [Firewalls Don't Stop Dragons Podcast – Update All the Things](https://overcast.fm/+PvDamCOGE)
+[![Only One Person Being Strangled](../../assets/images/oc_artwork/5130549785249042-5da6638a-2767-4dc0-9a3e-8c8d4aa3d7fe.png)](https://overcast.fm/+BI6NTVzxRI) [Comfort Zone – Only One Person Being Strangled](https://overcast.fm/+BI6NTVzxRI)
+![What Apple’s OpenAI lawsuit is really about](../../assets/images/oc_artwork/5816355481979414-b3c9e7f0-e8f0-4c1c-a2fc-fc78e376b281.png) Decoder: Ad-Free Edition – What Apple’s OpenAI lawsuit is really about
+![How This Man Got the World’s Location Data](../../assets/images/oc_artwork/5121671282205886-52a16991-1eea-4cd9-81bf-bec03176e891.png) The 404 Media Podcast (Premium Feed) – How This Man Got the World’s Location Data
+[![702: Isolate the Evil](../../assets/images/oc_artwork/5585879248325774-6f038141-8a2f-415d-884c-a2eb553faec0.png)](https://atp.fm/702) [Accidental Tech Podcast: Unedited Live Stream – 702: Isolate the Evil](https://atp.fm/702)
+![In-Car Insights: Edd, Jon and Josh actually in a car this time, on qualifying](../../assets/images/oc_artwork/5523677931967683-6cb7fe6f-ae0b-40f4-9d58-65f5ca5db07b.png) The Race F1 Podcast (Members) – In-Car Insights: Edd, Jon and Josh actually in a car this time, on qualifying
+[![701: I Improved My Town](../../assets/images/oc_artwork/5585876566790580-51f60e3a-5d7b-439d-b307-723994591d02.png)](https://atp.fm/701) [Accidental Tech Podcast – 701: I Improved My Town](https://atp.fm/701)
+![A Long Journey Home](../../assets/images/oc_artwork/4973305636116933-c16d0ad9-791a-4c8e-a8ad-a39deceaaee2.png) MacStories Unwind+ – A Long Journey Home
+![(Not) In-Car Insights: Edd and Josh on Aston’s promising start with its upgraded car](../../assets/images/oc_artwork/5523677926671144-9efc42cd-d5fc-45e9-9d01-a4f1992a7ecc.png) The Race F1 Podcast (Members) – (Not) In-Car Insights: Edd and Josh on Aston’s promising start with its upgraded car
+[![452: ‘A Scam Held Together With Patriotism and Golden Paint’, With Quinn Nelson](../../assets/images/oc_artwork/135464233411501-381c4cfb-cd7c-47c6-a3e9-3b59078977c5.png)](https://overcast.fm/+B7NDmDI60) [The Talk Show With John Gruber – 452: ‘A Scam Held Together With Patriotism and Golden Paint’, With Quinn Nelson](https://overcast.fm/+B7NDmDI60)
 
 </div>
 
@@ -38,8 +38,13 @@ slug: "now"
 
 ### Movies
 
-[<span hidden>Nobody 2 • 2025 • Timo Tjahjanto • I wanted to at least enjoy this as a piece of mindless entertainment. The problem is it's too dumb to be mindless. This is probably the stupidest movie I've ever seen, and I've seen some stupid movies. *</span>
-![Nobody 2 • 2025 • Timo Tjahjanto • I wanted to at least enjoy this as a piece of mindless entertainment. The problem is it's too dumb to be mindless. This is probably the stupidest movie I've ever seen, and I've seen some stupid movies. *](../../assets/images/posts/png-image4725917c6f0-review-84793152-5b89-41bf-bf96-14141079d676.png)](/images/posts/png-image4725917c6f0-review-84793152-5b89-41bf-bf96-14141079d676.jpg)
+[<span hidden>The Odyssey • 2026 • Christopher Nolan • A story of loyalty, courage, cowardice, greed, selflessness, and ultimately the ending you all know and love. This was so well done. Throw your Matt Damon preconceptions out the window. Tom Holland and Anne Hathaway were also brilliant. *****</span>
+![The Odyssey • 2026 • Christopher Nolan • A story of loyalty, courage, cowardice, greed, selflessness, and ultimately the ending you all know and love. This was so well done. Throw your Matt Damon preconceptions out the window. Tom Holland and Anne Hathaway were also brilliant. *****](../../assets/images/posts/png-image4793ae8df80-review-868efa55-3add-424c-8f87-fc621528be8f.png)](/images/posts/png-image4793ae8df80-review-868efa55-3add-424c-8f87-fc621528be8f.jpg)
+
+### TV Shows
+
+[<span hidden>Maximum Pleasure Guaranteed • 2026 • S1 Review • I had no idea what to expect, but I love this show. It's funny and suspenseful, and there are plenty of people to like and plenty to hate. An excellent, excellent show. *****</span>
+![Maximum Pleasure Guaranteed • 2026 • S1 Review • I had no idea what to expect, but I love this show. It's funny and suspenseful, and there are plenty of people to like and plenty to hate. An excellent, excellent show. *****](../../assets/images/posts/png-image4866af42760-review-eef99e4b-26e1-460d-9c87-0f8183fc137a.png)](/images/posts/png-image4866af42760-review-eef99e4b-26e1-460d-9c87-0f8183fc137a.jpg)
 
 </div>
 
@@ -49,98 +54,106 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_19GzYwyhgYU.png](../../assets/images/yt_thumbs/20260723224923_19GzYwyhgYU.png)](https://www.youtube.com/watch?v=19GzYwyhgYU&t=313s&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
-[They just posted it..](https://www.youtube.com/watch?v=19GzYwyhgYU&t=313s&pp=0gcJCaMLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260727080317_tGhT_d9QDAQ.png](../../assets/images/yt_thumbs/20260727080317_tGhT_d9QDAQ.png)](https://www.youtube.com/watch?v=tGhT_d9QDAQ&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Disasterthon - True Horror](https://www.youtube.com/@DisasterthonTrueHorror)</p><p class="yt-video-title">
+[The INFAMOUS Death of Sam Fenech | Caught on Camera](https://www.youtube.com/watch?v=tGhT_d9QDAQ&pp=0gcJCaMLAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_32iH1WBJbJo.png](../../assets/images/yt_thumbs/20260723224923_32iH1WBJbJo.png)](https://www.youtube.com/watch?v=32iH1WBJbJo)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Oh no...](https://www.youtube.com/watch?v=32iH1WBJbJo)
+[![../../assets/images/yt_thumbs/20260727080317_UfN4l2yCT54.png](../../assets/images/yt_thumbs/20260727080317_UfN4l2yCT54.png)](https://www.youtube.com/watch?v=UfN4l2yCT54&t=137s)<div><p class="yt-video-channel">Channel – [Simon Scrapes](https://www.youtube.com/@simonscrapes)</p><p class="yt-video-title">
+[5 Claude Cowork Scheduled Tasks (For Business Owners With No Time)](https://www.youtube.com/watch?v=UfN4l2yCT54&t=137s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_jbiMx17fEK0.png](../../assets/images/yt_thumbs/20260723224923_jbiMx17fEK0.png)](https://www.youtube.com/watch?v=jbiMx17fEK0)<div><p class="yt-video-channel">Channel – [Brock Mesarich | AI for Non Techies](https://www.youtube.com/@BrockMesarich)</p><p class="yt-video-title">
-[Anthropic Just Changed How We Build Skills Forever (screen record)](https://www.youtube.com/watch?v=jbiMx17fEK0)
+[![../../assets/images/yt_thumbs/20260727080317__Aa3d1DOxrk.png](../../assets/images/yt_thumbs/20260727080317__Aa3d1DOxrk.png)](https://www.youtube.com/watch?v=_Aa3d1DOxrk)<div><p class="yt-video-channel">Channel – [Disasterthon - True Horror](https://www.youtube.com/@DisasterthonTrueHorror)</p><p class="yt-video-title">
+[The Dropped Reality TV Show Disaster | Caught on Camera](https://www.youtube.com/watch?v=_Aa3d1DOxrk)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_aTSW5WqD7iY.png](../../assets/images/yt_thumbs/20260723224923_aTSW5WqD7iY.png)](https://www.youtube.com/watch?v=aTSW5WqD7iY)<div><p class="yt-video-channel">Channel – [Wild-ish](https://www.youtube.com/@wild-ish)</p><p class="yt-video-title">
-[Mountain Goat Gatecrashes Vertical Cliff Climb](https://www.youtube.com/watch?v=aTSW5WqD7iY)
+[![../../assets/images/yt_thumbs/20260727080317_g79GPZSQHBk.png](../../assets/images/yt_thumbs/20260727080317_g79GPZSQHBk.png)](https://www.youtube.com/watch?v=g79GPZSQHBk&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Apple TV](https://www.youtube.com/@AppleTV)</p><p class="yt-video-title">
+[Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk&pp=0gcJCaMLAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_w8fxabvGV5Q.png](../../assets/images/yt_thumbs/20260723224923_w8fxabvGV5Q.png)](https://www.youtube.com/watch?v=w8fxabvGV5Q)<div><p class="yt-video-channel">Channel – [Jacob Chase](https://www.youtube.com/@JacobChaseMovies)</p><p class="yt-video-title">
-[Cat vs. Deer (Without Music)](https://www.youtube.com/watch?v=w8fxabvGV5Q)
+[![../../assets/images/yt_thumbs/20260727080317_A2-IqB7CLI0.png](../../assets/images/yt_thumbs/20260727080317_A2-IqB7CLI0.png)](https://www.youtube.com/watch?v=A2-IqB7CLI0)<div><p class="yt-video-channel">Channel – [Osa The Cat](https://www.youtube.com/@OsaTheCat)</p><p class="yt-video-title">
+[MMRRRAOW!](https://www.youtube.com/watch?v=A2-IqB7CLI0)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_xaE-3Oin7LI.png](../../assets/images/yt_thumbs/20260723224923_xaE-3Oin7LI.png)](https://www.youtube.com/watch?v=xaE-3Oin7LI)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
-[Peter Drinks Coffee at Vanilla Gorilla on 8th Ave in NYC](https://www.youtube.com/watch?v=xaE-3Oin7LI)
+[![../../assets/images/yt_thumbs/20260727080317_b8O4KFCCCV8.png](../../assets/images/yt_thumbs/20260727080317_b8O4KFCCCV8.png)](https://www.youtube.com/watch?v=b8O4KFCCCV8&t=53s)<div><p class="yt-video-channel">Channel – [Superlinear](https://www.youtube.com/@Superlinear_fm)</p><p class="yt-video-title">
+[Point, Don’t Describe: A Better Way to Work With AI Agents](https://www.youtube.com/watch?v=b8O4KFCCCV8&t=53s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_ikxxjRWX0Yg.png](../../assets/images/yt_thumbs/20260723224923_ikxxjRWX0Yg.png)](https://www.youtube.com/watch?v=ikxxjRWX0Yg)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
-[Do not talk to Claude's new voice mode](https://www.youtube.com/watch?v=ikxxjRWX0Yg)
+[![../../assets/images/yt_thumbs/20260727080317_VmIhRVJt5ac.png](../../assets/images/yt_thumbs/20260727080317_VmIhRVJt5ac.png)](https://www.youtube.com/watch?v=VmIhRVJt5ac)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
+[Drivers React To Qualifying | 2026 Hungarian Grand Prix](https://www.youtube.com/watch?v=VmIhRVJt5ac)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_2o5fnl6HwiI.png](../../assets/images/yt_thumbs/20260723224923_2o5fnl6HwiI.png)](https://www.youtube.com/watch?v=2o5fnl6HwiI)<div><p class="yt-video-channel">Channel – [Austin](https://www.youtube.com/@austinsadventures808)</p><p class="yt-video-title">
-[Why most foreigners leave Japan](https://www.youtube.com/watch?v=2o5fnl6HwiI)
+[![../../assets/images/yt_thumbs/20260727080317_SWsQhYtkn2A.png](../../assets/images/yt_thumbs/20260727080317_SWsQhYtkn2A.png)](https://www.youtube.com/watch?v=SWsQhYtkn2A)<div><p class="yt-video-channel">Channel – [Northern Crimes](https://www.youtube.com/@northerncrimes)</p><p class="yt-video-title">
+[5 Disturbing Crimes from Oregon](https://www.youtube.com/watch?v=SWsQhYtkn2A)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_S9_aYPsiUTw.png](../../assets/images/yt_thumbs/20260723224923_S9_aYPsiUTw.png)](https://www.youtube.com/watch?v=S9_aYPsiUTw&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Into the Shadows](https://www.youtube.com/@IntotheShadows)</p><p class="yt-video-title">
-[The Challenger Explosion Was So Much Worse Than You Think](https://www.youtube.com/watch?v=S9_aYPsiUTw&pp=0gcJCaMLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260727080317_ZbE9VhYST-Y.png](../../assets/images/yt_thumbs/20260727080317_ZbE9VhYST-Y.png)](https://www.youtube.com/watch?v=ZbE9VhYST-Y)<div><p class="yt-video-channel">Channel – [NPR](https://www.youtube.com/@NPR)</p><p class="yt-video-title">
+[McConnell breaks weeks of silence, says fall led to hospitalization](https://www.youtube.com/watch?v=ZbE9VhYST-Y)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_yiSy4wSygmI.png](../../assets/images/yt_thumbs/20260723224923_yiSy4wSygmI.png)](https://www.youtube.com/watch?v=yiSy4wSygmI&t=8s)<div><p class="yt-video-channel">Channel – [F1PrivateJetSpotter](https://www.youtube.com/@F1PrivateJetSpotter)</p><p class="yt-video-title">
-[F1 Drivers Departing in Private Jets | Belgian Grand Prix Spa Francorchamps 2026](https://www.youtube.com/watch?v=yiSy4wSygmI&t=8s)
+[![../../assets/images/yt_thumbs/20260727080317_cIgoqAy_Vs8.png](../../assets/images/yt_thumbs/20260727080317_cIgoqAy_Vs8.png)](https://www.youtube.com/watch?v=cIgoqAy_Vs8&t=2447s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Opus 5 is my new go-to model](https://www.youtube.com/watch?v=cIgoqAy_Vs8&t=2447s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_TlioXObelHU.png](../../assets/images/yt_thumbs/20260723224923_TlioXObelHU.png)](https://www.youtube.com/watch?v=TlioXObelHU&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [fern](https://www.youtube.com/@fern-tv)</p><p class="yt-video-title">
-[The Truth About fern](https://www.youtube.com/watch?v=TlioXObelHU&pp=0gcJCaMLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260727080317_T-xxqQR3Epk.png](../../assets/images/yt_thumbs/20260727080317_T-xxqQR3Epk.png)](https://www.youtube.com/watch?v=T-xxqQR3Epk&t=406s)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
+[Everyone's talking about THIS moment..](https://www.youtube.com/watch?v=T-xxqQR3Epk&t=406s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260723224923_YU11ZI9QzbQ.png](../../assets/images/yt_thumbs/20260723224923_YU11ZI9QzbQ.png)](https://www.youtube.com/watch?v=YU11ZI9QzbQ&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)</p><p class="yt-video-title">
-[Pilot Throws Tantrum on ATC Frequency — SHUTS DOWN LAX Departures?!](https://www.youtube.com/watch?v=YU11ZI9QzbQ&pp=0gcJCaMLAYcqIYzv)
+[![../../assets/images/yt_thumbs/20260727080317_Ym4pH7SO4P8.png](../../assets/images/yt_thumbs/20260727080317_Ym4pH7SO4P8.png)](https://www.youtube.com/watch?v=Ym4pH7SO4P8&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Bibi Doggo](https://www.youtube.com/@BibiDoggo)</p><p class="yt-video-title">
+[My Golden Retriever Completely Changed This Terrified Rescue Kitten in Their First Meeting!](https://www.youtube.com/watch?v=Ym4pH7SO4P8&pp=0gcJCaMLAYcqIYzv)
 </p></div>
 
 </div>
+
+</div>
+
+### Food
+
+<div class="food">
+
+[![Must-Visit Korean Restaurant in Hollywood, OR | Chimcking](../../assets/images/food_thumbs/ChimcKing-BBE57F58-F026-4735-BBBE-BBEC6E0DECDC.png)](https://chimckingusa.com) [Must-Visit Korean Restaurant in Hollywood, OR | Chimcking](https://chimckingusa.com)
 
 </div>
