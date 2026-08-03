@@ -1,17 +1,17 @@
 ---
 title: "Now (or Recently)"
 description: Things I'm doing or find interesting now (or recently)
-date: "2026-07-27T08:30:54-08:00"
+date: "2026-08-02T23:19:37-08:00"
 slug: "now"
 ---
 
 ## Current Personal Status
 >
-> Watched the Odyssey in 70mm at Hollywood Theater in Portland. Review below!
+> Some work related things may be slowly coming together. Woot, woot! All in the service of trying to give my family more options in life!
 
 ## Current Projects
 
-- Multiple apps coming. Multiple sites coming. Multiple things I'm way too far behind on, personally and professionally!
+- Testing my iOS apps with iOS 27 beta. Some interesting observations already.
 
 ## Stuff I've recently enjoyed
 
@@ -21,16 +21,17 @@ slug: "now"
 
 <div class="podcast-episodes">
 
-[![Update All the Things](../../assets/images/oc_artwork/1107266887628897-637d951e-c1f6-4faf-8326-b053422d1b52.png)](https://overcast.fm/+PvDamCOGE) [Firewalls Don't Stop Dragons Podcast – Update All the Things](https://overcast.fm/+PvDamCOGE)
-[![Only One Person Being Strangled](../../assets/images/oc_artwork/5130549785249042-5da6638a-2767-4dc0-9a3e-8c8d4aa3d7fe.png)](https://overcast.fm/+BI6NTVzxRI) [Comfort Zone – Only One Person Being Strangled](https://overcast.fm/+BI6NTVzxRI)
-![What Apple’s OpenAI lawsuit is really about](../../assets/images/oc_artwork/5816355481979414-b3c9e7f0-e8f0-4c1c-a2fc-fc78e376b281.png) Decoder: Ad-Free Edition – What Apple’s OpenAI lawsuit is really about
-![How This Man Got the World’s Location Data](../../assets/images/oc_artwork/5121671282205886-52a16991-1eea-4cd9-81bf-bec03176e891.png) The 404 Media Podcast (Premium Feed) – How This Man Got the World’s Location Data
-[![702: Isolate the Evil](../../assets/images/oc_artwork/5585879248325774-6f038141-8a2f-415d-884c-a2eb553faec0.png)](https://atp.fm/702) [Accidental Tech Podcast: Unedited Live Stream – 702: Isolate the Evil](https://atp.fm/702)
-![In-Car Insights: Edd, Jon and Josh actually in a car this time, on qualifying](../../assets/images/oc_artwork/5523677931967683-6cb7fe6f-ae0b-40f4-9d58-65f5ca5db07b.png) The Race F1 Podcast (Members) – In-Car Insights: Edd, Jon and Josh actually in a car this time, on qualifying
-[![701: I Improved My Town](../../assets/images/oc_artwork/5585876566790580-51f60e3a-5d7b-439d-b307-723994591d02.png)](https://atp.fm/701) [Accidental Tech Podcast – 701: I Improved My Town](https://atp.fm/701)
-![A Long Journey Home](../../assets/images/oc_artwork/4973305636116933-c16d0ad9-791a-4c8e-a8ad-a39deceaaee2.png) MacStories Unwind+ – A Long Journey Home
-![(Not) In-Car Insights: Edd and Josh on Aston’s promising start with its upgraded car](../../assets/images/oc_artwork/5523677926671144-9efc42cd-d5fc-45e9-9d01-a4f1992a7ecc.png) The Race F1 Podcast (Members) – (Not) In-Car Insights: Edd and Josh on Aston’s promising start with its upgraded car
-[![452: ‘A Scam Held Together With Patriotism and Golden Paint’, With Quinn Nelson](../../assets/images/oc_artwork/135464233411501-381c4cfb-cd7c-47c6-a3e9-3b59078977c5.png)](https://overcast.fm/+B7NDmDI60) [The Talk Show With John Gruber – 452: ‘A Scam Held Together With Patriotism and Golden Paint’, With Quinn Nelson](https://overcast.fm/+B7NDmDI60)
+![Summer Projects: Automation, Email, and Dictation](../../assets/images/oc_artwork/5991025737658565-95b1c17b-bd26-43b5-bbd9-89c7e9ea8b70.png) AppStories+ (private members feed) – Summer Projects: Automation, Email, and Dictation
+[![Baseball Boy](../../assets/images/oc_artwork/6243455470706036-2d89e8ff-0a93-4107-ac41-2d7640da7dc7.png)](https://overcast.fm/+BYuY8GAnXQ) [The Betrayal of Shohei Ohtani – Baseball Boy](https://overcast.fm/+BYuY8GAnXQ)
+[![The Interview](../../assets/images/oc_artwork/6243456386416915-374f1876-334b-4e68-a056-f6c3791b0979.png)](https://overcast.fm/+BYuY_gVQRM) [The Betrayal of Shohei Ohtani – The Interview](https://overcast.fm/+BYuY_gVQRM)
+[![The Letter O](../../assets/images/oc_artwork/6243455903414727-00b43c8a-17e9-4ae0-974c-d62b36484601.png)](https://overcast.fm/+BYuY9tLOcc) [The Betrayal of Shohei Ohtani – The Letter O](https://overcast.fm/+BYuY9tLOcc)
+[![Introducing: The Betrayal of Shohei Ohtani](../../assets/images/oc_artwork/6243455542223514-0a7b5bfd-7321-4c84-b73e-4811a4983964.png)](https://overcast.fm/+BYuY8XD4po) [The Betrayal of Shohei Ohtani – Introducing: The Betrayal of Shohei Ohtani](https://overcast.fm/+BYuY8XD4po)
+[![Analog Devices breach, Copilot AI worm, Teams ransomware vishing](../../assets/images/oc_artwork/5857777096977169-7b8a6f82-8414-41e5-b484-be62fa49aefa.png)](https://overcast.fm/+BTPngMJ6xE) [Cybersecurity Headlines – Analog Devices breach, Copilot AI worm, Teams ransomware vishing](https://overcast.fm/+BTPngMJ6xE)
+![Former Flock Employee Speaks Out: Says He Was ‘Lied To’](../../assets/images/oc_artwork/5121671383534438-73bcbbec-334e-4e36-aa30-6d44922b6f45.png) The 404 Media Podcast (Premium Feed) – Former Flock Employee Speaks Out: Says He Was ‘Lied To’
+![🍿 Film Club: Rubbin’ is racin’? Edd and Val re-watch 1990’s Days of Thunder!](../../assets/images/oc_artwork/5523677533137857-399f22a0-5498-42e1-8de6-4aeb4ad08113.png) The Race F1 Podcast (Members) – 🍿 Film Club: Rubbin’ is racin’? Edd and Val re-watch 1990’s Days of Thunder!
+[![453: ‘What’s in Louie’s Wallet’, With Louie Mantia](../../assets/images/oc_artwork/135463813470525-9dfe0c4d-a6a7-4025-84d2-2ffd75b48fa9.png)](https://overcast.fm/+B7NCB7WT0) [The Talk Show With John Gruber – 453: ‘What’s in Louie’s Wallet’, With Louie Mantia](https://overcast.fm/+B7NCB7WT0)
+[![2026年7月27日: AIキルスイッチ法案にFable 5、最新AIモデル続々登場！ベンチマークテストも解説](../../assets/images/oc_artwork/5451522267881834-5d32fa38-1657-4885-8374-f90e426e8427.png)](https://overcast.fm/+BNeIXBDIWo) [ながらAIラジオ – 2026年7月27日: AIキルスイッチ法案にFable 5、最新AIモデル続々登場！ベンチマークテストも解説](https://overcast.fm/+BNeIXBDIWo)
+
 
 </div>
 
@@ -54,96 +55,119 @@ slug: "now"
 
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_tGhT_d9QDAQ.png](../../assets/images/yt_thumbs/20260727080317_tGhT_d9QDAQ.png)](https://www.youtube.com/watch?v=tGhT_d9QDAQ&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Disasterthon - True Horror](https://www.youtube.com/@DisasterthonTrueHorror)</p><p class="yt-video-title">
-[The INFAMOUS Death of Sam Fenech | Caught on Camera](https://www.youtube.com/watch?v=tGhT_d9QDAQ&pp=0gcJCaMLAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260802231432_ZbFkZLTX1W0.png](../../assets/images/yt_thumbs/20260802231432_ZbFkZLTX1W0.png)](https://www.youtube.com/watch?v=ZbFkZLTX1W0)<div><p class="yt-video-channel">Channel – [ABC News](https://www.youtube.com/@ABCNews)</p><p class="yt-video-title">
+[The scandal that rocked the baseball world and Shohei Ohtani's career](https://www.youtube.com/watch?v=ZbFkZLTX1W0)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_UfN4l2yCT54.png](../../assets/images/yt_thumbs/20260727080317_UfN4l2yCT54.png)](https://www.youtube.com/watch?v=UfN4l2yCT54&t=137s)<div><p class="yt-video-channel">Channel – [Simon Scrapes](https://www.youtube.com/@simonscrapes)</p><p class="yt-video-title">
-[5 Claude Cowork Scheduled Tasks (For Business Owners With No Time)](https://www.youtube.com/watch?v=UfN4l2yCT54&t=137s)
+
+[![../../assets/images/yt_thumbs/20260802231432_M8PYheAsWNs.png](../../assets/images/yt_thumbs/20260802231432_M8PYheAsWNs.png)](https://www.youtube.com/watch?v=M8PYheAsWNs&t=68s)<div><p class="yt-video-channel">Channel – [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)</p><p class="yt-video-title">
+[Can We Escape From Typhoons?](https://www.youtube.com/watch?v=M8PYheAsWNs&t=68s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317__Aa3d1DOxrk.png](../../assets/images/yt_thumbs/20260727080317__Aa3d1DOxrk.png)](https://www.youtube.com/watch?v=_Aa3d1DOxrk)<div><p class="yt-video-channel">Channel – [Disasterthon - True Horror](https://www.youtube.com/@DisasterthonTrueHorror)</p><p class="yt-video-title">
-[The Dropped Reality TV Show Disaster | Caught on Camera](https://www.youtube.com/watch?v=_Aa3d1DOxrk)
+
+[![../../assets/images/yt_thumbs/20260802231432_FHymFD5HC9s.png](../../assets/images/yt_thumbs/20260802231432_FHymFD5HC9s.png)](https://www.youtube.com/watch?v=FHymFD5HC9s)<div><p class="yt-video-channel">Channel – [Sam and Victor](https://www.youtube.com/@SamandVictor)</p><p class="yt-video-title">
+[3 days in tokyo (for introverts)](https://www.youtube.com/watch?v=FHymFD5HC9s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_g79GPZSQHBk.png](../../assets/images/yt_thumbs/20260727080317_g79GPZSQHBk.png)](https://www.youtube.com/watch?v=g79GPZSQHBk&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Apple TV](https://www.youtube.com/@AppleTV)</p><p class="yt-video-title">
-[Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk&pp=0gcJCaMLAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260802231432_yBYodscUKq8.png](../../assets/images/yt_thumbs/20260802231432_yBYodscUKq8.png)](https://www.youtube.com/watch?v=yBYodscUKq8&t=590s)<div><p class="yt-video-channel">Channel – [mthtravel](https://www.youtube.com/@mthtravel)</p><p class="yt-video-title">
+[3 days in Kagoshima solo - Japan Vlog - Sakurajima, Sengan-en, Ibusuki, Cape Nagasakibana - 鹿児島](https://www.youtube.com/watch?v=yBYodscUKq8&t=590s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_A2-IqB7CLI0.png](../../assets/images/yt_thumbs/20260727080317_A2-IqB7CLI0.png)](https://www.youtube.com/watch?v=A2-IqB7CLI0)<div><p class="yt-video-channel">Channel – [Osa The Cat](https://www.youtube.com/@OsaTheCat)</p><p class="yt-video-title">
-[MMRRRAOW!](https://www.youtube.com/watch?v=A2-IqB7CLI0)
+
+[![../../assets/images/yt_thumbs/20260802231432_vA_U07ikxvs.png](../../assets/images/yt_thumbs/20260802231432_vA_U07ikxvs.png)](https://www.youtube.com/watch?v=vA_U07ikxvs&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Northern Crimes](https://www.youtube.com/@northerncrimes)</p><p class="yt-video-title">
+[The I-5 Murders](https://www.youtube.com/watch?v=vA_U07ikxvs&pp=0gcJCaMLAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_b8O4KFCCCV8.png](../../assets/images/yt_thumbs/20260727080317_b8O4KFCCCV8.png)](https://www.youtube.com/watch?v=b8O4KFCCCV8&t=53s)<div><p class="yt-video-channel">Channel – [Superlinear](https://www.youtube.com/@Superlinear_fm)</p><p class="yt-video-title">
-[Point, Don’t Describe: A Better Way to Work With AI Agents](https://www.youtube.com/watch?v=b8O4KFCCCV8&t=53s)
+
+[![../../assets/images/yt_thumbs/20260802231432_ius527aD1-4.png](../../assets/images/yt_thumbs/20260802231432_ius527aD1-4.png)](https://www.youtube.com/watch?v=ius527aD1-4)<div><p class="yt-video-channel">Channel – [Northern Crimes](https://www.youtube.com/@northerncrimes)</p><p class="yt-video-title">
+[The Bones in the Backyard I An Oregon Killer](https://www.youtube.com/watch?v=ius527aD1-4)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_VmIhRVJt5ac.png](../../assets/images/yt_thumbs/20260727080317_VmIhRVJt5ac.png)](https://www.youtube.com/watch?v=VmIhRVJt5ac)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Drivers React To Qualifying | 2026 Hungarian Grand Prix](https://www.youtube.com/watch?v=VmIhRVJt5ac)
+
+[![../../assets/images/yt_thumbs/20260802231432_BORHA3XGrtA.png](../../assets/images/yt_thumbs/20260802231432_BORHA3XGrtA.png)](https://www.youtube.com/watch?v=BORHA3XGrtA)<div><p class="yt-video-channel">Channel – [Into the Shadows](https://www.youtube.com/@IntotheShadows)</p><p class="yt-video-title">
+[Do People Really Remain Conscious When Guillotined?](https://www.youtube.com/watch?v=BORHA3XGrtA)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_SWsQhYtkn2A.png](../../assets/images/yt_thumbs/20260727080317_SWsQhYtkn2A.png)](https://www.youtube.com/watch?v=SWsQhYtkn2A)<div><p class="yt-video-channel">Channel – [Northern Crimes](https://www.youtube.com/@northerncrimes)</p><p class="yt-video-title">
-[5 Disturbing Crimes from Oregon](https://www.youtube.com/watch?v=SWsQhYtkn2A)
+
+[![../../assets/images/yt_thumbs/20260802231432_Tb7YyVbTYyA.png](../../assets/images/yt_thumbs/20260802231432_Tb7YyVbTYyA.png)](https://www.youtube.com/watch?v=Tb7YyVbTYyA&t=63s)<div><p class="yt-video-channel">Channel – [DQ Designer](https://www.youtube.com/@DQDesigner)</p><p class="yt-video-title">
+[RAW Footage 1/3: Paul Walker & Roger Rodas Crashed Porsche Carrera GT 0479](https://www.youtube.com/watch?v=Tb7YyVbTYyA&t=63s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_ZbE9VhYST-Y.png](../../assets/images/yt_thumbs/20260727080317_ZbE9VhYST-Y.png)](https://www.youtube.com/watch?v=ZbE9VhYST-Y)<div><p class="yt-video-channel">Channel – [NPR](https://www.youtube.com/@NPR)</p><p class="yt-video-title">
-[McConnell breaks weeks of silence, says fall led to hospitalization](https://www.youtube.com/watch?v=ZbE9VhYST-Y)
+
+[![../../assets/images/yt_thumbs/20260802231432_qIWpa582Pso.png](../../assets/images/yt_thumbs/20260802231432_qIWpa582Pso.png)](https://www.youtube.com/watch?v=qIWpa582Pso&t=1514s)<div><p class="yt-video-channel">Channel – [Systems Made Better](https://www.youtube.com/@SystemsMadeBetter)</p><p class="yt-video-title">
+[How I Sync One Claude CoWork Setup Across Every Device!](https://www.youtube.com/watch?v=qIWpa582Pso&t=1514s)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_cIgoqAy_Vs8.png](../../assets/images/yt_thumbs/20260727080317_cIgoqAy_Vs8.png)](https://www.youtube.com/watch?v=cIgoqAy_Vs8&t=2447s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Opus 5 is my new go-to model](https://www.youtube.com/watch?v=cIgoqAy_Vs8&t=2447s)
+
+[![../../assets/images/yt_thumbs/20260802231432_UBFHTHUs1wA.png](../../assets/images/yt_thumbs/20260802231432_UBFHTHUs1wA.png)](https://www.youtube.com/watch?v=UBFHTHUs1wA)<div><p class="yt-video-channel">Channel – [Duncan Rogoff | Learn Claude Code](https://www.youtube.com/@duncanrogoff)</p><p class="yt-video-title">
+[Anthropic Engineers Just Fixed Claude Code and Nobody's Talking About it!](https://www.youtube.com/watch?v=UBFHTHUs1wA)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_T-xxqQR3Epk.png](../../assets/images/yt_thumbs/20260727080317_T-xxqQR3Epk.png)](https://www.youtube.com/watch?v=T-xxqQR3Epk&t=406s)<div><p class="yt-video-channel">Channel – [Keith Edwards](https://www.youtube.com/@keithedwards)</p><p class="yt-video-title">
-[Everyone's talking about THIS moment..](https://www.youtube.com/watch?v=T-xxqQR3Epk&t=406s)
+
+[![../../assets/images/yt_thumbs/20260802231432_rYb_xSjx-Fw.png](../../assets/images/yt_thumbs/20260802231432_rYb_xSjx-Fw.png)](https://www.youtube.com/watch?v=rYb_xSjx-Fw&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Eric Tech](https://www.youtube.com/@EricWTech)</p><p class="yt-video-title">
+[Anthropic's New Rules Break Most Claude Code Setups](https://www.youtube.com/watch?v=rYb_xSjx-Fw&pp=0gcJCaMLAYcqIYzv)
 </p></div>
 
 </div>
 
+
 <div class="yt-video">
 
-[![../../assets/images/yt_thumbs/20260727080317_Ym4pH7SO4P8.png](../../assets/images/yt_thumbs/20260727080317_Ym4pH7SO4P8.png)](https://www.youtube.com/watch?v=Ym4pH7SO4P8&pp=0gcJCaMLAYcqIYzv)<div><p class="yt-video-channel">Channel – [Bibi Doggo](https://www.youtube.com/@BibiDoggo)</p><p class="yt-video-title">
-[My Golden Retriever Completely Changed This Terrified Rescue Kitten in Their First Meeting!](https://www.youtube.com/watch?v=Ym4pH7SO4P8&pp=0gcJCaMLAYcqIYzv)
+
+[![../../assets/images/yt_thumbs/20260802231432_3GT5Kb-4Iis.png](../../assets/images/yt_thumbs/20260802231432_3GT5Kb-4Iis.png)](https://www.youtube.com/watch?v=3GT5Kb-4Iis)<div><p class="yt-video-channel">Channel – [Alex & Ashley Adventures](https://www.youtube.com/@AlexAshleyAdventures)</p><p class="yt-video-title">
+[Kagoshima, Japan [4K]: The Hidden Gem of Kyushu](https://www.youtube.com/watch?v=3GT5Kb-4Iis)
 </p></div>
 
 </div>
