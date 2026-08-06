@@ -9,7 +9,8 @@
     "buildonly": "export NODE_ENV=production && astro build",
     "buildo": "npm run buildonly",
     "buildp": "npm run buildonly && npm run preview",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "ncu": "npx npm-check-updates"
   },
   "repository": {
     "type": "git",

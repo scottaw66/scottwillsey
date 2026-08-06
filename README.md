@@ -34,4 +34,4 @@ _All content &copy; 2026 by Scott Willsey_
 This site uses **npm**.
 
 - Install: `npm install`
-- Check for dependency updates: `npx npm-check-updates` (add `-u` to write the new versions to package.json, then `npm install`)
+- Check for dependency updates: `npm run ncu` (to apply them: `npm run ncu -- -u` — note the `--` — then `npm install`)
