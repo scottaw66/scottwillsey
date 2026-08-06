@@ -28,3 +28,10 @@ Astro is the fastest web development framework I've ever used, primarily because
 🪮 [Tailwind CSS](https://tailwindcss.com/) for MUCH easier handling of responsive views and quick UI and styling changes.
 
 _All content &copy; 2026 by Scott Willsey_
+
+## Package management
+
+This site uses **npm**.
+
+- Install: `npm install`
+- Check for dependency updates: `npx npm-check-updates` (add `-u` to write the new versions to package.json, then `npm install`)
