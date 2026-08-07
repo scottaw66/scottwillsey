@@ -34,8 +34,8 @@
       {% for item in items[first:last] %}
         <span hidden>{{ item.alttext }}</span>
         <a href="/images/posts/{{ item.review }}.jpg" class="block">
-          {% set r = resize_image(path="astro/src/assets/images/posts/" ~ item.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
-          <img src="{{ r.url }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ item.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
+          {% set r = resize_image(path="src/assets/images/posts/" ~ item.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
+          <img src="/{{ r.static_path | split(pat="static/") | last }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ item.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
         </a>
       {% endfor %}
     </div>

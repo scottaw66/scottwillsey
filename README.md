@@ -1,37 +1,55 @@
 # Scott Willsey
 
-This is version 6.1.0 of my website, [scottwillsey.com](https://scottwillsey.com). This version is a UI refresh, a (mostly) switch to Tailwind CSS, and some other little utilities and additions.
+This is version 7.0.0 of my website, [scottwillsey.com](https://scottwillsey.com) —
+the [Zola](https://www.getzola.org/) version. After years of Astro (versions 3
+through 7), the site now builds with a single Rust binary and **zero npm
+dependencies**. The full migration story lives in
+[ZOLA-MIGRATION.md](ZOLA-MIGRATION.md) and the evaluation that led here in
+[SSG-ALTERNATIVES.md](SSG-ALTERNATIVES.md).
 
-Recently I've added some pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/) page, a [links](https://scottwillsey.com/links/) page, a [uses](https://scottwillsey.com/uses/) page, and [reviews](https://scottwillsey.com/reviews/) of books, movies, tv shows, and music.
+Pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/)
+page, a [links](https://scottwillsey.com/links/) page, a
+[uses](https://scottwillsey.com/uses/) page, and
+[reviews](https://scottwillsey.com/reviews/) of books, movies, TV shows, and
+music.
 
-Astro is the fastest web development framework I've ever used, primarily because it's so well thought out and so easy to understand and write for.
+## How it works
 
-🚀[Astro](https://astro.build/) - Build the web you want
+- **Authoring** stays in `src/` — YAML-frontmatter markdown in `src/content/`,
+  JSON data in `src/data/`, images in `src/assets/images/`. All the site
+  automation scripts (`~/Scripts/Sites/scottwillsey/`, run from the dashboard)
+  write here, unchanged from the Astro era.
+- **`migrate/convert.py`** (zero-dependency Python) turns that into Zola
+  content: TOML frontmatter, tags, precomputed display dates/titles, social
+  embeds and images as Tera components, `{% raw %}` protection.
+- **[Zola](https://www.getzola.org/)** builds the site: Tera v2 templates in
+  `templates/`, taxonomies, pagination, sitemap, section RSS feeds.
+- **`migrate/postbuild.py`** post-processes the feeds (absolute URLs,
+  script/style stripping) like ultrahtml used to.
+- **[Tailwind CSS](https://tailwindcss.com/) standalone binary** compiles
+  `css/global.css` → `static/css/global.css` (gitignored).
+- **[Pagefind](https://pagefind.app/)** (official PyPI package, extended
+  build) indexes `dist/` post-build and provides the search UI.
+- **[Barefoot](https://github.com/philgruneich/barefoot)** still does the
+  pop-up footnotes.
 
-## Astro features used
+## Building
 
-- [astro:assets Image and/or Picture](https://docs.astro.build/en/guides/images/) for all site and blog post images.
-- [Astro RSS](https://www.npmjs.com/package/@astrojs/rss) for full content RSS feed generation.
-- [Astro Content Loader API](https://docs.astro.build/en/reference/content-loader-reference/) for content collections.
-- [Filtering Content Collection Queries](https://docs.astro.build/en/guides/content-collections/#filtering-collection-queries) to let me filter out drafts from being built to production accidentally.
+```bash
+./build.sh    # convert → tailwind → zola → postbuild → pagefind
+./deploy.sh   # build.sh + rsync deploy (update-site.sh)
+zola serve    # live-reload dev server (search inactive; stop before build.sh)
+```
 
-## Other features
+One-time setup on a fresh clone:
 
-🔖 [Astro-Expressive-Code](https://github.com/expressive-code/expressive-code/tree/main/packages/astro-expressive-code) for code syntax highlighting.
+```bash
+brew install zola tailwindcss
+uv venv .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
+```
 
-🔎 [Astro-Pagefind](https://github.com/shishkin/astro-pagefind) for site search functionality.
-
-✏️ Remark for Markdown processing (adding table of contents and auto-updated last modified dates).
-
-📝 [Barefoot](https://github.com/philgruneich/barefoot) for pop-up footnotes.
-
-🪮 [Tailwind CSS](https://tailwindcss.com/) for MUCH easier handling of responsive views and quick UI and styling changes.
+Updating the toolchain: `brew upgrade zola tailwindcss` and
+`uv pip install --python .venv/bin/python -U "pagefind[extended]"`.
+That's the entire supply chain.
 
 _All content &copy; 2026 by Scott Willsey_
-
-## Package management
-
-This site uses **npm**.
-
-- Install: `npm install`
-- Check for dependency updates: `npm run ncu` (to apply them: `npm run ncu -- -u` — note the `--` — then `npm install`)

@@ -38,9 +38,9 @@
         {% set items = load_data(path="data/reviews/" ~ cat[0] ~ ".json") %}
         {% set i = get_random(start=0, end=items | length) %}
         {% set pick = items[i] %}
-        {% set r = resize_image(path="astro/src/assets/images/posts/" ~ pick.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
+        {% set r = resize_image(path="src/assets/images/posts/" ~ pick.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
         <a href="/reviews/{{ cat[1] }}/1" class="block">
-          <img src="{{ r.url }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ pick.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
+          <img src="/{{ r.static_path | split(pat="static/") | last }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ pick.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
         </a>
       {% endfor %}
     </div>

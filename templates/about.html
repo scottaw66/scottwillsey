@@ -8,10 +8,10 @@
 <article>
   <h1>About Me</h1>
   <a href="/images/ScottLatest.jpg">
-    {% set av = resize_image(path="astro/src/assets/images/ScottLatest.jpg", width=600, op="fit_width", format="webp", quality=85) %}
+    {% set av = resize_image(path="src/assets/images/ScottLatest.jpg", width=600, op="fit_width", format="webp", quality=85) %}
     <img
       class="size-[200px] block mx-auto p-0 rounded-[50%] border-(var(--hyperlink)) border-3"
-      src="{{ av.url }}"
+      src="/{{ av.static_path | split(pat="static/") | last }}"
       width="{{ av.width }}"
       height="{{ av.height }}"
       alt="Scott Willsey"

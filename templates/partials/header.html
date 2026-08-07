@@ -8,8 +8,8 @@
       >
         <div>sc</div>
         <div class="title-image">
-          {% set av = resize_image(path="astro/src/assets/images/saw111.jpg", width=100, op="fit_width", format="webp", quality=80) %}
-          <img src="{{ av.url }}" width="{{ av.width }}" height="{{ av.height }}" alt="Scott avatar" />
+          {% set av = resize_image(path="src/assets/images/saw111.jpg", width=100, op="fit_width", format="webp", quality=80) %}
+          <img src="/{{ av.static_path | split(pat="static/") | last }}" width="{{ av.width }}" height="{{ av.height }}" alt="Scott avatar" />
         </div>
         <div>ttwillsey</div>
       </div>

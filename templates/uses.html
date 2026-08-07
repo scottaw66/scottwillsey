@@ -16,11 +16,11 @@
       ["BBP-8B00109B-1BD2-46E3-81C5-0996E53D5136", "2021 M1 Pro MacBook Pro 14 in."]
     ] %}
     {% for hero in heroes %}
-      {% set img_path = "astro/src/assets/images/posts/" ~ hero[0] ~ ".png" %}
+      {% set img_path = "src/assets/images/posts/" ~ hero[0] ~ ".png" %}
       {% set h1x = resize_image(path=img_path, height=150, op="fit_height", format="webp", quality=80) %}
       {% set h2x = resize_image(path=img_path, height=300, op="fit_height", format="webp", quality=80) %}
       {% set h3x = resize_image(path=img_path, height=450, op="fit_height", format="webp", quality=80) %}
-      <a href="/images/posts/{{ hero[0] }}.jpg"><img src="{{ h1x.url }}" srcset="{{ h2x.url }} 2x, {{ h3x.url }} 3x" width="{{ h1x.width }}" height="{{ h1x.height }}" alt="{{ hero[1] }}" class="min-h-[150px]" loading="lazy" decoding="async" /></a>
+      <a href="/images/posts/{{ hero[0] }}.jpg"><img src="/{{ h1x.static_path | split(pat="static/") | last }}" srcset="/{{ h2x.static_path | split(pat="static/") | last }} 2x, /{{ h3x.static_path | split(pat="static/") | last }} 3x" width="{{ h1x.width }}" height="{{ h1x.height }}" alt="{{ hero[1] }}" class="min-h-[150px]" loading="lazy" decoding="async" /></a>
     {% endfor %}
   </div>
   <div class="text-[0.8em] text-dates font-bold my-12">

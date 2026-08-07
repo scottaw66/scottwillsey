@@ -10,14 +10,13 @@
    explicit `slug` frontmatter field (e.g. `slug: "11-ways-uptime"`) that does
    not always match the filename — the converter must carry it into Zola's
    `slug = "…"` so filenames never leak into URLs.
-2. **This branch is fully Zola at the repo root.** The Astro tree is frozen
-   under `astro/` purely as conversion input (content source, template/style
-   porting reference) — it never builds again. `main` still has the working
-   Astro site if a production fix is needed mid-migration.
-3. **Content is converted by script, not by hand.** 121 posts + 43 reads.
-   The converter is re-runnable (`astro/src/content/` stays the source of
-   truth until cutover), so posts written on `main` during the migration are
-   picked up by merging `main` in and re-running it.
+2. **This branch is fully Zola at the repo root.** The Astro tree was frozen
+   under `astro/` during migration as conversion input; at cutover (Phase 8)
+   the authoring dirs moved back to root `src/` and the rest of `astro/` was
+   deleted. `main` still has the working Astro site until this branch merges.
+3. **Content is converted by script, not by hand — permanently.** Authoring
+   stays YAML markdown in `src/content/` (what Scott's automation writes);
+   `migrate/convert.py` regenerates Zola's `content/` on every build.
 4. **Python does the one-off/glue work** (converter, parity diff), per the
    recommendation in SSG-ALTERNATIVES.md.
 
@@ -255,9 +254,11 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 - [x] Visual verification via headless Chrome against `zola serve`:
       homepage, post w/ footnote, /links, code blocks, reviews grid all
       render with correct styling
-- [ ] Code theme: "monokai" placeholder — Scott to pick the final Giallo
-      dark theme (options: textmate-grammars-themes.netlify.app)
-- [ ] TOC under `## Contents` (links page + 8 posts) — still deferred
+- [x] Code theme: "monokai" stays — side-by-side comparison vs production
+      expressive-code came out near-identical (site CSS + line-number styles
+      carry over to Giallo's markup); approved by Scott 2026-08-07
+- [ ] TOC under `## Contents` (links page + 8 posts) — still deferred, the
+      last open feature decision
 
 ### Phase 7 — Search ✅ (2026-08-07)
 - [x] Pagefind 1.5.2 (extended) in a repo-local `.venv` (gitignored) —
@@ -286,20 +287,42 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 - Note: search needs the post-build index — under bare `zola serve` the
   search boxes render but return nothing
 
-### Phase 8 — Parity check + cutover
-- [ ] `migrate/parity.py`: diff `astro/dist-baseline/` vs `dist/` — URL set
-      diff (every current URL must exist), feed diff, tag-page diff; spot-check
-      rendered HTML for a sample of posts (footnotes, embeds, code blocks, images)
-- [ ] Lighthouse/visual pass on `zola serve` vs production
-- [ ] Rewrite the pre-commit hook target: RecentUpdates becomes a Tera partial
-      or JSON data file the hook writes (hook lives outside this repo — locate it first)
-- [ ] Build wrapper: `build.sh` / Makefile chaining `zola build` [+ tailwind]
-      [+ pagefind] + `update-site.sh`, with a no-deploy variant (buildo
-      equivalent). **`update-site.sh` deploys — never run it during testing**
-- [ ] Final converter run, then Zola `content/` becomes the source of truth;
-      delete `astro/` (content history is preserved in git); update README
-- [ ] Merge to `main`, deploy; watch feeds in a real reader; keep the
-      pre-cutover commit tagged for instant rollback
+### Phase 8 — Cutover ✅ code-complete (2026-08-07); deploy pending
+**Architecture decision (Scott, 2026-08-07): YAML authoring stays, converter
+is permanent.** All dashboard scripts (~/Scripts/Sites/scottwillsey/) and the
+pre-commit hook write YAML markdown to `src/content`/`src/data` — so at
+cutover the authoring tree moved from `astro/src/` back to root `src/`
+(content, data, assets), the converter reads it forever as build step 1, and
+the scripts keep working nearly unchanged. This supersedes the original
+"Zola content becomes source of truth" plan line.
+
+- [x] `astro/` deleted entirely (components/layouts/pages/configs/package
+      files/node_modules); authoring dirs live at `src/`; the Astro build
+      baseline snapshot moved to `dist-baseline/` (gitignored)
+- [x] Image URLs made root-relative (derived from `resize_image`'s
+      `static_path` — components can't see `config`, and absolute URLs broke
+      local previews); found via Scott spotting the broken header avatar
+- [x] `build.sh` (convert → tailwind → zola → postbuild → pagefind; refuses
+      to run while `zola serve` is up — Zola 0.23 serve rewrites `dist/` on
+      every change, which caused "Directory not empty" build failures) and
+      `deploy.sh` (build + update-site.sh). npm scripts are gone
+- [x] Pre-commit hook (.git/hooks/pre-commit, chained from the global hook):
+      RecentUpdates target now `templates/partials/recent_updates.html`; its
+      `src/...` path matchers still work because authoring stayed at `src/`.
+      ⚠️ The hook file is NOT in the repo — machine-local only
+- [x] Dashboard scripts: 4 references updated from `public/images/posts` →
+      `static/images/posts` (new-blog-post/main.py, process_blog_image.py,
+      scottwillsey_review_images.py); everything else untouched
+- [x] README rewritten for the Zola toolchain
+- [x] Final parity sweep post-cutover: URL set diff vs baseline empty; both
+      feeds 0 metadata mismatches
+- [ ] **Deploy** (`./deploy.sh` or dashboard "Update Site" after a build) —
+      Scott's call; `main` branch remains the instant rollback (still the
+      working Astro site) until this branch merges
+- [ ] Merge to `main` after the deployed site checks out; watch feeds in a
+      real reader
+- [ ] Post-deploy: `dist-baseline/` can be deleted whenever it stops being
+      useful
 
 ## Known open questions
 
@@ -310,9 +333,9 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
    mirroring where ultrahtml sat in the Astro pipeline.
 3. **Pre-commit hook** (Phase 8) — need to find where it lives and what it
    writes before designing the replacement fragment.
-4. **Code-block styling gap** (Phase 6) — Giallo (0.22+) replaced syntect;
-   pick a dark theme from textmate-grammars-themes.netlify.app approximating
-   expressive-code. Accepted as "approximate".
+4. ~~Code-block styling gap~~ — **resolved 2026-08-07**: monokai + the
+   ported site CSS renders near-identical to expressive-code (side-by-side
+   verified); keeping it.
 5. ~~`search.astro` / pagefind UI JS~~ — **resolved 2026-08-07**: the
    pagefind CLI generates the same v2 component-UI bundle astro-pagefind
    wrapped; markup and CSS overrides carry over unchanged.

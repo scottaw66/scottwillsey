@@ -6,7 +6,7 @@
 # build output
 dist
 .astro/
-astro/dist-baseline/
+dist-baseline/
 static/processed_images/
 
 # dependencies
@@ -34,3 +34,4 @@ static/css/global.css
 
 # pagefind indexer venv (python -m pagefind)
 .venv/
+.dist-trash-*

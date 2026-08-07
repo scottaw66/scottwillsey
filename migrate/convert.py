@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Convert Astro content to Zola content. Re-runnable; see ZOLA-MIGRATION.md Phase 1.
 
-Reads:  astro/src/content/posts/*.md, astro/src/content/reads/*.md
+Reads:  src/content/posts/*.md, src/content/reads/*.md
 Writes: content/*.md (posts — root-level so the root section paginates them
         and URLs stay /{slug}), content/reads/*.md
 
@@ -22,7 +22,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-SRC = REPO / "astro" / "src" / "content"
+SRC = REPO / "src" / "content"
 OUT = REPO / "content"
 
 # Fields the Astro schema allows (content.config.ts) plus `slug`, which the
