@@ -5,6 +5,9 @@ date = 2022-09-19T05:00:00-08:00
 slug = "this-blog"
 [taxonomies]
 tags = ["blog"]
+[extra]
+display_title = "This Is a Blog"
+display_date = "Monday, 19 Sep 2022"
 +++
 
 This is a blog.

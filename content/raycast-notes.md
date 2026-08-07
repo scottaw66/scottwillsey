@@ -5,6 +5,9 @@ date = 2025-01-08T09:00:00-08:00
 slug = "raycast-notes"
 [taxonomies]
 tags = ["mac", "raycast", "apps"]
+[extra]
+display_title = "The Notey McNoteness of Raycast Notes"
+display_date = "Wednesday, 08 Jan 2025"
 +++
 
 Raycast Floating Notes started off as a very simple text window you could dump stuff into. That’s all it was. One window, one note, and anything you put in there was always going to be there when you opened Raycast Floating Notes again. Then late last year, Raycast introduced [Raycast Notes](https://www.raycast.com/core-features/notes), a Floating Notes update and replacement ([Meet the new Raycast Notes - Raycast Blog](https://www.raycast.com/blog/raycast-notes)).

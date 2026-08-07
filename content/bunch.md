@@ -5,6 +5,9 @@ date = 2023-02-14T05:00:00-08:00
 slug = "bunch"
 [taxonomies]
 tags = ["apps", "mac", "automation", "applescript", "programming"]
+[extra]
+display_title = "Bunch"
+display_date = "Tuesday, 14 Feb 2023"
 +++
 
 I've written a bunch of words on this site about programming stuff in [Astro](https://astro.build), but there are bunches of other things that can be scripted too. Literal Bunches in fact – enter [Bunch](https://bunchapp.co), a Mac automation app for launching apps and running commands with just a click. It's written by [Brett Terpstra](https://brettterpstra.com), which is a name any Mac automation geek will know.

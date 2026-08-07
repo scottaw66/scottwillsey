@@ -5,6 +5,9 @@ date = 2024-05-19T01:00:00-08:00
 slug = "raycast-ai-commands"
 [taxonomies]
 tags = ["mac", "raycast", "apps", "chatgpt", "ai"]
+[extra]
+display_title = "Raycast AI Commands"
+display_date = "Sunday, 19 May 2024"
 +++
 
 [Marc Magnin](https://mastodon.social/@marcmagnin) brought up a point I hadn’t considered when [I asked if ChatGPT desktop app might Sherlock Raycast Advanced AI for me](https://scottwillsey.com/chat-gpt-sherlock/) – [Raycast AI Commands](https://prompts.ray.so/code).

@@ -5,6 +5,9 @@ date = 2026-05-09T00:10:00-08:00
 slug = "mikanremote-an-iphone-remote-control-for-my-mac"
 [taxonomies]
 tags = ["keyword"]
+[extra]
+display_title = "MikanRemote — an iPhone Remote Control for My Mac"
+display_date = "Saturday, 09 May 2026"
 +++
 
 ## The problem

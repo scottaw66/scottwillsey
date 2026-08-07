@@ -5,6 +5,9 @@ date = 2024-11-18T05:00:00-08:00
 slug = "multiple-gh-deploy"
 [taxonomies]
 tags = ["git", "terminal"]
+[extra]
+display_title = "Manage Multiple GitHub Deploy Keys"
+display_date = "Monday, 18 Nov 2024"
 +++
 
 ## Contents

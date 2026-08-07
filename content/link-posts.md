@@ -5,6 +5,9 @@ date = 2023-07-30T09:00:00-08:00
 slug = "link-posts"
 [taxonomies]
 tags = ["blog", "astro"]
+[extra]
+display_title = "The Push I Needed to Implement Link Posts"
+display_date = "Sunday, 30 Jul 2023"
 +++
 
 Thanks entirely to Tiffany White, I finally implemented something that's been on my site to-do list for some time, but that I've never gotten around to actually doing until now: link posts.

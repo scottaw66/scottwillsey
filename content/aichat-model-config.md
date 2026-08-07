@@ -5,6 +5,9 @@ date = 2024-12-30T05:00:00-08:00
 slug = "aichat-model-config"
 [taxonomies]
 tags = ["ai", "terminal"]
+[extra]
+display_title = "Aichat Config for OpenAI and Anthropic APIs"
+display_date = "Monday, 30 Dec 2024"
 +++
 
 There is a fascinating LLM CLI tool called [aichat](https://github.com/sigoden/aichat) that lets you use all kinds of LLM models in the command line, including REPL mode, RAG mode (feeding it your documents and files of choice to use as a knowledgebase), and much more.

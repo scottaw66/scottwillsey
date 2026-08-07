@@ -5,6 +5,9 @@ date = 2022-09-26T05:00:00-08:00
 slug = "map-stuff"
 [taxonomies]
 tags = ["astro", "javascript", "programming"]
+[extra]
+display_title = "Map Your Stuff"
+display_date = "Monday, 26 Sep 2022"
 +++
 
 One of the patterns you'll see frequently in [Astro](https://astro.build) is using the JavaScript [array map function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Array.map() creates a new array that holds the results of performing whatever function you provide on each element of the original array.

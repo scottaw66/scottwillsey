@@ -5,6 +5,9 @@ date = 2024-04-13T09:00:00-08:00
 slug = "small-web"
 [taxonomies]
 tags = ["blog", "indieweb"]
+[extra]
+display_title = "Small Web, Indie Web"
+display_date = "Saturday, 13 Apr 2024"
 +++
 
 If you’re the kind of person I imagine would find and read this, you’ve read a ton of words already on the concepts of small web, indie web, and personal websites. I’m not going to pretend that my post is the one you have been waiting for on the topic, but I do want to say a couple things about the inspiration I’ve received from some of these people.

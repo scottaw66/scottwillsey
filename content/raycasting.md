@@ -5,6 +5,9 @@ date = 2023-08-25T09:00:00-08:00
 slug = "raycasting"
 [taxonomies]
 tags = ["mac", "raycast", "apps"]
+[extra]
+display_title = "Raycasting"
+display_date = "Friday, 25 Aug 2023"
 +++
 
 If you've listened to recent [Friends with Brews](https://friendswithbrews.com) episodes, you probably know that I've gotten into [Raycast](https://www.raycast.com) in a big way. Raycast falls in the category of "App Launcher", but I really dislike that title as it sells short what most of the good app launcher category apps do. For me, Raycast is a system utility that verges into automation territory.

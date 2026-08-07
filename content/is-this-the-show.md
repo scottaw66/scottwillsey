@@ -5,6 +5,9 @@ date = 2023-06-21T09:00:00-08:00
 slug = "is-this-the-show"
 [taxonomies]
 tags = ["podcast"]
+[extra]
+display_title = "Is This the Show?"
+display_date = "Wednesday, 21 Jun 2023"
 +++
 
 I've been on podcasts with both [Clay Daly](https://mastodon.art/@cwdaly) and [John Chidgey](https://engineered.space/users/chidgey) before, including on my own [Friends with Brews podcast](https://friendswithbrews.com), but I've never been on a podcast with both of them at the same time before. Now I have.

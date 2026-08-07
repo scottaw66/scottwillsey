@@ -5,6 +5,9 @@ date = 2024-12-19T12:00:00-08:00
 slug = "bbedit-logfiles"
 [taxonomies]
 tags = ["apps", "mac", "data"]
+[extra]
+display_title = "BBEdit for Log Analysis"
+display_date = "Thursday, 19 Dec 2024"
 +++
 
 Long-time Mac users will undoubtedly have heard of [BBEdit](https://www.barebones.com/products/bbedit/index.html). BBEdit is the favorite Mac text editor of many old Mac users[^1] for various types of writing, including programming, notes, articles, and basically any type of writing Mac nerds can do.

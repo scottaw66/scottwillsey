@@ -5,6 +5,9 @@ date = 2023-09-15T01:00:00-08:00
 slug = "raycast-clipboard-history"
 [taxonomies]
 tags = ["mac", "raycast", "apps"]
+[extra]
+display_title = "Raycast Clipboard History"
+display_date = "Friday, 15 Sep 2023"
 +++
 
 One of Raycast's [core features](https://manual.raycast.com/core) is Clipboard History. Clipboard History is exactly what it sounds like – a basic clipboard manager that lets you access your clipboard history.

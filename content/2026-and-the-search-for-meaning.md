@@ -5,6 +5,9 @@ date = 2025-12-26T00:10:00-08:00
 slug = "2026-and-the-search-for-meaning"
 [taxonomies]
 tags = ["keyword"]
+[extra]
+display_title = "2026 and the Search for Meaning"
+display_date = "Friday, 26 Dec 2025"
 +++
 
 I clearly need a change in 2026. It's obvious no one cares about any of the things I write here, which is fine. It's also clear that I don't care about a lot of them anymore either, which is also fine. So the question is, what should I write about on this blog that I **will** continue to care about and that other people might care about too?

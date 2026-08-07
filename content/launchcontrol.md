@@ -5,6 +5,9 @@ date = 2023-04-15T09:00:00-08:00
 slug = "launchcontrol"
 [taxonomies]
 tags = ["mac", "automation", "programming", "apps"]
+[extra]
+display_title = "One More One More Thing: LaunchControl"
+display_date = "Saturday, 15 Apr 2023"
 +++
 
 I inadvertently lied to you. [I bragged about using a bash script to get my current external IP address](https://scottwillsey.com/one-more-thing/) and putting it in my menu bar with One Thing, and about scheduling that to happen on a predetermined frequency by creating a LaunchDaemon plist and registering it with launchctl. But there's just one problem.

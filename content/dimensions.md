@@ -5,6 +5,9 @@ date = 2023-02-19T09:00:00-08:00
 slug = "dimensions"
 [taxonomies]
 tags = ["blog", "images", "responsive", "astro"]
+[extra]
+display_title = "Dimensions Are a Nightmare"
+display_date = "Sunday, 19 Feb 2023"
 +++
 
 I've written so much about images and image optimization and yet the reality is I still have no clue exactly how it works.

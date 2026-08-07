@@ -5,6 +5,9 @@ date = 2023-03-19T09:00:00-08:00
 slug = "amphbunch"
 [taxonomies]
 tags = ["mac", "automation", "applescript", "programming", "podcast", "apps"]
+[extra]
+display_title = "Bunch of Amphetamine"
+display_date = "Sunday, 19 Mar 2023"
 +++
 
 [Last month I wrote](https://scottwillsey.com/bunch/) about [Bunch](https://bunchapp.co), a wonderful utility for scripting work sessions, complete with sets of apps and the ability to customize various Mac settings. Last night as I was creating transcripts for [Friends with Brews,](https://friendswithbrews.com), I realized that part of my transcription workflow could be handy for podcasting as well – namely, starting an [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) session.

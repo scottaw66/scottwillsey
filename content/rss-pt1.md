@@ -5,6 +5,9 @@ date = 2022-09-06T14:00:00-08:00
 slug = "rss-pt1"
 [taxonomies]
 tags = ["blog", "javascript", "astro", "rss"]
+[extra]
+display_title = "RSS, Astro, and Me – Part 1"
+display_date = "Tuesday, 06 Sep 2022"
 +++
 
 The first [Astro](https://astro.build) site I put on the web was [Siracusa Says](https://siracusasays.com), which went live on August 7th. The second Astro site was this site, on August 21st. If you think about how bare bones this site is, and that there's a 3 week gap there, you might be tempted to think that Astro doesn't allow for particularly quick development. The truth is, it _does_, but I also have a day job that was more demanding than normal during that time. In fact, this site was super simple to build. The thing that took me the longest was figuring out a look that I would only have to be 90% ashamed of.

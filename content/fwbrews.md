@@ -5,6 +5,9 @@ date = 2022-10-31T05:00:00-08:00
 slug = "fwbrews"
 [taxonomies]
 tags = ["podcast", "friendswithbrews", "fwb"]
+[extra]
+display_title = "Friends With Brews"
+display_date = "Monday, 31 Oct 2022"
 +++
 
 [Peter](https://twitter.com/nikolaidis) and I decided a little while ago to convert the Friends with Beers podcast to [Friends with Brews podcast](https://friendswithbrews.com). Our reasoning is pretty simple: we don't always want to drink beer quite as often as we want to talk, and we both like coffee and tea.

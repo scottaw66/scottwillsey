@@ -5,6 +5,9 @@ date = 2022-10-15T05:00:00-08:00
 slug = "image-rabbit-hole-3"
 [taxonomies]
 tags = ["blog", "images", "responsive", "astro", "eleventy"]
+[extra]
+display_title = "Reponsive Image Rabbit Hole – Part 3"
+display_date = "Saturday, 15 Oct 2022"
 +++
 
 It's been a few days since I've written anything, and I'm going to make my tardiness up to you with some detailed science experiments. You can find [part 1](https://scottwillsey.com/image-rabbit-hole-1/) and [part 2](https://scottwillsey.com/image-rabbit-hole-2/) of this series [here](https://scottwillsey.com/image-rabbit-hole-1/) and [here](https://scottwillsey.com/image-rabbit-hole-2/).

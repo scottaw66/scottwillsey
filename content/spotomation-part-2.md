@@ -5,6 +5,9 @@ date = 2025-09-18T00:10:00-08:00
 slug = "spotomation-part-2"
 [taxonomies]
 tags = ["mac", "raycast", "spotlight"]
+[extra]
+display_title = "Spotomation, Part 2 – Replacing AI"
+display_date = "Thursday, 18 Sep 2025"
 +++
 
 ## Contents

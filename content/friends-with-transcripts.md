@@ -5,6 +5,9 @@ date = 2023-03-06T09:00:00-08:00
 slug = "friends-with-transcripts"
 [taxonomies]
 tags = ["fwb", "podcast", "friendswithbrews"]
+[extra]
+display_title = "Friends With Transcripts"
+display_date = "Monday, 06 Mar 2023"
 +++
 
 I [talked before about Whisper.cpp](https://scottwillsey.com/whispering-transcripts/) and my goal of getting episode transcripts up on the [Friends with Brews website](https://friendswithbrews.com). That day is here! We now have transcript functionality on the site.

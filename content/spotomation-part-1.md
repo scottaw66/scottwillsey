@@ -5,6 +5,9 @@ date = 2025-08-23T00:10:00-08:00
 slug = "spotomation-part-1"
 [taxonomies]
 tags = ["mac", "raycast", "spotlight"]
+[extra]
+display_title = "Spotomation, Part 1 – Spotlighting"
+display_date = "Saturday, 23 Aug 2025"
 +++
 
 ## Spotlight Is Not Dead, It Was Just Resting

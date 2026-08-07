@@ -5,6 +5,9 @@ date = 2023-07-25T09:00:00-08:00
 slug = "podcasting-setup-hardware"
 [taxonomies]
 tags = ["mac", "podcast", "hardware"]
+[extra]
+display_title = "My Podcasting Setup – the Hardware"
+display_date = "Tuesday, 25 Jul 2023"
 +++
 
 My friend Donnie Adams asked me on Mastodon if I've ever written anything about my podcasting setup and recording and editing workflow. The answer is... I don't think so. Even if I did, whatever I wrote is out of date and not online anymore anyway. So in 2023, here's my basic podcasting setup hardware.

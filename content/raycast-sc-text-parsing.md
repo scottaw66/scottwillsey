@@ -5,6 +5,9 @@ date = 2024-03-03T05:00:00-08:00
 slug = "raycast-sc-text-parsing"
 [taxonomies]
 tags = ["automation", "mac", "apps", "blog", "raycast", "programming", "python"]
+[extra]
+display_title = "Raycast Script Command for Text Parsing"
+display_date = "Sunday, 03 Mar 2024"
 +++
 
 I previously wrote about [using Raycast script commands to switch default browsers](https://scottwillsey.com/default-browser/). Raycast script commands are really good for scripting all kinds of other things too. One example is a Python script command I created yesterday for the purpose of grabbing a couple values from a JSON file and formatting them into a markdown hyperlink and putting it on the clipboard.

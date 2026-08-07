@@ -1,0 +1,24 @@
+{# Blog list pages /1 … /N — converter-generated stubs (content/listpages/)
+   with extra.page_num; Zola's paginator can't serve these URLs because / is
+   the standalone homepage, so this template slices the root section itself. #}
+{% extends "base.html" %}
+{% block description %}Posts Page {{ page.extra.page_num }}{% endblock description %}
+{% block main %}
+{% set sec = get_section(path="_index.md") %}
+{% set per = config.extra.posts_paginate_by %}
+{% set n = page.extra.page_num %}
+{% set total = (sec.pages | length / per) | round(method="ceil") | int %}
+{% set first = (n - 1) * per %}
+<section aria-label="Post list" data-pagefind-ignore>
+  {% set last = first + per %}
+  {% for p in sec.pages[first:last] %}
+    {{<post_article p={p} />}}
+    {% if not loop.last %}
+      <div class="flex justify-center">
+        {{<post_separator_dots size="3em" fill="var(--accent-pink)" />}}
+      </div>
+    {% endif %}
+  {% endfor %}
+  {{<page_nav current={n} total={total} base="/" />}}
+</section>
+{% endblock main %}

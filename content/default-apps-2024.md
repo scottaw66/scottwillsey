@@ -5,6 +5,9 @@ date = 2024-12-23T05:00:00-08:00
 slug = "default-apps-2024"
 [taxonomies]
 tags = ["mac", "apps", "default"]
+[extra]
+display_title = "Default Apps December 2024"
+display_date = "Monday, 23 Dec 2024"
 +++
 
 Once upon a time,[^1] the [Hemispheric Views podcast](https://hemisphericviews.com) held the first ever [Duel of the Defaults](https://listen.hemisphericviews.com/097) in which they decided who was the winner at using the most default apps for several categories. Then [Robb Knight](https://rknight.me) took it to 11 with his [App Defaults](https://defaults.rknight.me) page.

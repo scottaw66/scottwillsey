@@ -5,6 +5,9 @@ date = 2024-01-14T05:00:00-08:00
 slug = "astro-icon-v1"
 [taxonomies]
 tags = ["blog", "astro", "component"]
+[extra]
+display_title = "Astro Icon 1.x Upgrade"
+display_date = "Sunday, 14 Jan 2024"
 +++
 
 If you started using Nate More’s [Astro Icon](https://www.astroicon.dev) with Astro early on and are using a version lower than 1.0, you will be in for a surprise when you upgrade to the latest version of Astro Icon and suddenly find a lot of breaking errors related to it.

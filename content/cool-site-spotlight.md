@@ -5,6 +5,9 @@ date = 2024-04-09T09:00:00-08:00
 slug = "cool-site-spotlight"
 [taxonomies]
 tags = ["blog", "indieweb"]
+[extra]
+display_title = "Cool Site Spotlight"
+display_date = "Tuesday, 09 Apr 2024"
 +++
 
 Did you know my [Links](/links) page has an ever-changing [Cool Site Spotlight](/links#CoolSiteSpotlight)? I’ve mentioned it tangentially before, but I want to mention both it and my Links page specifically now because I think both are pretty cool.

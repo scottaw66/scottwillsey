@@ -5,6 +5,9 @@ date = 2024-01-07T00:13:36-08:00
 slug = "grin-and-bear-it"
 [taxonomies]
 tags = ["apps", "blog", "mac", "writing"]
+[extra]
+display_title = "Grin and Bear It"
+display_date = "Sunday, 07 Jan 2024"
 +++
 
 Back when the iPad Pro was my main mobile “work” device,[^1] [Drafts](https://getdrafts.com) played a huge role in my writing and blogging. For one thing, it has extensive automation and scripting capabilities, and those came in super handy on iPadOS. I created automations to let me choose photos from my photos library and add them to blog posts, including creating proper links and adding them to my site repo.

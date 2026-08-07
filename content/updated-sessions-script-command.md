@@ -5,6 +5,9 @@ date = 2024-09-15T05:00:00-08:00
 slug = "updated-sessions-script-command"
 [taxonomies]
 tags = ["apps", "mac", "automation", "programming", "raycast"]
+[extra]
+display_title = "Updated Sessions Raycast Script Command"
+display_date = "Sunday, 15 Sep 2024"
 +++
 
 As you may know, [I created a Raycast script command to trigger what I call “sessions”](https://scottwillsey.com/sessions-script-command/), which are really just setting up the Mac to perform different tasks, such as podcasting or “normal” general use. At the time, I was using Raycast for window management, so my script command referenced Raycast window management layouts. Now [I’m using Moom](https://scottwillsey.com/moom4/) for window management, so I needed to update it to call my Moom layouts instead.

@@ -5,6 +5,9 @@ date = 2022-08-21T09:00:00-08:00
 slug = "anew"
 [taxonomies]
 tags = ["blog", "hugo", "eleventy", "javascript", "astro"]
+[extra]
+display_title = "Anew"
+display_date = "Sunday, 21 Aug 2022"
 +++
 
 The last time I posted to my site was on February 24th. That's 6 months between posts.

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta name="title" content="{% block metatitle %}{{ config.title }}{% endblock metatitle %}" />
+    <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link
+      rel="preload"
+      href="/fonts/Cartridge/Cartridge-BoldSoft.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/Cartridge/Cartridge-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/Mochiy_Pop_One/MochiyPopOne-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="ScottWillsey"
+      href="https://scottwillsey.com/rss.xml"
+    />
+    {# Phase 6 compiles this with the Tailwind standalone binary; until then
+       it's the raw source and utility classes won't apply. #}
+    <link rel="stylesheet" href="/css/global.css" />
+  </head>
+  <body
+    class="font-body text-[1.5rem] leading-[1.5] bg-background text-text1 antialiased min-h-screen"
+  >
+    <div
+      class="grid grid-cols-1 grid-rows-[auto_1fr_auto] min-h-screen mx-4 md:mx-8"
+    >
+      <header class="row-start-1">
+        {% include "partials/header.html" %}
+      </header>
+
+      <div
+        class="row-start-2 grid grid-cols-1 justify-items-center gap-2 lg:gap-8 max-w-[1400px] w-full mt-2 lg:mt-8 mx-auto lg:grid-cols-[1fr_3.5fr] lg:justify-items-start"
+      >
+        <main class="px-2 min-w-0 w-full lg:max-w-full lg:order-2 lg:pt-4">
+          {% block main %}{% endblock main %}
+        </main>
+
+        <aside class="py-0 lg:py-4 px-2 max-w-[700px] lg:max-w-none lg:order-1">
+          {% include "partials/sidebar.html" %}
+        </aside>
+      </div>
+
+      <footer class="row-start-3 text-center">
+        {% include "partials/footer.html" %}
+      </footer>
+      <script src="/scripts/barefoot.min.js"></script>
+      <script>
+        lf = new BareFoot();
+        lf.init();
+      </script>
+    </div>
+  </body>
+</html>

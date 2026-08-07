@@ -5,6 +5,9 @@ date = 2024-04-21T05:00:00-08:00
 slug = "custom-links"
 [taxonomies]
 tags = ["apps", "mac", "automation", "programming", "regex"]
+[extra]
+display_title = "TextBuddy Custom Links"
+display_date = "Sunday, 21 Apr 2024"
 +++
 
 [TextBuddy](https://retina.studio/textbuddy/) is a macOS utility app I love that lets you process text in all sorts of interesting ways. I actually intend to talk about it in detail more some time, or more likely write several posts about it highlighting specific use cases. Today I learned about a feature of [TextBuddy](https://retina.studio/textbuddy/) called [Custom Links](https://retina.studio/textbuddy/custom-links/) that I’d been woefully unaware of.

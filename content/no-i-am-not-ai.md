@@ -5,6 +5,9 @@ date = 2026-07-14T00:10:00-08:00
 slug = "no-i-am-not-ai"
 [taxonomies]
 tags = ["ai", "writing", "website"]
+[extra]
+display_title = "No, I Am Not AI"
+display_date = "Tuesday, 14 Jul 2026"
 +++
 
 Apparently a bunch of [people on Hacker News think](https://news.ycombinator.com/item?id=48896665) my [post about vibe-coding Mac and iOS apps](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) was itself vibe-coded.

@@ -1,0 +1,75 @@
+<div
+  class="flex items-center justify-center my-4 mx-auto text-title w-full max-w-[1000px] flex-col gap-8 min-[850px]:flex-row min-[850px]:justify-between min-[850px]:mb-2 min-[850px]:px-10 min-[950px]:px-8 min-[1050px]:px-6"
+>
+  <div class="relative">
+    <a href="/" class="text-title no-underline m-0 p-0 hover:text-title-hover">
+      <div
+        class="grid items-end justify-items-center grid-cols-[fit-content(33%)_fit-content(33%)_fit-content(33%)] font-title text-[3.5rem] p-0 m-0 w-fit"
+      >
+        <div>sc</div>
+        <div class="title-image">
+          {# Phase 5: resize_image() to width 100 webp like astro:assets did #}
+          <img src="/images/saw111.jpg" width="100" alt="Scott avatar" />
+        </div>
+        <div>ttwillsey</div>
+      </div>
+    </a>
+    <div class="absolute -bottom-[1.1em] left-[3.7em] m-0 p-0 xs:left-[5.7em]">
+      <span
+        class="rotate-[-5deg] inline-block text-text1 text-[1.2rem] font-title-nihongo"
+        >新無料サイト!!</span
+      >
+    </div>
+  </div>
+  <div class="p-0 m-0 min-[850px]:-mb-2 xs:m-0">
+    <div
+      class="flex flex-wrap justify-center items-center gap-3 w-fit bg-nav-bg border border-nav-border rounded-lg py-1 px-2 text-2xl max-[600px]:text-[0.85em] max-[470px]:text-[0.8em] max-[425px]:text-[0.7em]"
+    >
+      <a href="/" class="icon-link">
+        {{<menu_home_icon size="2rem" fill="var(--theme-toggle)" />}}
+      </a>
+      <a href="/1">blog</a>
+      <a href="/links">links</a>
+      <a href="/now">/now</a>
+      <a href="/reviews">reviews</a>
+      <a href="/about">about</a>
+    </div>
+  </div>
+</div>
+<style>
+  div.title-image img {
+    border-radius: 50%;
+    border: 2px solid var(--brand);
+    width: 0.65em;
+    height: 0.65em;
+    margin-bottom: 0.3em;
+  }
+
+  div.title-image img:hover {
+    border-color: var(--title-hover);
+    transform-origin: center;
+    transform: scale(1.2);
+  }
+
+  /* Scale menu icons at breakpoints to match text scaling */
+  @media (max-width: 600px) {
+    .icon-link svg {
+      width: 1.7rem;
+      height: 1.7rem;
+    }
+  }
+
+  @media (max-width: 470px) {
+    .icon-link svg {
+      width: 1.6rem;
+      height: 1.6rem;
+    }
+  }
+
+  @media (max-width: 425px) {
+    .icon-link svg {
+      width: 1.4rem;
+      height: 1.4rem;
+    }
+  }
+</style>

@@ -5,6 +5,9 @@ date = 2025-04-08T00:10:00-08:00
 slug = "media-reviews-are-now-in-search-results"
 [taxonomies]
 tags = ["blog"]
+[extra]
+display_title = "Media Reviews Are Now in Search Results"
+display_date = "Tuesday, 08 Apr 2025"
 +++
 
 When I added a [Reviews](https://scottwillsey.com/reviews/) page, I wanted to be able to have individual reviews show up in [my site search](https://scottwillsey.com/search/). Due to some complexities I won’t go into of how Pagefind indexes things and how I optimize my images using the Astro Image component, this was easier said than done – until I remembered the good old HTML [hidden](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/hidden) global attribute. Then I just made a hidden span and populated it with the image alt text.

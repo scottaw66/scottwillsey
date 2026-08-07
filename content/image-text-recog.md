@@ -5,6 +5,9 @@ date = 2024-04-28T09:00:00-08:00
 slug = "image-text-recog"
 [taxonomies]
 tags = ["mac", "images", "apps"]
+[extra]
+display_title = "Image Search Text Recognition in Raycast and ScreenFloat"
+display_date = "Sunday, 28 Apr 2024"
 +++
 
 There I was, checking out [Raycast](https://www.raycast.com)’s [updated website](https://www.raycast.com) and looking at their tips videos, when I stumbled on the tip called [Find Images by Text](https://www.youtube.com/watch?v=c96IXGOo6E4). Although I knew that Raycast would keep copied images in the clipboard history, what I did NOT know is that you can search those images not just by words matching the title, but words matching text IN the image.

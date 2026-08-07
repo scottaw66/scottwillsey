@@ -5,6 +5,9 @@ date = 2024-06-01T05:00:00-08:00
 slug = "show-me-more"
 [taxonomies]
 tags = ["mac", "accessibility"]
+[extra]
+display_title = "Show Me More, but Let Me Read It"
+display_date = "Saturday, 01 Jun 2024"
 +++
 
 Mac display settings are weird. I have a 5k Apple Studio Display. Until recently, I’ve been using the default resolution , which is 2560 x 1440. Then I started using the Studio Display for my work laptop as well, which is a Lenovo laptop, and I noticed by default it just uses the full resolution of 5120 x 2880.

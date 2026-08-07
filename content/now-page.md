@@ -5,6 +5,9 @@ date = 2024-01-04T09:00:00-08:00
 slug = "now-page"
 [taxonomies]
 tags = ["blog", "writing"]
+[extra]
+display_title = "Now Page"
+display_date = "Thursday, 04 Jan 2024"
 +++
 
 I don't remember how I stumbled across the [now page](https://nownownow.com/about) movement started by [Derek Sivers](https://sive.rs/), but I immediately thought "what a great idea!" and decided to add one to my site.

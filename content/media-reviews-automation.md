@@ -5,6 +5,9 @@ date = 2025-03-22T05:00:00-08:00
 slug = "media-reviews-automation"
 [taxonomies]
 tags = ["automation", "blog", "reviews", "python", "retrobatch", "hazel", "mac"]
+[extra]
+display_title = "Automation Workflow for Media Reviews"
+display_date = "Saturday, 22 Mar 2025"
 +++
 
 ## Contents

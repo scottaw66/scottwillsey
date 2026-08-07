@@ -5,6 +5,9 @@ date = 2022-10-17T05:00:00-08:00
 slug = "picture-sizes"
 [taxonomies]
 tags = ["blog", "images", "responsive", "astro"]
+[extra]
+display_title = "Picture Element Sizes Attribute"
+display_date = "Monday, 17 Oct 2022"
 +++
 
 A couple days ago, I posted some [responsive image and Astro Image science experiments](https://scottwillsey.com/image-rabbit-hole-3). If you read that post, you'll notice that my examples all assume I want to display my image at 200px wide. The reason is I was performing the experiments on a very specific layout that I use to show what beer we enjoyed on a given episode of [Friends with Beer](https://friendswithbeer.com).[^1]

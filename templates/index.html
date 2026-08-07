@@ -1,13 +1,52 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>{{ config.title }}</title>
-  </head>
-  <body>
-    <!-- Phase 0 placeholder: proves `zola build` runs end-to-end.
-         Replaced in Phase 2 by the real base.html/index.html port. -->
-    <h1>{{ config.title }}</h1>
-    <p>{{ config.description }}</p>
-  </body>
-</html>
+{# Homepage — port of astro/src/pages/index.astro. The root section is NOT
+   paginated (list pages /1…/N are converter-generated stubs, see
+   postlist.html); this renders the standalone intro page at /. #}
+{% extends "base.html" %}
+{% block main %}
+<article>
+  <h1>So Old, It's New</h1>
+  <p>
+    <a href="https://scottwillsey.com/">scottwillsey</a> is a website owned by me,
+    Scott Willsey. I'm throwing it back to the <a href="https://indieweb.org/IndieWeb">indieweb</a> with a website that's just about Mac or web stuff <a href="/1">I'm writing about</a>, <a href="/links">links</a>, <a href="/now">things I'm doing now</a>,
+    and <a href="/reviews">etc</a>, <a href="/reads">etc</a>.
+  </p>
+  <div
+    class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8 mb-4 md:my-8 mx-auto lg:max-w-[90%] divide-y-3 divide-dotted divide-hyperlink md:divide-y-0 md:divide-x-3"
+  >
+    <div class="pb-4 md:pb-0">
+      {{<latest_posts show_background={false} post_count={4} />}}
+    </div>
+    <div class="pb-4 md:pb-0 px-2">
+      {# Changelog.astro port: entries preprocessed into data/changelog.json
+         by migrate/convert.py (markdown parsing is easier in Python). #}
+      {% set changelog = load_data(path="data/changelog.json") %}
+      <div>
+        <h1 class="text-[1.5rem]">
+          <div class="text-hyperlink ml-2">
+            <a href="/changelog" class="text-hyperlink">Code Changelog</a>
+            {{<history_icon size="1.25rem" fill="var(--hyperlink)" />}}
+          </div>
+        </h1>
+        <section class="text-[0.65em]">
+          <ul>
+            {% for e in changelog.entries %}
+              <li><strong>{{ e.date }}</strong>: {{ e.html | safe }}</li>
+            {% endfor %}
+          </ul>
+        </section>
+      </div>
+    </div>
+    <div class="pb-4 md:pb-0">
+      <h1 class="text-hyperlink text-[1.5rem] ml-2">Recent Updates</h1>
+      {% include "partials/recent_updates.html" %}
+    </div>
+  </div>
+  <div
+    class="mx-auto mt-0 sm:mt-8 mb-6 sm:mb-0 sm:max-w-[85%] flex justify-center gap-[1em] sm:gap-[2em] text-text1 text-[1.25rem] sm:text-[1.75rem] font-title-nihongo"
+  >
+    <div class="rotate-[-3deg]">追跡なし!!</div>
+    <div class="rotate-[-3deg]">隠し料金なし!!</div>
+    <div class="rotate-[-3deg]">広告なし!!</div>
+  </div>
+</article>
+{% endblock main %}

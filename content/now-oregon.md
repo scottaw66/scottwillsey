@@ -5,6 +5,9 @@ date = 2024-10-26T09:00:00-08:00
 slug = "now-oregon"
 [taxonomies]
 tags = ["blog", "writing"]
+[extra]
+display_title = "Nownownow Oregon Edition"
+display_date = "Saturday, 26 Oct 2024"
 +++
 
 You all know, I hope, that I have a [/now page](https://scottwillsey.com/now/) on this site for quick dumps of things I’m into at the moment. It’s ephemeral, as /now pages should be.

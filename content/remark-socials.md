@@ -5,6 +5,9 @@ date = 2024-07-04T05:00:00-08:00
 slug = "remark-socials"
 [taxonomies]
 tags = ["blog", "astro", "markdown", "remark"]
+[extra]
+display_title = "Remarking the Socials"
+display_date = "Thursday, 04 Jul 2024"
 +++
 
 ## Contents

@@ -5,6 +5,9 @@ date = 2024-05-18T01:00:00-08:00
 slug = "chat-gpt-sherlock"
 [taxonomies]
 tags = ["mac", "raycast", "apps", "chatgpt"]
+[extra]
+display_title = "Will ChatGPT Desktop Sherlock Raycast AI for Me?"
+display_date = "Saturday, 18 May 2024"
 +++
 
 Interesting things are afoot at the company known as [OpenAI](https://openai.com/). Apparently they’re in the Sherlocking business now, and their target is (unintentionally?) Raycast AI. I’m talking about an AI chat triggered by keyboard shortcut, with model selection, conversation history, contextual awareness and screenshot and image analysis, and more.

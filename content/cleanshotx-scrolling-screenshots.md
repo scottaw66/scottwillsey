@@ -5,6 +5,9 @@ date = 2024-06-14T09:00:00-08:00
 slug = "cleanshotx-scrolling-screenshots"
 [taxonomies]
 tags = ["mac", "images", "apps"]
+[extra]
+display_title = "Scrolling Screenshots in CleanShot X"
+display_date = "Friday, 14 Jun 2024"
 +++
 
 I wrote about [OCR in CleanShot X](https://scottwillsey.com/cleanshotx-text-recog/) in my last post, and my friend David Nelson reminded me of another stellar feature of CleanShot X – scrolling screenshots.

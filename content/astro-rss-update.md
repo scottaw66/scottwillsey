@@ -5,6 +5,9 @@ date = 2022-12-13T09:00:00-08:00
 slug = "astro-rss-update"
 [taxonomies]
 tags = ["blog", "rss", "astro"]
+[extra]
+display_title = "Astro RSS 1.2.0 Update"
+display_date = "Tuesday, 13 Dec 2022"
 +++
 
 Earlier today I posted about the new compiledContent() property for use in Astro RSS. What I didn't mention was that Astro RSS 1.1.0 had a bug in its XML parsing that ignored custom content (which in my case I am using for audio enclosures) and also choked on my link constructors for my post and audio file links.

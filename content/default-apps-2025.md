@@ -5,6 +5,9 @@ date = 2025-11-29T05:00:00-08:00
 slug = "default-apps-2025"
 [taxonomies]
 tags = ["mac", "apps", "default"]
+[extra]
+display_title = "Default Apps November 2025"
+display_date = "Saturday, 29 Nov 2025"
 +++
 
 I guess it's that time of year again.

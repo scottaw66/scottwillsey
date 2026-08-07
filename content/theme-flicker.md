@@ -5,6 +5,9 @@ date = 2023-08-11T09:00:00-08:00
 slug = "theme-flicker"
 [taxonomies]
 tags = ["blog", "astro", "design", "programming", "css"]
+[extra]
+display_title = "Get Rid of Theme Flicker"
+display_date = "Friday, 11 Aug 2023"
 +++
 
 As I wrote yesterday, I celebrated [John Siracusa's every-five-year Hypercritical t-shirt sale](https://hypercritical.co/2023/07/12/hypercritical-t-shirts-return) with a [new Hypercritical Gold Theme](https://scottwillsey.com/hypercritical-theme/) for this site. As with my previous dark/light mode configuration, toggling themes is done with a little icon button at the bottom of the menu that can look like a sun (when in light mode), a moon (when in dark mode), and now a 128k Mac (when in Hypercritical Gold mode).

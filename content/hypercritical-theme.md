@@ -5,6 +5,9 @@ date = 2023-08-10T09:00:00-08:00
 slug = "hypercritical-theme"
 [taxonomies]
 tags = ["blog", "design"]
+[extra]
+display_title = "Hypercritical GOLD Theme"
+display_date = "Thursday, 10 Aug 2023"
 +++
 
 **Edit:**

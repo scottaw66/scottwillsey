@@ -5,6 +5,9 @@ date = 2023-06-26T09:00:00-08:00
 slug = "autoimageprocess"
 [taxonomies]
 tags = ["mac", "automation", "applescript", "images", "programming", "apps", "friendswithbrews", "fwb"]
+[extra]
+display_title = "Automatic Image Processing With AppleScript and Retrobatch"
+display_date = "Monday, 26 Jun 2023"
 +++
 
 Every episode of [Friends with Brews](https://friendswithbrews.com), I need to generate images for the drinks to include in the podcast chapter artwork and (more importantly) to feature on the website. What I create is a square image in PNG format (for reasons I won't get into here, but more on the image format later) that has a naming scheme that reflects the manufacturer, the drink name, and a UUID to make sure I never accidentally have file naming collisions (although that should never happen anyway in this use case). I used to do this manually, but no longer.

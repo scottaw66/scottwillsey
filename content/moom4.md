@@ -5,6 +5,9 @@ date = 2024-09-09T05:00:00-08:00
 slug = "moom4"
 [taxonomies]
 tags = ["apps", "mac", "moom", "finder"]
+[extra]
+display_title = "Moom 4"
+display_date = "Monday, 09 Sep 2024"
 +++
 
 You may have noticed, as you’ve wandered the site, that I’m a bit of a [Raycast](https://scottwillsey.com/series/raycast/) fan. You may, therefore, imagine that I use the [Raycast window management tools](https://manual.raycast.com/window-management) to move and arrange windows . And it’s true. Well, it was true. Then [Many Tricks](https://manytricks.com) released [Moom 4](https://manytricks.com/moom/), the update to their popular Moom window manager app.

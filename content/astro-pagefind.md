@@ -5,6 +5,9 @@ date = 2023-06-12T09:00:00-08:00
 slug = "astro-pagefind"
 [taxonomies]
 tags = ["search", "pagefind", "astro", "hugo", "eleventy"]
+[extra]
+display_title = "Astro-Pagefind"
+display_date = "Monday, 12 Jun 2023"
 +++
 
 I thought I'd talked about [Pagefind](https://pagefind.app) and [Astro-Pagefind](https://github.com/shishkin/astro-pagefind) here before, but [my very own site search](https://scottwillsey.com/search/) which itself is built using Astro-Pagefind says otherwise.

@@ -5,6 +5,9 @@ date = 2023-08-04T09:00:00-08:00
 slug = "podcasting-recording-software"
 [taxonomies]
 tags = ["mac", "apps", "podcast"]
+[extra]
+display_title = "My Podcasting Setup - Recording Software"
+display_date = "Friday, 04 Aug 2023"
 +++
 
 I've talked about the [hardware I use for podcasting](https://scottwillsey.com/podcasting-setup-hardware/), but what about the other tools of the trade? Obviously the first step to creating a podcast is to record one, and in my case, that's all about software.

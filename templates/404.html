@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}404 - {{ config.title }}{% endblock title %}
+{% block metatitle %}404 - {{ config.title }}{% endblock metatitle %}
+{% block description %}Not all who seek find{% endblock description %}
+{% block main %}
+<div class="fourohfour">
+  <h1 class="fourohfour">I CAN HAZ 404?!?</h1>
+  <img src="/images/cat.svg" alt="404" width="400" height="400" />
+</div>
+{% include "partials/search.html" %}
+{# TagCloud port lands here in Phase 3 (with the tags templates). #}
+<style>
+  div.fourohfour {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: fit-content;
+    margin: 0 auto;
+  }
+  div.fourohfour img {
+    margin-right: 3rem;
+  }
+  @media only screen and (max-width: 699px) {
+    img {
+      width: 280px;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  @media only screen and (max-width: 370px) {
+    img {
+      width: 200px;
+      margin: 0;
+      padding: 0;
+    }
+  }
+</style>
+{% endblock main %}

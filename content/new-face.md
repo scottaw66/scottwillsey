@@ -5,6 +5,9 @@ date = 2025-11-19T00:10:00-08:00
 slug = "new-face"
 [taxonomies]
 tags = ["design", "blog"]
+[extra]
+display_title = "New Face!"
+display_date = "Wednesday, 19 Nov 2025"
 +++
 
 Look, a new face! No, not mine, unfortunately for those who know me in person. The SITE HAS A NEW FACE!! It's new. It's all new. Or as [Peter](https://infosec.exchange/@nikolaidis) would say, "It's the same. Exactly the same."

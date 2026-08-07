@@ -7,6 +7,8 @@ slug = "toxic-bob"
 tags = ["world", "tech"]
 [extra]
 link = "https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/"
+display_title = "The Green Economy Is Hungry for Copper-and People Are Stealing, Fighting, and Dying to Feed It"
+display_date = "Monday, 02 Sep 2024"
 +++
 
 This is not a normal topic for me on this site, but since I blather on about technology nonstop and make my living thanks to it, it’s important to highlight the very real downsides it brings. For example, the current push towards electrification of everything is ramping the planet’s need for copper, and copper means exploitation, death, and environmental disaster to people in many parts of the world.

@@ -5,6 +5,9 @@ date = 2024-01-25T09:00:00-08:00
 slug = "mac-40"
 [taxonomies]
 tags = ["mac", "anniversary"]
+[extra]
+display_title = "Mac 40"
+display_date = "Thursday, 25 Jan 2024"
 +++
 
 I don’t know if you’ve heard, but the Mac turned 40. And what a glorious 40 it is – with Apple Silicon and the return to some amount of function over form in the laptops and (most of the) desktops, the Mac is better than ever.

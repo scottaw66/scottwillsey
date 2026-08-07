@@ -112,6 +112,48 @@ def toml_str(s: str) -> str:
     return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
+SMALL_WORDS_RE = re.compile(
+    r"^(a|an|and|as|at|but|by|en|for|if|in|nor|of|on|or|per|the|to|vs?\.?|via)$",
+    re.I,
+)
+TITLE_TOKEN_RE = re.compile(r"[A-Za-z0-9À-ÿ]+[^\s\-]*")
+
+
+def title_case(title: str) -> str:
+    """Port of StringFormat.js titleCase — templates use the precomputed
+    result (extra.display_title) because Tera's title filter behaves
+    differently (it would downcase acronyms like GPT)."""
+
+    def char_at(i: int) -> str:
+        return title[i] if 0 <= i < len(title) else ""
+
+    def repl(m: re.Match) -> str:
+        match, index = m.group(0), m.start()
+        if (
+            index > 0
+            and index + len(match) != len(title)
+            and SMALL_WORDS_RE.search(match)
+            and char_at(index - 2) != ":"
+            and (char_at(index + len(match)) != "-" or char_at(index - 1) == "-")
+            and not re.search(r"[^\s\-]", char_at(index - 1))
+        ):
+            return match.lower()
+        if re.search(r"[A-Z]|\..", match[1:]):
+            return match
+        return match[0].upper() + match[1:]
+
+    return TITLE_TOKEN_RE.sub(repl, title)
+
+
+def display_date(date: str, path: Path) -> str:
+    """Port of DateFormat.js postdate ("eeee, dd MMM yyyy") — precomputed
+    because Tera v2's date filter no longer parses ISO 8601 datetimes."""
+    try:
+        return datetime.fromisoformat(date).strftime("%A, %d %b %Y")
+    except ValueError:
+        return ""  # render() already errors on unparseable dates
+
+
 FENCE_RE = re.compile(r"^ {0,3}(```|~~~)")
 # Since Zola 0.23, content .md files are themselves Tera templates: any
 # literal {{ / {% / {# in the source — prose OR code samples — would be
@@ -232,6 +274,9 @@ def render(fm: dict, body: str, path: Path, section: str) -> str:
     extra = {k: fm[k] for k in ("link", "cover", "coverAlt", "series") if k in fm}
     if section != "posts":
         extra["keywords"] = tags
+    else:
+        extra["display_title"] = title_case(str(fm["title"]))
+    extra["display_date"] = display_date(date, path)
     if extra:
         lines.append("[extra]")
         for k, v in extra.items():
@@ -259,10 +304,63 @@ def convert_section(src_dir: Path, out_dir: Path, section: str) -> int:
     return count
 
 
+LIST_PAGE_SIZE = 7  # site.json posts.paginationSize — used by both lists
+
+
+def write_list_stubs(kind: str, url_base: str, template: str, count: int) -> int:
+    """List pages /1…/N and /reads/1…/N: Zola's paginator can't serve these
+    (/ is the standalone homepage, /reads/ never existed), so each list URL
+    gets a stub page whose template slices the section itself."""
+    pages = -(-count // LIST_PAGE_SIZE)
+    out_dir = OUT / "listpages"
+    for n in range(1, pages + 1):
+        (out_dir / f"{kind}-{n}.md").write_text(
+            "+++\n"
+            f'title = "{kind} page {n}"\n'
+            f'path = "{url_base}{n}"\n'
+            f'template = "{template}"\n'
+            "[extra]\n"
+            f"page_num = {n}\n"
+            "+++\n"
+        )
+    return pages
+
+
+def write_changelog_json() -> None:
+    """Port of Changelog.astro's entry parsing: last 3 '### date' entries of
+    the changelog, image links stripped, markdown links → HTML. Templates
+    read the result via load_data (markdown munging is easier in Python)."""
+    body = (SRC / "changelog" / "changelog.md").read_text()
+    body = re.sub(r"^---\n.*?\n---\n?", "", body, flags=re.S)
+    entries = [e for e in re.split(r"^### ", body, flags=re.M) if e.strip()]
+    out = []
+    for entry in entries[:3]:
+        date, *description = entry.split("\n")
+        desc = " ".join(description).strip()
+        desc = re.sub(r"\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)", "", desc)
+        desc = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", desc)
+        desc = re.sub(
+            r"\[([^\]]+)\]\(([^)]*\.(jpg|jpeg|png|gif|webp|svg)[^)]*)\)",
+            "", desc, flags=re.I)
+        desc = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', desc)
+        out.append({"date": date.strip(), "html": desc})
+    dest = REPO / "data"
+    dest.mkdir(exist_ok=True)
+    (dest / "changelog.json").write_text(json.dumps({"entries": out}, indent=2) + "\n")
+
+
 def main() -> int:
     n_posts = convert_section(SRC / "posts", OUT, "posts")
     n_reads = convert_section(SRC / "reads", OUT / "reads", "reads")
+    (OUT / "listpages").mkdir(exist_ok=True)
+    for old in (OUT / "listpages").glob("*.md"):
+        if old.name != "_index.md":
+            old.unlink()
+    p_pages = write_list_stubs("posts", "/", "postlist.html", n_posts)
+    r_pages = write_list_stubs("reads", "/reads/", "readslist.html", n_reads)
+    write_changelog_json()
     print(f"converted: {n_posts} posts (content/), {n_reads} reads (content/reads/)")
+    print(f"list stubs: /1…/{p_pages}, /reads/1…/{r_pages}; changelog.json written")
     for w in warnings:
         print(f"WARN  {w}")
     for e in errors:

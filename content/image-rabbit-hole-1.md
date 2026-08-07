@@ -5,6 +5,9 @@ date = 2022-09-28T05:00:00-08:00
 slug = "image-rabbit-hole-1"
 [taxonomies]
 tags = ["blog", "images", "responsive", "astro"]
+[extra]
+display_title = "Reponsive Image Rabbit Hole – Part 1"
+display_date = "Wednesday, 28 Sep 2022"
 +++
 
 ## Contents

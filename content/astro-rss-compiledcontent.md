@@ -5,6 +5,9 @@ date = 2022-12-13T05:00:00-08:00
 slug = "astro-rss-compiledcontent"
 [taxonomies]
 tags = ["blog", "rss", "astro"]
+[extra]
+display_title = "Astro RSS Compiled Content"
+display_date = "Tuesday, 13 Dec 2022"
 +++
 
 It's been awhile and I have lots of news, but just a short one today: [Astro](https://astro.build) now supports full [RSS feed](https://docs.astro.build/en/guides/rss/) content if you use md files for your content. It works like this:

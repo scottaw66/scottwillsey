@@ -5,6 +5,9 @@ date = 2023-01-09T05:00:00-08:00
 slug = "episode-image-script"
 [taxonomies]
 tags = ["blog", "rss", "astro", "podcast", "images", "responsive"]
+[extra]
+display_title = "Podcast Episode Image Script"
+display_date = "Monday, 09 Jan 2023"
 +++
 
 As [I mentioned in my last post](/more-astro-image-markdown/), I want to use standard markdown (text only, no ability to use components) for [Friends with Brews](https://friendswithbrews.com) episodes so that I can use [Astro's ability to render full post body content](https://docs.astro.build/en/guides/rss/#including-full-post-content) of each episode in the RSS feed. This way the RSS feed shows each episode's show notes instead of just a summary.

@@ -5,6 +5,9 @@ date = 2024-10-13T09:00:00-08:00
 slug = "raycast-extensions"
 [taxonomies]
 tags = ["mac", "raycast", "apps"]
+[extra]
+display_title = "Raycast Extensions I Use"
+display_date = "Sunday, 13 Oct 2024"
 +++
 
 ## Introductionum

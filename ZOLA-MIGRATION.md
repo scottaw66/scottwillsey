@@ -144,21 +144,39 @@ enough to hand-parse, verified against all 164 files.
 - [ ] `## Contents` / remark-toc usage → template renders `page.toc` instead
       (8 posts + `links.md`) — deferred to Phase 2 templates
 
-### Phase 2 — Core templates
-Port in dependency order; Tailwind classes copy across verbatim (Phase 6
-keeps them compiling).
+### Phase 2 — Core templates ✅ core done (2026-08-07)
+Tailwind classes copied verbatim (Phase 6 compiles them; pages are unstyled
+until then — global.css is served raw, so only its plain-CSS rules apply).
 
-- [ ] `base.html` ← `Base.astro` (shell, font preloads, RSS links, grid)
-- [ ] Header, Menu, Footer, Sidebar as partials; sidebar's off-home
-      conditional (LatestPosts/RecentUpdates) via `current_path`
-- [ ] `post.html` ← Post/PostTitle: link-icon for link posts, series banner,
-      cover image, date via Tera `date()` filter (replaces DateFormat.js)
-- [ ] Icon components (~25 inline SVGs) → one `macros/icons.html` with
-      size/fill args
-- [ ] `index.html` + paginated post list (`paginate_by = 7`) with the
-      windowed pagination controls ← `[page].astro` / @philnash/astro-pagination
-- [ ] Same pair for reads section
-- [ ] `404.html`
+- [x] `base.html` ← `Base.astro` (shell, font preloads, RSS link, grid,
+      barefoot scripts); blocks: title/metatitle/description/main
+- [x] Header+Menu, Footer, Sidebar, RecentUpdates, Search-stub as
+      `templates/partials/*.html`; sidebar's off-home conditional via
+      `current_path`
+- [x] `post.html` + `post_article` component ← Post/PostTitle: link-icon for
+      link posts, series banner (unused but ported), full-content lists.
+      titleCase and postdate are PRECOMPUTED by the converter
+      (`extra.display_title` / `extra.display_date`) — Tera v2's `title`
+      filter would break acronyms and its `date` filter no longer parses
+      ISO 8601, so Python owns those transforms now
+- [x] Icons: 11 of ~25 inline SVGs as components in `templates/icons.html`
+      (the ones core templates need); rest come with their pages
+- [x] `index.html` homepage (intro, LatestPosts×4, Changelog — entries
+      preprocessed to `data/changelog.json` by the converter, RecentUpdates,
+      Japanese banners)
+- [x] **List pages are converter-generated stubs** (`content/listpages/`,
+      `path`-overridden to `/1`…`/18` and `/reads/1`…`/7`): Zola's paginator
+      can't model Astro's "/" = standalone homepage + "/1" = list page 1, so
+      `postlist.html`/`readslist.html` slice the section pages themselves
+      (Tera v2 bracket slicing) and `page_nav` reimplements
+      @philnash/astro-pagination — markup verified byte-identical to the
+      Astro build for page 2
+- [x] `404.html` (cat + search stub; TagCloud arrives in Phase 3)
+- [ ] TOC for the 8 `## Contents` posts (`page.toc` wiring) — deferred,
+      needs a decision on how content accesses the page context in 0.23
+- [x] Verified: `zola build` → 189 pages, URL parity diff vs baseline is
+      **zero missing** outside Phase-6 pages; post dates/titles match Astro
+      output exactly
 
 ### Phase 3 — Taxonomies
 - [ ] `tags/list.html` (tag cloud ← TagCloud.astro) and `tags/single.html`

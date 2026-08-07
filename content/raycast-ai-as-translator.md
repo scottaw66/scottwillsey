@@ -5,6 +5,9 @@ date = 2025-05-04T00:10:00-08:00
 slug = "raycast-ai-as-translator"
 [taxonomies]
 tags = ["raycast", "ai"]
+[extra]
+display_title = "Raycast AI as Translator"
+display_date = "Sunday, 04 May 2025"
 +++
 
 Here’s a use case for AI that I really like: a Japanese to English translator that gives me a translation and breakdown of the kanji (Chinese characters) in a Japanese phrase or passage. The reason AI is really good for this as opposed to Japanese apps that let you paste in phrases or do text detection in images is that you get translation, the ability to specify how you want the results returned, the image text detection, AND the ability to ask follow-up questions.

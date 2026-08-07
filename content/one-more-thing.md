@@ -5,6 +5,9 @@ date = 2023-04-09T09:00:00-08:00
 slug = "one-more-thing"
 [taxonomies]
 tags = ["mac", "automation", "programming", "chatgpt"]
+[extra]
+display_title = "One (More?) Thing"
+display_date = "Sunday, 09 Apr 2023"
 +++
 
 Just about one year ago, Joe Rosensteel wrote on [SixColors](https://sixcolors.com) about [putting local weather data in his menu bar](https://sixcolors.com/member/2022/08/putting-my-microclimate-in-my-menu-bar/). Aside from the entire system that gets the weather and gets it to his computer, the way he displays it in the menu bar is with a little utility app called [One Thing](https://sindresorhus.com/one-thing). I thought it was a cool app, and I downloaded it, but never really made use of it. Until today.

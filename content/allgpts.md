@@ -5,6 +5,9 @@ date = 2023-04-26T09:00:00-08:00
 slug = "allgpts"
 [taxonomies]
 tags = ["mac", "chatgpt", "apps"]
+[extra]
+display_title = "All the GPTs"
+display_date = "Wednesday, 26 Apr 2023"
 +++
 
 ## GPT - What is it good for?

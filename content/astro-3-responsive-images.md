@@ -5,6 +5,9 @@ date = 2023-09-18T05:00:00-08:00
 slug = "astro-3-responsive-images"
 [taxonomies]
 tags = ["blog", "images", "responsive", "astro"]
+[extra]
+display_title = "Astro 3 and Responsive Images"
+display_date = "Monday, 18 Sep 2023"
 +++
 
 [Astro 3 is here](https://astro.build/blog/astro-3/) and you're looking at a site published with it. I spent a few days last week converting this site and [Friends with Brews](https://friendswithbrews.com) from Astro 2.x to Astro 3, and there are some things I had to learn and decide to make it happen, and most of it has to do with responsive images.

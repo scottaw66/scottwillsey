@@ -1,0 +1,125 @@
+{# Site-level Tera v2 components ported from astro/src/components/*.astro.
+   Loading this file registers them globally (never rendered directly). #}
+
+{# Post.astro + PostTitle.astro: used by the single-post page AND list pages
+   (the blog lists render full post content, not excerpts). display_title and
+   display_date are precomputed by migrate/convert.py (titleCase / postdate
+   ports — Tera v2's title filter and date parsing don't match the JS originals). #}
+{% component post_article(p) %}
+<article>
+  <header>
+    <h1>
+      {% if p.extra?.link %}
+        <span class="inline-flex items-center">
+          <a href="{{ p.extra.link }}" data-pagefind-ignore class="mr-[0.3em] ml-[-0.1em]">
+            {{<post_link_icon size="1.3em" />}}
+          </a>
+          <a href="{{ p.extra.link }}">{{ p.extra.display_title }}</a>
+        </span>
+      {% else %}
+        <a href="{{ p.permalink }}">{{ p.extra.display_title }}</a>
+      {% endif %}
+    </h1>
+    <div class="text-[0.8em] text-dates font-bold">
+      {{<calendar_icon size="1em" fill="var(--dates)" />}}
+      <time datetime="{{ p.date }}">
+        <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
+      </time>
+    </div>
+  </header>
+  {% if p.extra?.series %}
+    <h3>
+      Part of the <i><a href="/series/{{ p.extra.series | slugify }}/">{{ p.extra.series }}</a></i> series
+    </h3>
+  {% endif %}
+  {{ p.content | safe }}
+</article>
+{% endcomponent post_article %}
+
+{# Read.astro: reads use the raw title (no titleCase in the original). #}
+{% component read_article(p) %}
+<article>
+  <header>
+    <h1>
+      <a href="{{ p.permalink }}">{{ p.title }}</a>
+    </h1>
+    <div class="text-[0.8em] text-dates font-bold mb-6">
+      {{<calendar_icon size="1em" fill="var(--dates)" />}}
+      <time datetime="{{ p.date }}">
+        <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
+      </time>
+    </div>
+  </header>
+  {{ p.content | safe }}
+</article>
+{% endcomponent read_article %}
+
+{# LatestPosts.astro #}
+{% component latest_posts(show_background = true, post_count = 5, show_browse_all = true) %}
+{% set sec = get_section(path="_index.md") %}
+<span data-pagefind-ignore="all">
+  <section
+    class="{% if show_background %}bg-surface-menu py-2 px-6{% else %}px-2{% endif %} rounded-2xl text-[0.8em]"
+    aria-label="Blog post list"
+  >
+    <h1 class="text-[1.5rem]">
+      <a href="/1" class="text-hyperlink"><div class="text-hyperlink">Latest Posts</div></a>
+    </h1>
+    {% for p in sec.pages[:post_count] %}
+      <header class="mb-5">
+        <h2 class="font-body text-[1.1rem] my-2">
+          <a href="{{ p.permalink }}" class="text-hyperlink">
+            {% if p.extra?.link %}<span data-pagefind-ignore>{{<post_link_icon size="1em" />}}</span>{% endif %}
+            {{ p.extra.display_title }}
+          </a>
+        </h2>
+        <div class="text-[0.8rem] text-dates font-bold">
+          {{<calendar_icon size="1.1em" fill="var(--dates)" margin="0.25" />}}
+          <time datetime="{{ p.date }}">
+            <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
+          </time>
+        </div>
+      </header>
+    {% endfor %}
+    {% if show_browse_all %}
+      <p class="ml-2 my-0">
+        <a href="/1" class="text-hyperlink text-[0.9em] font-bold">Browse all posts</a>
+      </p>
+    {% endif %}
+  </section>
+</span>
+{% endcomponent latest_posts %}
+
+{# @philnash/astro-pagination port: windowSize 3, markup matched against the
+   Astro build output (nav/ul/li, previous-page/number/end-ellipsis classes). #}
+{% component page_nav(current, total, base) %}
+{% if total > 1 %}
+<nav role="navigation" aria-label="Pagination"><ul>
+  {%- if current > 1 -%}
+    <li><a href="{{ base }}{{ current - 1 }}" class="previous-page" aria-label="Go to previous page">&laquo; Prev</a></li>
+  {%- endif -%}
+  {%- set win_start = current - 1 -%}
+  {%- if win_start < 1 %}{% set win_start = 1 %}{% endif -%}
+  {%- set win_end = current + 1 -%}
+  {%- if win_end > total %}{% set win_end = total %}{% endif -%}
+  {%- if win_start > 1 -%}
+    <li><a class="number" href="{{ base }}1" aria-label="Go to page 1">1</a></li>
+    {%- if win_start > 2 -%}<li><span class="start-ellipsis">&hellip;</span></li>{%- endif -%}
+  {%- endif -%}
+  {%- for n in range(start=win_start, end=win_end + 1) -%}
+    {%- if n == current -%}
+      <li><em aria-current="page" aria-label="Current page, page {{ n }}">{{ n }}</em></li>
+    {%- else -%}
+      <li><a class="number" href="{{ base }}{{ n }}" aria-label="Go to page {{ n }}">{{ n }}</a></li>
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if win_end < total -%}
+    {%- if win_end < total - 1 -%}<li><span class="end-ellipsis">&hellip;</span></li>{%- endif -%}
+    <li><a class="number" href="{{ base }}{{ total }}" aria-label="Go to page {{ total }}">{{ total }}</a></li>
+  {%- endif -%}
+  {%- if current < total -%}
+    <li><a href="{{ base }}{{ current + 1 }}" class="next-page" aria-label="Go to next page">Next &raquo;</a></li>
+  {%- endif -%}
+</ul></nav>
+{% endif %}
+{% endcomponent page_nav %}

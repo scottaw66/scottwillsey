@@ -5,6 +5,9 @@ date = 2023-04-06T09:00:00-08:00
 slug = "applescript-gpt"
 [taxonomies]
 tags = ["mac", "automation", "applescript", "images", "programming", "chatgpt"]
+[extra]
+display_title = "AppleScript GPT"
+display_date = "Thursday, 06 Apr 2023"
 +++
 
 I've been playing with using ChatGPT (via [MacGPT](https://www.macgpt.com)) with the gpt-3.5-turbo model to help script things. Today I wanted an AppleScript to rename some files by sticking a UUID in between the base file name and the file extension (e.g., rename MyImage.png to MyImage-FFE9D8C8-8AEE-42E2-8A48-F0C328A9E5F2.png). I asked MacGPT to write the script and this is what it came up with:
