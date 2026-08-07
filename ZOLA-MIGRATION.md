@@ -257,8 +257,12 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 - [x] Code theme: "monokai" stays — side-by-side comparison vs production
       expressive-code came out near-identical (site CSS + line-number styles
       carry over to Giallo's markup); approved by Scott 2026-08-07
-- [ ] TOC under `## Contents` (links page + 8 posts) — still deferred, the
-      last open feature decision
+- [x] TOC under `## Contents` — **rebuilt in the converter (2026-08-07)**:
+      `insert_toc()` detects the heading in ANY post/page (automatic, like
+      remark-toc was) and generates the nested link list using a replica of
+      Zola's anchor slugifier (github-slugger anchors differ on punctuation).
+      Verified: all 16 pages with the heading have lists whose every anchor
+      resolves; labels byte-identical to the baseline incl. bracket edge case
 
 ### Phase 7 — Search ✅ (2026-08-07)
 - [x] Pagefind 1.5.2 (extended) in a repo-local `.venv` (gitignored) —

@@ -177,6 +177,67 @@ def raw_wrap(line: str) -> str:
     return "{% raw %}" + line + "{% endraw %}"
 
 
+HEADING_RE = re.compile(r"^(#{2,6})\s+(.*?)\s*$")
+
+
+def zola_anchor(text: str, seen: dict) -> str:
+    """Replicate Zola's heading-anchor slugifier: lowercase, every run of
+    non-alphanumerics becomes one dash, trimmed; duplicates get -1, -2 …
+    (verified against Zola 0.23 output for the links page and TOC posts —
+    NOT github-slugger, which e.g. drops dots where Zola dashes them)."""
+    slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+    n = seen.get(slug)
+    seen[slug] = 0 if n is None else n + 1
+    return slug if n is None else f"{slug}-{seen[slug]}"
+
+
+def insert_toc(body: str, path: Path) -> str:
+    """remark-toc replacement: if a '## Contents' heading exists, generate a
+    (nested, per heading level) markdown list of links to every following
+    heading, exactly where remark-toc used to put it. Runs on every file the
+    converter touches, so any post/page using the heading gets a TOC
+    automatically."""
+    lines = body.splitlines()
+    toc_at = None
+    in_fence = False
+    headings = []  # (level, label, text, after_toc) in document order —
+    # pre-TOC headings still consume anchor slugs in Zola's dedupe.
+    for i, line in enumerate(lines):
+        if FENCE_RE.match(line):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        m = HEADING_RE.match(line)
+        if not m:
+            continue
+        text = m.group(2).strip()
+        if toc_at is None and m.group(1) == "##" and text.lower() == "contents":
+            toc_at = i
+            headings.append((2, "Contents", "Contents", False))
+            continue
+        # Link label: heading text minus inline-code backticks; anything more
+        # exotic (links, emphasis) would need thought — flag it.
+        label = text.replace("`", "")
+        if re.search(r"[\[\]*_]", label):
+            warnings.append(f"{path}: TOC heading has markdown formatting: {text!r}")
+        headings.append((len(m.group(1)), label, text, toc_at is not None))
+    if toc_at is None:
+        return body
+    entries = [(lvl, label, text) for lvl, label, text, after in headings if after]
+    if not entries:
+        warnings.append(f"{path}: '## Contents' with no following headings")
+        return body
+    seen: dict = {}
+    min_level = min(lvl for lvl, _, _ in entries)
+    toc = []
+    for lvl, label, text, after in headings:
+        anchor = zola_anchor(re.sub(r"`", "", text), seen)
+        if after:
+            toc.append("  " * (lvl - min_level) + f"- [{label}](#{anchor})")
+    return "\n".join(lines[: toc_at + 1] + [""] + toc + lines[toc_at + 1:])
+
+
 def convert_body(body: str, path: Path) -> str:
     """Transform prose lines; fenced code blocks pass through untouched apart
     from raw-wrapping (tutorial posts contain code samples full of
@@ -305,7 +366,8 @@ def render(fm: dict, body: str, path: Path, section: str) -> str:
             else:
                 lines.append(f"{key} = {toml_str(str(v))}")
     lines.append("+++")
-    return "\n".join(lines) + "\n\n" + convert_body(body, path).strip() + "\n"
+    converted = insert_toc(convert_body(body, path).strip(), path)
+    return "\n".join(lines) + "\n\n" + converted + "\n"
 
 
 def convert_section(src_dir: Path, out_dir: Path, section: str) -> int:
@@ -368,7 +430,8 @@ def convert_singles() -> None:
         lines.append(f"display_modified = {toml_str(modified_date(str(fm['date'])))}")
         lines.append("+++")
         (pages_dir / f"{name}.md").write_text(
-            "\n".join(lines) + "\n\n" + convert_body(body, f).strip() + "\n")
+            "\n".join(lines) + "\n\n"
+            + insert_toc(convert_body(body, f).strip(), f) + "\n")
 
 
 def convert_reviews_data() -> None:

@@ -10,6 +10,37 @@ display_modified = "Sunday, 02 Aug 2026 23:19:37"
 
 ## Contents
 
+- [AI](#ai)
+- [Apple](#apple)
+- [Articles](#articles)
+- [Astro](#astro)
+- [Beer](#beer)
+- [Blogroll](#blogroll)
+- [Books](#books)
+- [Coffee](#coffee)
+- [Command Line, Linux, Unix, Networking](#command-line-linux-unix-networking)
+- [Cool Sites Archive](#cool-sites-archive)
+- [Fonts](#fonts)
+- [FOOD](#food)
+- [Games](#games)
+- [IndieWeb](#indieweb)
+- [Japan](#japan)
+- [Keyboards](#keyboards)
+- [Korea](#korea)
+- [Mac](#mac)
+- [Newsletters](#newsletters)
+- [Obsidian](#obsidian)
+- [Photography](#photography)
+- [Podcasts](#podcasts)
+- [Privacy and Security](#privacy-and-security)
+- [Programming and Web Dev](#programming-and-web-dev)
+- [RSS & Reading Tools](#rss-reading-tools)
+- [Smarthome](#smarthome)
+- [Tea](#tea)
+- [TV](#tv)
+- [YouTube](#youtube)
+- [It's All About Me](#it-s-all-about-me)
+
 ## AI
 
 - [AI Workflow Automation Platform - n8n](https://n8n.io/)

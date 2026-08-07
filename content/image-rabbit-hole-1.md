@@ -13,6 +13,12 @@ rfc2822_date = "Wed, 28 Sep 2022 13:00:00 GMT"
 
 ## Contents
 
+- [Why image optimization?](#why-image-optimization)
+- [How image optimization?](#how-image-optimization)
+  - [HTML img element](#html-img-element)
+  - [HTML picture element](#html-picture-element)
+- [The Retina wrinkle](#the-retina-wrinkle)
+
 I fell down a deep rabbit hole yesterday thanks to the fact that I'm converting the [Friends with Beer podcast website](https://friendswithbeer.com) from [Eleventy](https://friendswithbeer.com) to [Astro](https://astro.build). The rabbit hole was specifically image optimization, the effort to build responsive and hopefully smaller file size images.
 
 ## Why image optimization?

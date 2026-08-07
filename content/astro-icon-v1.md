@@ -19,6 +19,16 @@ By the way, Nate has a great upgrade guide already at [Upgrade to Astro Icon v1 
 
 ## Contents
 
+- [Upgrading to Astro Icon 1.x from 0.x](#upgrading-to-astro-icon-1-x-from-0-x)
+- [1. Upgrade to the latest Astro and Astro Icon versions](#1-upgrade-to-the-latest-astro-and-astro-icon-versions)
+- [2. Import and integrate astro-icon in your astro.config.mjs](#2-import-and-integrate-astro-icon-in-your-astro-config-mjs)
+- [3. Install @iconify-json/icon-family for every icon package you use](#3-install-iconify-json-icon-family-for-every-icon-package-you-use)
+- [4. Change your astro-icon import statements on Astro pages](#4-change-your-astro-icon-import-statements-on-astro-pages)
+- [5. Change all references to [astro-icon] in your CSS to [data-icon]](#5-change-all-references-to-astro-icon-in-your-css-to-data-icon)
+- [6. Use font-size instead of width or height to set the icon sizes](#6-use-font-size-instead-of-width-or-height-to-set-the-icon-sizes)
+- [7. Tweak font-size on all CSS for your icons](#7-tweak-font-size-on-all-css-for-your-icons)
+- [Summarium](#summarium)
+
 ## Upgrading to Astro Icon 1.x from 0.x
 
 1. Upgrade to the latest version packages of astro and astro-icon (astro-icon >= 1.0)

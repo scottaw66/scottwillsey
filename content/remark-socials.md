@@ -13,6 +13,16 @@ rfc2822_date = "Thu, 04 Jul 2024 13:00:00 GMT"
 
 ## Contents
 
+- [Astro Remark Support](#astro-remark-support)
+- [Social Links in Blog Posts](#social-links-in-blog-posts)
+- [Transforming Social Media Links in Astro Markdown files](#transforming-social-media-links-in-astro-markdown-files)
+  - [Regular Expressions for YouTube, Threads, and Mastodon Links](#regular-expressions-for-youtube-threads-and-mastodon-links)
+  - [How Remark Plugins Work in Astro](#how-remark-plugins-work-in-astro)
+  - [Creating a Remark Plugin in Astro](#creating-a-remark-plugin-in-astro)
+  - [Remarking Markdown Page Content](#remarking-markdown-page-content)
+  - [Remarking the Social Media Links](#remarking-the-social-media-links)
+- [Summarium](#summarium)
+
 ## Astro Remark Support
 
 One of the cool things about [Astro](https://astro.build) is how it supports Markdown using [remark](https://github.com/remarkjs/remark). This means it also supports remark plugins, and THAT means you can write your own custom remark plugins to modify the markdown in your posts however you like.

@@ -13,6 +13,14 @@ rfc2822_date = "Sat, 01 Nov 2025 08:10:00 GMT"
 
 ## Contents
 
+- [The Goal – Replacing Raycast with Spotlight and Companion Utilities](#the-goal-replacing-raycast-with-spotlight-and-companion-utilities)
+- [Raycast Snippets](#raycast-snippets)
+- [Snippety for Mac and iOS](#snippety-for-mac-and-ios)
+  - [Basic UI](#basic-ui)
+  - [Snippet Use](#snippet-use)
+  - [Scripts](#scripts)
+- [Conclusion](#conclusion)
+
 ## The Goal – Replacing Raycast with Spotlight and Companion Utilities
 
 In Part 1 of this series on replacing Raycast with Spotlight, I explained that macOS Tahoe’s greatly enhanced Spotlight led me to replace Raycast with Spotlight plus a few additional apps and utilities. Raycast purists might be shouting already, thinking I’ve lost both my mind and the challenge, since this approach requires running more apps than sticking with Raycast.

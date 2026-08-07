@@ -13,6 +13,11 @@ rfc2822_date = "Mon, 18 Nov 2024 13:00:00 GMT"
 
 ## Contents
 
+- [GitHub Deploy Keys](#github-deploy-keys)
+- [Create the Deploy Keys](#create-the-deploy-keys)
+- [Add the Public Keys to the GitHub Repositories](#add-the-public-keys-to-the-github-repositories)
+- [Assign the Correct Keys to the Correct Repositories](#assign-the-correct-keys-to-the-correct-repositories)
+
 ## GitHub Deploy Keys
 
 Sometimes I want to be able to pull a personal GitHub repository onto a server in order to keep some files up to date. Things like scripts that I won’t edit on the server and so won’t need to push to GitHub are good candidates for this. In order to accomplish this in a reasonably secure way, I use [GitHub Deploy Keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#deploy-keys). With a read-only deploy key, if someone ever gets access to my server I’ll suddenly have a billion new problems, but worrying about my repositories being overwritten with malicious garbage won’t be one of them.

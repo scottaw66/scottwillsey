@@ -13,6 +13,17 @@ rfc2822_date = "Thu, 18 Sep 2025 08:10:00 GMT"
 
 ## Contents
 
+- [The Goal – Replacing Raycast with Spotlight and Companion Utilities](#the-goal-replacing-raycast-with-spotlight-and-companion-utilities)
+- [Raycast AI](#raycast-ai)
+  - [Models](#models)
+  - [Integration](#integration)
+  - [Extensions and MCP](#extensions-and-mcp)
+  - [Caveats](#caveats)
+- [Non-Raycast AI Options](#non-raycast-ai-options)
+- [The Future](#the-future)
+- [Conclusion](#conclusion)
+  - [Additional Reading](#additional-reading)
+
 ## The Goal – Replacing Raycast with Spotlight and Companion Utilities
 
 In Part 1 of this series on replacing Raycast with Spotlight, I explained that macOS Tahoe’s greatly enhanced Spotlight led me to replace Raycast with Spotlight plus a few additional apps and utilities. Raycast purists might be shouting already, thinking I’ve lost both my mind and the challenge, since this approach requires more apps than sticking with Raycast.

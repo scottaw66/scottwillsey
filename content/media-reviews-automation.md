@@ -13,6 +13,19 @@ rfc2822_date = "Sat, 22 Mar 2025 13:00:00 GMT"
 
 ## Contents
 
+- [Updating the Look of My /now Page](#updating-the-look-of-my-now-page)
+- [Automating Quick Reviews](#automating-quick-reviews)
+  - [Step 1: Quick Reviews](#step-1-quick-reviews)
+  - [Step 2: Hazel](#step-2-hazel)
+  - [Step 3: Retrobatch](#step-3-retrobatch)
+  - [Step 4: Python Script](#step-4-python-script)
+    - [Python Script Part 1: Create Markdown Links](#python-script-part-1-create-markdown-links)
+    - [Python Script Part 2: Archive All Images in the Retrobatch Input Folder](#python-script-part-2-archive-all-images-in-the-retrobatch-input-folder)
+    - [Python Script Part 3: Delete All Text Files in the Retrobatch Output Folder](#python-script-part-3-delete-all-text-files-in-the-retrobatch-output-folder)
+    - [Python Script Part 4: Rename and Move the Image Files to Use on the Website](#python-script-part-4-rename-and-move-the-image-files-to-use-on-the-website)
+  - [Step 5: Profit](#step-5-profit)
+- [Summarium](#summarium)
+
 ## Updating the Look of My /now Page
 
 The [now page](https://nownownow.com/about) is a cool concept by [Derek Sivers](https://sive.rs/) for talking about what you’re doing now in your life. I use [my /now page](https://scottwillsey.com/now/) slightly differently, to just list things I’ve been reading, drinking, eating, watching, listening to, and sometimes playing recently.

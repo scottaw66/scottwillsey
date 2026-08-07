@@ -17,6 +17,13 @@ Sometimes, though, what you want to put on the page is more complicated than you
 
 ## Contents
 
+- [Background](#background)
+- [The Starting Point](#the-starting-point)
+- [The Modifications](#the-modifications)
+  - [A JSON Is Born](#a-json-is-born)
+  - [An Astro Page Template Gets Smarter](#an-astro-page-template-gets-smarter)
+- [Summarium](#summarium)
+
 ## Background
 
 When I first created my [/uses](/uses) page, I thought I was going to do the same thing I do for my [/links](/links)  and [/now](/now) pages… namely, use Markdown for the “data” (please don’t make me say content again) which would go into the Astro `<Content />` component to render the Markdown into HTML.
