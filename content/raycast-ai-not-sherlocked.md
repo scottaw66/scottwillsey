@@ -8,6 +8,7 @@ tags = ["mac", "raycast", "apps", "chatgpt"]
 [extra]
 display_title = "ChatGPT for macOS Will Not Sherlock Raycast AI for Me"
 display_date = "Wednesday, 05 Jun 2024"
+rfc2822_date = "Wed, 05 Jun 2024 09:00:00 GMT"
 +++
 
 I’ve finally had a chance to play with the ChatGPT macOS app[^1] and I’m here to say it doesn’t swing the uppercut required to get me to stop paying for Raycast Advanced AI. Right now the one thing it has that Raycast AI does not is the ability to upload files for parsing, but that’s coming soon to Raycast AI. Raycast also keeps playing with ideas like support for local LLMs to augment their Advanced AI plan support for models like OpenAI GPT-4o, Anthropic Claude 3 Sonnet and Opus, and Perplexity Llama 3 Sonar Large.

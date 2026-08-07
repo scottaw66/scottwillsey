@@ -8,6 +8,7 @@ tags = ["mac", "raycast", "spotlight"]
 [extra]
 display_title = "Spotomation, Part 2 – Replacing AI"
 display_date = "Thursday, 18 Sep 2025"
+rfc2822_date = "Thu, 18 Sep 2025 08:10:00 GMT"
 +++
 
 ## Contents

@@ -8,6 +8,7 @@ tags = ["mac", "raycast", "spotlight"]
 [extra]
 display_title = "Spotomation, Part 3 – Snippety Snippets"
 display_date = "Saturday, 01 Nov 2025"
+rfc2822_date = "Sat, 01 Nov 2025 08:10:00 GMT"
 +++
 
 ## Contents

@@ -8,6 +8,7 @@ tags = ["blog", "hugo", "eleventy", "javascript", "astro"]
 [extra]
 display_title = "Anew"
 display_date = "Sunday, 21 Aug 2022"
+rfc2822_date = "Sun, 21 Aug 2022 17:00:00 GMT"
 +++
 
 The last time I posted to my site was on February 24th. That's 6 months between posts.

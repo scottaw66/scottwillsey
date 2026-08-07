@@ -8,6 +8,7 @@ tags = ["mac", "images", "apps"]
 [extra]
 display_title = "ScreenFloat Your Screenshots"
 display_date = "Saturday, 23 Mar 2024"
+rfc2822_date = "Sat, 23 Mar 2024 17:00:00 GMT"
 +++
 
 One of the brilliant features of macOS is its [built-in screenshot tools](https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac). Not all operating systems are as aware of the fact that people need to take screenshots and edit and annotate them quickly as macOS appears to be. Even so, many excellent third-party utilities exist to take this to eleven.

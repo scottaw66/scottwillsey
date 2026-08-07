@@ -8,6 +8,7 @@ tags = ["blog", "indieweb"]
 [extra]
 display_title = "Links and Pins"
 display_date = "Monday, 15 Jan 2024"
+rfc2822_date = "Mon, 15 Jan 2024 17:00:00 GMT"
 +++
 
 Not long ago, I created a [Links](/links) page which I used to hold links I wanted to keep temporarily, like a little pinboard. But then I realized “HEY!! THIS IS BAD!!” People expect a links page to be things like blogrolls and stuff they might like, not the stupid stuff Scott Willsey wants to remember for a day or month or year or three.

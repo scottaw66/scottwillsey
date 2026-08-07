@@ -8,6 +8,7 @@ tags = ["astro", "blog", "writing", "regex", "javascript"]
 [extra]
 display_title = "Title Case"
 display_date = "Thursday, 10 Nov 2022"
+rfc2822_date = "Thu, 10 Nov 2022 13:00:00 GMT"
 +++
 
 A good system should never make you remember its implementation details in order to use. That extends to blogging platforms. Since my blogging platform is a self-created, self-hosted website built on [Astro](https://astro.build), the onus of making myself not have to remember how it works just to use it rests solely on me.

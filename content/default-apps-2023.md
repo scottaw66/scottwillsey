@@ -8,6 +8,7 @@ tags = ["mac", "apps", "default"]
 [extra]
 display_title = "Default Apps December 2023"
 display_date = "Sunday, 24 Dec 2023"
+rfc2822_date = "Sun, 24 Dec 2023 13:00:00 GMT"
 +++
 
 Once upon a time,[^1] the [Hemispheric Views podcast](https://hemisphericviews.com) held the first ever [Duel of the Defaults](https://listen.hemisphericviews.com/097) in which they decided who was the winner at using the most default apps for several categories. Subsequently, [Gabz posted his own default app list](https://gabz.blog/2023/11/03/my-defaults.html), and then [Robb Knight](https://rknight.me) took it to 11 with his [App Defaults](https://defaults.rknight.me) page.

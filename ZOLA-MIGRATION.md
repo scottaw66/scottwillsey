@@ -187,13 +187,27 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 - [x] Tag slugification parity confirmed (Phase 1); cloud counts match the
       baseline exactly except +1s from the comma-keyword split fix
 
-### Phase 4 — Feeds (high-risk parity item)
-- [ ] Custom `rss.xml` template for posts: **full content** (`page.content`),
-      RFC-2822 dates, absolute URLs (verify Zola rewrites relative
-      `href`/`src` with `base_url`; if not, replicate the ultrahtml rewrite in
-      a post-build step), no scripts/styles in items
-- [ ] Same for `/reads/rss.xml` (section feed)
-- [ ] Diff old vs new feed XML item-by-item against `astro/dist-baseline/`
+### Phase 4 — Feeds ✅ (2026-08-07)
+- [x] `templates/rss.xml` serves both **section feeds** (root section →
+      `/rss.xml` posts-only, reads section → `/reads/rss.xml`; site-wide
+      `generate_feeds` stays off so stubs/reads don't leak into the post
+      feed). Structure matches @astrojs/rss: full `content:encoded`, guid =
+      permalink minus trailing slash, `<summary>` customData
+- [x] `migrate/postbuild.py` (run after `zola build`) replicates the
+      ultrahtml step: absolutizes relative href/src in item content, strips
+      `<script>`/`<style>` (mastodon/threads embeds) — operates on the
+      escaped XML directly
+- [x] pubDate: converter precomputes `extra.rfc2822_date` (UTC, "GMT"
+      label — matches the live feeds' date-fns output exactly)
+- [x] Parity fixes found by feed diffing, applying site-wide:
+      `smart_punctuation = true` (Astro smart-quoted by default) and
+      `external_links_external = false` (Zola 0.23 adds rel="external" by
+      default; Astro didn't)
+- [x] Item-by-item diff vs baseline: **0 metadata mismatches** across all
+      163 comparable items; reads content 39/43 byte-identical (rest differ
+      only by `&#x26;`→`&amp;` escape spelling + one smart-quote edge case);
+      posts content identical except emoji spans (open question 8), image
+      markup (Phase 5), code blocks (Phase 6)
 
 ### Phase 5 — Images
 - [ ] `img` component using `resize_image()` → webp with width/height attrs
@@ -246,9 +260,9 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 
 1. ~~Tag slug parity~~ — **resolved 2026-08-07**: `dist/tags/` diff vs
    baseline is exact (minus the 2 garbage comma-tags, deliberately dropped).
-2. **Feed absolute-URL rewriting** (Phase 4) — needs an early spike; if Zola
-   doesn't rewrite relative URLs in `page.content`, a small post-processing
-   step is required to match today's full-content feeds.
+2. ~~Feed absolute-URL rewriting~~ — **resolved 2026-08-07**: Zola doesn't
+   rewrite; `migrate/postbuild.py` does (plus script/style stripping),
+   mirroring where ultrahtml sat in the Astro pipeline.
 3. **Pre-commit hook** (Phase 8) — need to find where it lives and what it
    writes before designing the replacement fragment.
 4. **Code-block styling gap** (Phase 6) — Giallo (0.22+) replaced syntect;
@@ -256,9 +270,13 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
    expressive-code. Accepted as "approximate".
 5. **`search.astro` / pagefind UI JS** — confirm the pagefind pip package
    ships the same `pagefind-ui` assets the astro-pagefind integration bundled.
-6. **Tera v2 date formatting** (Phase 2/4) — the `date` filter no longer
-   parses ISO 8601 datetimes; verify post-date and RFC-2822 feed formatting
-   against Tera v2's actual API when porting `DateFormat.js` usage.
+6. ~~Tera v2 date formatting~~ — **resolved 2026-08-07**: the converter
+   precomputes `display_date` and `rfc2822_date` in `[extra]`; templates
+   never parse dates.
+8. **Emoji a11y spans dropped** — rehype-accessible-emojis wrapped emoji in
+   `<span role="img" aria-label="…">`; Zola doesn't. Modern screen readers
+   announce emoji natively, so recommendation is to drop it — Scott to
+   confirm (affects ~9 feed items + the same posts' HTML).
 7. **Scott to confirm** — dropping the 2 garbage tag URLs
    (`/tags/ai,writing,website`, `/tags/ai,programming,mac,ios,apps`) without
    redirects, and the slug-typo fix + redirect in SLUG_FIXES, are OK. Both

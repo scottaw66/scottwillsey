@@ -8,6 +8,7 @@ tags = ["blog", "astro", "programming"]
 [extra]
 display_title = "Astro 5 Upgrade"
 display_date = "Tuesday, 10 Dec 2024"
+rfc2822_date = "Tue, 10 Dec 2024 09:00:00 GMT"
 +++
 
 [Astro 5](https://astro.build/blog/astro-5/) is out, and it has a number of changes from Astro 4. The good news is, I was able to upgrade this site to it without making any changes at all. That doesn’t mean I don’t have any to make – I need to [convert my Content Collections](https://docs.astro.build/en/guides/upgrade-to/v5/#updating-existing-collections) to the new [Content Layer API](https://astro.build/blog/content-layer-deep-dive/) at the very least, for example.

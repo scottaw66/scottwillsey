@@ -8,6 +8,7 @@ tags = ["mac", "apps", "terminal", "warp"]
 [extra]
 display_title = "Warp Blocks"
 display_date = "Monday, 11 Dec 2023"
+rfc2822_date = "Mon, 11 Dec 2023 13:00:00 GMT"
 +++
 
 I like [Warp](https://www.warp.dev). I did not intend to like Warp. I didn't even **want** to like Warp. But after giving it a fair shot for a few days, I couldn't help but liking it and sticking with it. It just feels to me like everything a next generation terminal should be.

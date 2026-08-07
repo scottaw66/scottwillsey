@@ -8,6 +8,7 @@ tags = ["git", "programming"]
 [extra]
 display_title = "Git Diff With Previous Commit Versions"
 display_date = "Tuesday, 13 Jun 2023"
+rfc2822_date = "Tue, 13 Jun 2023 17:00:00 GMT"
 +++
 
 In my last post, I had a comparison of two different versions of the `scripts` portion of my site's `package.json` file. You may have wondered, "how did he so easily compare his current site build script with a site build script version from long ago?"

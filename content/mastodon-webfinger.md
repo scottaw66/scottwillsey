@@ -8,6 +8,7 @@ tags = ["mastodon", "search"]
 [extra]
 display_title = "The Mastodon Webfinger Domain Search Super Trick"
 display_date = "Wednesday, 23 Nov 2022"
+rfc2822_date = "Wed, 23 Nov 2022 13:00:00 GMT"
 +++
 
 I promised an article about whether or not Mastodon and the Fediverse were going to solve all our problems and make us happy humans with a long species survival probability, but work and other tech projects have intervened. More on that later.

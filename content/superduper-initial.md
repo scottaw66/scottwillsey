@@ -8,6 +8,7 @@ tags = ["apps", "mac", "superduper"]
 [extra]
 display_title = "Initial SuperDuper Copy"
 display_date = "Monday, 28 Oct 2024"
+rfc2822_date = "Mon, 28 Oct 2024 13:00:00 GMT"
 +++
 
 Last night I [mentioned](https://scottwillsey.com/superduper-invisible/) setting up [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) to clone my Mac’s internal SSD to an external SSD daily. One thing about the initial copy you should know that doesn’t pertain to subsequent incremental copies is don’t let your Mac sleep during the initial copy.

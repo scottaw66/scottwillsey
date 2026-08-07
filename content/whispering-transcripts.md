@@ -8,6 +8,7 @@ tags = ["podcast", "audio", "transcription", "apps"]
 [extra]
 display_title = "Whispering Podcast Transcripts"
 display_date = "Wednesday, 25 Jan 2023"
+rfc2822_date = "Wed, 25 Jan 2023 13:00:00 GMT"
 +++
 
 In what feels like a lifetime ago, I had a podcast called Pocket Sized Podcast, talking about iOS apps and devices, mostly. At some point, for reasons I can't even begin to recall, I joined up with a fledgling podcast network called Fiat Lux, which was later rebranded Constellation by the two fairly angry guys running it. The whole thing was a giant fiasco full of insane stories, but it's relevant to me now because podcast transcription is having a moment.

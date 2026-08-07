@@ -8,6 +8,7 @@ tags = ["blog", "design"]
 [extra]
 display_title = "Hypercritical GOLD Theme"
 display_date = "Thursday, 10 Aug 2023"
+rfc2822_date = "Thu, 10 Aug 2023 17:00:00 GMT"
 +++
 
 **Edit:**

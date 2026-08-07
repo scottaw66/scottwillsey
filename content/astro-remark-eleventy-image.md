@@ -8,6 +8,7 @@ tags = ["blog", "images", "responsive", "astro"]
 [extra]
 display_title = "Astro Remark Eleventy Image"
 display_date = "Tuesday, 07 Feb 2023"
+rfc2822_date = "Tue, 07 Feb 2023 13:00:00 GMT"
 +++
 
 So there I was, playing with [eleventy-img](https://www.11ty.dev/docs/plugins/image/) to find a way to [generate responsive images for image links in markdown files](https://scottwillsey.com/episode-image-script/), when [Christian Ohanaja](https://cjohanaja.com) did the work for me and created the [Astro Remark Eleventy Image](https://github.com/ChrisOh431/astro-remark-eleventy-image) plugin.

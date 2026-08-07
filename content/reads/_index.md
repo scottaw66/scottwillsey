@@ -5,4 +5,6 @@ title = "Weekly Reads"
 render = false
 sort_by = "date"
 page_template = "read.html"
+# Section feed at /reads/rss.xml.
+generate_feeds = true
 +++

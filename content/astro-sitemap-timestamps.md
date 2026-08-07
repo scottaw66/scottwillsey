@@ -8,6 +8,7 @@ tags = ["blog", "astro", "git"]
 [extra]
 display_title = "Astro Sitemap Page Modified Timestamps"
 display_date = "Tuesday, 18 Jun 2024"
+rfc2822_date = "Tue, 18 Jun 2024 13:00:00 GMT"
 +++
 
 Threads generally makes me sad by being social media, so I don’t look at it often. Imagine my surprise today when I was wading through some hostile replies to my thoughts about an F1 related topic and I stumbled across a comment to me about my post on [Using Git Hooks for Displaying Last Modified Dates](http://localhost:4321/git-pre-commit/) and how to apply it to [Astro Sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/).

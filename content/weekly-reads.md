@@ -8,6 +8,7 @@ tags = ["blog"]
 [extra]
 display_title = "Weekly Reads"
 display_date = "Saturday, 28 Sep 2024"
+rfc2822_date = "Sat, 28 Sep 2024 17:00:00 GMT"
 +++
 
 My brother likes to send emails to dad and I containing links of interesting things he’s read recently, replete with commentary of his own. I used to send one link at a time to them, then I tried his approach, and now I generally send a link at a time again.

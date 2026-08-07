@@ -8,6 +8,7 @@ tags = ["keyword"]
 [extra]
 display_title = "MikanRemote — an iPhone Remote Control for My Mac"
 display_date = "Saturday, 09 May 2026"
+rfc2822_date = "Sat, 09 May 2026 08:10:00 GMT"
 +++
 
 ## The problem

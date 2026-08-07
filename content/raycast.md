@@ -9,6 +9,7 @@ tags = ["mac", "raycast", "apps"]
 link = "https://www.theverge.com/23170431/raycast-how-to-macos-search-extensions-alfred-spotlight"
 display_title = "How to Use Raycast and How It Compares to Spotlight and Alfred"
 display_date = "Friday, 28 Jul 2023"
+rfc2822_date = "Fri, 28 Jul 2023 17:00:00 GMT"
 +++
 
 I'm linking to a year-old article on The Verge because I just started using Raycast today. Prior to this, I was using Alfred. I was leery of Raycast because of the subscription model for pro features as well as concern over privacy issues, but it incorporates so much of what I was using other menubar apps for in addition to Alfred that it won me over in less than an hour of testing.

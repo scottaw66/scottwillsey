@@ -8,6 +8,7 @@ tags = ["blog", "indieweb"]
 [extra]
 display_title = "Cool Site Spotlight"
 display_date = "Tuesday, 09 Apr 2024"
+rfc2822_date = "Tue, 09 Apr 2024 17:00:00 GMT"
 +++
 
 Did you know my [Links](/links) page has an ever-changing [Cool Site Spotlight](/links#CoolSiteSpotlight)? I’ve mentioned it tangentially before, but I want to mention both it and my Links page specifically now because I think both are pretty cool.

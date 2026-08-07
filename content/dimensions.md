@@ -8,6 +8,7 @@ tags = ["blog", "images", "responsive", "astro"]
 [extra]
 display_title = "Dimensions Are a Nightmare"
 display_date = "Sunday, 19 Feb 2023"
+rfc2822_date = "Sun, 19 Feb 2023 17:00:00 GMT"
 +++
 
 I've written so much about images and image optimization and yet the reality is I still have no clue exactly how it works.

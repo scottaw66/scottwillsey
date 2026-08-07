@@ -8,6 +8,7 @@ tags = ["keyword"]
 [extra]
 display_title = "MikanRemote Utilities"
 display_date = "Wednesday, 27 May 2026"
+rfc2822_date = "Wed, 27 May 2026 08:10:00 GMT"
 +++
 
 In case my announcement of my [MikanRemote utility app for Mac](https://scottwillsey.com/mikanremote-an-iphone-remote-control-for-my-mac/) wasn't exciting enough, I've added yet another screen – the utilities screen. It consists of exactly TWO utilities at the moment: Take a Screenshot, and Open URL on Mac.

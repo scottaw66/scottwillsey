@@ -8,6 +8,7 @@ tags = ["mac", "chatgpt", "apps"]
 [extra]
 display_title = "All the GPTs"
 display_date = "Wednesday, 26 Apr 2023"
+rfc2822_date = "Wed, 26 Apr 2023 17:00:00 GMT"
 +++
 
 ## GPT - What is it good for?

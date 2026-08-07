@@ -8,6 +8,7 @@ tags = ["mac", "apps", "default"]
 [extra]
 display_title = "Default Apps November 2025"
 display_date = "Saturday, 29 Nov 2025"
+rfc2822_date = "Sat, 29 Nov 2025 13:00:00 GMT"
 +++
 
 I guess it's that time of year again.

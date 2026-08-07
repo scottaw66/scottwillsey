@@ -9,6 +9,7 @@ tags = ["blog"]
 link = "https://coleb.blog/posts/i-do-it-for-myself"
 display_title = "I Do It for Myself"
 display_date = "Friday, 28 Jun 2024"
+rfc2822_date = "Fri, 28 Jun 2024 20:00:00 GMT"
 +++
 
 This morning as I was going through my blogroll waiting for my double-height cup of coffee to kick in, I came across Cole’s post about the obvious rewards, or lack thereof, of blogging (or any content creation, really), and it resonated with me. Why DO people like me have websites that we update and maintain and post links to when it genuinely seems like maybe one or two people at most ever notice?

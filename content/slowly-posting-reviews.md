@@ -8,6 +8,7 @@ tags = ["blog"]
 [extra]
 display_title = "Slowly Posting Reviews"
 display_date = "Sunday, 13 Apr 2025"
+rfc2822_date = "Sun, 13 Apr 2025 08:10:00 GMT"
 +++
 
 I’ve written about my [review automation workflow in some detail](https://scottwillsey.com/media-reviews-automation/), and while I personally find it fascinating, really the point is [the reviews themselves](https://scottwillsey.com/reviews/). I’m slowly getting some up there and will keep adding more slowly and steadily over time.

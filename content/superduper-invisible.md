@@ -8,6 +8,7 @@ tags = ["apps", "mac", "superduper"]
 [extra]
 display_title = "SuperDuper Invisible"
 display_date = "Sunday, 27 Oct 2024"
+rfc2822_date = "Sun, 27 Oct 2024 13:00:00 GMT"
 +++
 
 I’ve certainly used drive cloning software in the past, including [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html).[^1] For awhile now, though, I’ve just had [Backblaze](https://www.backblaze.com) as my backup method, which does violate my principle of always having local and remote backups. So when I saw Jason Snell’s article on [SixColors](https://sixcolors.com) about [using a cloned drive to recover from Mac failures](https://sixcolors.com/post/2024/10/use-a-cloned-drive-to-recover-from-mac-failures/), it gave me the impetus to make a clone again.

@@ -18,7 +18,7 @@ arrays, one folded array continuation, blank lines).
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -154,6 +154,16 @@ def display_date(date: str, path: Path) -> str:
         return ""  # render() already errors on unparseable dates
 
 
+def rfc2822_date(date: str) -> str:
+    """Feed pubDate: RFC 2822 in UTC labeled "GMT", matching the live feeds
+    exactly (verified item-by-item against dist-baseline/rss.xml 2026-08-07)."""
+    try:
+        d = datetime.fromisoformat(date).astimezone(timezone.utc)
+        return d.strftime("%a, %d %b %Y %H:%M:%S") + " GMT"
+    except ValueError:
+        return ""
+
+
 FENCE_RE = re.compile(r"^ {0,3}(```|~~~)")
 # Since Zola 0.23, content .md files are themselves Tera templates: any
 # literal {{ / {% / {# in the source — prose OR code samples — would be
@@ -277,6 +287,7 @@ def render(fm: dict, body: str, path: Path, section: str) -> str:
     else:
         extra["display_title"] = title_case(str(fm["title"]))
     extra["display_date"] = display_date(date, path)
+    extra["rfc2822_date"] = rfc2822_date(date)
     if extra:
         lines.append("[extra]")
         for k, v in extra.items():

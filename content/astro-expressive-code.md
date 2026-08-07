@@ -8,6 +8,7 @@ tags = ["blog", "astro", "design"]
 [extra]
 display_title = "Expressive Code Blocks in Astro"
 display_date = "Wednesday, 09 Aug 2023"
+rfc2822_date = "Wed, 09 Aug 2023 08:09:00 GMT"
 +++
 
 You've seen a lot of code blocks on this site in various posts of mine, primarily because I'm not ashamed to show what a bad programmer I am or how excited I am that I learned something that's probably rudimentary to many people. And while I like how the native [Astro support for the Shiki syntax highlighter](https://docs.astro.build/en/guides/markdown-content/#shiki-configuration) works, I really like how code blocks look in Astro's documentation pages even more. It looks like this:

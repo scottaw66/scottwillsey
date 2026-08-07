@@ -1,0 +1,12 @@
+{#- Feed template for both section feeds (/rss.xml and /reads/rss.xml) —
+    structure matches the @astrojs/rss output byte-for-byte where possible
+    (verified against astro/dist-baseline/*.xml): items carry full content,
+    guid is the permalink without trailing slash, <summary> is the Astro
+    feed's customData. migrate/postbuild.py then absolutizes relative
+    href/src and strips script/style from content:encoded, replicating the
+    ultrahtml transform step of the Astro pipeline. -#}
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>{% if "reads" in feed_url %}<title>{{ config.title }} Weekly Reads</title><description>Weekly Reads</description>{% else %}<title>{{ config.title }}</title><description>{{ config.description }}</description>{% endif %}<link>{{ config.base_url }}/</link>
+{%- for page in pages -%}
+<item><title>{{ page.title }}</title><link>{{ page.permalink[:-1] }}</link><guid isPermaLink="true">{{ page.permalink[:-1] }}</guid><description>{{ page.description }}</description><pubDate>{{ page.extra.rfc2822_date }}</pubDate><content:encoded>{{ page.content }}</content:encoded><summary>{{ page.description }}</summary></item>
+{%- endfor -%}
+</channel></rss>

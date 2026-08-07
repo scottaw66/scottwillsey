@@ -9,6 +9,7 @@ tags = ["apps", "mac", "retro", "music"]
 link = "https://www.macstories.net/reviews/quicktune-a-music-remote-app-for-mac-with-tiger-vibes/"
 display_title = "QuickTune Is Beautiful and MacStories Knows It"
 display_date = "Wednesday, 22 May 2024"
+rfc2822_date = "Wed, 22 May 2024 20:00:00 GMT"
 +++
 
 [Mario Guzmán](https://marioaguzman.github.io) has made some beautiful apps in his time, and [QuickTune](https://marioaguzman.github.io/quicktune/) tops the list in my opinion. QuickTune is a beautifully Tiger-ish retro music player that uses Apple Music but gives a beautiful retro brushed metal QuickTime UI for controlling and visualizing your playlists with.

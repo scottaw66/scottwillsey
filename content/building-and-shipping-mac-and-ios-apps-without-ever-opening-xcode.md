@@ -8,6 +8,7 @@ tags = ["ai", "programming", "mac", "ios", "apps"]
 [extra]
 display_title = "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
 display_date = "Saturday, 11 Jul 2026"
+rfc2822_date = "Sat, 11 Jul 2026 08:10:00 GMT"
 +++
 
 Lately, I've heard several Apple related podcasters talk about how bad Xcode is, and how Apple needs to make vibe-coding Mac and iOS apps better by making Xcode less inscrutable. They're not wrong, but also I don't understand why they're even opening Xcode in the first place. With a little bit of pre-work, you can vibe code Mac and iOS apps to your heart's content without looking at Xcode anymore.

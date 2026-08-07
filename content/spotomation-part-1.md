@@ -8,6 +8,7 @@ tags = ["mac", "raycast", "spotlight"]
 [extra]
 display_title = "Spotomation, Part 1 – Spotlighting"
 display_date = "Saturday, 23 Aug 2025"
+rfc2822_date = "Sat, 23 Aug 2025 08:10:00 GMT"
 +++
 
 ## Spotlight Is Not Dead, It Was Just Resting

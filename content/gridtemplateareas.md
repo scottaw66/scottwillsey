@@ -8,6 +8,7 @@ tags = ["css", "responsive", "design"]
 [extra]
 display_title = "Named CSS Grid Template Areas"
 display_date = "Friday, 26 May 2023"
+rfc2822_date = "Fri, 26 May 2023 17:00:00 GMT"
 +++
 
 One of the beautiful things about CSS grid (and in my opinion, there are many) is the ability to name grid sections (template areas) and then assign the children (the grid items) to those sections. This means you can do useful things like change where a grid item displays when the site is viewed on smaller screens.

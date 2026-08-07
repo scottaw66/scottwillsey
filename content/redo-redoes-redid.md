@@ -8,6 +8,7 @@ tags = ["blog", "design"]
 [extra]
 display_title = "Redo, Redoes, Redid"
 display_date = "Saturday, 22 Jun 2024"
+rfc2822_date = "Sat, 22 Jun 2024 09:00:00 GMT"
 +++
 
 You may have noticed that today marks a redesign that I hope brings a cleaner, sleeker, easier to read format to the site. I’m kind of excited about it – I hope it’s at least tolerable for you, the reader! Even better, I hope you actually like it.

@@ -8,6 +8,7 @@ tags = ["blog", "astro", "programming", "javascript", "remark"]
 [extra]
 display_title = "Auto-Generated Last Modified Date in Astro"
 display_date = "Saturday, 06 Jan 2024"
+rfc2822_date = "Sat, 06 Jan 2024 22:49:58 GMT"
 +++
 
 I'm trying to figure out how to use remark plugins in [Astro](https://astro.build) to modify a couple things in posts for me automatically, and along the way I've used remark to add a couple quality of life improvements. The first is an auto-generated table of contents for longer posts that I feel need one, and the second is an auto-generated last modified date for pages based on git commit timestamps.

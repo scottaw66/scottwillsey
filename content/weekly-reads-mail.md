@@ -8,6 +8,7 @@ tags = ["mac", "raycast", "apps"]
 [extra]
 display_title = "Mail Weekly Reads Script Command"
 display_date = "Thursday, 17 Oct 2024"
+rfc2822_date = "Thu, 17 Oct 2024 17:00:00 GMT"
 +++
 
 [As I mentioned previously](https://scottwillsey.com/weekly-reads), I have a [Weekly Reads page](https://scottwillsey.com/reads/1/) that I set up to make it easier for me to share articles with my dad and brother (and anyone else who cares), complete with RSS feed. But let’s be real, neither of them wants to be bothered with my feed because they have stuff to do and we already have a tradition of emailing links to each other.[^1]

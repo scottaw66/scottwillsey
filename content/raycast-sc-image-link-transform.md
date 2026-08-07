@@ -8,6 +8,7 @@ tags = ["automation", "mac", "apps", "blog", "raycast", "programming", "javascri
 [extra]
 display_title = "Raycast Script Command for Image Link Transformation"
 display_date = "Monday, 08 Jul 2024"
+rfc2822_date = "Mon, 08 Jul 2024 13:00:00 GMT"
 +++
 
 One of my blogging workflow chores is to make sure my image links are correct for where images (both full-sized and optimized versions) are stored in my Astro project. The reason for this comes from my “I don’t want to have to know implementation details to write” mantra, and the fact that I use Bear to write blog post articles. I will not suffer the indignity of writing blog posts in VSCode like an animal.[^1]

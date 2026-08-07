@@ -8,6 +8,7 @@ tags = ["mac", "bookmarks", "safari", "apps"]
 [extra]
 display_title = "Fastmarks and Safari Bookmark Descriptions"
 display_date = "Monday, 17 Jul 2023"
+rfc2822_date = "Mon, 17 Jul 2023 17:00:00 GMT"
 +++
 
 In my [last post](https://scottwillsey.com/safari-bookmarks/), I talked about the bizarre world of Safari bookmark descriptions and how to edit them, and I justified this weird tangent on my part by the fact that I want to use [Fastmarks](https://retina.studio/fastmarks/) for searching for and opening bookmarks.

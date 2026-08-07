@@ -8,6 +8,7 @@ tags = ["blog"]
 [extra]
 display_title = "This Is a Blog"
 display_date = "Monday, 19 Sep 2022"
+rfc2822_date = "Mon, 19 Sep 2022 13:00:00 GMT"
 +++
 
 This is a blog.

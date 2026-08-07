@@ -8,6 +8,7 @@ tags = ["mac", "bookmarks", "safari", "apps"]
 [extra]
 display_title = "Editing Safari Bookmark Descriptions in macOS"
 display_date = "Tuesday, 11 Jul 2023"
+rfc2822_date = "Tue, 11 Jul 2023 17:00:00 GMT"
 +++
 
 Yesterday I learned about a really cool way to edit Safari bookmark descriptions in macOS. I understand this immediately opens up questions like "why would you want to?" and "why are you even using Safari bookmarks at all?". I will answer those questions, but first let me show you how to edit Safari bookmark descriptions. 🙂

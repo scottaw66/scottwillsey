@@ -9,6 +9,7 @@ tags = ["apps", "mac", "automation", "programming", "raycast"]
 [extra]
 display_title = "Updated Sessions Raycast Script Command, 2025 Edition"
 display_date = "Thursday, 27 Mar 2025"
+rfc2822_date = "Thu, 27 Mar 2025 08:10:00 GMT"
 +++
 
 I’ve spoken a couple times about my Sessions Raycast script command, both when [I originally set it up](https://scottwillsey.com/sessions-script-command/), and then again when [I updated it to use Moom as my window manager](https://scottwillsey.com/updated-sessions-script-command/). Well, I’m back to using Raycast as my window manager, and I also use a Raycast focus mode for my podcast session. So here’s your updated Session Raycast script command, 2025 edition.

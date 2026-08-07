@@ -8,6 +8,7 @@ tags = ["blog", "astro", "markdown", "remark"]
 [extra]
 display_title = "Remarking the Socials"
 display_date = "Thursday, 04 Jul 2024"
+rfc2822_date = "Thu, 04 Jul 2024 13:00:00 GMT"
 +++
 
 ## Contents

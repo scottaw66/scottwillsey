@@ -8,6 +8,7 @@ tags = ["search", "pagefind", "astro", "hugo", "eleventy"]
 [extra]
 display_title = "Astro-Pagefind"
 display_date = "Monday, 12 Jun 2023"
+rfc2822_date = "Mon, 12 Jun 2023 17:00:00 GMT"
 +++
 
 I thought I'd talked about [Pagefind](https://pagefind.app) and [Astro-Pagefind](https://github.com/shishkin/astro-pagefind) here before, but [my very own site search](https://scottwillsey.com/search/) which itself is built using Astro-Pagefind says otherwise.

@@ -8,6 +8,7 @@ tags = ["apps", "automation", "blog", "indieweb", "mac", "programming", "raycast
 [extra]
 display_title = "Cool Site Spotlight Raycast Script Command"
 display_date = "Sunday, 02 Feb 2025"
+rfc2822_date = "Sun, 02 Feb 2025 13:00:00 GMT"
 +++
 
 I like to highlight different cool or interesting sites by featuring them in my [Cool Site Spotlight](https://scottwillsey.com/links/#CoolSiteSpotlight) on my [links](https://scottwillsey.com/links/) page. I put a new one up every one or two weeks, and put a link to the last one in the [Cool Sites Archive](https://scottwillsey.com/links/#cool-sites-archive) section of the links page.

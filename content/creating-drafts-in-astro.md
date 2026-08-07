@@ -8,6 +8,7 @@ tags = ["astro", "blog"]
 [extra]
 display_title = "Creating Drafts in Astro 5"
 display_date = "Tuesday, 25 Mar 2025"
+rfc2822_date = "Tue, 25 Mar 2025 08:10:00 GMT"
 +++
 
 Last week or so, I started writing a blog post as I sometimes do, this one pertaining to my [Automation Workflow for Media Reviews](https://scottwillsey.com/media-reviews-automation/). Unfortunately, I wanted to preview it as I went along, so I copied it in progress to my git main branch of the local copy of the website.

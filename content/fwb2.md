@@ -8,6 +8,7 @@ tags = ["podcast", "friendswithbeer", "fwb", "astro"]
 [extra]
 display_title = "Friends With Beer 2.0"
 display_date = "Friday, 28 Oct 2022"
+rfc2822_date = "Fri, 28 Oct 2022 13:00:00 GMT"
 +++
 
 I think I mentioned in my [Responsive](https://scottwillsey.com/image-rabbit-hole-1/) [Image](https://scottwillsey.com/image-rabbit-hole-2/) [Rabbit](https://scottwillsey.com/image-rabbit-hole-3/) Hole Series that I have been building an Astro version of the [Friends with Beer website](https://friendswithbeer.com), and it's finally live!

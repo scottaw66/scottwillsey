@@ -8,6 +8,7 @@ tags = ["mac", "apps", "automation", "raycast"]
 [extra]
 display_title = "He’s Not Dead, He’s Resting!"
 display_date = "Sunday, 13 Jul 2025"
+rfc2822_date = "Sun, 13 Jul 2025 08:10:00 GMT"
 +++
 
 I’m not dead yet, [I’m just resting](https://www.youtube.com/watch?v=-SB4gB3DEhA)!  I took a couple weeks to tour Japan with my daughter and then a couple more weeks to get over whatever I caught at the end of our trip (I genuinely suspect it was the terrible throat variation of Covid going around. It wiped me out).

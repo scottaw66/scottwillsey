@@ -8,9 +8,12 @@ description = "macOS nerd, old school computer guy"
 # rsyncs $BASE_DIR/dist/ — matching Astro's old output dir means it needs no changes.
 output_dir = "dist"
 
-# Feeds are hand-templated in Phase 4 (full-content RSS at /rss.xml and
-# /reads/rss.xml, matching the Astro feeds); Zola's built-in feed stays off.
+# Site-wide feed generation stays OFF: a site feed would mix posts, reads,
+# and list stubs. The root and reads sections opt in individually
+# (generate_feeds in their _index.md), giving /rss.xml (posts) and
+# /reads/rss.xml — same URLs as the Astro feeds, via templates/rss.xml.
 generate_feeds = false
+feed_filenames = ["rss.xml"]
 
 # Search is Pagefind (post-build indexer, Phase 7), not Zola's elasticlunr index.
 build_search_index = false
@@ -22,6 +25,10 @@ taxonomies = [{ name = "tags" }]
 [markdown]
 # Footnotes rendered at the bottom like GFM — barefoot.min.js turns them into popovers.
 bottom_footnotes = true
+# Astro's remark pipeline smart-quoted apostrophes/dashes by default — keep parity.
+smart_punctuation = true
+# Zola 0.23 adds rel="external" to external links by default; the Astro build didn't.
+external_links_external = false
 
 # Site is dark-mode only (per Scott, 2026-08-07) — one theme, no switcher.
 [markdown.highlighting]

@@ -8,6 +8,7 @@ tags = ["javascript", "rss", "astro"]
 [extra]
 display_title = "Adding to Allowed Tags in Sanitize-Html"
 display_date = "Tuesday, 27 Jun 2023"
+rfc2822_date = "Tue, 27 Jun 2023 13:00:00 GMT"
 +++
 
 Because I include full body text in my RSS feed, I use an html sanitizer called [sanitize-html](https://www.npmjs.com/package/sanitize-html) to sanitize, escape, and encode everything in the item body. One thing I didn't realize until today is that by default, it strips out img tags. I knew that images were missing from my posts when viewed in RSS readers, but I thought this was due to me using relative URLs for them and not including the full URL including domain name. This may actually still matter, but it turns out my images never got that far, because sanitize-html was removing them whenever my RSS feed was rebuilt.

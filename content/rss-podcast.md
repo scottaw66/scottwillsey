@@ -9,6 +9,7 @@ tags = ["audio", "rss", "podcast"]
 link = "https://www.rsspod.net"
 display_title = "Really Specifically"
 display_date = "Monday, 08 Apr 2024"
+rfc2822_date = "Mon, 08 Apr 2024 13:00:00 GMT"
 +++
 
 Here’s a pitch for you: how’d you like to listen to a podcast that is both fascinating from the perspective of being about tech nerdery and podcasts in general AND that is also part of a PhD project? There can only be one that fits this definition, and it’s [Martin Feld](https://social.lol/@martinfeld)’s [Really Specific Stories](https://www.rsspod.net) podcast.

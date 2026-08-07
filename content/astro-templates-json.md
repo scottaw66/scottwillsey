@@ -8,6 +8,7 @@ tags = ["blog", "astro", "data", "programming"]
 [extra]
 display_title = "Astro Templates for JSON Data"
 display_date = "Friday, 02 Feb 2024"
+rfc2822_date = "Fri, 02 Feb 2024 08:09:00 GMT"
 +++
 
 Web frameworks like [Astro](https://astro.build) often allow the use of Markdown for blog post “content”, that is, the actual blog post, and then the page design and programming is in a page template which takes the Markdown and renders its contents in the appropriate place for a fully rendered HTML page. This is convenient and allows excellent separation of written words (“content”) and site rendering mechanisms.

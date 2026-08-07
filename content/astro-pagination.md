@@ -8,6 +8,7 @@ tags = ["astro", "blog", "design", "pagination", "programming"]
 [extra]
 display_title = "Giving in to Astro Pagination"
 display_date = "Monday, 01 May 2023"
+rfc2822_date = "Mon, 01 May 2023 17:00:00 GMT"
 +++
 
 If you're reading this thinking "this site looks a little bit different", you're correct. What started off as an exercise in improving my pagination pager for my blog posts became a bit of a site redesign including moving menu links out of the header into a standalone menu, a new (work-in-progress) pager, and having the home page act as a links/summary page instead of being the full page 1 of my paginated blog posts.

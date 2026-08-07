@@ -8,6 +8,7 @@ tags = ["blog", "rss", "astro", "podcast", "images"]
 [extra]
 display_title = "More on Astro, Image Optimization, and Markdown"
 display_date = "Saturday, 07 Jan 2023"
+rfc2822_date = "Sat, 07 Jan 2023 13:00:00 GMT"
 +++
 
 I've talked a lot about image optimization and RSS feed handling with [Astro](https://astro.build/). I'm about to talk about it some more. I presume you're like me and obsess endlessly about these topics, so you should enjoy this.[^1] In my case, I don't know how much of it is enjoyment and how much of it is a compulsive search for a better way.

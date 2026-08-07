@@ -8,6 +8,7 @@ tags = ["apps", "mac", "automation", "programming", "raycast"]
 [extra]
 display_title = "Automating Sessions With Raycast Script Commands"
 display_date = "Sunday, 25 Aug 2024"
+rfc2822_date = "Sun, 25 Aug 2024 13:00:00 GMT"
 +++
 
 In the past, I [used a menubar utility called Bunch to start and stop my podcast session setup](/bunch). But this was before I started using Raycast, and now that I already use Raycast to run lots of scripts and automations, I decided to do this with Raycast too.

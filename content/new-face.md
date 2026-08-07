@@ -8,6 +8,7 @@ tags = ["design", "blog"]
 [extra]
 display_title = "New Face!"
 display_date = "Wednesday, 19 Nov 2025"
+rfc2822_date = "Wed, 19 Nov 2025 08:10:00 GMT"
 +++
 
 Look, a new face! No, not mine, unfortunately for those who know me in person. The SITE HAS A NEW FACE!! It's new. It's all new. Or as [Peter](https://infosec.exchange/@nikolaidis) would say, "It's the same. Exactly the same."

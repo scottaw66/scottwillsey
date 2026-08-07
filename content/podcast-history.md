@@ -8,6 +8,7 @@ tags = ["automation", "blog", "programming", "python"]
 [extra]
 display_title = "Pseudo-Automating the Listened to Podcasts List on My /Now Page"
 display_date = "Saturday, 03 Aug 2024"
+rfc2822_date = "Sat, 03 Aug 2024 13:00:00 GMT"
 +++
 
 As you know, I have a [/now](/now) page that I update on occasion to let anyone who cares know what kinds of things I’m watching, reading, and eating at some random point in my life. So far, it’s been a very manual update process because I haven’t had time to start automating any of it until now.

@@ -8,6 +8,7 @@ tags = ["blog", "javascript", "astro", "rss"]
 [extra]
 display_title = "RSS, Astro, and Me – Part 2"
 display_date = "Monday, 12 Sep 2022"
+rfc2822_date = "Mon, 12 Sep 2022 13:00:00 GMT"
 +++
 
 As I mentioned in [Part 1](/rss-pt1) of this installment, while trying to modify my site RSS feed to contain the full body of each post in my feed items, I ran into an inconvenient truth about how [MDX](https://mdxjs.com) exposes its file content as a component and how I could not use that component outside of an [Astro](https://astro.build) component. JavaScript just doesn't know what it is. Support for the MDX Content component has to be built into whatever framework you're using.

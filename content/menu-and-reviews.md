@@ -8,6 +8,7 @@ tags = ["blog"]
 [extra]
 display_title = "Menu Updates and Reviews Page"
 display_date = "Sunday, 23 Feb 2025"
+rfc2822_date = "Sun, 23 Feb 2025 13:00:00 GMT"
 +++
 
 You may have noticed that the site menu has a couple new icons in it. One looks like a timer or stopwatch – that’s a link to the [/now](/now) page, which I’ve had for awhile, but haven’t had a menu link to. The other looks like movie director clapper with a gear on it – that’s a link to a new page: my [/reviews](/reviews) page.

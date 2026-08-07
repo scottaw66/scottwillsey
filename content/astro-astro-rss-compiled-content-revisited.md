@@ -8,6 +8,7 @@ tags = ["keyword"]
 [extra]
 display_title = "Astro RSS Compiled Content Revisited"
 display_date = "Saturday, 04 Apr 2026"
+rfc2822_date = "Sat, 04 Apr 2026 08:10:00 GMT"
 +++
 
 In the past I wrote about [full-text RSS in Astro](https://scottwillsey.com/astro-rss-compiledcontent/), and using sanitize-html on the blog post content to escape and filter html tags. This is or was the [recommended procedure when creating full-text RSS feeds according to Astro's documentation on RSS feeds](https://docs.astro.build/en/recipes/rss/), and worked fine until recently.

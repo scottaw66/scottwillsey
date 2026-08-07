@@ -8,6 +8,7 @@ tags = ["automation", "blog", "reviews", "python", "retrobatch", "hazel", "mac"]
 [extra]
 display_title = "Automation Workflow for Media Reviews"
 display_date = "Saturday, 22 Mar 2025"
+rfc2822_date = "Sat, 22 Mar 2025 13:00:00 GMT"
 +++
 
 ## Contents

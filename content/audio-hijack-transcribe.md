@@ -8,6 +8,7 @@ tags = ["mac", "apps", "podcast"]
 [extra]
 display_title = "Podcast Transcripts With Audio Hijack"
 display_date = "Friday, 03 Nov 2023"
+rfc2822_date = "Fri, 03 Nov 2023 17:00:00 GMT"
 +++
 
 There I was sitting in bed after a long work day, reading [SixColors](https://sixcolors.com/), as one should, when I stumbled across this article: [Audio Hijack adds automatic transcription](https://sixcolors.com/post/2023/11/audio-hijack-adds-automatic-transcription/).

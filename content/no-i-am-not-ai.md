@@ -8,6 +8,7 @@ tags = ["ai", "writing", "website"]
 [extra]
 display_title = "No, I Am Not AI"
 display_date = "Tuesday, 14 Jul 2026"
+rfc2822_date = "Tue, 14 Jul 2026 08:10:00 GMT"
 +++
 
 Apparently a bunch of [people on Hacker News think](https://news.ycombinator.com/item?id=48896665) my [post about vibe-coding Mac and iOS apps](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) was itself vibe-coded.

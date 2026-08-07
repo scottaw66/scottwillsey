@@ -8,6 +8,7 @@ tags = ["blog", "astro", "programming", "design"]
 [extra]
 display_title = "Some Tags"
 display_date = "Tuesday, 08 Aug 2023"
+rfc2822_date = "Tue, 08 Aug 2023 08:10:00 GMT"
 +++
 
 One of my site to-do items for a while now has been doing something with the keywords I add to each post's front matter. Content in Astro can be different variations of Markdown, and front matter is a YAML section with metadata about the content, such as title, description, publish date, or really whatever you want to put in there. One of the things I add there is a YAML array of keywords which are really just tags. I called them keywords, they could have been called categories, tags, topics, whatever.

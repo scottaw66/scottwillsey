@@ -8,6 +8,7 @@ tags = ["mac", "apps", "terminal", "raycast", "programming", "applescript"]
 [extra]
 display_title = "Default Browser Switching"
 display_date = "Friday, 29 Dec 2023"
+rfc2822_date = "Fri, 29 Dec 2023 13:00:00 GMT"
 +++
 
 As you saw from my [Default Apps December 2023](https://scottwillsey.com/default-apps-2023/) post, I use Safari for personal use and Chrome for web work and for some administrative and server-related tools that work best in it. The downside to this is that links go to the default browser from things like 1Password, Fastmarks, and email messages, for example. This means when I'm using Chrome, what I really need is for it to be my default browser, and the rest of the time, Safari to be.

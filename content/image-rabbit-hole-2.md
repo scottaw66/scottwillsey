@@ -8,6 +8,7 @@ tags = ["blog", "images", "responsive", "astro"]
 [extra]
 display_title = "Reponsive Image Rabbit Hole – Part 2"
 display_date = "Friday, 30 Sep 2022"
+rfc2822_date = "Fri, 30 Sep 2022 13:00:00 GMT"
 +++
 
 [In installment 1 of this responsive image topic](https://scottwillsey.com/image-rabbit-hole-1/), I talked about how the modern approach to giving site visitors the best combination of image file size and image quality comes down to generating a bunch of versions of the image and letting the browser choose. Further, the browser chooses by being given a choice of sources and/or srcset elements using the HTML [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) or [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img). So the two step process for making image optimization possible for site visitors is: 1) Make a bunch of image files for each image you will display, 2) Create the HTML that allows the browser to know about and choose from the available options.

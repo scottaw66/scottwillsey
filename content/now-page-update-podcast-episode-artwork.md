@@ -8,6 +8,7 @@ tags = ["raycast", "blog", "images", "programming", "raycast"]
 [extra]
 display_title = "/Now Page Update – Podcast Episode Artwork"
 display_date = "Thursday, 22 May 2025"
+rfc2822_date = "Thu, 22 May 2025 08:10:00 GMT"
 +++
 
 I made a change yesterday to my [/now](/now) page to make the Podcasts section look nicer by including podcast artwork next to the episode entries. I think it adds visual interest, and (most importantly) it was fun to update my recent podcast history script to include it.

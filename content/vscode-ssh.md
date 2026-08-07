@@ -8,6 +8,7 @@ tags = ["apps", "mac", "programming", "terminal"]
 [extra]
 display_title = "SSH Connections in Visual Studio Code"
 display_date = "Sunday, 26 Jan 2025"
+rfc2822_date = "Sun, 26 Jan 2025 13:00:00 GMT"
 +++
 
 Recently I needed to work on some script files on a server and wanted to edit them in Visual Studio Code. Visual Studio Code supports remote connections, including ssh connections. Unfortunately, some of these files require root privileges, and I can’t and don’t want to be able to ssh into this server as root.

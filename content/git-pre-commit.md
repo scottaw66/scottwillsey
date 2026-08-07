@@ -8,6 +8,7 @@ tags = ["blog", "astro", "git"]
 [extra]
 display_title = "Using Git Hooks for Displaying Last Modified Dates"
 display_date = "Monday, 12 Feb 2024"
+rfc2822_date = "Mon, 12 Feb 2024 13:00:00 GMT"
 +++
 
 Not so very long ago, I wrote about using remark and a script called `remark-modified-time.mjs` to update a page’s front matter `Date` value for [Auto-Generated Last Modified Dates in Astro](https://scottwillsey.com/astro-last-modified). This approach worked pretty well until I moved the content for my [/Uses](https://scottwillsey.com/uses/) page out of a markdown file and into a json file. I didn’t want to have to keep modifying essentially an associated empty markdown file to get the last modified date to change.

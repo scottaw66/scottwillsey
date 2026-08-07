@@ -8,6 +8,7 @@ tags = ["mac", "raycast", "apps"]
 [extra]
 display_title = "Raycast Extensions I Use"
 display_date = "Sunday, 13 Oct 2024"
+rfc2822_date = "Sun, 13 Oct 2024 17:00:00 GMT"
 +++
 
 ## Introductionum

@@ -8,6 +8,7 @@ tags = ["fwb", "podcast", "friendswithbrews"]
 [extra]
 display_title = "Friends With Transcripts"
 display_date = "Monday, 06 Mar 2023"
+rfc2822_date = "Mon, 06 Mar 2023 17:00:00 GMT"
 +++
 
 I [talked before about Whisper.cpp](https://scottwillsey.com/whispering-transcripts/) and my goal of getting episode transcripts up on the [Friends with Brews website](https://friendswithbrews.com). That day is here! We now have transcript functionality on the site.

@@ -5,4 +5,8 @@
 # content/listpages/ rendered by postlist.html.
 sort_by = "date"
 page_template = "post.html"
+# Section feed at /rss.xml (posts only — site-wide generate_feeds stays off
+# so reads/stubs don't leak in). templates/rss.xml matches the @astrojs/rss
+# output; migrate/postbuild.py applies the ultrahtml-equivalent transforms.
+generate_feeds = true
 +++

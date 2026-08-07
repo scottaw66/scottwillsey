@@ -8,6 +8,7 @@ tags = ["podcast"]
 [extra]
 display_title = "Podcast Recording Practices"
 display_date = "Tuesday, 10 Oct 2023"
+rfc2822_date = "Tue, 10 Oct 2023 17:00:00 GMT"
 +++
 
 I talked previously about the [recording software I use for podcasting on the Mac](https://scottwillsey.com/podcasting-recording-software/). It's all great stuff, and if you haven't read that article, you should. Even if you think you're not a podcaster, maybe someday you will be, and each of those applications has use far beyond creating podcasts.

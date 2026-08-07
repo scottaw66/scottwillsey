@@ -9,6 +9,7 @@ tags = ["terminal", "linux", "mac"]
 link = "https://www.adamsdesk.com/posts/check-linux-unix-system-uptime/"
 display_title = "11 Ways to Check Linux/Unix Operating System Uptime - Adamsdesk"
 display_date = "Saturday, 13 Apr 2024"
+rfc2822_date = "Sat, 13 Apr 2024 20:00:00 GMT"
 +++
 
 Well, this is a fun one from [Adam Douglas](https://www.adamsdesk.com). I knew most of these, but a couple are new. And that video? Definitely new to me. 😄

@@ -8,6 +8,7 @@ tags = ["mac", "images", "apps"]
 [extra]
 display_title = "OCR in CleanShot X"
 display_date = "Tuesday, 11 Jun 2024"
+rfc2822_date = "Tue, 11 Jun 2024 17:00:00 GMT"
 +++
 
 I love this modern era of computing, and do you know why? Text Recognition, also known as OCR in many apps, is amazing in so many apps and OSes now, and it is very useful.

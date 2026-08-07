@@ -8,6 +8,7 @@ tags = ["blog", "writing"]
 [extra]
 display_title = "Nownownow Oregon Edition"
 display_date = "Saturday, 26 Oct 2024"
+rfc2822_date = "Sat, 26 Oct 2024 17:00:00 GMT"
 +++
 
 You all know, I hope, that I have a [/now page](https://scottwillsey.com/now/) on this site for quick dumps of things I’m into at the moment. It’s ephemeral, as /now pages should be.

@@ -8,6 +8,7 @@ tags = ["blog", "images", "responsive", "astro"]
 [extra]
 display_title = "Reponsive Image Rabbit Hole – Part 1"
 display_date = "Wednesday, 28 Sep 2022"
+rfc2822_date = "Wed, 28 Sep 2022 13:00:00 GMT"
 +++
 
 ## Contents
