@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ term.name }}</title>
+  </head>
+  <body>
+    <!-- Phase 1 placeholder; the per-tag post list port lands here in Phase 3. -->
+    <h1>{{ term.name }}</h1>
+    <ul>
+      {% for page in term.pages %}
+        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

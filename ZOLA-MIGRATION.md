@@ -31,8 +31,9 @@ scottwillsey/
 │   ├── reads/          # from astro/src/content/reads (paginated section)
 │   └── *.md            # links, now, uses, about, changelog, search
 ├── templates/          # Tera: base, post, section, taxonomy, feeds, 404
-│   ├── macros/         # icons.html etc.
-│   └── shortcodes/     # youtube, mastodon, threads, img
+│   └── components.html # Tera v2 components: img, youtube, mastodon, threads
+│                       # (+ icons etc. as they're ported — shortcodes/macros
+│                       # no longer exist in Zola 0.23 / Tera v2)
 ├── static/             # was public/ (git mv) — fonts, favicons, images, barefoot
 ├── css/                # global.css (+ Tailwind output, see Phase 6)
 ├── migrate/            # Python: convert.py, parity.py
@@ -48,6 +49,29 @@ deploy script needs no changes at all. The old Astro `dist/` is snapshotted to
 `astro/dist-baseline/` **before** the first `zola build` overwrites it, so the
 parity check always has the real Astro output to diff against (with the live
 site as a secondary reference).
+
+## ⚠️ Zola 0.23 changed the game (discovered 2026-08-07, during Phase 1)
+
+Zola 0.23.0 (released 2026-08-05 — two days before this migration started, and
+after the SSG-ALTERNATIVES.md analysis) is self-described as "probably the most
+breaking version of Zola that will happen":
+
+- **Shortcodes are removed.** Content `.md` files are now full Tera templates;
+  reusable snippets are [Tera v2 components](https://keats.github.io/tera/#components),
+  defined in any template file (ours: `templates/components.html`) and invoked
+  in content as `{{</*img src="…" alt="…" /*/>}}`-style tags. This migration
+  builds on the new model from the start rather than adopting a dead API.
+- **Because content is Tera-templated, literal `{{`/`{%`/`{#` in markdown —
+  including inside code fences — would be evaluated or error at build time.**
+  The converter wraps such lines in `{% raw %}…{% endraw %}` automatically.
+- **Tera v2** also renames/changes template things Phase 2 must use correctly:
+  date filters no longer parse ISO 8601 datetimes, undefined variable access
+  errors instead of silently passing (use `?.`), `array[0]` not `array.0`.
+- Highlighting config moved to `[markdown.highlighting]` and the engine is
+  Giallo (not syntect, which 0.22 replaced) — themes come from
+  textmate-grammars-themes.netlify.app; theme names from older docs are invalid.
+- `zola init` now writes `zola.toml`; `config.toml` still works and is what
+  this repo uses.
 
 ## Tooling to install (Phase 0)
 
@@ -79,26 +103,46 @@ Each phase is a commit (or a few). Order chosen so the riskiest unknowns
 - [x] Minimal `templates/index.html` so `zola build` runs clean end-to-end
       (verified: 2.7s build, static passthrough + sitemap in `dist/`)
 
-### Phase 1 — Content converter (`migrate/convert.py`)
-The single most load-bearing piece. Re-runnable: wipes and regenerates
-`content/` from `astro/src/content/`.
+### Phase 1 — Content converter (`migrate/convert.py`) ✅ (2026-08-07)
+The single most load-bearing piece. Re-runnable: wipes and regenerates the
+files it owns (`content/*.md` and `content/reads/*.md`, never `_index.md`)
+from `astro/src/content/`. Zero Python deps — the frontmatter is simple
+enough to hand-parse, verified against all 164 files.
 
-- [ ] YAML frontmatter → TOML (`+++`): title, description, date,
-      `slug` (explicit field if present, else filename), `draft`,
-      `keywords` → `[taxonomies] tags = […]`
-- [ ] Astro-specific fields → `[extra]`: `link` (link-blog posts), `cover`/
-      `coverAlt`, `series`
-- [ ] Bare social URLs on their own line → shortcodes
-      (`{{/* youtube(id="…") */}}`, mastodon, threads) — port the URL-matching
-      regexes from `astro/src/components/utilities/remark-social-links.mjs`
-- [ ] Markdown body images `![alt](../../assets/images/posts/X.png)` →
-      `{{/* img(src="…", alt="…") */}}` shortcode (Phase 5 decides rendering);
-      preserve the surrounding link-to-full-size-JPG pattern
-- [ ] `## Contents` / remark-toc usage → drop the heading, template/shortcode
-      renders `page.toc` (audit which files actually use it: `links.md` + which posts?)
-- [ ] Validation lint (replaces Zod): required fields per section, date
-      parseability, tag list shape — fail loudly, don't guess
-- [ ] Run over posts + reads; `zola check` passes
+- [x] YAML frontmatter → TOML (`+++`): title, description, date, `slug`
+      (every source file has an explicit slug — it is always the URL),
+      `draft`, posts' `keywords` → `[taxonomies] tags = […]`
+- [x] Reads' keywords go to `[extra]`, NOT the taxonomy — Astro built `/tags/`
+      from post keywords only; including reads created phantom tag pages
+- [x] Comma-joined keywords ("ai,writing,website" — data-entry typos in 2
+      posts that made garbage tags on the live site) are split with a warning
+- [x] Slug typo fix with redirect: the live URL `/updated-sessions-raycast-
+      script-command,-2025-edition` (comma from a frontmatter typo) becomes
+      the clean slug + a Zola `aliases` meta-refresh from the old URL
+- [x] Astro-specific fields → `[extra]`: `link` (link-blog posts), `cover`/
+      `coverAlt`, `series` (none of the latter 3 in current content)
+- [x] Bare social URLs on their own line → components (`{{</*youtube
+      id="…" /*/>}}`, mastodon, threads) — regexes ported from
+      `remark-social-links.mjs`, embed HTML verbatim in `templates/components.html`
+- [x] Markdown body images `![alt](../../assets/images/posts/X.png)` →
+      `{{</*img src="…" alt="…" /*/>}}` component (Phase 5 does real rendering);
+      the link-to-full-size-JPG wrapper is preserved; code fences and inline
+      code spans are never touched (tutorial posts are full of example paths)
+- [x] `{% raw %}` wrapping for literal Tera braces anywhere in content
+      (`custom-links.md` has `{{1}}` URL templates that would otherwise
+      silently render as `1`)
+- [x] Validation lint (replaces Zod): required fields, unknown-key detection,
+      date parseability, unconverted-reference check — fails the run loudly
+- [x] `zola build` passes: 164 pages in ~2s; URL set diffed against
+      `astro/dist-baseline/` — only expected gaps remain (Phase 6 single
+      pages/reviews; the 2 garbage tag URLs, intentionally dead)
+- [x] Pagination URL parity solved: `paginate_path = ""` in section
+      `_index.md` yields `/2/`, `/reads/2/` exactly like Astro
+- [x] Tag slug parity verified: `dist/tags/` diff vs baseline is identical
+      (minus garbage tags, plus their correctly-split replacements `ios`,
+      `website`)
+- [ ] `## Contents` / remark-toc usage → template renders `page.toc` instead
+      (8 posts + `links.md`) — deferred to Phase 2 templates
 
 ### Phase 2 — Core templates
 Port in dependency order; Tailwind classes copy across verbatim (Phase 6
@@ -131,7 +175,7 @@ keeps them compiling).
 - [ ] Diff old vs new feed XML item-by-item against `astro/dist-baseline/`
 
 ### Phase 5 — Images
-- [ ] `img` shortcode using `resize_image()` → webp with width/height attrs
+- [ ] `img` component using `resize_image()` → webp with width/height attrs
       (CLS parity with astro:assets output); source images live in
       `astro/src/assets/images/` — decide whether they move to a root
       `images/` dir or the converter rewrites paths
@@ -179,13 +223,22 @@ keeps them compiling).
 
 ## Known open questions
 
-1. **Tag slug parity** (Phase 3) — highest chance of silent URL breakage.
+1. ~~Tag slug parity~~ — **resolved 2026-08-07**: `dist/tags/` diff vs
+   baseline is exact (minus the 2 garbage comma-tags, deliberately dropped).
 2. **Feed absolute-URL rewriting** (Phase 4) — needs an early spike; if Zola
    doesn't rewrite relative URLs in `page.content`, a small post-processing
    step is required to match today's full-content feeds.
 3. **Pre-commit hook** (Phase 8) — need to find where it lives and what it
    writes before designing the replacement fragment.
-4. **expressive-code visual gap** (Phase 6) — accepted as "approximate";
-   flagging so it isn't a surprise.
+4. **Code-block styling gap** (Phase 6) — Giallo (0.22+) replaced syntect;
+   pick a dark theme from textmate-grammars-themes.netlify.app approximating
+   expressive-code. Accepted as "approximate".
 5. **`search.astro` / pagefind UI JS** — confirm the pagefind pip package
    ships the same `pagefind-ui` assets the astro-pagefind integration bundled.
+6. **Tera v2 date formatting** (Phase 2/4) — the `date` filter no longer
+   parses ISO 8601 datetimes; verify post-date and RFC-2822 feed formatting
+   against Tera v2's actual API when porting `DateFormat.js` usage.
+7. **Scott to confirm** — dropping the 2 garbage tag URLs
+   (`/tags/ai,writing,website`, `/tags/ai,programming,mac,ios,apps`) without
+   redirects, and the slug-typo fix + redirect in SLUG_FIXES, are OK. Both
+   also deserve a source fix on `main` eventually.

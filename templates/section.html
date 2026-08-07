@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ section.title | default(value=config.title) }}</title>
+  </head>
+  <body>
+    <!-- Phase 1 placeholder. Replaced in Phase 2. -->
+    <h1>{{ section.title | default(value=config.title) }}</h1>
+    <ul>
+      {% for page in paginator.pages %}
+        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>
