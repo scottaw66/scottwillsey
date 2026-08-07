@@ -28,3 +28,6 @@ yarn-error.log*
 
 # claude
 .claude/
+
+# compiled by tailwind standalone (source: css/global.css)
+static/css/global.css

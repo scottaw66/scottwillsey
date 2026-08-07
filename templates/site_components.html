@@ -94,6 +94,48 @@
 </span>
 {% endcomponent latest_posts %}
 
+{# Spotlight.astro (Cool Site Spotlight on /links): data/spotlight.json is
+   copied out of astro/src/data/ by the converter; image gets 1x/2x/3x srcset
+   like Astro's <Image densities={[2,3]}>. #}
+{% component spotlight() %}
+{% set sp = load_data(path="data/spotlight.json") %}
+{% set img_path = "astro/src/assets/images/posts/" ~ sp.Image ~ ".png" %}
+{% set p1 = resize_image(path=img_path, width=300, op="fit_width", format="webp", quality=80) %}
+{% set p2 = resize_image(path=img_path, width=600, op="fit_width", format="webp", quality=80) %}
+{% set p3 = resize_image(path=img_path, width=900, op="fit_width", format="webp", quality=80) %}
+<div
+  class="bg-[var(--surface-menu)] my-12 px-8 py-2 border border-[var(--brand)] rounded-lg max-[500px]:px-4"
+>
+  <h1 id="CoolSiteSpotlight" class="mx-1 my-10">Cool Site Spotlight</h1>
+  <div
+    class="flex flex-row items-center gap-8 max-[799px]:flex-col max-[799px]:px-2 max-[799px]:gap-0"
+  >
+    <div class="shrink-0">
+      <a href="{{ sp.Site }}">
+        <img src="{{ p1.url }}" srcset="{{ p2.url }} 2x, {{ p3.url }} 3x" width="{{ p1.width }}" height="{{ p1.height }}" alt="{{ sp.Title }}" loading="lazy" decoding="async" />
+      </a>
+    </div>
+    <div class="flex-1 min-w-0 max-[500px]:text-[1rem]">
+      <h2>
+        <a href="{{ sp.Site }}" class="text-[var(--hyperlink)]">{{ sp.Title }}</a>
+      </h2>
+      <p>{{ sp.Description | replace(from="\n", to="<br />") | safe }}</p>
+      <p>
+        <a href="{{ sp.Site }}">{{<globe_asia_icon fill="var(--hyperlink)" />}}</a>
+        <a href="{{ sp.Site }}" class="text-[var(--hyperlink)]">{{ sp.Site }}</a>
+      </p>
+    </div>
+  </div>
+  <div>
+    <a
+      href="/links#cool-sites-archive"
+      class="inline-block text-[0.8em] italic text-[var(--brand)] ml-12 mb-8"
+      >Cool Sites Archive</a
+    >
+  </div>
+</div>
+{% endcomponent spotlight %}
+
 {# TagCloud.astro: tags sorted by post count descending, top display_number
    shown, trailing "All Tags …" link unless showing everything. #}
 {% component tag_cloud(show_count = true, display_number = 999) %}

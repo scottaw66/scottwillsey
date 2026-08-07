@@ -1,0 +1,27 @@
+{# /now — port of astro/src/pages/now.astro #}
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock title %}
+{% block metatitle %}{{ page.title }}{% endblock metatitle %}
+{% block description %}{{ page.description }}{% endblock description %}
+{% block main %}
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="now">
+    The <a href="https://nownownow.com/about">"now page"</a> concept comes from
+    an idea by <a href="https://sive.rs">Derek Sivers</a> to have people communicate
+    what they're focused on <b>now</b> at this point in their lives.
+  </p>
+  <p class="now">
+    <b><i>Find all past media reviews on my <a href="/reviews">Reviews page</a>.</i></b>
+  </p>
+  <div class="text-[0.8em] text-dates font-bold mb-6">
+    {{<calendar_icon size="1em" fill="var(--dates)" />}}
+    <time datetime="{{ page.date }}">
+      <a href="/now" class="text-dates">Last updated {{ page.extra.display_modified }}</a>
+    </time>
+  </div>
+  <div class="now">
+    {{ page.content | safe }}
+  </div>
+</article>
+{% endblock main %}

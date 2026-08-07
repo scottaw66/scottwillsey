@@ -217,7 +217,10 @@ def convert_body(body: str, path: Path) -> str:
                     if seg.startswith("`"):
                         continue
                     seg = ASSET_IMG_RE.sub(img_repl, seg)
-                    if "assets/images" in seg:
+                    # Check leftovers with emitted components removed — some
+                    # content (now.md yt_thumbs) uses the asset path as alt
+                    # text, which lands inside the component invocation.
+                    if "assets/images" in EMITTED_RE.sub("", seg):
                         errors.append(
                             f"{path}: unconverted assets/images reference: {stripped[:70]!r}")
                     segs[i] = seg
@@ -321,6 +324,93 @@ def convert_section(src_dir: Path, out_dir: Path, section: str) -> int:
 
 
 LIST_PAGE_SIZE = 7  # site.json posts.paginationSize — used by both lists
+REVIEW_PAGE_SIZE = 10  # site.json reviews.paginationSize
+
+# Single-page collections → content/pages/<name>.md (path-overridden).
+# about.md and search.md in content/pages/ are hand-maintained template stubs.
+SINGLES = {
+    "links": ("/links", "links.html"),
+    "now": ("/now", "now.html"),
+    "uses": ("/uses", "uses.html"),
+    "changelog": ("/changelog", "changelog.html"),
+    "reviews": ("/reviews", "reviews.html"),
+}
+
+# Review categories: (collection/json name, URL segment)
+REVIEW_CATS = [("books", "books"), ("movies", "movies"),
+               ("tvshows", "tv"), ("music", "music")]
+
+
+def modified_date(date: str) -> str:
+    """Port of DateFormat.js modifieddate ("eeee, dd MMM yyyy HH:mm:ss")."""
+    try:
+        return datetime.fromisoformat(date).strftime("%A, %d %b %Y %H:%M:%S")
+    except ValueError:
+        return ""
+
+
+def convert_singles() -> None:
+    pages_dir = OUT / "pages"
+    pages_dir.mkdir(exist_ok=True)
+    for old in pages_dir.glob("*.md"):
+        if old.name not in ("_index.md", "about.md", "search.md"):
+            old.unlink()
+    for name, (url, template) in SINGLES.items():
+        f = SRC / name / f"{name}.md"
+        fm, body = parse_frontmatter(f.read_text(), f)
+        lines = ["+++"]
+        lines.append(f"title = {toml_str(str(fm['title']))}")
+        lines.append(f"description = {toml_str(str(fm['description']))}")
+        lines.append(f"date = {fm['date']}")
+        lines.append(f"path = {toml_str(url)}")
+        lines.append(f"template = {toml_str(template)}")
+        lines.append("[extra]")
+        lines.append(f"display_modified = {toml_str(modified_date(str(fm['date'])))}")
+        lines.append("+++")
+        (pages_dir / f"{name}.md").write_text(
+            "\n".join(lines) + "\n\n" + convert_body(body, f).strip() + "\n")
+
+
+def convert_reviews_data() -> None:
+    """Copy review image lists (pre-sorted by alttext, matching the
+    localeCompare sort the Astro pages did) + spotlight.json into data/, and
+    emit per-category page metadata for the review templates."""
+    dest = REPO / "data" / "reviews"
+    dest.mkdir(parents=True, exist_ok=True)
+    meta = {}
+    for coll, seg in REVIEW_CATS:
+        items = json.loads((SRC.parent / "data" / "reviews" / f"{coll}.json").read_text())
+        items.sort(key=lambda x: x["alttext"].casefold())
+        (dest / f"{coll}.json").write_text(json.dumps(items, indent=2) + "\n")
+        f = SRC / coll / f"{coll}.md"
+        fm, _ = parse_frontmatter(f.read_text(), f)
+        meta[seg] = {
+            "title": str(fm["title"]),
+            "description": str(fm["description"]),
+            "date": str(fm["date"]),
+            "display_modified": modified_date(str(fm["date"])),
+        }
+    (REPO / "data" / "reviews_meta.json").write_text(json.dumps(meta, indent=2) + "\n")
+    spotlight = (SRC.parent / "data" / "spotlight.json").read_text()
+    (REPO / "data" / "spotlight.json").write_text(spotlight)
+
+
+def write_review_stubs() -> None:
+    for coll, seg in REVIEW_CATS:
+        items = json.loads((REPO / "data" / "reviews" / f"{coll}.json").read_text())
+        pages = -(-len(items) // REVIEW_PAGE_SIZE)
+        for n in range(1, pages + 1):
+            (OUT / "listpages" / f"reviews-{seg}-{n}.md").write_text(
+                "+++\n"
+                f'title = "{seg} reviews page {n}"\n'
+                f'path = "/reviews/{seg}/{n}"\n'
+                'template = "reviews_category.html"\n'
+                "[extra]\n"
+                f"page_num = {n}\n"
+                f'category = "{seg}"\n'
+                f'data_file = "reviews/{coll}.json"\n'
+                "+++\n"
+            )
 
 
 def write_list_stubs(kind: str, url_base: str, template: str, count: int) -> int:
@@ -375,8 +465,13 @@ def main() -> int:
     p_pages = write_list_stubs("posts", "/", "postlist.html", n_posts)
     r_pages = write_list_stubs("reads", "/reads/", "readslist.html", n_reads)
     write_changelog_json()
+    convert_singles()
+    convert_reviews_data()
+    write_review_stubs()
     print(f"converted: {n_posts} posts (content/), {n_reads} reads (content/reads/)")
     print(f"list stubs: /1…/{p_pages}, /reads/1…/{r_pages}; changelog.json written")
+    print(f"singles: {', '.join(SINGLES)}; review data + stubs for "
+          f"{', '.join(seg for _, seg in REVIEW_CATS)}")
     for w in warnings:
         print(f"WARN  {w}")
     for e in errors:

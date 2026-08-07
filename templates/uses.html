@@ -1,0 +1,38 @@
+{# /uses — port of astro/src/pages/uses.astro (3 hero images at height 150
+   with 2x/3x srcsets linking to full-size JPGs) #}
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock title %}
+{% block metatitle %}{{ page.title }}{% endblock metatitle %}
+{% block description %}{{ page.description }}{% endblock description %}
+{% block main %}
+<article>
+  <h1>{{ page.title }}</h1>
+  <div
+    class="flex flex-row flex-wrap gap-8 justify-center items-center mx-auto my-10 p-8 rounded-lg font-normal text-[1.2em] italic bg-[var(--surface-menu)] border border-[var(--brand)] max-[699px]:flex-col"
+  >
+    {% set heroes = [
+      ["ComputerDesk-6A955660-4D5E-4B10-8A96-F64C2C55673E", "My computer desk with MacBook Pro and Apple Studio Display"],
+      ["Keychron-Q1-encoder-D633B1F6-73A7-472F-90C9-680982767284", "Keychron Q1"],
+      ["BBP-8B00109B-1BD2-46E3-81C5-0996E53D5136", "2021 M1 Pro MacBook Pro 14 in."]
+    ] %}
+    {% for hero in heroes %}
+      {% set img_path = "astro/src/assets/images/posts/" ~ hero[0] ~ ".png" %}
+      {% set h1x = resize_image(path=img_path, height=150, op="fit_height", format="webp", quality=80) %}
+      {% set h2x = resize_image(path=img_path, height=300, op="fit_height", format="webp", quality=80) %}
+      {% set h3x = resize_image(path=img_path, height=450, op="fit_height", format="webp", quality=80) %}
+      <a href="/images/posts/{{ hero[0] }}.jpg"><img src="{{ h1x.url }}" srcset="{{ h2x.url }} 2x, {{ h3x.url }} 3x" width="{{ h1x.width }}" height="{{ h1x.height }}" alt="{{ hero[1] }}" class="min-h-[150px]" loading="lazy" decoding="async" /></a>
+    {% endfor %}
+  </div>
+  <div class="text-[0.8em] text-dates font-bold my-12">
+    {{<calendar_icon size="1em" fill="var(--dates)" />}}
+    <time datetime="{{ page.date }}">
+      <a href="/uses" class="text-dates">Last updated {{ page.extra.display_modified }}</a>
+    </time>
+  </div>
+  <div
+    class="uses px-8 py-1 max-[699px]:px-2 [&_img]:max-w-[350px] max-[440px]:[&_img]:max-w-[300px] [&_img]:block [&_img]:ml-2 [&_p]:text-left"
+  >
+    {{ page.content | safe }}
+  </div>
+</article>
+{% endblock main %}

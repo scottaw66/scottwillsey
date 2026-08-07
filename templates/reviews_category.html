@@ -1,0 +1,49 @@
+{# /reviews/{books,movies,tv,music}/{n} — port of the four
+   astro/src/pages/reviews/*/[page].astro files, driven by converter stubs in
+   content/listpages/ (extra: page_num, category, data_file). Page metadata
+   (title/description/dates per category) comes from data/reviews_meta.json;
+   image lists are pre-sorted by alttext by the converter. #}
+{% extends "base.html" %}
+{% block title %}{% set m = load_data(path="data/reviews_meta.json") %}{{ m[page.extra.category].title }}{% endblock title %}
+{% block metatitle %}{% set m = load_data(path="data/reviews_meta.json") %}{{ m[page.extra.category].title }}{% endblock metatitle %}
+{% block description %}{% set m = load_data(path="data/reviews_meta.json") %}{{ m[page.extra.category].description }}{% endblock description %}
+{% block main %}
+{% set meta = load_data(path="data/reviews_meta.json") %}
+{% set cat = meta[page.extra.category] %}
+{% set items = load_data(path="data/" ~ page.extra.data_file) %}
+{% set per = config.extra.reviews_paginate_by %}
+{% set n = page.extra.page_num %}
+{% set total = (items | length / per) | round(method="ceil") | int %}
+{% set first = (n - 1) * per %}
+{% set last = first + per %}
+<article>
+  <h1>{{ cat.title }}</h1>
+  <p class="review">
+    {{ cat.description }}<span class="mx-4">•</span><a href="/reviews">Back to Reviews Page</a>
+  </p>
+  <div class="text-[0.8em] text-dates font-bold mb-6">
+    {{<calendar_icon size="1em" fill="var(--dates)" />}}
+    <time datetime="{{ cat.date }}">
+      <a href="/reviews/{{ page.extra.category }}/1" class="text-dates">Last updated {{ cat.display_modified }}</a>
+    </time>
+  </div>
+  <div class="review">
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] my-10 mx-auto"
+    >
+      {% for item in items[first:last] %}
+        <span hidden>{{ item.alttext }}</span>
+        <a href="/images/posts/{{ item.review }}.jpg" class="block">
+          {% set r = resize_image(path="astro/src/assets/images/posts/" ~ item.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
+          <img src="{{ r.url }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ item.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% set nav_base = "/reviews/" ~ page.extra.category ~ "/" %}
+  {{<page_nav current={n} total={total} base={nav_base} />}}
+  <p class="review">
+    <a href="/reviews">Back to Reviews Page</a>
+  </p>
+</article>
+{% endblock main %}

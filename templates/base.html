@@ -72,7 +72,21 @@
       </footer>
       <script src="/scripts/barefoot.min.js"></script>
       <script>
-        lf = new BareFoot();
+        // Selector overrides: Zola's footnote markup uses fn-N ids and
+        // absolute-URL sup links, not the GFM user-content-fn-N defaults.
+        // Zola emits footnote anchors as absolute URLs; barefoot needs bare
+        // fragments (it feeds the href to querySelector). Normalize first.
+        document.querySelectorAll('a[href*="#fn-"], a[href*="#fr-"]').forEach((a) => {
+          const h = a.getAttribute("href");
+          const i = h.indexOf("#");
+          if (i > 0) a.setAttribute("href", h.slice(i));
+        });
+        // supQuery must match both the in-text refs (#fn-N) and the backref
+        // inside each footnote (#fr-N-1) — barefoot reuses it for both.
+        lf = new BareFoot({
+          footnotesQuery: "[id^='fn-']",
+          supQuery: 'a[href^="#fn-"], a[href^="#fr-"]',
+        });
         lf.init();
       </script>
     </div>

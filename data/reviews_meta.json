@@ -1,0 +1,26 @@
+{
+  "books": {
+    "title": "Book Reviews",
+    "description": "Reviews of things I've read.",
+    "date": "2026-06-03T11:46:21-08:00",
+    "display_modified": "Wednesday, 03 Jun 2026 11:46:21"
+  },
+  "movies": {
+    "title": "Movie Reviews",
+    "description": "Reviews of movie things I've watched.",
+    "date": "2026-07-27T08:30:54-08:00",
+    "display_modified": "Monday, 27 Jul 2026 08:30:54"
+  },
+  "tv": {
+    "title": "TV Show Reviews",
+    "description": "Reviews of TV things I've watched.",
+    "date": "2026-07-27T08:27:20-08:00",
+    "display_modified": "Monday, 27 Jul 2026 08:27:20"
+  },
+  "music": {
+    "title": "Music Reviews",
+    "description": "Reviews of things I've listened to.",
+    "date": "2025-12-16T18:47:06-08:00",
+    "display_modified": "Tuesday, 16 Dec 2025 18:47:06"
+  }
+}

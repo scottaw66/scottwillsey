@@ -1,0 +1,19 @@
+{# /search — port of astro/src/pages/search.astro #}
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock title %}
+{% block metatitle %}{{ page.title }}{% endblock metatitle %}
+{% block description %}{{ page.description }}{% endblock description %}
+{% block main %}
+<article data-pagefind-ignore>
+  <h1>Search</h1>
+
+  <div class="mx-auto max-w-3xl">
+    {% include "partials/search.html" %}
+  </div>
+
+  <div class="tagcloud my-10 mx-auto max-w-4xl">
+    <h3 class="text-text1 my-6">Some Tags</h3>
+    {{<tag_cloud show_count={true} display_number={11} />}}
+  </div>
+</article>
+{% endblock main %}

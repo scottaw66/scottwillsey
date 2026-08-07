@@ -231,21 +231,33 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
       links page, not ported yet
 - Pillow fallback not needed — `resize_image()` output matches sharp's
 
-### Phase 6 — Styling decision + single pages
-- [ ] **Decide: keep Tailwind (standalone binary watching `templates/`) or
-      fold utilities into global.css.** Recommendation: keep the binary for
-      migration parity — template classes port verbatim, zero visual guessing;
-      revisit dropping it later
-- [ ] `global.css` ports as-is, **minus light-mode**: the site is dark-mode
-      only now (per Scott, 2026-08-07) — drop `[data-theme]` switching and
-      light-theme variables while porting
-- [ ] Code blocks: pick the one syntect dark theme closest to expressive-code's
-      dark look, `linenos` where used; accept "close enough"
-- [ ] Single pages: links (with TOC), now, uses, about, changelog, search shell
-- [ ] Reviews: `/reviews/` index + 4 paginated image grids (10/page, sorted by
-      alt) — `load_data()` on the review JSON lists (converter copies them out
-      of `astro/src/data/`)
-- [ ] Spotlight sidebar ← `spotlight.json` via `load_data()`
+### Phase 6 — Styling + single pages ✅ (2026-08-07)
+- [x] **Tailwind kept** via standalone binary (brew `tailwindcss` 4.3.3):
+      source `css/global.css`, compiled output `static/css/global.css`
+      (gitignored). Build order: `tailwindcss -i css/global.css -o
+      static/css/global.css --minify` then `zola build`
+- [x] `global.css` ported verbatim — it was already dark-only (no
+      `[data-theme]` blocks remained in the Astro source)
+- [x] Single pages: /links (Spotlight + srcset), /now, /uses (3 hero images
+      with 2x/3x srcsets), /about, /changelog, /search shell — converter
+      generates content/pages/*.md from the single-page collections
+      (`display_modified` precomputed); about/search are hand-written stubs
+- [x] Reviews: `/reviews` index (4 random picks via `get_random`) + 16
+      paginated grid pages via converter stubs + one `reviews_category.html`;
+      image lists copied to `data/reviews/` PRE-SORTED (casefold ≈
+      localeCompare) — page-1 order verified identical to baseline; category
+      metadata in `data/reviews_meta.json`
+- [x] **Footnote popovers fixed** (was open question 9): barefoot init in
+      base.html now normalizes Zola's absolute footnote anchors to bare
+      fragments and overrides `footnotesQuery`/`supQuery` for Zola's
+      `fn-`/`fr-` ids — verified working in-browser (popover opens, console
+      clean)
+- [x] Visual verification via headless Chrome against `zola serve`:
+      homepage, post w/ footnote, /links, code blocks, reviews grid all
+      render with correct styling
+- [ ] Code theme: "monokai" placeholder — Scott to pick the final Giallo
+      dark theme (options: textmate-grammars-themes.netlify.app)
+- [ ] TOC under `## Contents` (links page + 8 posts) — still deferred
 
 ### Phase 7 — Search
 - [ ] `pip install 'pagefind[extended]'`; run against `dist/` post-build
@@ -288,13 +300,10 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
    `<span role="img" aria-label="…">`; Zola doesn't. Modern screen readers
    announce emoji natively, so recommendation is to drop it — Scott to
    confirm (affects ~9 feed items + the same posts' HTML).
-9. **Footnote popovers (barefoot.min.js)** — Zola's `bottom_footnotes`
-   markup differs from Astro's GFM flavor (`li id="fn-1"` vs
-   `user-content-fn-1`, no `data-footnote-backref`, `<section
-   class="footnotes">` without `data-footnotes`). Whether barefoot still
-   binds and builds popovers needs a live `zola serve` + browser test during
-   Phase 6; if it breaks, either configure barefoot's selectors at init or
-   add a footnote-markup rewrite to `migrate/postbuild.py`.
+9. ~~Footnote popovers (barefoot.min.js)~~ — **resolved 2026-08-07**: fixed
+   via barefoot config overrides + client-side href normalization in
+   base.html (Zola's absolute footnote anchors → bare fragments); verified
+   working in-browser.
 7. **Scott to confirm** — dropping the 2 garbage tag URLs
    (`/tags/ai,writing,website`, `/tags/ai,programming,mac,ios,apps`) without
    redirects, and the slug-typo fix + redirect in SLUG_FIXES, are OK. Both

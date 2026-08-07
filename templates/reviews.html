@@ -1,0 +1,49 @@
+{# /reviews — port of astro/src/pages/reviews/index.astro: category links +
+   one random review image per category (random per build, like the Astro
+   Math.random() version). #}
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock title %}
+{% block metatitle %}{{ page.title }}{% endblock metatitle %}
+{% block description %}{{ page.description }}{% endblock description %}
+{% block main %}
+<article>
+  <h1>{{ page.title }}</h1>
+  <p>
+    Reviews of things I've watched, read, or played. Thanks to <a href="https://quickreviews.app">Quick Reviews</a> by <a href="https://isfeeling.social/@matt#.">Matt Birchler</a>! Each of
+    these is a random selection from my review categories. Click the images or
+    the links below to see all my reviews in each category.
+  </p>
+  <p>
+    <ul style="list-style: none; font-size: 1.5em; margin: 2em 0;">
+      <li>
+        <a href="/reviews/books/1">{{<reviews_books_icon />}}</a><a href="/reviews/books/1">Book Reviews</a>
+      </li>
+      <li>
+        <a href="/reviews/movies/1">{{<reviews_movies_icon />}}</a><a href="/reviews/movies/1">Movie Reviews</a>
+      </li>
+      <li>
+        <a href="/reviews/tv/1">{{<reviews_tv_icon />}}</a><a href="/reviews/tv/1">TV Show Reviews</a>
+      </li>
+      <li>
+        <a href="/reviews/music/1">{{<reviews_music_icon />}}</a><a href="/reviews/music/1">Music Reviews</a>
+      </li>
+    </ul>
+  </p>
+  <div class="review">
+    <h3>Random Reviews From Each Category</h3>
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[95%] mt-10 mx-auto"
+    >
+      {% for cat in [["books", "books"], ["movies", "movies"], ["tvshows", "tv"], ["music", "music"]] %}
+        {% set items = load_data(path="data/reviews/" ~ cat[0] ~ ".json") %}
+        {% set i = get_random(start=0, end=items | length) %}
+        {% set pick = items[i] %}
+        {% set r = resize_image(path="astro/src/assets/images/posts/" ~ pick.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
+        <a href="/reviews/{{ cat[1] }}/1" class="block">
+          <img src="{{ r.url }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ pick.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</article>
+{% endblock main %}
