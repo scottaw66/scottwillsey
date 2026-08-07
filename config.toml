@@ -1,0 +1,37 @@
+# Zola configuration — see ZOLA-MIGRATION.md for the migration plan.
+
+base_url = "https://scottwillsey.com"
+title = "ScottWillsey"
+description = "macOS nerd, old school computer guy"
+
+# The deploy script (~/Scripts/Sites/scottwillsey/update-site/update-site.sh)
+# rsyncs $BASE_DIR/dist/ — matching Astro's old output dir means it needs no changes.
+output_dir = "dist"
+
+# Feeds are hand-templated in Phase 4 (full-content RSS at /rss.xml and
+# /reads/rss.xml, matching the Astro feeds); Zola's built-in feed stays off.
+generate_feeds = false
+
+# Search is Pagefind (post-build indexer, Phase 7), not Zola's elasticlunr index.
+build_search_index = false
+
+compile_sass = false
+
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+# Footnotes rendered at the bottom like GFM — barefoot.min.js turns them into popovers.
+bottom_footnotes = true
+
+# Site is dark-mode only (per Scott, 2026-08-07) — one theme, no switcher.
+[markdown.highlighting]
+# Final dark theme chosen in Phase 6 (approximating expressive-code); placeholder for now.
+theme = "monokai"
+
+[extra]
+author = "Scott Willsey"
+github = "https://github.com/scottaw66"
+mastodon = "https://social.lol/@scottwillsey"
+bluesky = "https://bsky.app/profile/scottwillsey.com"
+posts_paginate_by = 7
+reviews_paginate_by = 10

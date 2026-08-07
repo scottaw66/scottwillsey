@@ -6,6 +6,8 @@
 # build output
 dist
 .astro/
+astro/dist-baseline/
+static/processed_images/
 
 # dependencies
 node_modules/
