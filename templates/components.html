@@ -3,11 +3,15 @@
    these as e.g. {{<img src="…" alt="…" />}}). This file is never rendered
    directly; loading it registers the components globally. #}
 
-{# Body images Astro optimized via astro:assets. `src` is the path under
-   astro/src/assets/images/ (e.g. "posts/foo.png"). Phase 5 replaces the body
-   with resize_image() → webp + intrinsic width/height. Until then it points
-   at a path that is NOT served — expect broken body images in previews. #}
-{% component img(src: string, alt: string) %}<img src="/assets/images/{{ src }}" alt="{{ alt }}" loading="lazy" />{% endcomponent img %}
+{# Body images Astro optimized via astro:assets — now resize_image().
+   `src` is the path under astro/src/assets/images/ (e.g. "posts/foo.png").
+   Each image is re-encoded to webp at its OWN original dimensions (op="fit"
+   at the source size never up- or downscales) with intrinsic width/height
+   attributes — same markup shape as the sharp output in the Astro build
+   (alt, lazy, async, width, height, src, empty srcset). quality=80 matches
+   sharp's webp default; Zola's own default is lossless, which would bloat
+   screenshot-heavy posts. #}
+{% component img(src: string, alt: string) %}{% set path = "astro/src/assets/images/" ~ src %}{% set meta = get_image_metadata(path=path) %}{% set r = resize_image(path=path, width=meta.width, height=meta.height, op="fit", format="webp", quality=80) %}<img alt="{{ alt }}" loading="lazy" decoding="async" width="{{ r.width }}" height="{{ r.height }}" src="{{ r.url }}" srcset="" />{% endcomponent img %}
 
 {# Social embeds ported verbatim from astro/src/components/utilities/remark-social-links.mjs #}
 {% component youtube(id: string) %}<iframe width="560" height="400" src="https://www.youtube.com/embed/{{ id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{% endcomponent youtube %}

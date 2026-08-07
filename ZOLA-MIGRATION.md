@@ -209,16 +209,27 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
       posts content identical except emoji spans (open question 8), image
       markup (Phase 5), code blocks (Phase 6)
 
-### Phase 5 — Images
-- [ ] `img` component using `resize_image()` → webp with width/height attrs
-      (CLS parity with astro:assets output); source images live in
-      `astro/src/assets/images/` — decide whether they move to a root
-      `images/` dir or the converter rewrites paths
-- [ ] Cover images (width 950) and Spotlight (300 + 2x/3x densities) via the
-      same `resize_image()` in templates
-- [ ] Full-size JPGs already in `static/images/` — passthrough, no change
-- [ ] If `resize_image()` output quality/ergonomics disappoint: fall back to
-      the Pillow post-build pass (Option C escape hatch from SSG-ALTERNATIVES.md)
+### Phase 5 — Images ✅ (2026-08-07)
+- [x] `img` component: `get_image_metadata()` + `resize_image(op="fit",
+      format="webp", quality=80)` at each image's OWN original dimensions —
+      no downscaling, webp re-encode, intrinsic width/height attrs, markup
+      attribute-identical to the sharp output. Sources stay in
+      `astro/src/assets/images/` (`resize_image` resolves from repo root —
+      no move needed). Size check: 93 KB Zola webp vs 93 KB sharp webp for
+      the same 672 KB source PNG
+- [x] Header avatar via `resize_image` width 100 (static copy removed);
+      cover images (width 950, currently unused) wired in `post_article`
+      with converter path normalization
+- [x] Full-size JPG link targets in `static/images/` — passthrough,
+      untouched, link wrappers preserved by the converter
+- [x] **16-bit PNGs**: Zola's webp encoder can't read them (sharp could) —
+      13 sources normalized to 8-bit in place via ffmpeg (one-off,
+      2026-08-07). ⚠️ Future screenshots that come in as 16-bit PNG will
+      fail the build with "Unable to load this kind of image with webp";
+      fix: `ffmpeg -i img.png -pix_fmt rgb24 out.png` then replace
+- [x] Spotlight (300px + 2x/3x srcset) moved to Phase 6 — it lives on the
+      links page, not ported yet
+- Pillow fallback not needed — `resize_image()` output matches sharp's
 
 ### Phase 6 — Styling decision + single pages
 - [ ] **Decide: keep Tailwind (standalone binary watching `templates/`) or
@@ -277,6 +288,13 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
    `<span role="img" aria-label="…">`; Zola doesn't. Modern screen readers
    announce emoji natively, so recommendation is to drop it — Scott to
    confirm (affects ~9 feed items + the same posts' HTML).
+9. **Footnote popovers (barefoot.min.js)** — Zola's `bottom_footnotes`
+   markup differs from Astro's GFM flavor (`li id="fn-1"` vs
+   `user-content-fn-1`, no `data-footnote-backref`, `<section
+   class="footnotes">` without `data-footnotes`). Whether barefoot still
+   binds and builds popovers needs a live `zola serve` + browser test during
+   Phase 6; if it breaks, either configure barefoot's selectors at init or
+   add a footnote-markup rewrite to `migrate/postbuild.py`.
 7. **Scott to confirm** — dropping the 2 garbage tag URLs
    (`/tags/ai,writing,website`, `/tags/ai,programming,mac,ios,apps`) without
    redirects, and the slug-typo fix + redirect in SLUG_FIXES, are OK. Both

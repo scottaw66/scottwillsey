@@ -282,6 +282,11 @@ def render(fm: dict, body: str, path: Path, section: str) -> str:
         lines.append("[taxonomies]")
         lines.append("tags = [%s]" % ", ".join(toml_str(t) for t in tags))
     extra = {k: fm[k] for k in ("link", "cover", "coverAlt", "series") if k in fm}
+    if "cover" in extra:
+        # Astro cover paths are relative ("../../assets/images/covers/X.png");
+        # templates resolve them under astro/src/assets/images/, so normalize
+        # to the path below that root.
+        extra["cover"] = re.sub(r"^(\.\./)*assets/images/", "", str(extra["cover"]))
     if section != "posts":
         extra["keywords"] = tags
     else:
