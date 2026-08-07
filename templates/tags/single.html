@@ -1,16 +1,31 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>{{ term.name }}</title>
-  </head>
-  <body>
-    <!-- Phase 1 placeholder; the per-tag post list port lands here in Phase 3. -->
-    <h1>{{ term.name }}</h1>
-    <ul>
-      {% for page in term.pages %}
-        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </body>
-</html>
+{# /tags/{tag}/ — port of astro/src/pages/tags/[tag].astro #}
+{% extends "base.html" %}
+{% block title %}{{ term.name }}{% endblock title %}
+{% block metatitle %}{{ term.name }}{% endblock metatitle %}
+{% block description %}Posts with tag {{ term.name }}.{% endblock description %}
+{% block main %}
+<article data-pagefind-ignore>
+  <h1>
+    <a href="{{ term.path }}">#{{ term.name }}</a>
+  </h1>
+  <section aria-label="Blog post list">
+    {% for p in term.pages %}
+      <header class="bg-surface-menu rounded-lg px-8 py-2 my-4">
+        <h3 class="my-[0.3em]">
+          <a href="{{ p.permalink }}">{{ p.extra.display_title }}</a>
+        </h3>
+        <div class="text-[0.6em] font-bold my-3">
+          {{<calendar_icon size="1em" fill="var(--dates)" margin="0.25" />}}
+          <time datetime="{{ p.date }}">
+            <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
+          </time>
+        </div>
+        <div class="text-[0.75em]">{{ p.description }}</div>
+      </header>
+    {% endfor %}
+    <p class="mx-6 my-[1.5em]">
+      <a href="/tags">Browse all tags</a>
+    </p>
+  </section>
+</article>
+{% endblock main %}

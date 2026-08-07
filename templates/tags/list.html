@@ -1,15 +1,15 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Tags</title>
-  </head>
-  <body>
-    <!-- Phase 1 placeholder; the TagCloud port lands here in Phase 3. -->
-    <ul>
-      {% for term in terms %}
-        <li><a href="{{ term.permalink }}">{{ term.name }}</a> ({{ term.pages | length }})</li>
-      {% endfor %}
-    </ul>
-  </body>
-</html>
+{# /tags/ — port of astro/src/pages/tags/index.astro #}
+{% extends "base.html" %}
+{% block title %}Tags - {{ config.title }}{% endblock title %}
+{% block metatitle %}Tags - {{ config.title }}{% endblock metatitle %}
+{% block description %}Tags used in posts on {{ config.title }}.{% endblock description %}
+{% block main %}
+<article data-pagefind-ignore>
+  <span id="tag-cloud">
+    <h1><a href="/tags">Tags</a></h1>
+    <div class="my-10 mx-auto max-w-4xl">
+      {{<tag_cloud show_count={true} display_number={999} />}}
+    </div>
+  </span>
+</article>
+{% endblock main %}

@@ -8,7 +8,12 @@
   <img src="/images/cat.svg" alt="404" width="400" height="400" />
 </div>
 {% include "partials/search.html" %}
-{# TagCloud port lands here in Phase 3 (with the tags templates). #}
+<article data-pagefind-ignore>
+  <div class="tagcloud">
+    <span>{{<tag_icon />}}Some Tags</span>
+    {{<tag_cloud show_count={true} display_number={11} />}}
+  </div>
+</article>
 <style>
   div.fourohfour {
     display: flex;

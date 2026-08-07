@@ -90,6 +90,27 @@
 </span>
 {% endcomponent latest_posts %}
 
+{# TagCloud.astro: tags sorted by post count descending, top display_number
+   shown, trailing "All Tags …" link unless showing everything. #}
+{% component tag_cloud(show_count = true, display_number = 999) %}
+{% set tags = get_taxonomy(kind="tags") %}
+<span class="flex justify-center flex-wrap gap-[0.4rem]">
+  {% for term in tags.items | sort(attribute="page_count") | reverse %}
+    {% if loop.index <= display_number %}
+      <a
+        class="px-2 py-1 rounded border text-base uppercase no-underline [background-color:var(--tag-bg)] [color:var(--tag-text)] [border-color:var(--hyperlink)] hover:[background-color:var(--tag-bg-hover)] hover:[color:var(--tag-text-hover)]"
+        href="{{ term.path }}"
+      >
+        {{ term.name }}{% if show_count %} ({{ term.page_count }}){% endif %}
+      </a>
+    {% endif %}
+  {% endfor %}
+  {% if display_number < 999 %}
+    <a class="px-2 py-1 rounded border text-base uppercase no-underline [background-color:var(--tag-bg)] [color:var(--tag-text)] [border-color:var(--hyperlink)] hover:[background-color:var(--tag-bg-hover)] hover:[color:var(--tag-text-hover)]" href="/tags/">All Tags ...</a>
+  {% endif %}
+</span>
+{% endcomponent tag_cloud %}
+
 {# @philnash/astro-pagination port: windowSize 3, markup matched against the
    Astro build output (nav/ul/li, previous-page/number/end-ellipsis classes). #}
 {% component page_nav(current, total, base) %}

@@ -178,11 +178,14 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
       **zero missing** outside Phase-6 pages; post dates/titles match Astro
       output exactly
 
-### Phase 3 — Taxonomies
-- [ ] `tags/list.html` (tag cloud ← TagCloud.astro) and `tags/single.html`
-      (per-tag post list); confirm tag slugification matches current
-      `/tags/{tag}` URLs (StringFormat.js `slugify` vs Zola's slugifier —
-      diff the full tag list)
+### Phase 3 — Taxonomies ✅ (2026-08-07)
+- [x] `tag_cloud` component ← TagCloud.astro (count-sorted desc via
+      `page_count`, top-N cutoff, "All Tags …" link) — used by `/tags/`
+      (all, with counts) and 404 (top 11)
+- [x] `tags/single.html` per-tag post list (surface-menu cards, dates,
+      descriptions)
+- [x] Tag slugification parity confirmed (Phase 1); cloud counts match the
+      baseline exactly except +1s from the comma-keyword split fix
 
 ### Phase 4 — Feeds (high-risk parity item)
 - [ ] Custom `rss.xml` template for posts: **full content** (`page.content`),
