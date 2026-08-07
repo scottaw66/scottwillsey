@@ -31,3 +31,6 @@ yarn-error.log*
 
 # compiled by tailwind standalone (source: css/global.css)
 static/css/global.css
+
+# pagefind indexer venv (python -m pagefind)
+.venv/

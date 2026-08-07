@@ -1,5 +1,8 @@
-{# Pagefind search UI mounts here in Phase 7 (same client JS as astro-pagefind
-   used); until then this renders an empty container. #}
+{# Pagefind v2 component searchbox — same markup astro-pagefind rendered, so
+   the --pf-* overrides in global.css apply unchanged. The component script is
+   loaded in base.html; the index is built post-build by `python -m pagefind
+   --site dist` (see ZOLA-MIGRATION.md Phase 7). Search only works against a
+   built+indexed dist/, not under bare `zola serve`. #}
 <div class="search-component" style="margin: 0 auto">
-  <div id="search" class="pagefind-ui" data-pagefind-ui></div>
+  <pagefind-searchbox class="pagefind-ui"><pagefind-config bundle-path="/pagefind/"></pagefind-config></pagefind-searchbox>
 </div>

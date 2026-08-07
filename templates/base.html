@@ -41,9 +41,14 @@
       title="ScottWillsey"
       href="https://scottwillsey.com/rss.xml"
     />
-    {# Phase 6 compiles this with the Tailwind standalone binary; until then
-       it's the raw source and utility classes won't apply. #}
+    {# Compiled from css/global.css by the Tailwind standalone binary. #}
     <link rel="stylesheet" href="/css/global.css" />
+    {# Pagefind v2 component UI (defines <pagefind-searchbox>); the bundle is
+       generated into dist/pagefind/ by the post-build index step. The CSS is
+       NOT auto-injected by the component script — without it results render
+       inline/unstyled instead of as the dropdown. #}
+    <link rel="stylesheet" href="/pagefind/pagefind-component-ui.css" />
+    <script type="module" src="/pagefind/pagefind-component-ui.js"></script>
   </head>
   <body
     class="font-body text-[1.5rem] leading-[1.5] bg-background text-text1 antialiased min-h-screen"

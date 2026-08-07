@@ -259,10 +259,32 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
       dark theme (options: textmate-grammars-themes.netlify.app)
 - [ ] TOC under `## Contents` (links page + 8 posts) — still deferred
 
-### Phase 7 — Search
-- [ ] `pip install 'pagefind[extended]'`; run against `dist/` post-build
-- [ ] Port `data-pagefind-ignore` annotations into templates; same client JS +
-      CSS overrides
+### Phase 7 — Search ✅ (2026-08-07)
+- [x] Pagefind 1.5.2 (extended) in a repo-local `.venv` (gitignored) —
+      `uv venv .venv && uv pip install --python .venv/bin/python
+      "pagefind[extended]"`; index step: `.venv/bin/python -m pagefind
+      --site dist` after `zola build` (+ postbuild.py). Note: neither
+      `uv tool install` (no entrypoint in the pip package) nor brew (no
+      formula) works — the venv is the supported route
+- [x] UI: pagefind's own v2 component searchbox
+      (`<pagefind-searchbox>` + `pagefind-component-ui.js` from the
+      generated bundle) — the exact markup astro-pagefind rendered, so the
+      `--pf-*` overrides in global.css apply unchanged. **Gotcha found by
+      visual diff vs live site:** the component script does NOT inject its
+      stylesheet — `pagefind-component-ui.css` must be `<link>`ed explicitly
+      or results render inline/unstyled instead of as the dropdown
+      (astro-pagefind's Vite bundle imported it invisibly)
+- [x] `data-pagefind-ignore` annotations carried in templates; index parity
+      verified by running the same pagefind against `astro/dist-baseline`
+      (10,687 vs 10,399 unique words — gap is code-block markup)
+- [x] Verified in-browser against a served `dist/`: both search boxes on
+      /search work, results styled and highlighted
+- Note: no `data-pagefind-body` anywhere (same as live site) means
+  header/menu text appears in some excerpts — matching live behavior;
+  adding `data-pagefind-body` to article elements is an optional
+  post-migration improvement
+- Note: search needs the post-build index — under bare `zola serve` the
+  search boxes render but return nothing
 
 ### Phase 8 — Parity check + cutover
 - [ ] `migrate/parity.py`: diff `astro/dist-baseline/` vs `dist/` — URL set
@@ -291,8 +313,9 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 4. **Code-block styling gap** (Phase 6) — Giallo (0.22+) replaced syntect;
    pick a dark theme from textmate-grammars-themes.netlify.app approximating
    expressive-code. Accepted as "approximate".
-5. **`search.astro` / pagefind UI JS** — confirm the pagefind pip package
-   ships the same `pagefind-ui` assets the astro-pagefind integration bundled.
+5. ~~`search.astro` / pagefind UI JS~~ — **resolved 2026-08-07**: the
+   pagefind CLI generates the same v2 component-UI bundle astro-pagefind
+   wrapped; markup and CSS overrides carry over unchanged.
 6. ~~Tera v2 date formatting~~ — **resolved 2026-08-07**: the converter
    precomputes `display_date` and `rfc2822_date` in `[extra]`; templates
    never parse dates.
