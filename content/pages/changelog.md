@@ -8,6 +8,10 @@ template = "changelog.html"
 display_modified = "Monday, 04 Mar 2024 20:00:41"
 +++
 
+### 2026-08-07
+
+Migrated the entire site from Astro to [Zola](https://www.getzola.org/) — goodbye npm and its ~460 packages, hello two Homebrew binaries and one pip package. Every URL, feed item, tag page, and search result survived byte-for-byte (or close enough to diff clean). Authoring stays exactly the same: YAML frontmatter markdown, all my automation scripts untouched, with a little Python converter bridging to Zola on every build. New `dev.sh`/`preview.sh`/`build.sh`/`deploy.sh` scripts wired into the dashboard, live-reload writing mode included. Full story in ZOLA-MIGRATION.md.
+
 ### 2026-02-05
 
 Atari themes

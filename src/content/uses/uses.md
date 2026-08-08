@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2026-05-07T23:40:11-08:00"
+date: "2026-08-08T00:00:17-08:00"
 slug: "uses"
 ---
 ## MacBook Pro
@@ -29,8 +29,6 @@ slug: "uses"
 
 - [Claude](https://claude.ai/new)
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
-- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
-- [Superwhisper — AI Voice to Text for macOS, Windows & iOS | Superwhisper](https://superwhisper.com/)
 
 ### Automation and Utilities
 

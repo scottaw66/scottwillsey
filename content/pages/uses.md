@@ -33,8 +33,6 @@ display_modified = "Thursday, 07 May 2026 23:40:11"
 
 - [Claude](https://claude.ai/new)
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
-- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
-- [Superwhisper — AI Voice to Text for macOS, Windows & iOS | Superwhisper](https://superwhisper.com/)
 
 ### Automation and Utilities
 

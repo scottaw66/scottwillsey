@@ -1,16 +1,16 @@
 {
   "entries": [
     {
+      "date": "2026-08-07",
+      "html": "Migrated the entire site from Astro to <a href=\"https://www.getzola.org/\">Zola</a> — goodbye npm and its ~460 packages, hello two Homebrew binaries and one pip package. Every URL, feed item, tag page, and search result survived byte-for-byte (or close enough to diff clean). Authoring stays exactly the same: YAML frontmatter markdown, all my automation scripts untouched, with a little Python converter bridging to Zola on every build. New `dev.sh`/`preview.sh`/`build.sh`/`deploy.sh` scripts wired into the dashboard, live-reload writing mode included. Full story in ZOLA-MIGRATION.md."
+    },
+    {
       "date": "2026-02-05",
       "html": "Atari themes"
     },
     {
       "date": "2026-01-30",
       "html": "Created a cli dashboard for running all my site related scripts from in one place."
-    },
-    {
-      "date": "2025-12-28",
-      "html": "Added auto-creation of link posts to my new blog post scripts, grabbing hashtags from the bottom of the post to use in the frontmatter keywords field (called tags on the website), and fixed link post indicator icons."
     }
   ]
 }
