@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-08-02T23:19:37-08:00
+date = 2026-08-08T00:00:17-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Sunday, 02 Aug 2026 23:19:37"
+display_modified = "Saturday, 08 Aug 2026 00:00:17"
 +++
 
 ## Contents

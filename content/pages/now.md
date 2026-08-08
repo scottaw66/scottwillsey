@@ -1,11 +1,11 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-08-02T23:19:37-08:00
+date = 2026-08-08T00:00:17-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Sunday, 02 Aug 2026 23:19:37"
+display_modified = "Saturday, 08 Aug 2026 00:00:17"
 +++
 
 ## Current Personal Status

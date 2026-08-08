@@ -1,11 +1,11 @@
 +++
 title = "Uses"
 description = "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date = 2026-05-07T23:40:11-08:00
+date = 2026-08-08T00:00:17-08:00
 path = "/uses"
 template = "uses.html"
 [extra]
-display_modified = "Thursday, 07 May 2026 23:40:11"
+display_modified = "Saturday, 08 Aug 2026 00:00:17"
 +++
 
 ## MacBook Pro
