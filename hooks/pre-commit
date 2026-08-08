@@ -1,0 +1,131 @@
+#!/bin/bash
+
+# Array to track updated pages
+declare -a updated_pages=()
+
+# Store the matched files in a temporary file to avoid subshell issues
+tmpfile=$(mktemp)
+git diff --cached --name-status |
+grep -iE '^M.*src/(content/links/links\.md|data/reviews/books\.json|data/reviews/movies\.json|data/reviews/music\.json|content/now/now\.md|content/reviews/reviews\.md|data/reviews/tvshows\.json|content/uses/uses\.md|data/spotlight\.json)$' > "$tmpfile"
+
+# Update timestamps for links, now, pins, and uses pages.
+while read _ file; do
+    original_file="$file"
+    page_title=""
+    page_url=""
+
+    if [[ "$file" == "src/data/spotlight.json" ]]; then
+        # Special case for spotlight.json
+        file="src/content/links/links.md"
+        page_title="Cool Site Spotlight"
+        page_url="/links#CoolSiteSpotlight"
+    elif [[ "$file" =~ src/data/reviews/([^/]+)\.json ]]; then
+        # For review JSON files, extract the base name and create the new path
+        base_name="${BASH_REMATCH[1]}"
+        file="src/content/${base_name}/${base_name}.md"
+
+        # Set proper titles and URLs for review pages
+        case "$base_name" in
+            "books")
+                page_title="Book Reviews"
+                page_url="/reviews/books/1"
+                ;;
+            "movies")
+                page_title="Movie Reviews"
+                page_url="/reviews/movies/1"
+                ;;
+            "music")
+                page_title="Music Reviews"
+                page_url="/reviews/music/1"
+                ;;
+            "tvshows")
+                page_title="TV Reviews"
+                page_url="/reviews/tv/1"
+                ;;
+            *)
+                # Fallback for any other review types
+                page_title="$(echo ${base_name^}) Reviews"
+                page_url="/reviews/${base_name}/1"
+                ;;
+        esac
+    elif [[ "$file" == "src/content/now/now.md" ]]; then
+        page_title="/now"
+        page_url="/now"
+    elif [[ "$file" == "src/content/uses/uses.md" ]]; then
+        page_title="/uses"
+        page_url="/uses"
+    elif [[ "$file" == "src/content/reviews/reviews.md" ]]; then
+        page_title="Reviews"
+        page_url="/reviews"
+    elif [[ "$file" == "src/content/links/links.md" ]]; then
+        page_title="Links"
+        page_url="/links"
+    fi
+
+    filecontent=$(cat "$file")
+    frontmatter=$(echo "$filecontent" | awk -v RS='---' 'NR==2{print}')
+    cat $file | sed "/---.*/,/---.*/s/^date:.*$/date: \"$(TZ='America/Los_Angeles' date "+%Y-%m-%dT%H:%M:%S-08:00")\"/" > tmp
+
+    mv tmp $file
+    git add $file
+
+    # Add to updated pages array
+    if [[ -n "$page_title" && -n "$page_url" ]]; then
+        updated_pages+=("$page_title|$page_url")
+    fi
+done < "$tmpfile"
+
+rm -f "$tmpfile"
+
+# Update RecentUpdates.astro with updated pages (only if there are new updates)
+if [[ ${#updated_pages[@]} -gt 0 ]]; then
+    updates_file="templates/partials/recent_updates.html"
+    if [[ -f "$updates_file" ]]; then
+        # Get last 5 unique pages from new updates only
+        recent_updates=$(printf '%s\n' "${updated_pages[@]}" | awk '!seen[$0]++' | tail -5)
+
+        # Build the HTML list
+        updates_html=""
+        while IFS='|' read -r title url; do
+            [[ -n "$title" ]] && updates_html+="    <li><a href=\"${url}\">${title}</a></li>\n"
+        done <<< "$recent_updates"
+
+        # Replace the updates section content with new updates
+        awk -v updates="$updates_html" '
+        /<section id="updates"/ {
+            # Found the opening section tag
+            print "<section id=\"updates\" class=\"text-[0.8em]\">"
+            if (updates != "") {
+                print "  <ul>"
+                printf "%s", updates
+                print "  </ul>"
+            }
+            print "</section>"
+            # Skip until we find the closing </section> tag
+            while (getline > 0 && !/<\/section>/) { }
+            next
+        }
+        { print }
+        ' "$updates_file" > tmp && mv tmp "$updates_file"
+
+        git add "$updates_file"
+    fi
+fi
+
+# Regenerate the Zola content from the just-bumped sources and stage it, so
+# generated files land in the SAME commit. Without this, every commit that
+# touches watched src files left content/ + data/ stale — the next build
+# regenerated them with the bumped dates and dirtied the repo, forcing a
+# second commit (observed 2026-08-08). Runs unconditionally: it's <1s,
+# idempotent, and also covers ordinary post/read commits.
+# Note: the converter reads the WORKING TREE src/, so partially-staged src
+# changes would leak their derived output into this commit — commit src
+# content changes together rather than split.
+if git diff --cached --name-only | grep -q '^src/'; then
+    if python3 migrate/convert.py >/dev/null 2>&1; then
+        git add content data
+    else
+        echo "pre-commit: migrate/convert.py failed — fix conversion errors and retry"
+        exit 1
+    fi
+fi

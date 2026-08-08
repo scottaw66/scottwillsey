@@ -50,6 +50,7 @@ Ctrl-C stops it. No live reload — re-run it after changes (or use `./dev.sh` w
 ```bash
 brew install zola tailwindcss
 uv venv .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
+./hooks/install.sh   # pre-commit hook: date bumps, Recent Updates, content regeneration
 ```
 
 Updating the toolchain: `brew upgrade zola tailwindcss` and `uv pip install --python .venv/bin/python -U "pagefind[extended]"`. That's the entire supply chain.
