@@ -64,6 +64,23 @@ errors: list[str] = []
 warnings: list[str] = []
 
 
+def write_if_changed(path: Path, text: str) -> None:
+    """Skip byte-identical writes. Zola's dev server watches content/ — the
+    old wipe-everything-and-rewrite approach fired hundreds of file events
+    per run and `zola serve` could catch the tree mid-wipe, fail the rebuild,
+    and wedge (observed 2026-08-07). Now a normal edit touches one file."""
+    if path.exists() and path.read_text() == text:
+        return
+    path.write_text(text)
+
+
+def prune_stale(dir: Path, keep: set, protected: tuple = ("_index.md",)) -> None:
+    """Delete converter-owned files that no longer correspond to a source."""
+    for old in dir.glob("*.md"):
+        if old.name not in keep and old.name not in protected:
+            old.unlink()
+
+
 def parse_frontmatter(text: str, path: Path) -> tuple[dict, str]:
     m = re.match(r"^---\n(.*?)\n---\n?(.*)$", text, re.S)
     if not m:
@@ -372,16 +389,16 @@ def render(fm: dict, body: str, path: Path, section: str) -> str:
 
 def convert_section(src_dir: Path, out_dir: Path, section: str) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
-    for old in out_dir.glob("*.md"):
-        if old.name != "_index.md":
-            old.unlink()
+    written: set = set()
     count = 0
     for f in sorted(src_dir.glob("*.md")):
         fm, body = parse_frontmatter(f.read_text(), f)
         rendered = render(fm, body, f, section)
         if rendered:
-            (out_dir / f.name).write_text(rendered)
+            write_if_changed(out_dir / f.name, rendered)
+            written.add(f.name)
             count += 1
+    prune_stale(out_dir, written)
     return count
 
 
@@ -414,9 +431,6 @@ def modified_date(date: str) -> str:
 def convert_singles() -> None:
     pages_dir = OUT / "pages"
     pages_dir.mkdir(exist_ok=True)
-    for old in pages_dir.glob("*.md"):
-        if old.name not in ("_index.md", "about.md", "search.md"):
-            old.unlink()
     for name, (url, template) in SINGLES.items():
         f = SRC / name / f"{name}.md"
         fm, body = parse_frontmatter(f.read_text(), f)
@@ -429,9 +443,12 @@ def convert_singles() -> None:
         lines.append("[extra]")
         lines.append(f"display_modified = {toml_str(modified_date(str(fm['date'])))}")
         lines.append("+++")
-        (pages_dir / f"{name}.md").write_text(
+        write_if_changed(
+            pages_dir / f"{name}.md",
             "\n".join(lines) + "\n\n"
             + insert_toc(convert_body(body, f).strip(), f) + "\n")
+    prune_stale(pages_dir, {f"{n}.md" for n in SINGLES},
+                protected=("_index.md", "about.md", "search.md"))
 
 
 def convert_reviews_data() -> None:
@@ -458,12 +475,13 @@ def convert_reviews_data() -> None:
     (REPO / "data" / "spotlight.json").write_text(spotlight)
 
 
-def write_review_stubs() -> None:
+def write_review_stubs(names: set) -> None:
     for coll, seg in REVIEW_CATS:
         items = json.loads((REPO / "data" / "reviews" / f"{coll}.json").read_text())
         pages = -(-len(items) // REVIEW_PAGE_SIZE)
         for n in range(1, pages + 1):
-            (OUT / "listpages" / f"reviews-{seg}-{n}.md").write_text(
+            fname = f"reviews-{seg}-{n}.md"
+            write_if_changed(OUT / "listpages" / fname,
                 "+++\n"
                 f'title = "{seg} reviews page {n}"\n'
                 f'path = "/reviews/{seg}/{n}"\n'
@@ -474,16 +492,19 @@ def write_review_stubs() -> None:
                 f'data_file = "reviews/{coll}.json"\n'
                 "+++\n"
             )
+            names.add(fname)
 
 
-def write_list_stubs(kind: str, url_base: str, template: str, count: int) -> int:
+def write_list_stubs(kind: str, url_base: str, template: str,
+                     count: int, names: set) -> int:
     """List pages /1…/N and /reads/1…/N: Zola's paginator can't serve these
     (/ is the standalone homepage, /reads/ never existed), so each list URL
     gets a stub page whose template slices the section itself."""
     pages = -(-count // LIST_PAGE_SIZE)
     out_dir = OUT / "listpages"
     for n in range(1, pages + 1):
-        (out_dir / f"{kind}-{n}.md").write_text(
+        fname = f"{kind}-{n}.md"
+        write_if_changed(out_dir / fname,
             "+++\n"
             f'title = "{kind} page {n}"\n'
             f'path = "{url_base}{n}"\n'
@@ -492,6 +513,7 @@ def write_list_stubs(kind: str, url_base: str, template: str, count: int) -> int
             f"page_num = {n}\n"
             "+++\n"
         )
+        names.add(fname)
     return pages
 
 
@@ -522,15 +544,14 @@ def main() -> int:
     n_posts = convert_section(SRC / "posts", OUT, "posts")
     n_reads = convert_section(SRC / "reads", OUT / "reads", "reads")
     (OUT / "listpages").mkdir(exist_ok=True)
-    for old in (OUT / "listpages").glob("*.md"):
-        if old.name != "_index.md":
-            old.unlink()
-    p_pages = write_list_stubs("posts", "/", "postlist.html", n_posts)
-    r_pages = write_list_stubs("reads", "/reads/", "readslist.html", n_reads)
+    stub_names: set = set()
+    p_pages = write_list_stubs("posts", "/", "postlist.html", n_posts, stub_names)
+    r_pages = write_list_stubs("reads", "/reads/", "readslist.html", n_reads, stub_names)
     write_changelog_json()
     convert_singles()
     convert_reviews_data()
-    write_review_stubs()
+    write_review_stubs(stub_names)
+    prune_stale(OUT / "listpages", stub_names)
     print(f"converted: {n_posts} posts (content/), {n_reads} reads (content/reads/)")
     print(f"list stubs: /1…/{p_pages}, /reads/1…/{r_pages}; changelog.json written")
     print(f"singles: {', '.join(SINGLES)}; review data + stubs for "
