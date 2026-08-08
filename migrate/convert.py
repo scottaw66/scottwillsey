@@ -233,10 +233,11 @@ def insert_toc(body: str, path: Path) -> str:
             toc_at = i
             headings.append((2, "Contents", "Contents", False))
             continue
-        # Link label: heading text minus inline-code backticks; anything more
-        # exotic (links, emphasis) would need thought — flag it.
+        # Link label: heading text minus inline-code backticks. Bare
+        # [brackets] render literally and slugify fine (verified against the
+        # astro-icon-v1 baseline) — only real links or emphasis need review.
         label = text.replace("`", "")
-        if re.search(r"[\[\]*_]", label):
+        if re.search(r"\]\(|[*_]", label):
             warnings.append(f"{path}: TOC heading has markdown formatting: {text!r}")
         headings.append((len(m.group(1)), label, text, toc_at is not None))
     if toc_at is None:
@@ -461,7 +462,8 @@ def convert_reviews_data() -> None:
     for coll, seg in REVIEW_CATS:
         items = json.loads((SRC.parent / "data" / "reviews" / f"{coll}.json").read_text())
         items.sort(key=lambda x: x["alttext"].casefold())
-        (dest / f"{coll}.json").write_text(json.dumps(items, indent=2) + "\n")
+        write_if_changed(dest / f"{coll}.json",
+                         json.dumps(items, indent=2, ensure_ascii=False) + "\n")
         f = SRC / coll / f"{coll}.md"
         fm, _ = parse_frontmatter(f.read_text(), f)
         meta[seg] = {
@@ -470,9 +472,10 @@ def convert_reviews_data() -> None:
             "date": str(fm["date"]),
             "display_modified": modified_date(str(fm["date"])),
         }
-    (REPO / "data" / "reviews_meta.json").write_text(json.dumps(meta, indent=2) + "\n")
+    write_if_changed(REPO / "data" / "reviews_meta.json",
+                     json.dumps(meta, indent=2, ensure_ascii=False) + "\n")
     spotlight = (SRC.parent / "data" / "spotlight.json").read_text()
-    (REPO / "data" / "spotlight.json").write_text(spotlight)
+    write_if_changed(REPO / "data" / "spotlight.json", spotlight)
 
 
 def write_review_stubs(names: set) -> None:
@@ -537,7 +540,8 @@ def write_changelog_json() -> None:
         out.append({"date": date.strip(), "html": desc})
     dest = REPO / "data"
     dest.mkdir(exist_ok=True)
-    (dest / "changelog.json").write_text(json.dumps({"entries": out}, indent=2) + "\n")
+    write_if_changed(dest / "changelog.json",
+                     json.dumps({"entries": out}, indent=2, ensure_ascii=False) + "\n")
 
 
 def main() -> int:

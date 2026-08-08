@@ -60,5 +60,9 @@ stamp=$(mktemp)
 ) &
 
 ( sleep 2 && open "http://127.0.0.1:1111" ) &
-zola serve "$@" &
+# --extra-watch-path data: templates read data/*.json via load_data, which
+# zola neither watches nor re-reads on unrelated rebuilds (its serve cache
+# kept /reviews pages stale after review-JSON changes — observed 2026-08-07).
+# Watching data/ makes JSON changes trigger a real reload.
+zola serve --extra-watch-path data "$@" &
 wait $!
