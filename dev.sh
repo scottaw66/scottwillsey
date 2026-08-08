@@ -46,6 +46,15 @@ stamp=$(mktemp)
     if [ -n "$(find src -type f -newer "$stamp" -print -quit 2>/dev/null)" ]; then
       touch "$stamp"
       python3 migrate/convert.py || echo "⚠ convert.py failed — fix the error above and save again"
+      # If the conversion changed no content files, zola gets no file event —
+      # but the src/ change may still matter to it: images referenced by
+      # resize_image / get_image_metadata live in src/, which zola doesn't
+      # watch. Scripts also write content BEFORE their images finish landing
+      # (observed 2026-08-07: yt-history wrote now.md 3s before its thumbs),
+      # so a failed build would otherwise never retry. Nudge a rebuild.
+      if [ -z "$(find content -name '*.md' -newer "$stamp" -print -quit 2>/dev/null)" ]; then
+        touch content/_index.md
+      fi
     fi
   done
 ) &
