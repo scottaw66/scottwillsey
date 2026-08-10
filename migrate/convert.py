@@ -1,14 +1,22 @@
 #!/usr/bin/env python3
-"""Convert Astro content to Zola content. Re-runnable; see ZOLA-MIGRATION.md Phase 1.
+"""Permanent build step 1: convert the YAML-authored source in src/ into
+Zola content/ and data/. NOT a one-off migration script — per the
+architecture decision in ZOLA-MIGRATION.md (2026-08-07), authoring stays
+YAML markdown in src/ (what the dashboard scripts and pre-commit hook
+write), and build.sh/dev.sh run this converter on every build, forever.
 
-Reads:  src/content/posts/*.md, src/content/reads/*.md
+Reads:  src/content/** (posts, reads, singles like links/now/uses/changelog,
+        review category pages), src/data/ (review image lists, spotlight)
 Writes: content/*.md (posts — root-level so the root section paginates them
-        and URLs stay /{slug}), content/reads/*.md
+        and URLs stay /{slug}), content/reads/*.md, content/pages/*.md
+        (singles), content/listpages/*.md (list-page + review stubs), and
+        data/ (reviews/*.json, reviews_meta.json, spotlight.json,
+        changelog.json)
 
-Ownership rule: this script owns every content/*.md and content/reads/*.md
-EXCEPT _index.md files, which are hand-maintained. It deletes and regenerates
-exactly the files it owns, so hand edits to generated files are lost — edit
-the Astro source (or after cutover, retire this script) instead.
+Ownership rule: this script owns every file it generates and deletes/
+regenerates exactly those, so hand edits to generated files are lost — edit
+the YAML source in src/ instead. Hand-maintained exceptions it never
+touches: all _index.md files, content/pages/about.md, content/pages/search.md.
 
 Zero dependencies on purpose: the frontmatter is simple enough to parse by
 hand (verified 2026-08-07: only `key: value` scalars, inline JSON-style
@@ -366,7 +374,7 @@ def render(fm: dict, body: str, path: Path, section: str) -> str:
     extra = {k: fm[k] for k in ("link", "cover", "coverAlt", "series") if k in fm}
     if "cover" in extra:
         # Astro cover paths are relative ("../../assets/images/covers/X.png");
-        # templates resolve them under astro/src/assets/images/, so normalize
+        # templates resolve them under src/assets/images/, so normalize
         # to the path below that root.
         extra["cover"] = re.sub(r"^(\.\./)*assets/images/", "", str(extra["cover"]))
     if section != "posts":
