@@ -1,27 +1,38 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2026-08-08T00:00:17-08:00"
+date: "2026-08-15T14:08:27-08:00"
 slug: "uses"
 ---
-## MacBook Pro
+## Macs
 
-### 2024 M4 Pro 14"
+### 2024 Macbook Pro M4 Pro 14"
 
 - 14-core CPU, 20-core GPU, 24GB RAM, 2TB SSD, Space Black
 - [Apple Studio Display](https://www.apple.com/studio-display/) (27" 5K Retina)
-- [Elgato Wave XLR](https://www.elgato.com/us/en/p/wave-xlr)  
-- [Insta360 Link 2 - AI 4K webcam, pro audio.](https://www.insta360.com/product/insta360-link2)
 - [Keychron Q1](https://www.keychron.com/products/keychron-q1) QMK, 84 key (75%), Gateron Pro Brown switches
 - [OWC 11-port Thunderbolt 4 Dock](https://eshop.macsales.com/shop/owc-thunderbolt-dock)
 - [Razer Basilisk V3](https://www.razer.com/gaming-mice/razer-basilisk-v3)
-- [Shure Beta 87A](https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A)
-- [Wave Mic Arm LP | Mic Boom Arm for Desks | Elgato](https://www.elgato.com/us/en/p/wave-mic-arm-lp)
 
 ### 2020 M1 Mac mini
 
 - 8-core CPU, 8-core GPU, 8GB RAM, 256GB SSD
 - Headless, mounted on the bottom of my computer desk
+
+## Other Hardware
+
+### Networking
+
+- [XGS Series Firewall Appliances - 2nd Gen Desktop Models](https://www.sophos.com/en-us/products/next-gen-firewall/xgs-smb-branch-office-firewalls)
+- [eero Pro 6E: Wi-Fi 6E Router | eero](https://eero.com/shop/eero-pro-6e?pack=t)
+- [Slate AX (GL-AXT1800) | Wi-Fi 6 Travel Router — GL.iNet](https://www.gl-inet.com/en-us/products/gl-axt1800)
+
+### Video Recording
+
+- [DJI Mic Mini - Carry Less, Capture More - DJI United States](https://www.dji.com/mic-mini)
+- [Elgato Key Light | Professional LED Panel Lighting | Elgato](https://www.elgato.com/us/en/p/key-light)
+- [NEEWER TP34 Flexible Tripod with Remote | Phone Holder](https://neewer.com/collections/mini-tripod/products/neewer-tp34-flexible-tripod-with-remote-66604840)
+- [Wave Mic Arm LP | Mic Boom Arm for Desks | Elgato](https://www.elgato.com/us/en/p/wave-mic-arm-lp)
 
 ## Software
 
@@ -33,16 +44,15 @@ slug: "uses"
 ### Automation and Utilities
 
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
-- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Batteries for Mac | Track all your devices' batteries from your Mac. Get notified when they need recharging.](https://www.fadel.io/batteries)
 - [Claude Usage Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
 - [CleanShot X for Mac](https://cleanshot.com/)
-- [cmux — The terminal built for multitasking](https://cmux.com/)
+- [CmdTab — App switching without the bloat](https://scratchitchsoftware.com/cmdtab/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [EchoFeed](https://echofeed.app/)
 - [FastScripts 3](https://redsweater.com/fastscripts/)
+- [Folder Peek — Sindre Sorhus](https://sindresorhus.com/folder-peek)
 - [Front and Center](https://apps.apple.com/us/app/front-and-center/id1493996622?mt=12)
-- [Hazel – Noodlesoft](https://www.noodlesoft.com/manual/hazel/hazel-overview/)
 - [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
 - [LaunchBar 6](https://www.obdev.at/products/launchbar/index.html)
 - [One Thing — Sindre Sorhus](https://sindresorhus.com/one-thing)
@@ -52,11 +62,12 @@ slug: "uses"
 - [Shortcutie — Sindre Sorhus](https://sindresorhus.com/shortcutie)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Starship](https://starship.rs)
+- [Supacode](https://supacode.sh/)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
 - [Superkey](https://superkey.app/)
 - [sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+- [Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud](https://tailscale.com/)
 - [TripMode - Save data, browse faster](https://tripmode.ch/)
-- [Superwhisper — AI Voice to Text for macOS, Windows & iOS | Superwhisper](https://superwhisper.com/)
 
 ### Browsers and Bookmarks
 
@@ -97,14 +108,10 @@ slug: "uses"
 ### Podcasting/Recording/Video
 
 - [Audio Hijack: Record Any Audio on MacOS | Rogue Amoeba](https://rogueamoeba.com/audiohijack/)
-- [ChapterPod](https://apps.apple.com/us/app/chapterpod/id6757309769?ref=birchtree.me)
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
 - [Final Cut Pro - Apple](https://www.apple.com/final-cut-pro/)
 - [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
-- [iZotope RX 11](https://www.izotope.com/en/products/rx.html?)
-- [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro/)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
-- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Riverside: HD Podcast & Video Software | Free Recording & Editing](https://riverside.com/)
 - [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 
@@ -112,11 +119,12 @@ slug: "uses"
 
 - [BackLog - Eternal Storms Software](https://eternalstorms.at/backlog/)
 - [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
-- [Ghostty](https://ghostty.org/)
+- [Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://claude.com/product/claude-code)
 - [Kaleidoscope | Git Diff and Merge Tool and Text Comparison](https://kaleidoscope.app/)
+- [Supacode](https://supacode.sh/)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
-- [Xcode 15 - Apple Developer](https://developer.apple.com/xcode/)
+- [Xcode](https://developer.apple.com/xcode/)
 
 ### Reading
 
@@ -129,6 +137,7 @@ slug: "uses"
 
 - [EchoFeed](https://echofeed.app/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
+- [Reeder](https://reeder.app/)
 - [Tapestry • Your favorite blogs, social media, and more in a unified and chronological timeline](https://usetapestry.com/)
 
 ### Writing

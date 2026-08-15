@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-08-08T00:00:17-08:00"
+date: "2026-08-15T14:08:27-08:00"
 slug: "links"
 ---
 
@@ -672,6 +672,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [WikiTok](https://wikitok.vercel.app/)
 - [Wreckage/Salvage](https://www.wrecka.ge)
 - [Zine | CMHN](https://www.climatementalhealth.net/gen-z-zine)
+- [Zola](https://www.getzola.org)
 
 ## Fonts
 
@@ -1116,7 +1117,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1193,6 +1194,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
 - [Mrs Eats](https://www.youtube.com/@MrsEats)
 - [Music Mongoose](https://www.youtube.com/@MusicMongoose)
+- [Naomi Brockwell TV](https://www.youtube.com/@NaomiBrockwellTV)
 - [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)
 - [NekoAshi Japan](https://www.youtube.com/@NekoAshiJapan)
 - [Nick Saraev](https://www.youtube.com/@nicksaraev)
@@ -1213,10 +1215,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Plan B / mariko](https://www.youtube.com/@planb.mariko)
 - [Prince Louie & Todd](https://www.youtube.com/@louieandtodd)
 - [ProfessorViral](https://www.youtube.com/@ProfessorViral)
+- [PropHatCat](https://www.youtube.com/@PropHatCat)
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Renée Shaw](https://www.youtube.com/@pollyfockit)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
@@ -1261,6 +1264,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Talk To Me In Korean](https://www.youtube.com/@talktomeinkorean)
 - [Tastes Seoul Good테이스트서울굿](https://www.youtube.com/@TastesSEOULGood)
 - [Tetsu Sensei](https://www.youtube.com/@tetsusenseidesuyo)
+- [That Chapter](https://www.youtube.com/@ThatChapter)
 - [The Bitchuation Room (with Francesca Fiorentini)](https://www.youtube.com/@franifio)
 - [THE RACE](https://www.youtube.com/@WeAreTheRace)
 - [The Race Podcasts](https://www.youtube.com/@TheRacePodcasts)

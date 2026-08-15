@@ -1,6 +1,6 @@
 {
-    "Site": "https://www.getzola.org",
-    "Title": "Zola",
-    "Description": "Everything you need to make a static site engine in one binary.",
-    "Image": "Zola-CBA08CE6-792F-411B-9F43-0BBBCF4886C5"
+    "Site": "https://specification.website",
+    "Title": "The Website Specification",
+    "Description": "A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence.",
+    "Image": "SpecificationWebsite-F47FECEC-D94D-46FB-92DE-901DE53DCE01"
 }
