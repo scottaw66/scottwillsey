@@ -294,16 +294,20 @@
     @apply inline;
   }
 
-  /* Code blocks */
-  pre.astro-code {
+  /* Code blocks — Zola emits <pre class="giallo" style="...">, not Astro's
+     pre.astro-code, so target bare pre. Long lines soft-wrap (matching the
+     old expressive-code behavior) instead of overflowing the page. */
+  pre {
     @apply py-4 px-8 rounded mt-3 mb-3 text-[0.8em];
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
   }
 
-  pre.astro-code::-webkit-scrollbar {
+  pre::-webkit-scrollbar {
     @apply w-2 h-2;
   }
 
-  pre.astro-code::-webkit-scrollbar-thumb {
+  pre::-webkit-scrollbar-thumb {
     background-color: var(--hyperlink);
     outline: 1px solid var(--background);
   }
