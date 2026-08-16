@@ -15,13 +15,23 @@
 set -e
 cd "$(dirname "$0")"
 
-# Sweep leftovers from previous dev.sh/preview.sh runs (stale servers,
-# watchers, orphaned instances) so starting fresh always works.
-lsof -ti tcp:1111 -ti tcp:1818 2>/dev/null | xargs kill 2>/dev/null || true
-pkill -f "tailwindcss -i css/global.css.*--watch" 2>/dev/null || true
-for pid in $(pgrep -f "bash.*(dev|preview)\.sh" 2>/dev/null); do
-    [ "$pid" != "$$" ] && [ "$pid" != "$PPID" ] && kill "$pid" 2>/dev/null || true
-done
+# Sweep leftovers from previous runs of THIS site only — matched by process
+# working directory, never by bare port or script name, so other sites'
+# previews and dev servers survive (multi-site collision, 2026-08-16).
+# Note: zola serve still binds 1111, so two sites can't run dev.sh at once —
+# but the failure is a visible "port in use" error, not a silent kill.
+kill_mine() {
+    for pid in $(pgrep -f "$1" 2>/dev/null); do
+        { [ "$pid" = "$$" ] || [ "$pid" = "$PPID" ]; } && continue
+        case "$(lsof -a -p "$pid" -d cwd -Fn 2>/dev/null | sed -n 's/^n//p')" in
+            "$PWD"|"$PWD"/*) kill "$pid" 2>/dev/null || true ;;
+        esac
+    done
+}
+kill_mine "python3 -m http.server"
+kill_mine "zola serve"
+kill_mine "tailwindcss -i css/global.css.*--watch"
+kill_mine "bash.*(dev|preview)\.sh"
 
 python3 migrate/convert.py
 tailwindcss -i css/global.css -o static/css/global.css
