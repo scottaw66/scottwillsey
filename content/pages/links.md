@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-08-15T14:08:27-08:00
+date = 2026-08-22T00:32:34-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Saturday, 15 Aug 2026 14:08:27"
+display_modified = "Saturday, 22 Aug 2026 00:32:34"
 +++
 
 ## Contents
@@ -689,6 +689,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Pudding](https://pudding.cool/)
 - [The Scroll Art Museum](https://scrollart.org/)
 - [The Web We Want](https://webwewant.fyi)
+- [The Website Specification](https://specification.website)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
 - [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
 - [tildeverse](https://tildeverse.org/)
@@ -1133,7 +1134,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Adam Bell](https://www.youtube.com/@adambell8994)
 - [Addie LaMarr](https://www.youtube.com/@addielamarr)
 - [AI LABS](https://www.youtube.com/@AILABS-393)
-- [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)
 - [Alex & Ashley Adventures](https://www.youtube.com/@AlexAshleyAdventures)
 - [Alex Handover Photography](https://www.youtube.com/@AlexHandoverPhotography)
 - [Amelia And JP Abroad](https://www.youtube.com/@AmeliaAndJP)
@@ -1151,7 +1151,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1165,6 +1165,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Dylan Davis](https://www.youtube.com/@dylandavisAI)
 - [Dylan John](https://www.youtube.com/@DylanJohnYT)
+- [Early Retirement Roadmap](https://www.youtube.com/@EarlyRetirementRoadmap)
 - [Eren Sarigul](https://www.youtube.com/@erenjam)
 - [Eric Tech](https://www.youtube.com/@EricWTech)
 - [Erin Talks Money | Erin Moriarity](https://www.youtube.com/@ErinTalksMoney)
@@ -1253,7 +1254,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Renée Shaw](https://www.youtube.com/@pollyfockit)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
@@ -1309,6 +1310,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [TK-42Greg](https://www.youtube.com/@TK42Greg.Outpost)
 - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
 - [Tokyo Cheapo](https://www.youtube.com/@tokyocheapo)
+- [Tommo](https://www.youtube.com/@TommoMcCluskey)
 - [Traveling with Kristin](https://www.youtube.com/@TravelingwithKristin)
 - [Trenton](https://www.youtube.com/@%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%B3)
 - [Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
