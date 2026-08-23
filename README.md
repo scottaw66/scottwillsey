@@ -4,6 +4,13 @@ This is version 7.0.0 of my website, [scottwillsey.com](https://scottwillsey.com
 
 Pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/) page, a [links](https://scottwillsey.com/links/) page, a [uses](https://scottwillsey.com/uses/) page, and [reviews](https://scottwillsey.com/reviews/) of books, movies, TV shows, and music.
 
+## License
+
+Split license — see [LICENSE](LICENSE) for the exact boundaries:
+
+- **Code** (templates, build scripts, `migrate/` and `hooks/` tooling, site CSS/JS): MIT.
+- **Content** (posts, pages, reviews, photos, artwork, and the content data files): [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/) — share with attribution, noncommercial, no derivatives.
+
 ## How it works
 
 - **Authoring** stays in `src/` — YAML-frontmatter markdown in `src/content/`, JSON data in `src/data/`, images in `src/assets/images/`. All the site automation scripts (`~/Scripts/Sites/scottwillsey/`, run from the dashboard) write here, unchanged from the Astro era.
@@ -55,4 +62,4 @@ uv venv .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
 
 Updating the toolchain: `brew upgrade zola tailwindcss` and `uv pip install --python .venv/bin/python -U "pagefind[extended]"`. That's the entire supply chain.
 
-_All content &copy; 2026 by Scott Willsey_
+_All content &copy; 2022&ndash;2026 by Scott Willsey_
