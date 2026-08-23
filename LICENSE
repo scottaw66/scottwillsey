@@ -10,9 +10,11 @@ This repository contains two kinds of material under two different licenses:
 2. CONTENT — the writing and personal material: all blog posts, pages,
    reviews, and other prose, and all photography and artwork (including
    everything under `content/`, `src/content/`, `src/data/`, `data/`,
-   `src/assets/images/`, and the images under `static/`). Licensed under
-   the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-   International License (CC BY-NC-ND 4.0) below — NOT the MIT License.
+   `src/assets/images/`, and the images under `static/`). Copyright
+   © 2022–2026 Scott Willsey. All rights reserved. The content is
+   published here for transparency and for building the website; it is
+   NOT covered by the MIT License and may not be republished,
+   redistributed, or used to create derivative works without permission.
 
 --------------------------------------------------------------------------
 
@@ -37,19 +39,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
---------------------------------------------------------------------------
-
-CC BY-NC-ND 4.0 License (applies to the CONTENT as defined above)
-
-ScottWillsey.com content Copyright (c) 2022–2026 Scott Willsey
-
-The content is licensed under the Creative Commons
-Attribution-NonCommercial-NoDerivatives 4.0 International License: it may be
-shared with attribution for noncommercial purposes, but it may not be adapted,
-remixed, or built upon, and no additional restrictions may be applied. It is
-in this repository because the site is built from it, not as an invitation to
-republish it commercially or train on it.
-
-You should have received a copy of the license along with this work. If not,
-see http://creativecommons.org/licenses/by-nc-nd/4.0/

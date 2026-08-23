@@ -9,7 +9,7 @@ Pages inspired by fun trends on the web: a [now](https://scottwillsey.com/now/) 
 Split license — see [LICENSE](LICENSE) for the exact boundaries:
 
 - **Code** (templates, build scripts, `migrate/` and `hooks/` tooling, site CSS/JS): MIT.
-- **Content** (posts, pages, reviews, photos, artwork, and the content data files): [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/) — share with attribution, noncommercial, no derivatives.
+- **Content** (posts, pages, reviews, photos, artwork, and the content data files): &copy; Scott Willsey, **all rights reserved**. It's in the repo because the site is built from it, not as an invitation to republish it or train on it.
 
 ## How it works
 
