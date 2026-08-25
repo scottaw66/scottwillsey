@@ -100,6 +100,6 @@ When I run the Sessions script command in Raycast, I just choose the session typ
 
 [{{<img src="posts/SessionsDropdown-d6401ea3-9aa3-4572-ac8c-6189a3af2d39.png" alt="SessionsDropdown" />}}](/images/posts/SessionsDropdown-d6401ea3-9aa3-4572-ac8c-6189a3af2d39.jpg)
 
-Anyway, if you have any questions about this script command or Raycast script commands in general, you know how to find me (hint: [Mastodon](https://social.lol/@scottwillsey) or [Bluesky](https://bsky.app/profile/scottwillsey.com)).
+Anyway, if you have any questions about this script command or Raycast script commands in general, you know how to find me (hint: [Mastodon](https://mastodon.social/@scottaw) or [Bluesky](https://bsky.app/profile/scottwillsey.com)).
 
 [^1]: I should see if there’s a way to close all apps that aren’t in a list, instead of closing all apps and then re-opening all apps that are in a list.

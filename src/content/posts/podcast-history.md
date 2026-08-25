@@ -258,6 +258,6 @@ This is the longest one and probably the one where my meager Pythoning probably 
 
 I have a Raycast Script Command I can run this from, but obviously in the future it would be better to integrate it more into the site build process itself.
 
-I assume you’re a Python genius compared to me, so [please let me know](https://social.lol/@scottwillsey) if you have any improvement suggestions beyond the ones I’ve already mentioned.
+I assume you’re a Python genius compared to me, so [please let me know](https://mastodon.social/@scottaw) if you have any improvement suggestions beyond the ones I’ve already mentioned.
 
 [^1]: I haven’t looked at his yet, but I assume they are different since I assume he’s a much better Python programmer than I am!

@@ -9,7 +9,7 @@ Last week or so, I started writing a blog post as I sometimes do, this one perta
 
 You can see where this is going.
 
-Yes, I updated something else on the website and published it, INCLUDING the partial draft of the blog post I was working on. This wasn’t a super huge deal, except that I use [EchoFeed](https://echofeed.app/) to automatically post to [Bluesky](https://bsky.app/profile/scottwillsey.com) and [Mastodon](https://social.lol/@scottwillsey) whenever I post something new on the site.
+Yes, I updated something else on the website and published it, INCLUDING the partial draft of the blog post I was working on. This wasn’t a super huge deal, except that I use [EchoFeed](https://echofeed.app/) to automatically post to [Bluesky](https://bsky.app/profile/scottwillsey.com) and [Mastodon](https://mastodon.social/@scottaw) whenever I post something new on the site.
 
 Sigh.
 
@@ -147,4 +147,4 @@ export function GET(context) {
 }
 ```
 
-That’s it! Hit me up on [Bluesky](https://bsky.app/profile/scottwillsey.com) or [Mastodon](https://social.lol/@scottwillsey) if you have any questions.
+That’s it! Hit me up on [Bluesky](https://bsky.app/profile/scottwillsey.com) or [Mastodon](https://mastodon.social/@scottaw) if you have any questions.

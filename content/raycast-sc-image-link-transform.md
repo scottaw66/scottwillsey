@@ -129,7 +129,7 @@ The nice thing is since my Script Command looks for the last updated blog post t
 
 In the near future, I’ll write about the Script Command I mentioned for getting blog post images in place. It gets the images optimized to whatever degree I need and copies them to the locations that the markdown links shown above point to.
 
-Thoughts? Questions? Hit me on the [pachyderm](https://social.lol/@scottwillsey).
+Thoughts? Questions? Hit me on the [pachyderm](https://mastodon.social/@scottaw).
 
 [^1]: Take that, Vic Hudson!
 [^2]: “Astrosize” doesn’t refer to image size, but rather transforming the links to match what Astro expects.

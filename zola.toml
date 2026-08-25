@@ -38,7 +38,7 @@ theme = "monokai"
 [extra]
 author = "Scott Willsey"
 github = "https://github.com/scottaw66"
-mastodon = "https://social.lol/@scottwillsey"
+mastodon = "https://mastodon.social/@scottaw"
 bluesky = "https://bsky.app/profile/scottwillsey.com"
 posts_paginate_by = 7
 reviews_paginate_by = 10
