@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-08-22T00:32:34-08:00
+date = 2026-09-04T19:15:45-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Saturday, 22 Aug 2026 00:32:34"
+display_modified = "Friday, 04 Sep 2026 19:15:45"
 +++
 
 ## Contents
@@ -51,6 +51,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 - [Customize Claude Code with plugins \ Anthropic](https://www.anthropic.com/news/claude-code-plugins)
+- [Desert Ant Labs: On-device AI models and SDKs](https://desertant.com/)
 - [Dicklesworthstone/destructive_command_guard: The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.](https://github.com/Dicklesworthstone/destructive_command_guard)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
@@ -58,6 +59,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [Interconnects | Nathan Lambert | Substack](https://www.interconnects.ai/)
 - [karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
 - [kepano/obsidian-skills: Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.](https://github.com/kepano/obsidian-skills)
+- [mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [Nanobot - Open Source MCP Agent Framework](https://www.nanobot.ai/)
 - [Nate Herk | AI Automation - YouTube](https://www.youtube.com/@nateherk)
@@ -66,8 +68,11 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [Nick Saraev - YouTube](https://www.youtube.com/@nicksaraev)
 - [obra/superpowers: An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
 - [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)
+- [plugins/pstack at main · cursor/plugins](https://github.com/cursor/plugins/tree/main/pstack)
 - [Printing Press — agent-native CLIs from a single prompt](https://printingpress.dev/)
+- [Prompting Claude Fable 5.1 - Claude Platform Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1#writing-density)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
+- [simonw/mcp-explorer: CLI tool for exploring an MCP server](https://github.com/simonw/mcp-explorer)
 - [Smart Plugins for Obsidian | Your vault is the shared workspace between you and AI](https://smartconnections.app/)
 - [SnitchBench](https://snitchbench.t3.gg/)
 - [TestingCatalog - New and Unreleased AI features for you to explore](https://www.testingcatalog.com/)
@@ -99,6 +104,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [A brief history of Mac native file systems – The Eclectic Light Company](https://eclecticlight.co/2025/04/12/a-brief-history-of-mac-native-file-systems/)
 - [A candy engineer explains the science behind the Snickers bar - Ars Technica](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/#gsc.tab=0)
 - [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+- [Apple CEO Tim Cook's Legacy Is Dull Products And Spineless Capitulation](https://karlbode.com/apple-ceo-tim-cooks-legacy-is-dull-products-and-spineless-capitulation/)
 - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules | WIRED](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
 - [Are We Ready to Be Governed by Artificial Intelligence? - Schneier on Security](https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html)
 - [Bonobos recognize when humans are ignorant, try to help - Ars Technica](https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/)
@@ -108,6 +114,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [Curate your own newspaper with RSS](https://www.citationneeded.news/curate-with-rss/)
 - [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems by Angela Walch :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 - [Designing in the Browser: Five Tips for Beginners – Cloud Four](https://cloudfour.com/thinks/designing-in-the-browser-five-tips-for-beginners/)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 - [Economics of Orbital vs Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
 - [Embracing AI While Retaining My Privacy — by Bart Busschots - Podfeet Podcasts](https://www.podfeet.com/blog/2025/11/ai-privacy-bart/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
@@ -135,6 +142,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/)
 - [I’m a US citizen and a veteran. ICE arrested me for no reason.](https://newsletter.ofthebrave.org/p/im-a-us-citizen-and-a-veteran-ice)
 - [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet - Ars Technica](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
+- [Inside Ukraine’s Kill Zone](https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/)
 - [Internet est mort. Voici comment le ressusciter](https://treshautdebit.substack.com/p/coder-son-site-web-dernier-geste?r=6414h5&triedRedirect=true)
 - [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
 - [Jellyfish surprise scientists by learning without a brain - Big Think](https://bigthink.com/life/jellyfish-learning-without-a-brain/)
@@ -153,6 +161,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [Rats beat AI at recognizing obscured objects | Popular Science](https://www.popsci.com/technology/rats-v-ai/)
 - [Rebirth of a Legend: Reviving an 800-Year-Old Tea Farm | Nippon.com](https://www.nippon.com/en/japan-topics/c11602/)
 - [Ron Deibert Warns Cybersecurity Industry About U.S. Authoritarian Descent - The Citizen Lab](https://citizenlab.ca/2025/08/ron-deibert-warns-cybersecurity-industry-about-u-s-authoritarian-descent-techcrunch/)
+- [Route 66 Turns 100: A Brewery-by-Brewery Road Trip Guide From Chicago to Santa Monica | VinePair](https://vinepair.com/articles/66-breweries-along-route-66/)
 - [Shot by His Father and Left Blind—Now He's a Hardcore Gamer | WIRED](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
 - [Sierra made the games of my childhood. Are they still fun to play? - Ars Technica](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/)
 - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land | WIRED](https://www.wired.com/story/simcity-libertarian-toy-land/)
@@ -196,6 +205,7 @@ display_modified = "Saturday, 22 Aug 2026 00:32:34"
 - [Why Modern Engines Still Measure Power Output In Horsepower?](https://www.jalopnik.com/2029564/why-engines-still-use-horsepower/)
 - [Wi-Fi is one of the great backward compatibility success stories | The Verge](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
 - [You no longer need JavaScript Ʊ lyra's epic blog](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+- [You’re Not Hallucinating: The Amount of Recalled Food Is Skyrocketing | The New Republic](https://newrepublic.com/post/214946/food-recall-fda-list-august-skyrocket)
 - [You’re Thinking About AI and Water All Wrong | WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/)
 
 ## Astro
@@ -670,6 +680,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [samwho](https://samwho.dev/)
 - [SeveranceWiki](https://www.severance.wiki)
 - [shite: static sites from shell (part 1/2) — feeling the html.energy](https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main)
+- [SIRACUSA SAYS](https://siracusasays.com)
 - [sircmpwn/openring - A webring for static site generators](https://git.sr.ht/~sircmpwn/openring)
 - [SLRPNK](https://slrpnk.net)
 - [Small Seasons](https://smallseasons.guide/)
@@ -1137,6 +1148,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Alex & Ashley Adventures](https://www.youtube.com/@AlexAshleyAdventures)
 - [Alex Handover Photography](https://www.youtube.com/@AlexHandoverPhotography)
 - [Amelia And JP Abroad](https://www.youtube.com/@AmeliaAndJP)
+- [Amelia Dimoldenberg](https://www.youtube.com/@AmeliaDimoldenberg)
 - [Andy Malone MVP](https://www.youtube.com/@AndyMaloneMVP)
 - [Anthony Morganti](https://www.youtube.com/@AnthonyMorganti)
 - [Anthropic](https://www.youtube.com/@anthropic-ai)
@@ -1144,6 +1156,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Asianometry](https://www.youtube.com/@Asianometry)
 - [asuka🇯🇵](https://www.youtube.com/@asuka_japan_diary)
 - [Atlassian Williams F1 Team](https://www.youtube.com/@WilliamsF1TV)
+- [Automate AI Consulting](https://www.youtube.com/@AutomateAIConsulting)
 - [Better Creating](https://www.youtube.com/@BetterCreating)
 - [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
@@ -1151,7 +1164,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1177,7 +1190,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Free Will Photos](https://www.youtube.com/@FreeWillPhotos)
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 - [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)
+- [Genspark AI](https://www.youtube.com/@GensparkAIOfficial)
 - [George Holden](https://www.youtube.com/@GeorgeHolden)
+- [Good Life Road](https://www.youtube.com/@GoodLifeRoad)
 - [Good Old Houses Japan](https://www.youtube.com/@GoodOldHousesJapan)
 - [Gotta Start Somewhere](https://www.youtube.com/@Gotta.Start.Somewhere.)
 - [Grace Leung](https://www.youtube.com/@graceleungyl)
@@ -1187,7 +1202,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Harupaka Japanese](https://www.youtube.com/@harupakajapanese)
 - [Honkology](https://www.youtube.com/@Honkology)
 - [Horizon3ai](https://www.youtube.com/@horizon3ai)
-- [How I AI](https://www.youtube.com/@howiaipodcast)
 - [Hunter Creates Things](https://www.youtube.com/@huntercreatesthings)
 - [I've Had It](https://www.youtube.com/@ivehaditpodcast)
 - [Ian Worth](https://www.youtube.com/@ian_worth)
@@ -1214,6 +1228,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [KOTSUMET](https://www.youtube.com/@KOTARO_OTTER)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
+- [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
 - [Lilit (nomad)](https://www.youtube.com/@lilit_nomad)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
@@ -1254,7 +1269,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Renée Shaw](https://www.youtube.com/@pollyfockit)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
@@ -1287,7 +1302,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Sol Life](https://www.youtube.com/@SolLife_)
 - [Speak About Digital](https://www.youtube.com/@SpeakAboutDigital)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
+- [Stacked Podcast](https://www.youtube.com/@stackedpod)
 - [Steve | Call to Leap](https://www.youtube.com/@CalltoLeap)
+- [stillyoung](https://www.youtube.com/@young.traveler)
 - [Sunny in Japan](https://www.youtube.com/@Sunny_in_Japan)
 - [Superlinear](https://www.youtube.com/@Superlinear_fm)
 - [Systems Made Better](https://www.youtube.com/@SystemsMadeBetter)
@@ -1301,8 +1318,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Tetsu Sensei](https://www.youtube.com/@tetsusenseidesuyo)
 - [That Chapter](https://www.youtube.com/@ThatChapter)
 - [The Bitchuation Room (with Francesca Fiorentini)](https://www.youtube.com/@franifio)
+- [The Coding Travelbug](https://www.youtube.com/@thecodingtravelbug)
 - [THE RACE](https://www.youtube.com/@WeAreTheRace)
-- [The Race Podcasts](https://www.youtube.com/@TheRacePodcasts)
+- [The Race F1 Podcast](https://www.youtube.com/@TheRaceF1Podcast)
 - [The Unretirees](https://www.youtube.com/@TheUnretirees)
 - [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
 - [thesecretsofcats](https://www.youtube.com/@thesecretsofcats)
@@ -1314,6 +1332,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Traveling with Kristin](https://www.youtube.com/@TravelingwithKristin)
 - [Trenton](https://www.youtube.com/@%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%B3)
 - [Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
+- [Untold Stories Network](https://www.youtube.com/@UntoldStoriesOfficialChannel)
 - [Vickie Ip](https://www.youtube.com/@VickieIp)
 - [WAKU WAKU JAPANESE](https://www.youtube.com/@wakuwakujapanese)
 - [Walking Alice](https://www.youtube.com/@WalkingAlice)
