@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-09-04T19:15:45-08:00"
+date: "2026-09-10T11:43:00-08:00"
 slug: "links"
 ---
 
@@ -116,6 +116,7 @@ slug: "links"
 - [Know Your Rights in Encounters with Law Enforcement and Military Troops | American Civil Liberties Union](https://www.aclu.org/news/national-security/know-your-rights-in-encounters-with-law-enforcement-and-military-troops)
 - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts | WIRED](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
 - [My first months in cyberspace (Phil Gyford’s website)](https://www.gyford.com/phil/writing/2025/10/15/1995-internet/)
+- [OpenAI's Robots Got Into a Closed Link Shortener, Surfed the Web With Google Docs and Translate, Then Called the FBI With a Stranger's Key](https://www.kennethdegraff.com/swarm)
 - [Open Social — overreacted](https://overreacted.io/open-social/)
 - [Open-Source Cybersecurity Is a Ticking Time Bomb](https://gizmodo.com/open-source-cybersecurity-is-a-ticking-time-bomb-1848790421)
 - [Osaka trumps Tokyo as both ranked among world’s top 10 most livable cities - The Japan Times](https://www.japantimes.co.jp/news/2026/07/07/japan/society/economist-intelligence-livability-ranking/)
@@ -149,6 +150,7 @@ slug: "links"
 - [The Next Thing You Smell Could Ruin Your Life | WIRED](https://www.wired.com/story/multiple-chemical-sensitivity-tilt-claudia-miller/)
 - [The Quantum Apocalypse Is Coming. Be Very Afraid | WIRED](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/)
 - [The Red Pill Was Hijacked | Techdirt](https://www.techdirt.com/2025/02/11/the-red-pill-was-hijacked/)
+- [The revolt of the reader | The Observation Deck](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 - [The secret inside One Million Checkboxes | eieio.games](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 - [The Thought Experiments That Fray the Fabric of Space-Time | Quanta Magazine](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 [The Ultimate Guide To Finding a Creative Job in Japan | Tokyo Cheapo](https://tokyocheapo.com/editorial/finding-creative-jobs-japan/)
@@ -633,7 +635,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [People and Blogs](https://peopleandblogs.com/)
 - [Peter Drinks Coffee](https://peterdrinkscoffee.com)
 - [Peter Runs](https://peterruns.com)
-- [Photos and Words](https://photos.scottwillsey.com/)
+- [Photos by Scott Willsey](https://photos.scottwillsey.com)
 - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
 - [Qlock - A JavaScript Quine Clock](https://aem1k.com/qlock/)
 - [Quick Stuff - Handy Lil' Tools](https://quickstuff.app)
@@ -1130,7 +1132,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1235,7 +1237,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Renée Shaw](https://www.youtube.com/@pollyfockit)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
@@ -1310,6 +1312,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Yuka Ohishi](https://www.youtube.com/@yuka)
 - [Yuko Sensei](https://www.youtube.com/@YukoSensei)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+- [Zack Korman](https://www.youtube.com/@ZackKorman)
 - [おにぎりんの日本語 Onigirin Japanese Language](https://www.youtube.com/@OnigirinJapaneseLanguage)
 - [ながらAI - usutaku&gomichan](https://www.youtube.com/@nagaraAI)
 - [ほのぼの Honobono Japanese Podcast](https://www.youtube.com/@JapaneseHonobonopodcast)
