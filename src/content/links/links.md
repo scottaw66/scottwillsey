@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-09-10T11:43:00-08:00"
+date: "2026-09-14T23:41:37-08:00"
 slug: "links"
 ---
 
@@ -1132,7 +1132,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1205,7 +1205,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [MacStories](https://www.youtube.com/@MacStories09)
 - [Marcus Hutchins](https://www.youtube.com/@MalwareTechBlog)
 - [Matt Gemmell](https://www.youtube.com/@MattGemmellAuthor)
-- [Matt Maher](https://www.youtube.com/@MetalSole)
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk)
 - [Mentour Pilot](https://www.youtube.com/@MentourPilot)
 - [Miku Real Japanese](https://www.youtube.com/@mikurealjapanese)
@@ -1237,7 +1236,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Pull My Focus](https://www.youtube.com/@PullMyFocus)
 - [Rachael Camp CFP®](https://www.youtube.com/@CampWealth)
 - [Ralph & Sam](https://www.youtube.com/@RalphSam)
-- [RealEstatejp](https://www.youtube.com/@realestatejp_official)
+- [RealEstatejp ](https://www.youtube.com/@realestatejp_official)
 - [Rebecca Watson (Skepchick)](https://www.youtube.com/@RebeccaWatson)
 - [Renée Shaw](https://www.youtube.com/@pollyfockit)
 - [Retire with Julia, CFP®](https://www.youtube.com/@RetirewithJulia)
