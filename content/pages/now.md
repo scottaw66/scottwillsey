@@ -1,11 +1,11 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-09-24T23:38:51-08:00
+date = 2026-09-24T23:48:14-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Thursday, 24 Sep 2026 23:38:51"
+display_modified = "Thursday, 24 Sep 2026 23:48:14"
 +++
 
 ## Current Personal Status
@@ -42,8 +42,8 @@ display_modified = "Thursday, 24 Sep 2026 23:38:51"
 
 ### TV Shows
 
-[<span hidden>2026 Star City A much different show than its sibling For All Mankind, and in a good way. More subtle, deeper, and more trusting of the viewer in a way that British tv still appears to</span>
-{{<img src="posts/png-image462db9b6f20-review-7b80f404-0591-45d7-b551-b43a6f1a89ef.png" alt="2026 Star City A much different show than its sibling For All Mankind, and in a good way. More subtle, deeper, and more trusting of the viewer in a way that British tv still appears to" />}}](/images/posts/png-image462db9b6f20-review-7b80f404-0591-45d7-b551-b43a6f1a89ef.jpg)
+[<span hidden>Star City • 2026 • A much different show than its sibling For All Mankind, and in a good way. More subtle, deeper, and more trusting of the viewer in a way that British tv still appears to *****</span>
+{{<img src="posts/png-image462db9b6f20-review-7b80f404-0591-45d7-b551-b43a6f1a89ef.png" alt="Star City • 2026 • A much different show than its sibling For All Mankind, and in a good way. More subtle, deeper, and more trusting of the viewer in a way that British tv still appears to *****" />}}](/images/posts/png-image462db9b6f20-review-7b80f404-0591-45d7-b551-b43a6f1a89ef.jpg)
 [<span hidden>Silo • 2023 • Silo is a great interpretation of the books, and is full of great world-building, character development, acting, and everything else that goes into a great tv series. So many great characters. I think this is my favorite current series. *****</span>
 {{<img src="posts/png-image418eb9ba070-review-4d59fda5-b9d9-4204-9792-4d5493d84c97.png" alt="Silo • 2023 • Silo is a great interpretation of the books, and is full of great world-building, character development, acting, and everything else that goes into a great tv series. So many great characters. I think this is my favorite current series. *****" />}}](/images/posts/png-image418eb9ba070-review-4d59fda5-b9d9-4204-9792-4d5493d84c97.jpg)
 
