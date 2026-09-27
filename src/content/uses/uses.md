@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 description: "These are some things I use – mostly tech related, but not completely. An eternal work in progress."
-date: "2026-08-15T14:08:27-08:00"
+date: "2026-09-26T22:35:46-08:00"
 slug: "uses"
 ---
 ## Macs
@@ -29,10 +29,10 @@ slug: "uses"
 
 ### Video Recording
 
-- [DJI Mic Mini - Carry Less, Capture More - DJI United States](https://www.dji.com/mic-mini)
+- [DJI Mic 3](https://www.dji.com/mic-3)
 - [Elgato Key Light | Professional LED Panel Lighting | Elgato](https://www.elgato.com/us/en/p/key-light)
 - [NEEWER TP34 Flexible Tripod with Remote | Phone Holder](https://neewer.com/collections/mini-tripod/products/neewer-tp34-flexible-tripod-with-remote-66604840)
-- [Wave Mic Arm LP | Mic Boom Arm for Desks | Elgato](https://www.elgato.com/us/en/p/wave-mic-arm-lp)
+- [Wave Mic Arm LP | Mic Boom Arm for Desks | Elgato](https://www.elgato.com/us/en/p/wave-mic-arm-lp) *I actually use this for my iphone now when I'm doing Friends with Brews*
 
 ## Software
 
@@ -49,8 +49,6 @@ slug: "uses"
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [CmdTab — App switching without the bloat](https://scratchitchsoftware.com/cmdtab/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
-- [EchoFeed](https://echofeed.app/)
-- [FastScripts 3](https://redsweater.com/fastscripts/)
 - [Folder Peek — Sindre Sorhus](https://sindresorhus.com/folder-peek)
 - [Front and Center](https://apps.apple.com/us/app/front-and-center/id1493996622?mt=12)
 - [Hyperspace: Reclaim Disk Space](https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12)
@@ -86,8 +84,8 @@ slug: "uses"
 
 ### Image Processing
 
-- [Acorn 7 | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
-- [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
+- [Acorn | Full Featured Photo Editor for the Mac](https://flyingmeat.com/acorn/)
+- [DxO PhotoLab 10: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
 - [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
 - [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
 - [Pixelmator Pro](https://www.pixelmator.com/pro/)
@@ -99,7 +97,6 @@ slug: "uses"
 - Apple Reminders
 - [BBEdit | Bare Bones Software](https://www.barebones.com/products/bbedit/index.html)
 - [BusyCal - Professional Calendar App for Mac and iOS | Busy Apps by Beehive](https://www.busymac.com/)
-- [Dot — Menu Bar Calendar for Mac with Meeting Reminders](https://www.trydot.app/)
 - [Notion](https://www.notion.so/)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
 - [Scratchpad — Sindre Sorhus](https://sindresorhus.com/scratchpad)
@@ -107,13 +104,12 @@ slug: "uses"
 
 ### Podcasting/Recording/Video
 
-- [Audio Hijack: Record Any Audio on MacOS | Rogue Amoeba](https://rogueamoeba.com/audiohijack/)
+- [Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://claude.com/product/claude-code) *Claude Code actually edits my videos now, using a custom tuned workflow*  
 - [Farrago: Robust, rapid-fire soundboards | Rogue Amoeba](https://rogueamoeba.com/farrago/)
-- [Final Cut Pro - Apple](https://www.apple.com/final-cut-pro/)
-- [Fission: Fast & Lossless Audio Editing | Rogue Amoeba](https://rogueamoeba.com/fission/)
+- [FFmpeg](https://www.ffmpeg.org/)
+- [HyperFrames](https://hyperframes.heygen.com/introduction)
 - [Loopback: Cable-Free Audio Routing | Rogue Amoeba](https://rogueamoeba.com/loopback/)
 - [Riverside: HD Podcast & Video Software | Free Recording & Editing](https://riverside.com/)
-- [Rogue Amoeba | Quality Audio Software for MacOS](https://rogueamoeba.com/)
 
 ### Programming, Log Analysis, Text Filtering
 

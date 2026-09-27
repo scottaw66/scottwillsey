@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-09-24T23:48:14-08:00
+date = 2026-09-26T22:35:46-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Thursday, 24 Sep 2026 23:48:14"
+display_modified = "Saturday, 26 Sep 2026 22:35:46"
 +++
 
 ## Contents
@@ -191,6 +191,7 @@ display_modified = "Thursday, 24 Sep 2026 23:48:14"
 - [The Vacuum of Space Will Decay Sooner Than Expected | WIRED](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
 - [The WIRED Guide to Protecting Yourself From Government Surveillance | WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 - [This Ancient Technology Is Helping Millions Stay Cool | WIRED](https://www.wired.com/story/evaporative-cooling-devices-coolant-clay-matka-mitticool-india-heat-wave/)
+- [This is the Hunger Games Era of the United States. | by Lauren Elizabeth | Sep, 2026 | Medium](https://xlauren-mx.medium.com/this-is-the-hunger-games-era-of-the-united-states-310ea2f5d773)
 - [Tokyo’s oldest train line – in pictures | Art and design | The Guardian](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 - [Underground Networking: The Amazing Connections Beneath Your Feet - National Forest Foundation](https://www.nationalforests.org/blog/underground-mycorrhizal-network?ref=404media.co)
 - [Walking the Great Kantō Quake of 1923 — Ridgeline issue 193](https://craigmod.com/ridgeline/193/)
@@ -205,6 +206,7 @@ display_modified = "Thursday, 24 Sep 2026 23:48:14"
 - [Why engineers can't be rational about programming languages | spf13](https://spf13.com/p/the-hidden-conversation/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
 - [Why Modern Engines Still Measure Power Output In Horsepower?](https://www.jalopnik.com/2029564/why-engines-still-use-horsepower/)
+- [Why the World Is Suddenly Fighting Over Japan's Best Fresh Fish | Medium](https://medium.com/@Yuki_JapaneseTraveling/why-the-world-is-suddenly-fighting-over-japans-best-fresh-fish-31e0fc6f59a7)
 - [Wi-Fi is one of the great backward compatibility success stories | The Verge](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
 - [You’re Not Hallucinating: The Amount of Recalled Food Is Skyrocketing | The New Republic](https://newrepublic.com/post/214946/food-recall-fda-list-august-skyrocket)
 - [You’re Thinking About AI and Water All Wrong | WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/)
@@ -1111,7 +1113,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 
 ## RSS & Reading Tools
 
-- [EchoFeed](https://echofeed.app/)
 - [Feedbin](https://feedbin.com/home)
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
