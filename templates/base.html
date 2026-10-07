@@ -46,8 +46,12 @@
     {# Compiled from css/global.css by the Tailwind standalone binary (build.sh
        runs Tailwind before zola build, so the hash below is of the fresh CSS).
        cachebust appends ?h=<sha256> — the origin/Cloudflare cache CSS for a
-       year as immutable, so the URL must change whenever the content does. #}
-    <link rel="stylesheet" href="{{ get_url(path='css/global.css', cachebust=true) | safe }}" />
+       year as immutable, so the URL must change whenever the content does.
+       The base_url is stripped so the link is root-relative: get_url makes it
+       absolute (https://scottwillsey.com/...), which made a local preview of
+       dist/ load the LIVE stylesheet, and its /fonts/ URLs then resolved
+       cross-origin and failed CORS (observed 2026-10-06). #}
+    <link rel="stylesheet" href="{{ get_url(path='css/global.css', cachebust=true) | replace(from=config.base_url, to='') | safe }}" />
     {# Pagefind v2 component UI (defines <pagefind-searchbox>); the bundle is
        generated into dist/pagefind/ by the post-build index step. The CSS is
        NOT auto-injected by the component script — without it results render
