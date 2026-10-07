@@ -1,11 +1,11 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-09-26T22:35:46-08:00
+date = 2026-10-06T18:34:53-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Saturday, 26 Sep 2026 22:35:46"
+display_modified = "Tuesday, 06 Oct 2026 18:34:53"
 +++
 
 ## Current Personal Status
@@ -14,8 +14,7 @@ display_modified = "Saturday, 26 Sep 2026 22:35:46"
 
 ## Current Projects
 
-- Finished a major client firewall migration, super glad that's mostly done.
-- Working on creating and DOING some additional consulting and contracting offerings.
+- Setting up [Mikan Software](https://mikansoftware.app) and getting ready to ship some apps!
 
 ## Stuff I've recently enjoyed
 
@@ -25,27 +24,25 @@ display_modified = "Saturday, 26 Sep 2026 22:35:46"
 
 <div class="podcast-episodes">
 
-{{<img src="oc_artwork/5523677060939680-ccb8d9fc-efe4-4d3b-82c2-76c2a3f4cc2e.png" alt="Azerbaijan Grand Prix review (ad free)" />}} The Race F1 Podcast (Members) – Azerbaijan Grand Prix review (ad free)
-{{<img src="oc_artwork/5523677913460598-b52d1f9c-a283-4597-b700-2abf324f3b0e.png" alt="In-Restaurant Insights: Qualifying results, upgrade verdicts and angry/sad drivers" />}} The Race F1 Podcast (Members) – In-Restaurant Insights: Qualifying results, upgrade verdicts and angry/sad drivers
-[{{<img src="oc_artwork/4031461742954207-52d7c4e1-df41-41b0-ab03-026175e2ed26.png" alt="Srsly Risky Biz: Bring on the AI lawsuits" />}}](https://overcast.fm/+5Sl9UdRt8) [Risky Bulletin – Srsly Risky Biz: Bring on the AI lawsuits](https://overcast.fm/+5Sl9UdRt8)
-[{{<img src="oc_artwork/3737328809443758-7d68f9a1-362a-4405-8308-fd5a96d08bc0.png" alt="Blade Runner - Caravan Of Garbage" />}}](https://overcast.fm/+1HFKwYga4) [The Weekly Planet – Blade Runner - Caravan Of Garbage](https://overcast.fm/+1HFKwYga4)
-{{<img src="oc_artwork/5121671646257620-06ea7316-013e-493d-b4ba-70ecaae08542.png" alt="The End of Privacy Is Here (with Kashmir Hill)" />}} The 404 Media Podcast (Premium Feed) – The End of Privacy Is Here (with Kashmir Hill)
-[{{<img src="oc_artwork/5585876488597483-9714f30d-40f1-44a4-805b-db63f88707ca.png" alt="710: That New Mouse Pad Feeling" />}}](https://atp.fm/710) [Accidental Tech Podcast – 710: That New Mouse Pad Feeling](https://atp.fm/710)
-{{<img src="oc_artwork/5523677734600445-d4353d3f-00ab-4403-9adc-2fecf5ce0a4c.png" alt="On-Street Insights: Scott and Josh on Ocon’s seat + other big day-one talking points in Baku" />}} The Race F1 Podcast (Members) – On-Street Insights: Scott and Josh on Ocon’s seat + other big day-one talking points in Baku
-{{<img src="oc_artwork/5523677626896872-638db30b-ef1e-4404-99c9-09f4c8ce2a4f.png" alt="On-Bench Insights: Baku F1 practice and the Hamilton/Lawson near-miss" />}} The Race F1 Podcast (Members) – On-Bench Insights: Baku F1 practice and the Hamilton/Lawson near-miss
-[{{<img src="oc_artwork/5585879637661838-a4fa1dec-72a9-400e-9d66-b513a554a40e.png" alt="710: That New Mouse Pad Feeling" />}}](https://atp.fm/710) [Accidental Tech Podcast: Unedited Live Stream – 710: That New Mouse Pad Feeling](https://atp.fm/710)
-[{{<img src="oc_artwork/4031461450774191-e429ee17-e8db-4354-93d4-358876fe8bc8.png" alt="Between Two Nerds: Real-time cyber defence" />}}](https://overcast.fm/+5Sl8Oy9q8) [Risky Bulletin – Between Two Nerds: Real-time cyber defence](https://overcast.fm/+5Sl8Oy9q8)
+[{{<img src="oc_artwork/1682926406252408-6ac4cb55-fcc8-4c47-b244-91e73cf3ef47.png" alt="Is Your Pipeline Feeding Your Ego or Your Paycheck" />}}](https://overcast.fm/+X6nNagt3g) [Sales Logic - Selling Strategies That Work – Is Your Pipeline Feeding Your Ego or Your Paycheck](https://overcast.fm/+X6nNagt3g)
+{{<img src="oc_artwork/5816355875427405-b81d7b9e-fb30-45db-a5f1-048ce45f0b98.png" alt="Adam Schiff on AI regulation, free speech, and impeaching Trump one more time" />}} Decoder: Ad-Free Edition – Adam Schiff on AI regulation, free speech, and impeaching Trump one more time
+[{{<img src="oc_artwork/5476005005381604-bfaf771d-8cac-4cae-b9b4-afdcdf98749a.png" alt="Proving Readiness with TryHackMe" />}}](https://overcast.fm/+BN0ZcUiT-Q) [Security You Should Know – Proving Readiness with TryHackMe](https://overcast.fm/+BN0ZcUiT-Q)
+{{<img src="oc_artwork/5121671417495807-b5f6d848-d6f9-4e32-acdc-355e74afa1c1.png" alt="404 Media Live! The Three Year Anniversary Show" />}} The 404 Media Podcast (Premium Feed) – 404 Media Live! The Three Year Anniversary Show
+{{<img src="oc_artwork/5816356091388376-cb0b66b4-e3d1-4512-a650-7bc4677079fc.png" alt="The SaaSpocalypse that wasn’t, with Atlassian’s CEO" />}} Decoder: Ad-Free Edition – The SaaSpocalypse that wasn’t, with Atlassian’s CEO
+[{{<img src="oc_artwork/3737328876734413-fb5e3d1c-6e6b-48d2-a8d8-db9327d2a128.png" alt="643 Digger & Avengers: Endgame Encore" />}}](https://overcast.fm/+1HFLAbR80) [The Weekly Planet – 643 Digger & Avengers: Endgame Encore](https://overcast.fm/+1HFLAbR80)
+{{<img src="oc_artwork/5816355976723703-44ef2220-c815-4755-83c6-d51b20ce3177.png" alt="The AI warnings are getting louder" />}} Decoder: Ad-Free Edition – The AI warnings are getting louder
+{{<img src="oc_artwork/5816356167117526-c7ce7f9b-bf9e-4762-bf66-ee910e776eed.png" alt="How Utah locals fought Kevin O’Leary’s AI data center" />}} Decoder: Ad-Free Edition – How Utah locals fought Kevin O’Leary’s AI data center
+{{<img src="oc_artwork/5523677194867848-56730ee2-6709-4b13-969a-771b3e2ff00e.png" alt="Bahrain Grand Prix (in Malaysia) review (ad free)" />}} The Race F1 Podcast (Members) – Bahrain Grand Prix (in Malaysia) review (ad free)
+[{{<img src="oc_artwork/2821379270612618-78c8ea57-4e9e-462f-84de-5515a64ca113.png" alt="Turkey’s $20 Billion Fund Collapse Explained" />}}](https://overcast.fm/+oGB40zloo) [Patrick Boyle On Finance – Turkey’s $20 Billion Fund Collapse Explained](https://overcast.fm/+oGB40zloo)
 
 </div>
 
 <div class="review-now">
 
-### TV Shows
+### Books
 
-[<span hidden>Star City • 2026 • A much different show than its sibling For All Mankind, and in a good way. More subtle, deeper, and more trusting of the viewer in a way that British tv still appears to *****</span>
-{{<img src="posts/png-image462db9b6f20-review-7b80f404-0591-45d7-b551-b43a6f1a89ef.png" alt="Star City • 2026 • A much different show than its sibling For All Mankind, and in a good way. More subtle, deeper, and more trusting of the viewer in a way that British tv still appears to *****" />}}](/images/posts/png-image462db9b6f20-review-7b80f404-0591-45d7-b551-b43a6f1a89ef.jpg)
-[<span hidden>Silo • 2023 • Silo is a great interpretation of the books, and is full of great world-building, character development, acting, and everything else that goes into a great tv series. So many great characters. I think this is my favorite current series. *****</span>
-{{<img src="posts/png-image418eb9ba070-review-4d59fda5-b9d9-4204-9792-4d5493d84c97.png" alt="Silo • 2023 • Silo is a great interpretation of the books, and is full of great world-building, character development, acting, and everything else that goes into a great tv series. So many great characters. I think this is my favorite current series. *****" />}}](/images/posts/png-image418eb9ba070-review-4d59fda5-b9d9-4204-9792-4d5493d84c97.jpg)
+[<span hidden>Attack Surface • 2021 • CORY DOCTOROW • Every novel Cory Doctorow has ever written is YA, even when it's not, but this is a pretty good book about the state of controlling technology and how it's used to trod all over human rights across the world. ****</span>
+{{<img src="posts/png-image43ebb05ed80-review-fac692f2-aa64-4d57-895f-16d3286faa0a.png" alt="Attack Surface • 2021 • CORY DOCTOROW • Every novel Cory Doctorow has ever written is YA, even when it's not, but this is a pretty good book about the state of controlling technology and how it's used to trod all over human rights across the world. ****" />}}](/images/posts/png-image43ebb05ed80-review-fac692f2-aa64-4d57-895f-16d3286faa0a.jpg)
 
 </div>
 
@@ -55,96 +52,96 @@ display_modified = "Saturday, 26 Sep 2026 22:35:46"
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_T-oXyXwD6sE.png" alt="../../assets/images/yt_thumbs/20260926184942_T-oXyXwD6sE.png" />}}](https://www.youtube.com/watch?v=T-oXyXwD6sE&t=523s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
-[Is the AI Bubble About to Be Tested?](https://www.youtube.com/watch?v=T-oXyXwD6sE&t=523s)
+[{{<img src="yt_thumbs/20261006174549_TpMOMKfkPgs.png" alt="../../assets/images/yt_thumbs/20261006174549_TpMOMKfkPgs.png" />}}](https://www.youtube.com/watch?v=TpMOMKfkPgs)<div><p class="yt-video-channel">Channel – [Lewis Hamilton](https://www.youtube.com/@lewishamilton)</p><p class="yt-video-title">
+[Restoring My F40](https://www.youtube.com/watch?v=TpMOMKfkPgs)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_f4NM8c7zLhw.png" alt="../../assets/images/yt_thumbs/20260926184942_f4NM8c7zLhw.png" />}}](https://www.youtube.com/watch?v=f4NM8c7zLhw)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[What next for the F1 driver Lando Norris wants banned](https://www.youtube.com/watch?v=f4NM8c7zLhw)
+[{{<img src="yt_thumbs/20261006174549_EfLZgKcdZwU.png" alt="../../assets/images/yt_thumbs/20261006174549_EfLZgKcdZwU.png" />}}](https://www.youtube.com/watch?v=EfLZgKcdZwU&t=279s)<div><p class="yt-video-channel">Channel – [Joey Josselson](https://www.youtube.com/@Callmethelamp)</p><p class="yt-video-title">
+[Venomous Gaboon Viper on the Loose in California!](https://www.youtube.com/watch?v=EfLZgKcdZwU&t=279s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_VV-QGVNBP5E.png" alt="../../assets/images/yt_thumbs/20260926184942_VV-QGVNBP5E.png" />}}](https://www.youtube.com/watch?v=VV-QGVNBP5E)<div><p class="yt-video-channel">Channel – [平手 晃平 | 車の楽しさを伝える](https://www.youtube.com/@youtuberising-kproject2905)</p><p class="yt-video-title">
-[My R32 GT-R… The Car That Means Everything to Me](https://www.youtube.com/watch?v=VV-QGVNBP5E)
+[{{<img src="yt_thumbs/20261006174549_xCr6AvlOYQI.png" alt="../../assets/images/yt_thumbs/20261006174549_xCr6AvlOYQI.png" />}}](https://www.youtube.com/watch?v=xCr6AvlOYQI&t=10s)<div><p class="yt-video-channel">Channel – [Zack Korman](https://www.youtube.com/@ZackKorman)</p><p class="yt-video-title">
+[AI doomers are furious](https://www.youtube.com/watch?v=xCr6AvlOYQI&t=10s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_aqAvF4-lCvk.png" alt="../../assets/images/yt_thumbs/20260926184942_aqAvF4-lCvk.png" />}}](https://www.youtube.com/watch?v=aqAvF4-lCvk)<div><p class="yt-video-channel">Channel – [Peter Nikolaidis](https://www.youtube.com/@PeterNikolaidis)</p><p class="yt-video-title">
-[Peter drinks coffee from Bela Gelato in Trogir, Croatia](https://www.youtube.com/watch?v=aqAvF4-lCvk)
+[{{<img src="yt_thumbs/20261006174549_tlACffxhuO4.png" alt="../../assets/images/yt_thumbs/20261006174549_tlACffxhuO4.png" />}}](https://www.youtube.com/watch?v=tlACffxhuO4)<div><p class="yt-video-channel">Channel – [Boxoffice Movie Scenes](https://www.youtube.com/@BoxofficeMoviesScenes)</p><p class="yt-video-title">
+[Jason Bourne ends an angry Russian in ONE punch | Jason Bourne 🔥 4K](https://www.youtube.com/watch?v=tlACffxhuO4)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_WEsZ5UdKn1k.png" alt="../../assets/images/yt_thumbs/20260926184942_WEsZ5UdKn1k.png" />}}](https://www.youtube.com/watch?v=WEsZ5UdKn1k&pp=0gcJCS8MAYcqIYzv)<div><p class="yt-video-channel">Channel – [Bad Things: True Crime](https://www.youtube.com/@BadThingsTrueCrime)</p><p class="yt-video-title">
-[Who the Oslo Plaza Woman most likely was](https://www.youtube.com/watch?v=WEsZ5UdKn1k&pp=0gcJCS8MAYcqIYzv)
+[{{<img src="yt_thumbs/20261006174549_4Tr_IC1trj4.png" alt="../../assets/images/yt_thumbs/20261006174549_4Tr_IC1trj4.png" />}}](https://www.youtube.com/watch?v=4Tr_IC1trj4)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[Pilot Ignores Every Warning... Gets Wife & Brother Killed!](https://www.youtube.com/watch?v=4Tr_IC1trj4)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_2JJQbAmqOqE.png" alt="../../assets/images/yt_thumbs/20260926184942_2JJQbAmqOqE.png" />}}](https://www.youtube.com/watch?v=2JJQbAmqOqE&pp=0gcJCS8MAYcqIYzv)<div><p class="yt-video-channel">Channel – [Nischa](https://www.youtube.com/@nischa)</p><p class="yt-video-title">
-[This will be deleted in 21 hours...](https://www.youtube.com/watch?v=2JJQbAmqOqE&pp=0gcJCS8MAYcqIYzv)
+[{{<img src="yt_thumbs/20261006174549_bVal_E9t6d0.png" alt="../../assets/images/yt_thumbs/20261006174549_bVal_E9t6d0.png" />}}](https://www.youtube.com/watch?v=bVal_E9t6d0)<div><p class="yt-video-channel">Channel – [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)</p><p class="yt-video-title">
+[Claude Code: Terminal vs the Claude App (and More Great Gourds) #beer #review  #hopworks #pumpkin](https://www.youtube.com/watch?v=bVal_E9t6d0)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_ejjBbaq9RmY.png" alt="../../assets/images/yt_thumbs/20260926184942_ejjBbaq9RmY.png" />}}](https://www.youtube.com/watch?v=ejjBbaq9RmY)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Getting the most out of Opus 5.5](https://www.youtube.com/watch?v=ejjBbaq9RmY)
+[{{<img src="yt_thumbs/20261006174549_WfXGz1IfN2M.png" alt="../../assets/images/yt_thumbs/20261006174549_WfXGz1IfN2M.png" />}}](https://www.youtube.com/watch?v=WfXGz1IfN2M&t=42s&pp=0gcJCTUMAYcqIYzv)<div><p class="yt-video-channel">Channel – [David Pakman](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
+[She was in on it ALL ALONG](https://www.youtube.com/watch?v=WfXGz1IfN2M&t=42s&pp=0gcJCTUMAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_jgGyX7MPPVg.png" alt="../../assets/images/yt_thumbs/20260926184942_jgGyX7MPPVg.png" />}}](https://www.youtube.com/watch?v=jgGyX7MPPVg)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Wow.](https://www.youtube.com/watch?v=jgGyX7MPPVg)
+[{{<img src="yt_thumbs/20261006174549_FsDUOUV9Vs8.png" alt="../../assets/images/yt_thumbs/20261006174549_FsDUOUV9Vs8.png" />}}](https://www.youtube.com/watch?v=FsDUOUV9Vs8&t=1699s&pp=0gcJCTUMAYcqIYzv)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
+[Anthropic Made Claude Even Better](https://www.youtube.com/watch?v=FsDUOUV9Vs8&t=1699s&pp=0gcJCTUMAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_FIgzqE-_7iQ.png" alt="../../assets/images/yt_thumbs/20260926184942_FIgzqE-_7iQ.png" />}}](https://www.youtube.com/watch?v=FIgzqE-_7iQ)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
-[What's really behind Haas F1 driver change](https://www.youtube.com/watch?v=FIgzqE-_7iQ)
+[{{<img src="yt_thumbs/20261006174549_bvGptCLDhyo.png" alt="../../assets/images/yt_thumbs/20261006174549_bvGptCLDhyo.png" />}}](https://www.youtube.com/watch?v=bvGptCLDhyo&t=9s)<div><p class="yt-video-channel">Channel – [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)</p><p class="yt-video-title">
+[I Built Another Andrej Karpathy Using Claude](https://www.youtube.com/watch?v=bvGptCLDhyo&t=9s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_g0ItCMHlcvA.png" alt="../../assets/images/yt_thumbs/20260926184942_g0ItCMHlcvA.png" />}}](https://www.youtube.com/watch?v=g0ItCMHlcvA)<div><p class="yt-video-channel">Channel – [That Chapter](https://www.youtube.com/@ThatChapter)</p><p class="yt-video-title">
-[The Strange Affair of Laura Grillo](https://www.youtube.com/watch?v=g0ItCMHlcvA)
+[{{<img src="yt_thumbs/20261006174549_h1p9zdUtUdo.png" alt="../../assets/images/yt_thumbs/20261006174549_h1p9zdUtUdo.png" />}}](https://www.youtube.com/watch?v=h1p9zdUtUdo)<div><p class="yt-video-channel">Channel – [Tom Delalande](https://www.youtube.com/@tom-delalande)</p><p class="yt-video-title">
+[Average Theo video be like](https://www.youtube.com/watch?v=h1p9zdUtUdo)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_QlBQ_5lsCiY.png" alt="../../assets/images/yt_thumbs/20260926184942_QlBQ_5lsCiY.png" />}}](https://www.youtube.com/watch?v=QlBQ_5lsCiY)<div><p class="yt-video-channel">Channel – [Idaho News 6](https://www.youtube.com/@KiviTVNews)</p><p class="yt-video-title">
-[Cold case solved: Boise man identified, connected to Tylenol capsule deaths](https://www.youtube.com/watch?v=QlBQ_5lsCiY)
+[{{<img src="yt_thumbs/20261006174549_638GQZ9UZ4w.png" alt="../../assets/images/yt_thumbs/20261006174549_638GQZ9UZ4w.png" />}}](https://www.youtube.com/watch?v=638GQZ9UZ4w)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[Here's What I'd Learn Instead of AI Automation in 2027](https://www.youtube.com/watch?v=638GQZ9UZ4w)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20260926184942_wk-K8ZtEgA8.png" alt="../../assets/images/yt_thumbs/20260926184942_wk-K8ZtEgA8.png" />}}](https://www.youtube.com/watch?v=wk-K8ZtEgA8)<div><p class="yt-video-channel">Channel – [That Chapter](https://www.youtube.com/@ThatChapter)</p><p class="yt-video-title">
-[The Disturbing Case of Mitchel Dang](https://www.youtube.com/watch?v=wk-K8ZtEgA8)
+[{{<img src="yt_thumbs/20261006174549_LyEAbLgV4tc.png" alt="../../assets/images/yt_thumbs/20261006174549_LyEAbLgV4tc.png" />}}](https://www.youtube.com/watch?v=LyEAbLgV4tc)<div><p class="yt-video-channel">Channel – [David Pakman](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
+[This CANNOT be happening](https://www.youtube.com/watch?v=LyEAbLgV4tc)
 </p></div>
 
 </div>

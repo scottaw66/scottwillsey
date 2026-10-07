@@ -1,7 +1,7 @@
 ---
 title: "Links"
 description: Sites and other stuff I like and that you should too.
-date: "2026-09-26T22:35:46-08:00"
+date: "2026-10-06T18:34:53-08:00"
 slug: "links"
 ---
 
@@ -21,19 +21,15 @@ slug: "links"
 - [Dicklesworthstone/destructive_command_guard: The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.](https://github.com/Dicklesworthstone/destructive_command_guard)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [gptscript-ai/gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
-- [HyperContext](https://hypercontext.eu/)
-- [Interconnects | Nathan Lambert | Substack](https://www.interconnects.ai/)
 - [karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
 - [kepano/obsidian-skills: Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.](https://github.com/kepano/obsidian-skills)
 - [mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
-- [Nanobot - Open Source MCP Agent Framework](https://www.nanobot.ai/)
 - [Nate Herk | AI Automation - YouTube](https://www.youtube.com/@nateherk)
-- [NateBJones-Projects/OB1: Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.](https://github.com/NateBJones-Projects/OB1)
 - [Nate’s Substack | Substack](https://natesnewsletter.substack.com/)
 - [Nick Saraev - YouTube](https://www.youtube.com/@nicksaraev)
+- [Obot | Enterprise AI Control Plane & MCP Gateway](https://obot.ai/)
 - [obra/superpowers: An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
-- [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)
 - [plugins/pstack at main · cursor/plugins](https://github.com/cursor/plugins/tree/main/pstack)
 - [Printing Press — agent-native CLIs from a single prompt](https://printingpress.dev/)
 - [Prompting Claude Fable 5.1 - Claude Platform Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1#writing-density)
@@ -49,16 +45,6 @@ slug: "links"
 - [Trigger.dev | Build and deploy fully-managed AI agents and workflows.](https://trigger.dev/)
 - [Web Documentation to llms.txt Generator | LLM.codes](https://llm.codes/)
 - [ながらAI - usutaku&gomichan](https://www.youtube.com/@nagaraAI)
-
-## Apple
-
-- [Basic Apple Guy](https://basicappleguy.com/)
-- [Club MacStories](https://club.macstories.net/)
-- [Daring Fireball](https://daringfireball.net/)
-- [Hypercritical](https://hypercritical.co/)
-- [MacRumors: Apple News and Rumors](https://www.macrumors.com/)
-- [MacStories](https://www.macstories.net/)
-- [Matthew Cassinelli](https://matthewcassinelli.com/)
 
 ## Articles
 
@@ -188,6 +174,7 @@ slug: "links"
 - [Falling Sky Brewing](https://www.fallingskybrewing.com/)
 - [Folkvangr — Little Beast Brewing](https://www.littlebeastbrewing.com/folkvangr)
 - [Hetty Alice Beers](https://www.hettyalicebeers.com/) Porter
+- [Hopworks Brewery](https://www.hopworksbeer.com/)
 - [KIRIN ICHIBAN](http://www.kirinichiban.com/)
 - [Marryin Berries | Ex Novo Brewing Company](https://exnovobrew.com/beer/marryin-berries/)
 - [Salted Caramel Porter – Beers — Cascade Lakes](https://www.cascadelakes.com/beers)
@@ -391,8 +378,11 @@ See the notes for EuroVan Camper Stuff above - it's David H!
 **[Paul Stamatiou](https://paulstamatiou.com/)**  
 Paul writes about design, code, startups, and anything that interests him.  
 
-**[Peter Steinberger](https://steipete.me/)**  
-I don't remember what I used to know Peter Steinberger for, or if I'm confusing him with someone else, but now he blogs about AI.
+**[Peter Drinks Coffee](https://peterdrinkscoffee.com/)**  
+It's video, but it's basically a blog! Peter drinks coffee!!  
+
+**[Peter Runs](https://peterruns.com/)**  
+It's video, but it's basically a blog! Peter runs!!  
 
 **[Philip Zastrow](https://zastrow.co/)**  
 I love all the different websites from designers. This is super cool too.  
@@ -660,6 +650,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Protesters' Guide to Smartphone Security - Privacy Guides](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 - [The Pudding](https://pudding.cool/)
 - [The Scroll Art Museum](https://scrollart.org/)
+- [The Silo · interactive 3D cutaway](https://3dscenes.qualityf2p.workers.dev/silo)
 - [The Web We Want](https://webwewant.fyi)
 - [The Website Specification](https://specification.website)
 - [The Yesterweb - Reclaiming the Internet](https://yesterweb.org/)
@@ -680,6 +671,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Wreckage/Salvage](https://www.wrecka.ge)
 - [Zine | CMHN](https://www.climatementalhealth.net/gen-z-zine)
 - [Zola](https://www.getzola.org)
+
+## Fitness
+
+- [Peter Runs](https://peterruns.com/)
+- [Yoga With Peter – Yin Yoga, Restorative Yoga, Hatha Yoga Asana, and Mindfulness Meditation in Cambridge, Malden, and Medford, Massachusetts](https://yogawithpeter.com/)
 
 ## Fonts
 
@@ -818,10 +814,8 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [Actions For Obsidian](https://actions.work/actions-for-obsidian/)
 - [Advanced use cases | 1Password Developer](https://developer.1password.com/docs/ssh/agent/advanced/#ssh-server-six-key-limit)
-- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [Announcing Callsheet — Liss is More](https://www.caseyliss.com/2023/8/7/callsheet)
 - [Anybox – Bookmarking App for Mac & iPhone](https://anybox.app/)
-- [Apparency | Mothers Ruin Software](https://www.mothersruin.com/software/Apparency/)
 - [Apple Mac Upgrades - RAM, SSD Flash, External Drives and More](https://eshop.macsales.com/)
 - [Bare Bones Software | BBEdit](https://www.barebones.com/products/bbedit/index.html)
 - [Bear](https://bear.app/)
@@ -829,7 +823,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Carbon Copy Cloner | macOS Backup Software | Bombich Software](https://bombich.com/)
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [Color Schemes | BBEdit Extras](https://www.bbeditextras.org/color-schemes/)
-- [Dato — Sindre Sorhus](https://sindresorhus.com/dato)
 - [Drafts | Where Text Starts](https://getdrafts.com/)
 - [EasyFind | DEVONtechnologies | Needful Things](https://www.devontechnologies.com/apps/freeware)
 - [Eternal Storms Software - ScreenFloat. Power up your Screenshots](https://eternalstorms.at/ScreenFloat/)
@@ -845,17 +838,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Hazel – Noodlesoft – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
 - [HomeCam for HomeKit](https://homecam.app/)
 - [Hookmark – Links beat searching](https://hookproductivity.com/)
-- [Hush | AI-powered tools for dialogue repair](https://hushaudioapp.com/products/hush)
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/)
-- [Ice - Menu Bar Manager](https://icemenubar.app/)
 - [Infinite Mac](https://infinitemac.org/)
 - [Insert the Current Date with a Keyboard Shortcut | AlanHogan.com](https://alanhogan.com/tips/insert-current-date-with-keyboard-shortcut)
 - [Ivory for Mac](https://tapbots.com/ivory/mac/)
-- [The low-tech guys](https://lowtechguys.com/)
 - [A launchd Tutorial](https://www.launchd.info/)
 - [Louie Mantia's Icons](https://lmnt.me/blog/icons/)
 - [Mac Open Web, by Brian Warren](https://macopenweb.com/)
-- [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Marcos Tanaka, Apple Developer](https://marcosatanaka.com/)
 - [mierau/hotline: A modern Hotline client for Mac, iOS, and iPadOS](https://github.com/mierau/hotline)
 - [Mining OS X for Apple’s artwork | Der Flounder](https://derflounder.wordpress.com/2015/07/29/mining-os-x-for-apples-artwork/)
@@ -882,7 +871,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - [Snippety - Productivity App for macOS](https://snippety.app/)
 - [Supercharge — Sindre Sorhus](https://sindresorhus.com/supercharge)
-- [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 - [Superkey](https://superkey.app/)
 - [System Color Picker — Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 - [TextBuddy – retina studio](https://retina.studio/textbuddy/)
@@ -894,7 +882,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 ## Newsletters
 
 - [Ad Astra – Swapna Krishna](https://www.adastraspace.com/)
-- [AI Snake Oil](https://www.aisnakeoil.com/subscribe)
 - [Brilliantcrank](https://www.brilliantcrank.com/)
 - [Citation Needed by Molly White](https://www.citationneeded.news/)
 - [David Pakman](https://davidpakman.com/)
@@ -917,20 +904,16 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [This week in security](https://this.weekinsecurity.com/)
 - [Today in Librarian Tabs by Jessamyn West](https://tinyletter.com/jessamyn)
 
-## Obsidian
-
-- [Smart Plugins for Obsidian | Your vault is the shared workspace between you and AI](https://smartconnections.app/)
-
 ## Photography
 
 - [Affinity Photo Tutorials (V1) - YouTube](https://www.youtube.com/playlist?list=PLjZ7Y0kROWitoJtnw0pdvjPmS8mYGvrBR)
 - [Alex Handover Photography - YouTube](https://www.youtube.com/@AlexHandoverPhotography)
-- [DxO PhotoLab 8: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
+- [DxO PhotoLab 10: RAW photo editing at its finest - DxO](https://www.dxo.com/dxo-photolab/)
 - [DxO ViewPoint 5: Control geometry, shape, and perspective - DxO](https://www.dxo.com/dxo-viewpoint/)
 - [Have Camera Will Travel](https://havecamerawilltravel.com/)
 - [Hyperfocal Distance Explained](https://photographylife.com/hyperfocal-distance-explained)
 - [I ignored every rule of photographic composition that I teach. The world did not end! | Digital Camera World](https://www.digitalcameraworld.com/photography/composition/i-ignored-every-rule-of-photographic-composition-that-i-teach-the-world-did-not-end)
-- [Nik Collection 8: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
+- [Nik Collection 9: The world's favorite photography plugins - Nik Collection by DxO](https://nikcollection.dxo.com/)
 - [The Phoblographers Guide to Buying Fujifilm GF Lenses](https://www.thephoblographer.com/2019/10/09/the-phoblographers-guide-to-buying-fujifilm-gf-lenses/)
 - [Photons to Photos](https://www.photonstophotos.net/)
 - [Photos and Words](https://photos.scottwillsey.com/)
@@ -956,7 +939,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [High Performance](https://www.thehighperformancepodcast.com/)
 - [How to Fix the Internet: Podcast | Electronic Frontier Foundation](https://www.eff.org/how-to-fix-the-internet-podcast)
 - [Judge John Hodgman | Podcasts | Maximum Fun](https://maximumfun.org/podcasts/judge-john-hodgman/)
-- [Keeping your Rust toolchain and binaries up-to-date, the easy way | Eduard's Blog](https://www.edu4rdshl.dev/posts/keeping-your-rust-toolchain-and-binaries-up-to-date-the-easy-way/)
 - [kill switch | iHeart](https://www.iheart.com/podcast/105-kill-switch-30880104/)
 - [Lazy Fluency - Japanese Podcast | 英会話 - YouTube](https://www.youtube.com/@lazyfluencypodcast/videos)
 - [Mac Admins Podcast – A podcast for Mac admins by Mac admins.](https://podcast.macadmins.org/)
@@ -964,7 +946,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [MacStories Unwind and Unwind+ - MacStories](https://www.macstories.net/unwind/)
 - [Malicious Life | Cybersecurity History Podcast](https://malicious.life/)
 - [Misreading Chat – CS の論文読んで話をしよう!](https://misreading.chat/)
-- [Mystery AI Hype Theater 3000 | DAIR](https://www.dair-institute.org/maiht3k/)
 - [On Margins — A podcast about making books — by Craig Mod](https://craigmod.com/onmargins/)
 - [Podcast by Yuka Studio 🎙 ユカスタポッドキャスト - YouTube](https://www.youtube.com/playlist?list=PLQh_X7U4VnXObPsnsA22MJnigvjQcHKEr)
 - [Podcast Search](https://podcastsearch.david-smith.org/)
@@ -985,9 +966,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/)
 - [The Vergecast Podcast | The Verge](https://www.theverge.com/the-vergecast)
 - [The Weekly Planet](https://shows.acast.com/theweeklyplanet)
-- [Trashfuture](https://trashfuture.co.uk/)
 - [Unclear and Present Danger — Jamelle Bouie](https://jamellebouie.net/unclear-and-present-danger)
-- [Whisky Whiskey - YouTube](https://www.youtube.com/playlist?list=PLLNhKy4yME6d6FYOBRUIRwhLxLt-89i2n)
 
 ## Privacy and Security
 
@@ -1010,7 +989,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/)
 - [Ben Evans - UX/UI Designer - Front-end Developer - Illustrator - CSS Artist](https://www.tinydesign.co.uk/ben-evans-portfolio/)
 - [Browser Resource Hints: preload, prefetch, and preconnect | DebugBear](https://www.debugbear.com/blog/resource-hints-rel-preload-prefetch-preconnect)
-- [Build An Audio AI Web App with Python and AssemblyAI Course](https://training.talkpython.fm/courses/build-an-audio-ai-app-with-python-and-assemblyai)
 - [Colorpeek · Simply Share Colors](https://colorpeek.com/)
 - [CSS { In Real Life }](https://css-irl.info/)
 - [CSS { In Real Life } | Progressively Enhanced Popover Toggletips](https://css-irl.info/progressively-enhanced-popover-toggletips/)
@@ -1031,12 +1009,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Home | hidde.blog](https://hidde.blog/)
 - [How to Favicon in 2024 – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-favicon-in-2024/)
 - [How to use cProfile and snakeviz to profile Python code | James' Coffee Blog](https://jamesg.blog/2024/11/02/cprofile/)
-- [Icônes](https://icones.js.org/)  
-- [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
 - [HTML for People](https://htmlforpeople.com/)
-- [Icônes](https://icones.js.org/)
+- [Icônes](https://icones.js.org/)  
 - ["Inheriting" grid dimensions from siblings with subgrid](https://www.lenesaile.com/en/blog/inheriting-grid-dimensions-from-siblings-with-subgrid/)
 - [JSON Crack | More Than a JSON Editor](https://jsoncrack.com/)
+- [Keeping your Rust toolchain and binaries up-to-date, the easy way | Eduard's Blog](https://www.edu4rdshl.dev/posts/keeping-your-rust-toolchain-and-binaries-up-to-date-the-easy-way/)
 - [Kevin Powell | CSS Evangelist](https://www.kevinpowell.co/)
 - [Lens \- Check your meta tags, icons, and rss feeds](https://lens.rknight.me/)
 - [Lesser known parts of Python standard library – Trickster Dev](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
@@ -1059,7 +1036,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 - [Shoelace: A forward-thinking library of web components.](https://shoelace.style/)
 - [SmolCSS](https://smolcss.dev/)
-- [steipete/agent-rules: Rules and Knowledge to work better with agents such as Claude Code or Cursor](https://github.com/steipete/agent-rules)
 - [Syntax - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Testing HTML With Modern CSS: HeydonWorks](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Textpattern CMS | Open source content management system](https://textpattern.com/)
@@ -1068,15 +1044,13 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Ultimate CSS Shapes Collection](https://css-shape.com/)
 - [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
 - [tiny-helpers.dev](https://tiny-helpers.dev/)
+- [twostraws/Ignite: A static site generator for Swift developers.](https://github.com/twostraws/Ignite)
 - [Typography troubles: Balancing lines in Japanese & Korean - ryelle codes](https://ryelle.codes/2025/04/typography-troubles-balancing-in-japanese-korean/)
 - [Use secret references with 1Password CLI | 1Password Developer](https://developer.1password.com/docs/cli/secret-references/#with-op-inject)
 - [Using and Creating Global Variables in Your Python Functions – Real Python](https://realpython.com/python-use-global-variable-in-function/)
 - [What is a feed? (a.k.a. RSS) | About Feeds](https://aboutfeeds.com/)
 - [Why engineers can't be rational about programming languages | spf13](https://spf13.com/p/the-hidden-conversation/)
 - [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)
-- [Windsurf Editor and Codeium extensions](https://codeium.com/)
-- [WWDC24 | Apple Developer Documentation](https://developer.apple.com/documentation/Updates/wwdc2024)
-- [You no longer need JavaScript Ʊ lyra's epic blog](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## RSS & Reading Tools
 
@@ -1084,10 +1058,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)
 - [ReadKit - Have all your reading in one place](https://readkit.app/)
 - [Tapestry • Your favorite blogs, social media, and more in a unified and chronological timeline](https://usetapestry.com/)
-
-## Smarthome
-
-- [Home | ECHONET](https://echonet.jp/english/)
 
 ## Tea
 
@@ -1109,6 +1079,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Alex Handover Photography](https://www.youtube.com/@AlexHandoverPhotography)
 - [Amelia And JP Abroad](https://www.youtube.com/@AmeliaAndJP)
 - [Amelia Dimoldenberg](https://www.youtube.com/@AmeliaDimoldenberg)
+- [Andru Edwards](https://www.youtube.com/@Andru)
 - [Andy Malone MVP](https://www.youtube.com/@AndyMaloneMVP)
 - [Anthony Morganti](https://www.youtube.com/@AnthonyMorganti)
 - [Anthropic](https://www.youtube.com/@anthropic-ai)
@@ -1121,6 +1092,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Carly Meyers](https://www.youtube.com/@carly-meyers)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
 - [Charlie Hills](https://www.youtube.com/@CharlieHillsAI)
+- [Chase AI](https://www.youtube.com/@Chase-H-AI)
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Broad](https://www.youtube.com/@ChrisAbroad)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
@@ -1132,9 +1104,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DaveTrippin](https://www.youtube.com/@DaveTrippin)
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [David Hartley](https://www.youtube.com/@davidhartley94)
-- [David Pakman Show](https://www.youtube.com/@thedavidpakmanshow)
+- [David Pakman](https://www.youtube.com/@thedavidpakmanshow)
 - [Digital Émigré](https://www.youtube.com/@digitalemigre)
 - [DIY Japan](https://www.youtube.com/@DIYJapan)
+- [Doug DeMuro](https://www.youtube.com/@DougDeMuro)
 - [Driver61](https://www.youtube.com/@Driver61)
 - [Duncan Rogoff | Learn Claude Code](https://www.youtube.com/@duncanrogoff)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
@@ -1191,14 +1164,11 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
+- [Lewis Hamilton](https://www.youtube.com/@lewishamilton)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
 - [MacStories](https://www.youtube.com/@MacStories09)
-- [Marcus Hutchins](https://www.youtube.com/@MalwareTechBlog)
-- [Matt Gemmell](https://www.youtube.com/@MattGemmellAuthor)
-- [Matt Pocock](https://www.youtube.com/@mattpocockuk)
-- [Mentour Pilot](https://www.youtube.com/@MentourPilot)
 - [Motorsportwelt](https://www.youtube.com/@Motorsportwelt)
 - [Notpeternikolaidis](https://www.youtube.com/@peternikolaidis3597)
 - [O'Reilly](https://www.youtube.com/@oreilly)
@@ -1219,6 +1189,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Friends with Brews](https://friendswithbrews.com/)
 - [Friends with Brews - YouTube](https://www.youtube.com/@FriendswithBrewsPodcast)
 - [Github](https://github.com/scottaw66)
+- [Mikan Software — Small Mac apps, easy to peel](https://mikansoftware.app/)
 - [Photos and Words](https://photos.scottwillsey.com/)
 - [ScottWillsey](https://scottwillsey.com/)
 - [ScottWillsey Weekly Reads](https://scottwillsey.com/reads/1)
