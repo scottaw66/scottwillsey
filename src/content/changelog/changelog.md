@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2026-10-06
+
+Randomized the 4 reviews that show up on the /reviews page. Fixed a css issue that affected site preview.
+
 ### 2026-09-04
 
 Removed my Bluesky links because I just don't use that site anymore.

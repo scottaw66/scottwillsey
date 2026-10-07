@@ -8,6 +8,10 @@ template = "changelog.html"
 display_modified = "Monday, 04 Mar 2024 20:00:41"
 +++
 
+### 2026-10-06
+
+Randomized the 4 reviews that show up on the /reviews page. Fixed a css issue that affected site preview.
+
 ### 2026-09-04
 
 Removed my Bluesky links because I just don't use that site anymore.
