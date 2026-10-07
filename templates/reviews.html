@@ -1,6 +1,9 @@
 {# /reviews — port of astro/src/pages/reviews/index.astro: category links +
-   one random review image per category (random per build, like the Astro
-   Math.random() version). #}
+   one random review image per category, re-picked on every page load by the
+   inline script below. Each link carries its category's full candidate list
+   (data-reviews); the build-time get_random pick is only the no-JS fallback.
+   The resize_image params match reviews_category.html, so these webps are
+   already generated for the category pages — no extra build work. #}
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block metatitle %}{{ page.title }}{% endblock metatitle %}
@@ -39,11 +42,25 @@
         {% set i = get_random(start=0, end=items | length) %}
         {% set pick = items[i] %}
         {% set r = resize_image(path="src/assets/images/posts/" ~ pick.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}
-        <a href="/reviews/{{ cat[1] }}/1" class="block">
+        <a href="/reviews/{{ cat[1] }}/1" class="block random-review" data-reviews='[{% for item in items %}{% set c = resize_image(path="src/assets/images/posts/" ~ item.review ~ ".png", width=1000, op="fit_width", format="webp", quality=80) %}{"src": {{ ("/" ~ c.static_path | split(pat="static/") | last) | json_encode() }}, "w": {{ c.width }}, "h": {{ c.height }}, "alt": {{ item.alttext | json_encode() }}}{% if not loop.last %},{% endif %}{% endfor %}]'>
           <img src="/{{ r.static_path | split(pat="static/") | last }}" width="{{ r.width }}" height="{{ r.height }}" alt="{{ pick.alttext }}" class="review-image" loading="lazy" decoding="async" style="width: 100%; max-width: 100%; height: auto; margin: 0;" />
         </a>
       {% endfor %}
     </div>
+    <script>
+      // Re-pick one review per category on every load (the page is static,
+      // so the server-rendered pick would otherwise only change per build).
+      // Runs inline right after the grid, before the lazy images load.
+      document.querySelectorAll(".random-review").forEach((a) => {
+        const list = JSON.parse(a.dataset.reviews);
+        const pick = list[Math.floor(Math.random() * list.length)];
+        const img = a.querySelector("img");
+        img.width = pick.w;
+        img.height = pick.h;
+        img.alt = pick.alt;
+        img.src = pick.src;
+      });
+    </script>
   </div>
 </article>
 {% endblock main %}
