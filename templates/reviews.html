@@ -3,7 +3,8 @@
    inline script below. Each link carries its category's full candidate list
    (data-reviews); the build-time get_random pick is only the no-JS fallback.
    The resize_image params match reviews_category.html, so these webps are
-   already generated for the category pages — no extra build work. #}
+   already generated for the category pages — no extra build work. The lists
+   add page weight as reviews grow; see TODO.md. #}
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block metatitle %}{{ page.title }}{% endblock metatitle %}
