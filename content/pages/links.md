@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-10-06T18:34:53-08:00
+date = 2026-10-07T19:15:45-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Tuesday, 06 Oct 2026 18:34:53"
+display_modified = "Wednesday, 07 Oct 2026 19:15:45"
 +++
 
 ## Contents
@@ -1128,8 +1128,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris Broad](https://www.youtube.com/@ChrisAbroad)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
-- [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
+- [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
+- [Dan Grib](https://www.youtube.com/@DanGrib)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
 - [DaveTrippin](https://www.youtube.com/@DaveTrippin)
@@ -1199,7 +1200,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
 - [Low Level](https://www.youtube.com/@LowLevelTV)
-- [MacStories](https://www.youtube.com/@MacStories09)
 - [Motorsportwelt](https://www.youtube.com/@Motorsportwelt)
 - [Notpeternikolaidis](https://www.youtube.com/@peternikolaidis3597)
 - [O'Reilly](https://www.youtube.com/@oreilly)

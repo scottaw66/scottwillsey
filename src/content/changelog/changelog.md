@@ -4,6 +4,10 @@ description: Site changelog.
 date: "2024-03-04T20:00:41-08:00"
 slug: "changelog"
 ---
+### 2026-10-07
+
+Fixed some CSS overflow issues affecting code blocks, quotes, and YouTube video embeds. Fixed the new blog post script which was breaking when things weren't as expected on the post draft in Obsidian and when images were named with hyphens (what a dumb bug!).
+
 ### 2026-10-06
 
 Randomized the 4 reviews that show up on the /reviews page. Fixed a css issue that affected site preview.

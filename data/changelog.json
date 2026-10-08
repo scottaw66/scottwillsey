@@ -1,16 +1,16 @@
 {
   "entries": [
     {
+      "date": "2026-10-07",
+      "html": "Fixed some CSS overflow issues affecting code blocks, quotes, and YouTube video embeds. Fixed the new blog post script which was breaking when things weren't as expected on the post draft in Obsidian and when images were named with hyphens (what a dumb bug!)."
+    },
+    {
       "date": "2026-10-06",
       "html": "Randomized the 4 reviews that show up on the /reviews page. Fixed a css issue that affected site preview."
     },
     {
       "date": "2026-09-04",
       "html": "Removed my Bluesky links because I just don't use that site anymore."
-    },
-    {
-      "date": "2026-08-07",
-      "html": "Migrated the entire site from Astro to <a href=\"https://www.getzola.org/\">Zola</a> — goodbye npm and its ~460 packages, hello two Homebrew binaries and one pip package. Every URL, feed item, tag page, and search result survived byte-for-byte (or close enough to diff clean). Authoring stays exactly the same: YAML frontmatter markdown, all my automation scripts untouched, with a little Python converter bridging to Zola on every build. New `dev.sh`, `preview.sh`, `build.sh`, `deploy.sh` scripts wired into the dashboard, live-reload writing mode included. Full story in ZOLA-MIGRATION.md."
     }
   ]
 }

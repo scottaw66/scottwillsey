@@ -8,6 +8,10 @@ template = "changelog.html"
 display_modified = "Monday, 04 Mar 2024 20:00:41"
 +++
 
+### 2026-10-07
+
+Fixed some CSS overflow issues affecting code blocks, quotes, and YouTube video embeds. Fixed the new blog post script which was breaking when things weren't as expected on the post draft in Obsidian and when images were named with hyphens (what a dumb bug!).
+
 ### 2026-10-06
 
 Randomized the 4 reviews that show up on the /reviews page. Fixed a css issue that affected site preview.
