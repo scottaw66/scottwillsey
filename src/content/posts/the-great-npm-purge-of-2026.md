@@ -1,8 +1,8 @@
 ---
 title: The Great npm Purge of 2026
-description: describe
+description: "No more node_modules: moving my sites from Astro to Zola, and letting Claude do the heavy lifting."
 date: "2026-10-07T00:10:00-08:00"
-keywords: ["keyword"]
+keywords: ["mac", "astro", "zola", "automation", "website"]
 slug: "the-great-npm-purge-of-2026"
 ---
 I don't think it's any secret that npm and the whole node supply chain are a mess. It seems like every week a new p0wnage comes out in the news, and I have to scramble to audit all the packages on all my [Astro](https://astro.build/) sites.

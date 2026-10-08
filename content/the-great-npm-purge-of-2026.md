@@ -1,10 +1,10 @@
 +++
 title = "The Great npm Purge of 2026"
-description = "describe"
+description = "No more node_modules: moving my sites from Astro to Zola, and letting Claude do the heavy lifting."
 date = 2026-10-07T00:10:00-08:00
 slug = "the-great-npm-purge-of-2026"
 [taxonomies]
-tags = ["keyword"]
+tags = ["mac", "astro", "zola", "automation", "website"]
 [extra]
 display_title = "The Great Npm Purge of 2026"
 display_date = "Wednesday, 07 Oct 2026"
