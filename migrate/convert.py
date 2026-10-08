@@ -6,7 +6,8 @@ YAML markdown in src/ (what the dashboard scripts and pre-commit hook
 write), and build.sh/dev.sh run this converter on every build, forever.
 
 Reads:  src/content/** (posts, reads, singles like links/now/uses/changelog,
-        review category pages), src/data/ (review image lists, spotlight)
+        review category pages), src/data/ (review image lists, spotlight,
+        title-case-exceptions.txt)
 Writes: content/*.md (posts — root-level so the root section paginates them
         and URLs stay /{slug}), content/reads/*.md, content/pages/*.md
         (singles), content/listpages/*.md (list-page + review stubs), and
@@ -142,18 +143,46 @@ SMALL_WORDS_RE = re.compile(
     re.I,
 )
 TITLE_TOKEN_RE = re.compile(r"[A-Za-z0-9À-ÿ]+[^\s\-]*")
+TITLE_WORD_RE = re.compile(r"[A-Za-z0-9À-ÿ]+")
+
+TITLE_CASE_EXCEPTIONS_FILE = SRC.parent / "data" / "title-case-exceptions.txt"
+
+
+def load_title_case_exceptions() -> dict[str, str]:
+    """Words title_case keeps exactly as spelled (e.g. npm), from a
+    user-editable file: one word per line, # comments, blank lines ignored.
+    Keyed by lowercase so matching ignores case. A missing file just means
+    no exceptions."""
+    if not TITLE_CASE_EXCEPTIONS_FILE.exists():
+        return {}
+    words = {}
+    for line in TITLE_CASE_EXCEPTIONS_FILE.read_text(encoding="utf-8").splitlines():
+        word = line.split("#", 1)[0].strip()
+        if word:
+            words[word.lower()] = word
+    return words
+
+
+TITLE_CASE_EXCEPTIONS = load_title_case_exceptions()
 
 
 def title_case(title: str) -> str:
     """Port of StringFormat.js titleCase — templates use the precomputed
     result (extra.display_title) because Tera's title filter behaves
-    differently (it would downcase acronyms like GPT)."""
+    differently (it would downcase acronyms like GPT). Words listed in
+    src/data/title-case-exceptions.txt are emitted exactly as spelled there
+    (checked first, so they win over every rule below)."""
 
     def char_at(i: int) -> str:
         return title[i] if 0 <= i < len(title) else ""
 
     def repl(m: re.Match) -> str:
         match, index = m.group(0), m.start()
+        # A token can carry trailing punctuation ("npm:", "npm's"), so compare
+        # only its leading word and keep the rest as-is
+        word = TITLE_WORD_RE.match(match).group(0)
+        if word.lower() in TITLE_CASE_EXCEPTIONS:
+            return TITLE_CASE_EXCEPTIONS[word.lower()] + match[len(word):]
         if (
             index > 0
             and index + len(match) != len(title)

@@ -1,0 +1,14 @@
+# Words that title-casing must leave exactly as spelled here.
+#
+# Post titles are auto title-cased for display ("the great purge" ->
+# "The Great Purge"), which capitalizes any all-lowercase word. List names
+# that should stay lowercase (or keep some other exact spelling) below, one
+# per line. Matching ignores case, so "npm" also fixes a title typed "Npm".
+#
+# Words with a capital inside (iPhone, macOS, GitHub) are already left
+# alone, so they don't need to be listed.
+#
+# Read by migrate/convert.py on every build; with ./dev.sh running, saving
+# this file updates titles immediately.
+
+npm
