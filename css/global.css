@@ -254,8 +254,14 @@
   }
 
   /* Articles */
+  /* overflow-wrap: break-word lets a single word too long for the line
+     (long inline-code paths/URLs, remarkPluginFrontMatter.lastModified)
+     break instead of widening the page on phones; normal words never break.
+     Inline <code> inherits it (measured 2026-10-07 at 375px: up to 835px
+     page width on raycast-sc-text-parsing before this). */
   article {
     @apply m-0 p-6 rounded-2xl bg-post-bg max-w-full;
+    overflow-wrap: break-word;
   }
 
   @media screen and (max-width: 800px) {
@@ -275,6 +281,19 @@
   article img {
     @apply flex justify-center my-8 mx-auto max-w-[95%] max-h-[65vh] w-auto h-auto object-contain border border-accent-pink rounded;
     content-visibility: auto;
+  }
+
+  /* Embeds carry fixed width attributes (the youtube component's 560, a
+     hand-written 710 in allgpts) that are wider than a phone. Cap them at
+     the column width; YouTube keeps 16:9 by deriving height from width
+     instead of the fixed height attribute. */
+  article iframe {
+    max-width: 100%;
+  }
+
+  article iframe[src*="youtube.com/embed"] {
+    height: auto;
+    aspect-ratio: 16 / 9;
   }
 
   /* Blockquotes */
@@ -320,8 +339,18 @@
   }
 
   /* Tables */
+  /* A table wider than the column scrolls sideways inside itself instead of
+     widening the page (the Xcode post's 3-column command table was 588px at
+     375px, 2026-10-07). display:block makes overflow-x work; width:
+     fit-content keeps a table's natural width (border hugs the content as
+     before) and still wraps cell text when space is tight — it only scrolls
+     when even the wrapped table can't fit. Not max-content: that would stop
+     prose cells wrapping and make them scroll on desktop too. */
   table {
     @apply my-10 max-w-full border-collapse border border-dates/50;
+    display: block;
+    width: fit-content;
+    overflow-x: auto;
   }
 
   th,
@@ -691,12 +720,15 @@ pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar-thumb {
 }
 
 /* Pagination component styling */
+/* max-w-full + flex-wrap: on phones the row (« Prev 1 … 14 15 16 … 18 Next »)
+   was ~470-580px wide and widened every paginated list page; it now wraps
+   onto a second line instead (measured 2026-10-07: 28 pages at 375px). */
 nav[aria-label="Pagination"] {
-  @apply mx-auto w-fit bg-[var(--surface-menu)] py-2 px-6 rounded-lg;
+  @apply mx-auto w-fit max-w-full bg-[var(--surface-menu)] py-2 px-6 rounded-lg max-[450px]:px-3;
 }
 
 nav[aria-label="Pagination"] ul {
-  @apply flex flex-row items-center gap-2 m-0 p-0 list-none;
+  @apply flex flex-row flex-wrap justify-center items-center gap-2 m-0 p-0 list-none;
 }
 
 nav[aria-label="Pagination"] li {
