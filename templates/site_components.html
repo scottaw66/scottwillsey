@@ -63,20 +63,18 @@
 {% set sec = get_section(path="_index.md") %}
 <span data-pagefind-ignore="all">
   <section
-    class="{% if show_background %}bg-surface-menu py-2 px-6{% else %}px-2{% endif %} rounded-2xl text-[0.8em]"
+    class="latest-posts {% if show_background %}latest-posts-panel{% endif %}"
     aria-label="Blog post list"
   >
-    <h1 class="text-[1.5rem]">
-      <a href="/1" class="text-hyperlink"><div class="text-hyperlink">Latest Posts</div></a>
-    </h1>
+    <h2 class="panel-heading"><a href="/1" class="text-hyperlink">Latest Posts</a></h2>
     {% for p in sec.pages[:post_count] %}
       <header class="mb-5">
-        <h2 class="font-body text-[1.1rem] my-2">
+        <h3 class="font-body text-[1.1rem] my-2">
           <a href="{{ p.permalink }}" class="text-hyperlink">
             {% if p.extra?.link %}<span data-pagefind-ignore>{{<post_link_icon size="1em" />}}</span>{% endif %}
             {{ p.extra.display_title }}
           </a>
-        </h2>
+        </h3>
         <div class="text-[0.8rem] text-dates font-bold">
           {{<calendar_icon size="1.1em" fill="var(--dates)" margin="0.25" />}}
           <time datetime="{{ p.date }}">

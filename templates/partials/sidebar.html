@@ -1,8 +1,6 @@
 {% set is_home = current_path is defined and current_path == "/" %}
-<div class="text-base lg:mt-6">
-  <h1 class="text-[2rem] mt-0 mb-3">
-    <a href="/about" class="text-hyperlink"><div class="text-hyperlink">About</div></a>
-  </h1>
+<div class="sidebar-about">
+  <h2 class="sidebar-heading"><a href="/about" class="text-hyperlink">About</a></h2>
   <p>
     I write about <a href="/1" class="text-hyperlink-blurb">computing related topics</a>. You can <a href="/search" class="text-hyperlink-blurb">search</a> or <a href="/1" class="text-hyperlink-blurb">browse</a> this site. Most of what I write about here is
     {{<apple_icon />}}<a href="/tags/mac/" class="text-hyperlink-blurb">Mac</a> or web
@@ -11,14 +9,12 @@
     is what I'm up to <a href="/now" class="text-hyperlink-blurb">now</a>, and <a href="/uses" class="text-hyperlink-blurb">here</a> is what I <a href="/uses" class="text-hyperlink-blurb">use</a>.
   </p>
 </div>
-<div class="mt-4 mb-4 mx-auto">
+<div class="sidebar-search">
   {% include "partials/search.html" %}
 </div>
 {% if not is_home %}{{<latest_posts />}}{% endif %}
 <span data-pagefind-ignore="all">
-  <h1 class="text-[1.5rem] my-3">
-    <a href="/1" class="text-hyperlink"><div class="text-hyperlink ml-2">Useful Stuff</div></a>
-  </h1>
+  <h2 class="sidebar-heading"><a href="/1" class="text-hyperlink">Useful Stuff</a></h2>
   <section id="useful" class="text-[0.8em]">
     <ul>
       <li><a href="/search">Search</a></li>
@@ -32,9 +28,7 @@
     </ul>
   </section>
   {% if not is_home %}
-    <h1 class="text-[1.5rem]">
-      <div class="text-hyperlink ml-2">Recent Updates</div>
-    </h1>
+    <h2 class="sidebar-heading text-hyperlink">Recent Updates</h2>
     {% include "partials/recent_updates.html" %}
   {% endif %}
 </span>
