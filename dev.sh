@@ -9,7 +9,7 @@
 #     anything in src/ (the authoring tree) changes — zola serve only watches
 #     the generated content/, so this is what makes "save → browser reloads"
 #     work for content edits
-#   - tailwindcss --watch, rebuilding static/css/global.css on template/CSS edits
+#   - tailwindcss --watch=always, rebuilding static/css/global.css on template/CSS edits
 #   - zola serve (foreground)
 
 set -e
@@ -46,7 +46,11 @@ trap 'cleanup; exit 130' INT
 trap 'cleanup; exit 143' TERM
 trap cleanup EXIT
 
-tailwindcss -i css/global.css -o static/css/global.css --watch >/dev/null 2>&1 &
+# --watch=always, not --watch: a script's background jobs get stdin from
+# /dev/null, and Tailwind v4's plain --watch exits as soon as stdin closes —
+# so the watcher died instantly and CSS edits never recompiled (verified
+# 2026-10-07 with v4.3.3). The cleanup trap above still stops it on exit.
+tailwindcss -i css/global.css -o static/css/global.css --watch=always >/dev/null 2>&1 &
 
 # Poll src/ once a second; on any change, re-run the converter (it takes well
 # under a second). The stamp file lives outside the repo.

@@ -290,8 +290,15 @@
     vertical-align: -0.45em;
   }
 
-  blockquote p {
+  /* The first paragraph is inline so its text sits beside the big open-quote
+     glyph. Later paragraphs must stay block-level — inlining every <p> ran
+     multi-paragraph quotes together into one (the /now status, 2026-10-07). */
+  blockquote p:first-of-type {
     @apply inline;
+  }
+
+  blockquote p + p {
+    @apply mt-3;
   }
 
   /* Code blocks — Zola emits <pre class="giallo" style="...">, not Astro's
