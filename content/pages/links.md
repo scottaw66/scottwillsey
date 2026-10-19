@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-10-07T19:15:45-08:00
+date = 2026-10-18T20:25:26-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Wednesday, 07 Oct 2026 19:15:45"
+display_modified = "Sunday, 18 Oct 2026 20:25:26"
 +++
 
 ## Contents
@@ -646,6 +646,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Owls in Towels](https://owlsintowels.org/)
 - [Paint Toys](https://paint.toys/)
 - [PDX Food Weeks](https://pdx-food-weeks.vercel.app/)
+- [PedalScape](https://pedalscape.com)
 - [People and Blogs](https://peopleandblogs.com/)
 - [Peter Drinks Coffee](https://peterdrinkscoffee.com)
 - [Peter Runs](https://peterruns.com)
@@ -1119,6 +1120,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [asuka🇯🇵](https://www.youtube.com/@asuka_japan_diary)
 - [Atlassian Williams F1 Team](https://www.youtube.com/@WilliamsF1TV)
 - [Automate AI Consulting](https://www.youtube.com/@AutomateAIConsulting)
+- [Benn Jordan](https://www.youtube.com/@BennJordan)
 - [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve)
 - [Carly Meyers](https://www.youtube.com/@carly-meyers)
 - [Chani Japan](https://www.youtube.com/@ChaniJapan)
@@ -1127,6 +1129,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Chris and Yeji](https://www.youtube.com/@chrisandyeji)
 - [Chris Broad](https://www.youtube.com/@ChrisAbroad)
 - [Chris Hagan](https://www.youtube.com/@ChrisHagan)
+- [Christophe](https://www.youtube.com/@christophe)
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
 - [Core Memory ](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
@@ -1149,6 +1152,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Eric Tech](https://www.youtube.com/@EricWTech)
 - [Erin Talks Money | Erin Moriarity](https://www.youtube.com/@ErinTalksMoney)
 - [Excalidraw](https://www.youtube.com/@excalidraw)
+- [fern](https://www.youtube.com/@fern-tv)
 - [Finding Gina Marie – Travel the World](https://www.youtube.com/@FindingGinaMarie)
 - [FNNプライムオンライン](https://www.youtube.com/@FNNnewsCH)
 - [FORGOTTEN HISTORY](https://www.youtube.com/@FORGOTTENHISTORYCHANNEL)
@@ -1158,6 +1162,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)
 - [Genspark AI](https://www.youtube.com/@GensparkAIOfficial)
 - [George Holden](https://www.youtube.com/@GeorgeHolden)
+- [GLiNet](https://www.youtube.com/@GLTechnologies)
 - [Good Life Road](https://www.youtube.com/@GoodLifeRoad)
 - [Good Old Houses Japan](https://www.youtube.com/@GoodOldHousesJapan)
 - [Gotta Start Somewhere](https://www.youtube.com/@Gotta.Start.Somewhere.)
@@ -1194,12 +1199,10 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [KOTSUMET](https://www.youtube.com/@KOTARO_OTTER)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
+- [Larry Chen](https://www.youtube.com/@LarryChenPhoto)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
-- [Lewis Hamilton](https://www.youtube.com/@lewishamilton)
-- [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
-- [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
-- [Low Level](https://www.youtube.com/@LowLevelTV)
+- [Lee](https://www.youtube.com/@LeeAndrewVideos)
 - [Motorsportwelt](https://www.youtube.com/@Motorsportwelt)
 - [Notpeternikolaidis](https://www.youtube.com/@peternikolaidis3597)
 - [O'Reilly](https://www.youtube.com/@oreilly)

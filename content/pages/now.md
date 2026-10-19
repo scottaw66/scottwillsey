@@ -1,22 +1,22 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-10-07T19:15:45-08:00
+date = 2026-10-18T20:25:26-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Wednesday, 07 Oct 2026 19:15:45"
+display_modified = "Sunday, 18 Oct 2026 20:25:26"
 +++
 
 ## Current Personal Status
-> 
-> I've been using the Claude Mac app lately for all things including Claude Code usage, and I'm starting to understand a lot of its design decisions and features. I'm not saying they're **100% perfect**, but I understand them.  
-> 
-> Also, Donnie Adams was on [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast) with me, talking about Obot.AI. [Check it out!](https://www.youtube.com/watch?v=N6iHhMfncu8)!
+>
+> Unlike last time, I'm all in on the Claude Mac app now. I almost never run Claude Code sessions in the terminal. I'll have to make a video explaining exactly why this is.
+>
 
 ## Current Projects
 
-- Setting up [Mikan Software](https://mikansoftware.app) and getting ready to ship some apps!
+- Setting up [Mikan Software](https://mikansoftware.app) - in progress
+- Working on work, including some cool automation and AI workflows, and a vulnerability management service
 
 ## Stuff I've recently enjoyed
 
@@ -26,16 +26,16 @@ display_modified = "Wednesday, 07 Oct 2026 19:15:45"
 
 <div class="podcast-episodes">
 
-[{{<img src="oc_artwork/5798100386509032-f702edfd-5527-4606-bb50-5a63eb71d602.png" alt="King of the Roll-Ups: The Man Who Created a Trash Empire, Then Built Blockbuster Video" />}}](https://overcast.fm/+BSZV3Ho8Og) [Business History – King of the Roll-Ups: The Man Who Created a Trash Empire, Then Built Blockbuster Video](https://overcast.fm/+BSZV3Ho8Og)
-[{{<img src="oc_artwork/613330192774814-5511d2ac-bce7-46dd-a43b-57424384b580.png" alt="Soap Box: HD Moore talks OT security, frontier fearmongering and more" />}}](https://overcast.fm/+It0hBFNp4) [Risky Business – Soap Box: HD Moore talks OT security, frontier fearmongering and more](https://overcast.fm/+It0hBFNp4)
-[{{<img src="oc_artwork/5142865437635784-90726526-5a91-4b95-b76b-329bfa4a4a55.png" alt="NC #1117 Tiny Mac Tips on ScreenCastsONLINE, European Travelogue, Excuses, Siri AI Successes, Voice Control with Adam Engst" />}}](https://overcast.fm/+BJFaKuJtMg) [NosillaCast Apple Podcast – NC #1117 Tiny Mac Tips on ScreenCastsONLINE, European Travelogue, Excuses, Siri AI Successes, Voice Control with Adam Engst](https://overcast.fm/+BJFaKuJtMg)
-[{{<img src="oc_artwork/5798100105130950-922cb15f-e77c-4a93-8cb9-80eedca0eee1.png" alt="Blockers | A Preview of Michael Lewis’s New Audiobook" />}}](https://overcast.fm/+BSZV2Ejc8Y) [Business History – Blockers | A Preview of Michael Lewis’s New Audiobook](https://overcast.fm/+BSZV2Ejc8Y)
-[{{<img src="oc_artwork/1698966479241910-efa1a392-4719-4b09-9eed-de268b8db477.png" alt="Jamaican Patties, Joey Pants, and Jazz" />}}](https://overcast.fm/+YJM3V7ArY) [Judge John Hodgman – Jamaican Patties, Joey Pants, and Jazz](https://overcast.fm/+YJM3V7ArY)
-{{<img src="oc_artwork/5523677857178741-a9b51aaa-c980-465a-af25-7976df169b59.png" alt="Where’s the Antonelli hype? + The Herta-F1 situation (ad free)" />}} The Race F1 Podcast (Members) – Where’s the Antonelli hype? + The Herta-F1 situation (ad free)
-{{<img src="oc_artwork/5121671725563852-fdb62071-5750-47fc-a39d-9231c4437974.png" alt="Leak Show Cops Can Break into Locked iPhones" />}} The 404 Media Podcast (Premium Feed) – Leak Show Cops Can Break into Locked iPhones
-{{<img src="oc_artwork/5523677482977605-8c4ac4f0-db40-44e0-8a9c-f1a709904aa3.png" alt="Edd tackles your questions about his Sepang F1 driver rankings!" />}} The Race F1 Podcast (Members) – Edd tackles your questions about his Sepang F1 driver rankings!
-{{<img src="oc_artwork/5523677511042350-01fd7ac6-d769-46e0-9b61-e00296443e58.png" alt="Mailbag: Is the Red Bull recovery real? (ad free)" />}} The Race F1 Podcast (Members) – Mailbag: Is the Red Bull recovery real? (ad free)
-[{{<img src="oc_artwork/1682926406252408-e5388156-d7ae-4fdb-bdb6-0edc684f2eff.png" alt="Is Your Pipeline Feeding Your Ego or Your Paycheck" />}}](https://overcast.fm/+X6nNagt3g) [Sales Logic - Selling Strategies That Work – Is Your Pipeline Feeding Your Ego or Your Paycheck](https://overcast.fm/+X6nNagt3g)
+[{{<img src="oc_artwork/4031462036090701-aca52e7f-9910-4fbd-8e6c-81c5c253edfb.png" alt="Risky Bulletin: Linux patches PwnEscape KVM vulnerability" />}}](https://overcast.fm/+5Sl-aWL00) [Risky Bulletin – Risky Bulletin: Linux patches PwnEscape KVM vulnerability](https://overcast.fm/+5Sl-aWL00)
+{{<img src="oc_artwork/5523677297643577-7027f0b8-a811-4203-832a-e931945ba298.png" alt="Christian Horner on Ferrari rumours, nearly signing Alonso & whether Newey’s Aston Martin will succeed (ad free)" />}} The Race F1 Podcast (Members) – Christian Horner on Ferrari rumours, nearly signing Alonso & whether Newey’s Aston Martin will succeed (ad free)
+[{{<img src="oc_artwork/6344920482283175-940ee3b0-8d0a-4eaa-8c03-452ebfa35877.png" alt="Unclear and Present Politics Episode 30 — Double-Standards Edition" />}}](https://overcast.fm/+BaKq-t5fqc) [Unclear and Present Patreon – Unclear and Present Politics Episode 30 — Double-Standards Edition](https://overcast.fm/+BaKq-t5fqc)
+[{{<img src="oc_artwork/5451521560572293-9565e605-030d-44c1-aba7-288336b664ed.png" alt="2026年10月12日: Claude Haiku 5.5登場、OpenAI Codex改善、Claude for Startup登場" />}}](https://overcast.fm/+BNeIUYacYU) [ながらAIラジオ – 2026年10月12日: Claude Haiku 5.5登場、OpenAI Codex改善、Claude for Startup登場](https://overcast.fm/+BNeIUYacYU)
+[{{<img src="oc_artwork/5476005290577954-23fe0ca0-248c-4bc0-b0bb-8768953daa5f.png" alt="Simplifying MDR for SMBs with ThreatDown" />}}](https://overcast.fm/+BN0ZdYiECI) [Security You Should Know – Simplifying MDR for SMBs with ThreatDown](https://overcast.fm/+BN0ZdYiECI)
+[{{<img src="oc_artwork/2821379715288560-d2ec0eb9-aa2c-4791-92e9-f1fd11e9ad10.png" alt="Did Ukraine Just Bomb the Russian Bots?" />}}](https://overcast.fm/+oGB6e0zfA) [Patrick Boyle On Finance – Did Ukraine Just Bomb the Russian Bots?](https://overcast.fm/+oGB6e0zfA)
+{{<img src="oc_artwork/5523677153480939-77084b96-7120-4b8f-bb7b-a26263fd04a2.png" alt="An exciting announcement about the future of The Race Members’ Club!" />}} The Race F1 Podcast (Members) – An exciting announcement about the future of The Race Members’ Club!
+[{{<img src="oc_artwork/2821379295474623-5ad1e5a6-b7f2-49af-8039-93014eda53a6.png" alt="The French Bond Market Is on Fire" />}}](https://overcast.fm/+oGB46u878) [Patrick Boyle On Finance – The French Bond Market Is on Fire](https://overcast.fm/+oGB46u878)
+[{{<img src="oc_artwork/4031461842385678-1a8c6875-ed0b-4a13-9931-8476668ec475.png" alt="Sponsored: AI is attacking… it needs to defend, too" />}}](https://overcast.fm/+5Sl9sKew4) [Risky Bulletin – Sponsored: AI is attacking… it needs to defend, too](https://overcast.fm/+5Sl9sKew4)
+[{{<img src="oc_artwork/5142865131174302-131e1b8c-be88-41ae-965e-8cbaf14621aa.png" alt="NC #1118 Tailscale Exit Nodes and Remote Support, Klack for macOS, Security Bits" />}}](https://overcast.fm/+BJFaJlFeZ4) [NosillaCast Apple Podcast – NC #1118 Tailscale Exit Nodes and Remote Support, Klack for macOS, Security Bits](https://overcast.fm/+BJFaJlFeZ4)
 
 </div>
 
@@ -54,98 +54,106 @@ display_modified = "Wednesday, 07 Oct 2026 19:15:45"
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_egaFuA5jwZ8.png" alt="../../assets/images/yt_thumbs/20261007185038_egaFuA5jwZ8.png" />}}](https://www.youtube.com/watch?v=egaFuA5jwZ8&t=18s)<div><p class="yt-video-channel">Channel – [Dan Grib](https://www.youtube.com/@DanGrib)</p><p class="yt-video-title">
-[Anthropic Just Proved AI Has "Feelings", and They Control It.](https://www.youtube.com/watch?v=egaFuA5jwZ8&t=18s)
+[{{<img src="yt_thumbs/20261018201622_KLMLkvK1MaI.png" alt="../../assets/images/yt_thumbs/20261018201622_KLMLkvK1MaI.png" />}}](https://www.youtube.com/watch?v=KLMLkvK1MaI&t=102s)<div><p class="yt-video-channel">Channel – [Avp Studios](https://www.youtube.com/@AvpStudios)</p><p class="yt-video-title">
+[Fujifilm X-T50 Video Features - not just a compact stills camera.](https://www.youtube.com/watch?v=KLMLkvK1MaI&t=102s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_6xQ8LQfkBg4.png" alt="../../assets/images/yt_thumbs/20261007185038_6xQ8LQfkBg4.png" />}}](https://www.youtube.com/watch?v=6xQ8LQfkBg4)<div><p class="yt-video-channel">Channel – [Dan Grib](https://www.youtube.com/@DanGrib)</p><p class="yt-video-title">
-[MIT Just Found a Hard Limit in LLM Scaling, and Money Won't Fix It](https://www.youtube.com/watch?v=6xQ8LQfkBg4)
+[{{<img src="yt_thumbs/20261018201622_fOSe0p3L_rc.png" alt="../../assets/images/yt_thumbs/20261018201622_fOSe0p3L_rc.png" />}}](https://www.youtube.com/watch?v=fOSe0p3L_rc)<div><p class="yt-video-channel">Channel – [Think Media](https://www.youtube.com/@ThinkMediaTV)</p><p class="yt-video-title">
+[How to Choose the Right Camera for YouTube (2026 Buyers Guide)](https://www.youtube.com/watch?v=fOSe0p3L_rc)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_xw2sp5tuv2U.png" alt="../../assets/images/yt_thumbs/20261007185038_xw2sp5tuv2U.png" />}}](https://www.youtube.com/watch?v=xw2sp5tuv2U&t=306s)<div><p class="yt-video-channel">Channel – [Skybound Aviation](https://www.youtube.com/@SkyboundAviation03)</p><p class="yt-video-title">
-[Windy Evening Traffic at PDX Portland | 4K Plane Spotting](https://www.youtube.com/watch?v=xw2sp5tuv2U&t=306s)
+[{{<img src="yt_thumbs/20261018201622_LP7bfT4vOlo.png" alt="../../assets/images/yt_thumbs/20261018201622_LP7bfT4vOlo.png" />}}](https://www.youtube.com/watch?v=LP7bfT4vOlo)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[How to Build a Personal Knowledge Base with Claude In 2027](https://www.youtube.com/watch?v=LP7bfT4vOlo)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_1T-2m7GY6Dg.png" alt="../../assets/images/yt_thumbs/20261007185038_1T-2m7GY6Dg.png" />}}](https://www.youtube.com/watch?v=1T-2m7GY6Dg&t=22s)<div><p class="yt-video-channel">Channel – [Brian Tyler Cohen](https://www.youtube.com/@briantylercohen)</p><p class="yt-video-title">
-[BREAKING: SHOCK development UPENDS midterm elections](https://www.youtube.com/watch?v=1T-2m7GY6Dg&t=22s)
+[{{<img src="yt_thumbs/20261018201622_rcVJaQnovvI.png" alt="../../assets/images/yt_thumbs/20261018201622_rcVJaQnovvI.png" />}}](https://www.youtube.com/watch?v=rcVJaQnovvI)<div><p class="yt-video-channel">Channel – [That Chapter](https://www.youtube.com/@ThatChapter)</p><p class="yt-video-title">
+[The Strange Case of Chris Smith](https://www.youtube.com/watch?v=rcVJaQnovvI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_F8r1lhObYNM.png" alt="../../assets/images/yt_thumbs/20261007185038_F8r1lhObYNM.png" />}}](https://www.youtube.com/watch?v=F8r1lhObYNM)<div><p class="yt-video-channel">Channel – [Misha Charoudin](https://www.youtube.com/@mgcharoudin)</p><p class="yt-video-title">
-[IS THAT A 1000HP TOYOTA SUPRA?! // Nürburgring](https://www.youtube.com/watch?v=F8r1lhObYNM)
+[{{<img src="yt_thumbs/20261018201622_ZeAu82tzjEM.png" alt="../../assets/images/yt_thumbs/20261018201622_ZeAu82tzjEM.png" />}}](https://www.youtube.com/watch?v=ZeAu82tzjEM)<div><p class="yt-video-channel">Channel – [TShorts](https://www.youtube.com/@TShortsDrifter)</p><p class="yt-video-title">
+[Taylor Hull crashing into drifters and the mass calls to ban him](https://www.youtube.com/watch?v=ZeAu82tzjEM)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_mSPpzYwYWog.png" alt="../../assets/images/yt_thumbs/20261007185038_mSPpzYwYWog.png" />}}](https://www.youtube.com/watch?v=mSPpzYwYWog)<div><p class="yt-video-channel">Channel – [That Chapter](https://www.youtube.com/@ThatChapter)</p><p class="yt-video-title">
-[The Disturbing Caleb Flynn Affair](https://www.youtube.com/watch?v=mSPpzYwYWog)
+[{{<img src="yt_thumbs/20261018201622_zCvPPaIN5Ew.png" alt="../../assets/images/yt_thumbs/20261018201622_zCvPPaIN5Ew.png" />}}](https://www.youtube.com/watch?v=zCvPPaIN5Ew&t=116s)<div><p class="yt-video-channel">Channel – [Christophe](https://www.youtube.com/@christophe)</p><p class="yt-video-title">
+[How to rage bait Americans](https://www.youtube.com/watch?v=zCvPPaIN5Ew&t=116s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_Nr987taLANY.png" alt="../../assets/images/yt_thumbs/20261007185038_Nr987taLANY.png" />}}](https://www.youtube.com/watch?v=Nr987taLANY)<div><p class="yt-video-channel">Channel – [Takes™ by Jamelle Bouie](https://www.youtube.com/@jamelle-bouie)</p><p class="yt-video-title">
-[I cannot emphasize enough that the president has pudding for brains](https://www.youtube.com/watch?v=Nr987taLANY)
+[{{<img src="yt_thumbs/20261018201622_I-g03V8s3q0.png" alt="../../assets/images/yt_thumbs/20261018201622_I-g03V8s3q0.png" />}}](https://www.youtube.com/watch?v=I-g03V8s3q0&t=1083s)<div><p class="yt-video-channel">Channel – [TMZ](https://www.youtube.com/@TMZ)</p><p class="yt-video-title">
+[The Final Days Of RJ Mitte's Life: Breaking Bad Star Luis Moncada Speaks Out | TMZ In The Know](https://www.youtube.com/watch?v=I-g03V8s3q0&t=1083s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_8Ek9PxisCFM.png" alt="../../assets/images/yt_thumbs/20261007185038_8Ek9PxisCFM.png" />}}](https://www.youtube.com/watch?v=8Ek9PxisCFM&t=186s)<div><p class="yt-video-channel">Channel – [CNN](https://www.youtube.com/@CNN)</p><p class="yt-video-title">
-[Russia plague lab death ‘doesn’t add up’: What doctors know so far](https://www.youtube.com/watch?v=8Ek9PxisCFM&t=186s)
+[{{<img src="yt_thumbs/20261018201622_m_GLOYR0_ZA.png" alt="../../assets/images/yt_thumbs/20261018201622_m_GLOYR0_ZA.png" />}}](https://www.youtube.com/watch?v=m_GLOYR0_ZA)<div><p class="yt-video-channel">Channel – [Misha Charoudin](https://www.youtube.com/@mgcharoudin)</p><p class="yt-video-title">
+[CRAZY GTI vs Lotus Roadblock! - Nürburgring](https://www.youtube.com/watch?v=m_GLOYR0_ZA)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_TpMOMKfkPgs.png" alt="../../assets/images/yt_thumbs/20261007185038_TpMOMKfkPgs.png" />}}](https://www.youtube.com/watch?v=TpMOMKfkPgs)<div><p class="yt-video-channel">Channel – [Lewis Hamilton](https://www.youtube.com/@lewishamilton)</p><p class="yt-video-title">
-[Restoring My F40](https://www.youtube.com/watch?v=TpMOMKfkPgs)
+[{{<img src="yt_thumbs/20261018201622_l36eemW7LOI.png" alt="../../assets/images/yt_thumbs/20261018201622_l36eemW7LOI.png" />}}](https://www.youtube.com/watch?v=l36eemW7LOI)<div><p class="yt-video-channel">Channel – [Erin Talks Money | Erin Moriarity](https://www.youtube.com/@ErinTalksMoney)</p><p class="yt-video-title">
+[What Happens To Social Security When You Retire at 55](https://www.youtube.com/watch?v=l36eemW7LOI)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_EfLZgKcdZwU.png" alt="../../assets/images/yt_thumbs/20261007185038_EfLZgKcdZwU.png" />}}](https://www.youtube.com/watch?v=EfLZgKcdZwU&t=279s)<div><p class="yt-video-channel">Channel – [Joey Josselson](https://www.youtube.com/@Callmethelamp)</p><p class="yt-video-title">
-[Venomous Gaboon Viper on the Loose in California!](https://www.youtube.com/watch?v=EfLZgKcdZwU&t=279s)
+[{{<img src="yt_thumbs/20261018201622_lgO-lYHe2Oc.png" alt="../../assets/images/yt_thumbs/20261018201622_lgO-lYHe2Oc.png" />}}](https://www.youtube.com/watch?v=lgO-lYHe2Oc)<div><p class="yt-video-channel">Channel – [GTWorld](https://www.youtube.com/@GTWorld)</p><p class="yt-video-title">
+[Max Verstappen's Highlights at Portimão! | 2026 GT World Challenge Europe pwd by AWS](https://www.youtube.com/watch?v=lgO-lYHe2Oc)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_xCr6AvlOYQI.png" alt="../../assets/images/yt_thumbs/20261007185038_xCr6AvlOYQI.png" />}}](https://www.youtube.com/watch?v=xCr6AvlOYQI&t=10s)<div><p class="yt-video-channel">Channel – [Zack Korman](https://www.youtube.com/@ZackKorman)</p><p class="yt-video-title">
-[AI doomers are furious](https://www.youtube.com/watch?v=xCr6AvlOYQI&t=10s)
+[{{<img src="yt_thumbs/20261018201622_nVPjNVp850M.png" alt="../../assets/images/yt_thumbs/20261018201622_nVPjNVp850M.png" />}}](https://www.youtube.com/watch?v=nVPjNVp850M&t=564s)<div><p class="yt-video-channel">Channel – One More Question</p><p class="yt-video-title">
+[Ethan Hawke: “The Greedy Bastards That Control Everyone, They Always Lose”](https://www.youtube.com/watch?v=nVPjNVp850M&t=564s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261007185038_tlACffxhuO4.png" alt="../../assets/images/yt_thumbs/20261007185038_tlACffxhuO4.png" />}}](https://www.youtube.com/watch?v=tlACffxhuO4)<div><p class="yt-video-channel">Channel – [Boxoffice Movie Scenes](https://www.youtube.com/@BoxofficeMoviesScenes)</p><p class="yt-video-title">
-[Jason Bourne ends an angry Russian in ONE punch | Jason Bourne 🔥 4K](https://www.youtube.com/watch?v=tlACffxhuO4)
+[{{<img src="yt_thumbs/20261018201622_aAs7XN_9q58.png" alt="../../assets/images/yt_thumbs/20261018201622_aAs7XN_9q58.png" />}}](https://www.youtube.com/watch?v=aAs7XN_9q58)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[AI is literally a scam](https://www.youtube.com/watch?v=aAs7XN_9q58)
 </p></div>
 
 </div>
+
+</div>
+
+### Food
+
+<div class="food">
+
+[{{<img src="food_thumbs/nakwon-0551713F-B78F-4631-A792-07E126EC707E.png" alt="Nak Won Korean Restaurant" />}}](https://nak-won-korean-restaurant.res-menu.com) [Nak Won Korean Restaurant](https://nak-won-korean-restaurant.res-menu.com)
 
 </div>
