@@ -13,7 +13,7 @@ Split license — see [LICENSE](LICENSE) for the exact boundaries:
 
 ## How it works
 
-- **Authoring** stays in `src/` — YAML-frontmatter markdown in `src/content/`, JSON data in `src/data/`, images in `src/assets/images/`. All the site automation scripts (`~/Documents/Brain/Areas/Sites/Repos/website-scripts/scottwillsey/`, run from the dashboard) write here, unchanged from the Astro era.
+- **Authoring** stays in `src/` — YAML-frontmatter markdown in `src/content/`, JSON data in `src/data/`, images in `src/assets/images/`. All the site automation scripts (`~/Brain/Areas/Sites/Repos/website-scripts/scottwillsey/`, run from the dashboard) write here, unchanged from the Astro era.
 - **`migrate/convert.py`** (zero-dependency Python) turns that into Zola content: TOML frontmatter, tags, precomputed display dates/titles, automatic Contents TOCs, social embeds and images as Tera components, `{% raw %}` protection.
 - **[Zola](https://www.getzola.org/)** builds the site: Tera v2 templates in `templates/`, taxonomies, pagination, sitemap, section RSS feeds.
 - **`migrate/postbuild.py`** post-processes the feeds (absolute URLs, script/style stripping) like ultrahtml used to.
