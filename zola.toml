@@ -4,7 +4,7 @@ base_url = "https://scottwillsey.com"
 title = "ScottWillsey"
 description = "macOS nerd, old school computer guy"
 
-# The deploy script (~/Scripts/Sites/scottwillsey/update-site/update-site.sh)
+# The deploy script (~/Documents/Brain/Areas/Sites/Repos/website-scripts/scottwillsey/update-site/update-site.sh)
 # rsyncs $BASE_DIR/dist/ — matching Astro's old output dir means it needs no changes.
 output_dir = "dist"
 
