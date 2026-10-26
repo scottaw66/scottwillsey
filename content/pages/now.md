@@ -1,16 +1,16 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-10-25T23:39:11-08:00
+date = 2026-10-25T23:43:46-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Sunday, 25 Oct 2026 23:39:11"
+display_modified = "Sunday, 25 Oct 2026 23:43:46"
 +++
 
 ## Current Personal Status
 >
-> Unlike last time, I'm all in on the Claude Mac app now. I almost never run Claude Code sessions in the terminal. I'll have to make a video explaining exactly why this is.
+> AI Brains are a thing. People love them. The problem is, most people's Brain configuration work for THEM, not for you. This week I started creating my own, based on several different ideas from other people. I'm sure I'll have to make tons of tweaks along the way.
 >
 
 ## Current Projects
@@ -147,13 +147,5 @@ display_modified = "Sunday, 25 Oct 2026 23:39:11"
 </p></div>
 
 </div>
-
-</div>
-
-### Food
-
-<div class="food">
-
-[{{<img src="food_thumbs/nakwon-0551713F-B78F-4631-A792-07E126EC707E.png" alt="Nak Won Korean Restaurant" />}}](https://nak-won-korean-restaurant.res-menu.com) [Nak Won Korean Restaurant](https://nak-won-korean-restaurant.res-menu.com)
 
 </div>
