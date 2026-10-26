@@ -1,5 +1,5 @@
 #!/bin/bash
-# Production preview: full build (convert → tailwind → zola → postbuild →
+# Production preview: full build (prebuild → tailwind → zola → postbuild →
 # pagefind), then serve the real dist/ — search works, feeds post-processed;
 # exactly what production will get. Serves on the first free port at/above
 # 1818 — the port is checked at startup so previews of several sites can run

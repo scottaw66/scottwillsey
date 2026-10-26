@@ -1,4 +1,16 @@
 #!/bin/bash
+# Pre-commit hook for the single content tree (content/ + data/ are the
+# source; there is no src/ YAML tree since 2026-10-25). Three jobs:
+#   1. Bump the `date` of a watched page when it is committed: the four
+#      singles content/pages/{links,now,uses,reviews}.md, data/spotlight.json
+#      (bumps links.md), and data/reviews/<cat>.json (bumps that category's
+#      "date" in data/reviews_meta.json — the review categories have no page
+#      file of their own).
+#   2. Rewrite the Recent Updates partial with the pages bumped in this commit.
+#   3. Run tools/prebuild.py and stage its output, so derived fields
+#      (display_modified, reviews_meta display dates, list stubs…) land in
+#      the SAME commit as the edit that changed them.
+# Installed by hooks/install.sh (copies this file to .git/hooks/pre-commit).
 
 # Array to track updated pages
 declare -a updated_pages=()
@@ -6,68 +18,87 @@ declare -a updated_pages=()
 # Store the matched files in a temporary file to avoid subshell issues
 tmpfile=$(mktemp)
 git diff --cached --name-status |
-grep -iE '^M.*src/(content/links/links\.md|data/reviews/books\.json|data/reviews/movies\.json|data/reviews/music\.json|content/now/now\.md|content/reviews/reviews\.md|data/reviews/tvshows\.json|content/uses/uses\.md|data/spotlight\.json)$' > "$tmpfile"
+grep -iE '^M.*(content/pages/(links|now|uses|reviews)\.md|data/reviews/(books|movies|music|tvshows)\.json|data/spotlight\.json)$' > "$tmpfile"
 
-# Update timestamps for links, now, pins, and uses pages.
+# Same hard-coded -08:00 as the Astro-era hook (never tracked DST).
+now=$(TZ='America/Los_Angeles' date "+%Y-%m-%dT%H:%M:%S-08:00")
+
+# Update timestamps for links, now, reviews, and uses pages.
 while read _ file; do
-    original_file="$file"
+    target="$file"      # the file whose date gets bumped
+    meta_key=""         # set when the target is data/reviews_meta.json
     page_title=""
     page_url=""
 
-    if [[ "$file" == "src/data/spotlight.json" ]]; then
-        # Special case for spotlight.json
-        file="src/content/links/links.md"
+    if [[ "$file" == "data/spotlight.json" ]]; then
+        # Special case for spotlight.json: it is part of the Links page
+        target="content/pages/links.md"
         page_title="Cool Site Spotlight"
         page_url="/links#CoolSiteSpotlight"
-    elif [[ "$file" =~ src/data/reviews/([^/]+)\.json ]]; then
-        # For review JSON files, extract the base name and create the new path
+    elif [[ "$file" =~ data/reviews/([^/]+)\.json ]]; then
+        # Review JSON: bump that category's date in reviews_meta.json
         base_name="${BASH_REMATCH[1]}"
-        file="src/content/${base_name}/${base_name}.md"
+        target="data/reviews_meta.json"
 
-        # Set proper titles and URLs for review pages
+        # reviews_meta.json keys / URL segments per category
         case "$base_name" in
             "books")
+                meta_key="books"
                 page_title="Book Reviews"
                 page_url="/reviews/books/1"
                 ;;
             "movies")
+                meta_key="movies"
                 page_title="Movie Reviews"
                 page_url="/reviews/movies/1"
                 ;;
             "music")
+                meta_key="music"
                 page_title="Music Reviews"
                 page_url="/reviews/music/1"
                 ;;
             "tvshows")
+                meta_key="tv"
                 page_title="TV Reviews"
                 page_url="/reviews/tv/1"
                 ;;
-            *)
-                # Fallback for any other review types
-                page_title="$(echo ${base_name^}) Reviews"
-                page_url="/reviews/${base_name}/1"
-                ;;
         esac
-    elif [[ "$file" == "src/content/now/now.md" ]]; then
+    elif [[ "$file" == "content/pages/now.md" ]]; then
         page_title="/now"
         page_url="/now"
-    elif [[ "$file" == "src/content/uses/uses.md" ]]; then
+    elif [[ "$file" == "content/pages/uses.md" ]]; then
         page_title="/uses"
         page_url="/uses"
-    elif [[ "$file" == "src/content/reviews/reviews.md" ]]; then
+    elif [[ "$file" == "content/pages/reviews.md" ]]; then
         page_title="Reviews"
         page_url="/reviews"
-    elif [[ "$file" == "src/content/links/links.md" ]]; then
+    elif [[ "$file" == "content/pages/links.md" ]]; then
         page_title="Links"
         page_url="/links"
     fi
 
-    filecontent=$(cat "$file")
-    frontmatter=$(echo "$filecontent" | awk -v RS='---' 'NR==2{print}')
-    cat $file | sed "/---.*/,/---.*/s/^date:.*$/date: \"$(TZ='America/Los_Angeles' date "+%Y-%m-%dT%H:%M:%S-08:00")\"/" > tmp
-
-    mv tmp $file
-    git add $file
+    if [[ -n "$meta_key" ]]; then
+        # JSON: set the category's "date"; prebuild (below) recomputes its
+        # display_modified from it.
+        python3 - "$target" "$meta_key" "$now" <<'EOF'
+import json, sys
+path, key, now = sys.argv[1:]
+meta = json.load(open(path))
+meta[key]["date"] = now
+with open(path, "w") as f:
+    json.dump(meta, f, indent=2, ensure_ascii=False)
+    f.write("\n")
+EOF
+    else
+        # TOML frontmatter: replace the `date = …` line inside the leading
+        # +++ block (bare TOML datetime, no quotes). The 1,/^+++$/ range runs
+        # from line 1 to the NEXT +++ line, so a `date = ` in the body is
+        # never touched.
+        bumped=$(mktemp)
+        sed "1,/^+++\$/s/^date = .*\$/date = $now/" "$target" > "$bumped"
+        mv "$bumped" "$target"
+    fi
+    git add "$target"
 
     # Add to updated pages array
     if [[ -n "$page_title" && -n "$page_url" ]]; then
@@ -77,7 +108,7 @@ done < "$tmpfile"
 
 rm -f "$tmpfile"
 
-# Update RecentUpdates.astro with updated pages (only if there are new updates)
+# Update the Recent Updates partial with updated pages (only if there are new updates)
 if [[ ${#updated_pages[@]} -gt 0 ]]; then
     updates_file="templates/partials/recent_updates.html"
     if [[ -f "$updates_file" ]]; then
@@ -112,20 +143,21 @@ if [[ ${#updated_pages[@]} -gt 0 ]]; then
     fi
 fi
 
-# Regenerate the Zola content from the just-bumped sources and stage it, so
-# generated files land in the SAME commit. Without this, every commit that
-# touches watched src files left content/ + data/ stale — the next build
-# regenerated them with the bumped dates and dirtied the repo, forcing a
-# second commit (observed 2026-08-08). Runs unconditionally: it's <1s,
-# idempotent, and also covers ordinary post/read commits.
-# Note: the converter reads the WORKING TREE src/, so partially-staged src
-# changes would leak their derived output into this commit — commit src
-# content changes together rather than split.
-if git diff --cached --name-only | grep -q '^src/'; then
-    if python3 migrate/convert.py >/dev/null 2>&1; then
+# Refresh the generated artifacts from the just-bumped files and stage them,
+# so derived output lands in the SAME commit. Without this, a commit that
+# bumped a date left display_modified / reviews_meta / list stubs stale — the
+# next build regenerated them and dirtied the repo, forcing a second commit
+# (observed 2026-08-08 with the old converter). Runs whenever anything under
+# content/ or data/ is staged: it's <1s and idempotent.
+# Note: prebuild reads the WORKING TREE, so partially-staged content/data
+# changes would leak their derived output (and `git add content data` stages
+# the rest of those dirs) into this commit — commit content changes together
+# rather than split.
+if git diff --cached --name-only | grep -qE '^(content|data)/'; then
+    if python3 tools/prebuild.py >/dev/null 2>&1; then
         git add content data
     else
-        echo "pre-commit: migrate/convert.py failed — fix conversion errors and retry"
+        echo "pre-commit: tools/prebuild.py failed — run it to see the errors, fix, and retry"
         exit 1
     fi
 fi

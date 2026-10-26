@@ -1,7 +1,7 @@
 This repository contains two kinds of material under two different licenses:
 
 1. CODE — the site's build tooling and presentation layer: everything in
-   `templates/`, `migrate/`, `hooks/`, `css/`, the shell scripts
+   `templates/`, `tools/`, `hooks/`, `css/`, the shell scripts
    (`build.sh`, `dev.sh`, `preview.sh`, `deploy.sh`), `zola.toml`, the
    repo documentation (README.md, ZOLA-MIGRATION.md, SSG-ALTERNATIVES.md),
    and the CSS/fonts/JS under `static/` that are not post imagery.
@@ -9,8 +9,8 @@ This repository contains two kinds of material under two different licenses:
 
 2. CONTENT — the writing and personal material: all blog posts, pages,
    reviews, and other prose, and all photography and artwork (including
-   everything under `content/`, `src/content/`, `src/data/`, `data/`,
-   `src/assets/images/`, and the images under `static/`). Copyright
+   everything under `content/`, `data/`, `src/assets/images/`, and the
+   images under `static/`). Copyright
    © 2022–2026 Scott Willsey. All rights reserved. The content is
    published here for transparency and for building the website; it is
    NOT covered by the MIT License and may not be republished,

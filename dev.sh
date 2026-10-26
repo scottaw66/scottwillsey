@@ -5,10 +5,10 @@
 #   ./dev.sh --drafts   → same, including draft posts
 #
 # What it runs (all cleaned up on Ctrl-C):
-#   - migrate/convert.py once up front, then again automatically whenever
-#     anything in src/ (the authoring tree) changes — zola serve only watches
-#     the generated content/, so this is what makes "save → browser reloads"
-#     work for content edits
+#   - tools/prebuild.py once up front, then again automatically whenever
+#     anything in content/, data/ or src/assets changes — it refreshes the
+#     generated stubs, display dates/titles and data/*.json so a saved edit
+#     shows up complete (zola serve itself only sees the raw file change)
 #   - tailwindcss --watch=always, rebuilding static/css/global.css on template/CSS edits
 #   - zola serve (foreground)
 
@@ -33,7 +33,7 @@ kill_mine "zola serve"
 kill_mine "tailwindcss -i css/global.css.*--watch"
 kill_mine "bash.*(dev|preview)\.sh"
 
-python3 migrate/convert.py
+python3 tools/prebuild.py
 tailwindcss -i css/global.css -o static/css/global.css
 
 # Everything (zola, tailwind, watcher) runs as a job; on ANY exit path —
@@ -52,21 +52,33 @@ trap cleanup EXIT
 # 2026-10-07 with v4.3.3). The cleanup trap above still stops it on exit.
 tailwindcss -i css/global.css -o static/css/global.css --watch=always >/dev/null 2>&1 &
 
-# Poll src/ once a second; on any change, re-run the converter (it takes well
-# under a second). The stamp file lives outside the repo.
+# Poll content/, data/ and src/assets once a second; on any change, re-run
+# prebuild (it takes well under a second). The stamp file lives outside the
+# repo.
+#
+# prebuild writes into the very dirs this loop watches, so its own writes
+# re-trigger it once — harmless, because write_if_changed means that second
+# pass writes nothing, and the loop then goes idle (reasoned through
+# 2026-10-25, not yet observed live: edit → pass 1 writes stubs → pass 2
+# no-op → idle). The nudge below is what would
+# make it spin (touching content/_index.md re-triggers the loop, which
+# nudges again…), so it is tied to image changes only, never to the
+# content/data changes prebuild itself produces.
 stamp=$(mktemp)
 (
   while sleep 1; do
-    if [ -n "$(find src -type f -newer "$stamp" -print -quit 2>/dev/null)" ]; then
+    if [ -n "$(find content data src/assets -type f -newer "$stamp" -print -quit 2>/dev/null)" ]; then
+      images_changed=$(find src/assets -type f -newer "$stamp" -print -quit 2>/dev/null)
       touch "$stamp"
-      python3 migrate/convert.py || echo "⚠ convert.py failed — fix the error above and save again"
-      # If the conversion changed no content files, zola gets no file event —
-      # but the src/ change may still matter to it: images referenced by
-      # resize_image / get_image_metadata live in src/, which zola doesn't
-      # watch. Scripts also write content BEFORE their images finish landing
-      # (observed 2026-08-07: yt-history wrote now.md 3s before its thumbs),
-      # so a failed build would otherwise never retry. Nudge a rebuild.
-      if [ -z "$(find content -name '*.md' -newer "$stamp" -print -quit 2>/dev/null)" ]; then
+      python3 tools/prebuild.py || echo "⚠ prebuild.py failed — fix the error above and save again"
+      # Images referenced by resize_image / get_image_metadata live in
+      # src/assets/images, which zola doesn't watch, so an image change gives
+      # zola no file event. Scripts also write content BEFORE their images
+      # finish landing (observed 2026-08-07: yt-history wrote now.md 3s
+      # before its thumbs), so a failed build would otherwise never retry.
+      # Nudge a rebuild. content/ and data/ edits need no nudge: zola watches
+      # both (data via --extra-watch-path below).
+      if [ -n "$images_changed" ]; then
         touch content/_index.md
       fi
     fi

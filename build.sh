@@ -1,8 +1,9 @@
 #!/bin/bash
 # Build scottwillsey.com (no deploy — use deploy.sh for that).
 #
-# Pipeline: convert (YAML authoring in src/ → Zola content/) → Tailwind CSS →
-# zola build → feed postprocessing → Pagefind index. See ZOLA-MIGRATION.md.
+# Pipeline: prebuild (refresh generated stubs/data/display fields from the
+# single authoring tree content/ + data/) → Tailwind CSS → zola build → feed
+# postprocessing → Pagefind index. See ZOLA-MIGRATION.md.
 #
 # One-time setup on a fresh clone:
 #   brew install zola tailwindcss
@@ -27,10 +28,10 @@ done
 rm -rf .dist-trash-* 2>/dev/null || true
 if [ -d dist ]; then mv dist ".dist-trash-$$"; fi
 
-python3 migrate/convert.py
+python3 tools/prebuild.py
 tailwindcss -i css/global.css -o static/css/global.css --minify
 zola build --force
-python3 migrate/postbuild.py
+python3 tools/postbuild.py
 .venv/bin/python -m pagefind --site dist
 
 echo "Build complete: dist/"

@@ -3,6 +3,53 @@
 *Plan date: 2026-08-07. Builds on the evaluation in [SSG-ALTERNATIVES.md](SSG-ALTERNATIVES.md)
 (feature inventory + Zola mapping table live there; this doc is the execution plan).*
 
+## 2026-10-25: single content tree
+
+**`content/` + `data/` are now the only authoring tree.** The YAML
+`src/content/` and `src/data/` trees and `migrate/convert.py` are gone;
+`src/assets/images/` remains purely as the image store `resize_image` reads.
+Ground rule 3 and the repo layout below are history from here down.
+
+Why the dual tree existed: at the 2026-08-07 cutover, rewriting every
+dashboard script and the pre-commit hook to emit Zola's TOML dialect was more
+work than the migration budget allowed, so the shortcut was to keep the YAML
+tree they already wrote and convert it on every build. The trap that
+shortcut set: `content/` looked like source (ordinary markdown, next to
+`templates/`), and on 2026-10-25 a review pasted into the generated
+`content/pages/now.md` broke the build and would have been wiped by the next
+run. "Generated — don't edit" banners were added that morning; the same day
+the decision became to delete the copy instead. The dashboard scripts are
+being rewritten to write `content/` (TOML frontmatter, component calls)
+directly.
+
+What replaced the converter — `tools/prebuild.py`, which only maintains
+derived artifacts in place (details in its docstring and README):
+
+- `[extra]` display fields (`display_title`, `display_date`, `rfc2822_date`,
+  `display_modified`) edited line-by-line into each page's frontmatter;
+  the rest of the file is preserved byte for byte.
+- The list under `## Contents` — regenerated in place. A Tera component
+  was tried first and ruled out by test (2026-10-25, Zola 0.23.6): content
+  is Tera-rendered before the markdown pass that builds `page.toc`, so
+  `{{ page.toc | length }}` inside a body renders 0, and a component
+  cannot see `page` at all. `templates/components.html` records this.
+- `content/listpages/` stubs, `data/changelog.json`, `display_modified` in
+  `data/reviews_meta.json` (whose title/description/date are now source;
+  the hook bumps the date there when a category's JSON is committed), and
+  the alttext sort of `data/reviews/*.json`.
+- A hard error on Astro-era `![alt](../../assets/images/…)` syntax outside
+  code: that was converter *input*, so finding it means old-style markdown
+  was pasted in. Image optimisation itself is unchanged — the `img`
+  component re-encodes each image to webp at its own size via
+  `resize_image` (op="fit", quality=80, matching sharp's output), while
+  cover images are downscaled to 950px by `post_article`.
+
+Verified 2026-10-25: `zola build` of the new tree is byte-identical to a
+build taken before the change, except `/reviews/index.html`, whose four
+no-JS fallback images are a `get_random` pick that differs between any two
+builds of the same tree. `tools/prebuild.py` changed nothing in any
+existing page, and a second run writes nothing.
+
 ## Ground rules
 
 1. **Every public URL survives unchanged.** Post slugs, `/reads/…`, `/tags/…`,

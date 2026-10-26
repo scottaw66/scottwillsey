@@ -3,8 +3,9 @@
 
 {# Post.astro + PostTitle.astro: used by the single-post page AND list pages
    (the blog lists render full post content, not excerpts). display_title and
-   display_date are precomputed by migrate/convert.py (titleCase / postdate
-   ports — Tera v2's title filter and date parsing don't match the JS originals). #}
+   display_date are written into each post's [extra] by tools/prebuild.py
+   (titleCase / postdate ports — Tera v2's title filter and date parsing
+   don't match the JS originals). #}
 {% component post_article(p) %}
 <article>
   <header>
@@ -95,8 +96,9 @@
 {% endcomponent latest_posts %}
 
 {# Spotlight.astro (Cool Site Spotlight on /links): data/spotlight.json is
-   copied out of astro/src/data/ by the converter; image gets 1x/2x/3x srcset
-   like Astro's <Image densities={[2,3]}>. #}
+   the source file the Cool Site Spotlight script writes (no generated copy
+   since 2026-10-25); image gets 1x/2x/3x srcset like Astro's
+   <Image densities={[2,3]}>. #}
 {% component spotlight() %}
 {% set sp = load_data(path="data/spotlight.json") %}
 {% set img_path = "src/assets/images/posts/" ~ sp.Image ~ ".png" %}

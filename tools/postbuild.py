@@ -10,7 +10,7 @@ in the old Astro rss.xml.js:
 Operates on the XML-escaped text inside <content:encoded> directly (patterns
 are matched in their escaped form), so nothing is unescaped/re-escaped.
 
-Run after `zola build`:  python3 migrate/postbuild.py
+Run after `zola build`:  python3 tools/postbuild.py (build.sh does this)
 """
 
 import re

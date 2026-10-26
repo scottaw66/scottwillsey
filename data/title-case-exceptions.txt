@@ -8,7 +8,9 @@
 # Words with a capital inside (iPhone, macOS, GitHub) are already left
 # alone, so they don't need to be listed.
 #
-# Read by migrate/convert.py on every build; with ./dev.sh running, saving
-# this file updates titles immediately.
+# Read by tools/prebuild.py (which writes each post's display_title into its
+# [extra] table) on every build; with ./dev.sh running, saving this file
+# updates titles immediately. Moved here from src/data/ 2026-10-25 when the
+# src/ authoring tree was retired.
 
 npm

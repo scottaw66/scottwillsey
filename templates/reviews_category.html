@@ -1,8 +1,9 @@
 {# /reviews/{books,movies,tv,music}/{n} — port of the four
-   astro/src/pages/reviews/*/[page].astro files, driven by converter stubs in
-   content/listpages/ (extra: page_num, category, data_file). Page metadata
-   (title/description/dates per category) comes from data/reviews_meta.json;
-   image lists are pre-sorted by alttext by the converter. #}
+   astro/src/pages/reviews/*/[page].astro files, driven by the stubs
+   tools/prebuild.py generates in content/listpages/ (extra: page_num,
+   category, data_file). Page metadata (title/description/dates per category)
+   comes from data/reviews_meta.json; the image lists in data/reviews/*.json
+   are kept sorted by alttext by tools/prebuild.py. #}
 {% extends "base.html" %}
 {% block title %}{% set m = load_data(path="data/reviews_meta.json") %}{{ m[page.extra.category].title }}{% endblock title %}
 {% block metatitle %}{% set m = load_data(path="data/reviews_meta.json") %}{{ m[page.extra.category].title }}{% endblock metatitle %}
