@@ -15,3 +15,16 @@ from alt text.
 If the review count grows a lot (hundreds more), move the lists into a
 separate JSON file the page fetches. It caches across visits, at the cost of
 one extra request on a first visit.
+
+## Rename `src/assets/images/` — "src" no longer means source
+
+Since the single content tree (2026-10-25) `src/` holds only the images Zola
+processes (`resize_image` reads them and writes WebP to
+`static/processed_images/`); `static/images/` is the unprocessed copy
+(full-size `.jpg` link targets). The name `src/` is now misleading.
+Renaming to e.g. `assets/images/` is mechanical but touches: the `img`
+component in `templates/components.html`, `zola_content.ASSETS_IMAGES_DIR`
+and the per-script paths in website-scripts (new-blog-post,
+process_blog_image, review-images, overcast, youtube, food-link), `dev.sh`'s
+watch list, and the Retrobatch workflows' output folders. Do it in one pass
+with a real run of each script afterwards.

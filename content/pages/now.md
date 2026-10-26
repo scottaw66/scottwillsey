@@ -1,11 +1,11 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-10-25T23:17:09-08:00
+date = 2026-10-25T23:39:11-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Sunday, 25 Oct 2026 23:17:09"
+display_modified = "Sunday, 25 Oct 2026 23:39:11"
 +++
 
 ## Current Personal Status
@@ -26,16 +26,16 @@ display_modified = "Sunday, 25 Oct 2026 23:17:09"
 
 <div class="podcast-episodes">
 
-[{{<img src="oc_artwork/2821380014900942-a4eb7964-d9cb-45ba-9996-6e461f0ca696.png" alt="Who Really Pays for AI Data Centers?" />}}](https://overcast.fm/+oGB7mQhs4) [Patrick Boyle On Finance – Who Really Pays for AI Data Centers?](https://overcast.fm/+oGB7mQhs4)
-{{<img src="oc_artwork/5523677470870032-c274f8f0-33e0-46cf-a1ad-3aea1a94f851.png" alt="In-Car-Insights: US Grand Prix qualifying review" />}} The Race F1 Podcast (Members) – In-Car-Insights: US Grand Prix qualifying review
-{{<img src="oc_artwork/5121671618619235-f4445b35-b0b6-4964-8b04-a8c0527500fe.png" alt="Is AI a Bubble? (With Mike Isaac)" />}} The 404 Media Podcast (Premium Feed) – Is AI a Bubble? (With Mike Isaac)
-{{<img src="oc_artwork/5523677654701865-0cc9ad7c-e158-441f-b3ff-7367383a4396.png" alt="In-Car Insights: Newey’s attempts at diplomacy and Austin Friday form" />}} The Race F1 Podcast (Members) – In-Car Insights: Newey’s attempts at diplomacy and Austin Friday form
-[{{<img src="oc_artwork/5585876585235029-3d8267ed-8430-4890-be69-eb0cc238e3ca.png" alt="714: Get the Bigger Pizza" />}}](https://atp.fm/714) [Accidental Tech Podcast – 714: Get the Bigger Pizza](https://atp.fm/714)
-[{{<img src="oc_artwork/4031461905555785-24ac357a-a2a1-44ac-a155-dcfcf076d2ba.png" alt="Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies" />}}](https://overcast.fm/+5Sl97OYUk) [Risky Bulletin – Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies](https://overcast.fm/+5Sl97OYUk)
-[{{<img src="oc_artwork/6020849911099935-418953a4-b61a-4c96-997a-ee11427730b4.png" alt="What I learned from cheating clankers" />}}](https://overcast.fm/+BVj7lwych8) [Risky Business Features – What I learned from cheating clankers](https://overcast.fm/+BVj7lwych8)
-[{{<img src="oc_artwork/5585878908703400-930831e7-cfee-4e18-a76d-0a0de2e23c9c.png" alt="714: Get the Bigger Pizza" />}}](https://atp.fm/714) [Accidental Tech Podcast: Unedited Live Stream – 714: Get the Bigger Pizza](https://atp.fm/714)
-{{<img src="oc_artwork/5523677652369645-1acb4b4a-3b8e-49e6-98de-4fad6b79d4e1.png" alt="F1 driver rankings are changing - Edd and Scott explain how, why and what it means for you" />}} The Race F1 Podcast (Members) – F1 driver rankings are changing - Edd and Scott explain how, why and what it means for you
-{{<img src="oc_artwork/5523677970090661-e55abbff-2f8d-45bb-807d-3981ef698c7a.png" alt="In-Car Insights: Join Edd, Scott and Josh for a sketchy Austin drive" />}} The Race F1 Podcast (Members) – In-Car Insights: Join Edd, Scott and Josh for a sketchy Austin drive
+[{{<img src="oc_artwork/2821380014900942-8e390dcc-6d2c-43bd-9c9b-25667a72666a.png" alt="Who Really Pays for AI Data Centers?" />}}](https://overcast.fm/+oGB7mQhs4) [Patrick Boyle On Finance – Who Really Pays for AI Data Centers?](https://overcast.fm/+oGB7mQhs4)
+{{<img src="oc_artwork/5523677470870032-4b42de01-0cac-48f4-b448-6168691f8ac8.png" alt="In-Car-Insights: US Grand Prix qualifying review" />}} The Race F1 Podcast (Members) – In-Car-Insights: US Grand Prix qualifying review
+{{<img src="oc_artwork/5121671618619235-a4b05a1d-18cd-46ca-8c94-a05c028a4073.png" alt="Is AI a Bubble? (With Mike Isaac)" />}} The 404 Media Podcast (Premium Feed) – Is AI a Bubble? (With Mike Isaac)
+{{<img src="oc_artwork/5523677654701865-0824bf2f-2777-4e68-9eaa-a50d717b5eca.png" alt="In-Car Insights: Newey’s attempts at diplomacy and Austin Friday form" />}} The Race F1 Podcast (Members) – In-Car Insights: Newey’s attempts at diplomacy and Austin Friday form
+[{{<img src="oc_artwork/5585876585235029-98ca4594-64e1-4321-a190-f4697bff6a78.png" alt="714: Get the Bigger Pizza" />}}](https://atp.fm/714) [Accidental Tech Podcast – 714: Get the Bigger Pizza](https://atp.fm/714)
+[{{<img src="oc_artwork/4031461905555785-2fb3e870-1180-430d-a2c1-fc965c691a93.png" alt="Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies" />}}](https://overcast.fm/+5Sl97OYUk) [Risky Bulletin – Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies](https://overcast.fm/+5Sl97OYUk)
+[{{<img src="oc_artwork/6020849911099935-daca7040-4958-4f95-ac36-d4d124ee5e4e.png" alt="What I learned from cheating clankers" />}}](https://overcast.fm/+BVj7lwych8) [Risky Business Features – What I learned from cheating clankers](https://overcast.fm/+BVj7lwych8)
+[{{<img src="oc_artwork/5585878908703400-c51ad94c-8e7f-4c19-9e9a-6f0c84d99208.png" alt="714: Get the Bigger Pizza" />}}](https://atp.fm/714) [Accidental Tech Podcast: Unedited Live Stream – 714: Get the Bigger Pizza](https://atp.fm/714)
+{{<img src="oc_artwork/5523677652369645-8118cabb-f2dd-4308-b310-ed2c75b6efb7.png" alt="F1 driver rankings are changing - Edd and Scott explain how, why and what it means for you" />}} The Race F1 Podcast (Members) – F1 driver rankings are changing - Edd and Scott explain how, why and what it means for you
+{{<img src="oc_artwork/5523677970090661-82a6871b-637d-486c-b050-32aecec55f32.png" alt="In-Car Insights: Join Edd, Scott and Josh for a sketchy Austin drive" />}} The Race F1 Podcast (Members) – In-Car Insights: Join Edd, Scott and Josh for a sketchy Austin drive
 
 </div>
 
