@@ -7,7 +7,7 @@
 #
 # One-time setup on a fresh clone:
 #   brew install zola tailwindcss
-#   uv venv .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
+#   uv venv --python /opt/homebrew/bin/python3 .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
 
 set -e
 cd "$(dirname "$0")"
@@ -28,10 +28,10 @@ done
 rm -rf .dist-trash-* 2>/dev/null || true
 if [ -d dist ]; then mv dist ".dist-trash-$$"; fi
 
-python3 tools/prebuild.py
+/opt/homebrew/bin/python3 tools/prebuild.py
 tailwindcss -i css/global.css -o static/css/global.css --minify
 zola build --force
-python3 tools/postbuild.py
+/opt/homebrew/bin/python3 tools/postbuild.py
 .venv/bin/python -m pagefind --site dist
 
 echo "Build complete: dist/"

@@ -33,7 +33,7 @@ kill_mine "zola serve"
 kill_mine "tailwindcss -i css/global.css.*--watch"
 kill_mine "bash.*(dev|preview)\.sh"
 
-python3 tools/prebuild.py
+/opt/homebrew/bin/python3 tools/prebuild.py
 tailwindcss -i css/global.css -o static/css/global.css
 
 # Everything (zola, tailwind, watcher) runs as a job; on ANY exit path —
@@ -70,7 +70,7 @@ stamp=$(mktemp)
     if [ -n "$(find content data src/assets -type f -newer "$stamp" -print -quit 2>/dev/null)" ]; then
       images_changed=$(find src/assets -type f -newer "$stamp" -print -quit 2>/dev/null)
       touch "$stamp"
-      python3 tools/prebuild.py || echo "⚠ prebuild.py failed — fix the error above and save again"
+      /opt/homebrew/bin/python3 tools/prebuild.py || echo "⚠ prebuild.py failed — fix the error above and save again"
       # Images referenced by resize_image / get_image_metadata live in
       # src/assets/images, which zola doesn't watch, so an image change gives
       # zola no file event. Scripts also write content BEFORE their images

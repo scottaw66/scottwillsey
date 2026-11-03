@@ -40,5 +40,5 @@ trap cleanup EXIT
 
 echo "Serving dist/ at http://127.0.0.1:$PORT"
 ( sleep 1 && open "http://127.0.0.1:$PORT" ) &
-python3 -m http.server "$PORT" --bind 127.0.0.1 --directory dist &
+/opt/homebrew/bin/python3 -m http.server "$PORT" --bind 127.0.0.1 --directory dist &
 wait $!

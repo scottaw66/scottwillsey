@@ -60,7 +60,7 @@ Ctrl-C stops it. No live reload — re-run it after changes (or use `./dev.sh` w
 
 ```bash
 brew install zola tailwindcss
-uv venv .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
+uv venv --python /opt/homebrew/bin/python3 .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
 ./hooks/install.sh   # pre-commit hook: date bumps, Recent Updates, prebuild in the same commit
 ```
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 """Post-build feed transforms — the Zola-era equivalent of the ultrahtml step
 in the old Astro rss.xml.js:
 
@@ -10,7 +10,7 @@ in the old Astro rss.xml.js:
 Operates on the XML-escaped text inside <content:encoded> directly (patterns
 are matched in their escaped form), so nothing is unescaped/re-escaped.
 
-Run after `zola build`:  python3 tools/postbuild.py (build.sh does this)
+Run after `zola build`:  /opt/homebrew/bin/python3 tools/postbuild.py (build.sh does this)
 """
 
 import re

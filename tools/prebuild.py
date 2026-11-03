@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 """Build step 1: refresh the generated artifacts the Zola templates need.
 
 content/ (TOML frontmatter markdown) and data/ (JSON) are the ONE authoring

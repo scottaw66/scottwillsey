@@ -80,7 +80,7 @@ while read _ file; do
     if [[ -n "$meta_key" ]]; then
         # JSON: set the category's "date"; prebuild (below) recomputes its
         # display_modified from it.
-        python3 - "$target" "$meta_key" "$now" <<'EOF'
+        /opt/homebrew/bin/python3 - "$target" "$meta_key" "$now" <<'EOF'
 import json, sys
 path, key, now = sys.argv[1:]
 meta = json.load(open(path))
@@ -154,7 +154,7 @@ fi
 # the rest of those dirs) into this commit — commit content changes together
 # rather than split.
 if git diff --cached --name-only | grep -qE '^(content|data)/'; then
-    if python3 tools/prebuild.py >/dev/null 2>&1; then
+    if /opt/homebrew/bin/python3 tools/prebuild.py >/dev/null 2>&1; then
         git add content data
     else
         echo "pre-commit: tools/prebuild.py failed — run it to see the errors, fix, and retry"
