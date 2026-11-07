@@ -2,7 +2,7 @@
 title = "MikanMessage — A Display Message action for Apple Shortcuts"
 description = "Introducing MikanMessage — A Display Message action for Apple Shortcuts"
 date = 2026-11-07T00:10:00-08:00
-slug = "mikanmessage-diplay-message-action"
+slug = "mikanmessage-display-message-action"
 [taxonomies]
 tags = ["mac", "shortcuts", "automation"]
 [extra]
