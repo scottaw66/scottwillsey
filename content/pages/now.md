@@ -1,22 +1,22 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-10-25T23:43:46-08:00
+date = 2026-11-07T00:11:45-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Sunday, 25 Oct 2026 23:43:46"
+display_modified = "Saturday, 07 Nov 2026 00:11:45"
 +++
 
 ## Current Personal Status
 >
-> AI Brains are a thing. People love them. The problem is, most people's Brain configuration work for THEM, not for you. This week I started creating my own, based on several different ideas from other people. I'm sure I'll have to make tons of tweaks along the way.
+> I released a little utility on [Mikan Software](https://mikansoftware.app) called [MikanMessage](https://mikansoftware.app/mikanmessage/). It's a display message action for Apple Shortcuts. Basically, I created it because I was using another app that had this feature, and realized I was using it ONLY for this feature. So I created MikanMessage. It's free!
 >
 
 ## Current Projects
 
 - Setting up [Mikan Software](https://mikansoftware.app) - in progress
-- Creating a Mac app that views iphone processes ala Activity Monitor (obviously this will be limited and will only work for developers)
+- Looking at options for a homemade flight tracker/status board
 
 ## Stuff I've recently enjoyed
 
@@ -26,16 +26,16 @@ display_modified = "Sunday, 25 Oct 2026 23:43:46"
 
 <div class="podcast-episodes">
 
-[{{<img src="oc_artwork/2821380014900942-8e390dcc-6d2c-43bd-9c9b-25667a72666a.png" alt="Who Really Pays for AI Data Centers?" />}}](https://overcast.fm/+oGB7mQhs4) [Patrick Boyle On Finance – Who Really Pays for AI Data Centers?](https://overcast.fm/+oGB7mQhs4)
-{{<img src="oc_artwork/5523677470870032-4b42de01-0cac-48f4-b448-6168691f8ac8.png" alt="In-Car-Insights: US Grand Prix qualifying review" />}} The Race F1 Podcast (Members) – In-Car-Insights: US Grand Prix qualifying review
-{{<img src="oc_artwork/5121671618619235-a4b05a1d-18cd-46ca-8c94-a05c028a4073.png" alt="Is AI a Bubble? (With Mike Isaac)" />}} The 404 Media Podcast (Premium Feed) – Is AI a Bubble? (With Mike Isaac)
-{{<img src="oc_artwork/5523677654701865-0824bf2f-2777-4e68-9eaa-a50d717b5eca.png" alt="In-Car Insights: Newey’s attempts at diplomacy and Austin Friday form" />}} The Race F1 Podcast (Members) – In-Car Insights: Newey’s attempts at diplomacy and Austin Friday form
-[{{<img src="oc_artwork/5585876585235029-98ca4594-64e1-4321-a190-f4697bff6a78.png" alt="714: Get the Bigger Pizza" />}}](https://atp.fm/714) [Accidental Tech Podcast – 714: Get the Bigger Pizza](https://atp.fm/714)
-[{{<img src="oc_artwork/4031461905555785-2fb3e870-1180-430d-a2c1-fc965c691a93.png" alt="Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies" />}}](https://overcast.fm/+5Sl97OYUk) [Risky Bulletin – Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies](https://overcast.fm/+5Sl97OYUk)
-[{{<img src="oc_artwork/6020849911099935-daca7040-4958-4f95-ac36-d4d124ee5e4e.png" alt="What I learned from cheating clankers" />}}](https://overcast.fm/+BVj7lwych8) [Risky Business Features – What I learned from cheating clankers](https://overcast.fm/+BVj7lwych8)
-[{{<img src="oc_artwork/5585878908703400-c51ad94c-8e7f-4c19-9e9a-6f0c84d99208.png" alt="714: Get the Bigger Pizza" />}}](https://atp.fm/714) [Accidental Tech Podcast: Unedited Live Stream – 714: Get the Bigger Pizza](https://atp.fm/714)
-{{<img src="oc_artwork/5523677652369645-8118cabb-f2dd-4308-b310-ed2c75b6efb7.png" alt="F1 driver rankings are changing - Edd and Scott explain how, why and what it means for you" />}} The Race F1 Podcast (Members) – F1 driver rankings are changing - Edd and Scott explain how, why and what it means for you
-{{<img src="oc_artwork/5523677970090661-82a6871b-637d-486c-b050-32aecec55f32.png" alt="In-Car Insights: Join Edd, Scott and Josh for a sketchy Austin drive" />}} The Race F1 Podcast (Members) – In-Car Insights: Join Edd, Scott and Josh for a sketchy Austin drive
+{{<img src="oc_artwork/5523677451449731-11e8f311-aee0-4227-8255-188acc8ed3a1.png" alt="In-Car Insights: Everything you need to know from a bumper Brazil Friday" />}} The Race F1 Podcast (Members) – In-Car Insights: Everything you need to know from a bumper Brazil Friday
+[{{<img src="oc_artwork/4031461906681313-56a4a273-0c07-4c1b-beb5-986f8ceb6807.png" alt="Srsly Risky Biz: The ritual bitcoin sacrifices will continue until security improves" />}}](https://overcast.fm/+5Sl97fjeE) [Risky Bulletin – Srsly Risky Biz: The ritual bitcoin sacrifices will continue until security improves](https://overcast.fm/+5Sl97fjeE)
+{{<img src="oc_artwork/5523677135393451-5c332811-6128-45d8-b217-689c9c7119cc.png" alt="In-Car Insights: Edd and Jon on Ferrari fallout, Russell’s bad luck, F1’s new driver and more" />}} The Race F1 Podcast (Members) – In-Car Insights: Edd and Jon on Ferrari fallout, Russell’s bad luck, F1’s new driver and more
+{{<img src="oc_artwork/5816355794532665-90627aab-19bc-4b3d-ade1-084dd246c550.png" alt="The hidden supply chain costs of the AI boom" />}} Decoder: Ad-Free Edition – The hidden supply chain costs of the AI boom
+{{<img src="oc_artwork/5523677211528265-993bd9e4-ba42-4308-9388-def90f26bb79.png" alt="How unhappy Ferrari’s dealing with Hamilton/Leclerc clash [ad-free video]" />}} The Race F1 Podcast (Members) – How unhappy Ferrari’s dealing with Hamilton/Leclerc clash [ad-free video]
+[{{<img src="oc_artwork/613330560907521-1cf5808f-998d-40c4-a0fe-0006c2333f15.png" alt="Risky Business #858 — The $6.3b laptop" />}}](https://overcast.fm/+It0iY2eQE) [Risky Business – Risky Business #858 — The $6.3b laptop](https://overcast.fm/+It0iY2eQE)
+[{{<img src="oc_artwork/5798100609468627-c2649db5-9ad3-43e6-b2d5-eaba8d134c9b.png" alt="The Company That Became a Country" />}}](https://overcast.fm/+BSZV38zCNM) [Business History – The Company That Became a Country](https://overcast.fm/+BSZV38zCNM)
+{{<img src="oc_artwork/5523677143147918-88b6bd37-7910-431a-8c65-a8aba6a9bcbc.png" alt="Why Haas dumped Ocon - and why new star is getting an early chance (ad free)" />}} The Race F1 Podcast (Members) – Why Haas dumped Ocon - and why new star is getting an early chance (ad free)
+[{{<img src="oc_artwork/1698965761849537-67ad1892-634b-4a06-9f07-94897df29803.png" alt="Judgeman’s Judgments with Lisa Hanawalt" />}}](https://overcast.fm/+YJM0q4eME) [Judge John Hodgman – Judgeman’s Judgments with Lisa Hanawalt](https://overcast.fm/+YJM0q4eME)
+{{<img src="oc_artwork/5523677049092523-81a16cb2-8cbd-4028-9007-3cce1ec6f766.png" alt="Edd answers your questions on his Mexico F1 driver rankings tier list" />}} The Race F1 Podcast (Members) – Edd answers your questions on his Mexico F1 driver rankings tier list
 
 </div>
 
@@ -54,96 +54,96 @@ display_modified = "Sunday, 25 Oct 2026 23:43:46"
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_EppTA81IxuM.png" alt="../../assets/images/yt_thumbs/20261025222134_EppTA81IxuM.png" />}}](https://www.youtube.com/watch?v=EppTA81IxuM&t=12s&pp=0gcJCSwMAYcqIYzv)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
-[Everyone's Reckless Mistakes Got 8 Tourists Killed!](https://www.youtube.com/watch?v=EppTA81IxuM&t=12s&pp=0gcJCSwMAYcqIYzv)
+[{{<img src="yt_thumbs/20261106235411_TFCDWrEBaFM.png" alt="How Claude Fixes It's Own Code" />}}](https://www.youtube.com/watch?v=TFCDWrEBaFM)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@theo)</p><p class="yt-video-title">
+[How Claude Fixes It's Own Code](https://www.youtube.com/watch?v=TFCDWrEBaFM)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_3u0-7FOx2Hw.png" alt="../../assets/images/yt_thumbs/20261025222134_3u0-7FOx2Hw.png" />}}](https://www.youtube.com/watch?v=3u0-7FOx2Hw)<div><p class="yt-video-channel">Channel – [Brew](https://www.youtube.com/@Brew)</p><p class="yt-video-title">
-[The Gladbeck Incident, minute by minute](https://www.youtube.com/watch?v=3u0-7FOx2Hw)
+[{{<img src="yt_thumbs/20261106235411_VEHs_oWD2i0.png" alt="Midterm Recap Part III: Looks Like Woke is Back on the Menu, Theys" />}}](https://www.youtube.com/watch?v=VEHs_oWD2i0)<div><p class="yt-video-channel">Channel – [Takes™ by Jamelle Bouie](https://www.youtube.com/@jamelle-bouie)</p><p class="yt-video-title">
+[Midterm Recap Part III: Looks Like Woke is Back on the Menu, Theys](https://www.youtube.com/watch?v=VEHs_oWD2i0)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_OmCPS7h08pY.png" alt="../../assets/images/yt_thumbs/20261025222134_OmCPS7h08pY.png" />}}](https://www.youtube.com/watch?v=OmCPS7h08pY&t=576s)<div><p class="yt-video-channel">Channel – [Dylan Davis](https://www.youtube.com/@dylandavisAI)</p><p class="yt-video-title">
-[Something Strange Is Happening to People Who Work With AI](https://www.youtube.com/watch?v=OmCPS7h08pY&t=576s)
+[{{<img src="yt_thumbs/20261106235411_ddBZC5wH1gA.png" alt="Maybe Go Fix Those #friendswithbrews #fwb #beer #review" />}}](https://www.youtube.com/watch?v=ddBZC5wH1gA)<div><p class="yt-video-channel">Channel – [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)</p><p class="yt-video-title">
+[Maybe Go Fix Those #friendswithbrews #fwb #beer #review](https://www.youtube.com/watch?v=ddBZC5wH1gA)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_fI_xj5sXuc0.png" alt="../../assets/images/yt_thumbs/20261025222134_fI_xj5sXuc0.png" />}}](https://www.youtube.com/watch?v=fI_xj5sXuc0&pp=0gcJCSwMAYcqIYzv)<div><p class="yt-video-channel">Channel – [Mentour Pilot](https://www.youtube.com/@MentourPilot)</p><p class="yt-video-title">
-[“I Can’t FLY ANYMORE…” | The Nightmare of Swissair 551](https://www.youtube.com/watch?v=fI_xj5sXuc0&pp=0gcJCSwMAYcqIYzv)
+[{{<img src="yt_thumbs/20261106235411_ErB1SRcksDc.png" alt="SSH situation is insane" />}}](https://www.youtube.com/watch?v=ErB1SRcksDc)<div><p class="yt-video-channel">Channel – [Low Level](https://www.youtube.com/@LowLevelTV)</p><p class="yt-video-title">
+[SSH situation is insane](https://www.youtube.com/watch?v=ErB1SRcksDc)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_5RmXmX3MfXc.png" alt="../../assets/images/yt_thumbs/20261025222134_5RmXmX3MfXc.png" />}}](https://www.youtube.com/watch?v=5RmXmX3MfXc)<div><p class="yt-video-channel">Channel – [Takes™ by Jamelle Bouie](https://www.youtube.com/@jamelle-bouie)</p><p class="yt-video-title">
-[Vivek Ramaswamy and JD Vance double-down on their degeneracy](https://www.youtube.com/watch?v=5RmXmX3MfXc)
+[{{<img src="yt_thumbs/20261106235411_fQm8-22N4TA.png" alt="Why has it taken 73 years for another Italian F1 champion?" />}}](https://www.youtube.com/watch?v=fQm8-22N4TA)<div><p class="yt-video-channel">Channel – Bring Back V10s</p><p class="yt-video-title">
+[Why has it taken 73 years for another Italian F1 champion?](https://www.youtube.com/watch?v=fQm8-22N4TA)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_NyOeLB0WVNE.png" alt="../../assets/images/yt_thumbs/20261025222134_NyOeLB0WVNE.png" />}}](https://www.youtube.com/watch?v=NyOeLB0WVNE&t=1512s)<div><p class="yt-video-channel">Channel – [Patrick Boyle](https://www.youtube.com/@PBoyle)</p><p class="yt-video-title">
-[The Protesters Who Own the Data Centers](https://www.youtube.com/watch?v=NyOeLB0WVNE&t=1512s)
+[{{<img src="yt_thumbs/20261106235411_34ereTxCWos.png" alt="Barack Obama Proved He's the Funniest President Of All Time" />}}](https://www.youtube.com/watch?v=34ereTxCWos)<div><p class="yt-video-channel">Channel – [Sobo](https://www.youtube.com/@IAmSobo-n4u)</p><p class="yt-video-title">
+[Barack Obama Proved He's the Funniest President Of All Time](https://www.youtube.com/watch?v=34ereTxCWos)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_7DmwsGnpR1g.png" alt="../../assets/images/yt_thumbs/20261025222134_7DmwsGnpR1g.png" />}}](https://www.youtube.com/watch?v=7DmwsGnpR1g)<div><p class="yt-video-channel">Channel – [David Pakman](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
-[Elon Musk is about to have a VERY BAD TIME](https://www.youtube.com/watch?v=7DmwsGnpR1g)
+[{{<img src="yt_thumbs/20261106235411_JxdG8Vpup8I.png" alt="LIVE: Father of Learjet crash co-pilot speaks at press conference" />}}](https://www.youtube.com/watch?v=JxdG8Vpup8I)<div><p class="yt-video-channel">Channel – [FOX 13 Tampa Bay](https://www.youtube.com/@fox13tampa)</p><p class="yt-video-title">
+[LIVE: Father of Learjet crash co-pilot speaks at press conference](https://www.youtube.com/watch?v=JxdG8Vpup8I)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_AGdiocpMXyY.png" alt="../../assets/images/yt_thumbs/20261025222134_AGdiocpMXyY.png" />}}](https://www.youtube.com/watch?v=AGdiocpMXyY)<div><p class="yt-video-channel">Channel – Sky Sports F1</p><p class="yt-video-title">
-[Button vs Bearman: Ultimate Lap Challenge](https://www.youtube.com/watch?v=AGdiocpMXyY)
+[{{<img src="yt_thumbs/20261106235411_vAzAK2DY2Qo.png" alt="Jetblue Emergency for SEVERE WEATHER | Not from here, ma'am" />}}](https://www.youtube.com/watch?v=vAzAK2DY2Qo&t=92s)<div><p class="yt-video-channel">Channel – [VASAviation -](https://www.youtube.com/@VASAviation)</p><p class="yt-video-title">
+[Jetblue Emergency for SEVERE WEATHER | "Not from here, ma'am"](https://www.youtube.com/watch?v=vAzAK2DY2Qo&t=92s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_D-SVFneJ_Nk.png" alt="../../assets/images/yt_thumbs/20261025222134_D-SVFneJ_Nk.png" />}}](https://www.youtube.com/watch?v=D-SVFneJ_Nk&t=1209s)<div><p class="yt-video-channel">Channel – [Silicon Valley Girl](https://www.youtube.com/@SiliconValleyGirl)</p><p class="yt-video-title">
-[Claude Engineering Lead: "Stop Using Claude Like It’s 2024"](https://www.youtube.com/watch?v=D-SVFneJ_Nk&t=1209s)
+[{{<img src="yt_thumbs/20261106235411_qzuwXB_bRb0.png" alt="I Took My Dirt Bike Into LA's Underground Tunnels" />}}](https://www.youtube.com/watch?v=qzuwXB_bRb0&t=84s)<div><p class="yt-video-channel">Channel – [Zay Solis](https://www.youtube.com/@ZaySolis119)</p><p class="yt-video-title">
+[I Took My Dirt Bike Into LA's Underground Tunnels](https://www.youtube.com/watch?v=qzuwXB_bRb0&t=84s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_LzoHzgSuPRQ.png" alt="../../assets/images/yt_thumbs/20261025222134_LzoHzgSuPRQ.png" />}}](https://www.youtube.com/watch?v=LzoHzgSuPRQ)<div><p class="yt-video-channel">Channel – [David Pakman](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
-[Interviewer STUNS Trump with BRUTAL three-word question](https://www.youtube.com/watch?v=LzoHzgSuPRQ)
+[{{<img src="yt_thumbs/20261106235411_dOS2P6H1QiQ.png" alt="F1 Theme on Japanese Instruments" />}}](https://www.youtube.com/watch?v=dOS2P6H1QiQ)<div><p class="yt-video-channel">Channel – [太鼓打ちシンゴ Taiko Drummer Shingo](https://www.youtube.com/@shingo0628)</p><p class="yt-video-title">
+[F1 Theme on Japanese Instruments](https://www.youtube.com/watch?v=dOS2P6H1QiQ)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_92ZDgn8bgLM.png" alt="../../assets/images/yt_thumbs/20261025222134_92ZDgn8bgLM.png" />}}](https://www.youtube.com/watch?v=92ZDgn8bgLM&t=2s)<div><p class="yt-video-channel">Channel – [AI LABS](https://www.youtube.com/@AILABS-393)</p><p class="yt-video-title">
-[Anthropic Just Revealed How Their Engineers Use Claude Code](https://www.youtube.com/watch?v=92ZDgn8bgLM&t=2s)
+[{{<img src="yt_thumbs/20261106235411_oyG70Z4oFb0.png" alt="The Carrier Landing WASN'T the Uncomfortable Part" />}}](https://www.youtube.com/watch?v=oyG70Z4oFb0&t=59s&pp=0gcJCUEMAYcqIYzv)<div><p class="yt-video-channel">Channel – [Growler Jams](https://www.youtube.com/@GrowlerJams)</p><p class="yt-video-title">
+[The Carrier Landing WASN'T the Uncomfortable Part](https://www.youtube.com/watch?v=oyG70Z4oFb0&t=59s&pp=0gcJCUEMAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261025222134_USeyDcWyVCc.png" alt="../../assets/images/yt_thumbs/20261025222134_USeyDcWyVCc.png" />}}](https://www.youtube.com/watch?v=USeyDcWyVCc&t=1535s)<div><p class="yt-video-channel">Channel – [Theo - t3․gg](https://www.youtube.com/@t3dotgg)</p><p class="yt-video-title">
-[Even The NSA Got Involved](https://www.youtube.com/watch?v=USeyDcWyVCc&t=1535s)
+[{{<img src="yt_thumbs/20261106235411_KGoKyzR6sb8.png" alt="What I Stopped Doing With AI" />}}](https://www.youtube.com/watch?v=KGoKyzR6sb8)<div><p class="yt-video-channel">Channel – [How I AI](https://www.youtube.com/@howiaipodcast)</p><p class="yt-video-title">
+[What I Stopped Doing With AI](https://www.youtube.com/watch?v=KGoKyzR6sb8)
 </p></div>
 
 </div>
