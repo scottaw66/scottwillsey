@@ -8,6 +8,10 @@ template = "changelog.html"
 display_modified = "Monday, 04 Mar 2024 20:00:41"
 +++
 
+### 2026-11-07
+
+Lots of site script updates. Auto-tagging, better title handling, running the scripts in Safari from my Brain Control dashboard, and much more. I'm building a system here!
+
 ### 2026-10-07
 
 Fixed some CSS overflow issues affecting code blocks, quotes, and YouTube video embeds. Fixed the new blog post script which was breaking when things weren't as expected on the post draft in Obsidian and when images were named with hyphens (what a dumb bug!).

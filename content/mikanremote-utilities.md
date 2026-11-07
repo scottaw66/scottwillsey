@@ -4,7 +4,7 @@ description = "describe"
 date = 2026-05-27T00:10:00-08:00
 slug = "mikanremote-utilities"
 [taxonomies]
-tags = ["keyword"]
+tags = ["apps", "ios", "mac"]
 [extra]
 display_title = "MikanRemote Utilities"
 display_date = "Wednesday, 27 May 2026"

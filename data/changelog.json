@@ -1,16 +1,16 @@
 {
   "entries": [
     {
+      "date": "2026-11-07",
+      "html": "Lots of site script updates. Auto-tagging, better title handling, running the scripts in Safari from my Brain Control dashboard, and much more. I'm building a system here!"
+    },
+    {
       "date": "2026-10-07",
       "html": "Fixed some CSS overflow issues affecting code blocks, quotes, and YouTube video embeds. Fixed the new blog post script which was breaking when things weren't as expected on the post draft in Obsidian and when images were named with hyphens (what a dumb bug!)."
     },
     {
       "date": "2026-10-06",
       "html": "Randomized the 4 reviews that show up on the /reviews page. Fixed a css issue that affected site preview."
-    },
-    {
-      "date": "2026-09-04",
-      "html": "Removed my Bluesky links because I just don't use that site anymore."
     }
   ]
 }

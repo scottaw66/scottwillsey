@@ -4,7 +4,7 @@ description = "Figuring out what to write about in 2026"
 date = 2025-12-26T00:10:00-08:00
 slug = "2026-and-the-search-for-meaning"
 [taxonomies]
-tags = ["keyword"]
+tags = ["blog", "writing"]
 [extra]
 display_title = "2026 and the Search for Meaning"
 display_date = "Friday, 26 Dec 2025"

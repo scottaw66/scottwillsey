@@ -4,7 +4,7 @@ description = "In which I learn that I'm doing things wrong, and I start trying 
 date = 2026-04-04T00:10:00-08:00
 slug = "astro-astro-rss-compiled-content-revisited"
 [taxonomies]
-tags = ["keyword"]
+tags = ["astro", "blog", "javascript", "programming", "rss"]
 [extra]
 display_title = "Astro RSS Compiled Content Revisited"
 display_date = "Saturday, 04 Apr 2026"
