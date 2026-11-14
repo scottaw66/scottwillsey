@@ -16,13 +16,18 @@
 </nav>
 {% endcomponent site_nav %}
 
-{# The red date roundel: month, day and (when `year`) year. The parts come
-   from extra.display_date ("Saturday, 07 Nov 2026"), which tools/prebuild.py
-   writes into every post and read, because Tera v2's date filter can't
-   parse the ISO date in `date`. #}
+{# The red date roundel: month, day and (when `year`) year. It is always a
+   link to the post's own page (Scott, 2026-11-14: "make them permalinks so
+   that link posts still have something to link to my posts by"; a link
+   post's title on its own page goes to the external site, so the date is
+   its permalink). The parts come from extra.display_date ("Saturday, 07 Nov
+   2026"), which tools/prebuild.py writes into every post and read, because
+   Tera v2's date filter can't parse the ISO date in `date`. The aria-label
+   gives the link a readable name; without it the name would be the three
+   parts run together. #}
 {% component roundel(p, year = false) %}
 {%- set d = p.extra.display_date | split(pat=" ") -%}
-<time class="roundel" datetime="{{ p.date }}"><span class="m">{{ d[2] | upper }}</span><span class="d">{{ d[1] }}</span>{% if year %}<span class="y">{{ d[3] }}</span>{% endif %}</time>
+<a class="roundel" href="{{ p.path }}" aria-label="{{ p.extra.display_date }}, permalink"><time datetime="{{ p.date }}"><span class="m">{{ d[2] | upper }}</span><span class="d">{{ d[1] }}</span>{% if year %}<span class="y">{{ d[3] }}</span>{% endif %}</time></a>
 {% endcomponent roundel %}
 
 {# One post as a cell of the flyer grid (home page, under a post, a tag's
@@ -57,20 +62,25 @@
 {% endcomponent latest_posts %}
 
 {# A whole post on a white sheet: the single-post page (h1 title) and the
-   blog list pages (`list` true: h2 title linking to the post; the lists
-   render full posts, not excerpts). display_title and display_date are
-   written into each post's [extra] by tools/prebuild.py (titleCase /
-   postdate ports; Tera v2's title filter and date parsing don't match the
-   JS originals). A link post's title goes to the linked page. #}
+   blog list pages (`list` true: h2 title; the lists render full posts, not
+   excerpts). display_title and display_date are written into each post's
+   [extra] by tools/prebuild.py (titleCase / postdate ports; Tera v2's title
+   filter and date parsing don't match the JS originals).
+   Where the title goes (Scott, 2026-11-14):
+   - in a list, always to the post's own page, link posts included;
+   - on the post's own page, a link post's title goes to the external site
+     it is about, and an ordinary post's title is not a link.
+   A link post's title carries the link-post icon in both places. The date
+   roundel is the permalink everywhere. #}
 {% component post_article(p, list = false) %}
 <article class="sheet">
   <header>
     {{<roundel p={p} year={true} />}}
     <{% if list %}h2{% else %}h1{% endif %} class="title">
-      {%- if p.extra?.link -%}
+      {%- if list -%}
+        <a href="{{ p.path }}">{% if p.extra?.link %}<span data-pagefind-ignore>{{<post_link_icon />}}</span>{% endif %}{{ p.extra.display_title }}</a>
+      {%- elif p.extra?.link -%}
         <a href="{{ p.extra.link }}"><span data-pagefind-ignore>{{<post_link_icon />}}</span>{{ p.extra.display_title }}</a>
-      {%- elif list -%}
-        <a href="{{ p.path }}">{{ p.extra.display_title }}</a>
       {%- else -%}
         {{ p.extra.display_title }}
       {%- endif -%}

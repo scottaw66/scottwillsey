@@ -119,11 +119,14 @@ main { flex: 1; }
 .flyer { display: flex; flex-wrap: wrap; gap: var(--rule); margin: 0; padding: 0; overflow: hidden; border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--navy); list-style: none; }
 .cell { flex: 1 1 30%; min-width: 0; display: grid; grid-template-columns: auto minmax(0, 1fr); align-content: start; gap: 0.3rem 1.1rem; padding: var(--cell-pad); background: var(--white); }
 .cell > :not(.roundel) { grid-column: 2; }
-.roundel { grid-row: 1 / span 3; display: grid; place-content: center; width: var(--roundel); aspect-ratio: 1; border-radius: 50%; background: var(--red); color: var(--white); line-height: 1; text-align: center; transition: transform 0.4s var(--ease); }
+/* The roundel is a link to the post (its permalink); the <time> inside it
+   is display: contents so the three parts stay the roundel's own grid items. */
+.roundel { grid-row: 1 / span 3; display: grid; place-content: center; width: var(--roundel); aspect-ratio: 1; border-radius: 50%; background: var(--red); color: var(--white); line-height: 1; text-align: center; text-decoration: none; transition: transform 0.4s var(--ease); }
+.roundel time { display: contents; }
 .roundel .m { font: 700 1rem/1 var(--display); letter-spacing: 0.08em; }
 .roundel .d { font: 900 calc(var(--roundel) * 0.345)/1.05 var(--shout); }
 .roundel .y { font-weight: 700; font-size: 1rem; }
-.cell:hover .roundel { transform: rotate(calc(-1 * var(--tilt))) scale(1.07); }
+.cell:hover .roundel, .roundel:hover, .roundel:focus-visible { transform: rotate(calc(-1 * var(--tilt))) scale(1.07); }
 .cell h3 { margin: 0; font: 700 1.625rem/1.08 var(--display); letter-spacing: var(--tracking); text-wrap: balance; overflow-wrap: anywhere; }
 /* A yellow marker stroke draws itself under the title of the cell pointed at. */
 .cell h3 a { text-decoration: none; background: linear-gradient(var(--yellow), var(--yellow)) no-repeat 0 90% / 0 0.34em; transition: background-size 0.4s var(--ease); }
