@@ -9,7 +9,9 @@
 #     anything in content/, data/ or src/assets changes — it refreshes the
 #     generated stubs, display dates/titles and data/*.json so a saved edit
 #     shows up complete (zola serve itself only sees the raw file change)
-#   - tailwindcss --watch=always, rebuilding static/css/global.css on template/CSS edits
+#   - tailwindcss --watch=always, rebuilding static/css/global.css when
+#     css/global.css is edited (plain CSS since the 2026-11-13 redesign; the
+#     command only bundles and minifies it)
 #   - zola serve (foreground)
 
 set -e

@@ -1,12 +1,14 @@
-<div
-  class="max-w-[90ch] mx-auto my-0 p-8 flex flex-col items-center content-center justify-center"
->
-  <div class="flex flex-row gap-1 mb-1 items-center">
-    <a href="{{ config.extra.mastodon }}">{{<mastodon_icon size="2rem" fill="var(--accent-purple)" />}}</a>
-    <a href="{{ config.extra.github }}">{{<github_icon size="2rem" />}}</a>
-    <a href="/rss.xml">{{<rss_icon size="2.4rem" fill="var(--accent-orange-darker)" />}}</a>
-  </div>
-  <div class="text-[0.6rem] font-bold p-0 m-0">
-    &copy; {{ now() | date(format="%Y") }}&nbsp;{{ config.extra.author }}
-  </div>
+{# The navy band that closes every page: the About blurb (it was the top of
+   the sidebar before the 2026-11-13 redesign), where else to find Scott, and
+   the copyright line. #}
+<div class="wrap">
+  <p>
+    I write about <a href="/1">computing related topics</a>. You can <a href="/search">search</a> or <a href="/1">browse</a> this site. Most of what I write about here is <a href="/tags/mac/">Mac</a> or web related. <a href="/now">Here</a> is what I'm up to <a href="/now">now</a>, and <a href="/uses">here</a> is what I <a href="/uses">use</a>.
+  </p>
+  <nav aria-label="Elsewhere">
+    <a href="{{ config.extra.mastodon }}">Mastodon</a>
+    <a href="{{ config.extra.github }}">GitHub</a>
+    <a href="/rss.xml">RSS</a>
+  </nav>
+  <div class="copy">&copy; {{ now() | date(format="%Y") }} {{ config.extra.author }}</div>
 </div>

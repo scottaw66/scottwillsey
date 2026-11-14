@@ -2,8 +2,11 @@
 # Build scottwillsey.com (no deploy — use deploy.sh for that).
 #
 # Pipeline: prebuild (refresh generated stubs/data/display fields from the
-# single authoring tree content/ + data/) → Tailwind CSS → zola build → feed
+# single authoring tree content/ + data/) → CSS → zola build → feed
 # postprocessing → Pagefind index. See ZOLA-MIGRATION.md.
+# The CSS step is the tailwindcss command, but css/global.css is plain CSS
+# since the 2026-11-13 redesign (no Tailwind utilities in it or in the
+# templates), so the command only bundles and minifies it.
 #
 # One-time setup on a fresh clone:
 #   brew install zola tailwindcss

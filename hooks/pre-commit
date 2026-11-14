@@ -125,7 +125,7 @@ if [[ ${#updated_pages[@]} -gt 0 ]]; then
         awk -v updates="$updates_html" '
         /<section id="updates"/ {
             # Found the opening section tag
-            print "<section id=\"updates\" class=\"text-[0.8em]\">"
+            print "<section id=\"updates\">"
             if (updates != "") {
                 print "  <ul>"
                 printf "%s", updates

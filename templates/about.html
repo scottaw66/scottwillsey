@@ -1,77 +1,71 @@
-{# /about — port of astro/src/pages/about.astro (prose lives here, the
-   content/pages/about.md stub only supplies title/description/URL) #}
+{# /about (the prose lives here; the content/pages/about.md stub only
+   supplies title/description/URL) #}
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block metatitle %}{{ page.title }}{% endblock metatitle %}
 {% block description %}{{ page.description }}{% endblock description %}
+{% block nav %}{{<site_nav here="about" />}}{% endblock nav %}
 {% block main %}
-<article>
-  <h1>About Me</h1>
-  <a href="/images/ScottLatest.jpg">
-    {% set av = resize_image(path="src/assets/images/ScottLatest.jpg", width=600, op="fit_width", format="webp", quality=85) %}
-    <img
-      class="size-[200px] block mx-auto p-0 rounded-[50%] border-(var(--hyperlink)) border-3"
-      src="/{{ av.static_path | split(pat="static/") | last }}"
-      width="{{ av.width }}"
-      height="{{ av.height }}"
-      alt="Scott Willsey"
-      loading="lazy"
-      decoding="async"
-    />
-  </a>
-  <div
-    class="mx-auto max-w-[100%] text-text1 text-[1.3rem] sm:text-[1.75rem] font-title-nihongo text-center"
-  >
-    <div class="rotate-[4deg]">テック老人 !?!</div>
-  </div>
-  <p class="font-bold text-4xl">Hello, friend.</p>
+<div class="wrap">
+  <article class="sheet page-about">
+    <header class="plain"><h1 class="title">About Me</h1></header>
+    <div class="prose">
+      <a class="portrait" href="/images/ScottLatest.jpg">
+        {% set av = resize_image(path="src/assets/images/ScottLatest.jpg", width=600, op="fit_width", format="webp", quality=85) %}
+        <img src="/{{ av.static_path | split(pat="static/") | last }}" width="{{ av.width }}" height="{{ av.height }}" alt="Scott Willsey" loading="lazy" decoding="async" />
+      </a>
+      {# テック老人 !?! = "Tech old man !?!" #}
+      <div class="sticker-line" lang="ja"><span>テック老人 !?!</span></div>
+      <p class="hello">Hello, friend.</p>
 
-  <p>
-    This site has lots of <a href="/links">/links</a> and my <a href="/uses">/uses</a>, <a href="/reviews">reviews</a>, and <a href="/now">/now</a> pages.
-  </p>
+      <p>
+        This site has lots of <a href="/links">/links</a> and my <a href="/uses">/uses</a>, <a href="/reviews">reviews</a>, and <a href="/now">/now</a> pages.
+      </p>
 
-  <p>
-    I spent my formative years living in <a href="https://www.kagoshima-yokanavi.jp/en">Kagoshima City </a>, Japan, a rare gaijin at that time and place. <a href="https://en.wikipedia.org/wiki/Sakurajima">Sakurajima </a> dumped ash on us regularly, proving that its reputation as one of the world's
-    most active volcanoes is no lie, and earthquakes and typhoons were part of the
-    package.
-  </p>
+      <p>
+        I spent my formative years living in <a href="https://www.kagoshima-yokanavi.jp/en">Kagoshima City </a>, Japan, a rare gaijin at that time and place. <a href="https://en.wikipedia.org/wiki/Sakurajima">Sakurajima </a> dumped ash on us regularly, proving that its reputation as one of the world's
+        most active volcanoes is no lie, and earthquakes and typhoons were part of the
+        package.
+      </p>
 
-  <p>
-    For me, there was no better place to spend my youth. I learned another
-    language, and more importantly, another way of thinking.
-  </p>
+      <p>
+        For me, there was no better place to spend my youth. I learned another
+        language, and more importantly, another way of thinking.
+      </p>
 
-  <p>
-    My interest in computing technology was born in Japan as well. My brother
-    scrounged parts off an IBM employee he was friends with and built homebrew
-    systems that he programmed in binary and hex. We played with Japanese
-    computers and the <a href="http://oldcomputers.net/appleii.html">Apple II </a>. I learned to type thanks to game code listings in magazines like <a href="http://www.softalkapple.com/">Softalk </a>.
-  </p>
+      <p>
+        My interest in computing technology was born in Japan as well. My brother
+        scrounged parts off an IBM employee he was friends with and built homebrew
+        systems that he programmed in binary and hex. We played with Japanese
+        computers and the <a href="http://oldcomputers.net/appleii.html">Apple II </a>. I learned to type thanks to game code listings in magazines like <a href="http://www.softalkapple.com/">Softalk </a>.
+      </p>
 
-  <p>
-    My first personally owned computer was the original <a href="https://www.apple-history.com/128k">128k Macintosh</a> which my dad bought for me. Today I'm still a Mac user, but I also spent a
-    lot of years on PCs and I still use them at work.
-  </p>
+      <p>
+        My first personally owned computer was the original <a href="https://www.apple-history.com/128k">128k Macintosh</a> which my dad bought for me. Today I'm still a Mac user, but I also spent a
+        lot of years on PCs and I still use them at work.
+      </p>
 
-  <p>
-    This site is for me to talk about automation and geekiness for Mac and the
-    web – Shortcuts, apps, secret terminal incantations, Astro, Maudit, CSS,
-    and more.
-  </p>
+      <p>
+        This site is for me to talk about automation and geekiness for Mac and the
+        web – Shortcuts, apps, secret terminal incantations, Astro, Maudit, CSS,
+        and more.
+      </p>
 
-  <p>
-    I've done a few podcasts over the years, none of which were wildly
-    successful, but I keep doing them anyway. Currently I host <a href="https://friendswithbrews.com">Friends with Brews podcast</a> with my amazing friend <a href="https://infosec.exchange/@nikolaidis">Peter Nikolaidis</a>.
-  </p>
+      <p>
+        I've done a few podcasts over the years, none of which were wildly
+        successful, but I keep doing them anyway. Currently I host <a href="https://friendswithbrews.com">Friends with Brews podcast</a> with my amazing friend <a href="https://infosec.exchange/@nikolaidis">Peter Nikolaidis</a>.
+      </p>
 
-  <p>
-    My happiness in life is due to my wife and daughter. They are amazing. And
-    also due to my cats, even though they refuse to love each other.
-  </p>
+      <p>
+        My happiness in life is due to my wife and daughter. They are amazing. And
+        also due to my cats, even though they refuse to love each other.
+      </p>
 
-  <p class="italic">
-    Contact me on <a rel="me" href="https://mastodon.social/@scottaw">
-      {{<inline_mastodon_icon size="1.1em" fill="var(--accent-purple)" />}} Mastodon</a> if you like.
-  </p>
-</article>
+      <p><i>
+        Contact me on <a rel="me" href="https://mastodon.social/@scottaw">
+          {{<mastodon_icon />}} Mastodon</a> if you like.</i>
+      </p>
+    </div>
+  </article>
+</div>
 {% endblock main %}

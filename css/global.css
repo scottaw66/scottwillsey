@@ -1,801 +1,408 @@
-@import "tailwindcss";
+/* scottwillsey.com: the Chirashi look (チラシ, a sale flyer), chosen by Scott
+   on 2026-11-13. Yellow ground, navy and red ink, flat, with thin navy rules.
+   The design it was converted from, its references and the decisions behind
+   it are in ~/Developer/Sites/webdesign-dashboard/designs/scottwillsey
+   (brief.md; final/chirashi.css is the same look with every value on a
+   tweak bar).
 
-@theme {
-  --font-body:
-    "Atkinson Hyperlegible", system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Helvetica, Arial, sans-serif;
-  --font-title: Cartridge-BoldSoft, sans-serif;
-  --font-title-nihongo: "Mochiy Pop One", sans-serif;
+   This is plain CSS: no Tailwind utilities are used here or in the
+   templates since the redesign. build.sh and dev.sh still run it through the
+   tailwindcss command, which now only bundles and minifies it into
+   static/css/global.css.
 
-  --color-brand: var(--brand);
-  --color-accent-pink: var(--accent-pink);
-  --color-dates: var(--dates);
-  --color-title: var(--title);
-  --color-title-hover: var(--title-hover);
-  --color-hyperlink: var(--hyperlink);
-  --color-hyperlink-blurb: var(--hyperlink-blurb);
-  --color-text1: var(--text1);
-  --color-quote: var(--quote);
-  --color-quote-bg: var(--quote-bg);
-  --color-surface-menu: var(--surface-menu);
-  --color-nav-bg: var(--nav-bg);
-  --color-nav-border: var(--nav-border);
-  --color-background: var(--background);
-  --color-post-bg: var(--post-bg);
+   Two rules hold everywhere:
+   - Red on the yellow ground is about 3.1:1, so red there is a fill or large
+     display type only; body-size red text sits on white.
+   - Nothing is set below 16px (small text is hard for Scott to read). */
+
+@font-face { font-family: "Atkinson Hyperlegible Next"; src: url("/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Atkinson Hyperlegible Next"; src: url("/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-RegularItalic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Atkinson Hyperlegible Next"; src: url("/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-SemiBold.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Atkinson Hyperlegible Next"; src: url("/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+/* Headings: sign-painter caps (the face has no lower case). */
+@font-face { font-family: "Paint Factory"; src: url("/fonts/Paint-Factory/PaintFactory-Bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+/* The home page headline and the day number in every date roundel. */
+@font-face { font-family: "Rotundo"; src: url("/fonts/Rotundo/Rotundo-Fat.woff2") format("woff2"); font-weight: 900; font-display: swap; }
+/* The Japanese stickers. */
+@font-face { font-family: "Mochiy Pop One"; src: url("/fonts/Mochiy_Pop_One/MochiyPopOne-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+
+:root {
+  color-scheme: light;
+  --yellow: #ffcf1a;
+  --yellow-pale: #fff3b8;
+  --navy: #161f5c;
+  --red: #e02d16;
+  --blue: #1f44e0;
+  --white: #ffffff;
+
+  --display: "Paint Factory", "Atkinson Hyperlegible Next", sans-serif;
+  --shout: "Rotundo", "Paint Factory", sans-serif;
+  --body: "Atkinson Hyperlegible Next", system-ui, sans-serif;
+  --jp: "Mochiy Pop One", sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, monospace;
+  --tracking: 0.015em;
+
+  --wrap: 74rem;        /* the page's widest column */
+  --sheet: 70rem;       /* a post or page sheet; Scott's setting, 2026-11-13 */
+  --section-pad: 4rem;
+  --rule: 3px;
+  --radius: 8px;
+  --radius-tab: 6px;
+  --roundel: 4.75rem;   /* a date roundel in the post grid; the larger ones are multiples */
+  --cell-pad: 1.5rem;
+  --tilt: 12deg;        /* how far stickers and roundels turn when pointed at */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-@layer base {
-  /* Font faces */
-  @font-face {
-    font-family: "Atkinson Hyperlegible";
-    src: url("/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2")
-      format("woff2");
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  @font-face {
-    font-family: Cartridge-Regular;
-    src: url("/fonts/Cartridge/Cartridge-Regular.woff2") format("woff2");
-  }
-
-  @font-face {
-    font-family: Cartridge-RegularSoft;
-    src: url("/fonts/Cartridge/Cartridge-RegularSoft.woff2") format("woff2");
-  }
-
-  @font-face {
-    font-family: Cartridge-Rough;
-    src: url("/fonts/Cartridge/Cartridge-Rough.woff2") format("woff2");
-  }
-
-  @font-face {
-    font-family: Cartridge-Bold;
-    src: url("/fonts/Cartridge/Cartridge-Bold.woff2") format("woff2");
-  }
-
-  @font-face {
-    font-family: Cartridge-BoldRough;
-    src: url("/fonts/Cartridge/Cartridge-BoldRough.woff2") format("woff2");
-  }
-
-  @font-face {
-    font-family: Cartridge-BoldSoft;
-    src: url("/fonts/Cartridge/Cartridge-BoldSoft.woff2") format("woff2");
-  }
-
-  @font-face {
-    font-family: "Mochiy Pop One";
-    src: url("/fonts/Mochiy_Pop_One/MochiyPopOne-Regular.woff2") format("woff2");
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  /* CSS Variables for theming */
-  html {
-    --brand-dark: #ff5c42;
-    --accent-pink-dark: #ff5c42;
-    --accent-blue-dark: #3cb8c8;
-    --accent-purple-dark: #a068d0;
-    --accent-orange-darker-dark: #ff5c42;
-    --accent-orange-dark: #ff8830;
-    --accent-white-dark: #ece8e4;
-    --dates-dark: #8888a0;
-    --title-dark: var(--brand-dark);
-    --title-hover-dark: #ff7860;
-    --hyperlink-dark: #3cb8c8;
-    --hyperlink-blurb-dark: #3cb8c8;
-    --text1-dark: #ece8e4;
-    --text3-dark: #161619;
-    --quote-bg-dark: #24242c;
-    --background-dark: #161619;
-    --surface-menu-dark: #1c1c22;
-    --surface-yt-dark: #161619;
-    --nav-bg-dark: #252530;
-    --nav-border-dark: #35354a;
-    --post-bg-dark: #1e1e26;
-    --accent-shadow-dark: #ff5c42;
-    --footnote-link-dark: #3cb8c8;
-    --footnote-bg-dark: #ff5c42;
-    --footnote-text-dark: #161619;
-    --footnote-border-dark: #35354a;
-    --footnote-bubble-dark: #ff5c42;
-    --pager-current-dark: #ff5c42;
-    --pager-current-text-dark: #161619;
-    --pager-hover-dark: #ff7860;
-    --search-bg-dark: #35354a;
-    --search-text-dark: #ece8e4;
-    --search-border-dark: #eeeeee;
-    --tag-bg-dark: #35354a;
-    --tag-text-dark: #3cb8c8;
-    --tag-bg-hover-dark: #ff5c42;
-    --tag-text-hover-dark: #161619;
-    --theme-toggle-dark: #3cb8c8;
-
-    /* Dark theme (the only theme) */
-    --stripe-left: #ff5c42;
-    --stripe-mid: #ff8830;
-    --stripe-right: #ffc040;
-    --brand: var(--brand-dark);
-    --accent-blue: var(--accent-blue-dark);
-    --accent-purple: var(--accent-purple-dark);
-    --accent-orange-darker: var(--accent-orange-darker-dark);
-    --accent-orange: var(--accent-orange-dark);
-    --accent-white: var(--accent-white-dark);
-    --accent-pink: var(--accent-pink-dark);
-    --dates: var(--dates-dark);
-    --title: var(--title-dark);
-    --title-hover: var(--title-hover-dark);
-    --hyperlink: var(--hyperlink-dark);
-    --hyperlink-blurb: var(--hyperlink-blurb-dark);
-    --text1: var(--text1-dark);
-    --text3: var(--text3-dark);
-    --quote-bg: var(--quote-bg-dark);
-    --accent-shadow: var(--accent-shadow-dark);
-    --footnote-link: var(--footnote-link-dark);
-    --footnote-bg: var(--footnote-bg-dark);
-    --footnote-text: var(--footnote-text-dark);
-    --footnote-border: var(--footnote-border-dark);
-    --footnote-bubble: var(--footnote-bubble-dark);
-    --pager-current: var(--pager-current-dark);
-    --pager-current-text: var(--pager-current-text-dark);
-    --pager-hover: var(--pager-hover-dark);
-    --search-bg: var(--search-bg-dark);
-    --search-text: var(--search-text-dark);
-    --search-border: var(--search-border-dark);
-    --tag-bg: var(--tag-bg-dark);
-    --tag-text: var(--tag-text-dark);
-    --tag-bg-hover: var(--tag-bg-hover-dark);
-    --tag-text-hover: var(--tag-text-hover-dark);
-    --theme-toggle: var(--theme-toggle-dark);
-    --surface-menu: var(--surface-menu-dark);
-    --background-yt: var(--surface-yt-dark);
-    --nav-bg: var(--nav-bg-dark);
-    --nav-border: var(--nav-border-dark);
-    --background: var(--background-dark);
-    --post-bg: var(--post-bg-dark);
-    --site-name: var(--text3-dark);
-  }
-
-  /* Smooth scrolling */
-  @media (prefers-reduced-motion: no-preference) {
-    html {
-      scroll-behavior: smooth;
-      scroll-padding-top: 3rem;
-    }
-  }
-
-  /* Scrollbar styling */
-  body::-webkit-scrollbar {
-    width: 0.2em;
-  }
-
-  body::-webkit-scrollbar-thumb {
-    background-color: var(--accent-blue);
-    outline: 1px solid var(--background);
-  }
-
-  /* Base typography - using symmetric top/bottom margins for consistent spacing */
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    @apply font-title text-brand leading-tight;
-    text-wrap: balance;
-  }
-
-  h1 {
-    @apply text-5xl mt-4 mb-4;
-  }
-
-  h2 {
-    @apply text-3xl mt-6 mb-6;
-  }
-
-  h3 {
-    @apply text-2xl mt-4 mb-4;
-  }
-
-  h4 {
-    @apply text-xl mt-3 mb-3;
-  }
-
-  h5,
-  h6 {
-    @apply mt-3 mb-3;
-  }
-
-  p {
-    @apply mt-7 mb-7;
-    text-wrap: pretty;
-  }
-
-  ul,
-  ol {
-    @apply mt-3 mb-3 ml-8;
-  }
-
-  li {
-    @apply mt-1 mb-1;
-  }
-
-  li:first-child {
-    @apply mt-0;
-  }
-
-  li:last-child {
-    @apply mb-0;
-  }
-
-  /* First child elements should have no top margin */
-  :where(h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, pre):first-child {
-    @apply mt-0;
-  }
-
-  /* Last child elements should have no bottom margin */
-  :where(h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, pre):last-child {
-    @apply mb-0;
-  }
-
-  /* Links */
-  a {
-    @apply no-underline hover:[text-decoration-line:underline] hover:[text-decoration-style:dotted] hover:[text-underline-offset:0.15em] text-hyperlink;
-  }
-
-  h1 a,
-  h2 a,
-  h3 a,
-  h4 a,
-  h5 a,
-  h6 a {
-    @apply text-brand;
-  }
-
-  /* Articles */
-  /* overflow-wrap: break-word lets a single word too long for the line
-     (long inline-code paths/URLs, remarkPluginFrontMatter.lastModified)
-     break instead of widening the page on phones; normal words never break.
-     Inline <code> inherits it (measured 2026-10-07 at 375px: up to 835px
-     page width on raycast-sc-text-parsing before this). */
-  article {
-    @apply m-0 p-6 rounded-2xl bg-post-bg max-w-full;
-    overflow-wrap: break-word;
-  }
-
-  @media screen and (max-width: 800px) {
-    article {
-      @apply py-2 px-4;
-    }
-  }
-
-  article ul {
-    @apply max-w-[90%] mr-2 ml-2;
-  }
-
-  article ul li {
-    @apply text-[0.95em];
-  }
-
-  article img {
-    @apply flex justify-center my-8 mx-auto max-w-[95%] max-h-[65vh] w-auto h-auto object-contain border border-accent-pink rounded;
-    content-visibility: auto;
-  }
-
-  /* Embeds carry fixed width attributes (the youtube component's 560, a
-     hand-written 710 in allgpts) that are wider than a phone. Cap them at
-     the column width; YouTube keeps 16:9 by deriving height from width
-     instead of the fixed height attribute. */
-  article iframe {
-    max-width: 100%;
-  }
-
-  article iframe[src*="youtube.com/embed"] {
-    height: auto;
-    aspect-ratio: 16 / 9;
-  }
-
-  /* Blockquotes */
-  blockquote {
-    @apply italic text-[0.95em] opacity-90 py-4 px-4 mt-3 mb-3 mx-1 rounded-lg bg-quote-bg;
-    quotes: "\201C" "\201D";
-  }
-
-  blockquote:before {
-    @apply text-quote font-title text-[5.5em] leading-[0.05em] mr-[0.2em];
-    opacity: 1;
-    content: open-quote;
-    vertical-align: -0.45em;
-  }
-
-  /* The first paragraph is inline so its text sits beside the big open-quote
-     glyph. Later paragraphs must stay block-level — inlining every <p> ran
-     multi-paragraph quotes together into one (the /now status, 2026-10-07). */
-  blockquote p:first-of-type {
-    @apply inline;
-  }
-
-  blockquote p + p {
-    @apply mt-3;
-  }
-
-  /* Code blocks — Zola emits <pre class="giallo" style="...">, not Astro's
-     pre.astro-code, so target bare pre. Long lines soft-wrap (matching the
-     old expressive-code behavior) instead of overflowing the page. */
-  pre {
-    @apply py-4 px-8 rounded mt-3 mb-3 text-[0.8em];
-    white-space: pre-wrap;
-    overflow-wrap: break-word;
-  }
-
-  pre::-webkit-scrollbar {
-    @apply w-2 h-2;
-  }
-
-  pre::-webkit-scrollbar-thumb {
-    background-color: var(--hyperlink);
-    outline: 1px solid var(--background);
-  }
-
-  /* Tables */
-  /* A table wider than the column scrolls sideways inside itself instead of
-     widening the page (the Xcode post's 3-column command table was 588px at
-     375px, 2026-10-07). display:block makes overflow-x work; width:
-     fit-content keeps a table's natural width (border hugs the content as
-     before) and still wraps cell text when space is tight — it only scrolls
-     when even the wrapped table can't fit. Not max-content: that would stop
-     prose cells wrapping and make them scroll on desktop too. */
-  table {
-    @apply my-10 max-w-full border-collapse border border-dates/50;
-    display: block;
-    width: fit-content;
-    overflow-x: auto;
-  }
-
-  th,
-  td {
-    @apply p-3 align-top text-left border border-dates/50;
-  }
-
-  th {
-    @apply border-b-2;
-  }
-
-  a svg:hover,
-  button svg:hover {
-    transform-origin: center;
-    transform: scale(1.3);
-  }
-
-  div.default-apps li:has(ul) {
-    @apply mb-4;
-  }
-
-  div.default-apps li ul {
-    @apply list-disc ml-12;
-  }
-
-  /* Start /now page section */
-  /* Podcast history and food */
-  div.podcast-episodes,
-  div.food {
-    @apply mx-8 text-[0.9em] max-[650px]:mx-0  rounded-2xl;
-    background-color: var(--surface-menu);
-  }
-
-  div.podcast-episodes p,
-  div.food p {
-    @apply grid grid-cols-[70px_1fr] gap-x-[10px] gap-y-[10px] p-4 m-0 items-center;
-  }
-
-  div.podcast-episodes img,
-  div.podcast-episodes p a img {
-    @apply w-[55px] h-[55px] my-0.5 border-0;
-  }
-
-  div.food p {
-    @apply grid-cols-[125px_1fr] gap-y-[10px];
-  }
-
-  div.food img,
-  div.food p a img {
-    @apply w-[100px] h-[100px] my-0.5 border-0;
-  }
-
-  @media screen and (max-width: 450px) {
-    div.podcast-episodes p,
-    div.food p {
-      @apply text-[0.7em];
-    }
-  }
-
-  @media screen and (min-width: 451px) and (max-width: 800px) {
-    div.podcast-episodes p,
-    div.food p {
-      @apply text-[0.75em];
-    }
-  }
-
-  /* Reviews sections */
-  article div.review-now {
-    @apply w-full mt-8;
-  }
-  article div.review-now > p {
-    @apply grid gap-8 mt-4 mb-8 mx-auto px-4;
-    grid-template-columns: repeat(auto-fill, minmax(min(450px, 100%), max-content));
-    justify-content: center;
-  }
-  article div.review p {
-    @apply flex flex-row gap-4 flex-wrap justify-center mx-4 mt-4 mb-8;
-  }
-
-  div.now p a img,
-  div.review p a img {
-    @apply w-full max-w-[450px] m-0;
-    content-visibility: visible;
-  }
-
-  /* YouTube History section */
-  div.yt-history {
-    @apply flex flex-row gap-y-6 justify-center flex-wrap px-2 py-10 rounded-2xl;
-    background-color: var(--background-yt);
-  }
-
-  /* Each video - yt-video is now a grid container with vertical layout */
-  div.yt-video {
-    @apply grid grid-cols-1 grid-rows-[auto_auto] flex-[1_1_300px] max-w-[400px] gap-[10px] max-[750px]:max-w-full;
-  }
-
-  /* Thumbnail paragraph - at the top, centered */
-  div.yt-video > p:first-child {
-    @apply justify-self-center m-0 p-0;
-  }
-
-  /* Info div container (sibling to thumbnail p) - below thumbnail, left-aligned */
-  div.yt-video > div {
-    @apply flex flex-col text-left justify-self-center w-[250px];
-  }
-
-  /* Hide empty paragraphs in the info div */
-  div.yt-video > div > p:empty {
-    @apply hidden;
-  }
-
-  /* Channel paragraph */
-  p.yt-video-channel {
-    @apply m-0 p-0 order-1 text-[0.9em] font-bold;
-    color: var(--secondary-text);
-  }
-
-  p.yt-video-channel a {
-    @apply m-0 p-0 no-underline font-bold;
-    color: var(--dates);
-  }
-
-  p.yt-video-channel div {
-    @apply items-center;
-  }
-
-  /* Title paragraph */
-  p.yt-video-title {
-    @apply m-0 p-0 order-2 text-[0.85em] leading-[1.2em];
-  }
-
-  p.yt-video-title a {
-    @apply no-underline;
-  }
-
-  div.yt-history img,
-  div.yt-video img,
-  div.yt-history p a img,
-  div.yt-video p a img {
-    @apply w-[250px] h-auto m-0;
-  }
-  /* End /now page section */
+* { box-sizing: border-box; }
+html { scrollbar-color: var(--navy) var(--yellow); -webkit-text-size-adjust: 100%; }
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; scroll-padding-top: 3rem; }
 }
+/* A column, with <main> taking the spare height, so the navy footer sits at
+   the bottom of the window on a short page (a tag with one post, search). */
+body { display: flex; flex-direction: column; min-height: 100dvh; margin: 0; background: var(--yellow); color: var(--navy); font: 400 1.25rem/1.6 var(--body); caret-color: var(--red); }
+::selection { background: var(--navy); color: var(--yellow); }
+a { color: inherit; text-decoration-thickness: 0.1em; text-underline-offset: 0.18em; }
+:focus-visible { outline: 3px solid var(--red); outline-offset: 3px; border-radius: 0.2rem; }
+img { max-width: 100%; }
+main { flex: 1; }
+.wrap { width: min(var(--wrap), 100% - clamp(2rem, 6vw, 5rem)); margin-inline: auto; }
+.skip { position: absolute; left: 1rem; top: -5rem; z-index: 10; padding: 0.6rem 1rem; background: var(--navy); color: var(--yellow); font-weight: 700; }
+.skip:focus { top: 1rem; }
+.icon { display: inline-block; width: 1em; height: 1em; vertical-align: -0.12em; fill: currentColor; }
 
-/* Atari stripe decorations */
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 8px;
-  background: linear-gradient(
-    to right,
-    var(--stripe-left) 0% 33%,
-    var(--stripe-mid) 33% 66%,
-    var(--stripe-right) 66% 100%
-  );
-  z-index: 1000;
-  pointer-events: none;
-}
+/* ---- Masthead ---- */
+.masthead { padding-block: 1.5rem; }
+.masthead .wrap { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem 2rem; }
+.wordmark { display: inline-flex; align-items: center; font: 700 clamp(2.25rem, 4.4vw, 3.125rem)/1 var(--display); letter-spacing: var(--tracking); color: var(--navy); text-decoration: none; }
+.wordmark img { width: 0.84em; height: 0.84em; margin-inline: 0.05em; border-radius: 50%; border: 0.07em solid var(--red); transition: transform 0.3s var(--ease); }
+.wordmark:hover img { transform: rotate(calc(-1 * var(--tilt))) scale(1.15); }
+.nav { display: flex; flex-wrap: wrap; gap: 0.4rem; font: 700 1.375rem/1 var(--display); letter-spacing: 0.03em; }
+.nav a { padding: 0.55rem 0.9rem 0.5rem; border: 2px solid var(--navy); border-radius: var(--radius-tab); background: var(--white); text-decoration: none; transition: transform 0.25s var(--ease), background-color 0.15s; }
+.nav a:hover { background: var(--yellow-pale); transform: translateY(-2px) rotate(-1.5deg); }
+.nav a[aria-current] { background: var(--navy); color: var(--yellow); }
 
-:is(h1, h2, h3)::after {
-  content: "";
-  display: block;
-  height: 3px;
-  margin-top: 0.15em;
-  background: linear-gradient(
-    to right,
-    var(--stripe-left) 0% 33%,
-    var(--stripe-mid) 33% 66%,
-    var(--stripe-right) 66% 100%
-  );
-  border-radius: 1.5px;
-}
+/* ---- Home: hero ---- */
+.hero { padding-block: 2.75rem var(--section-pad); overflow-x: clip; }
+.hero .wrap { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 2rem clamp(2rem, 5vw, 4rem); align-items: center; }
+.shout-box { position: relative; }
+.shout { margin: 0; font: 900 clamp(2.75rem, 7vw, 5.25rem)/1.34 var(--shout); letter-spacing: -0.01em; color: var(--navy); }
+.shout .mark { background: linear-gradient(var(--red), var(--red)) no-repeat 0 96% / 100% 0.14em; padding-bottom: 0.06em; }
+/* Emphasis dots (傍点) over NEW, the way a flyer stresses a word. */
+.shout .dots { position: relative; }
+.shout .dots::before { content: ""; position: absolute; left: 0.1em; right: 0.1em; top: -0.03em; height: 0.17em; background: radial-gradient(circle closest-side, var(--red) 0 92%, transparent 96%) 0 0 / 33.34% 100%; }
+.burst { position: absolute; right: 2%; top: -3.4rem; display: grid; place-items: center; width: 9.25rem; aspect-ratio: 1; transform: rotate(11deg); }
+.burst svg { position: absolute; inset: 0; width: 100%; height: 100%; fill: var(--red); }
+.burst b { position: relative; font: 400 1.185rem/1.2 var(--jp); color: var(--white); text-align: center; }
+.hero p { margin: 0; max-width: 33rem; font-size: 1.08em; line-height: 1.55; }
+.badges { display: flex; flex-wrap: wrap; gap: 0.9rem; margin: 1.75rem 0 0; padding: 0; list-style: none; }
+.badges li { display: grid; place-content: center; gap: 0.25rem; width: 9.25rem; aspect-ratio: 1; border: var(--rule) solid var(--navy); border-radius: 50%; background: var(--white); text-align: center; transition: transform 0.35s var(--ease); }
+.badges li:nth-child(1) { transform: rotate(-6deg); }
+.badges li:nth-child(2) { transform: rotate(4deg); }
+.badges li:nth-child(3) { transform: rotate(-2deg); }
+.badges li:hover { transform: rotate(0deg) scale(1.08); }
+.badges b { font: 400 1.13rem/1.15 var(--jp); }
+.badges span { font-weight: 700; font-size: 1rem; line-height: 1.1; color: var(--red); }
 
-article h2::after,
-#CoolSiteSpotlight::after {
-  display: none;
-}
+/* ---- The flyer grid of posts (home, under a post, a tag's page) ---- */
+.sale-head { display: flex; align-items: end; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1rem; margin-bottom: 1rem; }
+.sale-head :is(h1, h2) { margin: 0; font: 700 clamp(2.25rem, 4.5vw, 3.25rem)/1 var(--display); letter-spacing: var(--tracking); }
+.sale-head a { font-weight: 700; }
+.sale-head :is(h1, h2) a { text-decoration: none; }
+/* The navy rules between cells are the list's own background showing through
+   its gaps. Cells are flex items, three to a row (a basis under a third,
+   grown to fill), so a last row with fewer cells stretches to fill the row
+   instead of leaving a navy hole (the design used a grid, which did at widths
+   where three cells sit two to a row). */
+.flyer { display: flex; flex-wrap: wrap; gap: var(--rule); margin: 0; padding: 0; overflow: hidden; border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--navy); list-style: none; }
+.cell { flex: 1 1 30%; min-width: 0; display: grid; grid-template-columns: auto minmax(0, 1fr); align-content: start; gap: 0.3rem 1.1rem; padding: var(--cell-pad); background: var(--white); }
+.cell > :not(.roundel) { grid-column: 2; }
+.roundel { grid-row: 1 / span 3; display: grid; place-content: center; width: var(--roundel); aspect-ratio: 1; border-radius: 50%; background: var(--red); color: var(--white); line-height: 1; text-align: center; transition: transform 0.4s var(--ease); }
+.roundel .m { font: 700 1rem/1 var(--display); letter-spacing: 0.08em; }
+.roundel .d { font: 900 calc(var(--roundel) * 0.345)/1.05 var(--shout); }
+.roundel .y { font-weight: 700; font-size: 1rem; }
+.cell:hover .roundel { transform: rotate(calc(-1 * var(--tilt))) scale(1.07); }
+.cell h3 { margin: 0; font: 700 1.625rem/1.08 var(--display); letter-spacing: var(--tracking); text-wrap: balance; overflow-wrap: anywhere; }
+/* A yellow marker stroke draws itself under the title of the cell pointed at. */
+.cell h3 a { text-decoration: none; background: linear-gradient(var(--yellow), var(--yellow)) no-repeat 0 90% / 0 0.34em; transition: background-size 0.4s var(--ease); }
+.cell:hover h3 a, .cell h3 a:focus-visible { background-size: 100% 0.34em; }
+.cell p { margin: 0; font-size: 1.0625rem; line-height: 1.45; }
+.tags { display: flex; flex-wrap: wrap; gap: 0.1rem 0.9rem; font-size: 1rem; font-weight: 700; }
+.tags a { color: var(--blue); text-decoration: none; }
+.tags a:hover { text-decoration: underline; }
+/* The latest post as a full-width feature: bigger roundel with the year, and
+   a NEW! sticker in a third column. */
+.cell.feature { flex-basis: 100%; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 0.5rem 2rem; padding: calc(var(--cell-pad) * 1.35); }
+.feature .roundel { width: calc(var(--roundel) * 1.85); }
+.feature .roundel .m { font-size: calc(var(--roundel) * 0.29); }
+.feature .roundel .d { font-size: calc(var(--roundel) * 0.68); }
+.feature h3 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.02; }
+.feature p { font-size: 1.05em; }
+.new { grid-column: 3 !important; grid-row: 1 / span 3; position: relative; display: grid; place-items: center; width: 7rem; aspect-ratio: 1; transform: rotate(12deg); }
+.new svg { position: absolute; inset: 0; width: 100%; height: 100%; fill: var(--yellow); stroke: var(--navy); stroke-width: 2.5; }
+.new b { position: relative; font: 900 1.375rem/1 var(--shout); }
 
-article {
-  @apply border border-nav-border rounded-xl;
-}
+/* ---- Home: the notice board ---- */
+.board { margin-top: var(--section-pad); padding-block: var(--section-pad); background: var(--navy); color: var(--white); }
+.board .wrap { display: grid; grid-template-columns: 1.5fr 1fr 1fr; gap: 2.5rem clamp(2rem, 4vw, 4rem); }
+.board h2 { margin: 0 0 1rem; font: 700 1.875rem/1 var(--display); letter-spacing: 0.03em; color: var(--yellow); }
+.board h2 a { color: inherit; text-decoration: none; }
+.board a:hover { color: var(--yellow); text-decoration-thickness: 0.18em; }
+.changelog { display: grid; gap: 1rem; margin: 0; padding: 0; list-style: none; font-size: 1.0625rem; line-height: 1.5; }
+.changelog time { display: block; font-weight: 700; color: var(--yellow); font-variant-numeric: tabular-nums; }
+/* #updates is the Recent Updates partial, which the pre-commit hook rewrites;
+   #useful is the fixed list beside it. */
+.board :is(#updates, #useful) ul { display: grid; gap: 0.5rem; margin: 0; padding: 0; list-style: none; font-size: 1.125rem; }
+.board #useful ul { grid-template-columns: 1fr 1fr; }
 
-article article {
-  @apply border-0;
-}
+/* ---- Footer ---- */
+.foot { padding-block: 2rem 3rem; background: var(--navy); color: var(--white); border-top: 2px solid color-mix(in srgb, var(--white) 20%, transparent); }
+.foot .wrap { display: grid; grid-template-columns: minmax(0, 1.6fr) auto; gap: 1.5rem 2rem; align-items: start; }
+.foot p { margin: 0; max-width: 44rem; font-size: 1.125rem; }
+.foot nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; font-weight: 700; font-size: 1.125rem; }
+.foot a:hover { color: var(--yellow); }
+.foot .copy { grid-column: 1 / -1; font-size: 1rem; }
 
-section[aria-label="Blog post list"] :is(h2, h3)::after {
-  display: none;
-}
+/* ---- A post or a page: a white sheet on the yellow ground ---- */
+.sheet { max-width: var(--sheet); margin: clamp(0.5rem, 2vw, 1.5rem) auto var(--section-pad); padding: clamp(1.5rem, 4.5vw, 3.5rem); border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--white); }
+.sheet > header { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 0.75rem 1.75rem; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: var(--rule) solid var(--navy); }
+.sheet > header .roundel { grid-row: 1 / span 2; width: calc(var(--roundel) * 1.58); }
+.sheet > header .roundel .m { font-size: calc(var(--roundel) * 0.26); }
+.sheet > header .roundel .d { font-size: calc(var(--roundel) * 0.58); }
+.sheet .title { margin: 0; font: 700 clamp(2.25rem, 5vw, 3.75rem)/1 var(--display); letter-spacing: var(--tracking); color: var(--navy); text-wrap: balance; overflow-wrap: anywhere; }
+.sheet .title a { color: inherit; text-decoration: none; background: linear-gradient(var(--yellow), var(--yellow)) no-repeat 0 90% / 0 0.3em; transition: background-size 0.4s var(--ease); }
+.sheet .title a:hover, .sheet .title a:focus-visible { background-size: 100% 0.3em; }
+.sheet .title .icon { margin-right: 0.15em; }
+/* A page (not a post) has no date roundel beside its title. */
+.sheet > header.plain { grid-template-columns: minmax(0, 1fr); }
+/* No tags under the title (Weekly Reads): the roundel spans one row, so the
+   title centres beside it. */
+.sheet > header:not(:has(.meta)) .roundel { grid-row: auto; }
+.meta { display: flex; flex-wrap: wrap; gap: 0.2rem 1.1rem; font-size: 1.0625rem; font-weight: 700; }
+.meta a { color: var(--blue); text-decoration: none; }
+.meta a:hover { text-decoration: underline; }
+/* A list of whole posts (the blog pages, Weekly Reads). minmax(0, 1fr): a
+   plain grid column grows to its widest content, and a long code line made
+   the list 493px wide on a 375px phone (measured in the design, 2026-11-13). */
+.stack { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--section-pad); padding-bottom: var(--section-pad); }
+/* A sheet's auto side margins make it shrink-to-fit as a grid item, and a
+   long unbroken word then set its width (478px in a 343px column). Here it
+   takes the column's width and is centred by the grid instead. */
+.stack .sheet { width: 100%; min-width: 0; margin: 0; justify-self: center; }
+.stack .sale-head { margin-bottom: calc(1rem - var(--section-pad)); }
+.more, .listing { padding-bottom: var(--section-pad); }
+.listing .after { margin: 1.5rem 0 0; font-weight: 700; }
 
-section[aria-label="Blog post list"] header:not(:first-of-type)::before {
-  content: "";
-  display: block;
-  height: 3px;
-  margin-bottom: 0.6em;
-  background: linear-gradient(
-    to right,
-    var(--stripe-left) 0% 33%,
-    var(--stripe-mid) 33% 66%,
-    var(--stripe-right) 66% 100%
-  );
-  border-radius: 1.5px;
-}
+/* ---- Text inside a sheet (markdown from content/, and the page templates) ---- */
+/* The text fills the sheet (Scott, 2026-11-13: "make the blog post take up
+   its full width"), so --sheet is what sets the line length. */
+.prose { overflow-wrap: break-word; line-height: 1.65; }
+.prose > * { margin-block: 0 1.2em; }
+.prose a { color: var(--blue); }
+.prose h1 { margin: 0 0 0.5em; font: 700 1.875rem/1.1 var(--display); letter-spacing: var(--tracking); }
+/* h2 gets a yellow marker stroke behind its words. It is display: inline so
+   the stroke follows the text line by line when a heading wraps; an inline
+   box takes no vertical margins, so the space above and below comes from the
+   two empty block pseudo-elements. No side padding on purpose: padding would
+   turn the empty piece of the h2 before ::before into a line of its own. */
+.prose h2 { display: inline; font: 700 2.125rem/1.1 var(--display); letter-spacing: var(--tracking); color: var(--navy); background: linear-gradient(transparent 56%, var(--yellow) 56%); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.prose h2::before { content: ""; display: block; margin-top: 2em; }
+.prose h2::after { content: ""; display: block; margin-bottom: 0.6em; }
+.prose h3 { margin: 1.8em 0 0.5em; font: 700 1.5rem/1.15 var(--display); letter-spacing: var(--tracking); }
+.prose :is(h4, h5, h6) { margin: 1.6em 0 0.4em; font: 700 1.25rem/1.2 var(--body); }
+.prose ul, .prose ol { padding-left: 1.2em; }
+.prose li { margin-bottom: 0.6em; }
+.prose li::marker { color: var(--red); }
+.prose li > :is(ul, ol) { margin-top: 0.6em; }
+.prose code { padding: 0.1em 0.3em; border-radius: 0.25em; background: var(--yellow-pale); font: max(1rem, 0.86em) var(--mono); overflow-wrap: anywhere; }
+/* Code blocks: Zola's highlighter (Giallo, theme set in zola.toml) writes the
+   block's own colours as a style attribute on <pre>, hence !important; the
+   token colours on the spans inside are kept and read well on navy. */
+.prose pre { padding: 1.1rem 1.25rem; border-radius: var(--radius); background: var(--navy) !important; color: var(--white) !important; font-size: 1rem; line-height: 1.6; white-space: pre-wrap; overflow-wrap: break-word; }
+.prose pre code { padding: 0; background: none; font-size: 1em; }
+.prose table { width: 100%; border-collapse: collapse; font-size: 1.0625rem; line-height: 1.4; }
+.prose th, .prose td { padding: 0.65rem 0.85rem; border: 2px solid var(--navy); text-align: left; vertical-align: top; }
+.prose th { background: var(--navy); color: var(--yellow); font: 700 1.1875rem var(--display); letter-spacing: 0.05em; }
+.prose tbody tr:nth-child(even) { background: var(--yellow-pale); }
+.prose table code { overflow-wrap: normal; }
+.prose img { display: block; max-width: 100%; height: auto; border: var(--rule) solid var(--navy); border-radius: var(--radius); }
+/* Embeds carry fixed width attributes wider than a phone (the youtube
+   component's 560, a hand-written 710 in allgpts); YouTube keeps 16:9 by
+   taking its height from its width. */
+.prose iframe { max-width: 100%; border: 0; }
+.prose iframe[src*="youtube.com/embed"] { height: auto; aspect-ratio: 16 / 9; }
+/* Quotes as speech balloons, the flyer's way of quoting someone. */
+.prose blockquote { position: relative; margin-inline: 0; margin-bottom: 2em; padding: 1rem 1.25rem; border: var(--rule) solid var(--navy); border-radius: 22px; background: var(--yellow-pale); }
+.prose blockquote > :last-child { margin-bottom: 0; }
+.prose blockquote::after { content: ""; position: absolute; left: 2.25rem; bottom: calc(-0.5rem - var(--rule)); width: 1rem; height: 1rem; border-right: var(--rule) solid var(--navy); border-bottom: var(--rule) solid var(--navy); background: var(--yellow-pale); transform: rotate(45deg); }
+/* The Threads embed is a blockquote too; it brings its own box. */
+.prose blockquote.text-post-media { padding: 0; }
+.prose blockquote.text-post-media::after { display: none; }
+/* "Last updated …" under a page's title. */
+.updated { font-weight: 700; font-size: 1.0625rem; color: var(--red); }
+.updated a { color: inherit; text-decoration: none; }
 
-/* Barefoot footnote styles */
-.footnote-container {
-  display: inline-block;
-  position: relative;
-  text-indent: 0;
-}
-.footnote-button {
-  background: var(--footnote-bubble);
-  border: 0;
-  border-radius: 0.55em;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 1rem;
-  height: 1.1em;
-  line-height: 0;
-  margin: 0 0.1em 0 0.2em;
-  padding: 0;
-  position: relative;
-  top: -0.2em;
-  transition-duration: 0.25s;
-  transition-property: background;
-  vertical-align: super;
-  width: 1.5em;
-  z-index: 1;
-}
-.footnote-button:after {
-  color: var(--surface-menu);
-  content: attr(data-fn-number);
-  display: block;
-  font-size: 0.7em;
-  font-weight: 700;
-  left: 50%;
-  position: absolute;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  transition: color 0.25s ease;
-}
-.footnote-button:hover {
-  background: var(--brand);
-  outline: 0;
-}
-.footnote-button:hover:after {
-  color: var(--surface-menu);
-}
-.footnote-button.is-active {
-  background: var(--brand);
-  transition-delay: 0.1s;
-}
-.footnote-button.is-active:after {
-  color: var(--surface-menu);
-}
-.bf-footnote {
-  background: var(--footnote-bg);
-  color: var(--footnote-text);
-  border: 1px solid var(--footnote-border);
-  border-radius: 0.25em;
-  left: 0;
-  margin: 1.618em 0;
-  max-width: 90vw;
-  opacity: 0;
-  position: absolute;
-  top: 0;
-  transform-origin: 50% 0;
-  transition-duration: 0.25s;
-  transition-property: opacity;
-  transition-timing-function: ease;
-  z-index: 3;
-}
-.bf-footnote a {
-  color: var(--footnote-link);
-}
-.bf-footnote.footnote-is-active {
-  opacity: 0.97;
-}
-.bf-footnote.footnote-is-top {
-  bottom: 0;
-  top: auto;
-}
-.footnote-wrapper {
-  background: inherit;
-  border-radius: 0.25em;
-  margin: 0;
-  max-width: 100%;
-  overflow: hidden;
-  position: relative;
-  width: 18em;
-  z-index: 5;
-}
-.footnote-tooltip {
-  background: inherit;
-  border: 1px solid var(--footnote-border);
-  height: 1.3em;
-  position: absolute;
-  top: -0.49em;
-  transform: rotate(45deg);
-  width: 1.3em;
-  z-index: 4;
-}
-.footnote-is-top .footnote-tooltip {
-  bottom: -0.49em;
-  top: auto;
-}
-.footnote-content {
-  -webkit-font-smoothing: subpixel-antialiased;
-  font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
-  font-size: 1em;
-  line-height: 1.5;
-  max-height: 15em;
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 1em;
-  position: relative;
-  z-index: 2;
-}
-.footnote-content :first-child {
-  margin-top: 0;
-  padding-top: 0;
-}
-.footnote-content :last-child {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
+/* Footnotes. Without script: a red roundel in the text and the notes listed
+   at the foot of the post. With script, barefoot.min.js swaps each reference
+   for a button (.footnote-button) that opens the note in a small sheet
+   (.bf-footnote) beside it. */
+.footnote-reference { font-size: 1rem; line-height: 0; vertical-align: 0.35em; }
+.footnote-reference a, .footnote-button { display: inline-grid; place-content: center; min-width: 1.5em; height: 1.5em; margin: 0 0.1em 0 0.15em; padding: 0 0.3em; border: 0; border-radius: 50%; background: var(--red); color: var(--white); font: 700 1rem/1 var(--body); text-decoration: none; }
+.prose .footnotes { margin-top: 2.5em; padding-top: 1em; border-top: var(--rule) solid var(--navy); font-size: 1.0625rem; }
+.prose .footnotes ol { padding-left: 1.4em; }
+.footnote-container { display: inline-block; position: relative; text-indent: 0; }
+.footnote-button { position: relative; z-index: 1; vertical-align: 0.35em; cursor: pointer; transition: background-color 0.2s; }
+.footnote-button::after { content: attr(data-fn-number); }
+.footnote-button:hover, .footnote-button.is-active { background: var(--navy); }
+.bf-footnote { position: absolute; left: 0; top: 0; z-index: 3; max-width: 90vw; margin: 1.6em 0; border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--white); color: var(--navy); opacity: 0; transform-origin: 50% 0; transition: opacity 0.25s ease; }
+.bf-footnote.footnote-is-active { opacity: 1; }
+.bf-footnote.footnote-is-top { top: auto; bottom: 0; }
+.footnote-wrapper { position: relative; z-index: 5; width: 20em; max-width: 100%; margin: 0; overflow: hidden; border-radius: var(--radius); background: inherit; }
+.footnote-tooltip { position: absolute; top: calc(-0.65em - var(--rule)); z-index: 4; width: 1.3em; height: 1.3em; border: var(--rule) solid var(--navy); background: inherit; transform: rotate(45deg); }
+.footnote-is-top .footnote-tooltip { top: auto; bottom: calc(-0.65em - var(--rule)); }
+.footnote-content { position: relative; z-index: 2; max-height: 22em; overflow: auto; padding: 1em; font: 400 1.0625rem/1.5 var(--body); }
+.footnote-content :first-child { margin-top: 0; }
+.footnote-content :last-child { margin-bottom: 0; }
 
-/* Pagefind v2 searchbox customization via exposed --pf-* custom properties */
+/* ---- Classes written into content by the site's scripts ---- */
+/* /now: podcasts and food as a ruled panel, artwork beside each line. */
+.podcast-episodes, .food { margin-block: 1rem 2rem; border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--white); }
+.podcast-episodes p, .food p { display: grid; grid-template-columns: 3.75rem minmax(0, 1fr); align-items: center; gap: 0.8rem 1.1rem; margin: 0; padding: var(--cell-pad); font-size: 1.125rem; line-height: 1.35; }
+.podcast-episodes img { width: 3.75rem; height: 3.75rem; border-width: 2px; border-radius: 0.4rem; }
+.food p { grid-template-columns: 6.25rem minmax(0, 1fr); }
+.food img { width: 6.25rem; height: 6.25rem; border-width: 2px; }
+/* /now: the latest review cards. */
+.review-now > p, .review > p { display: flex; flex-wrap: wrap; gap: 1rem; }
+.review-now img, .review-grid img { width: 100%; transition: transform 0.35s var(--ease); }
+.review-now img { max-width: 30rem; }
+.review-now a:hover img, .review-grid a:hover img { transform: rotate(calc(var(--tilt) * -0.12)) scale(1.015); }
+/* /now: YouTube history as a small flyer grid. */
+.yt-history { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 1rem; margin-block: 1rem 2rem; }
+.yt-video { display: grid; grid-template-rows: auto 1fr; gap: 0.6rem; padding: 1rem; border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--white); }
+.yt-video p { margin: 0; }
+.yt-video > p:empty, .yt-video div > p:empty { display: none; }
+.yt-video img { width: 100%; border-width: 2px; border-radius: 5px; }
+/* Scott, 2026-11-13: "the youtube channels and video names are hard to
+   distinguish" (both were bold navy at one size). The video's name comes
+   first, bold and larger; the channel sits under it at regular weight on a
+   pale tag, so the two differ in size, weight and ground. The tag is pushed
+   to the foot of the card (margin-top: auto), so tags line up across a row
+   whatever the titles' lengths; its selector carries .yt-video so that
+   ".yt-video p { margin: 0 }" above doesn't cancel that margin. The markup
+   has the channel first; order puts the title above it. */
+.yt-video > div { display: flex; flex-direction: column; align-items: flex-start; gap: 0.6rem; }
+.yt-video-title { order: 1; font-size: 1.2rem; line-height: 1.25; }
+.yt-video .yt-video-channel { order: 2; margin-top: auto; padding: 0.2rem 0.6rem; border-radius: 5px; background: var(--yellow-pale); font-weight: 400; font-size: 1rem; line-height: 1.4; }
+.yt-video-channel a { font-weight: 600; }
+.yt-video-title a { color: var(--navy); font-weight: 700; text-decoration: none; }
+.yt-video-title a:hover { text-decoration: underline; }
+
+/* ---- Page templates ---- */
+/* Reviews: the four categories as big tabs, and the grid of review cards. */
+.prose .cats { display: flex; flex-wrap: wrap; gap: 0.6rem; padding: 0; list-style: none; }
+.cats li { margin: 0; transition: transform 0.25s var(--ease); }
+.cats li:hover { transform: translateY(-2px) rotate(-1.5deg); }
+.cats a { display: flex; align-items: center; gap: 0.55rem; padding: 0.6rem 1rem 0.55rem; border: 2px solid var(--navy); border-radius: var(--radius-tab); background: var(--yellow); color: var(--navy); font: 700 1.375rem/1 var(--display); letter-spacing: 0.03em; text-decoration: none; }
+.cats .icon { width: 1.3em; height: 1.3em; }
+.review-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(24rem, 100%), 1fr)); gap: 1rem; margin-block: 1.5rem; }
+/* Page numbers under a list. */
+nav[aria-label="Pagination"] ul { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4rem; margin: 1.5rem 0 0; padding: 0; list-style: none; font: 700 1.25rem/1 var(--display); letter-spacing: 0.03em; }
+nav[aria-label="Pagination"] li { margin: 0; }
+nav[aria-label="Pagination"] :is(a, em) { display: block; padding: 0.55rem 0.9rem 0.5rem; border: 2px solid var(--navy); border-radius: var(--radius-tab); background: var(--white); color: var(--navy); font-style: normal; text-decoration: none; white-space: nowrap; }
+nav[aria-label="Pagination"] em { background: var(--navy); color: var(--yellow); }
+nav[aria-label="Pagination"] a:hover { background: var(--yellow-pale); }
+nav[aria-label="Pagination"] span { display: block; padding: 0.55rem 0.3rem; }
+/* Links: the Cool Site Spotlight box, and the contents list in columns
+   (#contents is the heading tools/prebuild.py writes above that list). */
+.spotlight { margin-block: 1.5rem 2.5rem; padding: var(--cell-pad); border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--yellow-pale); }
+.spotlight-site { display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem; }
+.spotlight-site > div:last-child { flex: 1 1 18rem; min-width: 0; }
+.spotlight h2::before { display: none; }
+.spotlight-archive { margin: 1rem 0 0; font-weight: 700; }
+.page-links #contents + ul { columns: 3 12rem; }
+.page-links li { break-inside: avoid; }
+/* About: the portrait, the sticker line under it, the greeting. */
+.portrait img { width: 12.5rem; height: 12.5rem; margin-inline: auto; border-color: var(--red); border-radius: 50%; object-fit: cover; }
+.sticker-line { margin-block: 1.25rem 2rem; font: 400 1.5rem/1.3 var(--jp); text-align: center; }
+.sticker-line span { display: inline-block; transform: rotate(4deg); }
+.hello { font: 700 2rem/1.1 var(--display); letter-spacing: var(--tracking); }
+/* Uses: the row of desk photos. */
+.desk-photos { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 1.5rem; }
+.desk-photos img { height: 10rem; width: auto; }
+.page-uses .prose > :not(.desk-photos) img { max-width: min(100%, 24rem); margin-block: 0.75rem; }
+/* Tags: the cloud on /tags, /search and the 404 page. */
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.tag-cloud a { padding: 0.35rem 0.7rem; border: 2px solid var(--navy); border-radius: var(--radius-tab); background: var(--white); color: var(--blue); font-weight: 700; font-size: 1.0625rem; line-height: 1.2; text-decoration: none; }
+.tag-cloud a:hover { background: var(--yellow-pale); }
+/* 404 */
+.lost { display: grid; justify-items: center; }
+.lost img { width: min(100%, 25rem); height: auto; border: 0; }
+
+/* Search (Pagefind's searchbox component, on /search and the 404 page),
+   restyled through the custom properties it exposes. */
 pagefind-searchbox.pagefind-ui {
-  --pf-background: var(--search-bg);
-  --pf-text: var(--search-text);
-  --pf-text-secondary: var(--search-text);
-  --pf-text-muted: var(--search-text);
-  --pf-border: var(--search-border);
-  --pf-border-focus: var(--search-border);
-  --pf-border-radius: 0.5em;
-  --pf-input-height: 3rem;
-  --pf-input-font-size: 1.5rem;
-  --pf-hover: var(--surface-menu);
-  --pf-result-title-font-size: 1.5rem;
-  --pf-result-excerpt-font-size: 1.2rem;
+  --pf-background: var(--white);
+  --pf-text: var(--navy);
+  --pf-text-secondary: var(--navy);
+  --pf-text-muted: var(--navy);
+  --pf-border: var(--navy);
+  --pf-border-focus: var(--red);
+  --pf-border-radius: var(--radius-tab);
+  --pf-input-height: 3.25rem;
+  --pf-input-font-size: 1.25rem;
+  --pf-hover: var(--yellow-pale);
+  --pf-result-title-font-size: 1.375rem;
+  --pf-result-excerpt-font-size: 1.0625rem;
   --pf-searchbox-max-width: 100%;
+  --pf-font: var(--body);
 }
-pagefind-searchbox.pagefind-ui .pf-searchbox-result-title {
-  @apply font-title text-hyperlink;
-}
-pagefind-searchbox.pagefind-ui .pf-searchbox-result-excerpt {
-  font-family: "Atkinson Hyperlegible";
-}
-pagefind-searchbox.pagefind-ui .pf-searchbox-results {
-  scrollbar-width: thin;
-  scrollbar-color: var(--search-text) transparent;
-}
-pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar {
-  width: 10px;
-}
-pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar-track {
-  background: transparent;
-}
-pagefind-searchbox.pagefind-ui .pf-searchbox-results::-webkit-scrollbar-thumb {
-  background-color: var(--search-text);
-  border-radius: 5px;
-  border: 2px solid var(--search-bg);
+/* What the custom properties don't reach. Pagefind's stylesheet raises each
+   of its selectors to three ids' worth of specificity (":is(*, #\#)" three
+   times) and sets result text at 12 and 13px and the key hints at 9 and
+   11px, so these need !important (read from pagefind-component-ui.css,
+   2026-11-13). */
+pagefind-searchbox .pf-searchbox-input { border-width: 2px !important; }
+pagefind-searchbox .pf-searchbox-result-title { font: 700 1.25rem/1.2 var(--display) !important; letter-spacing: var(--tracking); }
+pagefind-searchbox .pf-searchbox-result-excerpt { font-size: 1.0625rem !important; }
+pagefind-searchbox :is(.pf-searchbox-status, .pf-searchbox-footer) { font-size: 1rem !important; }
+pagefind-searchbox :is(.pf-trigger-key, .pf-searchbox-footer-key) { min-width: 1.6em !important; height: 1.6em !important; font-size: 1rem !important; }
+
+/* One authored moment: the home page's stickers get slapped on, one after
+   another. They are visible before, during and after; only their scale and
+   angle move. */
+@media (prefers-reduced-motion: no-preference) {
+  .burst { animation: slap 0.55s var(--ease) 0.1s backwards; }
+  .badges li { animation: slap 0.55s var(--ease) backwards; }
+  .badges li:nth-child(1) { animation-delay: 0.25s; }
+  .badges li:nth-child(2) { animation-delay: 0.35s; }
+  .badges li:nth-child(3) { animation-delay: 0.45s; }
+  @keyframes slap { from { scale: 1.45; rotate: -14deg; } }
 }
 
-/* Pagination component styling */
-/* max-w-full + flex-wrap: on phones the row (« Prev 1 … 14 15 16 … 18 Next »)
-   was ~470-580px wide and widened every paginated list page; it now wraps
-   onto a second line instead (measured 2026-10-07: 28 pages at 375px). */
-nav[aria-label="Pagination"] {
-  @apply mx-auto w-fit max-w-full bg-[var(--surface-menu)] py-2 px-6 rounded-lg max-[450px]:px-3;
+@media (max-width: 1000px) {
+  .cell { flex-basis: 40%; }
 }
-
-nav[aria-label="Pagination"] ul {
-  @apply flex flex-row flex-wrap justify-center items-center gap-2 m-0 p-0 list-none;
+@media (max-width: 860px) {
+  .hero .wrap, .board .wrap, .foot .wrap { grid-template-columns: minmax(0, 1fr); }
+  .burst { right: 0.9rem; top: -1.4rem; width: 7.25rem; }
+  .burst b { font-size: 1rem; }
+  .nav { font-size: 1.1875rem; }
+  .nav a { padding-inline: 0.65rem; }
+  .cell.feature { grid-template-columns: auto minmax(0, 1fr); padding: var(--cell-pad); }
+  .feature .roundel { width: calc(var(--roundel) * 1.25); }
+  .new { display: none; }
+  .sheet > header .roundel { width: calc(var(--roundel) * 1.15); }
 }
-
-nav[aria-label="Pagination"] li {
-  @apply m-0 p-0;
-}
-
-nav[aria-label="Pagination"] a,
-nav[aria-label="Pagination"] em {
-  @apply px-3 py-1 rounded-[0.25em] no-underline whitespace-nowrap;
-}
-
-nav[aria-label="Pagination"] a:hover {
-  @apply bg-[var(--pager-hover)] text-[var(--text3)];
-}
-
-nav[aria-label="Pagination"] em[aria-current="page"] {
-  @apply bg-[var(--pager-current)] text-[var(--pager-current-text)] not-italic;
-}
-
-/* Links page list styling with AwardStarIcon */
-div.now ul,
-div.uses ul {
-  @apply list-none pl-0;
-}
-div.now li,
-div.uses li {
-  @apply pl-10 relative;
-}
-div.now li::before,
-div.uses li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.25em;
-  width: 1.5rem;
-  height: 1.5rem;
-  background-color: var(--accent-pink);
-  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m12 14.475l1.925 1.15q.275.175.538-.012t.187-.513l-.5-2.175l1.7-1.475q.25-.225.15-.537t-.45-.338l-2.225-.175l-.875-2.075q-.125-.3-.45-.3t-.45.3l-.875 2.075l-2.225.175q-.35.025-.45.338t.15.537l1.7 1.475l-.5 2.175q-.075.325.188.513t.537.012zM8.65 20H6q-.825 0-1.412-.587T4 18v-2.65L2.075 13.4q-.275-.3-.425-.662T1.5 12t.15-.737t.425-.663L4 8.65V6q0-.825.588-1.412T6 4h2.65l1.95-1.925q.3-.275.663-.425T12 1.5t.738.15t.662.425L15.35 4H18q.825 0 1.413.588T20 6v2.65l1.925 1.95q.275.3.425.663t.15.737t-.15.738t-.425.662L20 15.35V18q0 .825-.587 1.413T18 20h-2.65l-1.95 1.925q-.3.275-.662.425T12 22.5t-.737-.15t-.663-.425z'/%3E%3C/svg%3E");
-  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m12 14.475l1.925 1.15q.275.175.538-.012t.187-.513l-.5-2.175l1.7-1.475q.25-.225.15-.537t-.45-.338l-2.225-.175l-.875-2.075q-.125-.3-.45-.3t-.45.3l-.875 2.075l-2.225.175q-.35.025-.45.338t.15.537l1.7 1.475l-.5 2.175q-.075.325.188.513t.537.012zM8.65 20H6q-.825 0-1.412-.587T4 18v-2.65L2.075 13.4q-.275-.3-.425-.662T1.5 12t.15-.737t.425-.663L4 8.65V6q0-.825.588-1.412T6 4h2.65l1.95-1.925q.3-.275.663-.425T12 1.5t.738.15t.662.425L15.35 4H18q.825 0 1.413.588T20 6v2.65l1.925 1.95q.275.3.425.663t.15.737t-.15.738t-.425.662L20 15.35V18q0 .825-.587 1.413T18 20h-2.65l-1.95 1.925q-.3.275-.662.425T12 22.5t-.737-.15t-.663-.425z'/%3E%3C/svg%3E");
-  -webkit-mask-size: contain;
-  mask-size: contain;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-}
-
-section#useful ul,
-section#updates ul {
-  @apply list-none pl-0 ml-1;
-}
-
-section#useful li,
-section#updates li {
-  @apply pl-8 relative;
-}
-section#useful li::before,
-section#updates li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.2em;
-  width: 1.25rem;
-  height: 1.25rem;
-  background-color: var(--accent-pink);
-  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m12 14.475l1.925 1.15q.275.175.538-.012t.187-.513l-.5-2.175l1.7-1.475q.25-.225.15-.537t-.45-.338l-2.225-.175l-.875-2.075q-.125-.3-.45-.3t-.45.3l-.875 2.075l-2.225.175q-.35.025-.45.338t.15.537l1.7 1.475l-.5 2.175q-.075.325.188.513t.537.012zM8.65 20H6q-.825 0-1.412-.587T4 18v-2.65L2.075 13.4q-.275-.3-.425-.662T1.5 12t.15-.737t.425-.663L4 8.65V6q0-.825.588-1.412T6 4h2.65l1.95-1.925q.3-.275.663-.425T12 1.5t.738.15t.662.425L15.35 4H18q.825 0 1.413.588T20 6v2.65l1.925 1.95q.275.3.425.663t.15.737t-.15.738t-.425.662L20 15.35V18q0 .825-.587 1.413T18 20h-2.65l-1.95 1.925q-.3.275-.662.425T12 22.5t-.737-.15t-.663-.425z'/%3E%3C/svg%3E");
-  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m12 14.475l1.925 1.15q.275.175.538-.012t.187-.513l-.5-2.175l1.7-1.475q.25-.225.15-.537t-.45-.338l-2.225-.175l-.875-2.075q-.125-.3-.45-.3t-.45.3l-.875 2.075l-2.225.175q-.35.025-.45.338t.15.537l1.7 1.475l-.5 2.175q-.075.325.188.513t.537.012zM8.65 20H6q-.825 0-1.412-.587T4 18v-2.65L2.075 13.4q-.275-.3-.425-.662T1.5 12t.15-.737t.425-.663L4 8.65V6q0-.825.588-1.412T6 4h2.65l1.95-1.925q.3-.275.663-.425T12 1.5t.738.15t.662.425L15.35 4H18q.825 0 1.413.588T20 6v2.65l1.925 1.95q.275.3.425.663t.15.737t-.15.738t-.425.662L20 15.35V18q0 .825-.587 1.413T18 20h-2.65l-1.95 1.925q-.3.275-.662.425T12 22.5t-.737-.15t-.663-.425z'/%3E%3C/svg%3E");
-  -webkit-mask-size: contain;
-  mask-size: contain;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
+@media (max-width: 640px) {
+  .cell { flex-basis: 100%; }
+  .badges li { width: 8.25rem; }
+  .cell.feature { grid-template-columns: minmax(0, 1fr); }
+  .cell.feature > * { grid-column: 1; }
+  .feature .roundel { grid-row: auto; }
+  .sheet > header { grid-template-columns: minmax(0, 1fr); }
+  .sheet > header .roundel { grid-row: auto; }
+  /* A table wider than the sheet scrolls sideways inside itself instead of
+     widening the page (the Xcode post's command table is 588px wide). */
+  .prose table { display: block; width: fit-content; max-width: 100%; overflow-x: auto; }
 }

@@ -1,23 +1,19 @@
-{# /links — port of astro/src/pages/links.astro #}
+{# /links #}
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block metatitle %}{{ page.title }}{% endblock metatitle %}
 {% block description %}{{ page.description }}{% endblock description %}
+{% block nav %}{{<site_nav here="links" />}}{% endblock nav %}
 {% block main %}
-<article>
-  <h1>{{ page.title }}</h1>
-  <p class="now">{{ page.description }}</p>
-  <div class="text-[0.8em] text-dates font-bold">
-    {{<calendar_icon size="1em" fill="var(--dates)" />}}
-    <time datetime="{{ page.date }}">
-      <a href="/links" class="text-dates">Last updated {{ page.extra.display_modified }}</a>
-    </time>
-  </div>
-  <div>
-    {{<spotlight />}}
-  </div>
-  <div class="now">
-    {{ page.content | safe }}
-  </div>
-</article>
+<div class="wrap">
+  <article class="sheet page-links">
+    <header class="plain"><h1 class="title">{{ page.title }}</h1></header>
+    <div class="prose">
+      <p>{{ page.description }}</p>
+      {{<updated date={page.date} href="/links" text={page.extra.display_modified} />}}
+      {{<spotlight />}}
+      {{ page.content | safe }}
+    </div>
+  </article>
+</div>
 {% endblock main %}

@@ -7,34 +7,13 @@
     <meta name="title" content="{% block metatitle %}{{ config.title }}{% endblock metatitle %}" />
     <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <link
-      rel="preload"
-      href="/fonts/Cartridge/Cartridge-BoldSoft.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-    <link
-      rel="preload"
-      href="/fonts/Cartridge/Cartridge-Regular.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-    <link
-      rel="preload"
-      href="/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-    <link
-      rel="preload"
-      href="/fonts/Mochiy_Pop_One/MochiyPopOne-Regular.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
+    {# The three faces every page draws at once: headings and the menu (Paint
+       Factory), text (Atkinson), and the day number in a date roundel
+       (Rotundo). Mochiy Pop One (the Japanese stickers on the home and About
+       pages) is left to load when it is used. #}
+    <link rel="preload" href="/fonts/Paint-Factory/PaintFactory-Bold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Atkinson-Hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Rotundo/Rotundo-Fat.woff2" as="font" type="font/woff2" crossorigin />
     <link
       rel="alternate"
       type="application/rss+xml"
@@ -43,8 +22,9 @@
     />
     {# Mastodon profile verification (Edit profile → Verification on mastodon.social) #}
     <link rel="me" href="https://mastodon.social/@scottaw" />
-    {# Compiled from css/global.css by the Tailwind standalone binary (build.sh
-       runs Tailwind before zola build, so the hash below is of the fresh CSS).
+    {# Built from css/global.css by the tailwindcss command (build.sh runs it
+       before zola build, so the hash below is of the fresh CSS); the file is
+       plain CSS and the command only bundles and minifies it.
        cachebust appends ?h=<sha256> — the origin/Cloudflare cache CSS for a
        year as immutable, so the URL must change whenever the content does.
        The base_url is stripped so the link is root-relative: get_url makes it
@@ -52,57 +32,48 @@
        dist/ load the LIVE stylesheet, and its /fonts/ URLs then resolved
        cross-origin and failed CORS (observed 2026-10-06). #}
     <link rel="stylesheet" href="{{ get_url(path='css/global.css', cachebust=true) | replace(from=config.base_url, to='') | safe }}" />
-    {# Pagefind v2 component UI (defines <pagefind-searchbox>); the bundle is
-       generated into dist/pagefind/ by the post-build index step. The CSS is
-       NOT auto-injected by the component script — without it results render
-       inline/unstyled instead of as the dropdown. #}
-    <link rel="stylesheet" href="/pagefind/pagefind-component-ui.css" />
-    <script type="module" src="/pagefind/pagefind-component-ui.js"></script>
+    {# Pages with a search box (search.html, 404.html) load Pagefind here. #}
+    {% block head %}{% endblock head %}
   </head>
-  <body
-    class="font-body text-[1.5rem] leading-[1.5] bg-background text-text1 antialiased min-h-screen"
-  >
-    <div
-      class="grid grid-cols-1 grid-rows-[auto_1fr_auto] min-h-screen mx-4 md:mx-8"
-    >
-      <header class="row-start-1">
-        {% include "partials/header.html" %}
-      </header>
-
-      <div
-        class="row-start-2 grid grid-cols-1 justify-items-center gap-2 lg:gap-8 max-w-[1400px] w-full mt-2 lg:mt-8 mx-auto lg:grid-cols-[1fr_3.5fr] lg:justify-items-start"
-      >
-        <main class="px-2 min-w-0 w-full lg:max-w-full lg:order-2 lg:pt-4">
-          {% block main %}{% endblock main %}
-        </main>
-
-        <aside class="py-0 lg:py-4 px-2 max-w-[700px] lg:max-w-none lg:order-1">
-          {% include "partials/sidebar.html" %}
-        </aside>
+  <body>
+    {# data-pagefind-ignore: without it "Skip to content" was indexed as the
+       text of pages that have no other indexed text (a tag's page). #}
+    <a class="skip" href="#main" data-pagefind-ignore>Skip to content</a>
+    <header class="masthead" data-pagefind-ignore="all">
+      <div class="wrap">
+        {% set av = resize_image(path="src/assets/images/saw111.jpg", width=100, op="fit_width", format="webp", quality=80) %}
+        <a class="wordmark" href="/" aria-label="scottwillsey, home">sc<img src="/{{ av.static_path | split(pat="static/") | last }}" width="{{ av.width }}" height="{{ av.height }}" alt="" />ttwillsey</a>
+        {# Each page template says which menu item it belongs to. #}
+        {% block nav %}{{<site_nav />}}{% endblock nav %}
       </div>
+    </header>
 
-      <footer class="row-start-3 text-center">
-        {% include "partials/footer.html" %}
-      </footer>
-      <script src="/scripts/barefoot.min.js"></script>
-      <script>
-        // Selector overrides: Zola's footnote markup uses fn-N ids and
-        // absolute-URL sup links, not the GFM user-content-fn-N defaults.
-        // Zola emits footnote anchors as absolute URLs; barefoot needs bare
-        // fragments (it feeds the href to querySelector). Normalize first.
-        document.querySelectorAll('a[href*="#fn-"], a[href*="#fr-"]').forEach((a) => {
-          const h = a.getAttribute("href");
-          const i = h.indexOf("#");
-          if (i > 0) a.setAttribute("href", h.slice(i));
-        });
-        // supQuery must match both the in-text refs (#fn-N) and the backref
-        // inside each footnote (#fr-N-1) — barefoot reuses it for both.
-        lf = new BareFoot({
-          footnotesQuery: "[id^='fn-']",
-          supQuery: 'a[href^="#fn-"], a[href^="#fr-"]',
-        });
-        lf.init();
-      </script>
-    </div>
+    <main id="main">
+      {% block main %}{% endblock main %}
+    </main>
+
+    <footer class="foot" data-pagefind-ignore="all">
+      {% include "partials/footer.html" %}
+    </footer>
+
+    <script src="/scripts/barefoot.min.js"></script>
+    <script>
+      // Selector overrides: Zola's footnote markup uses fn-N ids and
+      // absolute-URL sup links, not the GFM user-content-fn-N defaults.
+      // Zola emits footnote anchors as absolute URLs; barefoot needs bare
+      // fragments (it feeds the href to querySelector). Normalize first.
+      document.querySelectorAll('a[href*="#fn-"], a[href*="#fr-"]').forEach((a) => {
+        const h = a.getAttribute("href");
+        const i = h.indexOf("#");
+        if (i > 0) a.setAttribute("href", h.slice(i));
+      });
+      // supQuery must match both the in-text refs (#fn-N) and the backref
+      // inside each footnote (#fr-N-1) — barefoot reuses it for both.
+      lf = new BareFoot({
+        footnotesQuery: "[id^='fn-']",
+        supQuery: 'a[href^="#fn-"], a[href^="#fr-"]',
+      });
+      lf.init();
+    </script>
   </body>
 </html>
