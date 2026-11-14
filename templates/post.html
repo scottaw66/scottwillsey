@@ -1,7 +1,16 @@
+{# A single post on its sheet, with the three latest posts under it. #}
 {% extends "base.html" %}
 {% block title %}{{ page.extra.display_title }}{% endblock title %}
 {% block metatitle %}{{ page.extra.display_title }}{% endblock metatitle %}
 {% block description %}{{ page.description }}{% endblock description %}
+{% block nav %}{{<site_nav here="blog" exact={false} />}}{% endblock nav %}
 {% block main %}
-{{<post_article p={page} />}}
+<div class="wrap">
+  {{<post_article p={page} />}}
+</div>
+<section class="more" data-pagefind-ignore="all">
+  <div class="wrap">
+    {{<latest_posts />}}
+  </div>
+</section>
 {% endblock main %}

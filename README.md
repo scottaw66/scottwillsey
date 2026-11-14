@@ -11,6 +11,10 @@ Split license — see [LICENSE](LICENSE) for the exact boundaries:
 - **Code** (templates, build scripts, `tools/` and `hooks/` tooling, site CSS/JS): MIT.
 - **Content** (posts, pages, reviews, photos, artwork, and the content data files): &copy; Scott Willsey, **all rights reserved**. It's in the repo because the site is built from it, not as an invitation to republish it or train on it.
 
+## The look
+
+Since 2026-11-13 the site wears "Chirashi" (チラシ, a sale flyer): yellow ground, navy and red ink, posts and pages on white sheets, red date roundels. All of it is in `css/global.css` (plain CSS; the tokens are at the top) and the class names in `templates/`. The design it was converted from, with its references, the decisions and a tweak-bar version of every page type, is the `scottwillsey` project in `~/Developer/Sites/webdesign-dashboard/designs/`; its `brief.md` is the record. Fonts: Paint Factory (headings), Rotundo (the headline and the day in a date roundel), Atkinson Hyperlegible Next (text), Mochiy Pop One (the Japanese stickers), all in `static/fonts/`.
+
 ## How it works
 
 There is one authoring tree, and it is what Zola reads (since 2026-10-25; before that a YAML `src/` tree was converted into `content/` on every build — see ZOLA-MIGRATION.md).
@@ -21,7 +25,7 @@ There is one authoring tree, and it is what Zola reads (since 2026-10-25; before
 - **`tools/prebuild.py`** (zero-dependency Python, build step 1) refreshes the generated bits in place and never rewrites a hand-authored body: the `[extra]` display fields in every post/read/single (`display_title`, `display_date`, `rfc2822_date`, `display_modified` — Tera v2 can't produce them from `date`/`title`), the markdown list under any `## Contents` heading, the list-page stubs in `content/listpages/` (the only wholly generated files left), `data/changelog.json`, `display_modified` in `data/reviews_meta.json`, and the alttext sort order of `data/reviews/*.json`. It is idempotent and only writes files that actually change. It fails the build if a body still contains Astro-era `![alt](../../assets/images/…)` image syntax outside code.
 - **[Zola](https://www.getzola.org/)** builds the site: Tera v2 templates in `templates/`, taxonomies, pagination, sitemap, section RSS feeds.
 - **`tools/postbuild.py`** post-processes the feeds (absolute URLs, script/style stripping) like ultrahtml used to.
-- **[Tailwind CSS](https://tailwindcss.com/) standalone binary** compiles `css/global.css` → `static/css/global.css` (gitignored).
+- **[Tailwind CSS](https://tailwindcss.com/) standalone binary** turns `css/global.css` into `static/css/global.css` (gitignored). Since the 2026-11-13 redesign `css/global.css` is plain CSS with no Tailwind utilities, in it or in the templates, so the binary only bundles and minifies it.
 - **[Pagefind](https://pagefind.app/)** (official PyPI package, extended build) indexes `dist/` post-build and provides the search UI.
 - **[Barefoot](https://github.com/philgruneich/barefoot)** still does the pop-up footnotes.
 
@@ -41,7 +45,7 @@ There is one authoring tree, and it is what Zola reads (since 2026-10-25; before
 ./dev.sh --drafts     # same, including draft posts
 ```
 
-One command, leave it running. It starts the Zola dev server AND watches `content/`, `data/` and `src/assets`, re-running `tools/prebuild.py` on every save (plus Tailwind in watch mode for template/CSS edits) — so saving a post reloads the browser with its display fields, TOC and list stubs already refreshed, and a newly landed image triggers a rebuild even though Zola doesn't watch `src/assets`. Ctrl-C stops everything.
+One command, leave it running. It starts the Zola dev server AND watches `content/`, `data/` and `src/assets`, re-running `tools/prebuild.py` on every save (plus the CSS step in watch mode for edits to `css/global.css`) — so saving a post reloads the browser with its display fields, TOC and list stubs already refreshed, and a newly landed image triggers a rebuild even though Zola doesn't watch `src/assets`. Ctrl-C stops everything.
 
 Caveats:
 

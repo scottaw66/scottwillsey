@@ -1,166 +1,172 @@
-{# Site-level Tera v2 components ported from astro/src/components/*.astro.
-   Loading this file registers them globally (never rendered directly). #}
+{# Site-level Tera v2 components. Loading this file registers them globally
+   (it is never rendered directly). The class names are the Chirashi look's
+   (2026-11-13 redesign), styled in css/global.css. #}
 
-{# Post.astro + PostTitle.astro: used by the single-post page AND list pages
-   (the blog lists render full post content, not excerpts). display_title and
-   display_date are written into each post's [extra] by tools/prebuild.py
-   (titleCase / postdate ports — Tera v2's title filter and date parsing
-   don't match the JS originals). #}
-{% component post_article(p) %}
-<article>
+{# The main menu. `here` is the item to mark as current ("home", "blog",
+   "links", "now", "reviews", "about", "search", or "" for none); `exact`
+   is false when the page is inside that item rather than the item itself (a
+   post under blog, a review category under reviews). A component can't see
+   the page it is on, so each page template passes these in its own
+   `nav` block (base.html). #}
+{% component site_nav(here = "", exact = true) %}
+<nav class="nav" aria-label="Main">
+  {%- for item in [["home", "/", "home"], ["blog", "/1", "blog"], ["links", "/links", "links"], ["now", "/now", "/now"], ["reviews", "/reviews", "reviews"], ["about", "/about", "about"], ["search", "/search", "search"]] -%}
+    <a href="{{ item[1] }}"{% if here == item[0] %} aria-current="{% if exact %}page{% else %}true{% endif %}"{% endif %}>{{ item[2] }}</a>
+  {%- endfor -%}
+</nav>
+{% endcomponent site_nav %}
+
+{# The red date roundel: month, day and (when `year`) year. The parts come
+   from extra.display_date ("Saturday, 07 Nov 2026"), which tools/prebuild.py
+   writes into every post and read, because Tera v2's date filter can't
+   parse the ISO date in `date`. #}
+{% component roundel(p, year = false) %}
+{%- set d = p.extra.display_date | split(pat=" ") -%}
+<time class="roundel" datetime="{{ p.date }}"><span class="m">{{ d[2] | upper }}</span><span class="d">{{ d[1] }}</span>{% if year %}<span class="y">{{ d[3] }}</span>{% endif %}</time>
+{% endcomponent roundel %}
+
+{# One post as a cell of the flyer grid (home page, under a post, a tag's
+   page). `feature` is the wide first cell on the home page: the roundel
+   gains the year and the cell a NEW! sticker.
+   "describe" is the placeholder description the new-blog-post script writes;
+   a post that still has it shows no description rather than that word. #}
+{% component post_cell(p, feature = false) %}
+<li class="cell{% if feature %} feature{% endif %}">
+  {{<roundel p={p} year={feature} />}}
+  <h3><a href="{{ p.path }}">{% if p.extra?.link %}{{<post_link_icon />}} {% endif %}{{ p.extra.display_title }}</a></h3>
+  {% if p.description and p.description != "describe" %}<p>{{ p.description }}</p>{% endif %}
+  {% if p.taxonomies?.tags %}
+    <div class="tags">{% for tag in p.taxonomies.tags %}<a href="/tags/{{ tag | slugify }}/">#{{ tag }}</a>{% endfor %}</div>
+  {% endif %}
+  {% if feature %}
+    <span class="new" aria-hidden="true"><svg viewBox="0 0 100 100" aria-hidden="true"><polygon points="50.0,1.0 58.7,12.0 71.3,5.9 74.3,19.5 88.3,19.4 85.1,33.1 97.8,39.1 89.0,50.0 97.8,60.9 85.1,66.9 88.3,80.6 74.3,80.5 71.3,94.1 58.7,88.0 50.0,99.0 41.3,88.0 28.7,94.1 25.7,80.5 11.7,80.6 14.9,66.9 2.2,60.9 11.0,50.0 2.2,39.1 14.9,33.1 11.7,19.4 25.7,19.5 28.7,5.9 41.3,12.0"/></svg><b>NEW!</b></span>
+  {% endif %}
+</li>
+{% endcomponent post_cell %}
+
+{# The latest posts as a flyer grid under a heading. On the home page
+   (`feature` true) the newest is the wide feature cell. #}
+{% component latest_posts(post_count = 3, feature = false) %}
+{% set sec = get_section(path="_index.md") %}
+<div class="sale-head"><h2>Latest Posts</h2><a href="/1">Browse all posts</a></div>
+<ol class="flyer">
+  {% for p in sec.pages[:post_count] %}
+    {% if feature and loop.first %}{{<post_cell p={p} feature={true} />}}{% else %}{{<post_cell p={p} />}}{% endif %}
+  {% endfor %}
+</ol>
+{% endcomponent latest_posts %}
+
+{# A whole post on a white sheet: the single-post page (h1 title) and the
+   blog list pages (`list` true: h2 title linking to the post; the lists
+   render full posts, not excerpts). display_title and display_date are
+   written into each post's [extra] by tools/prebuild.py (titleCase /
+   postdate ports; Tera v2's title filter and date parsing don't match the
+   JS originals). A link post's title goes to the linked page. #}
+{% component post_article(p, list = false) %}
+<article class="sheet">
   <header>
-    <h1>
-      {% if p.extra?.link %}
-        <span class="inline-flex items-center">
-          <a href="{{ p.extra.link }}" data-pagefind-ignore class="mr-[0.3em] ml-[-0.1em]">
-            {{<post_link_icon size="1.3em" />}}
-          </a>
-          <a href="{{ p.extra.link }}">{{ p.extra.display_title }}</a>
-        </span>
-      {% else %}
-        <a href="{{ p.permalink }}">{{ p.extra.display_title }}</a>
-      {% endif %}
-    </h1>
-    <div class="text-[0.8em] text-dates font-bold">
-      {{<calendar_icon size="1em" fill="var(--dates)" />}}
-      <time datetime="{{ p.date }}">
-        <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
-      </time>
-    </div>
-    {% if p.extra?.cover %}
-      {% set cov = resize_image(path="src/assets/images/" ~ p.extra.cover, width=950, op="fit_width", format="webp", quality=80) %}
-      <img src="/{{ cov.static_path | split(pat="static/") | last }}" width="{{ cov.width }}" height="{{ cov.height }}" alt="{{ p.extra?.cover_alt or '' }}" loading="lazy" decoding="async" />
+    {{<roundel p={p} year={true} />}}
+    <{% if list %}h2{% else %}h1{% endif %} class="title">
+      {%- if p.extra?.link -%}
+        <a href="{{ p.extra.link }}"><span data-pagefind-ignore>{{<post_link_icon />}}</span>{{ p.extra.display_title }}</a>
+      {%- elif list -%}
+        <a href="{{ p.path }}">{{ p.extra.display_title }}</a>
+      {%- else -%}
+        {{ p.extra.display_title }}
+      {%- endif -%}
+    </{% if list %}h2{% else %}h1{% endif %}>
+    {% if p.taxonomies?.tags %}
+      <div class="meta">{% for tag in p.taxonomies.tags %}<a href="/tags/{{ tag | slugify }}/">#{{ tag }}</a>{% endfor %}</div>
     {% endif %}
   </header>
-  {% if p.extra?.series %}
-    <h3>
-      Part of the <i><a href="/series/{{ p.extra.series | slugify }}/">{{ p.extra.series }}</a></i> series
-    </h3>
-  {% endif %}
-  {{ p.content | safe }}
+  <div class="prose">
+    {% if p.extra?.cover %}
+      {% set cov = resize_image(path="src/assets/images/" ~ p.extra.cover, width=950, op="fit_width", format="webp", quality=80) %}
+      <p><img src="/{{ cov.static_path | split(pat="static/") | last }}" width="{{ cov.width }}" height="{{ cov.height }}" alt="{{ p.extra?.cover_alt or '' }}" loading="lazy" decoding="async" /></p>
+    {% endif %}
+    {% if p.extra?.series %}
+      <h3>
+        Part of the <i><a href="/series/{{ p.extra.series | slugify }}/">{{ p.extra.series }}</a></i> series
+      </h3>
+    {% endif %}
+    {{ p.content | safe }}
+  </div>
 </article>
 {% endcomponent post_article %}
 
-{# Read.astro: reads use the raw title (no titleCase in the original). #}
-{% component read_article(p) %}
-<article>
+{# A Weekly Reads entry on a sheet. Reads use the raw title (no titleCase)
+   and have no tags. #}
+{% component read_article(p, list = false) %}
+<article class="sheet">
   <header>
-    <h1>
-      <a href="{{ p.permalink }}">{{ p.title }}</a>
-    </h1>
-    <div class="text-[0.8em] text-dates font-bold mb-6">
-      {{<calendar_icon size="1em" fill="var(--dates)" />}}
-      <time datetime="{{ p.date }}">
-        <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
-      </time>
-    </div>
+    {{<roundel p={p} year={true} />}}
+    <{% if list %}h2{% else %}h1{% endif %} class="title">
+      {%- if list %}<a href="{{ p.path }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif -%}
+    </{% if list %}h2{% else %}h1{% endif %}>
   </header>
-  {{ p.content | safe }}
+  <div class="prose">
+    {{ p.content | safe }}
+  </div>
 </article>
 {% endcomponent read_article %}
 
-{# LatestPosts.astro #}
-{% component latest_posts(show_background = true, post_count = 5, show_browse_all = true) %}
-{% set sec = get_section(path="_index.md") %}
-<span data-pagefind-ignore="all">
-  <section
-    class="{% if show_background %}bg-surface-menu py-2 px-6{% else %}px-2{% endif %} rounded-2xl text-[0.8em]"
-    aria-label="Blog post list"
-  >
-    <h1 class="text-[1.5rem]">
-      <a href="/1" class="text-hyperlink"><div class="text-hyperlink">Latest Posts</div></a>
-    </h1>
-    {% for p in sec.pages[:post_count] %}
-      <header class="mb-5">
-        <h2 class="font-body text-[1.1rem] my-2">
-          <a href="{{ p.permalink }}" class="text-hyperlink">
-            {% if p.extra?.link %}<span data-pagefind-ignore>{{<post_link_icon size="1em" />}}</span>{% endif %}
-            {{ p.extra.display_title }}
-          </a>
-        </h2>
-        <div class="text-[0.8rem] text-dates font-bold">
-          {{<calendar_icon size="1.1em" fill="var(--dates)" margin="0.25" />}}
-          <time datetime="{{ p.date }}">
-            <a href="{{ p.permalink }}" class="text-dates">{{ p.extra.display_date }}</a>
-          </time>
-        </div>
-      </header>
-    {% endfor %}
-    {% if show_browse_all %}
-      <p class="ml-2 my-0">
-        <a href="/1" class="text-hyperlink text-[0.9em] font-bold">Browse all posts</a>
-      </p>
-    {% endif %}
-  </section>
-</span>
-{% endcomponent latest_posts %}
+{# "Last updated …" under a page's title. `text` is the display_modified
+   string tools/prebuild.py writes. #}
+{% component updated(date, href, text) %}
+<div class="updated">
+  {{<calendar_icon />}}
+  <time datetime="{{ date }}"><a href="{{ href }}">Last updated {{ text }}</a></time>
+</div>
+{% endcomponent updated %}
 
-{# Spotlight.astro (Cool Site Spotlight on /links): data/spotlight.json is
-   the source file the Cool Site Spotlight script writes (no generated copy
-   since 2026-10-25); image gets 1x/2x/3x srcset like Astro's
-   <Image densities={[2,3]}>. #}
+{# Cool Site Spotlight on /links: data/spotlight.json is the source file the
+   Cool Site Spotlight script writes (no generated copy since 2026-10-25);
+   the image gets a 1x/2x/3x srcset. The heading keeps its id: Recent
+   Updates links to /links#CoolSiteSpotlight. #}
 {% component spotlight() %}
 {% set sp = load_data(path="data/spotlight.json") %}
 {% set img_path = "src/assets/images/posts/" ~ sp.Image ~ ".png" %}
 {% set p1 = resize_image(path=img_path, width=300, op="fit_width", format="webp", quality=80) %}
 {% set p2 = resize_image(path=img_path, width=600, op="fit_width", format="webp", quality=80) %}
 {% set p3 = resize_image(path=img_path, width=900, op="fit_width", format="webp", quality=80) %}
-<div
-  class="bg-[var(--surface-menu)] my-12 px-8 py-2 border border-[var(--brand)] rounded-lg max-[500px]:px-4"
->
-  <h1 id="CoolSiteSpotlight" class="mx-1 my-10">Cool Site Spotlight</h1>
-  <div
-    class="flex flex-row items-center gap-8 max-[799px]:flex-col max-[799px]:px-2 max-[799px]:gap-0"
-  >
-    <div class="shrink-0">
+<div class="spotlight">
+  <h1 id="CoolSiteSpotlight">Cool Site Spotlight</h1>
+  <div class="spotlight-site">
+    <div>
       <a href="{{ sp.Site }}">
         <img src="/{{ p1.static_path | split(pat="static/") | last }}" srcset="/{{ p2.static_path | split(pat="static/") | last }} 2x, /{{ p3.static_path | split(pat="static/") | last }} 3x" width="{{ p1.width }}" height="{{ p1.height }}" alt="{{ sp.Title }}" loading="lazy" decoding="async" />
       </a>
     </div>
-    <div class="flex-1 min-w-0 max-[500px]:text-[1rem]">
-      <h2>
-        <a href="{{ sp.Site }}" class="text-[var(--hyperlink)]">{{ sp.Title }}</a>
-      </h2>
+    <div>
+      <h2><a href="{{ sp.Site }}">{{ sp.Title }}</a></h2>
       <p>{{ sp.Description | replace(from="\n", to="<br />") | safe }}</p>
-      <p>
-        <a href="{{ sp.Site }}">{{<globe_asia_icon fill="var(--hyperlink)" />}}</a>
-        <a href="{{ sp.Site }}" class="text-[var(--hyperlink)]">{{ sp.Site }}</a>
-      </p>
+      <p>{{<globe_asia_icon />}} <a href="{{ sp.Site }}">{{ sp.Site }}</a></p>
     </div>
   </div>
-  <div>
-    <a
-      href="/links#cool-sites-archive"
-      class="inline-block text-[0.8em] italic text-[var(--brand)] ml-12 mb-8"
-      >Cool Sites Archive</a
-    >
-  </div>
+  <p class="spotlight-archive"><a href="/links#cool-sites-archive">Cool Sites Archive</a></p>
 </div>
 {% endcomponent spotlight %}
 
-{# TagCloud.astro: tags sorted by post count descending, top display_number
-   shown, trailing "All Tags …" link unless showing everything. #}
+{# Tags as a cloud of chips, sorted by post count descending; the top
+   display_number are shown, with a trailing "All Tags …" link unless
+   showing everything. #}
 {% component tag_cloud(show_count = true, display_number = 999) %}
 {% set tags = get_taxonomy(kind="tags") %}
-<span class="flex justify-center flex-wrap gap-[0.4rem]">
+<div class="tag-cloud">
   {% for term in tags.items | sort(attribute="page_count") | reverse %}
     {% if loop.index <= display_number %}
-      <a
-        class="px-2 py-1 rounded border text-base uppercase no-underline [background-color:var(--tag-bg)] [color:var(--tag-text)] [border-color:var(--hyperlink)] hover:[background-color:var(--tag-bg-hover)] hover:[color:var(--tag-text-hover)]"
-        href="{{ term.path }}"
-      >
-        {{ term.name }}{% if show_count %} ({{ term.page_count }}){% endif %}
-      </a>
+      <a href="{{ term.path }}">#{{ term.name }}{% if show_count %} ({{ term.page_count }}){% endif %}</a>
     {% endif %}
   {% endfor %}
   {% if display_number < 999 %}
-    <a class="px-2 py-1 rounded border text-base uppercase no-underline [background-color:var(--tag-bg)] [color:var(--tag-text)] [border-color:var(--hyperlink)] hover:[background-color:var(--tag-bg-hover)] hover:[color:var(--tag-text-hover)]" href="/tags/">All Tags ...</a>
+    <a href="/tags/">All Tags …</a>
   {% endif %}
-</span>
+</div>
 {% endcomponent tag_cloud %}
 
-{# @philnash/astro-pagination port: windowSize 3, markup matched against the
-   Astro build output (nav/ul/li, previous-page/number/end-ellipsis classes). #}
+{# Page numbers under a list: a window of three around the current page,
+   with the first and last always shown (port of @philnash/astro-pagination,
+   windowSize 3). #}
 {% component page_nav(current, total, base) %}
 {% if total > 1 %}
 <nav role="navigation" aria-label="Pagination"><ul>

@@ -1,7 +1,10 @@
+{# A single Weekly Reads entry. #}
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block metatitle %}{{ page.title }}{% endblock metatitle %}
 {% block description %}{{ page.description }}{% endblock description %}
 {% block main %}
-{{<read_article p={page} />}}
+<div class="wrap">
+  {{<read_article p={page} />}}
+</div>
 {% endblock main %}

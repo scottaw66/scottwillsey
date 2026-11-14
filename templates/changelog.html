@@ -1,13 +1,15 @@
-{# /changelog — port of astro/src/pages/changelog.astro #}
+{# /changelog #}
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block metatitle %}{{ page.title }}{% endblock metatitle %}
 {% block description %}{{ page.description }}{% endblock description %}
 {% block main %}
-<article>
-  <h1>{{ page.title }}</h1>
-  <div class="change">
-    {{ page.content | safe }}
-  </div>
-</article>
+<div class="wrap">
+  <article class="sheet page-changelog">
+    <header class="plain"><h1 class="title">{{ page.title }}</h1></header>
+    <div class="prose">
+      {{ page.content | safe }}
+    </div>
+  </article>
+</div>
 {% endblock main %}

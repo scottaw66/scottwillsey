@@ -30,9 +30,11 @@ smart_punctuation = true
 # Zola 0.23 adds rel="external" to external links by default; the Astro build didn't.
 external_links_external = false
 
-# Site is dark-mode only (per Scott, 2026-08-07) — one theme, no switcher.
+# One theme, no switcher. The site itself is light since the 2026-11-13
+# redesign (yellow ground, white sheets), but code blocks are still dark:
+# css/global.css puts them on navy and keeps this theme's token colours, so
+# the theme has to be one made for a dark background.
 [markdown.highlighting]
-# Final dark theme chosen in Phase 6 (approximating expressive-code); placeholder for now.
 theme = "monokai"
 
 [extra]
