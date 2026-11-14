@@ -13,7 +13,7 @@ Split license — see [LICENSE](LICENSE) for the exact boundaries:
 
 ## The look
 
-Since 2026-11-13 the site wears "Chirashi" (チラシ, a sale flyer): yellow ground, navy and red ink, posts and pages on white sheets, red date roundels. All of it is in `css/global.css` (plain CSS; the tokens are at the top) and the class names in `templates/`. The design it was converted from, with its references, the decisions and a tweak-bar version of every page type, is the `scottwillsey` project in `~/Developer/Sites/webdesign-dashboard/designs/`; its `brief.md` is the record. Fonts: Paint Factory (headings), Rotundo (the headline and the day in a date roundel), Atkinson Hyperlegible Next (text), Mochiy Pop One (the Japanese stickers), all in `static/fonts/`.
+Since 2026-11-13 the site wears "Chirashi" (チラシ, a sale flyer): yellow ground, navy and red ink, posts and pages on white sheets, red date roundels. All of it is in `static/css/global.css` (plain CSS, served as written; the tokens are at the top) and the class names in `templates/`. The design it was converted from, with its references, the decisions and a tweak-bar version of every page type, is the `scottwillsey` project in `~/Developer/Sites/webdesign-dashboard/designs/`; its `brief.md` is the record. Fonts: Paint Factory (headings), Rotundo (the headline and the day in a date roundel), Atkinson Hyperlegible Next (text), Mochiy Pop One (the Japanese stickers), all in `static/fonts/`.
 
 ## How it works
 
@@ -25,14 +25,14 @@ There is one authoring tree, and it is what Zola reads (since 2026-10-25; before
 - **`tools/prebuild.py`** (zero-dependency Python, build step 1) refreshes the generated bits in place and never rewrites a hand-authored body: the `[extra]` display fields in every post/read/single (`display_title`, `display_date`, `rfc2822_date`, `display_modified` — Tera v2 can't produce them from `date`/`title`), the markdown list under any `## Contents` heading, the list-page stubs in `content/listpages/` (the only wholly generated files left), `data/changelog.json`, `display_modified` in `data/reviews_meta.json`, and the alttext sort order of `data/reviews/*.json`. It is idempotent and only writes files that actually change. It fails the build if a body still contains Astro-era `![alt](../../assets/images/…)` image syntax outside code.
 - **[Zola](https://www.getzola.org/)** builds the site: Tera v2 templates in `templates/`, taxonomies, pagination, sitemap, section RSS feeds.
 - **`tools/postbuild.py`** post-processes the feeds (absolute URLs, script/style stripping) like ultrahtml used to.
-- **[Tailwind CSS](https://tailwindcss.com/) standalone binary** turns `css/global.css` into `static/css/global.css` (gitignored). Since the 2026-11-13 redesign `css/global.css` is plain CSS with no Tailwind utilities, in it or in the templates, so the binary only bundles and minifies it.
+- **CSS** is one hand-written file, `static/css/global.css`, which Zola copies as it is. There is no CSS build step: Tailwind was removed on 2026-11-14, after the 2026-11-13 redesign left no Tailwind utilities in the CSS or the templates.
 - **[Pagefind](https://pagefind.app/)** (official PyPI package, extended build) indexes `dist/` post-build and provides the search UI.
 - **[Barefoot](https://github.com/philgruneich/barefoot)** still does the pop-up footnotes.
 
 ## Building
 
 ```bash
-./build.sh    # prebuild → tailwind → zola → postbuild → pagefind
+./build.sh    # prebuild → zola → postbuild → pagefind
 ./deploy.sh   # build.sh + rsync deploy (update-site.sh)
 ```
 
@@ -45,7 +45,7 @@ There is one authoring tree, and it is what Zola reads (since 2026-10-25; before
 ./dev.sh --drafts     # same, including draft posts
 ```
 
-One command, leave it running. It starts the Zola dev server AND watches `content/`, `data/` and `src/assets`, re-running `tools/prebuild.py` on every save (plus the CSS step in watch mode for edits to `css/global.css`) — so saving a post reloads the browser with its display fields, TOC and list stubs already refreshed, and a newly landed image triggers a rebuild even though Zola doesn't watch `src/assets`. Ctrl-C stops everything.
+One command, leave it running. It starts the Zola dev server AND watches `content/`, `data/` and `src/assets`, re-running `tools/prebuild.py` on every save — so saving a post reloads the browser with its display fields, TOC and list stubs already refreshed, and a newly landed image triggers a rebuild even though Zola doesn't watch `src/assets`. Ctrl-C stops everything.
 
 Caveats:
 
@@ -63,11 +63,11 @@ Ctrl-C stops it. No live reload — re-run it after changes (or use `./dev.sh` w
 ## One-time setup on a fresh clone
 
 ```bash
-brew install zola tailwindcss
+brew install zola
 uv venv --python /opt/homebrew/bin/python3 .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
 ./hooks/install.sh   # pre-commit hook: date bumps, Recent Updates, prebuild in the same commit
 ```
 
-Updating the toolchain: `brew upgrade zola tailwindcss` and `uv pip install --python .venv/bin/python -U "pagefind[extended]"`. That's the entire supply chain.
+Updating the toolchain: `brew upgrade zola` and `uv pip install --python .venv/bin/python -U "pagefind[extended]"`. That's the entire supply chain.
 
 _All content &copy; 2022&ndash;2026 by Scott Willsey_

@@ -283,7 +283,10 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 - [x] **Tailwind kept** via standalone binary (brew `tailwindcss` 4.3.3):
       source `css/global.css`, compiled output `static/css/global.css`
       (gitignored). Build order: `tailwindcss -i css/global.css -o
-      static/css/global.css --minify` then `zola build`
+      static/css/global.css --minify` then `zola build`.
+      **Removed 2026-11-14:** the 2026-11-13 redesign left no Tailwind
+      utilities, so `static/css/global.css` is now the hand-written source,
+      tracked and served as written; there is no CSS build step.
 - [x] `global.css` ported verbatim — it was already dark-only (no
       `[data-theme]` blocks remained in the Astro source)
 - [x] Single pages: /links (Spotlight + srcset), /now, /uses (3 hero images

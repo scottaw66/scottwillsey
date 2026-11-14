@@ -1,5 +1,5 @@
 #!/bin/bash
-# Production preview: full build (prebuild → tailwind → zola → postbuild →
+# Production preview: full build (prebuild → zola → postbuild →
 # pagefind), then serve the real dist/ — search works, feeds post-processed;
 # exactly what production will get. Serves on the first free port at/above
 # 1818 — the port is checked at startup so previews of several sites can run
@@ -22,7 +22,6 @@ kill_mine() {
 }
 kill_mine "python3 -m http.server"
 kill_mine "zola serve"
-kill_mine "tailwindcss -i css/global.css.*--watch"
 kill_mine "bash.*(dev|preview)\.sh"
 
 ./build.sh

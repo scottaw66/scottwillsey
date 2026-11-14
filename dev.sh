@@ -9,10 +9,11 @@
 #     anything in content/, data/ or src/assets changes — it refreshes the
 #     generated stubs, display dates/titles and data/*.json so a saved edit
 #     shows up complete (zola serve itself only sees the raw file change)
-#   - tailwindcss --watch=always, rebuilding static/css/global.css when
-#     css/global.css is edited (plain CSS since the 2026-11-13 redesign; the
-#     command only bundles and minifies it)
-#   - zola serve (foreground)
+#   - zola serve (foreground). It also watches static/, so an edit to
+#     static/css/global.css reloads the page (checked 2026-11-14: "Static
+#     file changed" in zola's log, and the edit was served); there is no
+#     CSS build step
+#     (the tailwindcss watcher was removed 2026-11-14)
 
 set -e
 cd "$(dirname "$0")"
@@ -32,13 +33,11 @@ kill_mine() {
 }
 kill_mine "python3 -m http.server"
 kill_mine "zola serve"
-kill_mine "tailwindcss -i css/global.css.*--watch"
 kill_mine "bash.*(dev|preview)\.sh"
 
 /opt/homebrew/bin/python3 tools/prebuild.py
-tailwindcss -i css/global.css -o static/css/global.css
 
-# Everything (zola, tailwind, watcher) runs as a job; on ANY exit path —
+# Everything (zola, the prebuild watcher) runs as a job; on ANY exit path —
 # Ctrl-C, TERM, terminal closing, zola crashing — kill all jobs so nothing
 # is left running. (Verified 2026-08-07: a plain foreground zola + EXIT trap
 # orphans zola when the script is signaled directly rather than via the
@@ -47,12 +46,6 @@ cleanup() { kill $(jobs -p) 2>/dev/null; }
 trap 'cleanup; exit 130' INT
 trap 'cleanup; exit 143' TERM
 trap cleanup EXIT
-
-# --watch=always, not --watch: a script's background jobs get stdin from
-# /dev/null, and Tailwind v4's plain --watch exits as soon as stdin closes —
-# so the watcher died instantly and CSS edits never recompiled (verified
-# 2026-10-07 with v4.3.3). The cleanup trap above still stops it on exit.
-tailwindcss -i css/global.css -o static/css/global.css --watch=always >/dev/null 2>&1 &
 
 # Poll content/, data/ and src/assets once a second; on any change, re-run
 # prebuild (it takes well under a second). The stamp file lives outside the

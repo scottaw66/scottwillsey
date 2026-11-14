@@ -1,6 +1,6 @@
 +++
 title = "MikanRemote Utilities"
-description = "describe"
+description = "MikanRemote gets a utilities screen: take a screenshot, or open a URL on your Mac."
 date = 2026-05-27T00:10:00-08:00
 slug = "mikanremote-utilities"
 [taxonomies]

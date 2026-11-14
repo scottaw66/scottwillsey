@@ -5,10 +5,11 @@
    (brief.md; final/chirashi.css is the same look with every value on a
    tweak bar).
 
-   This is plain CSS: no Tailwind utilities are used here or in the
-   templates since the redesign. build.sh and dev.sh still run it through the
-   tailwindcss command, which now only bundles and minifies it into
-   static/css/global.css.
+   This is plain CSS and it is the file the site serves: Zola copies static/
+   as it is, so there is no CSS build step and these comments are public.
+   (Until 2026-11-14 the source was css/global.css and the tailwindcss
+   command built this file from it; the redesign left no Tailwind utilities
+   to build, and Scott had the step removed.)
 
    Two rules hold everywhere:
    - Red on the yellow ground is about 3.1:1, so red there is a fill or large

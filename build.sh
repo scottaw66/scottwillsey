@@ -2,14 +2,14 @@
 # Build scottwillsey.com (no deploy — use deploy.sh for that).
 #
 # Pipeline: prebuild (refresh generated stubs/data/display fields from the
-# single authoring tree content/ + data/) → CSS → zola build → feed
+# single authoring tree content/ + data/) → zola build → feed
 # postprocessing → Pagefind index. See ZOLA-MIGRATION.md.
-# The CSS step is the tailwindcss command, but css/global.css is plain CSS
-# since the 2026-11-13 redesign (no Tailwind utilities in it or in the
-# templates), so the command only bundles and minifies it.
+# There is no CSS step: static/css/global.css is plain CSS that Zola copies
+# as written (the tailwindcss step was removed 2026-11-14, after the redesign
+# left no Tailwind utilities to build).
 #
 # One-time setup on a fresh clone:
-#   brew install zola tailwindcss
+#   brew install zola
 #   uv venv --python /opt/homebrew/bin/python3 .venv && uv pip install --python .venv/bin/python "pagefind[extended]"
 
 set -e
@@ -32,7 +32,6 @@ rm -rf .dist-trash-* 2>/dev/null || true
 if [ -d dist ]; then mv dist ".dist-trash-$$"; fi
 
 /opt/homebrew/bin/python3 tools/prebuild.py
-tailwindcss -i css/global.css -o static/css/global.css --minify
 zola build --force
 /opt/homebrew/bin/python3 tools/postbuild.py
 .venv/bin/python -m pagefind --site dist

@@ -22,9 +22,7 @@
     />
     {# Mastodon profile verification (Edit profile → Verification on mastodon.social) #}
     <link rel="me" href="https://mastodon.social/@scottaw" />
-    {# Built from css/global.css by the tailwindcss command (build.sh runs it
-       before zola build, so the hash below is of the fresh CSS); the file is
-       plain CSS and the command only bundles and minifies it.
+    {# static/css/global.css, served as written (no CSS build step).
        cachebust appends ?h=<sha256> — the origin/Cloudflare cache CSS for a
        year as immutable, so the URL must change whenever the content does.
        The base_url is stripped so the link is root-relative: get_url makes it

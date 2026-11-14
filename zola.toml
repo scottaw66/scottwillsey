@@ -32,7 +32,7 @@ external_links_external = false
 
 # One theme, no switcher. The site itself is light since the 2026-11-13
 # redesign (yellow ground, white sheets), but code blocks are still dark:
-# css/global.css puts them on navy and keeps this theme's token colours, so
+# static/css/global.css puts them on navy and keeps this theme's token colours, so
 # the theme has to be one made for a dark background.
 [markdown.highlighting]
 theme = "monokai"
