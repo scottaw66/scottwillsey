@@ -1,8 +1,6 @@
 # A missing page gets the site's own 404 page (templates/404.html) instead of
 # Apache's plain "Not Found". Added 2026-11-14: the live site was serving the
-# Apache default. Friends with Brews has had the same line in its
-# static/.htaccess, and its live 404 uses its own page, so the server honours
-# it there; that this site's host allows it too is expected, not yet seen.
-# If the site ever answers 500 right after a deploy, this file is the first
-# suspect: remove it and deploy again.
+# Apache default. Checked on the live site after that day's deploy: a missing
+# address returns 404 with the site's page, and every other page still
+# answers 200, so this host honours the line.
 ErrorDocument 404 /404.html
