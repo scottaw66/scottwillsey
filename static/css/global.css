@@ -31,6 +31,7 @@
   color-scheme: light;
   --yellow: #ffcf1a;
   --yellow-pale: #fff3b8;
+  --yellow-light: #fff8d8; /* the home page's post grid: --yellow-pale mixed 55/45 with white */
   --navy: #161f5c;
   --red: #e02d16;
   --blue: #1f44e0;
@@ -119,6 +120,12 @@ main { flex: 1; }
 .flyer { display: flex; flex-wrap: wrap; gap: var(--rule); margin: 0; padding: 0; overflow: hidden; border: var(--rule) solid var(--navy); border-radius: var(--radius); background: var(--navy); list-style: none; }
 .cell { flex: 1 1 30%; min-width: 0; display: grid; grid-template-columns: auto minmax(0, 1fr); align-content: start; gap: 0.3rem 1.1rem; padding: var(--cell-pad); background: var(--white); }
 .cell > :not(.roundel) { grid-column: 2; }
+/* On the home page only, the cells are a light yellow: Scott asked for the
+   pale yellow the menu buttons turn when pointed at, "or maybe very slightly
+   lighter, but not pure white" (2026-11-14), so --yellow-light is a step
+   lighter than --yellow-pale. The grids under a post and on a tag's page
+   stay white. */
+.latest .cell { background: var(--yellow-light); }
 /* The roundel is a link to the post (its permalink); the <time> inside it
    is display: contents so the three parts stay the roundel's own grid items. */
 .roundel { grid-row: 1 / span 3; display: grid; place-content: center; width: var(--roundel); aspect-ratio: 1; border-radius: 50%; background: var(--red); color: var(--white); line-height: 1; text-align: center; text-decoration: none; transition: transform 0.4s var(--ease); }
