@@ -8,6 +8,18 @@ template = "changelog.html"
 display_modified = "Monday, 04 Mar 2024 20:00:41"
 +++
 
+### 2026-11-13
+
+Entirely new web design, ditching the Atari theme and going with something closer to the [BlueDragonfly](https://dragonfly.blue/) theme in color palette.
+
+Here it is!!
+
+[{{<img src="posts/sw-new-home-5a0cad3a-ee86-4bb9-827f-387cc4062e0b.png" alt="sw-new-home" />}}](/images/posts/sw-new-home-5a0cad3a-ee86-4bb9-827f-387cc4062e0b.jpg)
+
+[{{<img src="posts/sw-new-now-5a0cad3a-ee86-4bb9-827f-387cc4062e0b.png" alt="sw-new-now" />}}](/images/posts/sw-new-now-5a0cad3a-ee86-4bb9-827f-387cc4062e0b.jpg)
+
+[{{<img src="posts/sw-new-post-5a0cad3a-ee86-4bb9-827f-387cc4062e0b.png" alt="sw-new-post" />}}](/images/posts/sw-new-post-5a0cad3a-ee86-4bb9-827f-387cc4062e0b.jpg)
+
 ### 2026-11-07
 
 Lots of site script updates. Auto-tagging, better title handling, running the scripts in Safari from my Brain Control dashboard, and much more. I'm building a system here!

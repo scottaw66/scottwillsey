@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-11-07T00:11:45-08:00
+date = 2026-11-15T00:06:09-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Saturday, 07 Nov 2026 00:11:45"
+display_modified = "Sunday, 15 Nov 2026 00:06:09"
 +++
 
 ## Contents
@@ -255,9 +255,6 @@ Carlo posts links! And who doesn't love links??
 **[Cassidy's blog](https://blog.cassidoo.co/)**  
 Cassidy Williams does great work in the web world. She's a great web advocate.  
 
-**[Cassie Evans's Blog](https://www.cassie.codes/)**  
-Cassie Evans has some amazing design sensibility, and she's one of the people putting the fun back into the web in a delightful way.  
-
 **[Chamline](https://www.chamline.net/)**  
 Habib Cham is one of the nicest people you'll meet on the socials, and he's always got thoughts about tech, sports, and life. The world needs more people like him.
 
@@ -339,9 +336,6 @@ This is some crazy brain food that I probably won't understand most of.
 **[Hey, it's Jason! // Welcome!](https://grepjason.sh/)**  
 Jason is a [Hemispheric Views](https://hemisphericviews.com) guy, a Portlander, *and* he's got a really, really nice looking website.  
 
-**[jarunmb.com](https://jarunmb.com/)**  
-Michael has a beautiful site and shares a lot of the same interests as me. I should have found this site sooner!
-
 **[Hugo's Blog](https://hugo.blog/)**  
 Hugo is apparently a Meta Quest guy and he just wrote an encyclopedia-sized article on the Apple Vision Pro. I hope not every blog post he does is that long, but it's a fascinating read anyway.
 
@@ -407,9 +401,6 @@ Wendy Grossman writes about computers, freedom, and privacy.
 
 **[Notes · Matthias Ott – User Experience Designer](https://matthiasott.com/notes)**  
 Web, Mac, and more.  
-
-**[Notes and Ramblings](https://notes.1705.net/)**  
-See the notes for EuroVan Camper Stuff above - it's David H!  
 
 **[Paul Stamatiou](https://paulstamatiou.com/)**  
 Paul writes about design, code, startups, and anything that interests him.  
@@ -490,10 +481,7 @@ I think a lot of people know of Andy Baio, but I'll admit I wasn't reading his b
 This is another one where the design immediately hooked me. Sara's site has it in spades. Beautiful!
 
 **[Ye Olde Blogroll - Blogroll.org](https://blogroll.org/)**  
-It's not a blog, it's not a roll, it's a BLOGROLL!!!  
-
-**[You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)**  
-The blog is currently a lot about web programming, but there's all kinds of other stuff on this site too, and I really love the unique design.  
+It's not a blog, it's not a roll, it's a BLOGROLL!!!
 
 **[Your Intermittent Lex](https://lexfriedman.com/newsletter/)**  
 Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](https://lex.games/)!
@@ -674,6 +662,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Small Seasons](https://smallseasons.guide/)
 - [Socket - Block zero-day supply chain attacks](https://socket.dev)
 - [SPACE TYPE GENERATOR](https://spacetypegenerator.com)
+- [Spawn: Your Place to Make Games with Friends](https://www.spawn.co)
 - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 - [Starring the Computer – Computers in Movies and Television](https://starringthecomputer.com)
 - [STREET JITSU RETRO](https://streetjitsuretro.com)
@@ -1144,6 +1133,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Computer History Museum](https://www.youtube.com/@ComputerHistory)
 - [Core Memory](https://www.youtube.com/@CoreMemoryVideos)
 - [Crime Junkie](https://www.youtube.com/@CrimeJunkie)
+- [Dan Debriefs](https://www.youtube.com/@dandebriefs)
 - [Dan Grib](https://www.youtube.com/@DanGrib)
 - [Daniel Pink](https://www.youtube.com/@danielpinktv)
 - [Daring Fireball](https://www.youtube.com/@daringfireball)
@@ -1156,7 +1146,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [DIY Japan](https://www.youtube.com/@DIYJapan)
 - [Doug DeMuro](https://www.youtube.com/@DougDeMuro)
 - [Driver61](https://www.youtube.com/@Driver61)
-- [Duncan Rogoff | Learn Claude Code](https://www.youtube.com/@duncanrogoff)
 - [DxO - For the passionate photographer.](https://www.youtube.com/@DxOLabs)
 - [Dylan Davis](https://www.youtube.com/@dylandavisAI)
 - [Early Retirement Roadmap](https://www.youtube.com/@EarlyRetirementRoadmap)
@@ -1167,6 +1156,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [FEMA Hiester](https://www.youtube.com/@femahiester)
 - [fern](https://www.youtube.com/@fern-tv)
 - [Finding Gina Marie – Travel the World](https://www.youtube.com/@FindingGinaMarie)
+- [Flying for Money](https://www.youtube.com/@flyingformoney777)
 - [FNNプライムオンライン](https://www.youtube.com/@FNNnewsCH)
 - [FORGOTTEN HISTORY](https://www.youtube.com/@FORGOTTENHISTORYCHANNEL)
 - [FORMULA 1](https://www.youtube.com/@Formula1)
@@ -1223,6 +1213,8 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Learn Korean with GO! Billy Korean](https://www.youtube.com/@GoBillyKorean)
 - [Leslie Hanna](https://www.youtube.com/@LeslieDriven)
 - [Lewis Hamilton](https://www.youtube.com/@lewishamilton)
+- [Life Music And Everything Else](https://www.youtube.com/@lifemusicandeverythingelse4048)
+- [Listen In Colour with Rachel Walker Mason](https://www.youtube.com/@Listenincolourwithrachel)
 - [Local Japan Travelers](https://www.youtube.com/@LocalJapanTravelers)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
@@ -1283,7 +1275,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Ron](https://www.youtube.com/@Ron-RisingSunProperties)
 - [Sam and Victor](https://www.youtube.com/@SamandVictor)
 - [Sam Demma](https://www.youtube.com/@Sam_Demma)
-- [Samurai Daddy](https://www.youtube.com/@samurai-daddy)
 - [Sayuri Saying](https://www.youtube.com/@SayuriSaying)
 - [Scott Yu-Jan](https://www.youtube.com/@ScottYuJan)
 - [Sean Dalton](https://www.youtube.com/@seandalt)
@@ -1307,6 +1298,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Sol Life](https://www.youtube.com/@SolLife_)
 - [Speak About Digital](https://www.youtube.com/@SpeakAboutDigital)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
+- [Srcerer](https://www.youtube.com/@srcerer)
 - [Stephanie Harlowe](https://www.youtube.com/@StephanieHarlowe)
 - [Steve | Call to Leap](https://www.youtube.com/@CalltoLeap)
 - [stillyoung](https://www.youtube.com/@young.traveler)
@@ -1331,7 +1323,9 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [The Unretirees](https://www.youtube.com/@TheUnretirees)
 - [Theo - t3․gg](https://www.youtube.com/@theo)
 - [thesecretsofcats](https://www.youtube.com/@thesecretsofcats)
+- [Thu Vu](https://www.youtube.com/@Thuvu5)
 - [TIFFYCOOKS](https://www.youtube.com/@tiffyycooks)
+- [Tim Pan](https://www.youtube.com/@MediaStorm_en)
 - [Timing for Mac](https://www.youtube.com/@timingapp)
 - [TK-42Greg](https://www.youtube.com/@TK42Greg.Outpost)
 - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
