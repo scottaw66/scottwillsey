@@ -8,3 +8,26 @@
 <div class="search-component">
   <pagefind-searchbox class="pagefind-ui"><pagefind-config bundle-path="/pagefind/"></pagefind-config></pagefind-searchbox>
 </div>
+<script>
+  // Let the results panel run down to the bottom of the window instead of
+  // stopping at Pagefind's fixed 320px (--pf-searchbox-dropdown-max-height,
+  // set on :root in pagefind-component-ui.css, read 2026-11-25). Scott,
+  // 2026-11-25: on a tall window the panel showed four results and had to be
+  // scrolled although the window had room for many more. The panel never gets
+  // shorter than Pagefind's 320px, so near the bottom of a small window it
+  // behaves as before. On phones Pagefind also caps it at 60vh, which stays.
+  // Recomputed whenever the box is used, the window resizes or the page scrolls.
+  (() => {
+    const box = document.currentScript.previousElementSibling.querySelector("pagefind-searchbox");
+    const fit = () => {
+      const input = box.querySelector(".pf-searchbox-input");
+      if (!input) return;
+      const room = window.innerHeight - input.getBoundingClientRect().bottom - 24;
+      box.style.setProperty("--pf-searchbox-dropdown-max-height", Math.max(320, Math.floor(room)) + "px");
+    };
+    box.addEventListener("focusin", fit);
+    box.addEventListener("input", fit);
+    addEventListener("resize", fit);
+    addEventListener("scroll", fit, { passive: true });
+  })();
+</script>
