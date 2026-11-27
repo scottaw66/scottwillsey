@@ -35,13 +35,22 @@
 <section class="board" data-pagefind-ignore="all">
   <div class="wrap">
     <div>
-      {# The entries are preprocessed into data/changelog.json by
-         tools/prebuild.py (markdown parsing is easier in Python). #}
-      {% set changelog = load_data(path="data/changelog.json") %}
+      {# The newest three entries, read straight from the changelog page
+         (content/pages/changelog.md, the only changelog file since
+         2026-11-27; before that tools/prebuild.py copied them into
+         data/changelog.json, an Astro-era leftover). The page's rendered HTML
+         is cut at each <h3>: an entry is its "### YYYY-MM-DD" heading and
+         everything up to the next one. Screenshots in an entry are hidden on
+         the board by css (.changelog p:has(img)). #}
+      {% set changelog = get_page(path="pages/changelog.md") %}
       <h2><a href="/changelog">Code Changelog</a></h2>
       <ul class="changelog">
-        {% for e in changelog.entries %}
-          <li><time datetime="{{ e.date }}">{{ e.date }}</time>{{ e.html | safe }}</li>
+        {% set pieces = changelog.content | split(pat="<h3") %}
+        {% for entry in pieces[1:4] %}
+          {# entry: ' id="2026-11-27">2026-11-27</h3>' then the entry's HTML #}
+          {% set parts = entry | split(pat="</h3>") %}
+          {% set date = parts[0] | split(pat=">") | last | trim %}
+          <li><time datetime="{{ date }}">{{ date }}</time>{{ parts[1] | safe }}</li>
         {% endfor %}
       </ul>
     </div>

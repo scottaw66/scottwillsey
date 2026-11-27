@@ -33,7 +33,7 @@ derived artifacts in place (details in its docstring and README):
   is Tera-rendered before the markdown pass that builds `page.toc`, so
   `{{ page.toc | length }}` inside a body renders 0, and a component
   cannot see `page` at all. `templates/components.html` records this.
-- `content/listpages/` stubs, `data/changelog.json`, `display_modified` in
+- `content/listpages/` stubs, `data/changelog.json` (removed 2026-11-27: the homepage reads `changelog.md` itself), `display_modified` in
   `data/reviews_meta.json` (whose title/description/date are now source;
   the hook bumps the date there when a category's JSON is committed), and
   the alttext sort of `data/reviews/*.json`.
@@ -210,7 +210,8 @@ until then — global.css is served raw, so only its plain-CSS rules apply).
 - [x] Icons: 11 of ~25 inline SVGs as components in `templates/icons.html`
       (the ones core templates need); rest come with their pages
 - [x] `index.html` homepage (intro, LatestPosts×4, Changelog — entries
-      preprocessed to `data/changelog.json` by the converter, RecentUpdates,
+      preprocessed to `data/changelog.json` by the converter (gone since
+      2026-11-27: index.html reads changelog.md directly), RecentUpdates,
       Japanese banners)
 - [x] **List pages are converter-generated stubs** (`content/listpages/`,
       `path`-overridden to `/1`…`/18` and `/reads/1`…`/7`): Zola's paginator

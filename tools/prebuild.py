@@ -31,8 +31,9 @@ What it refreshes:
   5. data/reviews_meta.json — display_modified per category recomputed from
      that category's `date`. title/description/date in that file are hand
      (or hook) edited source; the file has no comments because JSON can't.
-  6. data/changelog.json — last three entries of content/pages/changelog.md,
-     markdown links turned into HTML, for the homepage.
+  (Until 2026-11-27 it also wrote data/changelog.json, the newest three
+  changelog entries for the homepage; templates/index.html now reads them
+  from content/pages/changelog.md itself.)
 
 It also fails the build on Astro-era image syntax left in a body
 (`![alt](../../assets/images/x.png)` outside code) — that means old
@@ -496,28 +497,6 @@ def refresh_reviews_meta() -> None:
     write_if_changed(f, json.dumps(meta, indent=2, ensure_ascii=False) + "\n")
 
 
-def write_changelog_json() -> None:
-    """Port of Changelog.astro's entry parsing: last 3 '### date' entries of
-    the changelog, image links stripped, markdown links → HTML. Templates
-    read the result via load_data (markdown munging is easier in Python)."""
-    body = (CONTENT / "pages" / "changelog.md").read_text()
-    body = re.sub(r"^\+\+\+\n.*?\n\+\+\+\n?", "", body, flags=re.S)
-    entries = [e for e in re.split(r"^### ", body, flags=re.M) if e.strip()]
-    out = []
-    for entry in entries[:3]:
-        date, *description = entry.split("\n")
-        desc = " ".join(description).strip()
-        desc = re.sub(r"\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)", "", desc)
-        desc = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", desc)
-        desc = re.sub(
-            r"\[([^\]]+)\]\(([^)]*\.(jpg|jpeg|png|gif|webp|svg)[^)]*)\)",
-            "", desc, flags=re.I)
-        desc = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', desc)
-        out.append({"date": date.strip(), "html": desc})
-    write_if_changed(DATA / "changelog.json",
-                     json.dumps({"entries": out}, indent=2, ensure_ascii=False) + "\n")
-
-
 def main() -> int:
     posts = sorted(p for p in CONTENT.glob("*.md") if p.name != "_index.md")
     reads = sorted(p for p in (CONTENT / "reads").glob("*.md") if p.name != "_index.md")
@@ -540,7 +519,6 @@ def main() -> int:
     write_review_stubs(counts, stub_names)
     prune_stale(LISTPAGES, stub_names)
     refresh_reviews_meta()
-    write_changelog_json()
 
     print(f"prebuild: {len(posts)} posts, {len(reads)} reads, {len(SINGLES)} singles checked; "
           f"list stubs /1…/{p_pages}, /reads/1…/{r_pages}, reviews "

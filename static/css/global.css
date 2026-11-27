@@ -162,6 +162,12 @@ main { flex: 1; }
 .board a:hover { color: var(--yellow); text-decoration-thickness: 0.18em; }
 .changelog { display: grid; gap: 1rem; margin: 0; padding: 0; list-style: none; font-size: 1.0625rem; line-height: 1.5; }
 .changelog time { display: block; font-weight: 700; color: var(--yellow); font-variant-numeric: tabular-nums; }
+/* Each entry is the changelog page's own HTML (templates/index.html), so its
+   paragraphs get the board's spacing here, and screenshots, which sit in
+   paragraphs of their own, are left out of the board. */
+.changelog li > :is(p, ul, ol) { margin: 0.4em 0 0; }
+.changelog li > :is(p, ul, ol):first-of-type { margin-top: 0; }
+.changelog p:has(img) { display: none; }
 /* #updates is the Recent Updates partial, which the pre-commit hook rewrites;
    #useful is the fixed list beside it. */
 .board :is(#updates, #useful) ul { display: grid; gap: 0.5rem; margin: 0; padding: 0; list-style: none; font-size: 1.125rem; }

@@ -8,6 +8,10 @@ template = "changelog.html"
 display_modified = "Monday, 04 Mar 2024 20:00:41"
 +++
 
+### 2026-11-27
+
+Updated podcast history scripts for Tripod app's listening history export.
+
 ### 2026-11-13
 
 Entirely new web design, ditching the Atari theme and going with something closer to the [BlueDragonfly](https://dragonfly.blue/) theme in color palette.
