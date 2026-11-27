@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "Sites and other stuff I like and that you should too."
-date = 2026-11-15T00:06:09-08:00
+date = 2026-11-27T13:19:39-08:00
 path = "/links"
 template = "links.html"
 [extra]
-display_modified = "Sunday, 15 Nov 2026 00:06:09"
+display_modified = "Friday, 27 Nov 2026 13:19:39"
 +++
 
 ## Contents
@@ -615,6 +615,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Lene Saile, developer and designer living in Madrid](https://www.lenesaile.com/)
 - [Lens - Check your meta tags, icons, and rss feeds](https://lens.rknight.me/)
 - [Lex's Games by Lex Friedman](https://lex.games/)
+- [LinkedIn CringeBot 3000](https://www.cringebot3000.com)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [LMNT](https://lmnt.me)
 - [Logging Sucks – Your Logs Are Lying To You](https://loggingsucks.com/)
@@ -1106,6 +1107,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [AI LABS](https://www.youtube.com/@AILABS-393)
 - [Alex & Ashley Adventures](https://www.youtube.com/@AlexAshleyAdventures)
 - [Alex Handover Photography](https://www.youtube.com/@AlexHandoverPhotography)
+- [Ali Diamond](https://www.youtube.com/@endingwithali)
 - [Amelia And JP Abroad](https://www.youtube.com/@AmeliaAndJP)
 - [Amelia Dimoldenberg](https://www.youtube.com/@AmeliaDimoldenberg)
 - [Andru Edwards](https://www.youtube.com/@Andru)
@@ -1180,6 +1182,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [hbomberguy](https://www.youtube.com/@hbomberguy)
 - [Honkology](https://www.youtube.com/@Honkology)
 - [Horizon3ai](https://www.youtube.com/@horizon3ai)
+- [Humanly Possible](https://www.youtube.com/@humanlypossibleshow)
 - [Hunter Creates Things](https://www.youtube.com/@huntercreatesthings)
 - [I've Had It](https://www.youtube.com/@ivehaditpodcast)
 - [Ian Worth](https://www.youtube.com/@ian_worth)
@@ -1214,7 +1217,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [Leslie Hanna](https://www.youtube.com/@LeslieDriven)
 - [Lewis Hamilton](https://www.youtube.com/@lewishamilton)
 - [Life Music And Everything Else](https://www.youtube.com/@lifemusicandeverythingelse4048)
-- [Listen In Colour with Rachel Walker Mason](https://www.youtube.com/@Listenincolourwithrachel)
 - [Local Japan Travelers](https://www.youtube.com/@LocalJapanTravelers)
 - [Logan Hallucinates](https://www.youtube.com/@loganhallucinates)
 - [Lost Then Found 로스트 덴 파운드](https://www.youtube.com/@lostthenfound)
@@ -1226,6 +1228,7 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [maigomika](https://www.youtube.com/@maigomika)
 - [Marcus Hutchins](https://www.youtube.com/@MalwareTechBlog)
 - [MarcusHenryPE](https://www.youtube.com/@MarcusHenryPE)
+- [Marques Brownlee](https://www.youtube.com/@mkbhd)
 - [Matt Gemmell](https://www.youtube.com/@MattGemmellAuthor)
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk)
 - [Mentour Pilot](https://www.youtube.com/@MentourPilot)
@@ -1288,7 +1291,6 @@ Lex Friedman, creator of many things including [Lex's Games by Lex Friedman](htt
 - [shia seoul vlog【Korea Travel Gourmet & Cafe】](https://www.youtube.com/@shia_seoulvlog)
 - [Shizuka Anderson](https://www.youtube.com/@ShizukaAnderson)
 - [Shu Matsuo Post](https://www.youtube.com/@shumatsuopost)
-- [Silicon Valley Girl](https://www.youtube.com/@SiliconValleyGirl)
 - [Simon Scrapes](https://www.youtube.com/@simonscrapes)
 - [sky](https://www.youtube.com/@i.sky10)
 - [Skybound Aviation](https://www.youtube.com/@SkyboundAviation03)

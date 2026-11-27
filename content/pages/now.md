@@ -1,22 +1,22 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-11-27T09:18:36-08:00
+date = 2026-11-27T13:19:39-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Friday, 27 Nov 2026 09:18:36"
+display_modified = "Friday, 27 Nov 2026 13:19:39"
 +++
 
 ## Current Personal Status
 >
-> Well, I completely redesigned this site and [Friends with Brews](https://friendswithbrews.com/)! The Friends with Brews one particularly I really, really love now.
+> My Claude Brain and dashboard (which I call Brain Control) is really becoming impressive. I have a ton of information at my fingertips and a lot of things happening automatically in the background to bring information to me instead of me digging around trying to find it. This includes everything from automatically generated meeting transcripts to to-dos to server documentation and automations, to inter-service search capability.
 >
 
 ## Current Projects
 
-- Website Design Vault and Skill
-- Setting up [Mikan Software](https://mikansoftware.app) - in progress
+- Moving scheduled tasks to Mikan (Mac mini)
+- Expanding consulting services
 
 ## Stuff I've recently enjoyed
 
@@ -54,96 +54,96 @@ display_modified = "Friday, 27 Nov 2026 09:18:36"
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_JaAn-rwwG6w.png" alt="The Scariest Religious Movement in America" />}}](https://www.youtube.com/watch?v=JaAn-rwwG6w&t=2438s)<div><p class="yt-video-channel">Channel – [fern](https://www.youtube.com/@fern-tv)</p><p class="yt-video-title">
-[The Scariest Religious Movement in America](https://www.youtube.com/watch?v=JaAn-rwwG6w&t=2438s)
+[{{<img src="yt_thumbs/20261127101246_WTFwZWgiXng.png" alt="Pilot's Thanksgiving Flights Turn Deadly!" />}}](https://www.youtube.com/watch?v=WTFwZWgiXng)<div><p class="yt-video-channel">Channel – [Pilot Debrief](https://www.youtube.com/@pilot-debrief)</p><p class="yt-video-title">
+[Pilot's Thanksgiving Flights Turn Deadly!](https://www.youtube.com/watch?v=WTFwZWgiXng)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_QnM-lEwsX_c.png" alt="What Nobody Is Saying About The FAA Ground Stop" />}}](https://www.youtube.com/watch?v=QnM-lEwsX_c)<div><p class="yt-video-channel">Channel – [Dan Debriefs](https://www.youtube.com/@dandebriefs)</p><p class="yt-video-title">
-[What Nobody Is Saying About The FAA Ground Stop](https://www.youtube.com/watch?v=QnM-lEwsX_c)
+[{{<img src="yt_thumbs/20261127101246_x-fBu4FlP2Y.png" alt="The Claude Code Hack Exposes a Much Bigger Problem | Threat Wire" />}}](https://www.youtube.com/watch?v=x-fBu4FlP2Y)<div><p class="yt-video-channel">Channel – [Hak5](https://www.youtube.com/@hak5)</p><p class="yt-video-title">
+[The Claude Code Hack Exposes a Much Bigger Problem | Threat Wire](https://www.youtube.com/watch?v=x-fBu4FlP2Y)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_zTBCMBS0UEo.png" alt="Daniel Ricciardo Reacts To Iconic & Hilarious Career Moments | Salesforce: Inside F1" />}}](https://www.youtube.com/watch?v=zTBCMBS0UEo)<div><p class="yt-video-channel">Channel – [FORMULA 1](https://www.youtube.com/@Formula1)</p><p class="yt-video-title">
-[Daniel Ricciardo Reacts To Iconic & Hilarious Career Moments | Salesforce: Inside F1](https://www.youtube.com/watch?v=zTBCMBS0UEo)
+[{{<img src="yt_thumbs/20261127101246_lo7BOQSwW4c.png" alt="My Second Brain Has a Watchdog: Brain Control, a Mac Mini and a Cranberry Sour #fwb #beer #review" />}}](https://www.youtube.com/watch?v=lo7BOQSwW4c)<div><p class="yt-video-channel">Channel – [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)</p><p class="yt-video-title">
+[My Second Brain Has a Watchdog: Brain Control, a Mac Mini and a Cranberry Sour #fwb #beer #review](https://www.youtube.com/watch?v=lo7BOQSwW4c)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_fTyaFhdkhGc.png" alt="Is the Electoral College on its way out?" />}}](https://www.youtube.com/watch?v=fTyaFhdkhGc&pp=0gcJCccHAYcqIYzv)<div><p class="yt-video-channel">Channel – [Takes™ by Jamelle Bouie](https://www.youtube.com/@jamelle-bouie)</p><p class="yt-video-title">
-[Is the Electoral College on its way out?](https://www.youtube.com/watch?v=fTyaFhdkhGc&pp=0gcJCccHAYcqIYzv)
+[{{<img src="yt_thumbs/20261127101246_lZ7xHh4Iz84.png" alt="Peter Makes a Frappé (With Instant Coffee) Before Athens #fwb #coffee #review #athens" />}}](https://www.youtube.com/watch?v=lZ7xHh4Iz84)<div><p class="yt-video-channel">Channel – [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)</p><p class="yt-video-title">
+[Peter Makes a Frappé (With Instant Coffee) Before Athens #fwb #coffee #review #athens](https://www.youtube.com/watch?v=lZ7xHh4Iz84)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_elLc1gQnDXY.png" alt="These Are the Best Beginner Cameras for YouTube in 2026" />}}](https://www.youtube.com/watch?v=elLc1gQnDXY&t=13s)<div><p class="yt-video-channel">Channel – [Riverside](https://www.youtube.com/@Riversidefm)</p><p class="yt-video-title">
-[These Are the Best Beginner Cameras for YouTube in 2026](https://www.youtube.com/watch?v=elLc1gQnDXY&t=13s)
+[{{<img src="yt_thumbs/20261127101246_F7QcpCl0Lg4.png" alt="This NEW Claude Update Literally Changed Everything" />}}](https://www.youtube.com/watch?v=F7QcpCl0Lg4)<div><p class="yt-video-channel">Channel – [Nick Saraev](https://www.youtube.com/@nicksaraev)</p><p class="yt-video-title">
+[This NEW Claude Update Literally Changed Everything](https://www.youtube.com/watch?v=F7QcpCl0Lg4)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_46cU_Yp22UQ.png" alt="Father of 20-year-old Learjet co-pilot speaks out in 1st interview" />}}](https://www.youtube.com/watch?v=46cU_Yp22UQ&t=17s)<div><p class="yt-video-channel">Channel – [Good Morning America](https://www.youtube.com/@GMA)</p><p class="yt-video-title">
-[Father of 20-year-old Learjet co-pilot speaks out in 1st interview](https://www.youtube.com/watch?v=46cU_Yp22UQ&t=17s)
+[{{<img src="yt_thumbs/20261127101246_nJbm9l8lomc.png" alt="Fox host SUDDENLY GETS IT" />}}](https://www.youtube.com/watch?v=nJbm9l8lomc&pp=0gcJCUYIAYcqIYzv)<div><p class="yt-video-channel">Channel – [David Pakman](https://www.youtube.com/@thedavidpakmanshow)</p><p class="yt-video-title">
+[Fox host SUDDENLY GETS IT](https://www.youtube.com/watch?v=nJbm9l8lomc&pp=0gcJCUYIAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_eC-k-I4ktNs.png" alt="Missing Louisiana Women: What We Know About Thomas Morris #crimejunkies #truecrimeinvestigation" />}}](https://www.youtube.com/watch?v=eC-k-I4ktNs)<div><p class="yt-video-channel">Channel – [Crime Junkie](https://www.youtube.com/@CrimeJunkie)</p><p class="yt-video-title">
-[Missing Louisiana Women: What We Know About Thomas Morris #crimejunkies #truecrimeinvestigation](https://www.youtube.com/watch?v=eC-k-I4ktNs)
+[{{<img src="yt_thumbs/20261127101246_MSEYLTkWqwg.png" alt="It's too late Ferrari, there’s no going back now." />}}](https://www.youtube.com/watch?v=MSEYLTkWqwg)<div><p class="yt-video-channel">Channel – [Tommo](https://www.youtube.com/@TommoMcCluskey)</p><p class="yt-video-title">
+[It's too late Ferrari, there’s no going back now.](https://www.youtube.com/watch?v=MSEYLTkWqwg)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_Of9ylhwSkJE.png" alt="Claude Just Changed: The 6 Big Updates You Need to Know" />}}](https://www.youtube.com/watch?v=Of9ylhwSkJE&t=210s)<div><p class="yt-video-channel">Channel – [Duncan Rogoff | Learn Claude Code](https://www.youtube.com/@duncanrogoff)</p><p class="yt-video-title">
-[Claude Just Changed: The 6 Big Updates You Need to Know](https://www.youtube.com/watch?v=Of9ylhwSkJE&t=210s)
+[{{<img src="yt_thumbs/20261127101246_hI0quHKZsaQ.png" alt="You're Not Jensen Huang" />}}](https://www.youtube.com/watch?v=hI0quHKZsaQ&t=51s)<div><p class="yt-video-channel">Channel – [Friends with Brews](https://www.youtube.com/@FriendswithBrewsPodcast)</p><p class="yt-video-title">
+[You're Not Jensen Huang](https://www.youtube.com/watch?v=hI0quHKZsaQ&t=51s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_3drYss0zakA.png" alt="The Real Reason Why all Planes were Grounded in USA" />}}](https://www.youtube.com/watch?v=3drYss0zakA&t=3s)<div><p class="yt-video-channel">Channel – [Captain Denys](https://www.youtube.com/@DDWorldForyou)</p><p class="yt-video-title">
-[The Real Reason Why all Planes were Grounded in USA](https://www.youtube.com/watch?v=3drYss0zakA&t=3s)
+[{{<img src="yt_thumbs/20261127101246_gF09cRVoX_w.png" alt="JENSEN RETURNS TO NVIDIA. THE CIRCUS MUST CONTINUE." />}}](https://www.youtube.com/watch?v=gF09cRVoX_w&t=1088s)<div><p class="yt-video-channel">Channel – [Gamers Nexus](https://www.youtube.com/@GamersNexus)</p><p class="yt-video-title">
+[JENSEN RETURNS TO NVIDIA. THE CIRCUS MUST CONTINUE.](https://www.youtube.com/watch?v=gF09cRVoX_w&t=1088s)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_1fBhLGhQQ2M.png" alt="Claude Fable 5.2 Just Solved Video Editing... (WILD RESULTS)" />}}](https://www.youtube.com/watch?v=1fBhLGhQQ2M)<div><p class="yt-video-channel">Channel – [Brock Mesarich | AI for Non Techies](https://www.youtube.com/@BrockMesarich)</p><p class="yt-video-title">
-[Claude Fable 5.2 Just Solved Video Editing... (WILD RESULTS)](https://www.youtube.com/watch?v=1fBhLGhQQ2M)
+[{{<img src="yt_thumbs/20261127101246_JZpQTRp7gyU.png" alt="Why Max Verstappen and George Russell dislike each other so much" />}}](https://www.youtube.com/watch?v=JZpQTRp7gyU)<div><p class="yt-video-channel">Channel – [THE RACE](https://www.youtube.com/@WeAreTheRace)</p><p class="yt-video-title">
+[Why Max Verstappen and George Russell dislike each other so much](https://www.youtube.com/watch?v=JZpQTRp7gyU)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_uuLXOV49Cv4.png" alt="I Completely Lost It! | Grammy Member Reacts to Ren 'Hi Ren' for the First Time" />}}](https://www.youtube.com/watch?v=uuLXOV49Cv4&t=1772s)<div><p class="yt-video-channel">Channel – [Listen In Colour with Rachel Walker Mason](https://www.youtube.com/@Listenincolourwithrachel)</p><p class="yt-video-title">
-[I Completely Lost It! | Grammy Member Reacts to Ren 'Hi Ren' for the First Time](https://www.youtube.com/watch?v=uuLXOV49Cv4&t=1772s)
+[{{<img src="yt_thumbs/20261127101246_sPIg3-1Upvo.png" alt="Ultracode" />}}](https://www.youtube.com/watch?v=sPIg3-1Upvo&pp=0gcJCUYIAYcqIYzv)<div><p class="yt-video-channel">Channel – [Chase AI](https://www.youtube.com/@Chase-H-AI)</p><p class="yt-video-title">
+[Ultracode](https://www.youtube.com/watch?v=sPIg3-1Upvo&pp=0gcJCUYIAYcqIYzv)
 </p></div>
 
 </div>
 
 <div class="yt-video">
 
-[{{<img src="yt_thumbs/20261114233221_K4e8ZVoqaOE.png" alt="I React to Hi Ren for the First Time" />}}](https://www.youtube.com/watch?v=K4e8ZVoqaOE)<div><p class="yt-video-channel">Channel – [Life Music And Everything Else](https://www.youtube.com/@lifemusicandeverythingelse4048)</p><p class="yt-video-title">
-[I React to Hi Ren for the First Time](https://www.youtube.com/watch?v=K4e8ZVoqaOE)
+[{{<img src="yt_thumbs/20261127101246_sGF2h9vg_0k.png" alt="Become Better Than 99% of Claude Users (Do These 6 Things Instead)" />}}](https://www.youtube.com/watch?v=sGF2h9vg_0k&t=7s)<div><p class="yt-video-channel">Channel – [Brooke Wright - AI Strategist + Educator](https://www.youtube.com/@WrightMode)</p><p class="yt-video-title">
+[Become Better Than 99% of Claude Users (Do These 6 Things Instead)](https://www.youtube.com/watch?v=sGF2h9vg_0k&t=7s)
 </p></div>
 
 </div>
