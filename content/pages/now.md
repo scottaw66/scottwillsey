@@ -1,11 +1,11 @@
 +++
 title = "Now (or Recently)"
 description = "Things I'm doing or find interesting now (or recently)"
-date = 2026-11-15T00:06:09-08:00
+date = 2026-11-27T09:18:36-08:00
 path = "/now"
 template = "now.html"
 [extra]
-display_modified = "Sunday, 15 Nov 2026 00:06:09"
+display_modified = "Friday, 27 Nov 2026 09:18:36"
 +++
 
 ## Current Personal Status
@@ -26,16 +26,16 @@ display_modified = "Sunday, 15 Nov 2026 00:06:09"
 
 <div class="podcast-episodes">
 
-[{{<img src="oc_artwork/856638516291548-62b5986c-9a10-4df6-ba44-43f90bd4ecfa.png" alt="The Red Flags Guys" />}}](https://overcast.fm/+MLG7J259w) [Off Track with Hinch and Rossi – The Red Flags Guys](https://overcast.fm/+MLG7J259w)
-[{{<img src="oc_artwork/6020850061197604-73750755-2900-40a3-a83a-8fd79a97afc9.png" alt="Why CISOs need to read the room" />}}](https://overcast.fm/+BVj7mUkwSQ) [Risky Business Features – Why CISOs need to read the room](https://overcast.fm/+BVj7mUkwSQ)
-[{{<img src="oc_artwork/4031462348786625-8b18232a-8f04-4c94-abdd-503bb1018f44.png" alt="Srsly Risky Biz: Iranian hacks with Russian characteristics" />}}](https://overcast.fm/+5Sl_k5i8E) [Risky Bulletin – Srsly Risky Biz: Iranian hacks with Russian characteristics](https://overcast.fm/+5Sl_k5i8E)
-{{<img src="oc_artwork/5816355588285006-34cbfb31-93cc-4922-904b-246bfb3bf0f8.png" alt="Jensen Huang is out. What did China want from him?" />}} Decoder: Ad-Free Edition – Jensen Huang is out. What did China want from him?
-{{<img src="oc_artwork/6409853929120577-e9a0655d-114d-4600-850a-ad7bc9962f95.png" alt="BBV10s 1999 Revisited: France (Round 7)" />}} Bring Back V10s (Members) – BBV10s 1999 Revisited: France (Round 7)
-[{{<img src="oc_artwork/4031462293984047-230dbad4-670d-4adc-a697-e3d21e088169.png" alt="Risky Bulletin: France blames Iran for supermarket freezer hacks" />}}](https://overcast.fm/+5Sl_X1Uy8) [Risky Bulletin – Risky Bulletin: France blames Iran for supermarket freezer hacks](https://overcast.fm/+5Sl_X1Uy8)
-[{{<img src="oc_artwork/1698966407249483-ef51079a-06bc-417c-83fc-0135a401a18c.png" alt="Dozing Arguments" />}}](https://overcast.fm/+YJM3Ewfks) [Judge John Hodgman – Dozing Arguments](https://overcast.fm/+YJM3Ewfks)
-[{{<img src="oc_artwork/613330865437091-db33adf1-b0a5-4103-a731-5c77cb228f79.png" alt="Risky Business #859 — ARTEX damage approaches crisis levels" />}}](https://overcast.fm/+It0jhdOaM) [Risky Business – Risky Business #859 — ARTEX damage approaches crisis levels](https://overcast.fm/+It0jhdOaM)
-[{{<img src="oc_artwork/6289457034193440-92d32a0d-460d-48a2-9dbb-fd7fee8ee3d0.png" alt="Safari is back, and it’s woke now" />}}](https://overcast.fm/+BZYOlRaaiA) [Comfort Zone – Safari is back, and it’s woke now](https://overcast.fm/+BZYOlRaaiA)
-{{<img src="oc_artwork/5121671659872411-eb246a8f-9a1c-4b62-8979-a97237b3a99e.png" alt="Republicans Learn X Is the Echo Chamber" />}} The 404 Media Podcast (Premium Feed) – Republicans Learn X Is the Echo Chamber
+[{{<img src="oc_artwork/cybersecurity-headlines-3297075c-cb3a-44b3-89bd-56b3b66fa323.png" alt="ARTEX framework thrives, autonomous cyberattack warning, Australian travel agent breach" />}}](https://cisoseries.libsyn.com/artex-framework-thrives-autonomous-cyberattack-warning-australian-travel-agent-breach) [Cybersecurity Headlines – ARTEX framework thrives, autonomous cyberattack warning, Australian travel agent breach](https://cisoseries.libsyn.com/artex-framework-thrives-autonomous-cyberattack-warning-australian-travel-agent-breach)
+[{{<img src="oc_artwork/risky-business-5a369048-6a79-4ce6-a231-09ee281865b1.png" alt="Risky Business #861 -- You can’t trust AI routers" />}}](https://risky.biz/RB861/) [Risky Business – Risky Business #861 -- You can’t trust AI routers](https://risky.biz/RB861/)
+{{<img src="oc_artwork/the-race-f1-podcast-members-2655d257-7ee1-4327-bec7-0f4470ac195b.png" alt="In-Car Insights: Jon and Josh on an interactive driver-steward meeting and more from Qatar" />}} The Race F1 Podcast (Members) – In-Car Insights: Jon and Josh on an interactive driver-steward meeting and more from Qatar
+[{{<img src="oc_artwork/offline-with-jon-favreau-0b5b430e-9798-43d3-b0b3-38859f24c41e.png" alt="What Gang Members Taught Father Greg Boyle About Love" />}}](https://audioboom.com/posts/8979744) [Offline with Jon Favreau – What Gang Members Taught Father Greg Boyle About Love](https://audioboom.com/posts/8979744)
+{{<img src="oc_artwork/the-race-f1-podcast-members-2655d257-7ee1-4327-bec7-0f4470ac195b.png" alt="Jon and Josh on how Ferrari's handled its latest clash fallout [ad-free]" />}} The Race F1 Podcast (Members) – Jon and Josh on how Ferrari's handled its latest clash fallout [ad-free]
+[{{<img src="oc_artwork/cybersecurity-headlines-3297075c-cb3a-44b3-89bd-56b3b66fa323.png" alt="The Department of Know: What's happening with outages?" />}}](https://cisoseries.libsyn.com/the-department-of-know-whats-happening-with-outages) [Cybersecurity Headlines – The Department of Know: What's happening with outages?](https://cisoseries.libsyn.com/the-department-of-know-whats-happening-with-outages)
+[{{<img src="oc_artwork/cybersecurity-headlines-3297075c-cb3a-44b3-89bd-56b3b66fa323.png" alt="Credit giants follow the vendor trail, European Commission systems take sick leave, SBC loses 1.6M customers' data" />}}](https://cisoseries.libsyn.com/credit-giants-follow-the-vendor-trail-european-commission-systems-take-sick-leave-sbc-loses-16m-customers-data) [Cybersecurity Headlines – Credit giants follow the vendor trail, European Commission systems take sick leave, SBC loses 1.6M customers' data](https://cisoseries.libsyn.com/credit-giants-follow-the-vendor-trail-european-commission-systems-take-sick-leave-sbc-loses-16m-customers-data)
+[{{<img src="oc_artwork/ai-684ea792-f5ed-45de-a67e-48d94c877345.png" alt="2026年11月9日: ChatGPT Gif生成、Claude Ultra制限撤廃、CodexとChatGPT使用量統合" />}}](https://podcasters.spotify.com/pod/show/nagaraai/episodes/2026119-ChatGPT-GifClaude-UltraCodexChatGPT-e3s0n6g) [ながらAIラジオ – 2026年11月9日: ChatGPT Gif生成、Claude Ultra制限撤廃、CodexとChatGPT使用量統合](https://podcasters.spotify.com/pod/show/nagaraai/episodes/2026119-ChatGPT-GifClaude-UltraCodexChatGPT-e3s0n6g)
+[{{<img src="oc_artwork/risky-bulletin-ffe4d542-ccd0-4359-953f-d4f95efea990.png" alt="Between Two Nerds: Time for Five Eyes YOLO hacking" />}}](https://risky.biz/BTN191/) [Risky Bulletin – Between Two Nerds: Time for Five Eyes YOLO hacking](https://risky.biz/BTN191/)
+[{{<img src="oc_artwork/the-weekly-planet-bcf976fb-5cbf-42c4-ac1c-daa7bb92d6d9.png" alt="Virtuosity - Caravan Of Garbage" />}}](https://shows.acast.com/theweeklyplanet/episodes/virtuosity-caravan-of-garbage) [The Weekly Planet – Virtuosity - Caravan Of Garbage](https://shows.acast.com/theweeklyplanet/episodes/virtuosity-caravan-of-garbage)
 
 </div>
 

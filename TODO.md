@@ -25,6 +25,6 @@ processes (`resize_image` reads them and writes WebP to
 Renaming to e.g. `assets/images/` is mechanical but touches: the `img`
 component in `templates/components.html`, `zola_content.ASSETS_IMAGES_DIR`
 and the per-script paths in website-scripts (new-blog-post,
-process_blog_image, review-images, overcast, youtube, food-link), `dev.sh`'s
+process_blog_image, review-images, podcast-history, youtube, food-link), `dev.sh`'s
 watch list, and the Retrobatch workflows' output folders. Do it in one pass
 with a real run of each script afterwards.
